@@ -1,0 +1,26 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20362",
+        "RecordId": "022-000008084",
+        "Surname": "Natta",
+        "Forename": "Federico",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Federigo"
+            },
+            {
+                "AlternativeForename": "Giacinto"
+            }
+        ],
+        "DateText": "1575-1627",
+        "StartDate": "1575",
+        "EndDate": "1627",
+        "Nationality": {
+            "NationalityId": "370",
+            "Value": "of Casale Monferrato"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20261",
+        "RecordId": "022-000007889",
+        "Surname": "Alberti",
+        "Forename": "Leon Battista",
+        "AlternativeName": {
+            "AlternativeSurname": "Alberti",
+            "AlternativeForename": "Leo Baptista"
+        },
+        "DateText": "1404-1472",
+        "StartDate": "1404",
+        "EndDate": "1472",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

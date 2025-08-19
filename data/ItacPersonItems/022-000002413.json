@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15859",
+        "RecordId": "022-000002413",
+        "Surname": "Patrizi",
+        "Forename": "Fabio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Patriti"
+        },
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Member of the Olimpici in Vicenza",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

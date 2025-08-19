@@ -1,0 +1,75 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007882",
+        "WorkId": "000886",
+        "ShortTitle": "Gli affetti giovenili opera morale. Di Tomaso Buoni:",
+        "LongTitle": "cittadino lucchese: accademico romano. Nella quale si rappresenta il Dottorato, il Cavallierato, et la Religione. Con sei intermedi apparenti: il caos la natura, la religione, l`arme le lettere l`Immortalita`. Recitata nell`illustre, & molto magnifica Academia di Murano. A gli illustri Signori Presidenti della magnifica Academia di Murano: il signor Alessandro Tasca; il signore Hieronimo Cabianca; il Sig. Piero Martinengo; et il Sig. Filippo Emanuele Fondatore Ottimo, et Compagni.",
+        "ItacAcademyItem": {
+            "AcademyId": "0468",
+            "RecordID": "021-000007878",
+            "Value": "Accademia dei Vigilanti - Murano"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1605",
+        "DedicationPlaceDate": "Della`Accademia 14 Settembre 1605",
+        "Shelfmark": "526f9(2)",
+        "Subjects": "Moral play",
+        "Language": "Italian",
+        "Pagination": "95r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17390",
+                "RecordID": "022-000004230",
+                "Value": "Buoni,Tomaso,,16th c.-17th c."
+            }
+        },
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0468",
+                "RecordID": "021-000007878",
+                "Value": "Accademia dei Vigilanti - Murano"
+            },
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17282",
+                    "RecordID": "022-000004097",
+                    "Value": "Tasca,Alessandro,,"
+                },
+                {
+                    "PersonId": "17312",
+                    "RecordID": "022-000004135",
+                    "Value": "Martinengo,Piero,,"
+                },
+                {
+                    "PersonId": "17280",
+                    "RecordID": "022-000004095",
+                    "Value": "Emanuele,Filippo,,"
+                },
+                {
+                    "PersonId": "17337",
+                    "RecordID": "022-000004163",
+                    "Value": "Cabianca,Girolamo,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17350",
+                "RecordID": "022-000004180",
+                "Value": "Colosini,Giovanni Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55073",
+            "Value": "023-000007882_55073_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006032",
+        "WorkId": "000715",
+        "ShortTitle": "Pallade bambina",
+        "LongTitle": "overo Biblioteca delli opuscoli volanti che si conservano nel palazzo delli signori Altieri. Trattenimento estivo di Carlo Cartari orvietano. Accademico Humorista, Intrecciato, Infecondo , et Arcadico di Roma. Anioso di Gubbio, Apatista di Firenze, Concorde di Ravenna, et Incitato di Faenza. Parte Prima. Composta l`Anno 1680. Ma data in luce l`Anno 1694. Alli signori prencipi Emilio, Gio: Battista, e Girolamo Altieri",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0125",
+                "RecordID": "021-000005612",
+                "Value": "Accademia degli Infecondi"
+            },
+            {
+                "AcademyId": "0140",
+                "RecordID": "021-000006003",
+                "Value": "Accademia degli Intrecciati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1694",
+        "DedicationPlaceDate": "In Roma l`Anno di Nostra Salute, 1680",
+        "Shelfmark": "11900bbb7",
+        "Subjects": "Bibliography of ephemerals",
+        "Language": "Italian|Latin",
+        "Pagination": "120",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18906",
+                "RecordID": "022-000006001",
+                "Value": "Cartari,Carlo,,1614 - 1697"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18904",
+                    "RecordID": "022-000005998",
+                    "Value": "Sperellus,Alexander,,"
+                },
+                {
+                    "PersonId": "18932",
+                    "RecordID": "022-000006033",
+                    "Value": "Forlani,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "18345",
+                    "RecordID": "022-000005361",
+                    "Value": "Ferrari,Thomas Maria,Cardinal,1649 - 1716"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, Si videbitur Reverendissimo patri Magistro Sacri Palatij Apostolici. Sperellus Episc. Interamnen. Vicesg. Imprimatur, Fr. Franciscus Maria Forlani Reverendiss. P. Fr. Thomae Mariae Ferrari Sac. Apost. Pal. Mag. Soc. Ord. Praed.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18933",
+                    "RecordID": "022-000006034",
+                    "Value": "Altieri,Emilio,,"
+                },
+                {
+                    "PersonId": "18934",
+                    "RecordID": "022-000006035",
+                    "Value": "Altieri,Gio: Battista,,"
+                },
+                {
+                    "PersonId": "18935",
+                    "RecordID": "022-000006036",
+                    "Value": "Altieri,Girolamo,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18927",
+                "RecordID": "022-000006026",
+                "Value": "de Lazzari,Francesco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54559",
+            "Value": "023-000006032_54559_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17511",
+        "RecordId": "022-000004387",
+        "Surname": "Rampazetto",
+        "Forename": "Giovanni Antonio",
+        "Gender": "Male",
+        "DateText": "fl.1582-1607",
+        "StartDate": "fl.1582",
+        "EndDate": "1607",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "See edit16 for more details",
+        "Role": "Printer",
+        "TypographicReference": "Q56|Z470|V441",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

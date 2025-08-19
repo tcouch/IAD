@@ -1,0 +1,104 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001493",
+        "WorkId": "00255",
+        "ShortTitle": "Raccolta di concerti da camera e da chiesa con due variate voci nell`organo spinetta o chitarrone.",
+        "LongTitle": "Trasmandata da D. Adriano Banchieri Bolognese Abbate benemerito Olivetano e Academico Filomuso. All`Illustrissimo et reverendissimo suo signore e padrone colendissimo Il sig[nor] cardinale Borghese",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1626; 1625",
+        "DedicationPlaceDate": "Bologna 25 February 1626",
+        "Shelfmark": "k.8.d.14",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Illustration": "Woodcut | Academician`s emblem",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7702",
+                "RecordID": "022-000001477",
+                "Value": "Banchieri,Adriano,,1568 - 1634"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7703",
+                    "RecordID": "022-000001478",
+                    "Value": "Borghese-Caffarelli,Scipione,Cardinal,1576 - 1633"
+                },
+                {
+                    "PersonId": "7704",
+                    "RecordID": "022-000001479",
+                    "Value": "Grimaii,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "7705",
+                    "RecordID": "022-000001480",
+                    "Value": "Magni,Bartholomeo,,fl. 1613-43"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7705",
+                "RecordID": "022-000001480",
+                "Value": "Magni,Bartholomeo,,fl. 1613-43"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "53897",
+            "Value": "023-000001493_53897_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53907",
+            "Value": "023-000001493_53907_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Il Virtuoso ritrovo academico del Dissonante publicamente praticato con variati concerti musicali a 1. 2. 3. 4. 5. voci o stromenti nell`Accademia de Filomusi opera XLIX. Di Adriano Banchieri Abbate Olivetano Il Dissonante e nell`Accademia de Filomusi di Bologna odierno Prencipe. Dedicata all`Illust[rissi]mo e rev[erendissi]mo sig[nor] Giovanni Battista Grimaii del Patriarcato Ierosolimitano e elemosiniero di Sua Maest\u00e0 Cesarea et c. Soprano o Ten[ore]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7702",
+                            "RecordID": "022-000001477",
+                            "Value": "Banchieri, Adriano, , 1568-1634"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Tenore. Il Principiante fanciullo a due voci. Che sotto la disciplina d`autori illustri impara solfizare note e mutationie parole solo et asuefar l`orecchio in compagnia. Opera quarantesima sesta. Di Adriano Banchieri Bolognese abate Benemerito Olivetano. Nell`Accademia de Virtuosi Musici Bolognesi Il Disonante. Canon a Quatro. La scala naturale e il tempo insegna.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7702",
+                            "RecordID": "022-000001477",
+                            "Value": "Banchieri, Adriano, , 1568-1634"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dialoghi concerti sinfonie e canzoni. da cantarsi con due voci in variati modi nell`organo Opera XLVIII. di Adriano banchieri Bolognese. abate benemerito Olivetano. dedicata al molto reverendo padre D. Giacomo Butrigari abbate di San Michele in Bosco. Con privilegio. Canto o Tenore.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7702",
+                            "RecordID": "022-000001477",
+                            "Value": "Banchieri, Adriano, , 1568-1634"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

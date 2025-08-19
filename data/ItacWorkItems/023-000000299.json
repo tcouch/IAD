@@ -1,0 +1,87 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000299",
+        "WorkId": "00020",
+        "ShortTitle": "Le lagrime di Maria Vergine",
+        "LongTitle": "Poema eroico del signor conte Ridolfo Campeggi nell`Accademia dei Gelati Il Rugginoso. Con gli argomenti a ciascun pianto d`incerto autore",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1617",
+        "Shelfmark": "638.i.1",
+        "Subjects": "Virgin Mary",
+        "Language": "Italian",
+        "Illustration": "Engraved title page | The Virgin Mary | Engraved dedication page | Four women with various tools | Woodcut | Typographic ornament",
+        "Pagination": "pp. 189",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5039",
+                "RecordID": "022-000000041",
+                "Value": "Campeggi,Ridolfo,Count,1565-1624"
+            }
+        },
+        "Notes": "For Engraver/Illustrator see the monogram in Campeggi, Filarmindo (1607) and Rime (1608). Dedication signed by a certain Floriano Apolide. Typographic ornament on the colophon; words read In Deo",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                },
+                {
+                    "PersonId": "5401",
+                    "RecordID": "022-000000222",
+                    "Value": "Baldassinus,Marcellus,,"
+                },
+                {
+                    "PersonId": "5233",
+                    "RecordID": "022-000000225",
+                    "Value": "de Garex,Paulus,,\u20201643"
+                }
+            ]
+        },
+        "CensorsAgreement": "Don Marcellus Baldass. Clericus Regularis S. Pauli pro Illustrissimo et Reverendissimo Cardinal Archiepiscopo Bonon. Imprimatur Fr. Hyeronimus Onuphrius Bononiae Archigymnasio Sac. Litterarum publicus interpres Theologus Collegiatus ac S. Oficii consultor pro Reverendissimo P. M. Paulo de Garex Inqu. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5207",
+                "RecordID": "022-000000201",
+                "Value": "de` Medici,Maria,Queen of France,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5278",
+                "RecordID": "022-000000267",
+                "Value": "Valesio,Giovanni,,1561 - 1640"
+            }
+        },
+        "EngraverReference": "Bartsch 4002.039",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5257",
+                "RecordID": "022-000000248",
+                "Value": "Bonomi,Sebastiano,,fl.1613-1623"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "53099",
+            "Value": "023-000000299_53099_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53116",
+            "Value": "023-000000299_53116_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

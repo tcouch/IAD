@@ -1,0 +1,221 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0130",
+        "RecordId": "021-000005733",
+        "Name": "Notti Vaticane (Accademia delle)",
+        "AlternativeName": "Noctes Vaticanae",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1562",
+        "EndDate": "1565",
+        "DateText": "1562-1565",
+        "Notes": "The Academy was founded by San Carlo Borromeo. On the history of the Academy, see Luigi Berra, L`Accademia delle Notti Vaticane fondata da San Carlo Borromeo (1915)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18671",
+                "RecordId": "022-000005735",
+                "Name": "Borromeo,Carlo (Santo),Cardinal,1538 - 1584",
+                "Nickname": "Caos",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9763",
+                "RecordId": "022-000000613",
+                "Name": "Sfrondati,Paolo,,",
+                "Nickname": "Obbligato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18673",
+                "RecordId": "022-000005737",
+                "Name": "Gonzaga,Francesco,Cardinal,1538 - 1566",
+                "Nickname": "Infiammato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18674",
+                "RecordId": "022-000005738",
+                "Name": "Gonzaga,Cesare,,1536 - 1575",
+                "Nickname": "Scontento",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18675",
+                "RecordId": "022-000005739",
+                "Name": "Taverna,Ludovico,Count of Landriano|Bishop of Lodi,",
+                "Nickname": "Costante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18676",
+                "RecordId": "022-000005740",
+                "Name": "Lunati,Pietro Antonio,,",
+                "Nickname": "Trasformato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18677",
+                "RecordId": "022-000005741",
+                "Name": "Dolfin,Giovanni,Bishop of Torcello,1529 - 1584",
+                "Nickname": "Leale",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18679",
+                "RecordId": "022-000005743",
+                "Name": "Ferrero,Pier Francesco,Bishop of Vercelli|Cardinal,1510 - 1566",
+                "Nickname": "Sereno",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18680",
+                "RecordId": "022-000005744",
+                "Name": "Antoniano,Silvio,Cardinal,1540 - 1603",
+                "Nickname": "Risoluto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18681",
+                "RecordId": "022-000005745",
+                "Name": "Valiero,Agostino,Bishop of Verona|Cardinal,1531 - 1606",
+                "Nickname": "Obbediente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18682",
+                "RecordId": "022-000005746",
+                "Name": "Simonetta,Alessandro,,",
+                "Nickname": "Ansioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9230",
+                "RecordId": "022-000001527",
+                "Name": "Speroni degli Alvarotti,Sperone,,1500-1588",
+                "Nickname": "Nestore",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18683",
+                "RecordId": "022-000005747",
+                "Name": "Amalteo,Giovanni Battista,,1525 - 1603",
+                "Nickname": "Sollecito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17517",
+                "RecordId": "022-000004396",
+                "Name": "Gallio,Tolomeo,Cardinal,1527 - 1607",
+                "Nickname": "Segreto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18686",
+                "RecordId": "022-000005750",
+                "Name": "Riverente,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18687",
+                "RecordId": "022-000005751",
+                "Name": "Umile,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18688",
+                "RecordId": "022-000005752",
+                "Name": "Novello,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18689",
+                "RecordId": "022-000005753",
+                "Name": "Stentato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18690",
+                "RecordId": "022-000005754",
+                "Name": "Pellegrino,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18691",
+                "RecordId": "022-000005755",
+                "Name": "Fedele,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18868",
+                "RecordId": "022-000005953",
+                "Name": "N.,N.,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18869",
+                "RecordId": "022-000005954",
+                "Name": "NN.,N.,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19091",
+                "RecordId": "022-000006216",
+                "Name": "Porcia,Bartolomeo,,1540(?) - 1578",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18685",
+                "RecordId": "022-000005749",
+                "Name": "Gonzaga,Curzio,,1530 - 1599",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5623",
+                "RecordId": "022-000000693",
+                "Name": "Navagero,Bernardo,,1507-?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

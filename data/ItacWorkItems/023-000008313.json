@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008313",
+        "WorkId": "000930",
+        "ShortTitle": "Cento sonetti di Mutio Manfredi. Il Fermo  Academicio Informe, &c.",
+        "LongTitle": "In Lode di Donne di Ravenna.",
+        "ItacAcademyItem": {
+            "AcademyId": "0149",
+            "RecordID": "021-000006234",
+            "Value": "Informi - Ravenna (Accademia degli)"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "99",
+            "PublicationPlaceItalianName": "Ravenna",
+            "PublicationPlaceEnglishName": "Ravenna"
+        },
+        "PublicationYear": "1602",
+        "DedicationPlaceDate": "1 January, 1602, Ravenna",
+        "Shelfmark": "11429.de.3.(2.)",
+        "Content": "100 sonnets each dedicated to a different woman.",
+        "Subjects": "Poetry|Women",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5602",
+                "RecordID": "022-000000659",
+                "Value": "Manfredi,Muzio,,ca.1535-1609"
+            }
+        },
+        "Notes": "The volume as a whole is dedicated to Livia Feltrio della Rovere.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20625",
+                "RecordID": "022-000008422",
+                "Value": "Della Rovere,Livia Feltrio,Duchess of Urbino,1585-1641"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20626",
+                "RecordID": "022-000008423",
+                "Value": "Giovannelli,Eredi di Pietro,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007502",
+        "WorkId": "000839",
+        "ShortTitle": "Prolusio academica de motu trepidationis terrae mutato in illa centro grauitatis",
+        "LongTitle": "auspicijs eminentiss. & reuerendiss. principis Marcelli Sanctacrucii S. R. E. Card. et Episc. Tiburtini Habita a Io. Ssephano Linievvski Polono in Academia Parthenia Collegij Romani Societatis Iesu",
+        "ItacAcademyItem": {
+            "AcademyId": "0153",
+            "RecordID": "021-000006443",
+            "Value": "Accademia Partenia (Roma)"
+        },
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1653",
+        "Shelfmark": "G5484(28)",
+        "Subjects": "Geology",
+        "Language": "Latin",
+        "Pagination": "64",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20019",
+                "RecordID": "022-000007503",
+                "Value": "Liniewski,Johannes Stephanus ,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19149",
+                    "RecordID": "022-000006291",
+                    "Value": "Fanus,Vincentius,,"
+                },
+                {
+                    "PersonId": "19152",
+                    "RecordID": "022-000006294",
+                    "Value": "Candido,Vincenzo,Master of the Sacred Palace,1573 - 1654"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverendiss. P. Mag. Sac. Pal. Apost. A Episc. Verul. Vicesregens. -- Imprimatur. Fr, Vincentius Fanus magist. & Socius Reverendiss. Pat. Fr. Vincentij Candidi Magist. Sac. Pal. Apost. Ord. Praedicatorum",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20021",
+                "RecordID": "022-000007505",
+                "Value": "Santacroce,Marcello,Cardinal,1619-1674"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20022",
+                "RecordID": "022-000007507",
+                "Value": "Fei,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55026",
+            "Value": "023-000007502_55026_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

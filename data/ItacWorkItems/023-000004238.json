@@ -1,0 +1,42 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004238",
+        "WorkId": "000542",
+        "ShortTitle": "Delle Tavole Astronomiche Della Luna Perpetue per anni 19.",
+        "LongTitle": "Libro Secondo Di Filippo Finella.",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1634",
+        "Shelfmark": "718.i.4.",
+        "Subjects": "Astrology|Astrological Medicine",
+        "Language": "Italian",
+        "Illustration": "A plate on the title page|Armorial bearing",
+        "Pagination": "pp. 32",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15221",
+                "RecordID": "022-000001263",
+                "Value": "Beltrano,Ottavio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

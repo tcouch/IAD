@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17562",
+        "RecordId": "022-000004451",
+        "Surname": "Gabrielli",
+        "Forename": "Carlo Maria",
+        "DateText": "fl.1686 - 1694",
+        "StartDate": "fl.1686",
+        "EndDate": "1694",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Short biography in Bergamini, `Dai Gelati alla Renia`, p. 32.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

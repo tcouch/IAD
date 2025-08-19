@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17674",
+        "RecordId": "022-000004569",
+        "Surname": "Rota",
+        "Forename": "Isidoro",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Rotta"
+        },
+        "DateText": "fl.1580-?",
+        "StartDate": "fl.1580",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

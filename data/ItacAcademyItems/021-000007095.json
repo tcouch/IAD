@@ -1,0 +1,108 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0308",
+        "RecordId": "021-000007095",
+        "Name": "Simposiaci (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Three glasses full of wine, one with red and two with white, on a table",
+        "Motto": "Quem non fecere disertum",
+        "StartDate": "1662",
+        "DateText": "1662-",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19719",
+                "RecordId": "022-000007094",
+                "Name": "Giordani,Vitale,,1633 - 1711",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19062",
+                "RecordId": "022-000006179",
+                "Name": "Palazzi,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19720",
+                "RecordId": "022-000007096",
+                "Name": "Piacenti,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19721",
+                "RecordId": "022-000007097",
+                "Name": "Milani,Giovanni Michele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19722",
+                "RecordId": "022-000007098",
+                "Name": "Tonduti,Onorato,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19723",
+                "RecordId": "022-000007099",
+                "Name": "Camerata,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19724",
+                "RecordId": "022-000007100",
+                "Name": "Soardi,Zaccaria,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19725",
+                "RecordId": "022-000007101",
+                "Name": "Nencini,Bartolomeo,Cavaliere,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19726",
+                "RecordId": "022-000007102",
+                "Name": "Asclepio,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19727",
+                "RecordId": "022-000007103",
+                "Name": "Venerii,Paolo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19728",
+                "RecordId": "022-000007104",
+                "Name": "Specchi,Francesco Orazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

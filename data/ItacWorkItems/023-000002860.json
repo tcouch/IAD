@@ -1,0 +1,60 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002860",
+        "WorkId": "000369",
+        "ShortTitle": "Lettura di M. Benedetto Varchi",
+        "LongTitle": "sopra un sonetto della gelosia di Mons. della Casa Fatta nella celebratissima Accademia degl`Infiammati a Padova",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "67",
+            "PublicationPlaceItalianName": "Mantova",
+            "PublicationPlaceEnglishName": "Mantua",
+            "PublicationPlaceLatinName": "Mantua"
+        },
+        "PublicationYear": "1545",
+        "DedicationPlaceDate": "Venice 26 February 1545",
+        "Shelfmark": "687.e.27.(2.)",
+        "Subjects": "Academic lesson",
+        "Language": "Italian",
+        "Pagination": "19",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9206",
+                "RecordID": "022-000001503",
+                "Value": "Varchi,Benedetto,,1503 - 1565"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16223",
+                "RecordID": "022-000002861",
+                "Value": "Stampa,Gaspara,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16222",
+                "RecordID": "022-000002859",
+                "Value": "Sansovino,Francesco,,1521-1583"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16224",
+                "RecordID": "022-000002862",
+                "Value": "Ruffinello,V,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55317",
+            "Value": "023-000002860_55317_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

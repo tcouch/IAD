@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16523",
+        "RecordId": "022-000003220",
+        "Surname": "Borghese",
+        "Forename": "Piermaria",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1599/1600-1642",
+        "StartDate": "1599/1600",
+        "EndDate": "1642",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

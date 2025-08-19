@@ -1,0 +1,60 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008403",
+        "WorkId": "000950",
+        "ShortTitle": "Scena d`huomini illustri",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Incogniti-Venezia (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "Subjects": "Illustrated biographies",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19787",
+                "RecordID": "022-000007217",
+                "Value": "Gualdo Priorato,Galeazzo,,1606-1678"
+            }
+        },
+        "Notes": "On this book, see Laura Gaetani`s entry, in Le Muse tra i libri (Padua, 2009)",
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18520",
+                    "RecordID": "022-000005554",
+                    "Value": "Piccini,Giacomo,,1619?-1660"
+                },
+                {
+                    "PersonId": "20120",
+                    "RecordID": "022-000007624",
+                    "Value": "Georgi,Giovanni,,fl.1617-1671"
+                },
+                {
+                    "PersonId": "16368",
+                    "RecordID": "022-000003032",
+                    "Value": "Merlo,Giovanni,,"
+                },
+                {
+                    "PersonId": "20615",
+                    "RecordID": "022-000008404",
+                    "Value": "Cotta,Giacomo,,1627-1689"
+                },
+                {
+                    "PersonId": "20616",
+                    "RecordID": "022-000008405",
+                    "Value": "Beurensis,Nicasio,,"
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

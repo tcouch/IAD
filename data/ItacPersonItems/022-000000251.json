@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5260",
+        "RecordId": "022-000000251",
+        "Surname": "Bulifon",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Bulifon",
+            "AlternativeForename": "Antoine"
+        },
+        "DateText": "1649-c.1700",
+        "StartDate": "1649",
+        "EndDate": "c.1700",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": "Printer|Author|Publisher",
+        "TypographicReference": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

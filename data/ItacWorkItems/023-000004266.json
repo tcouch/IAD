@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004266",
+        "WorkId": "000553",
+        "ShortTitle": "Philippi Phinellae De Duabus Conceptionis et Respirationis Figuris",
+        "LongTitle": "Et de connexione inter eas, & figuram Coelestem.",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "75",
+            "PublicationPlaceItalianName": "Anversa",
+            "PublicationPlaceEnglishName": "Antwerp",
+            "PublicationPlaceLatinName": "Antuerpia"
+        },
+        "PublicationYear": "1650",
+        "Shelfmark": "1141.c.12.(3.)",
+        "Subjects": "Astronomy|Medicine",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 52",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,1584 - ?"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17413",
+                "RecordID": "022-000004265",
+                "Value": "Cordemoy,Odo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17398",
+                "RecordID": "022-000004241",
+                "Value": "Moretum,Balthassarem,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53949",
+            "Value": "023-000004266_53949_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

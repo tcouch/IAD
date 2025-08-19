@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18341",
+        "RecordId": "022-000005356",
+        "Surname": "Malatesta Garuffi",
+        "Forename": "Giuseppe",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Garufi"
+        },
+        "DateText": "ca.1650 - 1727",
+        "StartDate": "ca.1650",
+        "EndDate": "1727",
+        "Nationality": {
+            "NationalityId": "159",
+            "Value": "of Rimini"
+        },
+        "Notes": "Director of the Gambalunga Library in Rimini between 1678 and 1694, and director of the periodical Il Genio dei letterati between 1704 and 1708.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

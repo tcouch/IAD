@@ -1,0 +1,104 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002000",
+        "WorkId": "000286",
+        "ShortTitle": "Opere di M. Sperone Speroni degli Alvarotti",
+        "LongTitle": "Tratte da MSS originali. Tomo secondo.",
+        "ItacAcademyItem": {
+            "AcademyId": "0024",
+            "RecordID": "021-000001981",
+            "Value": "Accademia degli Elevati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1740",
+        "Shelfmark": "629.k.15",
+        "Subjects": "Discourse on breast-feeding",
+        "Language": "Italian",
+        "Pagination": "pp. 552",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9230",
+                "RecordID": "022-000001527",
+                "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15473",
+                    "RecordID": "022-000001998",
+                    "Value": "Giraldi Cinzio,Giambattista,,1504-1573"
+                },
+                {
+                    "PersonId": "9230",
+                    "RecordID": "022-000001527",
+                    "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+                }
+            ]
+        },
+        "Notes": "He mentions listening to the Discorso in the Accademia degli Elevati in Padua. \nHe writes Zacco about the attempt to re-create the Accademia degli Elevati.\nGiraldi`s letter was sent to the Prince of the Academy. For a critical edition of Giraldi`s letter, see Christina Roaf (1982). A ms version in British Library, Add. 12038, ff. 185r-189r, with date 27 December 1558.",
+        "CensorsAgreement": "Con licenza de` superiori, e privilegio.",
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15476",
+                    "RecordID": "022-000002002",
+                    "Value": "Dalle Laste,N.,,"
+                },
+                {
+                    "PersonId": "15477",
+                    "RecordID": "022-000002003",
+                    "Value": "Forcellini,M.,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15475",
+                "RecordID": "022-000002001",
+                "Value": "Occhi,Domenico,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Discorso del lattare i figliuoli dalle madri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Joannis Baptista Gyraldi Epistola",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15473",
+                            "RecordID": "022-000001998",
+                            "Value": "Giraldi Cinzio,Giambattista,,1504-1573"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al magn(ifico) Signor Bartolomeo Zacco in Padova. 16 January 1563",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9230",
+                            "RecordID": "022-000001527",
+                            "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

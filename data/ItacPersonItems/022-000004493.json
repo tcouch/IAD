@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17599",
+        "RecordId": "022-000004493",
+        "Surname": "Gaetani",
+        "Forename": "Antonio",
+        "AlternativeName": {
+            "AlternativeSurname": "Gaetano",
+            "AlternativeForename": "Antonio"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1566 - 1624",
+        "StartDate": "1566",
+        "EndDate": "1624",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001565",
+        "WorkId": "00107",
+        "ShortTitle": "Lettere di diversi huomini illustri.",
+        "LongTitle": "Raccolte da diversi libri. Di nuovo corrette e ristampate. Con gli argomenti per ciascuna delle materie di che elle trattano. Al molto illustre signor Giovanni Pinadello",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "50",
+            "PublicationPlaceItalianName": "Treviso",
+            "PublicationPlaceEnglishName": "Treviso",
+            "PublicationPlaceLatinName": "Tarvisium"
+        },
+        "PublicationYear": "1603",
+        "DedicationPlaceDate": "Treviso 1st August 1603",
+        "Shelfmark": "1084.e.10",
+        "Language": "Italian",
+        "Pagination": "pp. 528",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9255",
+                "RecordID": "022-000001551",
+                "Value": "Bonfadio,Iacopo,,"
+            }
+        },
+        "Notes": "Volume is incomplete",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "9257",
+                "RecordID": "022-000001553",
+                "Value": "Niger Viglevano,Bartholomaeus,,"
+            }
+        },
+        "CensorsAgreement": "Ego frater Bartholomaeus Niger Viglevano ord. min. Conven. S. Francisci Doctor Theologus. Hunc librum demandato R. P. Inquisitoris totum diliogenter vidi ac legi scilicet Lettere di diversi Eccellentiss huomini raccolte da diversi libri: plurima ab eo substuli et multis in locis purgavi adeo ut nihil modo sit quod S. R. E. aut Princibus Christianis nec non bonis moribus adversetur sed potius plurimum emolumentum typis mandatum illum legentibus a...laturum iudico.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9259",
+                "RecordID": "022-000001555",
+                "Value": "Pinadello,Giovanni,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9258",
+                "RecordID": "022-000001554",
+                "Value": "Zanetti,Fabrizio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9258",
+                "RecordID": "022-000001554",
+                "Value": "Zanetti,Fabrizio,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Lettera al magnifico Conte Fortunato Martinengo",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9255",
+                        "RecordID": "022-000001551",
+                        "Value": "Bonfadio, Iacopo, ,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

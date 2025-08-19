@@ -1,0 +1,89 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002709",
+        "WorkId": "000342",
+        "ShortTitle": "La Messalina di Francesco Pona",
+        "LongTitle": "All`Illustrissimo signor Gio: Francesco Loredano Nobile Veneto. edizion seconda accresciuta",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Incogniti (Accademia degli) - Venezia"
+            },
+            {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Incogniti-Venezia (Accademia degli)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1627",
+        "DedicationPlaceDate": "Verona 25 novembre 1627",
+        "Shelfmark": "10606bbb5|1074h11(2)",
+        "Subjects": "Short story (Novella)",
+        "Language": "Italian",
+        "Pagination": "58",
+        "Marginalia": "No",
+        "Edition": "2nd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20107",
+                "RecordID": "022-000007609",
+                "Value": "Pona,Francesco,,1594-1655"
+            }
+        },
+        "Notes": "On this edition there is not the printer`s name, but the volume contains a foreword: `Lo stampatore a chi legge`. The copy with shelfmark 1074h11(2) is identical to the other copy, but it is part of the following volume: La Lucerna di Eureta Misoscolo Academico Filarmonico In questa ultima edizione da lui accresciuta in molti luoghi. Con la Messalina et altre composizioni del medesimo. all`Illustrissimo signor Conte Leonardo Martinengo. per il Serenissimo dominio veneto Governator di Verona. In Venetia, 1628. Con licenza de` superiori e privilegio.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17761",
+                "RecordID": "022-000004663",
+                "Value": "Loredan,Gianfrancesco,,1607-1661"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55295",
+            "Value": "023-000002709_55295_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "La Messalina dello Assicurato Academico Incognito (pp. 5-36)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20107",
+                            "RecordID": "022-000007609",
+                            "Value": "Pona,Francesco,,1594-1655"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Della contraria forza di due belli occhi Discorso di Francesco Pona Academico Filarmonico al Molto illustre signor Lorenzo Bonsignori (pp. 37-48)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20107",
+                            "RecordID": "022-000007609",
+                            "Value": "Pona,Francesco,,1594-1655"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione funerale di Francesco Pona Academico Filarmonico per l'eccellentissimo Sig. Andrea Chiocco. Al molto illsutre e molto reverendo signor Lorenzo Pignoria (pp. 49-58)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20107",
+                            "RecordID": "022-000007609",
+                            "Value": "Pona,Francesco,,1594-1655"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

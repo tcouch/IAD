@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003787",
+        "WorkId": "000503",
+        "ShortTitle": "Senafila Comedia pastorale",
+        "LongTitle": "Fatta dal Disioso della Congrega degl`Insipidi di Siena",
+        "ItacAcademyItem": {
+            "AcademyId": "0061",
+            "RecordID": "021-000003726",
+            "Value": "Congrega degli Insipidi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1585",
+        "Shelfmark": "162.a.51",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16981",
+                "RecordID": "022-000003771",
+                "Value": "Tregiani,Domenico di Gismondo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53899",
+            "Value": "023-000003787_53899_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

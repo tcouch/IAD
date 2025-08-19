@@ -1,0 +1,93 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0347",
+        "RecordId": "021-000007158",
+        "Name": "Aldina (Accademia)",
+        "AlternativeName": "Academia filellenica|Neakademia",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1502",
+        "EndDate": "1504; 1512",
+        "DateText": "1502-1504; 1512-1514",
+        "Notes": "There is uncertainty over the real existence of the Aldine Academy. The latest contribution on the history of this Academy is in Mario Infelise` Manuzio, Aldo, il Vecchio` in DBI. One more publication, not in British Library collections, is Baptistae Egnatii Oratio in laudem Benedicti Prunuli recitata in qua et iuvenilis aetatis, et sacri ordinis obiter tractata defensio continetur (Venezia: ex academia Aldi Ro. pri. Kal. Octob., 1502). On the Accademia Aldina, see Carlo Dionisotti, Aldo Manuzio, Umanista e editore (1995) e Mario Infelise, `Manuzio, Aldo`, in DBI,",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19742",
+                "RecordId": "022-000007157",
+                "Name": "Manuzio,Aldo,,1449 - 1515",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15204",
+                "RecordId": "022-000001246",
+                "Name": "Cipelli,Giovanni Battista,,1478-1554",
+                "Nickname": "Battista Egnazio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15307",
+                "RecordId": "022-000001347",
+                "Name": "Cretese,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15291",
+                "RecordId": "022-000001331",
+                "Name": "Roseto,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15306",
+                "RecordId": "022-000001346",
+                "Name": "Forteguerri,Scipione,,1466-1515",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15285",
+                "RecordId": "022-000001325",
+                "Name": "Menocchio,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15260",
+                "RecordId": "022-000001268",
+                "Name": "Canal ,Paolo,,1481-1508",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20854",
+                "RecordId": "022-000008720",
+                "Name": "Bondino,Alessandro,,after1450-after1505",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20855",
+                "RecordId": "022-000008721",
+                "Name": "Zocca,Niccolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

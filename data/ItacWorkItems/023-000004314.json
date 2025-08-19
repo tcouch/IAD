@@ -1,0 +1,75 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004314",
+        "WorkId": "000561",
+        "ShortTitle": "Il Sole",
+        "LongTitle": "Panegirico In lode del Beato Giacomo Della Marca. Per l`Accademia delli Erranti. Del P.D. Giacinto Mutio C.R. Somasco.",
+        "ItacAcademyItem": {
+            "AcademyId": "0034",
+            "RecordID": "021-000002609",
+            "Value": "Accademia degli Erranti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1635",
+        "Shelfmark": "112.b.17.",
+        "Subjects": "Academic Speeches",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 17",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17452",
+                "RecordID": "022-000004315",
+                "Value": "Mutio,Giacinto,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16165",
+                    "RecordID": "022-000002781",
+                    "Value": "Aulisius,Io[annes] Dominicus,Canon,"
+                },
+                {
+                    "PersonId": "15123",
+                    "RecordID": "022-000001164",
+                    "Value": "Tamburellus,Felix,General Vicar,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur\nFelix Tamburellus Vic. Gen. D. Io. Dominicus Aulisius Canonicus deput.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17453",
+                "RecordID": "022-000004316",
+                "Value": "Doria ,Nicolo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17454",
+                "RecordID": "022-000004317",
+                "Value": "Serra,Pietro Francesco,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15179",
+                "RecordID": "022-000001221",
+                "Value": "Montanaro,Domenico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54733",
+            "Value": "023-000004314_54733_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

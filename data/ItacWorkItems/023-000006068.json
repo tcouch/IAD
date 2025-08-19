@@ -1,0 +1,118 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006068",
+        "WorkId": "000718",
+        "ShortTitle": "Il fosforo o` vero la pietra bolognese",
+        "LongTitle": "Preparata per rilucere fra` l`ombre. fatica di Marc` Antonio Cellio. Dell`Accademia fisicomatematica di Roma, e dal medesimo consecrata all`Eccellentissimo prencipe Signor Marc` Antonio Borghese",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0141",
+                "RecordID": "021-000006038",
+                "Value": "Accademia Fisico-matematica"
+            },
+            {
+                "AcademyId": "0125",
+                "RecordID": "021-000005612",
+                "Value": "Accademia degli Infecondi"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1680",
+        "DedicationPlaceDate": "Roma li 28 Luglio 1680",
+        "Shelfmark": "1036a27",
+        "Subjects": "Chemistry|Science",
+        "Language": "Italian",
+        "Pagination": "102",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18960",
+                "RecordID": "022-000006063",
+                "Value": "Cellio,Marc` Antonio,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18342",
+                    "RecordID": "022-000005357",
+                    "Value": "Saulini,Nicolo` Francesco,,"
+                },
+                {
+                    "PersonId": "18924",
+                    "RecordID": "022-000006023",
+                    "Value": "Moleti,Antonino,,fl.1688 - 1691"
+                },
+                {
+                    "PersonId": "18967",
+                    "RecordID": "022-000006072",
+                    "Value": "Pavolucci,Gioseppe,,"
+                }
+            ]
+        },
+        "Notes": "Pavolucci, Saulini, and Moleti sign as `Accademico Infecondo`. Images include frontispiece and titlepage.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15451",
+                "RecordID": "022-000001968",
+                "Value": "Borghese,Marcantonio,Prince of Sulmona,1660 - 1729"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18312",
+                "RecordID": "022-000005322",
+                "Value": "Vannacci,Giuseppe,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54557",
+            "Value": "023-000006068_54557_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54558",
+            "Value": "023-000006068_54558_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sonetto: `Prendi, o signor, questa ch` a te sacrai`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18967",
+                            "RecordID": "022-000006072",
+                            "Value": "Pavolucci,Gioseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto: `D`alati vanti i vivi rai contende`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18342",
+                            "RecordID": "022-000005357",
+                            "Value": "Saulini,Nicolo` Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. .. Cellio si toccano anco i pregi della sua singolare virtu` nella formatione de` suoi canocchiali - sonetto: `Se a geometre linee il guardo assegni`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18924",
+                            "RecordID": "022-000006023",
+                            "Value": "Moleti,Antonino,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

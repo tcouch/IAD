@@ -1,0 +1,32 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0485",
+        "RecordId": "021-000007977",
+        "Name": "Animosi-Cremona (Accademia degli)",
+        "City": {
+            "CityId": "115",
+            "CityItalianName": "Cremona",
+            "CityEnglishName": "Cremona",
+            "CityLatinName": "Cremonae"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "15453",
+                "RecordId": "022-000001972",
+                "Name": "Cocchi,Carlo,,",
+                "Nickname": "Il Rincorato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7709",
+                "RecordId": "022-000001484",
+                "Name": "Monteverdi,Claudio Gian Antonio,,1567-1643",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

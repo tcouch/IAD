@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17566",
+        "RecordId": "022-000004455",
+        "Surname": "Maggi",
+        "Forename": "Carlo Maria",
+        "DateText": "1630 - 1699",
+        "StartDate": "1630",
+        "EndDate": "1699",
+        "Nationality": {
+            "NationalityId": "76",
+            "Value": "Milanese"
+        },
+        "Notes": "For details regading his membership among the Accesi, see Bergamini, `Dai Gelati alla Renia`. Publications non in BL collections include: Rime varie di CM. Maggi accademico Gelato ed Acceso, Bologna, 1696. Dedication to Fava, with mention of the Accademia degli Accesi, is in the Bolognese 1689 edition of his Rime.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

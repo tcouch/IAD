@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19130",
+        "RecordId": "022-000006267",
+        "Surname": "Salviati",
+        "Forename": "Filippo",
+        "Gender": "Male",
+        "DateText": "1582-1614",
+        "StartDate": "1582",
+        "EndDate": "1614",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Galileo`s pupil, joined the Lincei in 1612.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

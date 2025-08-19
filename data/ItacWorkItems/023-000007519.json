@@ -1,0 +1,109 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007519",
+        "WorkId": "000842",
+        "ShortTitle": "Delle Notizie Istoriche Della Citta Di Messina. Prima Parte.",
+        "LongTitle": "Nella quale si ragiona primieramente delle qualit\u00e0 naturali, dipoi de` primi fondatori di essa Citt\u00e0, accennandosi finalmente le cose pi\u00f9 degne di memoria, che di tempo in tempo sono intervenute infino a gli anni del Mondo 4052. Di Placido Reina nell`Accademia della Fucina l`Offuscato",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1658",
+        "Shelfmark": "176.e.7.",
+        "Subjects": "History of Messina",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Armorial bearing",
+        "Pagination": "398",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18954",
+                "RecordID": "022-000006057",
+                "Value": "Reina,Placido,,? - 1671"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18623",
+                    "RecordID": "022-000005677",
+                    "Value": "Fortunatus,,General Vicar,"
+                },
+                {
+                    "PersonId": "18155",
+                    "RecordID": "022-000005121",
+                    "Value": "Bisignano,Antonio,Canon,"
+                },
+                {
+                    "PersonId": "20030",
+                    "RecordID": "022-000007523",
+                    "Value": "Sersale,Antonio Maria,,"
+                },
+                {
+                    "PersonId": "20031",
+                    "RecordID": "022-000007524",
+                    "Value": "Gregorius ,Petrus,Canon,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Approbatio.\nHistoricas Messanensis Urbis Notitias, hoc primo volumine opera, & studio D. Placidi Reyna comprehensas, attent\u00e8, seri\u00f2, lubenterq; perlegi, quumq; nec Fidei Catholicae principijs, nec pijs, optimisque moribus quidquam dissonum contineant; im\u00f2 quum eruditionibus, sententijs, selectissimisque monumentis splendorem, Mamertinis praesertim, summum allaturis exundent, dignas omnin\u00f2 censeo, ut non minus praelo, quam aeternitati committantur.\nD. Antonius Maria Sersale G. R. Sacrae Theologiae Lector, librorum Censor, ac Confessariorum examini Praefectus.\nImprimatur\nD. Fortunatus Vic. Gen.\nIll. Domine Regens praesidens. Opus hoc (delle Notizie Istoriche della Citt\u00e0 di Messina Prima Parte) D. Placidi Reyna elaboratissimum opus, attent\u00e8 perlegi, ac fan\u00e8 vald\u00e8 eruditum, & ipsius erga patriam, benemeritos apud cives conspicuam mirific\u00e8 benevolentiam proferens non mod\u00f2; im\u00f2 & bonis moribus, ac Regni huius Sanctionibus apprim\u00e8 concors inveni. Unde lucubrationibus his tot inter eximias illustrium scriptorum autoritates praecellentibus, meum, quum quale sit iudicium, tua ex commissione adijcere tenear, haud vereor in approbationis sententiam libenter descendere. Condignas equidem, & autoris ingenio, & ut eidem concives sibi ipsis unanimes synceram non immerit\u00f2 propensionem tam ingeniosissimo, atque ingenti studio debitam profiteri dignoscant, fateor mehercule, & testor. Quapropter, ut in lucem prodeant, meritissimas arbitror. messanae decimo septimo calendes Novembris millesimi sexcentesimi quinquagesimi septimi.\nV.I.D.D. Antoninus Bisignano Canonicus protometropolitanae messinensis Ecclesiae.\nImprimatur\nR. D. Petrus Gregorius P.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18222",
+                    "RecordID": "022-000005204",
+                    "Value": "Marquett,Thomaso,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19178",
+                    "RecordID": "022-000006328",
+                    "Value": "Gotho,Raffaello,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19441",
+                    "RecordID": "022-000006659",
+                    "Value": "Cirino,Tommaso,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19417",
+                    "RecordID": "022-000006628",
+                    "Value": "Lipezzi,Lorenzo,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19387",
+                    "RecordID": "022-000006593",
+                    "Value": "Gregori ,Carlo,Senator of Messina|Knight of the Order of the Star,"
+                },
+                {
+                    "PersonId": "19340",
+                    "RecordID": "022-000006535",
+                    "Value": "Zuccarato,Francesco,Senator of Messina,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18622",
+                "RecordID": "022-000005676",
+                "Value": "Eredi di Brea ,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55219",
+            "Value": "023-000007519_55219_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55220",
+            "Value": "023-000007519_55220_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

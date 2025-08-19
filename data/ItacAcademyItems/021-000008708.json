@@ -1,0 +1,108 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0596",
+        "RecordId": "021-000008708",
+        "Name": "Avvocati (Accademia degli)",
+        "City": {
+            "CityId": "64",
+            "CityItalianName": "Verona",
+            "CityEnglishName": "Verona",
+            "CityLatinName": "Veronae"
+        },
+        "StartDate": "1675",
+        "EndDate": "1676",
+        "DateText": "1675-1676",
+        "Notes": "For a comment on this Academy, how it was formed, the reasons why it was dismantled, and the list of members, see Michele Maylender, Storia delle Accademie d`Italia, ad vocem. Maylender indicates that manuscript minutes of the meetings can be found in ms 1459 of the Biblioteca Comunale di Verona. See also Corrado Pecorella, `Note per la classificazione della Accademie italiane dei secoli XVI e XVIII`, in Studi Sassaresi, 1, serie 3, pp. 206-231, for a short comment on the activities taking place in the Academy.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20843",
+                "RecordId": "022-000008709",
+                "Name": "Tracca,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20844",
+                "RecordId": "022-000008710",
+                "Name": "Nicolini,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20845",
+                "RecordId": "022-000008711",
+                "Name": "Oliva,Vettor,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20846",
+                "RecordId": "022-000008712",
+                "Name": "Vicipali,Raimondo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20847",
+                "RecordId": "022-000008713",
+                "Name": "da Lisca,Giovan Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20848",
+                "RecordId": "022-000008714",
+                "Name": "Campagna,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20849",
+                "RecordId": "022-000008715",
+                "Name": "Aleardi,Gasparo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20850",
+                "RecordId": "022-000008716",
+                "Name": "Santilia,Pietro Bernardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20851",
+                "RecordId": "022-000008717",
+                "Name": "Ruffoni,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20852",
+                "RecordId": "022-000008718",
+                "Name": "Moschi,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20853",
+                "RecordId": "022-000008719",
+                "Name": "Grandis,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

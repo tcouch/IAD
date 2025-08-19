@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15099",
+        "RecordId": "022-000001140",
+        "Surname": "Perna",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "DateText": "1522-1582",
+        "StartDate": "1522",
+        "EndDate": "1582",
+        "Nationality": {
+            "NationalityId": "158",
+            "Value": "of Lucca"
+        },
+        "Notes": "Active in Basel between 1557 and 1582",
+        "Role": "Printer",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

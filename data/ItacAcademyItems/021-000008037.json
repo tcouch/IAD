@@ -1,0 +1,36 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0505",
+        "RecordId": "021-000008037",
+        "Name": "Concordi-Ferrara (Accademia dei)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1579",
+        "EndDate": "?",
+        "DateText": "1579-?",
+        "Notes": "Publications related to the Concordi Academy, but not in British Library collections, include: Matthaei Stuffii Viennensis n. Austrii p. IV quiritium auditoris Academiae Concordum principis Methodica in divina philosophia, utroque iure, & communi nature speculatione; theoremata, in almo Ferrariensi gymnasio disputanda, proposita ad serenissimum Alphonsum II Atestinum magnum Ferrariae ducem. (Ferrariae: typis Victorij Baldinj, 1581).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20356",
+                "RecordId": "022-000008078",
+                "Name": "Canani,Tommaso,,?-1590",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20358",
+                "RecordId": "022-000008080",
+                "Name": "Stuffio,Mattheus ,,16th c.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

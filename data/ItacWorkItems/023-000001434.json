@@ -1,0 +1,78 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001434",
+        "WorkId": "00202",
+        "ShortTitle": "Napoli Sacra",
+        "LongTitle": "Di D. Cesare D`Engenio Caracciolo Napolitano. Ove oltre le vere origini e fundationi di tutte le Chiese | Monasterij | Spadali | & altri luoghi sacri della Citt\u00e0 di Napoli e suoi Borghi. Si tratta di tutti li Corpi e Reliquie di Santi e Beati vi si ritrovano | con un breve compendio di lor vite e dell\u2019opere pie vi si fanno | Si descrivono gl\u2019Epitaffij | & Inscritioni sin hora sono & erano per l\u2019adietro in detti luoghi. Si fa anco mentione di molt\u2019altri huomini Illustri | s\u00ec per santit\u00e0 di vita e dignit\u00e0 come per lettere & armi | pittura | scoltura | havendosi contezza di molte recondite historie cosi sacre come profane. |  Con dui trattati brevi | uno de Cemiterij e l\u2019altro dell\u2019Ordini di Cavalieri",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1623",
+        "DedicationPlaceDate": "Naples 15 December 1623",
+        "Shelfmark": "663.d.9. | C. 73.b.19.",
+        "Content": "15006 epigrams to 15219 | 15270",
+        "Subjects": "Description of Naples",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcuts | city of Naples",
+        "Pagination": "first 11 pages unnumbered | pp. 676 | unnumbered last 12 pages",
+        "Marginalia": "No",
+        "Edition": "1st",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15219",
+                "RecordID": "022-000001261",
+                "Value": "D`Engenio,Cesare,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15221",
+                "RecordID": "022-000001263",
+                "Value": "Beltrano,Ottavio,,"
+            }
+        },
+        "Notes": "On pp. 269-270 the author describes the palace where the Otiosi Academy was relocated in 1616",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15222",
+                    "RecordID": "022-000001264",
+                    "Value": "Boschius,Alexander,General Vicar ,"
+                },
+                {
+                    "PersonId": "15223",
+                    "RecordID": "022-000001265",
+                    "Value": "Gallacinus,Rutilius,Canon,"
+                },
+                {
+                    "PersonId": "15224",
+                    "RecordID": "022-000001266",
+                    "Value": "Longus,Ioannes,Canon,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur; Alexander Boschius Episc. Car. Vic. Gen. ; Rutilius Gallacinus Canonicus Deput. Vidit reg. fol. 42. ; Ioannes Longus Canonicus Neapolitanus & Curi\u00e6 Archiepiscop. Theologus deputatus vidit. ; Alexander Ruffus Canonicus S. Th. & V. I. D.",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Ad Perill. D. Octavium Giraldum",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15006",
+                        "RecordID": "022-000001048",
+                        "Value": "Zizzae , Prosper Antonius , ,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16047",
+        "RecordId": "022-000002619",
+        "Surname": "Cioccarello",
+        "Forename": "Bartolomeo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Chioccarellus",
+                "AlternativeForename": "Bartholomeus"
+            },
+            {
+                "AlternativeSurname": "Chioccarello",
+                "AlternativeForename": "Bartholomeo"
+            }
+        ],
+        "DateText": "1575-1647?",
+        "StartDate": "1575",
+        "EndDate": "1647?",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Role": "Author|Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

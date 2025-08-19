@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001448",
+        "WorkId": "00176",
+        "ShortTitle": "Lettere Del Cavalier Marino",
+        "LongTitle": "Gravi | Argute | Facete | Non pi\u00f9 stampate. | Con alcune poesie dell`istesso.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "55",
+            "PublicationPlaceItalianName": "Torino",
+            "PublicationPlaceEnglishName": "Turin",
+            "PublicationPlaceLatinName": "Augusta Taurinorum"
+        },
+        "PublicationYear": "1629",
+        "DedicationPlaceDate": "Turin 1st July 1629",
+        "Shelfmark": "1492.d.18.",
+        "Content": "author`s Correspondence",
+        "Subjects": "Correspondence",
+        "Language": "Latin|Italian",
+        "Illustration": "A woodcut showing two winged horses holding a caduceus|",
+        "Pagination": "pp. 317",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5605",
+                "RecordID": "022-000000671",
+                "Value": "Marino,Giambattista,,1569-1625"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15343",
+                "RecordID": "022-000001382",
+                "Value": "Cavalleris (brothers),,,"
+            }
+        },
+        "Notes": "On p. 72 the author mentions his appointment as President of the Oziosi Academy",
+        "CensorsAgreement": "Con Privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15344",
+                "RecordID": "022-000001383",
+                "Value": "Honorato,Claretto,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

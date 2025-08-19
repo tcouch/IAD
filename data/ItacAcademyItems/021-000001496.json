@@ -1,0 +1,348 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0020",
+        "RecordId": "021-000001496",
+        "Name": "Infiammati-Padova (Accademia degli)",
+        "AlternativeName": "Accademia Inflammatorum",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "Hercules on the pyre",
+        "Motto": "Arso il mortal al ciel n`andr\u00e0 l`eterno",
+        "StartDate": "1540",
+        "EndDate": "ca.1545",
+        "DateText": "1540-ca.1545",
+        "Notes": "Bibliography: Franco Tomasi, `Le letture di poesia e il petrarchismo nell`Accademia degli Infiammati`, in Il Petrarchismo. Un modello per l`Europa, a cura di Floriana Calitti e Roberto Gigliucci, Roma, Bulzoni, 2006; Maria Teresa Girardi, `La lezione su \"Verdi panni, sanguigni, oscuri o persi\" di benedetto Varchi accademico infiammato`, in Aevum 79 (2005); Vianello, Il letterato. L`Accademia. Il libro. Contributi sulla cultura veneta del Cinquecento (Padua 1988); Samuels, `Benedetto Varchi, the Accademia degli Infiammati, and the origins of the Italian Academic movement`, Renaissance Quarterly, 29 (1976); Cerreta, Alessandro Piccolomini letterato e filosofo senese del `500 (Siena, 1960). Letters concerning the Academy are in British Library, Add. MS 10273 vol. XII ff. 98 and 222, and in the Archivio di stato in Florence.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9200",
+                "RecordId": "022-000001497",
+                "Name": "Orsini, Leone, , 1512-1564",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9201",
+                "RecordId": "022-000001498",
+                "Name": "Gonzaga, Galeazzo, , 1502-1573",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9202",
+                "RecordId": "022-000001499",
+                "Name": "Cornelio, Giovanni, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9203",
+                "RecordId": "022-000001500",
+                "Name": "Quirino, Francesco, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9204",
+                "RecordId": "022-000001501",
+                "Name": "Grimaldi, (H)Emmanuele, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9208",
+                "RecordId": "022-000001505",
+                "Name": "Buonamico, Lazzaro, , 1478-1552",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9209",
+                "RecordId": "022-000001506",
+                "Name": "Bolzani dalle Fosse , Giovanni Pietro , , 1477-1578",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9210",
+                "RecordId": "022-000001507",
+                "Name": "Bagolino, Giovan Battista, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9211",
+                "RecordId": "022-000001508",
+                "Name": "Betussi, Giuseppe, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9212",
+                "RecordId": "022-000001509",
+                "Name": "Ghini da Imola, Luca, , ca 1490-1556",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9213",
+                "RecordId": "022-000001510",
+                "Name": "Lapini, Antonio, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9214",
+                "RecordId": "022-000001511",
+                "Name": "Sozzini, Celso, , 1517-1570",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9216",
+                "RecordId": "022-000001513",
+                "Name": "Montano , Giovan Battista, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9217",
+                "RecordId": "022-000001514",
+                "Name": "Strozzi, Carlo, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9233",
+                "RecordId": "022-000001529",
+                "Name": "Goynoeo , Giovanni Battista , , ca. 1520-1582",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9244",
+                "RecordId": "022-000001540",
+                "Name": "Cola, Bruno, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15812",
+                "RecordId": "022-000002366",
+                "Name": "Anselmi,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16226",
+                "RecordId": "022-000002866",
+                "Name": "Monte,Giovanni,, 1498 - 1551",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9221",
+                "RecordId": "022-000001518",
+                "Name": "Maggi,Vincenzo,, - 1564",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16228",
+                "RecordId": "022-000002868",
+                "Name": "Barbaro,Daniele,,1514 - 1570",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16229",
+                "RecordId": "022-000002869",
+                "Name": "Martelli,Ugolino,,1519 - 1592",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16230",
+                "RecordId": "022-000002870",
+                "Name": "Lenzi,Lorenzo,,1517 -",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16227",
+                "RecordId": "022-000002867",
+                "Name": "Del Bene,Alberto,, - 1554",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15713",
+                "RecordId": "022-000002244",
+                "Name": "dell`Anguillara,Giovan Andrea,,1517 - 1572",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16222",
+                "RecordId": "022-000002859",
+                "Name": "Sansovino,Francesco,,1521 - 1583",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16232",
+                "RecordId": "022-000002872",
+                "Name": "Martini,Luca,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9206",
+                "RecordId": "022-000001503",
+                "Name": "Varchi,Benedetto,,1503 - 1565",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9137",
+                "RecordId": "022-000001747",
+                "Name": "Summo,Faustino,,? - 1611",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9215",
+                "RecordId": "022-000001512",
+                "Name": "Sozzini,Mariano,,1482 - 1556",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16603",
+                "RecordId": "022-000003321",
+                "Name": "Alamanni,Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9205",
+                "RecordId": "022-000001502",
+                "Name": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9230",
+                "RecordId": "022-000001527",
+                "Name": "Speroni degli Alvarotti,Sperone,,1500-1588",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53384",
+                    "Value": "022-000001527_53384_2.jpg"
+                }
+            },
+            {
+                "PersonId": "9207",
+                "RecordId": "022-000001504",
+                "Name": "Tomitano,Bernardino,,1517-1576",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53385",
+                    "Value": "022-000001504_53385_2.jpg"
+                }
+            },
+            {
+                "PersonId": "16231",
+                "RecordId": "022-000002871",
+                "Name": "Beolco,Angelo,,1496? - 1542",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53386",
+                    "Value": "022-000002871_53386_2.jpg"
+                }
+            },
+            {
+                "PersonId": "17865",
+                "RecordId": "022-000004778",
+                "Name": "Trissino,Gio. Giorgio,Count,1478 - 1550",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9231",
+                "RecordId": "022-000001528",
+                "Name": "Aretino,Pietro,,1492-1556",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55043",
+                    "Value": "022-000001528_55043_2.jpg"
+                }
+            },
+            {
+                "PersonId": "15461",
+                "RecordId": "022-000001982",
+                "Name": "Mantova Benavides,Marco,,1489-1582",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55334",
+                    "Value": "022-000001982_55334_2.jpg"
+                }
+            },
+            {
+                "PersonId": "20857",
+                "RecordId": "022-000008724",
+                "Name": "Macigni,Matteo,,ca.1510\u2013ca.1582",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

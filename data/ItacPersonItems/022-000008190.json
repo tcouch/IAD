@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20460",
+        "RecordId": "022-000008190",
+        "Surname": "Berni",
+        "Forename": "Francesco",
+        "DateText": "1610-1673",
+        "StartDate": "1610",
+        "EndDate": "1673",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Some details about his dates and provenance can be gathered from Baruffaldi, Vite de` pittori e scultori ferraresi (Ferrara 1846)",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

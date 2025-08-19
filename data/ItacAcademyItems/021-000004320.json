@@ -1,0 +1,75 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0076",
+        "RecordId": "021-000004320",
+        "Name": "Incolti (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1640s",
+        "EndDate": "?",
+        "DateText": "1640s-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17456",
+                "RecordId": "022-000004321",
+                "Name": "Floriati ,Mutio,,",
+                "Nickname": "Rozzo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17457",
+                "RecordId": "022-000004322",
+                "Name": "Damiani ,Fortunato,,",
+                "Nickname": "Filofilo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17458",
+                "RecordId": "022-000004323",
+                "Name": "Viscini,Vincenzo,,",
+                "Nickname": "Commano",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17459",
+                "RecordId": "022-000004324",
+                "Name": "d`Ippolito,Odoardo,,",
+                "Nickname": "Senocare",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17460",
+                "RecordId": "022-000004325",
+                "Name": "Vignali,Gio[vanni] Battista,,",
+                "Nickname": "Pausilippo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17461",
+                "RecordId": "022-000004326",
+                "Name": "de` Marchesi,Annibale,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17462",
+                "RecordId": "022-000004327",
+                "Name": "Cibo,Maria,Duchess of Mirandola,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

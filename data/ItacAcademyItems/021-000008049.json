@@ -1,0 +1,36 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0517",
+        "RecordId": "021-000008049",
+        "Name": "Fileni (Accademia dei)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "Motto": "Extenuat sed producit",
+        "StartDate": "1631",
+        "EndDate": "?",
+        "DateText": "1631-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20460",
+                "RecordId": "022-000008190",
+                "Name": "Berni,Francesco,,1610-1673",
+                "Nickname": "L'Aggirato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20462",
+                "RecordId": "022-000008192",
+                "Name": "Visdomini,Ippolito,,",
+                "Nickname": "Il Fosco",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

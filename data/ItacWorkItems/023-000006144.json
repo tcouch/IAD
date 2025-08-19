@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006144",
+        "WorkId": "000726",
+        "ShortTitle": "Raguagli del padre Francesco Eschinardi della Compagnia di Giesu`",
+        "LongTitle": "Dati ad un`amico in Parigi; sopra alcuni Pensieri sperimentabili proposti nell`Accademia Fisicomatematica di Roma",
+        "ItacAcademyItem": {
+            "AcademyId": "0141",
+            "RecordID": "021-000006038",
+            "Value": "Accademia Fisico-matematica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1680",
+        "Shelfmark": "538d29(2)",
+        "Subjects": "Science|Engineering",
+        "Language": "Italian",
+        "Pagination": "64",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18940",
+                "RecordID": "022-000006042",
+                "Value": "Eschinardi,Francesco,,1623 - 1703"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18343",
+                "RecordID": "022-000005358",
+                "Value": "Tinassi,Nicolo` Angelo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54548",
+            "Value": "023-000006144_54548_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

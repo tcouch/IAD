@@ -1,0 +1,124 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002698",
+        "WorkId": "000335",
+        "ShortTitle": "Quinte Rime",
+        "LongTitle": "Della Signora Laura Terracina, Detta Phebea Nell`Academia De Gl`Incogniti.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1552",
+        "DedicationPlaceDate": "Naples 8 August 1551",
+        "Shelfmark": "11429.de.1.",
+        "Subjects": "Encomiastic poetry",
+        "Language": "Italian",
+        "Illustration": "Woodcuts|Author`s portrait",
+        "Pagination": "69 pp. recto - verso",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16062",
+                "RecordID": "022-000002642",
+                "Value": "Terracina,Laura,,1519-1577"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16065",
+                    "RecordID": "022-000002646",
+                    "Value": "Mantegna,Gio[vanni] Alfonso ,,1535? - 1577?"
+                },
+                {
+                    "PersonId": "16106",
+                    "RecordID": "022-000002700",
+                    "Value": "Faggivolo,Girolamo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con Gratia & Privilegio.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16105",
+                "RecordID": "022-000002699",
+                "Value": "Scandarbec,Henrina,Princess of Bisignano,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16098",
+                "RecordID": "022-000002687",
+                "Value": "Valvassorio,Giovanni Andrea,,"
+            }
+        },
+        "PrinterOrnament": "EDIT16 T38",
+        "TitlePageImage": {
+            "ImageId": "52853",
+            "Value": "023-000002698_52853_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Alla Illustrissima Et Eccellentissima Signora Henrina Scandarbec Prencipessa Di Bisignano.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alli Signori Incogniti.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Girolamo Faggivolo, Cancelliero De Gl`Incogniti.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16106",
+                            "RecordID": "022-000002700",
+                            "Value": "Faggivolo,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Vertuosa Signora Laura Terracina, Giovan`Alfonso Mantegna.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16065",
+                            "RecordID": "022-000002646",
+                            "Value": "Mantegna,Gio[vanni] Alfonso ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Virtuosissimo S. Giovan`Alfonso Mantegna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

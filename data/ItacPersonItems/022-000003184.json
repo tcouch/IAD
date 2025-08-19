@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16498",
+        "RecordId": "022-000003184",
+        "Surname": "Pietrasanta",
+        "Forename": "Plinio",
+        "Gender": "Male",
+        "DateText": "fl. 1553 - 1557",
+        "StartDate": "fl. 1553",
+        "EndDate": "1557",
+        "Nationality": {
+            "NationalityId": "59"
+        },
+        "Role": "Printer",
+        "TypographicReference": "CNCE 52161|V429|Z31|V430 - Z1201",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003602",
+        "WorkId": "000474",
+        "ShortTitle": "De Medendis Humani Corporis Malis: Ars Medica.",
+        "LongTitle": "Habentur in secunda parte omens ij morbi, qui in prima deerant.",
+        "ItacAcademyItem": {
+            "AcademyId": "0050",
+            "RecordID": "021-000002988",
+            "Value": "Accademia Altomareana"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "66",
+            "PublicationPlaceItalianName": "Lione",
+            "PublicationPlaceEnglishName": "Lyon",
+            "PublicationPlaceLatinName": "Lugdunum"
+        },
+        "PublicationYear": "1559",
+        "DedicationPlaceDate": "Naples 5 February 1558",
+        "Shelfmark": "544.d.2.",
+        "Subjects": "Medicine",
+        "Language": "Italian|Greek|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 436",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16335",
+                "RecordID": "022-000002989",
+                "Value": "Altomare ,Donato Antonio ,,1566? - 1630s?"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16848",
+                "RecordID": "022-000003605",
+                "Value": "Barbierus,Symphorianus,,"
+            }
+        },
+        "Notes": "This text contains manuscript notes in Italian and Latin on Altomare and some Neapolitan scientists. See also M. Leonardo Fioravanti, De Capricci Medicinali, Venetia, 1565, pp. 24.25.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16847",
+                "RecordID": "022-000003604",
+                "Value": "Carafa,Giovanni Pietro,Pope Paulus IV,1476 - 1559"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16846",
+                "RecordID": "022-000003603",
+                "Value": "Vincentium,Antonium,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

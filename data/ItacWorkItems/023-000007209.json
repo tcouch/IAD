@@ -1,0 +1,108 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007209",
+        "WorkId": "000816",
+        "ShortTitle": "Il Mediterraneo descritto",
+        "LongTitle": "Dal Padre Maestro Coronelli Cosmografo della Serenissima Republica di Venezia ad uso dell`Accademia Cosmografica degli Argonauti. Dedicato",
+        "ItacAcademyItem": {
+            "AcademyId": "0143",
+            "RecordID": "021-000006183",
+            "Value": "Accademia degli Argonauti"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "[1705]",
+        "Shelfmark": "C24aa22",
+        "Subjects": "Geography",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19029",
+                "RecordID": "022-000006145",
+                "Value": "Coronelli,Vincenzo,,1650 - 1718"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19029",
+                "RecordID": "022-000006145",
+                "Value": "Coronelli,Vincenzo,,1650 - 1718"
+            }
+        },
+        "Notes": "Here, the title page and the subsequent page are shown.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19783",
+                    "RecordID": "022-000007212",
+                    "Value": "d`Estr\u00e9es,C\u00e9sar,,1628 - 1714"
+                },
+                {
+                    "PersonId": "19782",
+                    "RecordID": "022-000007211",
+                    "Value": "Foscarini,Sebastiano,,1649 - 1711"
+                },
+                {
+                    "PersonId": "19781",
+                    "RecordID": "022-000007210",
+                    "Value": "Pasqualigo,Giovanni Pietro,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19029",
+                "RecordID": "022-000006145",
+                "Value": "Coronelli,Vincenzo,,1650 - 1718"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55053",
+            "Value": "023-000007209_55053_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55054",
+            "Value": "023-000007209_55054_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Ristrretto del Mediterraneo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19029",
+                            "RecordID": "022-000006145",
+                            "Value": "Coronelli,Vincenzo,,1650 - 1718"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Citt\u00e0 fortezze porti et altri luoghi del regno et isola di candia, et confinanti, delineate gi\u00e0 con le nuove loro fortificazioni dal P. Coronelli. Pubblicate dall\u2019Accademia degli Argonauti. Dedicati All\u2019illustrissimo et eccellentissimo signore Gio: Pietro Pasqualigo Savio di Terraferma nella Serenissima Republica di Venezia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19029",
+                            "RecordID": "022-000006145",
+                            "Value": "Coronelli,Vincenzo,,1650 - 1718"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Citt\u00e0 distanti da Creta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19029",
+                            "RecordID": "022-000006145",
+                            "Value": "Coronelli,Vincenzo,,1650 - 1718"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

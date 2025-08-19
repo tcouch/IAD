@@ -1,0 +1,21 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0570",
+        "RecordId": "021-000008374",
+        "Name": "Eccitati (Accademia degli)",
+        "City": {
+            "CityId": "125",
+            "CityItalianName": "Bergamo",
+            "CityLatinName": "Bergomum"
+        },
+        "ItacPersonItem": {
+            "PersonId": "20584",
+            "RecordId": "022-000008338",
+            "Name": "Cazzati,Maurizio,,1616-1678",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

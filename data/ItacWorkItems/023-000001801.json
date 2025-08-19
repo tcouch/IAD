@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001801",
+        "WorkId": "00116",
+        "ShortTitle": "Le poesie liriche del signor Marchese Pio Enea degli Obizzi",
+        "LongTitle": "Nell`Accademia Ricovrata Il Regenerato",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1650",
+        "Shelfmark": "11427.e.32",
+        "Subjects": "Poetry|Love",
+        "Language": "Italian",
+        "Illustration": "Engraved titlepage|",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5163",
+                "RecordID": "022-000000158",
+                "Value": "degli Obizzi,Pio Enea,Marquis,1592-1674"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9322",
+                "RecordID": "022-000001679",
+                "Value": "Baruzzi,Andrea,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Academia dei Ricovrati"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9323",
+                "RecordID": "022-000001680",
+                "Value": "Luciani,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52643",
+            "Value": "023-000001801_52643_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

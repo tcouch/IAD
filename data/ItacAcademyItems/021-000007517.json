@@ -1,0 +1,56 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0389",
+        "RecordId": "021-000007517",
+        "Name": "Immaturi (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemImage": {
+            "ImageId": "55020",
+            "Value": "021-000007517_55020_1.jpg"
+        },
+        "StartDate": "1618",
+        "EndDate": "?",
+        "DateText": "1618-?",
+        "Notes": "Publications not in British Library catalogue, include: Mostre poetiche dell`Incolto accademico Immaturo (Venezia 1620), dedicated to Niccolo` Crasso and to be ascribed to Giovan Francesco Ferranti (see Cicogna, Iscrizioni veneziane, vol. 2, p. 557)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20008",
+                "RecordId": "022-000007481",
+                "Name": "Contarini,Francesco,,",
+                "Nickname": "L'Ignudo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20029",
+                "RecordId": "022-000007522",
+                "Name": "Contarini,Francesco,Procurator|Knight,1554-1624",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15749",
+                "RecordId": "022-000002293",
+                "Name": "Morosini,Andrea,,1558-1619",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20032",
+                "RecordId": "022-000007525",
+                "Name": "Ferranti,Giovan Francesco,,",
+                "Nickname": "L'Incolto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

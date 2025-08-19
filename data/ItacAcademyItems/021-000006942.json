@@ -1,0 +1,260 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0286",
+        "RecordId": "021-000006942",
+        "Name": "Cristina di Svezia (Accademia Reale di)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1674",
+        "EndDate": "1689",
+        "DateText": "1674-1689",
+        "Notes": "Members` names and details regarding their affiliations, are in Stefano Fogelberg Rota, Organizzazione e attivita` poetica dell`Accademia Reale di Cristina di Svezia, in Letteratura, arte e musica alla corte romana di Cristina di Svezia, Atti del Convegno (Lumsa, Roma, 2003), ed. Rossana Caira and S. Fogelberg Rota. Roma, Aracne 2005.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16193",
+                "RecordId": "022-000002820",
+                "Name": "Vasa,Christine ,Queen of Sweden,1626 - 1689",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19646",
+                "RecordId": "022-000007005",
+                "Name": "della Noce,Angelo,Archbishop of Rossano,1609 - 1691",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19647",
+                "RecordId": "022-000007006",
+                "Name": "de Suares,Giuseppe Maria,Bishop of Vaison (France),1633 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19648",
+                "RecordId": "022-000007007",
+                "Name": "Cottone,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19649",
+                "RecordId": "022-000007008",
+                "Name": "Cattaneo,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19650",
+                "RecordId": "022-000007009",
+                "Name": "Pallavicini,Nicolao,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19651",
+                "RecordId": "022-000007010",
+                "Name": "Vieyra,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5087",
+                "RecordId": "022-000000084",
+                "Name": "Casali,Mario,Senator,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19653",
+                "RecordId": "022-000007012",
+                "Name": "Gradi,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19654",
+                "RecordId": "022-000007013",
+                "Name": "Pignatelli,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19655",
+                "RecordId": "022-000007014",
+                "Name": "Camelli,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19656",
+                "RecordId": "022-000007015",
+                "Name": "Falconieri,Ottavio,,1636 - 1675",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19657",
+                "RecordId": "022-000007016",
+                "Name": "Possino ,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18315",
+                "RecordId": "022-000005325",
+                "Name": "De Luca,Giovanni Battista,Cardinal,1614 - 1683",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19658",
+                "RecordId": "022-000007017",
+                "Name": "Mauro,Silvestro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17681",
+                "RecordId": "022-000004576",
+                "Name": "Albani,Giovanni Francesco,Pope Clement XI,1649 - 1721",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19659",
+                "RecordId": "022-000007018",
+                "Name": "Noris,Enrico,Cardinal,1631 - 1704",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19660",
+                "RecordId": "022-000007019",
+                "Name": "Catone de Court,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19661",
+                "RecordId": "022-000007020",
+                "Name": "di Gusman,Enrico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19662",
+                "RecordId": "022-000007021",
+                "Name": "Ridolfi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19663",
+                "RecordId": "022-000007022",
+                "Name": "Giuliani,Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19664",
+                "RecordId": "022-000007023",
+                "Name": "Cappelari,Michele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19535",
+                "RecordId": "022-000006795",
+                "Name": "Schelstrate,Emmanuel,,1649 - 1692",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5004",
+                "RecordId": "022-000000006",
+                "Name": "Caprara,Alberto,Count,1627 - 1691",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19665",
+                "RecordId": "022-000007024",
+                "Name": "Carrara,Ubertino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19666",
+                "RecordId": "022-000007025",
+                "Name": "Menzini,Benedetto,,1646 - 1704",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19667",
+                "RecordId": "022-000007026",
+                "Name": "Guidi,Alessandro,,1650 - 1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19668",
+                "RecordId": "022-000007027",
+                "Name": "Radulovich,Niccolo`,Archbishop of Chieti,1627 - 1702",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15546",
+                "RecordId": "022-000002072",
+                "Name": "Corelli,Arcangelo,,1653 - 1713",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19669",
+                "RecordId": "022-000007030",
+                "Name": "Pasquini,Bernardo,,1637 - 1710",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0096",
+        "RecordId": "021-000004782",
+        "Name": "Risoluti-Bologna (Accademia dei)",
+        "AlternativeName": "Academia Resolutorum",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Hand planting baytree in the ground",
+        "Motto": "Ut germinet",
+        "StartDate": "ca.1631",
+        "EndDate": "ca.1714",
+        "DateText": "ca.1631-ca.1714",
+        "Notes": "Publications related to this Academy, but not in British Library Catalogue, include: Aperitio portarum ad musarum choros in gloriosis natalitijs sanctissimi episcopi, & martyris Carmelitae Petri Thomae Academiae Resolutorum protectoris inclyti in Carmelo D. Martini maioris Bonon. solemniter celebratis aperit, offert, dicat. Admodum reuerendo patri, f. Carolo Clementi Cerro, ... frater Marcus Antonius Porta ...  (Bononiae: Typis Io. Baptistae Ferronij, 1645)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15434",
+                "RecordId": "022-000001946",
+                "Name": "Penna,Lorenzo,,ca. 1613 - 1693",
+                "Nickname": "L` Indefesso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17867",
+                "RecordId": "022-000004781",
+                "Name": "Saraceni,Pietro Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17868",
+                "RecordId": "022-000004783",
+                "Name": "Porta,Marcantonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

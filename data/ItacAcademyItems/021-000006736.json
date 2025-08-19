@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0175",
+        "RecordId": "021-000006736",
+        "Name": "Vari-Roma (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Rainbow",
+        "Motto": "Neque Uno",
+        "StartDate": "ca.1690",
+        "EndDate": "?",
+        "DateText": "ca.1690-?",
+        "Notes": "Publications related to this Academy, but not in British Library collections, include: L` innocenza protetta dal cielo, overo Sofronia, et Olindo. Oratorio del sig. Lodovico Antonio Mariani d`Orvito Accademico Vario. Posto in musica dal signor Pietro Antonio Cenammi romano (Roma, Campana, 1695); Triumphus Assumptae in coelum Virginis (Roma, Ferri, 1728). See Franchi 1994, pp. 121, 277.",
+        "ItacPersonItem": {
+            "PersonId": "19503",
+            "RecordId": "022-000006735",
+            "Name": "Mariani,Ludovico Antonio,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

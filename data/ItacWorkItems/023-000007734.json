@@ -1,0 +1,96 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007734",
+        "WorkId": "000865",
+        "ShortTitle": "Instruccion Christiana De Principes Y Reyes",
+        "LongTitle": "Sacada de la escritura Divina por Carlos Maria Carafa principe de Butera, de la Rochela, y del Sacro Romano Imperio, &c. Dos vezes impressa en el Ydioma Toscano, y esta tercera en Espanol.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1688",
+        "Shelfmark": "4403.i.11.",
+        "Subjects": "Mirrors for Princes (Specula principum)",
+        "Language": "Spanish|Latin|Italian",
+        "Illustration": "Engraved title page|An enthroned King",
+        "Pagination": "pp. 394",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20199",
+                "RecordID": "022-000007735",
+                "Value": "Carafa Branciforte,Carlo Maria,Prince of Butera,1651-1695"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20202",
+                    "RecordID": "022-000007738",
+                    "Value": "Morra,Giuseppe,Marquis of Monterocchetta,"
+                },
+                {
+                    "PersonId": "18829",
+                    "RecordID": "022-000005904",
+                    "Value": "Adonnino,Andrea,Count,"
+                },
+                {
+                    "PersonId": "20203",
+                    "RecordID": "022-000007739",
+                    "Value": "la Corcia,Domenico,,"
+                },
+                {
+                    "PersonId": "20204",
+                    "RecordID": "022-000007740",
+                    "Value": "Manrique,Alonso,Friar of the Order of Preachers (Dominican order),"
+                }
+            ]
+        },
+        "Notes": "This text contains a sonnet written by Andrea Adonnino, a member of the Fucina Academy in Messina",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18597",
+                    "RecordID": "022-000005648",
+                    "Value": "Vanni,,Vicar General,"
+                },
+                {
+                    "PersonId": "18598",
+                    "RecordID": "022-000005649",
+                    "Value": "Ramundetta,,,"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "20201",
+                "RecordID": "022-000007737",
+                "Value": "Blondeau,Iacobus,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20200",
+                "RecordID": "022-000007736",
+                "Value": "Romolo,Thomas,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55237",
+            "Value": "023-000007734_55237_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55238",
+            "Value": "023-000007734_55238_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

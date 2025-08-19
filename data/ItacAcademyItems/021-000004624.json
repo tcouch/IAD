@@ -1,0 +1,73 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0088",
+        "RecordId": "021-000004624",
+        "Name": "Partenia (Accademia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "EmblemDescription": "A chaste tree (vitex agnus- castus) entwined by two swirling snakes",
+        "EmblemImage": {
+            "ImageId": "54683",
+            "Value": "021-000004624_54683_1.jpg"
+        },
+        "Motto": "Nocentia fugat",
+        "StartDate": "1594",
+        "EndDate": "?",
+        "DateText": "1594-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17728",
+                "RecordId": "022-000004625",
+                "Name": "Raimondi,Girolamo,,",
+                "Nickname": "Il Candido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15326",
+                "RecordId": "022-000001365",
+                "Name": "Ventriglia,Flavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16936",
+                "RecordId": "022-000003720",
+                "Name": "Massaro,Giovanni Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15146",
+                "RecordId": "022-000001188",
+                "Name": "Marini,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17729",
+                "RecordId": "022-000004626",
+                "Name": "Tommasi,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17747",
+                "RecordId": "022-000004646",
+                "Name": "Braccio,Ignazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

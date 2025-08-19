@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19093",
+        "RecordId": "022-000006218",
+        "Surname": "Vizzani",
+        "Forename": "Camillo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Vezani",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Vizani",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1542-1566",
+        "StartDate": "1542",
+        "EndDate": "1566",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Author|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

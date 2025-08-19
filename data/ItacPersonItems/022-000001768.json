@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9183",
+        "RecordId": "022-000001768",
+        "Surname": "Moller",
+        "Forename": "Daniel Wilhelm",
+        "Gender": "Male",
+        "DateText": "1642-1712",
+        "StartDate": "1642",
+        "EndDate": "1712",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Philologist, professor of metaphysics and history, and librarian at the University of Altdorf. He was introduced to the Accademia dei Ricovrati by Antonio Magliabechi, and joined the Academy in 1697.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

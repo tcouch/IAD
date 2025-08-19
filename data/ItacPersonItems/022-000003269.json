@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16556",
+        "RecordId": "022-000003269",
+        "Surname": "Bembo",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1470-1547",
+        "StartDate": "1470",
+        "EndDate": "1547",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007860",
+        "WorkId": "000878",
+        "ShortTitle": "Quattro orationi di M. Bartolomeo Spathaphora di Moncata, gentil`huomo Venetiano.",
+        "LongTitle": "L`una in morte del serenissimo Marc`Antonio Trivisano. L`altra nella creatione del serenissimo Francesco Veniero principe di Venetia, et una in difesa della seruit\u00f9. L`altra in difesa della discordia.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0459",
+                "RecordID": "021-000007857",
+                "Value": "Accademia degli Uniti (Venezia)"
+            },
+            {
+                "AcademyId": "0459",
+                "RecordID": "021-000007857",
+                "Value": "Uniti - Venezia (Accademia degli)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1554",
+        "DedicationPlaceDate": "Venezia 10 novembre 1554",
+        "Shelfmark": "72i21(2)",
+        "Subjects": "Academic Speeches|Encomiastic discourse|Slavery",
+        "Language": "Italian",
+        "Pagination": "120",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17866",
+                "RecordID": "022-000004779",
+                "Value": "Spatafora,Bartolomeo,,fl.1553-after1582"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17866",
+                "RecordID": "022-000004779",
+                "Value": "Spatafora,Bartolomeo,,fl.1553-after1582"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20257",
+                "RecordID": "022-000007861",
+                "Value": "Vega de Luna,Isabella,Duchess of Bivona,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16499",
+                "RecordID": "022-000003185",
+                "Value": "Ruscelli,Girolamo,,1504 - 1566"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16498",
+                "RecordID": "022-000003184",
+                "Value": "Pietrasanta,Plinio,,fl. 1553 - 1557"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55027",
+            "Value": "023-000007860_55027_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Dedication to Donna Isabella Vega de Luna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16499",
+                            "RecordID": "022-000003185",
+                            "Value": "Ruscelli,Girolamo,,1504 - 1566"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione di M. Bartolomeo Spataphora nelle esequie del serenissimo principe Marcantonio Trevisano Doge di Venetia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17866",
+                            "RecordID": "022-000004779",
+                            "Value": "Spatafora,Bartolomeo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al serenissimo Principe Francesco Venieri, Doge di Venetia etc. nella sua creatione, congratulatione di Bartolomeo Spatafora",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17866",
+                            "RecordID": "022-000004779",
+                            "Value": "Spatafora,Bartolomeo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Difesa [della servitu'] di Bartholomeo Spataphora di Moncata, gentil'huomo venetiano, nell'Accademia de gli Uniti di Venetia, a X di settembre 1552 ---",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17866",
+                            "RecordID": "022-000004779",
+                            "Value": "Spatafora,Bartolomeo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Difesa della discordia nell'Accademia degli Uniti di Venetia, a 20 di maggio 1553",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17866",
+                            "RecordID": "022-000004779",
+                            "Value": "Spatafora,Bartolomeo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

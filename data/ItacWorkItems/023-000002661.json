@@ -1,0 +1,131 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002661",
+        "WorkId": "000328",
+        "ShortTitle": "Poesie volgari di Monsignor Antonio Querenghi",
+        "LongTitle": "Seconda impressione",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricov(e)rati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1621",
+        "DedicationPlaceDate": "Rome 13 May 1621; Padua 20 February 1616",
+        "Shelfmark": "239.a.30.(1.)",
+        "Subjects": "Encomiastic Poetry|Love Poems",
+        "Language": "Italian",
+        "Pagination": "pp. 99",
+        "Marginalia": "No",
+        "Edition": "2nd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9031",
+                "RecordID": "022-000001621",
+                "Value": "Querenghi,Antonio,,1546 - 1633"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16077",
+                "RecordID": "022-000002662",
+                "Value": "Manelfi,Giovanni,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15213",
+                    "RecordID": "022-000001255",
+                    "Value": "Pentronij,Hyacinthi,,"
+                },
+                {
+                    "PersonId": "16079",
+                    "RecordID": "022-000002664",
+                    "Value": "Francuccius,Dominicus,,"
+                },
+                {
+                    "PersonId": "15214",
+                    "RecordID": "022-000001256",
+                    "Value": "Donatus,Gregorius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverendiss. Patri Magistro Sacri Palatij Apostolici. \nP. Episcopus de Curte Vicesg.\nEx mandato Reverendiss. P. F. Hyacinthi Petronij Magistri Sacri Palatij, per legi carminum Etruscorum libellum, qui inscribitur Poesie volgari [etc.]. Si doctrinam cum pietate coniunctam aspicio, ea profecto est, quae Christianum Philosophum deceat. Si leporem, atque elegantiam, quibus singula poemata mirifice sunt exornata, plane dignum opus existimo, quod typis, atque immortalitati commendetur. \nFr. Dominicus Francuccius Magister et Collegij Graecorum Regens\nImprimatur Fr. Gregorius Donatus Magister Reverendiss. P. F. Hyacinthi Petronij Sacri Apost. Pal. Magistri, Socius.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16072",
+                    "RecordID": "022-000002655",
+                    "Value": "Farnese,Ranuccio I,Duke of Parma,1569 - 1622"
+                },
+                {
+                    "PersonId": "16080",
+                    "RecordID": "022-000002665"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16070",
+                    "RecordID": "022-000002652",
+                    "Value": "Querenghi,Flavio,,"
+                },
+                {
+                    "PersonId": "16077",
+                    "RecordID": "022-000002662",
+                    "Value": "Manelfi,Giovanni,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16078",
+                "RecordID": "022-000002663",
+                "Value": "Zannetti Bartolomeo,Herede di,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Sig. D. Silvestro Aldobrandino in nome de` Signori Academici Ricovrati di Padova",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9031",
+                            "RecordID": "022-000001621",
+                            "Value": "Querenghi,Antonio,,1546 - 1633"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Panegirico in lode della poesia. Recitato nell`Accademia de` Signori Ricovrati di Padova dal Sig. A[lessandro] Montalbano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9031",
+                            "RecordID": "022-000001621",
+                            "Value": "Querenghi,Antonio,,1546 - 1633"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Antro platonico, e legami e scioglimento e circonduzione dell`anima, a imitazione del VII della `Repubblica`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7336",
+                            "RecordID": "022-000000923",
+                            "Value": "Puzzoli da Carpi,Gasparo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

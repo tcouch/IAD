@@ -1,0 +1,259 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0025",
+        "RecordId": "021-000002211",
+        "Name": "Eterei (Accademia degli)",
+        "AlternativeName": "Academia Aethereorum",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "Charriot, Black and White Horses. One falling down, the other rising up.",
+        "EmblemImage": {
+            "ImageId": "49488",
+            "Value": "021-000002211_49488_1.jpg"
+        },
+        "Motto": "Victor se tollit ad auras",
+        "StartDate": "1563/4",
+        "EndDate": "1568/9",
+        "DateText": "1563/4-1568/9",
+        "Notes": "On Tasso`s emblem and motto see Ronconi, `Nota sull`impresa del Tasso fra gli Eterei`, in Formazione e fortuna del Tasso nella cultura della Serenissima, Atti del Convegno, ed. L. Borsetto and B.M. Da Rif (Venice: 1997), pp. 297-304. Also, see Vittorio Zaccaria, Le Rime degli Accademici Eterei e la cultura accademica padovana del Cinquecento (Padova, 1996).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15688",
+                "RecordId": "022-000002216",
+                "Name": "Bonagente,Annibale,,",
+                "Nickname": "Il Digiuno",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15689",
+                "RecordId": "022-000002217",
+                "Name": "Pignatelli,Ascanio,,",
+                "Nickname": "L`Adombrato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5146",
+                "RecordId": "022-000000142",
+                "Name": "Guarini,Battista,,1538-1612",
+                "Nickname": "Il Costante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9012",
+                "RecordId": "022-000001580",
+                "Name": "Scaino,Ioachin,,1535-1600",
+                "Nickname": "Il Lacrimoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15694",
+                "RecordId": "022-000002222",
+                "Name": "Arlotti,Ridolfo,,",
+                "Nickname": "Il Sicuro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15695",
+                "RecordId": "022-000002223",
+                "Name": "Santini,Stefano,,",
+                "Nickname": "L`Invaghito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15691",
+                "RecordId": "022-000002219",
+                "Name": "Pusterla,Giovanni Francesco,,",
+                "Nickname": "L`Affrenato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9207",
+                "RecordId": "022-000001504",
+                "Name": "Tomitano,Bernardino,,1517-1576",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15700",
+                "RecordId": "022-000002231",
+                "Name": "Cornaro,Iacopo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15701",
+                "RecordId": "022-000002232",
+                "Name": "Gradenigo,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15702",
+                "RecordId": "022-000002233",
+                "Name": "Beccatelli,Pomponio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15704",
+                "RecordId": "022-000002235",
+                "Name": "Mocenigo,Lazzaro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15705",
+                "RecordId": "022-000002236",
+                "Name": "Pesaro,Aluigi,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15706",
+                "RecordId": "022-000002237",
+                "Name": "Begliocchi,Marc`Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15707",
+                "RecordId": "022-000002238",
+                "Name": "Palazzi,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15708",
+                "RecordId": "022-000002239",
+                "Name": "Grimani,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15709",
+                "RecordId": "022-000002240",
+                "Name": "de` Signori di Pertistagno,Giuseppe ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15710",
+                "RecordId": "022-000002241",
+                "Name": "Bardi,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15711",
+                "RecordId": "022-000002242",
+                "Name": "Cavra,Ottaviano,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9011",
+                "RecordId": "022-000001579",
+                "Name": "Mussato,Gianfrancesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15713",
+                "RecordId": "022-000002244",
+                "Name": "dell`Anguillara,Giovan Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5139",
+                "RecordId": "022-000000135",
+                "Name": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593",
+                "Nickname": "L`Ardito",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "52694",
+                    "Value": "022-000000135_52694_2.jpg"
+                }
+            },
+            {
+                "PersonId": "15703",
+                "RecordId": "022-000002234",
+                "Name": "Molino,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15693",
+                "RecordId": "022-000002221",
+                "Name": "Gabrielli,Pietro,,",
+                "Nickname": "L`Impedito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15692",
+                "RecordId": "022-000002220",
+                "Name": "Gradenigo,Luigi,,1543 - 1582",
+                "Nickname": "L`Occulto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16588",
+                "RecordId": "022-000003306",
+                "Name": "Savonarola,Gabriele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16464",
+                "RecordId": "022-000003141",
+                "Name": "Borghesi,Diomede,,1540 - 1598",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15312",
+                "RecordId": "022-000001352",
+                "Name": "Tasso,Torquato,,1544-1595",
+                "Nickname": "Il Pentito",
+                "Motto": "Non trovo tra gli affanni altro ricovero",
+                "PersonEmblemDescription": "Yew - Sun",
+                "PersonPortraitImage": {
+                    "ImageId": "55332",
+                    "Value": "022-000001352_55332_2.jpg"
+                }
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0160",
+        "RecordId": "021-000006522",
+        "Name": "Animosi d`Oreto (Accademia degli)",
+        "City": {
+            "CityId": "86",
+            "CityItalianName": "Palermo",
+            "CityEnglishName": "Palermo",
+            "CityLatinName": "Panormus"
+        },
+        "EmblemDescription": "A swarm of bees",
+        "Motto": "Ingentes animos angusto in pectore versant",
+        "StartDate": "1642",
+        "EndDate": "?",
+        "DateText": "1642-?",
+        "Notes": "Motto from Virgil, Georgics, IV.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19329",
+                "RecordId": "022-000006523",
+                "Name": "Del Voglio,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19330",
+                "RecordId": "022-000006524",
+                "Name": "Crollalanza,Giovanni Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19331",
+                "RecordId": "022-000006525",
+                "Name": "Trasmera,Diego,Inquisitor,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16042",
+                "RecordId": "022-000002613",
+                "Name": "de Cabrera,Juan Alfonso Enr\u00edquez ,viceroy of Naples|Viceroy of Sicily,1597-1647",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

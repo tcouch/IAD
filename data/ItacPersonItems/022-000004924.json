@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17990",
+        "RecordId": "022-000004924",
+        "Surname": "de` Medici",
+        "Forename": "Ippolito",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Hipolito"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1511-1535",
+        "StartDate": "1511",
+        "EndDate": "1535",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Patron of the Accademia della Virtu`",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

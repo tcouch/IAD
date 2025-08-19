@@ -1,0 +1,124 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0128",
+        "RecordId": "021-000005670",
+        "Name": "Piazzesi (Accademia dei)",
+        "City": {
+            "CityId": "97",
+            "CityItalianName": "Piazza Armerina (Enna)",
+            "CityEnglishName": "Piazza Armerina",
+            "CityLatinName": "Plutia"
+        },
+        "StartDate": "1651?",
+        "EndDate": "?",
+        "DateText": "1651?-?",
+        "Notes": "Members of the Piazzesi Academy not recorded in Maylender",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18609",
+                "RecordId": "022-000005660",
+                "Name": "Chiarand\u00e0,Antonino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18608",
+                "RecordId": "022-000005659",
+                "Name": "Romano,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18610",
+                "RecordId": "022-000005661",
+                "Name": "Bocca Di Fuoco,Giuseppe ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18134",
+                "RecordId": "022-000005097",
+                "Name": "Gueli ,Francesco,,? - 1661",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18611",
+                "RecordId": "022-000005662",
+                "Name": "Fascella ,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18613",
+                "RecordId": "022-000005664",
+                "Name": "Cagno,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18614",
+                "RecordId": "022-000005665",
+                "Name": "Salonia,Alberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18615",
+                "RecordId": "022-000005666",
+                "Name": "Caruso,Giovanni Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18616",
+                "RecordId": "022-000005667",
+                "Name": "Cagno,Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18617",
+                "RecordId": "022-000005668",
+                "Name": "Capizzi,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17379",
+                "RecordId": "022-000004219",
+                "Name": "Munebria,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18618",
+                "RecordId": "022-000005669",
+                "Name": "Pico,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18619",
+                "RecordId": "022-000005671",
+                "Name": "Cappello,Baldassare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

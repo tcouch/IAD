@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17307",
+        "RecordId": "022-000004128",
+        "Surname": "Borromeo",
+        "Forename": "Renato",
+        "Gender": "Male",
+        "PersonalTitle": "Count of Arona",
+        "DateText": "1555-1608",
+        "StartDate": "1555",
+        "EndDate": "1608",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15650",
+        "RecordId": "022-000002176",
+        "Surname": "Muzzi",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Speroni"
+        },
+        "DateText": "?-1707",
+        "StartDate": "?",
+        "EndDate": "1707",
+        "Nationality": {
+            "NationalityId": "142",
+            "Value": "of Parma"
+        },
+        "Notes": "Joined the Accademia Filarmonica in 1691. It is not sure whether Muzzi was from Parma or from Cremona. He was musician to the Duke of Parma.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

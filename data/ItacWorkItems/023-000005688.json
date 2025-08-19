@@ -1,0 +1,269 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005688",
+        "WorkId": "000688",
+        "ShortTitle": "Lelvagio",
+        "LongTitle": "Poema Buccolico in Lingua Siciliana. Del Dottor Don Luigi Gastoni, E Bavalotta. Palerminato. Nell`Accademia de` Riaccesi detto l`Invigorito. Con l`Osservationi del medesimo Autore.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1660",
+        "Shelfmark": "1063.l.11.",
+        "Subjects": "Bucolic poem",
+        "Language": "Italian|Latin|Sicilian literary language",
+        "Illustration": "Plate|Author`s emblem",
+        "Pagination": "pp. 175",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18625",
+                "RecordID": "022-000005679",
+                "Value": "Vallegio,Giovanni Battista,,? - 1678"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18626",
+                    "RecordID": "022-000005680",
+                    "Value": "Salvo,Alfonso,,? - 1660"
+                },
+                {
+                    "PersonId": "18627",
+                    "RecordID": "022-000005681",
+                    "Value": "Bonfante,Angelo Matteo,,? - 1676"
+                },
+                {
+                    "PersonId": "18628",
+                    "RecordID": "022-000005682",
+                    "Value": "Tantillo,Antonino,,? - 1659"
+                },
+                {
+                    "PersonId": "18629",
+                    "RecordID": "022-000005683",
+                    "Value": "Mugnos,Francesco,,? - 1662"
+                },
+                {
+                    "PersonId": "18422",
+                    "RecordID": "022-000005444",
+                    "Value": "Fortunio,Giacinto,,? - 1671"
+                },
+                {
+                    "PersonId": "18630",
+                    "RecordID": "022-000005684",
+                    "Value": "Stella,Giovanni,,1633 - 1700"
+                },
+                {
+                    "PersonId": "18631",
+                    "RecordID": "022-000005685",
+                    "Value": "del Giudice,Giovanni Battista,,1636 - 1686"
+                },
+                {
+                    "PersonId": "18632",
+                    "RecordID": "022-000005686",
+                    "Value": "lo Scavuzzo,Luigi,,? - 1688"
+                },
+                {
+                    "PersonId": "18434",
+                    "RecordID": "022-000005457",
+                    "Value": "Auria,Vincenzo,,1625 - 1710"
+                },
+                {
+                    "PersonId": "18421",
+                    "RecordID": "022-000005442",
+                    "Value": "Galeano,Giuseppe,,1605 - 1675"
+                },
+                {
+                    "PersonId": "18635",
+                    "RecordID": "022-000005690",
+                    "Value": "L`Accademico Incerto,,,"
+                }
+            ]
+        },
+        "Notes": "This text contains a plate representing the author`s emblem",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18578",
+                    "RecordID": "022-000005625",
+                    "Value": "Gelosus,,Vicar General,"
+                },
+                {
+                    "PersonId": "18633",
+                    "RecordID": "022-000005687",
+                    "Value": "de Marotta,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imp. Abb. Gel. V.G.\nImp. de Marotta Praes.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18421",
+                "RecordID": "022-000005442",
+                "Value": "Galeano,Giuseppe,,1605 - 1675"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18634",
+                "RecordID": "022-000005689",
+                "Value": "Amato,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18500",
+                "RecordID": "022-000005529",
+                "Value": "Bua,Nicol\u00f2,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54632",
+            "Value": "023-000005688_54632_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Doct. D. Alfonso Salvo\nLudovicus Engastoni, & Bavalotta Panormitanus. Anagramma puru.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18626",
+                            "RecordID": "022-000005680",
+                            "Value": "Salvo,Alfonso,,? - 1660"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Dot. D, Alfonso Salvo.\nAnagramma.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18626",
+                            "RecordID": "022-000005680",
+                            "Value": "Salvo,Alfonso,,? - 1660"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Dott. D. Angelo Mattheo Bonfante, Detto il Gelato nell`Accademia de` Raccesi di Palermo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18627",
+                            "RecordID": "022-000005681",
+                            "Value": "Bonfante,Angelo Matteo,,? - 1676"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del signor Antonino Tantillo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18628",
+                            "RecordID": "022-000005682",
+                            "Value": "Tantillo,Antonino,,? - 1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "del Signor D. Francesco Mugnos. Madrigale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18629",
+                            "RecordID": "022-000005683",
+                            "Value": "Mugnos,Francesco,,? - 1662"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor D. Giacinto Fortunio. Accademico Racceso, detto l`aggirato.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18422",
+                            "RecordID": "022-000005444",
+                            "Value": "Fortunio,Giacinto,,? - 1671"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Dottor Giovanni Stella Palermitano. Accademico Racceso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18630",
+                            "RecordID": "022-000005684",
+                            "Value": "Stella,Giovanni,,1633 - 1700"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`Autore. Del Sig. Dot. D. Gio. Battista del Giudice, Accademico Racceso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18631",
+                            "RecordID": "022-000005685",
+                            "Value": "del Giudice,Giovanni Battista,,1636 - 1686"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell`istesso per l`avvenimento di Lelvagio.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18631",
+                            "RecordID": "022-000005685",
+                            "Value": "del Giudice,Giovanni Battista,,1636 - 1686"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Dott. Giuseppe Galeano. Detto il Rinfiammato nell`Accademia de` Raccesi di Palermo.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18421",
+                            "RecordID": "022-000005442",
+                            "Value": "Galeano,Giuseppe,,1605 - 1675"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Accademico Incerto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18635",
+                            "RecordID": "022-000005690",
+                            "Value": "L`Accademico Incerto,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di lu Signuri D. Luisi Lu Scavuzzu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18632",
+                            "RecordID": "022-000005686",
+                            "Value": "lo Scavuzzo,Luigi,,? - 1688"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`Autore In Lode del Poema. del Sig. Dot. D. Vincenzo Auria.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18434",
+                            "RecordID": "022-000005457",
+                            "Value": "Auria,Vincenzo,,1625 - 1710"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

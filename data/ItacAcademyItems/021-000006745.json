@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0181",
+        "RecordId": "021-000006745",
+        "Name": "Amasea (Accademia)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "mid 16th c.",
+        "DateText": "mid 16th c.",
+        "Notes": "There is no certainty about the existence of this Academy. See Maylender I, pp. 164-5.",
+        "ItacPersonItem": {
+            "PersonId": "7509",
+            "RecordId": "022-000001030",
+            "Name": "Amaseo,Romolo Quirino,,1489 - 1552",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

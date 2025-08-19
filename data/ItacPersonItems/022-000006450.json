@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19267",
+        "RecordId": "022-000006450",
+        "Surname": "Lagalla",
+        "Forename": "Goulio Cesare",
+        "Gender": "Male",
+        "DateText": "1576-1624",
+        "StartDate": "1576",
+        "EndDate": "1624",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Physician, and philosopher, lector of Logic at Sapienza in Rome. He asked to be affiliated to the Lincei in 1614.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

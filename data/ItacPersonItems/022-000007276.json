@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19839",
+        "RecordId": "022-000007276",
+        "Surname": "Alberti",
+        "Forename": "Matteo",
+        "DateText": "1660?-1716",
+        "StartDate": "1660?",
+        "EndDate": "1716",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Architect. Joined the Argonauti at least from 1693, when he published Epitome cosmografica. Probably, he became `accademico eminente` in 1715. See his biography by Roswitha Hespe and Giorgio E. Ferrari, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

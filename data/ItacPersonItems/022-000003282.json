@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16564",
+        "RecordId": "022-000003282",
+        "Surname": "Soardo",
+        "Forename": "Bartolommeo",
+        "AlternativeName": {
+            "AlternativeSurname": "Soardi",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Count",
+        "Nationality": {
+            "NationalityId": "117",
+            "Value": "of Bergamo"
+        },
+        "Notes": "Joined the Ricovrati in 1684.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000310",
+        "WorkId": "00096",
+        "ShortTitle": "Vespri per tutto l`anno a quattro voci:",
+        "LongTitle": "con l`organo e senza di Gieronimo Giacobbi maestro di cappella in S. Petronio di Bologna et nell`Accademia dei Gelati l`Imperfeto Alto. Stampa del Gardano",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "18\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1615",
+        "Shelfmark": "C.310.a",
+        "Subjects": "Music",
+        "Language": "Latin|Italian",
+        "Illustration": "Woodcut | Bologna`s saint protector (San Petronio)",
+        "Pagination": "pp. 34",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5085",
+                "RecordID": "022-000000082",
+                "Value": "Giacobbi,Girolamo,,1567 - 1628"
+            }
+        },
+        "Notes": "Angelo Gardano (1602-11) was succeeded by Bartolommeo Magni who retained the imprint `Stampa del Gardano` or `Sub signo Ggardani`. See Catalogue of Seventeenth Century Italian Books in the British Library (London: The British Library 1986)",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5167",
+                    "RecordID": "022-000000162",
+                    "Value": "Pepoli,Filippo,,"
+                },
+                {
+                    "PersonId": "5250",
+                    "RecordID": "022-000000270",
+                    "Value": "Malvasia,Hercole,Senator,"
+                },
+                {
+                    "PersonId": "5210",
+                    "RecordID": "022-000000271",
+                    "Value": "Magnano,Enea,Count | Senator,"
+                },
+                {
+                    "PersonId": "5212",
+                    "RecordID": "022-000000272",
+                    "Value": "Isolani,Alemano,Senator,"
+                },
+                {
+                    "PersonId": "5187",
+                    "RecordID": "022-000000273",
+                    "Value": "Cospi,Francesco,Senator,"
+                },
+                {
+                    "PersonId": "9697",
+                    "RecordID": "022-000000549",
+                    "Value": "Volta,Astorre,Senator,fl. 1558-1613"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7705",
+                "RecordID": "022-000001480",
+                "Value": "Magni,Bartholomeo,,fl. 1613-43"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52668",
+            "Value": "023-000000310_52668_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

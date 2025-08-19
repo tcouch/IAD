@@ -1,0 +1,373 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0257",
+        "RecordId": "021-000006906",
+        "Name": "Medica (Accademia)",
+        "AlternativeName": "Congressus medico-romanus",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1681",
+        "EndDate": "1687?",
+        "DateText": "1681-1687?",
+        "Notes": "One publication related to this Academy, but not in British Library collections, is: Congresso medico - romano tenuto in casa del sig. D.r Girolamo Brasavoli a di 4. Agosto 1687. Da i signori D.r Giacomo Sinibaldi D.r Bartolomeo Santinelli D.r Gio. Maria Lancisi (Roma: Gio. Angelo Mutij, 1687). See also Donati, Accademie romane (2000)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19586",
+                "RecordId": "022-000006907",
+                "Name": "Brasavola,Girolamo,,1628 - 1705",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19587",
+                "RecordId": "022-000006908",
+                "Name": "Lancisi,Giovanni Maria,,1654 - 1720",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19602",
+                "RecordId": "022-000006954",
+                "Name": "Capogna,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19603",
+                "RecordId": "022-000006955",
+                "Name": "Amorosi,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19604",
+                "RecordId": "022-000006956",
+                "Name": "Caccia,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19605",
+                "RecordId": "022-000006957",
+                "Name": "de Grassis,Marc`Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19606",
+                "RecordId": "022-000006958",
+                "Name": "Magnani,Ippolito,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19607",
+                "RecordId": "022-000006959",
+                "Name": "de Tomasi,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19608",
+                "RecordId": "022-000006960",
+                "Name": "Antisari,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19609",
+                "RecordId": "022-000006961",
+                "Name": "Ciafani,Giuseppe Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19610",
+                "RecordId": "022-000006962",
+                "Name": "Rati,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19611",
+                "RecordId": "022-000006963",
+                "Name": "De Marini,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19612",
+                "RecordId": "022-000006964",
+                "Name": "Gagliardi,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19613",
+                "RecordId": "022-000006965",
+                "Name": "Callamari,Giorgio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19614",
+                "RecordId": "022-000006966",
+                "Name": "Macauda,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19615",
+                "RecordId": "022-000006967",
+                "Name": "De Benedetti,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19616",
+                "RecordId": "022-000006968",
+                "Name": "Cecchini,Mario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18957",
+                "RecordId": "022-000006060",
+                "Name": "Petrucci,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19617",
+                "RecordId": "022-000006969",
+                "Name": "Gerosi,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19618",
+                "RecordId": "022-000006970",
+                "Name": "Salvatucci,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19619",
+                "RecordId": "022-000006971",
+                "Name": "Scilla,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19600",
+                "RecordId": "022-000006952",
+                "Name": "Sinibaldi,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19621",
+                "RecordId": "022-000006973",
+                "Name": "Roscio,Gregorio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19620",
+                "RecordId": "022-000006972",
+                "Name": "Steberi,Valentino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19622",
+                "RecordId": "022-000006974",
+                "Name": "Frasca,Bernardino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19623",
+                "RecordId": "022-000006975",
+                "Name": "Batazzi,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19624",
+                "RecordId": "022-000006976",
+                "Name": "Piscatori,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19625",
+                "RecordId": "022-000006977",
+                "Name": "Pierleoni,Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19626",
+                "RecordId": "022-000006978",
+                "Name": "Riccardi,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19627",
+                "RecordId": "022-000006979",
+                "Name": "Onofrio,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19588",
+                "RecordId": "022-000006918",
+                "Name": "Onorati,Francesco Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19630",
+                "RecordId": "022-000006982",
+                "Name": "Lelii,Lucido,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19631",
+                "RecordId": "022-000006983",
+                "Name": "Saltasbarra,Francesco Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19632",
+                "RecordId": "022-000006984",
+                "Name": "Marconi,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19633",
+                "RecordId": "022-000006985",
+                "Name": "Ciesconi,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19634",
+                "RecordId": "022-000006986",
+                "Name": "Giannini,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19635",
+                "RecordId": "022-000006987",
+                "Name": "Casali,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19636",
+                "RecordId": "022-000006988",
+                "Name": "Ganteri,Alberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19637",
+                "RecordId": "022-000006989",
+                "Name": "Simoncelli,Paolo Emilio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19638",
+                "RecordId": "022-000006990",
+                "Name": "Grimaldi,Paolo Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19639",
+                "RecordId": "022-000006991",
+                "Name": "Salepigno,Nicolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19641",
+                "RecordId": "022-000006993",
+                "Name": "Tomasini,Luca,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19642",
+                "RecordId": "022-000006994",
+                "Name": "Scaramucci,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7401",
+                "RecordId": "022-000000992",
+                "Name": "Bianchini,Francesco,,1662 - 1729",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

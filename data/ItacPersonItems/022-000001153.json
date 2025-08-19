@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15112",
+        "RecordId": "022-000001153",
+        "Surname": "Di Costanzo",
+        "Forename": "Angelo",
+        "DateText": "1507-1591",
+        "StartDate": "1507",
+        "EndDate": "1591",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "for a detailed biography of di Costanzo see Angelo di Costanzo, Poesie Poesie italiane e latine e prose, Palermo, 1843.",
+        "Role": "Author|Contributor|Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

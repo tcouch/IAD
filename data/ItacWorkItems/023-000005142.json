@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005142",
+        "WorkId": "000627",
+        "ShortTitle": "L\u2019Amie rustique, et autres vers diuers.",
+        "LongTitle": "(Chansons. Chant de vertu et fortune.-Chant fune`bre.-E\u00b4pitaphes.-Nasei\u00a8de.).",
+        "ItacAcademyItem": {
+            "AcademyId": "0107",
+            "RecordID": "021-000005041",
+            "Value": "Accademia della Virt\u00f9"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "66",
+            "PublicationPlaceItalianName": "Lione",
+            "PublicationPlaceEnglishName": "Lyon",
+            "PublicationPlaceLatinName": "Lugdunum"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "C.8.c.10.(2.)",
+        "Language": "French",
+        "Pagination": "page unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18175",
+                "RecordID": "022-000005145",
+                "Value": "de la Tour,Berenger,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18176",
+                "RecordID": "022-000005146",
+                "Value": "de Saint Albany,Albert,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18173",
+                "RecordID": "022-000005143",
+                "Value": "Granjon,Robert,,fl.1550 - 1558"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54413",
+            "Value": "023-000005142_54413_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

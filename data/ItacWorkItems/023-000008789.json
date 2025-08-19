@@ -1,0 +1,29 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008789",
+        "WorkId": "001007",
+        "ShortTitle": "Carissime Venusti",
+        "LongTitle": "Inc.: `Academie Otiosorum tantum debeo, ut nihil vehementius cogitem...`\nExpl.: `... ut si mihi in eo par sis magno me beneficio et gaudio affeceris. Vale`",
+        "ItacAcademyItem": {
+            "AcademyId": "0148",
+            "RecordID": "021-000006222",
+            "Value": "Oziosi-Bologna (Accademia degli)"
+        },
+        "PublicationYear": "1566",
+        "DedicationPlaceDate": "Rome Cal. Mai. 1566",
+        "Shelfmark": "Harry Ransom Center Ranuzzi MSS Ph 12670",
+        "Subjects": "Letter",
+        "Language": "Latin",
+        "Pagination": "1 leaf",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19093",
+                "RecordID": "022-000006218",
+                "Value": "Vizzani,Camillo,,1542-1566"
+            }
+        },
+        "Notes": "This letter is particularly important as it was written the same year of Vizzani`s death.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

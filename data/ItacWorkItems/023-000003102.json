@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003102",
+        "WorkId": "000400",
+        "ShortTitle": "Il Persildo di Ciro Anselmo Academico Ricovrato",
+        "LongTitle": "et hora Prencipe dell`Academia. Consecrato al merito impareggiabile del molto illustre signor il sign. Pietro Luccini Musico celebre nella Reggia Ducal di San Marco. \nPresso Alessandro Zatta.\nCon licenza de` superiori",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1664",
+        "DedicationPlaceDate": "Venice 16 May 1664",
+        "Shelfmark": "1080.d.7.(2.)",
+        "Subjects": "Novel",
+        "Pagination": "188",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9051",
+                "RecordID": "022-000001641",
+                "Value": "Anselmi,Ciro,,1622 - 1668"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16432",
+                "RecordID": "022-000003104",
+                "Value": "Zatta Alessandro,,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16431",
+                "RecordID": "022-000003103",
+                "Value": "Luccini,Pietro,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16432",
+                "RecordID": "022-000003104",
+                "Value": "Zatta Alessandro,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53428",
+            "Value": "023-000003102_53428_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

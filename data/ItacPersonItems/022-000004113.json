@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17296",
+        "RecordId": "022-000004113",
+        "Surname": "Sanvito e Baccolo",
+        "AlternativeName": {
+            "AlternativeSurname": "Sanvitus & Baccolus",
+            "AlternativeForename": null
+        },
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Anello Sanvito and Antonio Baccolo worked together as printers and booksellers in Naples.",
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

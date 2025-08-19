@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9200",
+        "RecordId": "022-000001497",
+        "Surname": "Orsini",
+        "Forename": "Leone",
+        "Gender": "Male",
+        "PersonalTitle": "Bishop of Frejus",
+        "DateText": "1512 - 1564",
+        "StartDate": "1512",
+        "EndDate": "1564",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Founder of the Accademia degli Infiammati Academy. Varchi greeted him as such in `Lezione sesta sopra il primo canto del Paradiso di Dante`, which he delivered in the Accademia Fiorentina (June 1545). On Orsini and the Infiammati, see Flamini, `Il canzoniere inedito di Leone Orsini`, in Raccolta di studi critici dedicata ad Alessandro D`Ancona (Florence, 1901). For his place in the Accademia dello Sdegno, see Premoli (2005)",
+        "Role": "Dedicatee",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

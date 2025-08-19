@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5021",
+        "RecordId": "022-000000023",
+        "Surname": "Fioravanti",
+        "Forename": "Innocenzio Maria",
+        "Gender": "Male",
+        "DateText": "fl. 1665-1687",
+        "StartDate": "fl. 1665",
+        "EndDate": "1687",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Joined the Accesi in 1687. Also member of the Accademia dei Sollevati (Bologna).",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

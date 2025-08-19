@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16541",
+        "RecordId": "022-000003247",
+        "Surname": "Maratta",
+        "Forename": "Carlo",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Marattus",
+                "AlternativeForename": "Carolus"
+            },
+            {
+                "AlternativeSurname": "Maratti"
+            }
+        ],
+        "DateText": "1625 - 1713",
+        "StartDate": "1625",
+        "EndDate": "1713",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "He was Prince of the Accademia di San Luca.",
+        "Role": "Illustrator",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

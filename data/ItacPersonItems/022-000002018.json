@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15492",
+        "RecordId": "022-000002018",
+        "Surname": "Bergonzoni",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "DateText": "ca.1628-ca.1700",
+        "StartDate": "ca.1628",
+        "EndDate": "ca.1700",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Joined the Accademia Filarmonica in 1666. For a short biography, see S. Zamboni, `Bergonzoni, Giovanni Battista`, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

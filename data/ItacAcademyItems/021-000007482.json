@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0382",
+        "RecordId": "021-000007482",
+        "Name": "Serafica (Accademia)",
+        "AlternativeName": "Accademia dei Serafici",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1593",
+        "EndDate": "?",
+        "DateText": "1593-?",
+        "ItacPersonItem": {
+            "PersonId": "20008",
+            "RecordId": "022-000007481",
+            "Name": "Contarini,Francesco,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006004",
+        "WorkId": "000712",
+        "ShortTitle": "Syriani antiquissimi interpretis",
+        "LongTitle": "in II. XII et XIII Aristotelis libros Metaphysices Commentarius, a Hieronymo Bagolino, praestantissimo philosopho, latinitate donatus",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "519e24(1)",
+        "Subjects": "Interpretation and criticism|Aristotle`s Metaphysics",
+        "Language": "Latin",
+        "Pagination": "[4] 132r-v",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15158",
+                "RecordID": "022-000001200",
+                "Value": "Bagolino,Gerolamo,,late1400-?"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15159",
+                "RecordID": "022-000001201",
+                "Value": "Fugger,Johann Jakob,,1516-1575"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Academia Veneta"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55068",
+            "Value": "023-000006004_55068_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

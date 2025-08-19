@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16693",
+        "RecordId": "022-000003429",
+        "Surname": "Pacchiarotti",
+        "Forename": "Giacomo di Girolamo",
+        "DateText": "1474 - ca. 1540",
+        "StartDate": "1474",
+        "EndDate": "ca. 1540",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Painter, among the founders of the Rozzi",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

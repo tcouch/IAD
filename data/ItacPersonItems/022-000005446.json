@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18424",
+        "RecordId": "022-000005446",
+        "Surname": "Tornamina",
+        "Forename": "Pietro Antonio",
+        "AlternativeName": {
+            "AlternativeSurname": "Tornamina",
+            "AlternativeForename": "Petrus Antonius"
+        },
+        "DateText": "1618 - 1681",
+        "StartDate": "1618",
+        "EndDate": "1681",
+        "Nationality": {
+            "NationalityId": "237",
+            "Value": "of Alcamo (Trapani)"
+        },
+        "Notes": "For a detailed biographical account see Antonino Mongitore, Bibliotheca Sicula, Felicella, Palermo, Vol.II, pp. 128-130 (BL Shelfmark:610.m.10.)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

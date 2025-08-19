@@ -1,0 +1,42 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001811",
+        "WorkId": "00127",
+        "ShortTitle": "Oratio de liberata civitate Vienna.",
+        "LongTitle": "Habita Patavii Prid. Kal. Nov. 1683 a Carola Catharina Patina parisina academica. Imperatori Caesari Leopoldo Augusto Optimo Maximo Triumphatori Invictissimo dicata.",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1683",
+        "Shelfmark": "1054.e.31",
+        "Subjects": "Encomiastic discourse on the Turkish menace",
+        "Language": "Latin",
+        "Pagination": "pp. 172-185",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9132",
+                "RecordID": "022-000001740",
+                "Value": "Patina,Gabrielis Carola,,1665/66-?"
+            }
+        },
+        "Notes": "Place of publication and printer appear in other catalogues where the Oratio is attached to another work by the same author: see Union Catalog of Norhern Germany and ABES French Union Catalogue.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9633",
+                "RecordID": "022-000001800",
+                "Value": "Valvasense,Franciscus,,fl. 1600-1650"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,300 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0002",
+        "RecordId": "021-000000312",
+        "Name": "Notte-Bologna (Accademia della)",
+        "AlternativeName": "Academia Noctis",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Stars in a night sky above the dark emisphere, with no moon",
+        "Motto": "Vertitur interea",
+        "StartDate": "late1500?",
+        "EndDate": "?",
+        "DateText": "late1500?-?",
+        "Notes": "Maylender dates the Academy back to the end of the 16th century. Gianluigi Betti, `L`Accademia bolognese della Notte e alcuni discorsi di Giovan Battista Manzini`, Strenna storica bolognese (2002) maintains 1624. A list of academicians in Denise Aric\u00f2, `Matteo Pellegrini e l`ethos del savio`, in Documenti e memorie per la storia dell`Universit\u00e0 di Bologna, n. s. III 1983; S. Molina, in Aevum (1992) does not provide the source from where the list is taken. Compare with Bumaldi, Minervalia (1641). Publications related to the Academy, but not included in the British Library catalogue, are: Ruggiero Pesci, Delle imprese. Discorso del Sonnacchioso havuto nell`Academia della Notte di Bologna. Dedicato all`illustriss. signor Bartolomeo Lupari. (In Bologna: per Nicolo Tebaldini, 1624); Accademia della Notte, Rime di quei della notte sotto il Prencipato del sig. Giovanni Lupari l`Offuscato (In Bologna: presso Clemente Ferroni, 1631); Accademia della Notte, Rime di quei della notte nel rappresentare la favola d`Egeria sotto il principato del sig. Annibale Mariscotti l`Ardito. Alle nobilissime dame bolognesi (In Bologna : presso Clemente Ferroni, 1627); Accademia della Notte, Lettione, e rime di quei della Notte di Bologna nel publicar la loro accademia (In Bologna: presso Theodoro Mascheroni, & Clemente Ferroni, 1624); Iacobi Gaufridi Apologia pro Philautia naturae. Habita in Academia Noctis  (Bononiae: typis Clementis Ferronij, 1632).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5012",
+                "RecordId": "022-000000014",
+                "Name": "Barbazza, Andrea, Count, 1581/82-1656",
+                "Nickname": "Il Ritroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5014",
+                "RecordId": "022-000000016",
+                "Name": "Capponi, Giovambattista , , 1620-1675",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5016",
+                "RecordId": "022-000000018",
+                "Name": "Bombaci, Gasparo, Count, 1607-1676",
+                "Nickname": "Il Tardo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5017",
+                "RecordId": "022-000000019",
+                "Name": "Carmeni, Francesco, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5100",
+                "RecordId": "022-000000097",
+                "Name": "Abelli, Cesare, ,",
+                "Nickname": "L`Ottuso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5152",
+                "RecordId": "022-000000147",
+                "Name": "Manzini,Carlo Antonio, Count, \u20201677",
+                "Nickname": "L`Animoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5155",
+                "RecordId": "022-000000150",
+                "Name": "Marsili, Cesare, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5280",
+                "RecordId": "022-000000318",
+                "Name": "Pellegrini , Matteo, , 1595-1652",
+                "Nickname": "L`Errante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5281",
+                "RecordId": "022-000000319",
+                "Name": "Lodovisi , Lodovico, Cardinal, 1595-1632",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5279",
+                "RecordId": "022-000000324",
+                "Name": "Manzini, Giovanni Battista, , 1599-1664",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5315",
+                "RecordId": "022-000000328",
+                "Name": "Albergati, Girolamo, Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5282",
+                "RecordId": "022-000000329",
+                "Name": "Malvezzi de Conti della Selva, Giulio, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5283",
+                "RecordId": "022-000000330",
+                "Name": "Marescotti,Annibale, , fl. 1627",
+                "Nickname": "L`Ardito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5284",
+                "RecordId": "022-000000331",
+                "Name": "Lodi, Giacinto, ,",
+                "Nickname": "Il Mobile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5285",
+                "RecordId": "022-000000333",
+                "Name": "Sempronio  , Giovanni Leone , , ca. 1603-1646",
+                "Nickname": "Il Vigilante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5286",
+                "RecordId": "022-000000334",
+                "Name": "L`Ombroso, , ,",
+                "Nickname": "L`Ombroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5287",
+                "RecordId": "022-000000335",
+                "Name": "L`Oscuro, , ,",
+                "Nickname": "L`Oscuro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5288",
+                "RecordId": "022-000000336",
+                "Name": "Il Timoroso, , ,",
+                "Nickname": "Il Timoroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5289",
+                "RecordId": "022-000000337",
+                "Name": "Il Tenebroso, , ,",
+                "Nickname": "Il Tenebroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5290",
+                "RecordId": "022-000000338",
+                "Name": "Bianci , Stephani , ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5291",
+                "RecordId": "022-000000339",
+                "Name": "Academicus Fessus, , ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5292",
+                "RecordId": "022-000000340",
+                "Name": "de` Rossi dei Conti di Pontecchio,Giovanni Galeazzo, Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5293",
+                "RecordId": "022-000000341",
+                "Name": "Norii, Marino, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5294",
+                "RecordId": "022-000000342",
+                "Name": "Rivaroli, Matteo, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5295",
+                "RecordId": "022-000000343",
+                "Name": "Dempster, Thomas, Baron, c. 1579-1625",
+                "Nickname": "Evantius",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5296",
+                "RecordId": "022-000000344",
+                "Name": "Amadei, Giovanni Giacomo, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5297",
+                "RecordId": "022-000000345",
+                "Name": "Gaudefroy , Jacques , ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5298",
+                "RecordId": "022-000000346",
+                "Name": "Pesci, Ruggiero, ,",
+                "Nickname": "Il Sonnacchioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5307",
+                "RecordId": "022-000000358",
+                "Name": "Roffeni, Giovanni Antonio, , \u20201643",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5313",
+                "RecordId": "022-000000366",
+                "Name": "Lupari, Giovanni, ,",
+                "Nickname": "L`Offuscato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5022",
+                "RecordId": "022-000000024",
+                "Name": "Montalbani,Ovidio,,c. 1600",
+                "Nickname": "Il Rugiadoso",
+                "Motto": "Noctis non deficit humor",
+                "PersonEmblemDescription": "Stars above a mountain with trees on top",
+                "PersonEmblemImage": {
+                    "ImageId": "53133",
+                    "Value": "022-000000024_53133_5.jpg"
+                }
+            },
+            {
+                "PersonId": "7383",
+                "RecordId": "022-000000970",
+                "Name": "Aldrovandi ,Antonio,,",
+                "Nickname": "L` Incauto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5080",
+                "RecordId": "022-000000077",
+                "Name": "Nanni Fantuzzi,Ippolito,,ca. 1609 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5089",
+                "RecordId": "022-000000086",
+                "Name": "Achillini,Claudio,,1574 -1 640",
+                "Nickname": "Il Selvaggio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

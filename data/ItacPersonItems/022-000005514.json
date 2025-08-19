@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18489",
+        "RecordId": "022-000005514",
+        "Surname": "Baldi",
+        "Forename": "Agostino",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Baldus",
+            "AlternativeForename": "Augustinus"
+        },
+        "DateText": "?-1668",
+        "StartDate": "?",
+        "EndDate": "1668",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, p. 86 (British Library Shelfmark:610.m.10.)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

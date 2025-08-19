@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5108",
+        "RecordId": "022-000000105",
+        "Surname": "Bentivogli",
+        "Forename": "Ippolito",
+        "Gender": "Male",
+        "PersonalTitle": "Count|Marquis",
+        "DateText": "fl. 1672-1682",
+        "StartDate": "fl. 1672",
+        "EndDate": "1682",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

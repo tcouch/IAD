@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007468",
+        "WorkId": "000830",
+        "ShortTitle": "Del tempio alla divina signora Donna Giovanna d`Aragona",
+        "LongTitle": "fabricato da tutti i piu` gentili spiriti, et in tutte le lingue principali del mondo, Prima Parte. all`Illustrissimo et reverendiss. Signore il signor Cristoforo Madruccio, Cardinal di Trento. Con privilegio della Illustriss. Sig. di Venetia & d`altri Principi, per anni XV.",
+        "ItacAcademyItem": {
+            "AcademyId": "0369",
+            "RecordID": "021-000007392",
+            "Value": "Accademia dei Dubbiosi (Venezia)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1555",
+        "DedicationPlaceDate": "Venezia 15 Decembre 1554",
+        "Shelfmark": "1063d27",
+        "Subjects": "Encomiastic poetry",
+        "Language": "Italian|Greek|Latin",
+        "Pagination": "Discuntinuous pagination",
+        "Marginalia": "No",
+        "Notes": "The book contains an introductory chapter mentioning the Accademia dei Dubbiosi and describing its activities.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9225",
+                "RecordID": "022-000001522",
+                "Value": "Madruzzo,Cristoforo,Cardinal,1512-1578"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16499",
+                "RecordID": "022-000003185",
+                "Value": "Ruscelli,Girolamo,,1504 - 1566"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16498",
+                "RecordID": "022-000003184",
+                "Value": "Pietrasanta,Plinio,,fl. 1553 - 1557"
+            }
+        },
+        "PrinterOrnament": "V430 - Z1201",
+        "TitlePageImage": {
+            "ImageId": "55003",
+            "Value": "023-000007468_55003_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

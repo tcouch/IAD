@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0072",
+        "RecordId": "021-000004198",
+        "Name": "Dubbiosi (Accademia dei)",
+        "AlternativeName": "Dubiosi",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1646",
+        "EndDate": "?",
+        "DateText": "1646-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16567",
+                "RecordId": "022-000003285",
+                "Name": "Sgambati,Reginaldo,,",
+                "Nickname": "l`inquieto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17364",
+                "RecordId": "022-000004202",
+                "Name": "Roppi,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17365",
+                "RecordId": "022-000004203",
+                "Name": "de Bernardis,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

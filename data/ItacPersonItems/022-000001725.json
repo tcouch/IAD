@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9118",
+        "RecordId": "022-000001725",
+        "Surname": "Sponious",
+        "Forename": "Iacob",
+        "AlternativeName": {
+            "AlternativeSurname": "Spon"
+        },
+        "DateText": "1647 - 1685",
+        "StartDate": "1647",
+        "EndDate": "1685",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Joined the Ricovrati in 1678",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

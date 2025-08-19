@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20233",
+        "RecordId": "022-000007813",
+        "Surname": "Natolini",
+        "Forename": "Giovanni Battista",
+        "DateText": "1551-1609",
+        "StartDate": "1551",
+        "EndDate": "1609",
+        "Nationality": {
+            "NationalityId": "188",
+            "Value": "of San Daniele (Udine)"
+        },
+        "Notes": "Dates an provenance according to the biography by Lorenzo Carpane`, in DBI.",
+        "Role": "Printer",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

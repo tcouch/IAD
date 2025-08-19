@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19132",
+        "RecordId": "022-000006269",
+        "Surname": "Castelli",
+        "Forename": "Benedetto",
+        "Gender": "Male",
+        "DateText": "1577-1649",
+        "StartDate": "1577",
+        "EndDate": "1649",
+        "Nationality": {
+            "NationalityId": "82",
+            "Value": "of Brescia"
+        },
+        "Notes": "Benedectine, lector of mathematics at the Pisan Studio, subsequently in Rome. Being a member of a religious and monastic order he could not join the Lincei.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

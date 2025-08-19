@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18734",
+        "RecordId": "022-000005801",
+        "Surname": "Solyma",
+        "Forename": "Nicolo` Maria",
+        "AlternativeName": {
+            "AlternativeSurname": "Sollima",
+            "AlternativeForename": "Nicol\u00f2"
+        },
+        "PersonalTitle": "Knight of the Order of the Star",
+        "DateText": "? - 1692",
+        "StartDate": "?",
+        "EndDate": "1692",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Notes": "For a biographical account see Antonino Mongitore, Bibliotheca Sicula, Felicella, Palermo, Vol.II, pp. 92-93 (BL Shelfmark:610.m.10.)",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

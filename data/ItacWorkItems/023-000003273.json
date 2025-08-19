@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003273",
+        "WorkId": "000439",
+        "ShortTitle": "Dialogo de` Giuochi",
+        "LongTitle": "che nelle vegghie sanesi si usano di fare. Del Materiale Intronato. all`Illustrissima et Eccellentissima signora donna Isabella de` Medici Orsina Duchessa di Bracciano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1572",
+        "Shelfmark": "715.c.7|G.9983",
+        "Subjects": "Entertainment",
+        "Language": "Italian",
+        "Pagination": "223",
+        "Marginalia": "No",
+        "Edition": "1st",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16272",
+                "RecordID": "022-000002924",
+                "Value": "Bargagli,Girolamo,,"
+            }
+        },
+        "Notes": "G.9983 contains marginalia, and is imperfect, wanting pp. 51-54.",
+        "CensorsAgreement": "Con licenza de` superiori e privilegio di Sua Altezza Serenissima.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16560",
+                "RecordID": "022-000003276",
+                "Value": "Orsini de` Medici,Isabella,Duchess of Bracciano,1542 - 1576"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53862",
+            "Value": "023-000003273_53862_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

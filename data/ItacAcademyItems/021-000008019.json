@@ -1,0 +1,54 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0487",
+        "RecordId": "021-000008019",
+        "Name": "Impazienti (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Almond tree flowiring before the leaves come",
+        "Motto": "Nec satis est",
+        "StartDate": "1689 and 1694",
+        "EndDate": "?",
+        "DateText": "1689 and 1694-?",
+        "Notes": "Publications related to the history of the Academy, but not in British Library catalogue, are: Accademia degli Impazienti, Le leggi d`Apollo. Versi all`illustriss. e reverendiss. sig. canonico Alberto conte Fava per la sua laurea in ambe le leggi (Bologna: per gli eredi del Sarti, dal Monte delle Scuole, alla Rosa, 1695). The emblem and motto of the Impazienti Academy, are in Fanti, Notizie e insegne (1983)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16149",
+                "RecordId": "022-000002763",
+                "Name": "Martello,Pieriacopo,,1665-1727",
+                "Nickname": "Il Trasportato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16186",
+                "RecordId": "022-000002810",
+                "Name": "Berloni,Clemente Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20728",
+                "RecordId": "022-000008550",
+                "Name": "Conventi,Ippolito,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20729",
+                "RecordId": "022-000008552",
+                "Name": "Fava,Alberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

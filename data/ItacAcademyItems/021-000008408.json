@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0576",
+        "RecordId": "021-000008408",
+        "Name": "Costanti (Accademia dei)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "StartDate": "ca1556",
+        "EndDate": "?",
+        "DateText": "ca1556-?",
+        "Notes": "Maylender has an entry dedicated to this Academy in his Storia delle Accademie d`Italia, but also warns that there is uncertainty about the real existence of this group.",
+        "ItacPersonItem": {
+            "PersonId": "16053",
+            "RecordId": "022-000002630",
+            "Name": "Portinari,Francesco,,1530? - 1578",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

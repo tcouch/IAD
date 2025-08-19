@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007483",
+        "WorkId": "000833",
+        "ShortTitle": "La Fida Ninfa Favola Pastorale",
+        "LongTitle": "di Francesco Contarini Prencipe dell`Accademia Serafica. Dedicata al Sereniss. Principe Don Ferdinando de` Medici",
+        "ItacAcademyItem": {
+            "AcademyId": "0382",
+            "RecordID": "021-000007482",
+            "Value": "Accademia Serafica"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1598",
+        "Shelfmark": "1071k9(3)",
+        "Subjects": "Pastoral drama",
+        "Language": "Italian",
+        "Pagination": "89",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20008",
+                "RecordID": "022-000007481",
+                "Value": "Contarini,Francesco,,"
+            }
+        },
+        "Notes": "Not recorded in Maylender",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16273",
+                "RecordID": "022-000002925",
+                "Value": "de` Medici,Ferdinando I,Grand Duke of Tuscany,1549 - 1609"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9636",
+                "RecordID": "022-000001683",
+                "Value": "Bolzetta,Francesco,,1566-1653"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55004",
+            "Value": "023-000007483_55004_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005210",
+        "WorkId": "000639",
+        "ShortTitle": "Rime Di Scipione Herrico",
+        "LongTitle": "Sonetti. Madrigali. Canzone. Ode. Hinni. Capitoli. Idillij. Epitalamio. Poemetto. Panegirico. Al Molto Illustre Sign. Don Gioseppe Balsamo, Barone di Cattafi.",
+        "ItacAcademyItem": {
+            "AcademyId": "0112",
+            "RecordID": "021-000005190",
+            "Value": "Accademia della Stella"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1619",
+        "DedicationPlaceDate": "25 May 1619",
+        "Shelfmark": "11426.aa.1.",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "pp. 175",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15095",
+                "RecordID": "022-000001136",
+                "Value": "Errico,Scipione,,1592 - 1670"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "18228",
+                "RecordID": "022-000005212",
+                "Value": "Rodella,Francesco,,"
+            }
+        },
+        "Notes": "Inside cover and title page contain manuscript notes",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18220",
+                "RecordID": "022-000005202",
+                "Value": "Balsamo,Gioseppe,Senator of Messina|Baron of Cattafi,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18227",
+                "RecordID": "022-000005211",
+                "Value": "Brea,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54517",
+            "Value": "023-000005210_54517_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Stanze Di Scipione Herrico. Al Molto Illustre Sign. D. Gioseppe Balsamo, Essendo stato eletto Principe Della Accademia de` Cavalieri della Stella nella Citt\u00e0 di Messina, nell`anno 1614.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "",
+                        "RecordID": ""
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

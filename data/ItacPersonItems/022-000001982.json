@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15461",
+        "RecordId": "022-000001982",
+        "Surname": "Mantova Benavides",
+        "Forename": "Marco",
+        "Gender": "Male",
+        "DateText": "1489-1582",
+        "StartDate": "1489",
+        "EndDate": "1582",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "For his affiliation to both Infiammati and Elevati, and in general for his dates, see his biography by Franco Tomasi and Christian Zendri in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

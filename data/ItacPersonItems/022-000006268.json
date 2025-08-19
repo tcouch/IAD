@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19131",
+        "RecordId": "022-000006268",
+        "Surname": "Stelliola",
+        "Forename": "Niccol\u00f2 Antonio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Stigliola"
+            },
+            {
+                "AlternativeForename": "Nicola Antonio"
+            }
+        ],
+        "DateText": "1546/7 - 1623",
+        "StartDate": "1546/7",
+        "EndDate": "1623",
+        "Nationality": {
+            "NationalityId": "342",
+            "Value": "of Nola (Napoli)"
+        },
+        "Notes": "Joined the Lincei in 1612. Studied medicine in Salerno, he was interested in mechanics, chemistry, engineering, astronomy, natural sciences.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

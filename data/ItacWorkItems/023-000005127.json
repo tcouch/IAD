@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005127",
+        "WorkId": "000626",
+        "ShortTitle": "Relazione dell\u2019apparato fatto nell\u2019Accademia de gli Humoristi",
+        "LongTitle": "Per l\u2019orazione funerale & altri componiment recitati da gli accademici in lode del cavalier Battista Guarini, etc.",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1613",
+        "Shelfmark": "10631.c.46.(15.)",
+        "Language": "Italian|Latin",
+        "Pagination": "11",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18159",
+                "RecordID": "022-000005126",
+                "Value": "Butio,Vincenzo,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5146",
+                "RecordID": "022-000000142",
+                "Value": "Guarini,Battista,,1538-1612"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17441",
+                "RecordID": "022-000004300",
+                "Value": "Mascardi,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55293",
+            "Value": "023-000005127_55293_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

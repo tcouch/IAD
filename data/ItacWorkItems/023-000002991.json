@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002991",
+        "WorkId": "000383",
+        "ShortTitle": "Quod Sedimentum Sanorum, Aegrorumque Corporum Non Eiusdem Speciei.",
+        "LongTitle": "Adversus Ferdinandum Cassanum, & alios contrarium sentientes. ioanne Andrea Nola Crotoniata, Art. & Med. doctore, Clariss. Altimari discipulo, Auctore.",
+        "ItacAcademyItem": {
+            "AcademyId": "0050",
+            "RecordID": "021-000002988",
+            "Value": "Accademia Altomareana"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1562",
+        "Shelfmark": "1188.i.1.(2.)",
+        "Subjects": "Medicine|Science",
+        "Language": "Latin",
+        "Illustration": "Woodcut|an angel holding lilies",
+        "Pagination": "pp. 82",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16335",
+                "RecordID": "022-000002989",
+                "Value": "Altomare ,Donato Antonio ,,1566? - 1630s?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16347",
+                "RecordID": "022-000003002",
+                "Value": "Nola,Ioannes Andreas ,,"
+            }
+        },
+        "Notes": "In the preface, the author refers to the Altomareana Academy",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16349",
+                "RecordID": "022-000003004",
+                "Value": "De Maria,Marco,,"
+            }
+        },
+        "PrinterOrnament": "Edit16 CNCM 546",
+        "TitlePageImage": {
+            "ImageId": "53483",
+            "Value": "023-000002991_53483_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53956",
+            "Value": "023-000002991_53956_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

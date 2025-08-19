@@ -1,0 +1,37 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0486",
+        "RecordId": "021-000008011",
+        "Name": "Viridario (Accademia del)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "Motto": "E spe in spem",
+        "StartDate": "1511",
+        "EndDate": "?",
+        "DateText": "1511-?",
+        "Notes": "Primary source for this Academy is Viridario de Gioanne Philotheo Achillino bolognese, Impresso in Bologna: per Hieronymo di Plato bolognese, 1513. a di xxiv di decembre - not available in British Library collections. On the history of this Academi, see Clizia Gurreri, ` Nella selva dei Gelati. Ipotesi sulle accademie bolognesi tra XVI e XVII secolo`, in Sabine Frommel ed., Crocevia e capitale della migrazione artistica: forestieri a Bologna e bolognesi nel mondo (secolo XVII) (Bologna: 2012).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20348",
+                "RecordId": "022-000008012",
+                "Name": "Achillini,Giovanni Filoteo,,1466-1538",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20349",
+                "RecordId": "022-000008013",
+                "Name": "Del Ferro,Scipione,,1465-1526",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20101",
+        "RecordId": "022-000007603",
+        "Surname": "Ceba`",
+        "Forename": "Ansaldo",
+        "DateText": "1565-1622",
+        "StartDate": "1565",
+        "EndDate": "1622",
+        "Nationality": {
+            "NationalityId": "100",
+            "Value": "Genoese"
+        },
+        "Notes": "A recent contribution on Ceba`s literary activity, and related bibliography, is in Ansaldo Ceba`, Tragedie, ed. Marco Corradini (Milan 2001).",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

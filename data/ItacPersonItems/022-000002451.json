@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15890",
+        "RecordId": "022-000002451",
+        "Surname": "Savonarola",
+        "Forename": "Alvise Andrea II",
+        "AlternativeName": {
+            "AlternativeSurname": "Savonarolla",
+            "AlternativeForename": null
+        },
+        "DateText": "1674 - ?",
+        "StartDate": "1674",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1699.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

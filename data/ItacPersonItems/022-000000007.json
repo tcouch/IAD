@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5005",
+        "RecordId": "022-000000007",
+        "Surname": "Cospi",
+        "Forename": "Angelo",
+        "Gender": "Male",
+        "DateText": "1603-1671",
+        "StartDate": "1603",
+        "EndDate": "1671",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Memorie imprese ritratti degli accademici Gelati, p. 33, suggests that Cospi was first member of the Ardenti, and later joined the Gelati.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

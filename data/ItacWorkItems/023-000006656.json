@@ -1,0 +1,250 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006656",
+        "WorkId": "000791",
+        "ShortTitle": "Festa Accademica dedicata alla Sacra Maesta` di Giacomo II",
+        "LongTitle": "Re della Gran Bretagna. Difensor della Fede, et c. Da i Nobili Convittori del Collegio Clementino di Roma. de` Padri della Congregazione di Somasca. L`anno 1687",
+        "ItacAcademyItem": {
+            "AcademyId": "0170",
+            "RecordID": "021-000006654",
+            "Value": "Accademia degli Stravaganti"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1687",
+        "Shelfmark": "1476d20",
+        "Subjects": "Celebratory prose and poems|Tournament|Dance",
+        "Language": "Italian",
+        "Pagination": "36",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19442",
+                    "RecordID": "022-000006660",
+                    "Value": "Colonna,Francesco,,"
+                },
+                {
+                    "PersonId": "19440",
+                    "RecordID": "022-000006658",
+                    "Value": "Lupi Soragna,Nicolo`,Marquis,"
+                },
+                {
+                    "PersonId": "19443",
+                    "RecordID": "022-000006661",
+                    "Value": "Lodi Mora,Tomaso,,"
+                },
+                {
+                    "PersonId": "19444",
+                    "RecordID": "022-000006662",
+                    "Value": "Malaspina,Giovanni Carlo,Marquis,"
+                },
+                {
+                    "PersonId": "19445",
+                    "RecordID": "022-000006663",
+                    "Value": "Ghislieri,Giovanni Battista,Marquis,"
+                },
+                {
+                    "PersonId": "19446",
+                    "RecordID": "022-000006664",
+                    "Value": "Pallavicino,Cristoforo,,"
+                },
+                {
+                    "PersonId": "19447",
+                    "RecordID": "022-000006665",
+                    "Value": "Paravagna,Giuseppe Nicolo`,Marquis,"
+                },
+                {
+                    "PersonId": "19448",
+                    "RecordID": "022-000006666",
+                    "Value": "Ferretti,Girolamo,,"
+                },
+                {
+                    "PersonId": "19449",
+                    "RecordID": "022-000006667",
+                    "Value": "Corte,Giuseppe,Marquis,"
+                },
+                {
+                    "PersonId": "19450",
+                    "RecordID": "022-000006668",
+                    "Value": "Pallavicino,Pietro Maria,Marquis,"
+                },
+                {
+                    "PersonId": "19451",
+                    "RecordID": "022-000006669",
+                    "Value": "Ravaschieri Fiesco,Girolamo,,"
+                },
+                {
+                    "PersonId": "19452",
+                    "RecordID": "022-000006670",
+                    "Value": "Passano,Bartolomeo,,"
+                }
+            ]
+        },
+        "Notes": "According to Franchi, Impressioni sceniche, I, p. 248, the celebration was extremely lavish, and included musical symphonies directed by Arcangelo Corelli.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19439",
+                "RecordID": "022-000006657",
+                "Value": "Giacomo II,Stuart,King of England,1633-1701"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19438",
+                "RecordID": "022-000006655",
+                "Value": "Accademici Stravaganti,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19465",
+                "RecordID": "022-000006683",
+                "Value": "Ercole,Domenico Antonio,,1654 - 1728"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54875",
+            "Value": "023-000006656_54875_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Ragionamento",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19440",
+                            "RecordID": "022-000006658",
+                            "Value": "Lupi Soragna,Nicolo`,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "all Santita` di N. S. Innocenzo XI che pianse di gioia all`avviso dell`incoronazione del cattolico Re d`Inghilterra - Tu del soglio divino e de l` umano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19442",
+                            "RecordID": "022-000006660",
+                            "Value": "Colonna,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per le Sacre Maesta` di Cristina Regina di Svezia e Giacomo II Re d`Inghilterra - Scala die` sogno Ebreo e in quella alterno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19443",
+                            "RecordID": "022-000006661",
+                            "Value": "Lodi Mora,Tomaso,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Che la prole sperata dalla Sacra Real Maesta` di Maria Regina d`Inghilterra dara` l`ultima mano alle felicita` di Roma - L`astro seria del successor reale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19444",
+                            "RecordID": "022-000006662",
+                            "Value": "Malaspina,Giovanni Carlo,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La giustizia dell`invittissimo Re Britannico nel punire il Duca di Momut decapitato con molti colpi di spada - Pur su l`Angelico palco Astrea respira",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19445",
+                            "RecordID": "022-000006663",
+                            "Value": "Ghislieri,Giovanni Battista,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Tempio eroicamente aperto a i Cattolici di Londra dalla Sacra Real Maesta` di Giacomo II - Morta in Anglia era Roma e il lutto indegno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19446",
+                            "RecordID": "022-000006664",
+                            "Value": "Pallavicino,Cristoforo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nell`incoronazione dell`Invittissimo Re Britannico Giacomo II. L`invidia delusa - Qual scender puote dal Celeste impero",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19447",
+                            "RecordID": "022-000006665",
+                            "Value": "Paravagna,Giuseppe Nicolo`,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`Eccellentissimo Sig. Ambasciatore Britannico Ruggiero Conte di Castelmaine - Mira, Britanno Eroe, Roma piu` ardita",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19448",
+                            "RecordID": "022-000006666",
+                            "Value": "Ferretti,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Serenissima Sig. Duchessa Laura d`Este. S`allude alla prole desiderata della reale sua figlia. Ed a suoi eroici atti di pieta` - Donna ricca d`eroi per Cui gia` angusta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19449",
+                            "RecordID": "022-000006667",
+                            "Value": "Corte,Giuseppe,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`Altezza Sereniss. del Sig. Duca di Modona Francesco II mentre contempla le antichita` di Roma - In van da i bronzi offesi e i marmi infranti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19450",
+                            "RecordID": "022-000006668",
+                            "Value": "Pallavicino,Pietro Maria,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "la magnificenza dell`Eccellentiss. Sig Conte di Castelmaine in varie guise dimostrata nella sua reale ambasceria - Eroe scelto da i Numi al gran lavoro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19451",
+                            "RecordID": "022-000006669",
+                            "Value": "Ravaschieri Fiesco,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`eminentiss. Sig. Cardinale Decio Azzolino protettore del nostro Collegio. Si scusa la presente Accademia - Quella che gia scese da gl` Astri ardenti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19452",
+                            "RecordID": "022-000006670",
+                            "Value": "Passano,Bartolomeo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Disposizione degli esercizi cavallereschi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19452",
+                            "RecordID": "022-000006670"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

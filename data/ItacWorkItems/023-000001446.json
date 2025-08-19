@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001446",
+        "WorkId": "00174",
+        "ShortTitle": "Tumultos De La Ciudad y Reyno De Napoles.",
+        "LongTitle": "En El A\u00f1o De 1647. Por Don Pablo Antonio De Tarsia | Doctor En Sagrada Theologia y Abad de San Antonio | Patronato de su Casa | en la Ciudad de Conversano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "53",
+            "PublicationPlaceItalianName": "Lyon",
+            "PublicationPlaceEnglishName": "Lugdunum",
+            "PublicationPlaceLatinName": "Leon de Francia"
+        },
+        "PublicationYear": "1670",
+        "Shelfmark": "662.f.17.",
+        "Content": "Account of the revolt of Naples occurred in 1647",
+        "Subjects": "History of Naples",
+        "Language": "Latin|Spanish",
+        "Illustration": "A copperplate on the title page showing a flying Mercury holding an open book containing the Latin phrase Docta Per Orbem Scripta Fero. | Two woodcuts show Mercury holding his caduceus. | At the bottom the letters CB may refer to the engraver.    |",
+        "Pagination": "First 12 pages unnumbered | Last 30 pages unnumbered | pp. 237",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15257",
+                "RecordID": "022-000001300",
+                "Value": "De Tarsia,Pablo Antonio,Abbot,1619-1665"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15333",
+                "RecordID": "022-000001372",
+                "Value": "Burgea,Claudio,,"
+            }
+        },
+        "Notes": "On p. 30 the author mentions the Oziosi Academy. | On the first page a MS. note in English says Presented by sir Richard Colt Hoare Bart 1825. | On the first title page a MS. note says Don Fernando Negron.",
+        "CensorsAgreement": "Con Privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15332",
+                "RecordID": "022-000001371",
+                "Value": "Habsburg,Juan Jos\u00e9 ,,1629-1679"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15334",
+                    "RecordID": "022-000001373",
+                    "Value": "Thourneyser,Johann Jacob,,1636-1718"
+                },
+                {
+                    "PersonId": "15335",
+                    "RecordID": "022-000001374",
+                    "Value": "Aurr[?]in,I. P.,,"
+                },
+                {
+                    "PersonId": "15336",
+                    "RecordID": "022-000001375",
+                    "Value": "C.,B.,,"
+                }
+            ]
+        },
+        "EngraverReference": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

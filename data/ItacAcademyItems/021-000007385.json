@@ -1,0 +1,307 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0367",
+        "RecordId": "021-000007385",
+        "Name": "Dodonei (Accademia dei)",
+        "AlternativeName": "Accademia Dodonea",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Dove on a tree of six branches bearing two crowns",
+        "Motto": "Unknown",
+        "StartDate": "1673",
+        "EndDate": "?",
+        "DateText": "1673-?",
+        "Notes": "Publication not in British Library collections, include: Giudizio dell` Accademia Dodonea di Venezia sopra un Sonetto di Girolamo Ceresolo di Rovigo (1675); I sospiri di Candia indirizzati ai principi cattolici (1678); Obitum Equitis Joannis Baptistae Nani D. Marci Procuratoris, lngente Accademia Dodonaea, Oratio Joannis Querini. Venetiis, Typ. Joannis Francisci Valvasensis (1679); Oratio habita Venetiis, in Academia Dodonaea, a Carolo Patino ... die 1. junii 1687. In aedibus Maurocenianis (Patavii: ex Typographia Seminarii, 1687); G. Querini, Obitum equitis Io. Bapt. Nani\u2026 Lugente Accademia Dodonea\u2026 Oratio, Venezia s.d.;",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19935",
+                "RecordId": "022-000007384",
+                "Name": "Grandi,Iacopo,,1646 - 1691",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19932",
+                "RecordId": "022-000007381",
+                "Name": "Ottobon,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9140",
+                "RecordId": "022-000001619",
+                "Name": "Cornaro\u00a0Piscopia,Helena Lucrezia,,1646 - 1684",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19938",
+                "RecordId": "022-000007389",
+                "Name": "Morosini,Angelo,Procurator,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19940",
+                "RecordId": "022-000007391",
+                "Name": "Correr,Angelo,Procurator,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19970",
+                "RecordId": "022-000007429",
+                "Name": "Magnavini,Gio: Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9111",
+                "RecordId": "022-000001718",
+                "Name": "Morselli,Adriano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19972",
+                "RecordId": "022-000007431",
+                "Name": "Giusti,Antonio,,1624 - 1705",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19973",
+                "RecordId": "022-000007432",
+                "Name": "Amalteo,Aurelio,,1626 - ?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9046",
+                "RecordId": "022-000001637",
+                "Name": "de` Dottori,Carlo,,1618 - 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19976",
+                "RecordId": "022-000007435",
+                "Name": "Crota,Francesco,,? - 1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16491",
+                "RecordId": "022-000003175",
+                "Name": "de Tassis,Ferdinando Turriano,Baron,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9101",
+                "RecordId": "022-000001707",
+                "Name": "Viali,Felice,,1638 - 1722",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19978",
+                "RecordId": "022-000007437",
+                "Name": "Querini,Giovanni,,1639 - 1687",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9061",
+                "RecordId": "022-000001651",
+                "Name": "Frigimelica Roberti,Girolamo ,,1653 - 1732",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19979",
+                "RecordId": "022-000007438",
+                "Name": "Rota,Giovanni Battista,,1662 - ?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19980",
+                "RecordId": "022-000007439",
+                "Name": "Mazzi,Giacopo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19981",
+                "RecordId": "022-000007440",
+                "Name": "Capitanio,Giuseppe,Abbot,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19982",
+                "RecordId": "022-000007441",
+                "Name": "Soderini,Genesio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19937",
+                "RecordId": "022-000007387",
+                "Name": "Piovene,Lelio,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18519",
+                "RecordId": "022-000005553",
+                "Name": "Beregan,Nicolo`,,1627 - 1713",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19983",
+                "RecordId": "022-000007442",
+                "Name": "Zaguri,Pellegrino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19984",
+                "RecordId": "022-000007443",
+                "Name": "Beltrame,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19985",
+                "RecordId": "022-000007444",
+                "Name": "Pievano di San Marciliano,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19986",
+                "RecordId": "022-000007445",
+                "Name": "Marcello,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19987",
+                "RecordId": "022-000007446",
+                "Name": "Loredano,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19988",
+                "RecordId": "022-000007447",
+                "Name": "Fattorini,Tebaldo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19989",
+                "RecordId": "022-000007448",
+                "Name": "Vettor,Sandi,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19258",
+                "RecordId": "022-000006439",
+                "Name": "Bon,Nicolo`,,1635 - 1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20223",
+                "RecordId": "022-000007789",
+                "Name": "Zopelli,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19974",
+                "RecordId": "022-000007433",
+                "Name": "David,Domenico,,1619?-1699",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55016",
+                    "Value": "022-000007433_55016_2.jpg"
+                }
+            },
+            {
+                "PersonId": "19975",
+                "RecordId": "022-000007434",
+                "Name": "Altani,Scipione Enrico,Count of Salvarolo,1654-1738",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55025",
+                    "Value": "022-000007434_55025_2.jpg"
+                }
+            },
+            {
+                "PersonId": "19774",
+                "RecordId": "022-000007201",
+                "Name": "Ferro,Lazaro,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55057",
+                    "Value": "022-000007201_55057_2.jpg"
+                }
+            },
+            {
+                "PersonId": "19939",
+                "RecordId": "022-000007390",
+                "Name": "Nani,Giovan Battista Felice Gasparo,Procurator,1616-1679",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

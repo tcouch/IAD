@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003796",
+        "WorkId": "000509",
+        "ShortTitle": "Il giusto inganno",
+        "LongTitle": "Comedia nuova. Composta per il Desioso della Congrega de gl`Insipidi di Siena",
+        "ItacAcademyItem": {
+            "AcademyId": "0061",
+            "RecordID": "021-000003726",
+            "Value": "Congrega degli Insipidi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1583",
+        "Shelfmark": "162.a.48",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "39",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16981",
+                "RecordID": "022-000003771",
+                "Value": "Tregiani,Domenico di Gismondo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16997",
+                "RecordID": "022-000003789",
+                "Value": "Alla Loggia del Papa,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53872",
+            "Value": "023-000003796_53872_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53873",
+            "Value": "023-000003796_53873_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

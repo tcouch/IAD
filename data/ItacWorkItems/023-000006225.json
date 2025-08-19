@@ -1,0 +1,98 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006225",
+        "WorkId": "000731",
+        "ShortTitle": "Gasparis Tagliacotii bononiensis De curtorum chirurgia per insitionem libri duo",
+        "LongTitle": "Ad serenissimum principem D. Vincentium Gonzagam Mantuae et Monti Ferrati Ducem",
+        "ItacAcademyItem": {
+            "AcademyId": "0148",
+            "RecordID": "021-000006222",
+            "Value": "Accademia degli Oziosi (Bologna)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1597",
+        "DedicationPlaceDate": "27 March 1597",
+        "Shelfmark": "549m7",
+        "Subjects": "Medicine|Plastic surgery",
+        "Language": "Latin|Greek",
+        "Pagination": "95",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19098",
+                "RecordID": "022-000006224",
+                "Value": "Tagliacozzi,Gasparo,,1545 - 1599"
+            }
+        },
+        "Notes": "The author mentions Scipione Gonzaga as `formerly patron of our Academy of the Oziosi`. The volume contains several woodcuts. For a detailed study of the autor and his book, see Gnudi and Webster, The Life and Times of Gaspare Tagliacozzi Surgeon of Bologna. 1545 - 1599. With a Documented Study of the Scientific and Cultural Life of Bologna in the Sixteenth Century (1950). Images include flyleaf, and title page.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15356",
+                    "RecordID": "022-000001395",
+                    "Value": "Maraveglia,Gio[vanni],,"
+                },
+                {
+                    "PersonId": "9661",
+                    "RecordID": "022-000001830",
+                    "Value": "Paolini,Fabio,,ca.1535-1605"
+                },
+                {
+                    "PersonId": "16058",
+                    "RecordID": "022-000002636",
+                    "Value": "Mocenigo,Alvise,,"
+                },
+                {
+                    "PersonId": "19099",
+                    "RecordID": "022-000006226",
+                    "Value": "Capello,Silvan,,"
+                },
+                {
+                    "PersonId": "17004",
+                    "RecordID": "022-000003806",
+                    "Value": "Erizzo,Marc`Antonio,,"
+                },
+                {
+                    "PersonId": "19100",
+                    "RecordID": "022-000006227",
+                    "Value": "Magnus,Coelius,,"
+                },
+                {
+                    "PersonId": "19101",
+                    "RecordID": "022-000006228",
+                    "Value": "Brocardus,Philippus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Gli Eccellentissimi signori capi dell\u2019Illustrissimo conseglio di X infrascritti havuta fede dalli Sig Reformatori sopra lo studio di Padoa, per relatione delli tre a ci\u00f2 deputati, cio\u00e9 del Reverendo P. Inquisitor, del circ. Secretario del Senato Gio. Maraveglia, et di D. Fabio Paulini Dottor et lettor publico, che nella Cirugia di Gasparo Tagliacozza non vi \u00e8 alcuna cosa contra le leggi, et \u00e8 degna di stampa, concedono licentia, che possa esser stampata in questa citt\u00e0. Dat. Die 9 Octobris 1596.\nD. Alvise Mocenigo; D. Silvan Capello; D. Marc\u2019Antonio Erizzo. Capi dell\u2019Illustrissimo Conseglio di X. Illustrissimi Consilii X Secretarius Coelius Magnus. 1597 Ad\u00ec 29 April Registrata nell\u2019oficio cont. la Biastema. Philippus Brocardus officii cont. Blasph. Coad. Cum licentia superiorum",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19102",
+                "RecordID": "022-000006229",
+                "Value": "Gonzaga,Vincenzo,Duke of Mantua,1562-1612"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5251",
+                "RecordID": "022-000000242",
+                "Value": "Bindoni,Gaspare,,1558-?"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54607",
+            "Value": "023-000006225_54607_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54608",
+            "Value": "023-000006225_54608_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

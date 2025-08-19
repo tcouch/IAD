@@ -1,0 +1,107 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001945",
+        "WorkId": "000273",
+        "ShortTitle": "Li primi albori musicali",
+        "LongTitle": "Per li Principianti della Musica Figurata; distinti in tre libri. dal primo spuntano li Principij del Canto Figurato; Dal Secondo spiccano le Regole del Contrapunto; Dal Terzo appariscono li Fondamenti per suonare l`Organo, o Clavicembalo sopra la Parte; Del P. F. Lorenzo Penna Da Bologna Carmelitano della Cong(regazione) di Mantova, Maestro di Sacra Teologia, Dottore Colleg(iale) fra gli Accademici Filaschisi, e Risoluti, l`Indefesso. Al Reverendissimo Padre Clemente Maria Felina. maestro e dottore di Sacra Teologia, Lettore Publico, Vicevicario, Diffinitore perpetuo, e Priore di S. Martino Maggiore di Bologna",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0019",
+                "RecordID": "021-000001473",
+                "Value": "Accademia Filarmonica"
+            },
+            {
+                "AcademyId": "0096",
+                "RecordID": "021-000004782",
+                "Value": "Accademia dei Risoluti (Bologna)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1672",
+        "DedicationPlaceDate": "Parma 19 November 1672",
+        "Shelfmark": "1042.k.5",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "3 parts in one pp. 62; 132; 89",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15434",
+                "RecordID": "022-000001946",
+                "Value": "Penna,Lorenzo,,ca. 1613 - 1693"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15435",
+                    "RecordID": "022-000001947",
+                    "Value": "Lupi,Giovanni Paolo Maria,Marquis of Soragna,"
+                },
+                {
+                    "PersonId": "15436",
+                    "RecordID": "022-000001948",
+                    "Value": "Crivelli,Paladino,Count,"
+                },
+                {
+                    "PersonId": "15438",
+                    "RecordID": "022-000001950",
+                    "Value": "Inaspettato,,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15443",
+                    "RecordID": "022-000001955",
+                    "Value": "Menghi,Alberto,Vicar General,"
+                },
+                {
+                    "PersonId": "15444",
+                    "RecordID": "022-000001956",
+                    "Value": "Droghi,Hieronymus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Approbationes. Opusculum, cuius titulus est, Primi Albori della Musica Figurata, et c. a Rev. Adm. P. Mag. Sac. Theol. Laurentio Penna a Bononia, compositum iussu Reverendiss. P. Mag. Alberti Menghi a Corrigia Congregat. Mant. Carmelitarum de Observantia Vic. Generalis vidi, ac diligenter perlegi, et cum nihil contra Catholicam fidem, aut bonos mores invenerim, ut in lucem prodeat dignum duxi. In Carmelo nostro S. Mariae Nativit. Parmae die 25 Iulij 1672. Frater Hieronymus Droghi a Parma Sac. Theologiae magister, ac Conventus Carmelitarum Parmae Prior. Frater Albertus a parma idem confirmo. Collectas in unum hasce Musice Methodos, ad concinnendum sonoris numeris sapienter absolutas per Reverendum Ad. P. Magistrum Laurentium Penna Carm. Cong. in Ecclesia Conventus nostri Parme Musices Praefectum; et a Reverendis Ad. PP. Magistris a nobis deputatis revisas, et comprobatas. stante ipsorum approbatione, quantum ad nos spectat, typis edi posse praeloq. dignas existimavimus. In Carmelo Regij die 23 Augusti 1672. Ita Frater Albertus Menghius humilis Vicarius Generalis.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15440",
+                    "RecordID": "022-000001952",
+                    "Value": "Vaghi,Angela Francesca,,"
+                },
+                {
+                    "PersonId": "15441",
+                    "RecordID": "022-000001953",
+                    "Value": "Guastalla,Maria Vittoria,,"
+                },
+                {
+                    "PersonId": "15442",
+                    "RecordID": "022-000001954",
+                    "Value": "Aicardi,Scolastica Colomba,,"
+                },
+                {
+                    "PersonId": "15383",
+                    "RecordID": "022-000001877",
+                    "Value": "Felina,Clemente Maria,Vicar General,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15819",
+        "RecordId": "022-000002373",
+        "Surname": "Angelucci",
+        "Forename": "Teodoro",
+        "Gender": "Male",
+        "DateText": "?-ca.1600",
+        "StartDate": "?",
+        "EndDate": "ca.1600",
+        "Nationality": {
+            "NationalityId": "379",
+            "Value": "of Belforte (Macerata)"
+        },
+        "Notes": "Among the founders of Accademia Veneziana",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

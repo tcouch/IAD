@@ -1,0 +1,90 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005985",
+        "WorkId": "000709",
+        "ShortTitle": "Il Cromuele",
+        "LongTitle": "Del Sig. Dottore Alfonso Paioli Academico Infecondo. In questa quarta impressione riveduto e corretto dall`Autore. Et accresciuto d`aclune curiose osservazioni intorno allo stato presente dell`Inghilterra. Dedicato al molt`illustre sig. e padron Colendissimo, il Sig. Alessandro Corticelli",
+        "ItacAcademyItem": {
+            "AcademyId": "0125",
+            "RecordID": "021-000005612",
+            "Value": "Accademia degli Infecondi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1685",
+        "Shelfmark": "10602a38(1)",
+        "Subjects": "Biography",
+        "Language": "Italian|Latin",
+        "Pagination": "186",
+        "Marginalia": "No",
+        "Edition": "4th",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18892",
+                "RecordID": "022-000005982",
+                "Value": "Paioli,Alfonso,,1630 - 1711"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18895",
+                    "RecordID": "022-000005986",
+                    "Value": "Rubini,Angelo Maria,,"
+                },
+                {
+                    "PersonId": "5232",
+                    "RecordID": "022-000000224",
+                    "Value": "Giacconi,Paolo Geronimo,,"
+                },
+                {
+                    "PersonId": "18896",
+                    "RecordID": "022-000005987",
+                    "Value": "Giribaldus,Mauritius,,"
+                },
+                {
+                    "PersonId": "5231",
+                    "RecordID": "022-000000223",
+                    "Value": "Musotto,Ioseph.,,"
+                },
+                {
+                    "PersonId": "18693",
+                    "RecordID": "022-000005757",
+                    "Value": "Molus,Angelus Gulielmus,Vicar General of the Holy Office in Bologna,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Adi 16 maggio 1685. Padre Angelo Maria Rubini Chierico Regolare Teatino si contenti di vedere, e riferire se in questa Istoria vi sia cosa contraria per cui non possa stamparsi et c. Dal S. Uffitio et c. Fra Paolo Geronimo Giacconi Inquisitore di Bologna. De Mandato Reverendissimi Patris Inquisitoris, Ego infrascriptus vidi hunc libellum, cui titulus Il Cromuele del Dottor Paioli, et cum nihil reperiri contra Fidem, aut contra bonos mores, regulisque Indicis contrarium, Typis posse demandari censeo, si dicto Reverendissimo Patri Inquisitori Placuerit. D. Angelus Maria Rubini Cler. Reg. Lector Collegii Sancti Bartolomaei in Porta. V. D. Mauritius Giribaldus Clericus Regularis S. Pauli, et in metropolitana Bononiensi Penitentiarius pro Illustrissimo et Reverendissimo D. D. Iosepho Musotto Vicario Capitulari. Imprimatur . Fr. Angelus Gulielmus Molus Vicarius generalis Sancti Offitij Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18893",
+                "RecordID": "022-000005983",
+                "Value": "Corticelli,Alessandro,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18894",
+                "RecordID": "022-000005984",
+                "Value": "Ceratto,Giacomo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15460",
+                "RecordID": "022-000001980",
+                "Value": "Barbieri,Domenico (Erede di),,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54493",
+            "Value": "023-000005985_54493_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

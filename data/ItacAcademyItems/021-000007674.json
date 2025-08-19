@@ -1,0 +1,37 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0392",
+        "RecordId": "021-000007674",
+        "Name": "Avvivati (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "Motto": "Candor ab utroque",
+        "StartDate": "1657",
+        "EndDate": "?",
+        "DateText": "1657-?",
+        "Notes": "One publication related to this Academy, but not in British Library collections is: L` inganno della bellezza, overo, che la bellezza non \u00e8 bene, ma disgrazia di natura. Discorso accademico di Domenico Maria Torini, convittore del nobile Collegio di S. Tomaso d`Aquino di Bologna (Bologna: Gacomo Monti, 1664). The book contains the Academy emblem. On this Academy, see Fanti, Notizie e insegne delle accademie di Bologna: da un manoscritto del secolo 18 (Bologna: Rotary Club 1983)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5156",
+                "RecordId": "022-000000151",
+                "Name": "Canuti,Girolamo,,fl.1657",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17594",
+                "RecordId": "022-000004488",
+                "Name": "Torini,Domenico Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

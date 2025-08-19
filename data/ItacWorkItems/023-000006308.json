@@ -1,0 +1,112 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006308",
+        "WorkId": "000743",
+        "ShortTitle": "Io Bap. Portae Neapolitani Elementorum curvilineorum Libri Tres.",
+        "LongTitle": "In quibus altera Geometriae parte restituta, agitur de circuli quadratura. Ad Illustrissimum Principem ac D. D. Federicum Caesium Montis Caelii Marchion. II et c. Baronem Romanum",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1610",
+        "DedicationPlaceDate": "Kal. Iulii 1610",
+        "Shelfmark": "538d20(2)",
+        "Subjects": "Geometry",
+        "Language": "Latin|Greek",
+        "Pagination": "[8] 96 [4]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16280",
+                "RecordID": "022-000002933",
+                "Value": "Della Porta,Giambattista,,1535? - 1615"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15230",
+                    "RecordID": "022-000001273",
+                    "Value": "Stelluti,Francesco,,"
+                },
+                {
+                    "PersonId": "19159",
+                    "RecordID": "022-000006303",
+                    "Value": "Demisiani,Ioannis,,"
+                }
+            ]
+        },
+        "Notes": "Stelluti signs as `Linceo`.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15212",
+                    "RecordID": "022-000001254",
+                    "Value": "Fidelis,Caesar,,"
+                },
+                {
+                    "PersonId": "18184",
+                    "RecordID": "022-000005163",
+                    "Value": "Ystella,Ludovicus,,"
+                },
+                {
+                    "PersonId": "19142",
+                    "RecordID": "022-000006281",
+                    "Value": "Butius,Antonius,,"
+                },
+                {
+                    "PersonId": "19162",
+                    "RecordID": "022-000006309",
+                    "Value": "da Fonseca,Damianus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur R. P. M. Sac. Pal. Apost. Caesar Fidelis Vicesg. Libros tres elementorum curvilineorum perillustriss. et Excellentissimi D. Ioannis Baptistae Portae Neapolitani, ex ordine Reverendissimi P. Magistri perlegi, eosque cum nihil fidei, vel moribus adversum continere invenerim typis dignos existimavi. romae Die 20 Iulii 1610. Antonius Butius Faventinus Civis Romanus Philosophiae et Medicinae Doctor. Imprimatur Fr. Damianus a Fonseca magister, et Socius Reverendissimi P. Magistri Fr. Ludovici Ystella, Sacri Palatii Apostolici Magistri, ordinis Praedicatirum",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19124",
+                "RecordID": "022-000006260",
+                "Value": "Cesi,Federico,Prince of  Acquasparta,1585 - 1630"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16074",
+                "RecordID": "022-000002658",
+                "Value": "Zannetti,Bartolomeo,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "[Celebratory poem, in Greek language, dedicated to Della Porta and his book]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19159",
+                            "RecordID": "022-000006303",
+                            "Value": "Demisiani,Ioannis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Vidimus innumeras mutantem Protea formas",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15230",
+                            "RecordID": "022-000001273",
+                            "Value": "Stelluti,Francesco,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

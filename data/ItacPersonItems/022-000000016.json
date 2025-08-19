@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5014",
+        "RecordId": "022-000000016",
+        "Surname": "Capponi",
+        "Forename": "Giovambattista",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Giovanni Battista"
+        },
+        "Pseudonym": "Charisius Thermarius Spado",
+        "DateText": "1620-1675",
+        "StartDate": "1620",
+        "EndDate": "1675",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "On Capponi`s biography and cultural interests, see Gian Luigi Betti, `Giovan Battista Capponi: la \u201ccarriera della gloria\u201d di un mago e scienziato nella Bologna del Seicento`, in L`Archiginnasio, (2006). Capponi was also member of the Parteni Academy in Bologna, Offuscati Academy in Cesena, Incolti Academy in Mirandola, and the Crusca Academy in Florence.",
+        "Role": "Contributor|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

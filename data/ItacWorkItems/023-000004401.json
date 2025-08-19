@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004401",
+        "WorkId": "000575",
+        "ShortTitle": "Rime di diversi nobili huomini et eccellenti poeti nella lingua thoscana.",
+        "LongTitle": "Libro secondo",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1547",
+        "DedicationPlaceDate": "Venice 20 March 1547",
+        "Shelfmark": "240.d.5",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "184r-v [26]",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16496",
+                "RecordID": "022-000003180",
+                "Value": "Vignali,Antonio,,1500 - 1559"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7106",
+                "RecordID": "022-000000840",
+                "Value": "De` Ferrari,Gabriel Giolito,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7106",
+                "RecordID": "022-000000840",
+                "Value": "De` Ferrari,Gabriel Giolito,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54173",
+            "Value": "023-000004401_54173_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54174",
+            "Value": "023-000004401_54174_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Da le vostre leggiadre et nove stelle",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16496",
+                            "RecordID": "022-000003180",
+                            "Value": "Vignali,Antonio,,1500 - 1559"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dal visco che tra fiori Amor vi tende",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16496",
+                            "RecordID": "022-000003180",
+                            "Value": "Vignali,Antonio,,1500 - 1559"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

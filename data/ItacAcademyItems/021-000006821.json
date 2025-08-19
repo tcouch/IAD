@@ -1,0 +1,116 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0217",
+        "RecordId": "021-000006821",
+        "Name": "Dogmi (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1694",
+        "EndDate": "?",
+        "DateText": "1694-?",
+        "Notes": "The venue of the Academy was at San Paolo alla Regola.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19542",
+                "RecordId": "022-000006803",
+                "Name": "di Sant`Elia,Bonaventura,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19545",
+                "RecordId": "022-000006819",
+                "Name": "Bellisomi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19546",
+                "RecordId": "022-000006820",
+                "Name": "degli Atti,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17681",
+                "RecordId": "022-000004576",
+                "Name": "Albani,Giovanni Francesco,Pope Clement XI,1649 - 1721",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19548",
+                "RecordId": "022-000006823",
+                "Name": "Charlas,Jean Antoine,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19549",
+                "RecordId": "022-000006824",
+                "Name": "Gabrielli,G. A.,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19550",
+                "RecordId": "022-000006825",
+                "Name": "da Gesu`,Liberio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19551",
+                "RecordId": "022-000006826",
+                "Name": "Massouilie`,Antonin,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19518",
+                "RecordId": "022-000006778",
+                "Name": "Porter,Francis,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19553",
+                "RecordId": "022-000006828",
+                "Name": "Hennebel,Jean Libert,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19552",
+                "RecordId": "022-000006827",
+                "Name": "Bachx,I.,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5452",
+                "RecordId": "022-000000436",
+                "Name": "Lambertini,Prospero Lorenzo,Pope Benedetto XIV,1675-1758",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000428",
+        "WorkId": "00250",
+        "ShortTitle": "Il trionfo della miracolosa Vergine della vita",
+        "LongTitle": "Epitalamio di Silvestro Branchi il Costante nell`Accademia de Ravvivati. All`illustrissimo et reverensissimo signor Giulio Sacchetti digniss. Vicelegato di Bologna",
+        "ItacAcademyItem": {
+            "AcademyId": "0006",
+            "RecordID": "021-000000002",
+            "Value": "Accademia dei Riaccesi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1623",
+        "DedicationPlaceDate": "Bologna 25 october 1623",
+        "Shelfmark": "11429.ee.9",
+        "Subjects": "Epithalamus|Santa Maria della Vita",
+        "Language": "Italian|Latin",
+        "Pagination": "30",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5370",
+                "RecordID": "022-000000376",
+                "Value": "Branchi,Silvestro,,c. 1550-c. 1650"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5150",
+                    "RecordID": "022-000000215",
+                    "Value": "De Bonis,Homobonus,,"
+                },
+                {
+                    "PersonId": "5405",
+                    "RecordID": "022-000000415",
+                    "Value": "Gottardus,Cast.,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Homob. Poenit. Pro Illustriss. Card. Archiep. Imprimatur Fr. Gottardus Cast. Pro Reverend. P. Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5201",
+                "RecordID": "022-000000195",
+                "Value": "Sacchetti,Giulio Cesare,Cardinal,1586-1663"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5408",
+                "RecordID": "022-000000418",
+                "Value": "Moscatelli,Giovanni Paolo,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52699",
+            "Value": "023-000000428_52699_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

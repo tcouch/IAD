@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007885",
+        "WorkId": "000889",
+        "ShortTitle": "Discorso intorno alle cose della guerra,",
+        "LongTitle": "con una oratione della pace",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Accademia Veneziana (della Fama)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "835e1(2)|521d3(1)|58e18",
+        "Subjects": "Discourse on war|Oration on peace",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17194",
+                "RecordID": "022-000004004",
+                "Value": "Pole,Reginald,Cardinal,1550-1558"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15470",
+                "RecordID": "022-000001992",
+                "Value": "d`Este,Alfonso II,,1533-1597"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17213",
+                "RecordID": "022-000004026",
+                "Value": "Girardi,Antonio,,16th c."
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "PrinterOrnament": "U226",
+        "TitlePageImage": {
+            "ImageId": "55076",
+            "Value": "023-000007885_55076_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Oratione del Cardinal Polo in materia di pace - A Carlo Quinto Imperatore",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "17194",
+                        "RecordID": "022-000004004",
+                        "Value": "Pole,Reginald,Cardinal,1550-1558"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

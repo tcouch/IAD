@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16352",
+        "RecordId": "022-000003007",
+        "Surname": "Tron",
+        "Forename": "Andrea",
+        "AlternativeName": {
+            "AlternativeSurname": "Trono",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Senator",
+        "DateText": "1647 - ?",
+        "StartDate": "1647",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

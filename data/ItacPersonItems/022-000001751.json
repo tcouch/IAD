@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9165",
+        "RecordId": "022-000001751",
+        "Surname": "Von Birken",
+        "Forename": "Sigismund",
+        "DateText": "1626-1681",
+        "StartDate": "1626",
+        "EndDate": "1681",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Exponent of the Pegnesisches Blumenorden",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

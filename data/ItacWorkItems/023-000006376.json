@@ -1,0 +1,70 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006376",
+        "WorkId": "000766",
+        "ShortTitle": "Descrittione Della Citt\u00e0 Di Napoli, e del suo amenissimo distretto.",
+        "LongTitle": "E Dell`Antichita Et Dell`Antichita Della Citt\u00e0 Di Pozzuolo. Con la narratione di tutti i luoghi notabili, e degni di memoria di Cuma, di Baia, di Miseno, & de gli altri luoghi convicini. Postovi medesimamente tutti i bagni, che son`hoggi in essere con le loro propriet\u00e0, & \u00e0 qual`infirmit\u00e0 giovino. Con le figure de gli Edificij, e con gli Epitaffi, che vi sono. Di D. Gioseppe Mormile Nap. Et in questa seconda impressione dall`istesso Autore accresciuta di molte cose non meno curiose, che utili. Terza Impressione. Purgata con ogni diligenza, da infiniti errori, che la rendevano manchevole, e difettosa. Al Molt`Illustre Sig. e Padron mio Osservandissimo Il Signore Francesco Antonio Picchiatti Ingegniero, & Architetto di Sua Maest\u00e0 Cattolica nel Regno di Napoli.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0044",
+                "RecordID": "021-000002767",
+                "Value": "Accademia de gl`Infuriati"
+            },
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            },
+            {
+                "AcademyId": "0035",
+                "RecordID": "021-000002615",
+                "Value": "Accademia degli Incauti"
+            }
+        ],
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1670",
+        "DedicationPlaceDate": "Naples 4 February 1670",
+        "Shelfmark": "574.a.9.",
+        "Subjects": "Description of Naples|Description of Pozzuoli and its vicinities",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Woodcuts|Pozzuoli and its vicinities",
+        "Pagination": "pp. 256",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19194",
+                "RecordID": "022-000006355",
+                "Value": "Mormile,Giuseppe,,"
+            }
+        },
+        "Notes": "On pp. 5-6, the author mentions various Neapolitan academies",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19207",
+                "RecordID": "022-000006377",
+                "Value": "Picchiatti,Francesco Antonio,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19208",
+                "RecordID": "022-000006378",
+                "Value": "Scultore,Adriano,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15919",
+                "RecordID": "022-000002483",
+                "Value": "Paci,Gio[vanni] Francesco,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

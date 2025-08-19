@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19273",
+        "RecordId": "022-000006456",
+        "Surname": "Herwart",
+        "Forename": "Johan Georg",
+        "DateText": "1553 - 1622",
+        "StartDate": "1553",
+        "EndDate": "1622",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Chancellor of the Duke of Bavaria. He was in correspondence with Kepler, Brahe, Wesler, and other Lincei.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

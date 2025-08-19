@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9220",
+        "RecordId": "022-000001517",
+        "Surname": "Giunti",
+        "Forename": "Bernardo I - Eredi",
+        "DateText": "fl.1551 - 1591",
+        "StartDate": "fl.1551",
+        "EndDate": "1591",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Printer",
+        "TypographicReference": "A51|Z654|A48|Z647|U567",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

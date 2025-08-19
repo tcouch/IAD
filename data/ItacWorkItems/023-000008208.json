@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008208",
+        "WorkId": "000921",
+        "ShortTitle": "Oratione del Sig. Alberto Lollio;",
+        "LongTitle": "in laude della Concordia. Ai signori academici Filareti di Ferrara",
+        "ItacAcademyItem": {
+            "AcademyId": "0516",
+            "RecordID": "021-000008048",
+            "Value": "Filareti (Accademia dei)"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1555",
+        "Shelfmark": "12354d37",
+        "Subjects": "Academic speech",
+        "Language": "Italian",
+        "Pagination": "13-18",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20471",
+                "RecordID": "022-000008201",
+                "Value": "Lollio,Alberto,,1508-1569"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15470",
+                "RecordID": "022-000001992",
+                "Value": "d`Este,Alfonso II,,1533-1597"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20477",
+                "RecordID": "022-000008209",
+                "Value": "Bordogna,Sigismondo,,?-1602/3"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55278",
+            "Value": "023-000008208_55278_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

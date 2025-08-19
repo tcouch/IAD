@@ -1,0 +1,35 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0047",
+        "RecordId": "021-000002835",
+        "Name": "Adornati (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1695?",
+        "DateText": "1695?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16206",
+                "RecordId": "022-000002836",
+                "Name": "Crescenzio ,Niccol\u00f2,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16142",
+                "RecordId": "022-000002754",
+                "Name": "Di Capua,Leonardo,,1617 - 1695",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

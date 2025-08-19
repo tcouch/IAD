@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002920",
+        "WorkId": "000380",
+        "ShortTitle": "Dell`imprese di Scipion Bargagli Gentil`huomo Sanese",
+        "LongTitle": "Alla prima Parte, la Seconda, e la terza nuovamente aggiunte: Dove; doppo tutte l`opere cosi` a penna, come a stampa, ch`egli ha potuto vedere di coloro, che della materia dell`Imprese hanno parlato; della vera natura di quelle si ragiona. Alla regia, e cesarea maesta` del savissimo, ed ottimo imperadore Ridolfo il Secondo, dedicate.",
+        "ItacAcademyItem": {
+            "AcademyId": "0049",
+            "RecordID": "021-000002895",
+            "Value": "Accademia degli Accesi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1594",
+        "Shelfmark": "1473.bb.21|89.i.25",
+        "Subjects": "Academic discourse",
+        "Language": "Italian",
+        "Pagination": "[22] 573 [15]",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16248",
+                "RecordID": "022-000002896",
+                "Value": "Bargagli,Scipione,,1540-1612"
+            }
+        },
+        "Notes": "The volume contains `Orazione delle Lodi delle Accademie` and `Orazione in morte di Monsig. Alessandro Piccolomini`. The `Orazione` was first presented orally in front of the Accademia degli Accesi in 1564, and printed by Bonetti in 1569, and dedicated to Scipione Gonzaga. According to Ricco` (1989), Bargagli signed the dedication using the printer`s name.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16268",
+                    "RecordID": "022-000002918",
+                    "Value": "Habsburg,Rudolph II,Holy Roman Emperor,1552 - 1612"
+                },
+                {
+                    "PersonId": "16269",
+                    "RecordID": "022-000002919",
+                    "Value": "Curzi,Iacomo,Vice-chancellor of the Holy Roman Empire,"
+                },
+                {
+                    "PersonId": "5139",
+                    "RecordID": "022-000000135",
+                    "Value": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16267",
+                "RecordID": "022-000002916",
+                "Value": "de` Franceschi,Francesco,,ca.1530-1599"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Delle lodi delle Accademie. Oratione di Scipion Bargagli 1569. Riformata nuovamente e ristampata. All`Illustrissimo e magnanimo Signor Scipion Gonzaga Principe d`Imperio",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16272",
+                        "RecordID": "022-000002924",
+                        "Value": "Bargagli,Girolamo,,1537 - 1586"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

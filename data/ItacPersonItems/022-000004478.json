@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17584",
+        "RecordId": "022-000004478",
+        "Surname": "Bonzi",
+        "Forename": "Maffeo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bonci"
+            },
+            {
+                "AlternativeSurname": "Boncio"
+            }
+        ],
+        "DateText": "fl. 1662-1670",
+        "StartDate": "fl. 1662",
+        "EndDate": "1670",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Founder of the Accademia degli Unanimi",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

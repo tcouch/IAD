@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5086",
+        "RecordId": "022-000000083",
+        "Surname": "Malvasia",
+        "Forename": "Carlo Cesare",
+        "PersonalTitle": "Count",
+        "DateText": "1616 - 1693",
+        "StartDate": "1616",
+        "EndDate": "1693",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Reviews of his publication Il Panteon in Pindo eretto gia` e consegrato ai Santi dell`anno giovanile Musa divota dell`Ascoso Accademico Gelato... (Bologna, Pisarri, 1691) - not in BL collections - is in Giornale de` Letterati (Modena, 1692), and Synopsis biblica alias Diarium Literatorum (Parmae, Pazzoni-Monti), p. 17. Latest contribution on Malvasia is Perini, `Il marinismo di Malvasia`, in Letteratura e arte (2005).",
+        "Role": "Author|Dedicatee|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

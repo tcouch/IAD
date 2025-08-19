@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5154",
+        "RecordId": "022-000000149",
+        "Surname": "Mariani",
+        "Forename": "Mario",
+        "Gender": "Male",
+        "DateText": "1634-1709",
+        "StartDate": "1634",
+        "EndDate": "1709",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "See his biography by R. De Tata in DBI, under the entry dedicated to his father Andrea Mariani.",
+        "Role": "Contributor|Author|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

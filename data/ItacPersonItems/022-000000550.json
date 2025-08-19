@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9698",
+        "RecordId": "022-000000550",
+        "Surname": "Angelelli",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "PersonalTitle": "Senator",
+        "DateText": "fl. 1558-1613",
+        "StartDate": "fl. 1558",
+        "EndDate": "1613",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Dates referring to the year when President of the Academy",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

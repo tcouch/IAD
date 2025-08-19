@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005320",
+        "WorkId": "000659",
+        "ShortTitle": "L`invidia lodata",
+        "LongTitle": "Oda di Michele Brugueres Accademico Umorista. Dedicata all`eminentissimo Principe Rinaldo Cardinal d`Este",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1688",
+        "Shelfmark": "838m22(107)",
+        "Subjects": "Odes",
+        "Pagination": "14",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18311",
+                "RecordID": "022-000005321",
+                "Value": "Brugueres,Michele,,1644 - 1722"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18313",
+                "RecordID": "022-000005323",
+                "Value": "d`Este,Rinaldo,Cardinal|Duke of Modena,1655 - 1737"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18312",
+                "RecordID": "022-000005322",
+                "Value": "Vannacci,Giuseppe,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

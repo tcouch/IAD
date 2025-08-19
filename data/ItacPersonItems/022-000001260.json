@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15218",
+        "RecordId": "022-000001260",
+        "Surname": "Barberini",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1569-1646",
+        "StartDate": "1569",
+        "EndDate": "1646",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "This was Antonio Barberini Seniore, the brother of Pope Urban VIII, Maffeo Barberini, who appointed him cardinal in 1624. See his biography by Alberto Merola, in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

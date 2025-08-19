@@ -1,0 +1,39 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006638",
+        "WorkId": "000788",
+        "ShortTitle": "Descrizione Del Museo d`Antiquaria e del Gabinetto d`Istoria Naturale",
+        "LongTitle": "Di Sua Eccellenza Il Signor Principe di Biscari Ignazio Petern\u00f2 Castello Patrizio Catanese Fatta Dall`Abate Domenico Sestini Accademico Fiorentino",
+        "ItacAcademyItem": {
+            "AcademyId": "0164",
+            "RecordID": "021-000006597",
+            "Value": "Accademia degli Etnei"
+        },
+        "Format": "8\u00ba",
+        "Shelfmark": "1103.c.2.(5.)",
+        "Subjects": "Antiquarianism|Correspondence",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Plates|Portraits|Plate|academy emblem",
+        "Pagination": "pp. 108",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19426",
+                "RecordID": "022-000006639",
+                "Value": "Sestini,Domenico,Abbot,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19411",
+                "RecordID": "022-000006618",
+                "Value": "Patern\u00f2 Castello,Ignazio ,Prince,1719 - 1786"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54903",
+            "Value": "023-000006638_54903_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

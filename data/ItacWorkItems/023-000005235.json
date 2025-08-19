@@ -1,0 +1,82 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005235",
+        "WorkId": "000643",
+        "ShortTitle": "De le lettere facete et piacevoli",
+        "LongTitle": "di diversi huomini grandi et chiari et begli ingegni. raccolte per M. Dionigi Atanagi. Libro primo. Riveduto, scelto et corretto dal medesimo, et con somma diligenza stampato.",
+        "ItacAcademyItem": {
+            "AcademyId": "0107",
+            "RecordID": "021-000005041",
+            "Value": "Accademia della Virt\u00f9"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1561",
+        "DedicationPlaceDate": "Venice 22 march 1561",
+        "Shelfmark": "1084d7",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "528",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18128",
+                    "RecordID": "022-000005090",
+                    "Value": "Bini,Giovan Francesco,,1480s - 1556"
+                },
+                {
+                    "PersonId": "18095",
+                    "RecordID": "022-000005049",
+                    "Value": "Cencio,Giuseppe,,"
+                }
+            ]
+        },
+        "Notes": "On Cincio`s contribution, see Gigliucci, `Parodie`, in Cum notibusse (2002)",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18122",
+                "RecordID": "022-000005080",
+                "Value": "Atanagi,Dionigi,,ca.1510 - 1573"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18246",
+                "RecordID": "022-000005236",
+                "Value": "Zaltieri,Bolognino,,fl.1555 - 1575"
+            }
+        },
+        "PrinterOrnament": "A138|Z9|V511",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "A M. Claudio Tolomei Re della Virtu` III",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18128",
+                            "RecordID": "022-000005090",
+                            "Value": "Bini,Giovan Francesco,,1480s - 1556"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Gioseppe Cincio. Medico di Madama Margherita d`Austria. A M. Claudio Tolomei Re della Virtu`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18095",
+                            "RecordID": "022-000005049",
+                            "Value": "Cencio,Giuseppe,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

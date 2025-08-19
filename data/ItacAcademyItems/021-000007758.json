@@ -1,0 +1,34 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0416",
+        "RecordId": "021-000007758",
+        "Name": "Ordinati (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "ca.1618",
+        "DateText": "ca.1618",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20212",
+                "RecordId": "022-000007756",
+                "Name": "Mengarelli,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20213",
+                "RecordId": "022-000007757",
+                "Name": "Vidman,Lodovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

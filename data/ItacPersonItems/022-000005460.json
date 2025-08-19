@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18437",
+        "RecordId": "022-000005460",
+        "Surname": "Carducci",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Carducii",
+            "AlternativeForename": "Francisci"
+        },
+        "DateText": "1610-1654",
+        "StartDate": "1610",
+        "EndDate": "1654",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "It is probably the same person, member of the Umoristi and Fantastici. Appointed Governor of Bertinoro, then of Narni and Rieti, subsequently became ordained priest.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

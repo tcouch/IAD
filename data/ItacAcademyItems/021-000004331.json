@@ -1,0 +1,64 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0077",
+        "RecordId": "021-000004331",
+        "Name": "Incuriositi (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1698",
+        "EndDate": "?",
+        "DateText": "1698-?",
+        "Notes": "According to Camillo Minieri Riccio, the Incuriositi Academy was founded in 1698. See Camillo Minieri Riccio, Cenno storico delle Accademie fiorite nella Citt\u00e0 di Napoli, Archivio Storico per le Province Napoletane, 1879.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17464",
+                "RecordId": "022-000004332",
+                "Name": "Maioli de Avitabile,Biagio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17467",
+                "RecordId": "022-000004335",
+                "Name": "Nuzzi,Michele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17466",
+                "RecordId": "022-000004334",
+                "Name": "Guasco,Padovano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17465",
+                "RecordId": "022-000004333",
+                "Name": "Lanzani ,Niccol\u00f2,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17468",
+                "RecordId": "022-000004336",
+                "Name": "Tobito,Massimo Saverio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54918",
+                    "Value": "022-000004336_54918_2.jpg"
+                }
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

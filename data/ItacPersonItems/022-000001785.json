@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9301",
+        "RecordId": "022-000001785",
+        "Surname": "Sinclitico",
+        "Forename": "Alessandro",
+        "AlternativeName": {
+            "AlternativeSurname": "Singlitico",
+            "AlternativeForename": null
+        },
+        "DateText": "? - 1646",
+        "StartDate": "?",
+        "EndDate": "1646",
+        "Nationality": {
+            "NationalityId": "108",
+            "Value": "Cypriot"
+        },
+        "Notes": "Joined the Ricovrati in 1619.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

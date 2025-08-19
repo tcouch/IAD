@@ -1,0 +1,173 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003633",
+        "WorkId": "000482",
+        "ShortTitle": "La Civil Conversatione",
+        "LongTitle": "Del Sig. Stefano Guazzo, Gentilhuomo di Casale Monferrato, Divisa in Quattro Libri.\nNel Primo si tratta in generale de\u2019frutti, che si cavano dal conversare, & s\u2019insegna conoscere le buone dalle cattive conversationi.\nNel Secondo si discorre primieramente delle maniere convenevoli \u00e0 tutte le persone nel conversar fuori di casa, & poi delle particolari, che debbono tenere conversando insieme i giovani, & i vecchi; i Nobili, & gl\u2019ignobili; i Principi, & i privati; i Dotti, & gl\u2019idioti; i Cittadini, & i forestieri; i Religiosi, & i Secolari; gli huomini, & le donne.\nNel Terzo si dichiarono particolarmente i modi, che s\u2019hanno \u00e0 serbare nella domestica conversatione; cio\u00e8 tra Marito, & Moglie; tra Padre, & Figliuolo; tra Fratellio, & Fratello; tra Patrone, & Servitore.\nNel Quarto si rappresenta la forma della Civil conversatione, con l\u2019essempio d\u2019un convito fatto in Casale, con l\u2019intervenimento di dieci persone.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            },
+            {
+                "AcademyId": "0162",
+                "RecordID": "021-000006545",
+                "Value": "Accademia degli Affidati (Pavia)"
+            },
+            {
+                "AcademyId": "0478",
+                "RecordID": "021-000007907",
+                "Value": "Accademia degli Illustrati"
+            },
+            {
+                "AcademyId": "0551",
+                "RecordID": "021-000008268",
+                "Value": "Invaghiti (Accademia degli - Mantova)"
+            },
+            {
+                "AcademyId": "0478",
+                "RecordID": "021-000007907",
+                "Value": "Illustrati (Accademia degli)"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "61",
+            "PublicationPlaceItalianName": "Brescia",
+            "PublicationPlaceEnglishName": "Brescia",
+            "PublicationPlaceLatinName": "Brixia"
+        },
+        "PublicationYear": "1574",
+        "DedicationPlaceDate": "Casale Monferrato, 1574",
+        "Shelfmark": "C.68.i.13.",
+        "Subjects": "Conversation|Conduct|Academic discourse on Fatherhood|Banqueting|Discourse on Academy emblem|Laws of the Academy|Marriage|Beauty|Love|Women - Social condition|Discourse on breast-feeding|Language|Music|Nobility|Letters|Slander|Good government|Drunkenness",
+        "Language": "Italian",
+        "Pagination": "pp. 225",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9194",
+                "RecordID": "022-000001773",
+                "Value": "Guazzo,Stefano,,1530-1593"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9645",
+                    "RecordID": "022-000001776",
+                    "Value": "Volpe,Giovanni Mattheo,,16th C."
+                },
+                {
+                    "PersonId": "16872",
+                    "RecordID": "022-000003639",
+                    "Value": "Magnocavallo,Annibale,,1543-1596"
+                },
+                {
+                    "PersonId": "16873",
+                    "RecordID": "022-000003640",
+                    "Value": "Magnocavallo,Bonifacio,,1540-1575"
+                },
+                {
+                    "PersonId": "9667",
+                    "RecordID": "022-000001836",
+                    "Value": "Canina,Ludovico,,16th C."
+                },
+                {
+                    "PersonId": "9128",
+                    "RecordID": "022-000001735",
+                    "Value": "Bottazzo,Gioan Iacopo,,Early 16th C.-?"
+                }
+            ]
+        },
+        "Notes": "On the title page is written in a contemporary hand, `La doglia mia laqual facend` io grido`. The leggi and impresa of the Illustrati (Casale Monferrato) are respectively described and summarised on pp. 103v-104r. The dedicatory poems in the preface are written by members of the Illustrati. The Invaghiti (Mantua) and Affidati (Pavia) are mentioned on pp. 16v-17r. The Illustrati was founded by the author, Stefano Guazzo, in 1561.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9195",
+                    "RecordID": "022-000001774",
+                    "Value": "Gonzaga,Vespasiano,Duke of Traetto|Duke of Sabbioneta|Marquis of Sabbioneta|Count of Rodigo|Count of Fondi|Viceroy of Navarra,1531-1591"
+                },
+                {
+                    "PersonId": "9675",
+                    "RecordID": "022-000001848",
+                    "Value": "Peschiera,Claudio,Cavaliere,16th C."
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15379",
+                "RecordID": "022-000001872",
+                "Value": "Bozzola & Sabbio,Tommaso & Vincenzo,,"
+            }
+        },
+        "PrinterOrnament": "V22 - Z702|V22 - Z701",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Del Sig. Gio. Mattheo Volpe All'Illustrissimo Signor Vespasiano Gonzaga",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9645",
+                            "RecordID": "022-000001776",
+                            "Value": "Volpe,Giovanni Mattheo,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Annibale Magnocavalli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16872",
+                            "RecordID": "022-000003639",
+                            "Value": "Magnocavallo,Annibale,,1543-1596"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Bonifacio Magnocavalli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16873",
+                            "RecordID": "022-000003640",
+                            "Value": "Magnocavallo,Bonifacio,,1540-1575"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Annibalis Magnocaballi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16872",
+                            "RecordID": "022-000003639",
+                            "Value": "Magnocavallo,Annibale,,1543-1596"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Io. Iacobi Battatti Equitis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9128",
+                            "RecordID": "022-000001735",
+                            "Value": "Bottazzo,Gioan Iacopo,,Early 16th C.-?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ludovici Caninae",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9667",
+                            "RecordID": "022-000001836",
+                            "Value": "Canina,Ludovico,,16th C."
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

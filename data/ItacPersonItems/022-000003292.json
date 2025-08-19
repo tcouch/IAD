@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16574",
+        "RecordId": "022-000003292",
+        "Surname": "Segrais (de)",
+        "Forename": "Jean Regnault",
+        "DateText": "1624 - 1701",
+        "StartDate": "1624",
+        "EndDate": "1701",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Joined the Ricovrati in 1699. Member of the Academie Fran\u00e7aise since 1662.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

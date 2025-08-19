@@ -1,0 +1,25 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16310",
+        "RecordId": "022-000002963",
+        "Surname": "Salepusi",
+        "Forename": "Salvatore Alessio",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Salapussium",
+                "AlternativeForename": "Salvatorem"
+            },
+            {
+                "AlternativeSurname": "Salapuzio",
+                "AlternativeForename": null
+            }
+        ],
+        "PersonalTitle": "Archbishop of Sassari",
+        "Nationality": {
+            "NationalityId": "59"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

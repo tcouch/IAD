@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17763",
+        "RecordId": "022-000004666",
+        "Surname": "Capece",
+        "Forename": "Scipione",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Capycius",
+            "AlternativeForename": "Scipionis"
+        },
+        "DateText": "1480-1550s?",
+        "StartDate": "1480",
+        "EndDate": "1550s?",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Portrait from Opere Poetiche di Scipione Capece, Venice, 1754.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003208",
+        "WorkId": "000417",
+        "ShortTitle": "Descrizzione dell`entrata",
+        "LongTitle": "dell`illustriss(imo) et reverendiss(imo) Monsig. Ascanio Piccolomini alla possession del suo Arcivescovado in Siena, il di` 21 Novembre 1589.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            },
+            {
+                "AcademyId": "0051",
+                "RecordID": "021-000003209",
+                "Value": "Accademia Partenia"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1590",
+        "Shelfmark": "4865.e.3",
+        "Subjects": "Celebratory prose and poems",
+        "Language": "Italian|Latin",
+        "Pagination": "91",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16464",
+                    "RecordID": "022-000003141",
+                    "Value": "Borghesi,Diomede,,1540 - 1598"
+                },
+                {
+                    "PersonId": "16257",
+                    "RecordID": "022-000002905",
+                    "Value": "Figliucci,Flavio,,"
+                },
+                {
+                    "PersonId": "16376",
+                    "RecordID": "022-000003042",
+                    "Value": "Bulgarini,Belisario,,1539 - 1620"
+                },
+                {
+                    "PersonId": "16248",
+                    "RecordID": "022-000002896",
+                    "Value": "Bargagli,Scipione,,1540 - 1612"
+                },
+                {
+                    "PersonId": "19302",
+                    "RecordID": "022-000006489",
+                    "Value": "Buschovus,Andrea,,"
+                }
+            ]
+        },
+        "Notes": "Borghesi signs as `Svegliato Intronato`.",
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0051",
+                "RecordID": "021-000003209",
+                "Value": "Accademia Partenia"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,fl.1553 - 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53400",
+            "Value": "023-000003208_53400_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sopra l`impresa della Luna risguardante in piena faccia il Sole, col Motto; Recto Intuitu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16376",
+                            "RecordID": "022-000003042",
+                            "Value": "Bulgarini,Belisario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sopra l`impresa della Luna risguardante in piena faccia il Sole, col Motto; Recto Intuitu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16257",
+                            "RecordID": "022-000002905",
+                            "Value": "Figliucci,Flavio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sopra tre imprese intorno al medesimo soggetto della Luna la prima delle quali ha il motto Inreditu Gratior. La seconda Post luminare maius. La terza Tenebras et ipsa tollit. scoperte ne gli Archi drizzati nella solenne entrata addietro descritta.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16248",
+                            "RecordID": "022-000002896",
+                            "Value": "Bargagli,Scipione,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Academiae Partheniae Soc: Iesu carmina; R.P. Andrea Buschovus Polono Moderatore. De laudibus illustrissimi, et Reverendiss(imi) Ascanii Piccolominei, cum primum Archiepiscopi munus suscepturus, Senas ingrederetur.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19302",
+                            "RecordID": "022-000006489",
+                            "Value": "Buschovus,Andrea,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

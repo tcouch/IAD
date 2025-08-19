@@ -1,0 +1,25 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5191",
+        "RecordId": "022-000000185",
+        "Surname": "Zani",
+        "Forename": "Valerio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "de Zanis",
+            "AlternativeForename": "Valerius"
+        },
+        "PersonalTitle": "Count",
+        "Anagram": "Aurelio degli Anzi",
+        "DateText": "?-1696",
+        "StartDate": "?",
+        "EndDate": "1696",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Joined the Ricovrati in 1679",
+        "Role": "Censor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001424",
+        "WorkId": "00152",
+        "ShortTitle": "Le Leggi Dell`Accademia Degli Oziosi In Napoli",
+        "LongTitle": "Ritrovate nella Biblioteca Brancacciana dal bibliotecario reggente della stessa Commend. Carlo Padiglione Cavaliere dell`Ordine dei SS. Maurizio e Lazzaro dell`Ordine della Corona d`Italia EC.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1878",
+        "Shelfmark": "11905.k.27.",
+        "Subjects": "Rules of the Oziosi Academy",
+        "Language": "Italian",
+        "Pagination": "pp. 35",
+        "Marginalia": "No",
+        "Notes": "The text is a transcription of an Italian seventeenth-century manuscript containing the `Leggi` (rules) of the Oziosi Academy.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15182",
+                "RecordID": "022-000001224",
+                "Value": "Sava,Salvatore,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15172",
+                "RecordID": "022-000001214",
+                "Value": "Padiglione,Carlo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15183",
+                "RecordID": "022-000001225",
+                "Value": "Giannini,F.,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001562",
+        "WorkId": "00104",
+        "ShortTitle": "Della nuova scielta di lettere di diversi nobilissimi huomini et eccellent(issi)mi ingegni",
+        "LongTitle": "scritte in diuerse materie; fatta da tutti i libri fin`hora stampati; libro primo [-secondo]. Con un discorso della commodit\u00e0 dello scriuere; di m. Bernardino Pino",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1574",
+        "Shelfmark": "1084e5",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "pp. 606; opening discourse and Index at the end are unnumbered",
+        "Marginalia": "Yes",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9203",
+                    "RecordID": "022-000001500",
+                    "Value": "Quirino,Francesco,,"
+                },
+                {
+                    "PersonId": "9206",
+                    "RecordID": "022-000001503",
+                    "Value": "Varchi,Benedetto,,1503 - 1565"
+                }
+            ]
+        },
+        "Notes": "Quirino comments about Cola Bruno`s death. Varchi writes that he is going to comment on Aristotle`s Ethics in the Accademia degli Infiammati. According to Edit16, the printer is Aldo Manutio The Younger, and according to Braida, Libri di lettere (2009), Manuzio was also the editor of the collection.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9249",
+                "RecordID": "022-000001545",
+                "Value": "Puteo,Antonio,Bishop of Bari,1534-1592"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17510",
+                "RecordID": "022-000004385",
+                "Value": "Manuzio,Aldo Jr,,1547-1597"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52650",
+            "Value": "023-000001562_52650_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "A M. Giovanni Cornelio Principe degl`Infiammati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9203",
+                            "RecordID": "022-000001500",
+                            "Value": "Quirino, Francesco, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Da Padova a Lodovico Dolce",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9206",
+                            "RecordID": "022-000001503",
+                            "Value": "Varchi,Benedetto,,1503 - 1565"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

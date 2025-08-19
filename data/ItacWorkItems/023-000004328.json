@@ -1,0 +1,86 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004328",
+        "WorkId": "000563",
+        "ShortTitle": "Descrittione Della Padronanza Di S. Francesco Di Paola Nella Cit\u00e0 Di Napoli;",
+        "LongTitle": "e della Festivit\u00e0 fatta nella Translatione della Reliquia del suo Corpo Dalla Chiesa Di S. Luigi Alla Cappella del Tesoro nel Duomo.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1631",
+        "DedicationPlaceDate": "Naples 28 March 1631",
+        "Shelfmark": "04785.i.3.",
+        "Subjects": "Religious celebrations",
+        "Language": "Italian|Latin",
+        "Illustration": "Plates|Portrait of San Francesco di Paola",
+        "Pagination": "pp. 484",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15014",
+                "RecordID": "022-000001056",
+                "Value": "Capaccio,Giulio Cesare,,1552-1634"
+            }
+        },
+        "Notes": "The dedicatory page contains a manuscript note.\nOn p. 42, the author mentions the Oziosi Academy in Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15123",
+                    "RecordID": "022-000001164",
+                    "Value": "Tamburellus,Felix,General Vicar,"
+                },
+                {
+                    "PersonId": "16136",
+                    "RecordID": "022-000002748",
+                    "Value": "de Claro,Franciscus,Canon,"
+                },
+                {
+                    "PersonId": "15124",
+                    "RecordID": "022-000001165",
+                    "Value": "De Ianuario,Felix,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Felix Tamburrellus Vicar. Gener.\nFranciscus de Claro Can. Dep. vid.\nFelix de Ianuario Canon. Dep. vid.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17463",
+                "RecordID": "022-000004329",
+                "Value": "Quagliero,Virgilio,,"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "16853",
+                "RecordID": "022-000003611",
+                "Value": "Perrey,Nicolas,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16933",
+                "RecordID": "022-000003717",
+                "Value": "Longo,Egidio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54737",
+            "Value": "023-000004328_54737_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54738",
+            "Value": "023-000004328_54738_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

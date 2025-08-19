@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0441",
+        "RecordId": "021-000007805",
+        "Name": "Santo Stefano (Accademia di)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "mid",
+        "EndDate": "17th c.",
+        "DateText": "mid-17th c.",
+        "ItacPersonItem": {
+            "PersonId": "20228",
+            "RecordId": "022-000007804",
+            "Name": "Bretenna,,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

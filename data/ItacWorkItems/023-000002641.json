@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002641",
+        "WorkId": "000323",
+        "ShortTitle": "Discorso intorno all`antro delle Ninfe Naiadi",
+        "LongTitle": "di Homero. Impresa degli Academici Ricovrati di Padoa. Di Giovanni Belloni detto il Pellegrino Canonico, et Lettore delle Morali nello studio di essa Citta`",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1601",
+        "DedicationPlaceDate": "24 December 1601",
+        "Shelfmark": "637.g.28.(3.)",
+        "Subjects": "Discourse on Academy emblem",
+        "Language": "Italian|Greek|Latin",
+        "Pagination": "pp. 61",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16063",
+                "RecordID": "022-000002644",
+                "Value": "Belloni,Giovanni,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9636",
+                "RecordID": "022-000001683",
+                "Value": "Bolzetta,Francesco,,1566-1653"
+            }
+        },
+        "Notes": "Title page reads: `Appresso Francesco Bolzetta, libraro dell`Accademia. 1601. Nella Stamperia di Lorenzo Pasquati.` Colophon reads: In Padova Appresso Lorenzo Pasquati, 1601 Stampator dell`Alma Universita` de` Legisti. Con Licenza de` Sup[eriori]`\nAnother academic discourse on Ricovrati`s emblem is Antonio Querenghi, `Dell`antro platonico, o vero della circonduzione socratica`, ed. Uberto Motta, in Aevum, 3 (1994), pp. 593-605.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9000",
+                "RecordID": "022-000001572",
+                "Value": "Cornaro,Federico,Abbot,1579 - 1659"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "16051",
+                "RecordID": "022-000002623",
+                "Value": "Paulino,Cristoforo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9635",
+                "RecordID": "022-000001682",
+                "Value": "Pasquati,Lorenzo,,fl. 1561-1624"
+            }
+        },
+        "PrinterOrnament": "CNCM1511|U481",
+        "TitlePageImage": {
+            "ImageId": "52652",
+            "Value": "023-000002641_52652_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52654",
+            "Value": "023-000002641_52654_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

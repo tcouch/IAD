@@ -1,0 +1,155 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005551",
+        "WorkId": "000675",
+        "ShortTitle": "Rime del signor Francesco Balducci",
+        "LongTitle": "All` Ill. Sig. Nicola Beregani dell` Ill.mo Sig. Alessandro",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0121",
+                "RecordID": "021-000005555",
+                "Value": "Accademia dei Delfici"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1663",
+        "DedicationPlaceDate": "Venezia, 4 June 1655",
+        "Shelfmark": "1062b2",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "456",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5105",
+                "RecordID": "022-000000102",
+                "Value": "Balducci,Francesco,,1579 - 1642"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5105",
+                    "RecordID": "022-000000102",
+                    "Value": "Balducci,Francesco,,1579 - 1642"
+                },
+                {
+                    "PersonId": "18189",
+                    "RecordID": "022-000005169",
+                    "Value": "Falconio,Arrigo,,fl. 1605 - 1627"
+                }
+            ]
+        },
+        "Notes": "In the dedication, the printer mentions `Accademia Delfica`, of which Beregan was probably Principe at the time.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18518",
+                    "RecordID": "022-000005552"
+                },
+                {
+                    "PersonId": "18519",
+                    "RecordID": "022-000005553",
+                    "Value": "Beregan,Nicolo`,,1627 - 1713"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18189",
+                "RecordID": "022-000005169",
+                "Value": "Falconio,Arrigo,,fl. 1605 - 1627"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18520",
+                "RecordID": "022-000005554",
+                "Value": "P.,J.,,1617? - 1669?"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5309",
+                "RecordID": "022-000000360",
+                "Value": "Baba,Andrea,,fl. 1611-1632"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al lettore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18189",
+                            "RecordID": "022-000005169",
+                            "Value": "Falconio,Arrigo,,fl. 1605 - 1627"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Sig. D. Carlo Colonna Principe dell`Accademia degli Humoristi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Conte di Novellara. Essendo Principe dell`Accademia de gli Humoristi: hoggi Arcivescovo di Rhodi, detto Mons. Gonzaga suo Sig.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Rime lugubri. --- Le lagrime canzone. In morte di D. Virginio Cesarini; recitata nell`Accademia degli Humoristi, in luogo d`Anniversario. E dedicata alla Santita` di N. S. Urbano VIII. Roma 15 Ottobre 1624",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Agl`Illustr. Sig. Accademici Humoristi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte di Monisgnor Agesilao Marescotti. Principe dell`Accademia de gli Humoristi. Morto disastrosamente per viaggio su `l tornar, che facea di Francia in Italia. canzone. A gli Ill.mi sig.ri Accademici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

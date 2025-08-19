@@ -1,0 +1,88 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007979",
+        "WorkId": "000908",
+        "ShortTitle": "I Raguagli Historici Del Vespro Siciliano.",
+        "LongTitle": "Del Sign. D. Filadelfo Mugnos Leontino Accademico Racceso detto l`occupato. Nei quali si mostrano i felici Reggimenti c`hanno i Sereniss. e Catolici Regi Aragonesi, ed Austriaci nel lor Regno fideliss. di Sicilia, e`l malgoverno di Carlo d`Angi\u00f2 R\u00e8 primo di napoli con le notitie d`alcune nobiliss. famiglie del medesimo Regno. E nel fine i Caval. Gerosol. i Pretori di Pal. e Stratic\u00f2 di Messina.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1645",
+        "DedicationPlaceDate": "Palermo 24 June 1645",
+        "Shelfmark": "1057.h.16.(1.)",
+        "Subjects": "History of Sicily",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 238",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20322",
+                "RecordID": "022-000007981",
+                "Value": "Mugnos,Filadelfo,,1607-1675"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18578",
+                    "RecordID": "022-000005625",
+                    "Value": "Gelosus,,Vicar General,"
+                },
+                {
+                    "PersonId": "18156",
+                    "RecordID": "022-000005122",
+                    "Value": "de Denti,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur Abbas Gelosus V.G.\nImp. de Denti Presidens",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20321",
+                "RecordID": "022-000007980",
+                "Value": "Gravina De Cruyllas ,Francesco,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "20323",
+                "RecordID": "022-000007982",
+                "Value": "Caruso,Ioseph,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18643",
+                "RecordID": "022-000005703",
+                "Value": "Coppola,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55246",
+            "Value": "023-000007979_55246_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "L'Autore a' Lettori. Sonetto",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20322",
+                        "RecordID": "022-000007981",
+                        "Value": "Mugnos,Filadelfo,,1607-1675"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

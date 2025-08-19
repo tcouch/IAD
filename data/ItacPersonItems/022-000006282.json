@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19143",
+        "RecordId": "022-000006282",
+        "Surname": "Villamena",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "DateText": "1564-1624",
+        "StartDate": "1564",
+        "EndDate": "1624",
+        "Nationality": {
+            "NationalityId": "290",
+            "Value": "of Assisi"
+        },
+        "Notes": "Probably a pupil of Cornelius Cort, and possibly an acquaintance of Agostino Carracci.",
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

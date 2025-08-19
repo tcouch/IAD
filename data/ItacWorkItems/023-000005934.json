@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005934",
+        "WorkId": "000706",
+        "ShortTitle": "Li diversi linguaggi",
+        "LongTitle": "Comedia Del Sig. Vergilio Verucci Gentil`huomo Romano Dottor di legge. Detto l`Universale nell`Academia dell`Intrigati di Roma. Con licenza de` superiori et privilegio",
+        "ItacAcademyItem": {
+            "AcademyId": "0134",
+            "RecordID": "021-000005917",
+            "Value": "Accademia degli Intricati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1609",
+        "Shelfmark": "11715a76",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "94r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18843",
+                "RecordID": "022-000005920",
+                "Value": "Verucci,Virgilio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18846",
+                "RecordID": "022-000005925",
+                "Value": "de` Vecchi,Alessandro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54499",
+            "Value": "023-000005934_54499_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

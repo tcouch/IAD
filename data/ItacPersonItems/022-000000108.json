@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5111",
+        "RecordId": "022-000000108",
+        "Surname": "Bonarelli della Rovere",
+        "Forename": "Prospero",
+        "Gender": "Male",
+        "PersonalTitle": "Count",
+        "DateText": "1580-1659",
+        "StartDate": "1580",
+        "EndDate": "1659",
+        "Nationality": {
+            "NationalityId": "238",
+            "Value": "of Novellara"
+        },
+        "Notes": "Founder of the Caliginosi Academy in Ancona",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

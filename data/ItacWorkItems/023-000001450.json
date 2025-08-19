@@ -1,0 +1,264 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001450",
+        "WorkId": "00178",
+        "ShortTitle": "Le Rime Spirituali",
+        "LongTitle": "Del P. F. Arcangelo Spina Eremita Camaldolese Dedicate All`Illustriss. E R.mo Signor Cardinale Scipione Borghese",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1616",
+        "DedicationPlaceDate": "Naples 7 September 1616",
+        "Shelfmark": "c.46.e.14.",
+        "Content": "Religious Poetry | Encomiastic Poetry",
+        "Subjects": "Religious Poetry|Encomiastic Poetry",
+        "Language": "Latin|Italian",
+        "Illustration": "A plate on the title page showing two religious figures. At the top an image of Christ raising his hand in blessing. | In the center the coat of arms of the Borghese  family [an eagle and a dragon] is displayed. | At the bottom the letters AB may refer to the engraver|",
+        "Pagination": "First 12 pages unnumbered | Last 22 pages unnumbered | pp. 255",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15037",
+                "RecordID": "022-000001079",
+                "Value": "Spina,E. Arcangelo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15017",
+                    "RecordID": "022-000001059",
+                    "Value": "Carafa,Luigi,Prince of Stigliano,1567 - 1630"
+                },
+                {
+                    "PersonId": "15086",
+                    "RecordID": "022-000001127",
+                    "Value": "Pignatelli,Ettore,,"
+                },
+                {
+                    "PersonId": "15208",
+                    "RecordID": "022-000001250",
+                    "Value": "Brancaccio,Francesco Maria,Cardinal,1592-1675"
+                },
+                {
+                    "PersonId": "16683",
+                    "RecordID": "022-000003416",
+                    "Value": "Romano,Fabio,,"
+                },
+                {
+                    "PersonId": "16684",
+                    "RecordID": "022-000003417",
+                    "Value": "Morra ,Goffredo,,"
+                },
+                {
+                    "PersonId": "16685",
+                    "RecordID": "022-000003418",
+                    "Value": "Amabile,Mutio,,"
+                },
+                {
+                    "PersonId": "15345",
+                    "RecordID": "022-000001384",
+                    "Value": "Ferrari,Francesco,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15209",
+                "RecordID": "022-000001251",
+                "Value": "Roncagliolo,Gio. Domenico,,"
+            }
+        },
+        "Notes": "This text contains verses to various Oziosi academicians",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15224",
+                    "RecordID": "022-000001266",
+                    "Value": "Longus,Ioannes,Canon|Archbishop of Naples,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Petrus Ant. Ghibertus Vic. General. Neapo. Ioannes Longus Can. & Cur. Archiep. Neap. Theol.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7703",
+                "RecordID": "022-000001478",
+                "Value": "Borghese-Caffarelli,Scipione,Cardinal,1576 - 1633"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "15353",
+                "RecordID": "022-000001392",
+                "Value": "A,B,,"
+            }
+        },
+        "EngraverReference": "Y",
+        "TitlePageImage": {
+            "ImageId": "53925",
+            "Value": "023-000001450_53925_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Signor D. Pietro di Castro Conte di Lemos, Vicere` di Napoli.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Sig. D. Filippo Caetano Duca di Sermoneta.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Sig. Gio. Battista Manso principe dell`Accademia de gli otiosi.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al P. Angelo Grillo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al P. Marcello Macedonio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al P. Girolamo d`Afflitto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Sig. D. Giovanni Lopez",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Sig. Francesco de Petris",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor D. Luigi Carrafa Principe di Stigliano all`autore.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15017",
+                            "RecordID": "022-000001059",
+                            "Value": "Carafa,Luigi,Prince of Stigliano,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor D. Hettorre Pignatelli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15086",
+                            "RecordID": "022-000001127",
+                            "Value": "Pignatelli,Ettore,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Francesco Maria Brancaccio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15208",
+                            "RecordID": "022-000001250",
+                            "Value": "Brancaccio,Francesco Maria,Cardinal,1592-1675"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Fabio Romano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16683",
+                            "RecordID": "022-000003416",
+                            "Value": "Romano,Fabio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Francesco Ferrari",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5606",
+                            "RecordID": "022-000000672",
+                            "Value": "Ferrari,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Goffredo Morra",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16684",
+                            "RecordID": "022-000003417",
+                            "Value": "Morra ,Goffredo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Mutio Amabile",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16685",
+                            "RecordID": "022-000003418",
+                            "Value": "Amabile,Mutio,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

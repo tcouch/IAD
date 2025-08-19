@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18095",
+        "RecordId": "022-000005049",
+        "Surname": "Cincio",
+        "Forename": "Giuseppe",
+        "AlternativeName": {
+            "AlternativeSurname": "Cencio",
+            "AlternativeForename": null
+        },
+        "Nationality": {
+            "NationalityId": "167",
+            "Value": "Flemish"
+        },
+        "Notes": "Private physician of Margherita d`Austria",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

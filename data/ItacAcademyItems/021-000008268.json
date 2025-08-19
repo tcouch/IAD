@@ -1,0 +1,319 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0551",
+        "RecordId": "021-000008268",
+        "Name": "Invaghiti (Accademia degli - Mantova)",
+        "City": {
+            "CityId": "67",
+            "CityItalianName": "Mantova",
+            "CityEnglishName": "Mantua",
+            "CityLatinName": "Mantua"
+        },
+        "EmblemDescription": "Eagle looking at the sun",
+        "Motto": "Nil Pulcherius",
+        "StartDate": "1562",
+        "EndDate": "ca. 1738",
+        "DateText": "1562-ca. 1738",
+        "Notes": "Books not in the British Library collections: Stanze composte da alcuni gentili huomini dell`Academia de gli Inuaghiti in lode d`alcune gentildonne mantouane (Mantova: per Filoterpse e Clidano Philoponi fratelli, ai VI. di gennaio 1564); Giulio Castellani, Componimenti volgari, et latini di diversi, et eccellenti autori, in morte di monsignore Hercole Gonzaga, cardinal di Mantova, con la vita del medesimo descritta dall`Asciuto, academico invaghito (Mantua: G. Ruffinelli, 1564); Bernardino Marliani, Lettere (Venice: Compagnia Minima, 1601); Alessandro Striggio, La favola d`Orfeo: rappresentata in musica il Carnevale dell`anno 1607 nell`Accademia degli Invaghiti di Mantova (Mantua: F. Osanna, 1607); Il Giudizio del coniugale amore, rappresentato in musica nell`Accademia degli Invaghiti nel di natale della serenissima Caterina Medici duchessa di Mantova, e di Monferrato(Mantoua : per i fratelli Osanna Stampatori Ducali, 1625); Francesco Paolo Speranza, Gli esterminij d`amore discorso academico di Francesco Paolo Speranza Acad. Inuaghito al sereniss. Carlo 1. duca di Mantoua, &c (Verona: Merlo, 1637); Francesco de Lemene, Giacobbe al fonte. Dialogo per musica del sig. Francesco de Lemene. Dedicato all`ill.ma, ed ecc.ma Accademia de gl`Invaghiti di Mantova (Lodi: Per Carlantonio Sevesi, 1700).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20376",
+                "RecordId": "022-000008098",
+                "Name": "Mori,Ascanio Pipino de\u2019,,ca. 1532/3-1591",
+                "Nickname": "Candido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9653",
+                "RecordId": "022-000001822",
+                "Name": "Gonzaga,Ferrando,Prince of Molfetta,1563-1630",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20526",
+                "RecordId": "022-000008270",
+                "Name": "Marliani,Bernardino,,1542-1605",
+                "Nickname": "Incitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20527",
+                "RecordId": "022-000008271",
+                "Name": "Chieppio,Annibale,,1563-1623",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20529",
+                "RecordId": "022-000008273",
+                "Name": "Castellani,Giulio,,1528-1586",
+                "Nickname": "Asciutto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5602",
+                "RecordId": "022-000000659",
+                "Name": "Manfredi,Muzio,,ca.1535-1609",
+                "Nickname": "Fermo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16793",
+                "RecordId": "022-000003533",
+                "Name": "Calandra,Silvio,,ca. 1540-1590",
+                "Nickname": "Acceso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5139",
+                "RecordId": "022-000000135",
+                "Name": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593",
+                "Nickname": "Affannato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15691",
+                "RecordId": "022-000002219",
+                "Name": "Pusterla,Giovanni Francesco,,fl. 1560",
+                "Nickname": "Affrenato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20536",
+                "RecordId": "022-000008282",
+                "Name": "Pontevico,Silvio,,",
+                "Nickname": "Annebbiato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18674",
+                "RecordId": "022-000005738",
+                "Name": "Gonzaga,Cesare,Count of Guastalla|Prince of Molfetta|Duke of Ariano,1536-1575",
+                "Nickname": "Avilito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15695",
+                "RecordId": "022-000002223",
+                "Name": "Santini,Stefano,, - 1564",
+                "Nickname": "Devoto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20538",
+                "RecordId": "022-000008284",
+                "Name": "Valenti,Carlo,Marquis,",
+                "Nickname": "Immobile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20539",
+                "RecordId": "022-000008285",
+                "Name": "Andreasi,Alessandro,,",
+                "Nickname": "Impedito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20540",
+                "RecordId": "022-000008286",
+                "Name": "Udine,Ercole,,fl.1564-1598",
+                "Nickname": "Incauto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20541",
+                "RecordId": "022-000008287",
+                "Name": "Alterica,Ippolito,,",
+                "Nickname": "Instrutto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20543",
+                "RecordId": "022-000008289",
+                "Name": "Susio,Giovanni Battista,,",
+                "Nickname": "Liberato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20542",
+                "RecordId": "022-000008288",
+                "Name": "Nuvoloni,Carlo,Cavalier,",
+                "Nickname": "Pacifico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9194",
+                "RecordId": "022-000001773",
+                "Name": "Guazzo,Stefano,,1530-1593",
+                "Nickname": "Pensoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20528",
+                "RecordId": "022-000008272",
+                "Name": "Donati,Marcello,,1538-1602",
+                "Nickname": "Secreto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20544",
+                "RecordId": "022-000008290",
+                "Name": "Farroni,Massimo,,",
+                "Nickname": "Svegliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20558",
+                "RecordId": "022-000008304",
+                "Name": "Zaffardo,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20559",
+                "RecordId": "022-000008305",
+                "Name": "Preti,Dionisio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20567",
+                "RecordId": "022-000008319",
+                "Name": "Striggio,Alessandro,Count,ca.1573-1630",
+                "Nickname": "Ritenuto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20568",
+                "RecordId": "022-000008320",
+                "Name": "Arrivabene,Leonardo,,",
+                "Nickname": "Vago",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20670",
+                "RecordId": "022-000008470",
+                "Name": "De` Sommi,Leone,,ca. 1525-ca. 1590",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20680",
+                "RecordId": "022-000008486",
+                "Name": "Calandra,Jacopo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19102",
+                "RecordId": "022-000006229",
+                "Name": "Gonzaga,Vincenzo,Duke of Mantua,1562-1612",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20088",
+                "RecordId": "022-000007588",
+                "Name": "Speranza,Francesco Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20681",
+                "RecordId": "022-000008487",
+                "Name": "Carbonello,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20682",
+                "RecordId": "022-000008488",
+                "Name": "Calori,Giulio Cesare,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20683",
+                "RecordId": "022-000008489",
+                "Name": "Valenti,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20685",
+                "RecordId": "022-000008491",
+                "Name": "Nerli,Orazio Ballati,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20684",
+                "RecordId": "022-000008490",
+                "Name": "Castiglioni,Baldassare,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20686",
+                "RecordId": "022-000008492",
+                "Name": "Capilupi,Lelio,Marquis,17th C.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20687",
+                "RecordId": "022-000008493",
+                "Name": "Magni,Girolamo,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20688",
+                "RecordId": "022-000008494",
+                "Name": "Guerrieri,Bonaventura,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17234",
+        "RecordId": "022-000004049",
+        "Surname": "Gassendi",
+        "Forename": "Pierre",
+        "AlternativeName": {
+            "AlternativeForename": "Pietro"
+        },
+        "DateText": "1592 - 1655",
+        "StartDate": "1592",
+        "EndDate": "1655",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

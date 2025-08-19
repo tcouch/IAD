@@ -1,0 +1,70 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003261",
+        "WorkId": "000436",
+        "ShortTitle": "L`amor costante comedia",
+        "LongTitle": "del signor Stordito Intronato, composta per la venuta dell`Imperatore in Siena l`anno del 36.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1550",
+        "DedicationPlaceDate": "Venice 15 November 1540",
+        "Shelfmark": "1071.i.4",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "78r-v",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16547",
+                "RecordID": "022-000003255",
+                "Value": "Arrivabene,Andrea,,1534 - 1570"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16548",
+                "RecordID": "022-000003256",
+                "Value": "Soranzo,Giovanni di Alvise,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16547",
+                "RecordID": "022-000003255",
+                "Value": "Arrivabene,Andrea,,1534 - 1570"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16551",
+                "RecordID": "022-000003262",
+                "Value": "Cesano,Bartolomeo,,fl.1544 - 1559/60"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53431",
+            "Value": "023-000003261_53431_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53432",
+            "Value": "023-000003261_53432_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

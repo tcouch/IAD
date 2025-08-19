@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008179",
+        "WorkId": "000917",
+        "ShortTitle": "Teatro d`huomini letterati",
+        "LongTitle": "aperto dall`abbate Girolamo Ghilini Academico Incognito. All`Illustrissimo signor il signor Gio: Francesco Loredano (volume primo e secondo)",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Incogniti (Accademia degli) - Venezia"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1647",
+        "Shelfmark": "617k14|131a15",
+        "Subjects": "Biographies of learned men",
+        "Language": "Italian",
+        "Pagination": "[10] 224; [8] 236",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20111",
+                "RecordID": "022-000007614",
+                "Value": "Ghilini,Girolamo,,1589-1668"
+            }
+        },
+        "Notes": "Expanded edition of the [1638] first edition, which was printed in Milan, according to the Italian Opac.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17761",
+                "RecordID": "022-000004663",
+                "Value": "Loredan,Gianfrancesco,,1607-1661"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20097",
+                "RecordID": "022-000007597",
+                "Value": "Guerigli,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55274",
+            "Value": "023-000008179_55274_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

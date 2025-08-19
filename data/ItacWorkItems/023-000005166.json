@@ -1,0 +1,222 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005166",
+        "WorkId": "000637",
+        "ShortTitle": "Funerale della Signora Sitti Maani Gioerida Della Valle",
+        "LongTitle": "Celebrato in Roma l`Anno 1627 e descritto dal Signor Girolamo Rocchi",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1627",
+        "Shelfmark": "835f27",
+        "Language": "Italian|Latin|Armenian|Chaldean|Greek|Persian|Turkish|Spanish|Portuguese|French",
+        "Pagination": "149",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18187",
+                "RecordID": "022-000005167",
+                "Value": "Rocchi,Girolamo,,fl.1628 - 1638"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18188",
+                    "RecordID": "022-000005168",
+                    "Value": "Pallavicino,Pietro Sforza ,Marquis|Cardinal|Jesuit,1607-1667"
+                },
+                {
+                    "PersonId": "18189",
+                    "RecordID": "022-000005169",
+                    "Value": "Falconio,Arrigo,,fl. 1605 - 1627"
+                },
+                {
+                    "PersonId": "7360",
+                    "RecordID": "022-000000947",
+                    "Value": "Gabrielli,Diamante,,"
+                },
+                {
+                    "PersonId": "5107",
+                    "RecordID": "022-000000104",
+                    "Value": "Benigni,Domenico,,? - 1653"
+                },
+                {
+                    "PersonId": "18190",
+                    "RecordID": "022-000005170",
+                    "Value": "Fieschi,Flavio,,"
+                },
+                {
+                    "PersonId": "5604",
+                    "RecordID": "022-000000666",
+                    "Value": "della Valle,Francesco,,"
+                },
+                {
+                    "PersonId": "18191",
+                    "RecordID": "022-000005171",
+                    "Value": "Saraceni,Gherardo,,"
+                },
+                {
+                    "PersonId": "18192",
+                    "RecordID": "022-000005172",
+                    "Value": "Camola,Giacomo Filippo,,"
+                },
+                {
+                    "PersonId": "18193",
+                    "RecordID": "022-000005173",
+                    "Value": "Taurisano,Giandonato,,"
+                },
+                {
+                    "PersonId": "16073",
+                    "RecordID": "022-000002657",
+                    "Value": "Aleandro,Girolamo (Il giovane),,1574 - 1629"
+                },
+                {
+                    "PersonId": "18206",
+                    "RecordID": "022-000005186",
+                    "Value": "Bartholomaei,Hieronymi,,1584c - 1662"
+                },
+                {
+                    "PersonId": "18195",
+                    "RecordID": "022-000005175",
+                    "Value": "Moricucci,Girolamo,,"
+                },
+                {
+                    "PersonId": "18196",
+                    "RecordID": "022-000005176",
+                    "Value": "Bottifango,Giulio Cesare,,"
+                },
+                {
+                    "PersonId": "18197",
+                    "RecordID": "022-000005177",
+                    "Value": "Valentino,Giulio Cesare,,"
+                },
+                {
+                    "PersonId": "18198",
+                    "RecordID": "022-000005178",
+                    "Value": "Guglielmi,Iacomo,,"
+                },
+                {
+                    "PersonId": "18199",
+                    "RecordID": "022-000005179",
+                    "Value": "Strozzi,Niccolo`,,"
+                },
+                {
+                    "PersonId": "18200",
+                    "RecordID": "022-000005180",
+                    "Value": "Paoli,Pierfrancesco,,"
+                },
+                {
+                    "PersonId": "18201",
+                    "RecordID": "022-000005181",
+                    "Value": "Bursei,Amabilis,,"
+                },
+                {
+                    "PersonId": "18202",
+                    "RecordID": "022-000005182",
+                    "Value": "Mascardi,Agostino,,1590-1640"
+                },
+                {
+                    "PersonId": "17757",
+                    "RecordID": "022-000004656",
+                    "Value": "Leonida,Fabio,,"
+                },
+                {
+                    "PersonId": "18203",
+                    "RecordID": "022-000005183",
+                    "Value": "Rogeri,Francisci,,"
+                },
+                {
+                    "PersonId": "18204",
+                    "RecordID": "022-000005184",
+                    "Value": "de Simeonibus,Gasparis,,"
+                },
+                {
+                    "PersonId": "18205",
+                    "RecordID": "022-000005185",
+                    "Value": "Portii,Gregorii,,"
+                },
+                {
+                    "PersonId": "18207",
+                    "RecordID": "022-000005187",
+                    "Value": "Sgamabti ,Scipionis,,"
+                },
+                {
+                    "PersonId": "18214",
+                    "RecordID": "022-000005196",
+                    "Value": "Sgambati,Vincentii,,"
+                },
+                {
+                    "PersonId": "18160",
+                    "RecordID": "022-000005128",
+                    "Value": "Della Valle,Pietro,,1586-1652"
+                },
+                {
+                    "PersonId": "5294",
+                    "RecordID": "022-000000342",
+                    "Value": "Rivaroli,Matteo,,"
+                },
+                {
+                    "PersonId": "18187",
+                    "RecordID": "022-000005167",
+                    "Value": "Rocchi,Girolamo,,fl.1628 - 1638"
+                }
+            ]
+        },
+        "Notes": "Here shown are the title page and the portrait of Mrs Sitti Maani Gioerida Della Valle",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18162",
+                    "RecordID": "022-000005130",
+                    "Value": "Salviani,Gasparo,,"
+                },
+                {
+                    "PersonId": "16527",
+                    "RecordID": "022-000003224",
+                    "Value": "Ridolfi,Niccolo`,,1558 - 1650"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimartur, si videbitur Reverendiss. P. Magistro Sac. Palatii Apostol. A. Episc. Hierac. Vicesg. \nEx commissione Reverendissimi P. F. Nicolaij Rodulfi sac. pal. Apost. Mag. perlegi opus instriptum `Funerale della signora Sitti Maani Gioerida della Valle; nec quid inveni, quod fidei et bonis moribus obstet. Die nona Martij 1627. Gaspar Salvianus. \nImprimatur.\nFr. Nicolai Rodulfius. Ord. Praed. Sacri Palatii Apostolici Magister",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18160",
+                    "RecordID": "022-000005128",
+                    "Value": "Della Valle,Pietro,,1586-1652"
+                },
+                {
+                    "PersonId": "18186",
+                    "RecordID": "022-000005165",
+                    "Value": "Della Valle,Sitti Maani Gioerida,,1598? - 1621"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16078",
+                "RecordID": "022-000002663",
+                "Value": "Zannetti Bartolomeo,Herede di,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54399",
+            "Value": "023-000005166_54399_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54400",
+            "Value": "023-000005166_54400_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

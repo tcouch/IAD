@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7104",
+        "RecordId": "022-000000837",
+        "Surname": "Farnese",
+        "Forename": "Ottavio",
+        "Gender": "Male",
+        "PersonalTitle": "Duke of Parma and Piacenza",
+        "DateText": "1524-1586",
+        "StartDate": "1524",
+        "EndDate": "1586",
+        "Nationality": {
+            "NationalityId": "422",
+            "Value": "of Valentano (Northern Lazio)"
+        },
+        "Notes": "See his biography by Giampiero Brunelli, in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

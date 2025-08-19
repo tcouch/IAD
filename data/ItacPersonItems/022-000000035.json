@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5033",
+        "RecordId": "022-000000035",
+        "Surname": "Buonvalori",
+        "Forename": "Cristoforo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bonvalori"
+            },
+            {
+                "AlternativeSurname": "Buonavalori",
+                "AlternativeForename": "Cristofano"
+            }
+        ],
+        "DateText": "fl. 1600-1628",
+        "StartDate": "fl. 1600",
+        "EndDate": "1628",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

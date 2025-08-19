@@ -1,0 +1,56 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006388",
+        "WorkId": "000769",
+        "ShortTitle": "Galilaei Galilaei Lyncei Academiae Pisanae Mathematici,",
+        "LongTitle": "Seren.mi magni Ducis Hetruriae Philosophi et mathematici primarij Systema Cosmicum: in quo Dialogis IV de duobus maximis Mundi Systematibus, Ptolemaico & Copernicano, rationibus utrinque propositis indefinite differitur. Accessit locorum S. Scripturae cum terrae mobilitate conciliatio",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "69",
+            "PublicationPlaceItalianName": "Leida",
+            "PublicationPlaceEnglishName": "Leiden",
+            "PublicationPlaceLatinName": "Lugduni Batavorum"
+        },
+        "PublicationYear": "1641",
+        "DedicationPlaceDate": "Kalendiis Ianuarii 1641",
+        "Shelfmark": "715g15",
+        "Subjects": "Astronomy",
+        "Language": "Latin",
+        "Pagination": "377 [21]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9018",
+                "RecordID": "022-000001586",
+                "Value": "Galilei,Galileo,,1564 - 1642"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19220",
+                "RecordID": "022-000006394",
+                "Value": "de Montconis,Baldassarre,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19216",
+                "RecordID": "022-000006389",
+                "Value": "Huguetan,Ioan. Antonius,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19216",
+                "RecordID": "022-000006389",
+                "Value": "Huguetan,Ioan. Antonius,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

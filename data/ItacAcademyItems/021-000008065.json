@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0533",
+        "RecordId": "021-000008065",
+        "Name": "Desiosi-Bologna (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Baytree with thorns",
+        "Motto": "Asperitasque fugit",
+        "StartDate": "1650s?",
+        "DateText": "1650s?",
+        "Notes": "One publication related to the history of the Academy, but not in British Library collections, is: Accademia dei Desiosi, Academiae leges (1651?), ed. Ovidio Montalbani. (Academy`s emblem and motto on the title page)",
+        "ItacPersonItem": {
+            "PersonId": "5022",
+            "RecordId": "022-000000024",
+            "Name": "Montalbani,Ovidio,,1601 - 1671",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5279",
+        "RecordId": "022-000000324",
+        "Surname": "Manzini",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "DateText": "1599-1664",
+        "StartDate": "1599",
+        "EndDate": "1664",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Manzini received his doctorate in civil and canon law at the University of Bologna in 1623. At the Addormentati Academy in Genoa, Manzini delivered the oration `I tre concorrenti amorosi`, which was subsequently published (Genova-Bologna 1630). See his biography by Luigi Matt, in DBI.",
+        "Role": "Author|Contributor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

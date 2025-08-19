@@ -1,0 +1,48 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006501",
+        "WorkId": "000777",
+        "ShortTitle": "Chori",
+        "LongTitle": "Disputationibus interiecti cum theses ex universa philosophia Bonis Auspiciijs Excellentiss. Principis M. Antonii Burghesii publice defendit. Pompeius Mousonius Aquilanus. Academicus Parhtenius",
+        "ItacAcademyItem": {
+            "AcademyId": "0153",
+            "RecordID": "021-000006443",
+            "Value": "Accademia Partenia (Roma)"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1612",
+        "Shelfmark": "11408e67(3)",
+        "Subjects": "Odes",
+        "Language": "Latin",
+        "Pagination": "[12]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19263",
+                "RecordID": "022-000006446"
+            }
+        },
+        "Notes": "Franchi, Impressioni sceniche, p. 799, no 21, specifies that there is no author. The choruses were sang on the occasion of Manzoni`s doctorate in philosophy.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18968",
+                "RecordID": "022-000006074",
+                "Value": "Borghese,Marcantonio,I Prince of Sulmona,1601 - 1658"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16999",
+                "RecordID": "022-000003793",
+                "Value": "Zanetti,Bartolomeo,,fl.1520 - 1548"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

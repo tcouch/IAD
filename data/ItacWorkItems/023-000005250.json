@@ -1,0 +1,106 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005250",
+        "WorkId": "000649",
+        "ShortTitle": "Poesie di Girolamo Preti,",
+        "LongTitle": "Dall`autore corrette et accresciute",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "56",
+            "PublicationPlaceItalianName": "Macerata",
+            "PublicationPlaceEnglishName": "Macerata",
+            "PublicationPlaceLatinName": "Maceratensis"
+        },
+        "PublicationYear": "1646",
+        "DedicationPlaceDate": "15 May 1618",
+        "Shelfmark": "1490c50",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "170 [6]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5171",
+                "RecordID": "022-000000166",
+                "Value": "Preti,Girolamo,,1582 - 1626"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5171",
+                "RecordID": "022-000000166",
+                "Value": "Preti,Girolamo,,1582 - 1626"
+            }
+        },
+        "Notes": "A CHI LEGGE Avertasi che, se si trova in questi componimenti alcun luogo, dove esaltandosi la bellezza humana, ella sia paragonata a cose sovrhumane, e celesti; overo esaggerandosi le pene amorose, elle sieno agguagliate alle pene Infernali, cio` e` detto per un` hiperbole vaneggiante e per secondar l`usanza de; Poeti. Inoltre le voci Fortuna, Fato, Destino e Sorte, intender si deono per le seconde cagioni , ubidienti alla sovrana universal Cagione. Per Paradiso, ha voluto l`Autore significar cosa vaga, o luogo semplicemente delizioso; per Angola, Idolo, Dea, intese Donna sommamente bella; per Santo, cosa honesta; per Celeste, Sacro e Divino, vuol che s`intenda Cosa eccellente, e degna di riverenza. Per Beare, intendasi Felicitare; per Adorare intendasi Con humilta` riverire. Insomma, l`autor protesta che tutte le voci e tutte le sentenze, le quali paiono o ardite o profanate, si` come usate furiono da tutti i poeti per render piu` vaga e piu` spiritosa la Poesia; cosi` in questi Scherzi intepretar si deono con sentimento non discordante dalla cattolica Verita`.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18282",
+                    "RecordID": "022-000005280",
+                    "Value": "Papiro,Silvestro,,"
+                },
+                {
+                    "PersonId": "18283",
+                    "RecordID": "022-000005281",
+                    "Value": "De Guliis,Vincentius,,"
+                },
+                {
+                    "PersonId": "15348",
+                    "RecordID": "022-000001387",
+                    "Value": "Angelutius,Claudius,Canon,"
+                },
+                {
+                    "PersonId": "15350",
+                    "RecordID": "022-000001389",
+                    "Value": "Spinuccius,Hieronymus,,"
+                },
+                {
+                    "PersonId": "15351",
+                    "RecordID": "022-000001390",
+                    "Value": "Talianus,Ioannes Baptistam,Vicar,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Si placet Illustrissimo, et Reverendissimo D. Papiro Silvestro Episc. Macerat. Reimprimatur, Fr. Vincentius de Guliis Min. Con. Sac. Th. Mag. in Patr. Univer. Phil. Profess. \nReimprimatur. Claudius Angelutius Can. Theol. Prothon. Apost. et Illustriss. ac Reverendiss. D. Papirii de Silvestris Vic. Generalis.\nHieronymus Spinuccius S. Salvatoris Canon. Phil. ac Sac. Theol. Doct. et S. Offic. Revis. vidit, et approbat. Reimprimatur. Fr. Io: Baptista Talianus Vic. Sancti Off. Macer. Praedic.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18277",
+                "RecordID": "022-000005277",
+                "Value": "d`Este,,Prince of Modena,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5312",
+                "RecordID": "022-000000365",
+                "Value": "Zenero,Carlo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18254",
+                "RecordID": "022-000005251",
+                "Value": "Grisei,Agostino,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Per un ritratto del cavalier Guarino, nell`esequie a lui fatte da SS. Accademici Humoristi di Roma",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "5171",
+                        "RecordID": "022-000000166",
+                        "Value": "Preti,Girolamo,,\u20201626"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

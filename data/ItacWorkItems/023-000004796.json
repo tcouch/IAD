@@ -1,0 +1,63 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004796",
+        "WorkId": "000595",
+        "ShortTitle": "Elementa Conica",
+        "LongTitle": "Apollonii Paergei Et Archimedis Opera Nova & breviori methodo demonstrata a Ioanne Alphonso Borellio.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1689",
+        "Shelfmark": "1578/6050",
+        "Subjects": "Geometry",
+        "Language": "Latin",
+        "Pagination": "pp. 283",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16209",
+                "RecordID": "022-000002840",
+                "Value": "Borrelli,Giovanni Alfonso,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17880",
+                    "RecordID": "022-000004801",
+                    "Value": "Capizucchi,Raimondo,Cardinal,1615 - 1691"
+                },
+                {
+                    "PersonId": "17879",
+                    "RecordID": "022-000004800",
+                    "Value": "de Angelis,Giacomo,Cardinal|Archbishop of Urbino,1610 - 1695"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur Reverendiss. patri Sac. Pal. Apost. Mag.\nI. de Angelis Archiep. Urbinat. Vecesg\nImprimatur\nFr. Raymundus Capisuccus Ord. Praedic. Sac. Pal. Apost. Magist.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17876",
+                "RecordID": "022-000004797",
+                "Value": "Rospigliosi,Felice,Cardinal,1639 - 1688"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17878",
+                "RecordID": "022-000004799",
+                "Value": "Mascardi,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

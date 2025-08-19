@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004990",
+        "WorkId": "000613",
+        "ShortTitle": "Dell`Istoria Di Notar Antonino Castaldo Libri Quattro.",
+        "LongTitle": "Ne` quali si descrivono gli avvenimenti pi\u00f9 memorabili succeduti nel Regno di Napoli sotto il Governo del Vicer\u00e8 D. Pietro Di Toledo E de` Vicer\u00e8 suoi successori fino al Cardinal Granvela.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0037",
+                "RecordID": "021-000002640",
+                "Value": "Accademia degli Incogniti"
+            },
+            {
+                "AcademyId": "0057",
+                "RecordID": "021-000003617",
+                "Value": "Accademia dei Sireni"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1769",
+        "Shelfmark": "661.k.7.",
+        "Subjects": "History of Naples",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 155",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18023",
+                "RecordID": "022-000004963",
+                "Value": "Castaldo,Antonino,,"
+            }
+        },
+        "Notes": "This text contains references to various Neapolitan Academies.",
+        "CensorsAgreement": "Con Licenza de` Superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18048",
+                "RecordID": "022-000004991",
+                "Value": "Gravier,Giovanni,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

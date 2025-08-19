@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15125",
+        "RecordId": "022-000001166",
+        "Surname": "Carafa",
+        "Forename": "Francesco",
+        "PersonalTitle": "Marquis of Ansi|Prince of Belvedere",
+        "DateText": "1593-1640",
+        "StartDate": "1593",
+        "EndDate": "1640",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Francesco Carafa was the president of the Sileni Academy and the Infuriati Academy in Naples",
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

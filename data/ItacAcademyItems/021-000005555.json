@@ -1,0 +1,116 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0121",
+        "RecordId": "021-000005555",
+        "Name": "Delfici (Accademia dei)",
+        "AlternativeName": "Accademia Delfica|Accademia Gussoniana",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "A tripod",
+        "Motto": "Hinc Oracula",
+        "StartDate": "1647?",
+        "EndDate": "1690?",
+        "DateText": "1647?-1690?",
+        "Notes": "This Academy was interested in law studies and improvised eloquence. See Maylender, II, p. 156. It was based in the house of Senator Francesco Gussoni, hence Accademia Gussoniana. Publications not in British Library catalogue, include: Il Cesare amante drama per musica di Ardio Riuarota. Accademico fra` Delfici il Volenteroso. Da rappresentarsi nel theatro Grimano (Venezia, il Giuliani, 1651).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18519",
+                "RecordId": "022-000005553",
+                "Name": "Beregan,Nicolo`,,1627 - 1713",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18522",
+                "RecordId": "022-000005557",
+                "Name": "Gussoni,Francesco,Senator,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18523",
+                "RecordId": "022-000005558",
+                "Name": "Bembo,Marco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18524",
+                "RecordId": "022-000005559",
+                "Name": "Cornaro,Giambattista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18525",
+                "RecordId": "022-000005560",
+                "Name": "Corraro,Jacopo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18527",
+                "RecordId": "022-000005562",
+                "Name": "Toresini,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18526",
+                "RecordId": "022-000005561",
+                "Name": "Varotari,Dario,,",
+                "Nickname": "Volenteroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18521",
+                "RecordId": "022-000005556",
+                "Name": "Boschini,Marco,,1613 - 1678 (or1704)",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54439",
+                    "Value": "022-000005556_54439_2.jpg"
+                }
+            },
+            {
+                "PersonId": "19258",
+                "RecordId": "022-000006439",
+                "Name": "Bon,Nicolo`,,1635 - 1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19883",
+                "RecordId": "022-000007325",
+                "Name": "Busenello,Giovan Francesco,,1598 - 1659",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19886",
+                "RecordId": "022-000007329",
+                "Name": "Contarini,Giovanbattista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

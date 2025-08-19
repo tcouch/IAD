@@ -1,0 +1,44 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002807",
+        "WorkId": "000356",
+        "ShortTitle": "Del Sorgimento De` Licori Nelle Fistole Aperte d`ambidue gli estremi, Et intorno \u00e0 molti corpi, che tocchino la loro superficie.",
+        "LongTitle": "Discorso Di Luc`Antonio Porzio Accademico Investigante.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1667",
+        "Shelfmark": "537.c.15.(3.)",
+        "Subjects": "Academic Speeches",
+        "Language": "Italian",
+        "Illustration": "Plates|Tubes; flasks; scientific instruments",
+        "Pagination": "pp. 107",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16146",
+                "RecordID": "022-000002759",
+                "Value": "Porzio,Luca Antonio,,1639 - 1724"
+            }
+        },
+        "Notes": "In the preface the editor mentions the Investiganti Academy and its founder Andrea Concublet, Marquis of Arena",
+        "TitlePageImage": {
+            "ImageId": "52868",
+            "Value": "023-000002807_52868_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52870",
+            "Value": "023-000002807_52870_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

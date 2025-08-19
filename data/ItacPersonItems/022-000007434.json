@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19975",
+        "RecordId": "022-000007434",
+        "Surname": "Altani",
+        "Forename": "Scipione Enrico",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Altan"
+            },
+            {
+                "AlternativeSurname": "Altano"
+            }
+        ],
+        "PersonalTitle": "Count of Salvarolo",
+        "DateText": "1654-1738",
+        "StartDate": "1654",
+        "EndDate": "1738",
+        "Nationality": {
+            "NationalityId": "336",
+            "Value": "of San Vito al Tagliamento (Pordenone)"
+        },
+        "Notes": "Historian, poet, playwright. Joined the Ricovrati in 1678. His portrait is taken from Delle ode del signor Enrico Altani conte di Salvarolo Parte prima .. (Venetia, Zattoni, 1680)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006230",
+        "WorkId": "000732",
+        "ShortTitle": "Cheirurgia nova Gasparis Tagliacotii medicinae in bononiensi gymnasio professoris celeberrimi",
+        "LongTitle": "De narium, aurium, labiorumque defectu, per insitionem cutis ex humero, arte, hactenus omnibus ignota  farciendo. Quae de curtis pars cheirurgiae nobilissima, tam a Neotericis quam Veteribus, magno artis, at maiore laborantium dispendio et iactura, tot fuit seculis desiderata. Additis Cutis Traducis instrumentorum omnium, atque deligationum Iconibus et Tabulis. Cum Indice quadruplici expeditissimo, capitum singulorum, Authorum, Controversiarum, Rerum Denique et Verborum memorabilium",
+        "ItacAcademyItem": {
+            "AcademyId": "0148",
+            "RecordID": "021-000006222",
+            "Value": "Accademia degli Oziosi (Bologna)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "58",
+            "PublicationPlaceItalianName": "Francoforte",
+            "PublicationPlaceEnglishName": "Frankfort",
+            "PublicationPlaceLatinName": "Fancofurtii"
+        },
+        "PublicationYear": "1598",
+        "Shelfmark": "548b18",
+        "Subjects": "Medicine|Plastic surgery",
+        "Language": "Latin|Greek",
+        "Pagination": "605",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19098",
+                "RecordID": "022-000006224",
+                "Value": "Tagliacozzi,Gasparo,,1545 - 1599"
+            }
+        },
+        "Notes": "In the Latin dedication letter, the author mentions Scipione Gonzaga as `formerly patron of our Academy of the Oziosi`. The volume contains several woodcuts. For a detailed study of the autor and his book, see Gnudi and Webster, The Life and Times of Gaspare Tagliacozzi Surgeon of Bologna. 1545 - 1599. With a Documented Study of the Scientific and Cultural Life of Bologna in the Sixteenth Century (1950).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19102",
+                "RecordID": "022-000006229",
+                "Value": "Gonzaga,Vincenzo,Duke of Mantua,1562 - 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54621",
+            "Value": "023-000006230_54621_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

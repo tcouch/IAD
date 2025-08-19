@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7561",
+        "RecordId": "022-000000277",
+        "Surname": "Bottrigari",
+        "Forename": "Hercole",
+        "Gender": "Male",
+        "Pseudonym": "Alemanno Benelli",
+        "DateText": "1531-1612",
+        "StartDate": "1531",
+        "EndDate": "1612",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "See his biography by O. Mischiati, in DBI.",
+        "Role": "Author|Dedicatee|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

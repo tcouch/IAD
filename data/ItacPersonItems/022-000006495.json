@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19308",
+        "RecordId": "022-000006495",
+        "Surname": "Minderer",
+        "Forename": "Raimondo",
+        "DateText": "ca.1570 - 1621",
+        "StartDate": "ca.1570",
+        "EndDate": "1621",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Physician, and philosopher, was candidate to become Linceo in 1621.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

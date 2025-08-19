@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002365",
+        "WorkId": "000308",
+        "ShortTitle": "Pitture del Doni. Accademico pellegrino",
+        "LongTitle": "Nelle quali si mostra di nuova inventione: Amore Fortuna Tempo Castit\u00e0 Religione Sdegno Riforma Morte Sonno Republica et magnanimit\u00e0. Consacrati agl`illustrissimi signori i signori Academici Eterei. Libro primo",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0025",
+                "RecordID": "021-000002211",
+                "Value": "Accademia degli Eterei"
+            },
+            {
+                "AcademyId": "0132",
+                "RecordID": "021-000005855",
+                "Value": "Accademia dei Pellegrini"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1564",
+        "Shelfmark": "232.i.4",
+        "Subjects": "Painting and literature",
+        "Language": "Italian",
+        "Illustration": "Engraved plate|Portrait of Anton Francesco Doni",
+        "Pagination": "pp.64",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15698",
+                "RecordID": "022-000002229",
+                "Value": "Doni,Anton Francesco,,1513 - 1574"
+            }
+        },
+        "Notes": "MS list of the commentary to `paintings`. Modern edition: Pitture del Doni, ed. and intro. Sonia Maffei (Naples, 2004)",
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "15699",
+                "RecordID": "022-000002230",
+                "Value": "Vico,Enea ,,1523-1567"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15697",
+                "RecordID": "022-000002228",
+                "Value": "Perchacino,Gratioso,,"
+            }
+        },
+        "PrinterOrnament": "U425 - V156 - Z1044",
+        "TitlePageImage": {
+            "ImageId": "54856",
+            "Value": "023-000002365_54856_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

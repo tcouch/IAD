@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9162",
+        "RecordId": "022-000001739",
+        "Surname": "Patina",
+        "Forename": "Carola Catterina",
+        "Gender": "Female",
+        "AlternativeName": {
+            "AlternativeSurname": "Patin",
+            "AlternativeForename": "Charlotte Catherine"
+        },
+        "DateText": "ca 1667-1745",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

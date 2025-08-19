@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16873",
+        "RecordId": "022-000003640",
+        "Surname": "Magnocavallo",
+        "Forename": "Bonifacio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Magnocavalli"
+            },
+            {
+                "AlternativeSurname": "Magnocaballi"
+            }
+        ],
+        "DateText": "1540-1575",
+        "StartDate": "1540",
+        "EndDate": "1575",
+        "Nationality": {
+            "NationalityId": "370",
+            "Value": "of Casale Monferrato"
+        },
+        "Notes": "For nationality and dates, see Gustavo Mola di Nomaglio, Feudi e nobilt\u00e0 negli stati dei Savoia: materiali, spunti, spigolature bibliografiche per una storia (Turin: Lanzo, 2006), p. 267.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16091",
+        "RecordId": "022-000002679",
+        "Surname": "Contarini",
+        "Forename": "Vincenzo",
+        "Gender": "Male",
+        "DateText": "1570-1619",
+        "StartDate": "1570",
+        "EndDate": "1619",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Professor of Greek and Latin at the University of Padua (1603-1616). Contarini joined the Ricovrati in 1604.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

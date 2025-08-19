@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002360",
+        "WorkId": "000307",
+        "ShortTitle": "Breve trattato dell`oratore",
+        "LongTitle": "di M. Iason Denores alla studiosa,et valorosa Gioventu` de` Nobili della Illustrissima Republica Vinitiana. discorso del medesimo inotrno alla Distintione, Deffinitione, et Divisione della Rhetorica in piu` tavole poi a maggior facilita` ordinatamente compartito alla Nobilissima, et illustre Academia de` Rinascenti. Nel quale come in una breve introduttione, sono esaminate molte Questioni utilissime alla presente materia",
+        "ItacAcademyItem": {
+            "AcademyId": "0028",
+            "RecordID": "021-000002358",
+            "Value": "Accademia dei Rinascenti"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1574",
+        "Shelfmark": "72.k.27",
+        "Subjects": "Rhetoric",
+        "Language": "Italian",
+        "Pagination": "pp. 89",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15809",
+                "RecordID": "022-000002362",
+                "Value": "Denores,Iason,,"
+            }
+        },
+        "CensorsAgreement": "Nic. Gal. Vic. Fr. Maximianus Cremensis Inq. Pat. vidit et approbavit.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15811",
+                "RecordID": "022-000002364",
+                "Value": "Accademici Rinascenti,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15810",
+                "RecordID": "022-000002363",
+                "Value": "Galignani,Simon,,fl.1552 - 1578"
+            }
+        },
+        "PrinterOrnament": "V143",
+        "TitlePageImage": {
+            "ImageId": "52625",
+            "Value": "023-000002360_52625_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52626",
+            "Value": "023-000002360_52626_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

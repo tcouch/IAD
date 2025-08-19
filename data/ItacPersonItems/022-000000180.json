@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5185",
+        "RecordId": "022-000000180",
+        "Surname": "Torelli",
+        "Forename": "Andrea",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Taurellus",
+            "AlternativeForename": "Andreas"
+        },
+        "DateText": "1594-1647?",
+        "StartDate": "1594",
+        "EndDate": "1647?",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "From Dijon. His biography in Glorie degli Incogniti.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

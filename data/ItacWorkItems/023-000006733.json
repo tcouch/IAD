@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006733",
+        "WorkId": "000801",
+        "ShortTitle": "Tutto il mal non vien per nuocere",
+        "LongTitle": "Comedia per musica. Da rappresentarsi dagli Academici Uniti",
+        "ItacAcademyItem": {
+            "AcademyId": "0173",
+            "RecordID": "021-000006725",
+            "Value": "Accademia degli Uniti (Roma)"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1681",
+        "Shelfmark": "906l7(3)",
+        "Subjects": "Melodrama|Theatre",
+        "Language": "Italian",
+        "Pagination": "70",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18332",
+                "RecordID": "022-000005346",
+                "Value": "de Totis,Giuseppe Domenico,,1644 - 1707"
+            }
+        },
+        "Notes": "Music by Alessandro Scarlatti",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17879",
+                    "RecordID": "022-000004800",
+                    "Value": "de Angelis,Giacomo,Cardinal|Archbishop of Urbino,1610 - 1695"
+                },
+                {
+                    "PersonId": "17880",
+                    "RecordID": "022-000004801",
+                    "Value": "Capizucchi,Raimondo,Cardinal|Master of the Sacred Palace,1615 - 1691"
+                }
+            ]
+        },
+        "CensorsAgreement": "Protesta - Imprimatur si videbitur reverendiss. P. Mag. Sac. Pal. Apost. I de Ang Archiep. Urbin. Vicesg. - Imprimatur Fr. Raimundus Capisuccus Sac. Pal. Ap. Mag.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19502",
+                "RecordID": "022-000006732",
+                "Value": "Giannini,Carlo,,ca1637 - ca1703"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54868",
+            "Value": "023-000006733_54868_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

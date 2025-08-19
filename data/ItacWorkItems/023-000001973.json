@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001973",
+        "WorkId": "000281",
+        "ShortTitle": "La Selva Di Parnaso del Signor Antonio Bruni. Parte Prima e Seconda.",
+        "LongTitle": "Cio\u00e8 Gli Amori; Le Fantasie; Gli Encomi; Le Essequie; Le Piacevolezze; Le Moralit\u00e0; Le Divozioni; e Le Varietadi. Con brevi argomenti del Cavalier Aurelio Alconi. all`Altezza di Toscana. \nParte Seconda. Cioe` i Madrigali, I Panegirici, Le Canzoni, La Caccia, Le Stanze, L`Aurora, e Gli Scherzi. All`Illustris. Sig. Davide Imperiale.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1615",
+        "DedicationPlaceDate": "Venice 14 November 1615",
+        "Shelfmark": "11429.a.23",
+        "Content": "Encomiastic poetry. Madrigals",
+        "Subjects": "Poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|Portrait of Antonio Bruni; Muses; winged lion holding book of Gospels",
+        "Pagination": "Discontinous pagination",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15035",
+                "RecordID": "022-000001077",
+                "Value": "Bruni,Antonio,,1593-1635"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16276",
+                "RecordID": "022-000002928",
+                "Value": "Alconi,Aurelio,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16277",
+                    "RecordID": "022-000002929",
+                    "Value": "Naldus,Antonius,,"
+                },
+                {
+                    "PersonId": "16278",
+                    "RecordID": "022-000002930",
+                    "Value": "Vignutius,Ioan[nes] Dom[inicus],,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Perlegi ex mandato admodum R. P. Inquisitoris librum inscriptum, la Selva di Parnaso, del Signor Antonio Bruni, parte prima, quem typis mandari posse censeo, ut qui in nihilo (quod deprehenderim) fidei catholicae, bonis moribus, aut Principibus adversetur. Die 2. Novembrio 1615 Ven.\nD. Antonius Naldus CL. R. \nVisa supradicta approbat. Admittit Impressioni Fr. Ioan. Dom. Vignutius Magister Generalis Inquisit.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15737",
+                    "RecordID": "022-000002278",
+                    "Value": "de` Medici,Cosimo II,Grand Duke of Tuscany,1590-1621"
+                },
+                {
+                    "PersonId": "16279",
+                    "RecordID": "022-000002932",
+                    "Value": "Imperiale,Davide,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16275",
+                "RecordID": "022-000002927",
+                "Value": "Dei,Ambrogio e Bartolomeo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,1104 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0048",
+        "RecordId": "021-000002842",
+        "Name": "Intronati (Accademia degli)",
+        "AlternativeName": "Academia Intronatorum",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Gourd for storing salt with two pestles",
+        "EmblemImage": {
+            "ImageId": "53909",
+            "Value": "021-000002842_53909_1.jpg"
+        },
+        "Motto": "Meliora Latent",
+        "StartDate": "1525",
+        "EndDate": "1568; 1603",
+        "DateText": "1525-1568; 1603-",
+        "Notes": "On the role of women in the Accademia degli Intronati, see Coller, in The Italianist, 2 (2006). On  attributions of various works by Intronati academcians, see Ricco`, La `miniera` accademica. Pedagogia, editoria, palcoscenico nella Siena del Cinquecento (2002). \nThe existence of an earlier academy, Accademia grande, is maintained by Leo Kosuta, `L`Academie siennoise`, in Bullettino senese di storia patria (1980), 123-57. For the interpretation of some of the emblems and mottoes, see Roberto Paolo Ciardi, Vita attiva e vita contemplativa nelle imprese degli accademici Intronati, in Documentary Culture. Florence and Rome from Grand-Duke Ferdinand I to Pope Alexander VII, a cura di E. Cropper, G. Perini, F. Salinas, Villa Spelman Colloquia 3, Bologna and Baltimore, 1992. ---- A complete list of academicians and nicknames is in Sbaragli, `I tabelloni degl`Intronati`, in Bullettino senese di storia patria (1942). Descriptions of selected academicians` emblems is in Lolita Petracchi Costantini, L`Accademia degli Intronati di Siena e una sua commedia, Siena, 1928. Publications related to the Academy, but not held in British Library collections, are: Oratione d \u0092Adriano Valerini Veronese, In morte della Divina Signora Vincenza Armani, Comica Eccellentissima. Et alcune rime dell\u0092Istesso e d\u0092altri Auttori, In lode della medesima. Con alquante leggiadre \u00e8 belle Compositioni di detta Signora Vincenza (Verona: Per Bastian dale Donne, & Giovanni Fratelli, n.d. [1570?]) containing poems by accademici Intronati; EUMELIO|dramma pastorale|recitato in Roma nel|Seminario Romano|ne i giorni del carnovale|con le musiche dell`Armonico Intronato|l`anno 1605|nuovamente posto in luce. Ulderic Rolandi (publisher?) (Rome, Seminario Romano, 1606);  Eumelio: dramma pastorale ... / con le musiche dell`armonico intronato ... l`anno 1606 (Venezia: Ricciardo Amadino); Augustini Agazzarii armonici intronati sacre cantiones binis ternisque vocibus concinendae: liber quartus: cum basso ad organum. Editio tertia. (Venetiis : apud Ricciardum Amadinum, 1608); Augustini Agazzarii armonici intronati sacrae cantiones binis, ternisque vocibus concinendae : liber quartus : cum basso ad organum Editio quarta, erroribus noviter expurgata [parti] (Roame: ex typographia et expensis Jo. Baptistae Robletti, 1614); Psalmi sex qui in vesperis ad concentum varietatem interponuntur ternis vocibus. Eosdem sequitur completorium quaternis vocibus cum B. ad org : opus duodecimum / auctore Augustino Agazario armonico intronato (Venetiis: Ricciardum Amadinum, 1609); \nPsalmi sex qui in vesperis ad concentus varietatem interponuntur ternis vocibus. Eosdem sequitur completorium quaternis vocibus : opus duodecimum / auctore Augustino Agazzario armonico intronato (Venetiis: Ricciardum Amadinum, 1613);",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16361",
+                "RecordId": "022-000003016",
+                "Name": "Piccolomini,Marcantonio,,",
+                "Nickname": "Il Sodo Intronato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9205",
+                "RecordId": "022-000001502",
+                "Name": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578",
+                "Nickname": "Stordito Intronato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16372",
+                "RecordId": "022-000003037",
+                "Name": "Credi nei Fortini,Elisabetta,,",
+                "Nickname": "Sustanziosa",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9140",
+                "RecordId": "022-000001619",
+                "Name": "Cornaro\u00a0Piscopia,Helena Lucrezia,,1646 - 1684",
+                "Nickname": "Scompagnata",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16373",
+                "RecordId": "022-000003038",
+                "Name": "Ballati negli Orlandini,Emilia,,",
+                "Nickname": "Ornata",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16374",
+                "RecordId": "022-000003039",
+                "Name": "Manetti negli Zappi,Faustina,,",
+                "Nickname": "Celebre",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16272",
+                "RecordId": "022-000002924",
+                "Name": "Bargagli,Girolamo,,",
+                "Nickname": "Materiale Intronato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16378",
+                "RecordId": "022-000003044",
+                "Name": "Salvestri,Piergiovanni,,",
+                "Nickname": "L`Accurato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16380",
+                "RecordId": "022-000003046",
+                "Name": "Colonna,Camillo,,",
+                "Nickname": "L`Affadigato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16381",
+                "RecordId": "022-000003047",
+                "Name": "Bandini,Mario,,",
+                "Nickname": "L`Affannoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16391",
+                "RecordId": "022-000003057",
+                "Name": "Marretti,Lelio,,",
+                "Nickname": "L`Attonito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16394",
+                "RecordId": "022-000003060",
+                "Name": "Gabbrielli,Silvio,,",
+                "Nickname": "Il Basito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16396",
+                "RecordId": "022-000003062",
+                "Name": "Finetti,Niccolo`,,",
+                "Nickname": "Il Burbaro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16397",
+                "RecordId": "022-000003063",
+                "Name": "Malavolti,Orlando,,",
+                "Nickname": "Il Capocchio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16410",
+                "RecordId": "022-000003076",
+                "Name": "Tolomei,Lelio di Bartolomeo,,",
+                "Nickname": "Il Cauto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16411",
+                "RecordId": "022-000003077",
+                "Name": "Falconetti,Camillo,,",
+                "Nickname": "Il Cieco",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16369",
+                "RecordId": "022-000003034",
+                "Name": "Marzi,Alessandro,,",
+                "Nickname": "Il Cirloso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16414",
+                "RecordId": "022-000003080",
+                "Name": "Petrucci,Antonmaria,,",
+                "Nickname": "Il Coperto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16415",
+                "RecordId": "022-000003081",
+                "Name": "Barozzi,Antonio,,",
+                "Nickname": "Il Deserto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16416",
+                "RecordId": "022-000003082",
+                "Name": "Piccolomini,Alfonso,,",
+                "Nickname": "Il Desiato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16417",
+                "RecordId": "022-000003083",
+                "Name": "Azzoni,Orazio,,",
+                "Nickname": "Il Dilavato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16418",
+                "RecordId": "022-000003084",
+                "Name": "Coccaio,Teofilo,,",
+                "Nickname": "L`Estremo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16419",
+                "RecordId": "022-000003085",
+                "Name": "Lapini,Giovanbattista,,",
+                "Nickname": "Il Fisicoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16423",
+                "RecordId": "022-000003089",
+                "Name": "Piccolomini Mandoli,Girolamo,,",
+                "Nickname": "Il Garoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15752",
+                "RecordId": "022-000002297",
+                "Name": "de` Medici,Francesco I,Grand Duke of Tuscany,",
+                "Nickname": "Il Generoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16436",
+                "RecordId": "022-000003109",
+                "Name": "Orsini,Paolo Giordano,,",
+                "Nickname": "Il Largo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16437",
+                "RecordId": "022-000003110",
+                "Name": "Piccolomini,Francesco,,",
+                "Nickname": "Il Malinconico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16439",
+                "RecordId": "022-000003112",
+                "Name": "Figliucci,Figliuccio,,",
+                "Nickname": "L`Ombroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16441",
+                "RecordId": "022-000003114",
+                "Name": "Principe di Salerno,,,",
+                "Nickname": "L`Ostinato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16383",
+                "RecordId": "022-000003049",
+                "Name": "d`Elci,Achille,Count,",
+                "Nickname": "L`Affumicato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16389",
+                "RecordId": "022-000003055",
+                "Name": "Spanocchi,Giovanfrancesco,,",
+                "Nickname": "L`Assettato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16447",
+                "RecordId": "022-000003124",
+                "Name": "di Mendozza,Ernando,,",
+                "Nickname": "Il Proveduto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16450",
+                "RecordId": "022-000003127",
+                "Name": "Crudeli,Annibale,,",
+                "Nickname": "Il Rovito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16451",
+                "RecordId": "022-000003128",
+                "Name": "Cinuzzi,Marcantonio,,",
+                "Nickname": "Lo Scacciato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16452",
+                "RecordId": "022-000003129",
+                "Name": "Amerighi,Marcantonio,,",
+                "Nickname": "Lo Scalmato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16453",
+                "RecordId": "022-000003130",
+                "Name": "Bandini Piccolomini,Francesco,Archbishop of Siena,1505 - 1588",
+                "Nickname": "Lo Scaltrito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16457",
+                "RecordId": "022-000003134",
+                "Name": "Bandini,Scipione,,",
+                "Nickname": "Lo Smilzo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16458",
+                "RecordId": "022-000003135",
+                "Name": "Cerini,Calistro,,",
+                "Nickname": "Il Sonnacchioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16459",
+                "RecordId": "022-000003136",
+                "Name": "Bellanti,Fausto,,",
+                "Nickname": "Lo Sfaccendato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16461",
+                "RecordId": "022-000003138",
+                "Name": "di Toledo,Don Luigi ,,",
+                "Nickname": "Lo Splendido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15730",
+                "RecordId": "022-000002267",
+                "Name": "Arnigio,Bartolom(m)eo,,",
+                "Nickname": "Il Solingo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16464",
+                "RecordId": "022-000003141",
+                "Name": "Borghesi,Diomede,,",
+                "Nickname": "Lo Svegliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16465",
+                "RecordId": "022-000003142",
+                "Name": "Tolomei,Lattanzio,,",
+                "Nickname": "Lo Svogliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16466",
+                "RecordId": "022-000003143",
+                "Name": "Monsignor di Tolone,,,",
+                "Nickname": "Il Tacito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16468",
+                "RecordId": "022-000003145",
+                "Name": "Grifoli,Laurentio,,",
+                "Nickname": "Il Testareccio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16470",
+                "RecordId": "022-000003147",
+                "Name": "Piccolomini Carli ,Emilio,,",
+                "Nickname": "Il Vagabondo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16471",
+                "RecordId": "022-000003148",
+                "Name": "Piccolomini Mandoli,Salustio,,",
+                "Nickname": "Il Vantaggioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16500",
+                "RecordId": "022-000003186",
+                "Name": "Carli Piccolomini,Bartolomeo,,1503 - 1538/39",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16524",
+                "RecordId": "022-000003221",
+                "Name": "Papini,Carlo,,1586 - 1648",
+                "Nickname": "L`Irresoluto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16528",
+                "RecordId": "022-000003226",
+                "Name": "Landucci,Marcello,,",
+                "Nickname": "Il Bizzarro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16529",
+                "RecordId": "022-000003227",
+                "Name": "Franceschi,Giovan Francesco,,",
+                "Nickname": "Il Moscone",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9215",
+                "RecordId": "022-000001512",
+                "Name": "Sozzini,Mariano,,1482? - 1556?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16608",
+                "RecordId": "022-000003327",
+                "Name": "Il Docile Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16544",
+                "RecordId": "022-000003251",
+                "Name": "Chigi,Fabio ,Pope Alexander VII,1559 - 1667",
+                "Nickname": "Il Guardingo Intronato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16607",
+                "RecordId": "022-000003326",
+                "Name": "Ugurgieri,Ugo,,",
+                "Nickname": "Impaziente Intronato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16252",
+                "RecordId": "022-000002900",
+                "Name": "Turamini,Virginio,,",
+                "Nickname": "L`Aggravato",
+                "Motto": "Gravitate attollitur",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16448",
+                "RecordId": "022-000003125",
+                "Name": "Biringucci Vannocci,Alcide,,",
+                "Nickname": "Il Quadrato",
+                "Motto": "Expolietur",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16462",
+                "RecordId": "022-000003139",
+                "Name": "Savini,Enea,,",
+                "Nickname": "Il Sospeso",
+                "Motto": "Suspensa librat",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16449",
+                "RecordId": "022-000003126",
+                "Name": "Piccolomini Carli,Ipolito,,",
+                "Nickname": "Il Riacceso",
+                "Motto": "Ut vehementius ardeat",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16440",
+                "RecordId": "022-000003113",
+                "Name": "Peri,Lattanzio,,",
+                "Nickname": "L`Ossequioso",
+                "Motto": "Natura et arte",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16387",
+                "RecordId": "022-000003053",
+                "Name": "Colombini,Leonardo,,",
+                "Nickname": "L`Ardente",
+                "Motto": "Afflatu flammescet",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16379",
+                "RecordId": "022-000003045",
+                "Name": "Ferretti,Giulio,,",
+                "Nickname": "L`Adusto",
+                "Motto": "Uret adustus",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16412",
+                "RecordId": "022-000003078",
+                "Name": "Ballati,Orazio,,",
+                "Nickname": "Il Circospetto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16460",
+                "RecordId": "022-000003137",
+                "Name": "Spanocchi,Oratio,Bishop of Chiusi,",
+                "Nickname": "Il Singulare",
+                "Motto": "Et singulum servit",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16472",
+                "RecordId": "022-000003149",
+                "Name": "Forteguerri,Federigo,,",
+                "Nickname": "Il Vivace",
+                "Motto": "Vivax",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16463",
+                "RecordId": "022-000003140",
+                "Name": "Bolgarini,Salustio,,",
+                "Nickname": "Lo Strigato",
+                "Motto": "Implicita extricat",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16422",
+                "RecordId": "022-000003088",
+                "Name": "Mazzagrugni,Giuseppe,,",
+                "Nickname": "Il Frizzante",
+                "Motto": "Reflectit alienum",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16382",
+                "RecordId": "022-000003048",
+                "Name": "Accarigi,Francesco,,",
+                "Nickname": "L`Affinato",
+                "Motto": "Angustiis aptius",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16370",
+                "RecordId": "022-000003035",
+                "Name": "Lucarini,Alcibiade,,",
+                "Nickname": "Offizioso Intronato",
+                "Motto": "Et cortex ad usum",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16433",
+                "RecordId": "022-000003106",
+                "Name": "Accarigi,Fabio,,",
+                "Nickname": "Il Guardengo",
+                "Motto": "Et longinqua dirigit",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16385",
+                "RecordId": "022-000003051",
+                "Name": "Lattanzi,Bernardino,Knight of Saint Stephen,",
+                "Nickname": "L`Appartato",
+                "Motto": "Elevor dum segregor",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16395",
+                "RecordId": "022-000003061",
+                "Name": "Benassai,Francesco,,",
+                "Nickname": "Il Bonario",
+                "Motto": "Nunquam retrorsum",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16438",
+                "RecordId": "022-000003111",
+                "Name": "Piffari,Maestro Cristofano,,",
+                "Nickname": "Il Misurato",
+                "Motto": "Ad omnium mensuram",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16821",
+                "RecordId": "022-000003570",
+                "Name": "Sozzini,Fausto,,1539 - 1604",
+                "Nickname": "Il Frastagliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16826",
+                "RecordId": "022-000003581",
+                "Name": "Capacci,Pier Luigi,,",
+                "Nickname": "Il Raccolto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16828",
+                "RecordId": "022-000003583",
+                "Name": "Spanocchi,Giulio,,",
+                "Nickname": "Il Focoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16825",
+                "RecordId": "022-000003580",
+                "Name": "Tantucci,Teodoro,,",
+                "Nickname": "Il Voglioroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16827",
+                "RecordId": "022-000003582",
+                "Name": "Saracini,Pirro,,",
+                "Nickname": "Il Mansueto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16625",
+                "RecordId": "022-000003344",
+                "Name": "L`Avanzato Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16632",
+                "RecordId": "022-000003351",
+                "Name": "L`Ingegnoso Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16631",
+                "RecordId": "022-000003350",
+                "Name": "L`Interizzito Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16609",
+                "RecordId": "022-000003328",
+                "Name": "L`Intonato Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16610",
+                "RecordId": "022-000003329",
+                "Name": "L`Oculato Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16615",
+                "RecordId": "022-000003334",
+                "Name": "Il Composto Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16618",
+                "RecordId": "022-000003337",
+                "Name": "Il Disinvolto Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16612",
+                "RecordId": "022-000003331",
+                "Name": "Il Generoso Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16613",
+                "RecordId": "022-000003332",
+                "Name": "Il Manieroso Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16628",
+                "RecordId": "022-000003347",
+                "Name": "Il Muinardo Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16617",
+                "RecordId": "022-000003336",
+                "Name": "Il Pertinace Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16620",
+                "RecordId": "022-000003339",
+                "Name": "Il Rauco Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16616",
+                "RecordId": "022-000003335",
+                "Name": "Il Rimpettito Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16619",
+                "RecordId": "022-000003338",
+                "Name": "Il Risoluto Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16621",
+                "RecordId": "022-000003340",
+                "Name": "Il Rispettoso Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16614",
+                "RecordId": "022-000003333",
+                "Name": "Il Saporito Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16627",
+                "RecordId": "022-000003346",
+                "Name": "Il Saturnino Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16630",
+                "RecordId": "022-000003349",
+                "Name": "Il Solitario Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16629",
+                "RecordId": "022-000003348",
+                "Name": "Il Tiepido Intronato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16377",
+                "RecordId": "022-000003043",
+                "Name": "Tommasi,Giugurta,,",
+                "Nickname": "L`Accomodato",
+                "Motto": "Quodcunque commodum",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16413",
+                "RecordId": "022-000003079",
+                "Name": "Gaetano,,Cardinal,",
+                "Nickname": "Il Commosso",
+                "Motto": "Commota grandior",
+                "PersonEmblemDescription": "Stormy sea"
+            },
+            {
+                "PersonId": "16467",
+                "RecordId": "022-000003144",
+                "Name": "Gherardi,Giovanmaria,,",
+                "Nickname": "Il Taciturno",
+                "Motto": "Stratum silet",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16390",
+                "RecordId": "022-000003056",
+                "Name": "Stellini,Paris,,",
+                "Nickname": "L`Assiduo",
+                "Motto": "Manat assiduo",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16392",
+                "RecordId": "022-000003058",
+                "Name": "Marescotti,Giovanbattista,,",
+                "Nickname": "L`Avviato",
+                "Motto": "Rumpit moras",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16496",
+                "RecordId": "022-000003180",
+                "Name": "Vignali,Antonio,,1501 - 1559",
+                "Nickname": "L`Arsiccio Intronato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17340",
+                "RecordId": "022-000004166",
+                "Name": "Gelsi,Giovanni,,",
+                "Nickname": "Ammoscito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17437",
+                "RecordId": "022-000004295",
+                "Name": "Cataneo,Horatio,,",
+                "Nickname": "Il Rincorato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5015",
+                "RecordId": "022-000000017",
+                "Name": "Gessi,Berlingiero (juniore),Senator,1613 - 1671",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16878",
+                "RecordId": "022-000003646",
+                "Name": "Gallaccini,Teofilo,,1564 - 1641",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16895",
+                "RecordId": "022-000003665",
+                "Name": "Spanocchi,Pandolfo,,",
+                "Nickname": "Il Tenace",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17971",
+                "RecordId": "022-000004898",
+                "Name": "Spanocchi,Pandolfo,,fl.1640",
+                "Nickname": "L` Albagioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16248",
+                "RecordId": "022-000002896",
+                "Name": "Bargagli,Scipione,,1540 - 1612",
+                "Nickname": "Lo Schietto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17439",
+                "RecordId": "022-000004297",
+                "Name": "Caracciolo,Marino,Duke of Atripalda,",
+                "Nickname": "Il Rincorato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18086",
+                "RecordId": "022-000005038",
+                "Name": "Manni,Aurelio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18041",
+                "RecordId": "022-000004981",
+                "Name": "Galeota,Mario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18125",
+                "RecordId": "022-000005084",
+                "Name": "Sanseverino,Ferrante,Prince of Salerno,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18126",
+                "RecordId": "022-000005085",
+                "Name": "Muscettola,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18124",
+                "RecordId": "022-000005083",
+                "Name": "d`Avalos,Alfonso,Marquis of Vasto,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17791",
+                "RecordId": "022-000004698",
+                "Name": "Martirano ,Bernardino,,1490 - 1548",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9945",
+                "RecordId": "022-000000816",
+                "Name": "Cicognini,Giacomo,,1557 - 1633",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16249",
+                "RecordId": "022-000002897",
+                "Name": "Bulgarini,Belisario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16376",
+                "RecordId": "022-000003042",
+                "Name": "Bulgarini,Belisario,,1539 - 1620",
+                "Nickname": "L` Aperto",
+                "Motto": "Meliora ut recipiat",
+                "PersonEmblemDescription": "Gourd for storing salt",
+                "PersonEmblemImage": {
+                    "ImageId": "54405",
+                    "Value": "022-000003042_54405_5.jpg"
+                }
+            },
+            {
+                "PersonId": "19375",
+                "RecordId": "022-000006580",
+                "Name": "Alpizquesti,,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19376",
+                "RecordId": "022-000006581",
+                "Name": "Paciucchelli,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16859",
+                "RecordId": "022-000003620",
+                "Name": "Benvoglienti,Girolamo,,",
+                "Nickname": "Ostinato Intronato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19495",
+                "RecordId": "022-000006720",
+                "Name": "Gigli,Girolamo,,1660-1722",
+                "Nickname": "L`Economico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19589",
+                "RecordId": "022-000006922",
+                "Name": "Capacci,Fabrizio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5261",
+                "RecordId": "022-000000269",
+                "Name": "Maretti,Lelio,,1530-1617",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17417",
+                "RecordId": "022-000004271",
+                "Name": "Castelvetro ,Ludovico,,1505 - 1571",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16149",
+                "RecordId": "022-000002763",
+                "Name": "Martello,Pieriacopo,,1665-1727",
+                "Nickname": "Tragico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16371",
+                "RecordId": "022-000003036",
+                "Name": "Battiferri,Laura,,",
+                "Nickname": "La Sgraziata",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20749",
+                "RecordId": "022-000008575",
+                "Name": "Biringucci,Giovanni,,",
+                "Nickname": "Scropuloso Intronato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20775",
+                "RecordId": "022-000008602",
+                "Name": "Ripa,Cesare,,ca.1555-1622",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20787",
+                "RecordId": "022-000008617",
+                "Name": "Lombardelli,Orazio,,1545-1608",
+                "Nickname": "Sbigottito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16443",
+                "RecordId": "022-000003116",
+                "Name": "Damasceni Peretti ,Alessandro,Cardinal Montalto,1571 - 1623",
+                "Nickname": "Il Profondo",
+                "Motto": "Haurit ex alto",
+                "PersonEmblemDescription": "Device for extracting water from a well"
+            },
+            {
+                "PersonId": "16894",
+                "RecordId": "022-000003664",
+                "Name": "Agazzari,Agostino,,1578-1640",
+                "Nickname": "L`Armonico",
+                "Motto": "Multisonum melos",
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005531",
+        "WorkId": "000672",
+        "ShortTitle": "Elio Seiano di Pietro Mattei",
+        "LongTitle": "Historiografo del Re Christianissimo. Tradotto dalla Francese nella lingua Italiana, dal Gelato Academico Humorista. all`Illustrissimo et Eccellentissimo Prencipe Paolo Giordano Orsino. Duca di Bracciano",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Umoristi (Accademia degli)"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "94",
+            "PublicationPlaceItalianName": "Bracciano",
+            "PublicationPlaceEnglishName": "Bracciano"
+        },
+        "PublicationYear": "1620",
+        "Shelfmark": "c119dd10",
+        "Subjects": "History",
+        "Language": "Italian",
+        "Pagination": "320",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18376",
+                "RecordID": "022-000005395",
+                "Value": "Matthieu,Pierre,,1563 - 1621"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18377",
+                "RecordID": "022-000005396",
+                "Value": "Gelato,Accademico Umorista,,"
+            }
+        },
+        "Notes": "The editors mention an edition printed in Ferrara a few months earlier. ---- The section on the woman from Catania, Historia delle prosperita` infelici ... tradotta... dal Gelato Accademico Humorista, is not mentioned on the title page of this edition. It contains the same foreword:as the Milan edition.   AVVERTIMENTO Il Boccaccio fiorentino e` l`Autore di questa historia, l`ultima del suo libro de `Casibus virorum illustrium` e la riferisce, con la fede de` suoi occhi propri e di due vecchi capitani, Marino de` Bulgari e Costantino della Rocca, ch`egli havea conosciuti a corte di Roberto Re di Napoli. Io l`ho raffrontata con un antico codice manuscritto alla prima impressione fatta in Francia et a quello che ne scrive Gio. Antonio Summonte. Egli e` un tragico effetto dell`incostanza della fortuna, che non e` meno ingegnosa ne` suoi inganni, che pazza ne` suoi favori, Ella non pote` innalzare questa donna dal piu` basso, ne` precipitarla dal piu` alto luogo, per dimostare che la salita alle grandi prosperita` e` di vetro, la cima un terremoto, la discesa un precipitio. `Et a voli troppo alti, e repentini/ sogliono i precipitii essere vicini`. Torquato Tasso",
+        "CensorsAgreement": "Io F. Michel`Angelo da Brescia, lettore di Sacra Theologia et Vicario Generale del M. R. P. Inquisitore di Ferrara, ho lette le soprascritte due Historie, et l`ho giudicate degne di stamparsi. Imprimatur, Fr.Dionysius Episcopus Sutrinus, et Nepesinus",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18504",
+                "RecordID": "022-000005535",
+                "Value": "Orsini,Paolo Giordano II,,1591 - 1656"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18503",
+                    "RecordID": "022-000005534",
+                    "Value": "Ruffinello,Giovann` Angelo,,"
+                },
+                {
+                    "PersonId": "18502",
+                    "RecordID": "022-000005533",
+                    "Value": "Manni,Angelo,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18501",
+                "RecordID": "022-000005532",
+                "Value": "Fei,Andrea,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54421",
+            "Value": "023-000005531_54421_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

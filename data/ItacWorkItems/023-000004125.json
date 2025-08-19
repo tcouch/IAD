@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004125",
+        "WorkId": "000527",
+        "ShortTitle": "Iani Pelusii Crotoniatae",
+        "LongTitle": "Oratio Habita In Nuptijs illustrissimi Comitis Renati Borromaei, & illustrissimae Hersiliae Farnesiae",
+        "ItacAcademyItem": {
+            "AcademyId": "0066",
+            "RecordID": "021-000004102",
+            "Value": "Accademia degli Eubolei"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "36",
+            "PublicationPlaceItalianName": "Parma",
+            "PublicationPlaceEnglishName": "Parma",
+            "PublicationPlaceLatinName": "Parmae"
+        },
+        "PublicationYear": "1579",
+        "DedicationPlaceDate": "Parma 12 September 1579",
+        "Shelfmark": "238.m.19.(1.)",
+        "Subjects": "Encomiastic Poetry|Encomiastic Speech",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 27",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17283",
+                "RecordID": "022-000004098",
+                "Value": "Peluso ,Giano,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17305",
+                "RecordID": "022-000004126",
+                "Value": "Pelusius,Fulvius,,"
+            }
+        },
+        "Notes": "On p. 26 the author mentions the Eubolei Academy in Naples.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17306",
+                    "RecordID": "022-000004127",
+                    "Value": "Farnese,Ersilia,,1565 - 1596"
+                },
+                {
+                    "PersonId": "17307",
+                    "RecordID": "022-000004128",
+                    "Value": "Borromeo,Renato,Count of Arona,1555 - 1608"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17308",
+                "RecordID": "022-000004129",
+                "Value": "Viotti,Seth,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54921",
+            "Value": "023-000004125_54921_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54922",
+            "Value": "023-000004125_54922_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

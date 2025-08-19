@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5205",
+        "RecordId": "022-000000199",
+        "Surname": "Gonzaga",
+        "Forename": "Ferdinando",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal|Duke of Mantua|Duke of Monferrato",
+        "DateText": "1587-1626",
+        "StartDate": "1587",
+        "EndDate": "1626",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "Ferdinando Gonzaga was cardinal from 1607 to 1616, when he became duke, and remained as such until his death.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

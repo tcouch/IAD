@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15473",
+        "RecordId": "022-000001998",
+        "Surname": "Giraldi Cinzio",
+        "Forename": "Giambattista",
+        "Gender": "Male",
+        "DateText": "1504-1573",
+        "StartDate": "1504",
+        "EndDate": "1573",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Role": "Author|Contributor|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

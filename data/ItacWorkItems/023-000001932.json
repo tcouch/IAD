@@ -1,0 +1,57 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001932",
+        "WorkId": "000270",
+        "ShortTitle": "Mottetti sacri (Violino secondo/Organo/Bassetto Viola)",
+        "LongTitle": "A voce sola con due violini. All`Altezza Serenissima di Francesco Secondo. Duca di Modona reggio etc. Da Gio(vanni) Paolo Colonna. Maestro di Cappella in San Petronio di Bologna, et Accademico Filaschiso e Filarmonico. Opera seconda",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1681",
+        "DedicationPlaceDate": "10 October 1681",
+        "Shelfmark": "D.40",
+        "Subjects": "Music",
+        "Language": "Italian|Latin",
+        "Pagination": "3 parts, pp. 35",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15385",
+                "RecordID": "022-000001880",
+                "Value": "Colonna,Giovanni  Paolo,,1637-1695"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal|Archibishop of Bologna,1622 - 1684"
+                },
+                {
+                    "PersonId": "7409",
+                    "RecordID": "022-000001001",
+                    "Value": "Chrisostomus,Iohannes,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Io. Chrysostomus Vicecomes Clericus Reg. Sancti Pauli, et in Metropolitana Bononiae Paenitentiarius pro Eminentissimo, et Reverendissimo D., D. Hieronymo Boncompagno Archiepiscopo, et Principe. Imprimatur. Vicarius sancti officij Bononiae",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

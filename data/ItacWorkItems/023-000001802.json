@@ -1,0 +1,63 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001802",
+        "WorkId": "00117",
+        "ShortTitle": "Gli Arronzii overo de` marmi antichi",
+        "LongTitle": "Dove con la vita di Lucio Arronzio Stella e Marco Arronzio Aquila padovani si ha notizia delle antichit\u00e0 riti monete sacerdozij di Roma di Padova dell`Italia e dell`Imperio romano. Discorso del Conte Giacomo Zabarella Recitato da lui medesimo sotto nome dell`Amiantato nell` Academia de` Ricovrati di Padova gli 12 Gennaro 1652",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1655",
+        "DedicationPlaceDate": "Padua 7 October 1655",
+        "Shelfmark": "278.d.27 | 604.c.12",
+        "Subjects": "Antiquities",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page and author`s portrait|",
+        "Pagination": "pp. 130",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5190",
+                "RecordID": "022-000000184",
+                "Value": "Zabarella,Giacomo,Count (The Younger),fl.1646 - 1674"
+            }
+        },
+        "Notes": "In the dedication to the reader he explains his career in Academies (among the  Ricovrati and then Zitoclei) and the meaning of his emblem. The 604.c.12 copy has an engraved title page with the inscription: `Patauij : apud Paulum Frambottum sub signo Saluatoris`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5099",
+                "RecordID": "022-000000096",
+                "Value": "Barberini,Francesco,Cardinal ,1597-1679"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "7313",
+                "RecordID": "022-000000899",
+                "Value": "David,Hieronymus,,1605-1670"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9639",
+                "RecordID": "022-000001687",
+                "Value": "Frambotti,Paolo,,"
+            }
+        },
+        "PrinterOrnament": "Mar.te 1051",
+        "TitlePageImage": {
+            "ImageId": "52659",
+            "Value": "023-000001802_52659_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

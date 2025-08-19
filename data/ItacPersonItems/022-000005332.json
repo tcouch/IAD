@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18320",
+        "RecordId": "022-000005332",
+        "Surname": "Sorbo",
+        "Forename": "Vito",
+        "AlternativeName": {
+            "AlternativeSurname": "Sorba",
+            "AlternativeForename": "Vitus"
+        },
+        "Nationality": {
+            "NationalityId": "211",
+            "Value": "of Trapani"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Felicella, Palermo, Vol.II, p. 299 (BL Shelfmark:610.m.10.).\nVito Sorba was the founder of the Lima Academy in Trapani.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "6008",
+        "RecordId": "022-000000739",
+        "Surname": "Gonzaga d`Avalos",
+        "Forename": "Isabella",
+        "Gender": "Female",
+        "PersonalTitle": "Marchioness of Pescara",
+        "DateText": "1537-1579",
+        "StartDate": "1537",
+        "EndDate": "1579",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "Daughter of Federico II Gonzaga, Duke of Mantua, and Margheret Paleologa.",
+        "Role": "Dedicatee",
+        "EngraverReference": "Bartsch 4003. 030",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

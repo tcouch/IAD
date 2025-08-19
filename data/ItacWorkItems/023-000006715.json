@@ -1,0 +1,76 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006715",
+        "WorkId": "000796",
+        "ShortTitle": "Epistola R. P. M.Pauli Antonii Foscarini, Carmelitani, Circa Pythagoricorum, & Copernici opinionem",
+        "LongTitle": "De Mobilitate Terrae, Et Stabilitate Solis: Et De Novo Systemate seu constitutione Mundi: In Qua Sacrae Scripturae Auctoritates, & theologicae Propositiones, communiter adversus hanc opinionem adductae conciliantur. Ad Reverendissimum P. M. Sebastianum Fantonum, Generalem ordinis Carmelitani. Ex Italica In Latinam Linguam perspicu\u00e8 & fideliter nunc conversa.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            },
+            {
+                "AcademyId": "0151",
+                "RecordID": "021-000006261",
+                "Value": "Accademia dei Lincei"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1615",
+        "DedicationPlaceDate": "6 January 1615",
+        "Shelfmark": "715.g.15.",
+        "Subjects": "Astrology|Cosmography",
+        "Language": "Latin",
+        "Pagination": "pp. 24",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19316",
+                "RecordID": "022-000006506",
+                "Value": "Foscarini,Paolo Antonio,Carmelite,1565 - ?"
+            }
+        },
+        "Notes": "Latin translation of Paolo Antonio Foscarini`s Lettera Del R.P.M. Paolo Antonio Foscarini Carmelitano. Sopra l`Opinione de` Pittagorici, e del Copernico, Naples, 1615.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15224",
+                    "RecordID": "022-000001266",
+                    "Value": "Longus,Ioannes,Canon|Archbishop of Naples,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur.\nP. Anton. Ghibert. Vic. Gen.\nIoanes Longus Can. & Cur. Archiep. Neap. Theol. vidit.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19318",
+                "RecordID": "022-000006508",
+                "Value": "Fantone,Sebastiano,Carmelite,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15137",
+                "RecordID": "022-000001179",
+                "Value": "Scoriggio,Lazzaro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55213",
+            "Value": "023-000006715_55213_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

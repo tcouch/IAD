@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15002",
+        "RecordId": "022-000001044",
+        "Surname": "Basile",
+        "Forename": "Giovan Battista",
+        "PersonalTitle": "Count of Torone",
+        "Anagram": "Gian Alessio Abbattutis",
+        "DateText": "1575-1632",
+        "StartDate": "1575",
+        "EndDate": "1632",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Portrait from Le Glorie Degli Incogniti, Venice, 1647",
+        "Role": "Author|Contributor|Editor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

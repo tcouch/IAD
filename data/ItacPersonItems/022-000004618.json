@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17722",
+        "RecordId": "022-000004618",
+        "Surname": "Certani",
+        "Forename": "Giacomo",
+        "Gender": "Male",
+        "PersonalTitle": "Abbot",
+        "DateText": "fl.1636-1695",
+        "StartDate": "fl.1636",
+        "EndDate": "1695",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

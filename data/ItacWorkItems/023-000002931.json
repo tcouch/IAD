@@ -1,0 +1,56 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002931",
+        "WorkId": "000382",
+        "ShortTitle": "Breve spositione ti tutta l`opera di Lucretio",
+        "LongTitle": "Nella quale si disamina la dottrina di Epicuro, 7 si mostra in che sia conforme col vero, & con gl`insegnamenti d`Aristotile; & in che differente. Con alcuni discorsi sopra l`invocatione di detta Opera. Fatta per Girolamo Frachetta nell`Academia degli Incitati di Roma. Con una tavola copiosissima di tutte le materie, che nella presente opera si trattano. All`Illustrissimo et Reverendissimo Signor Cardinale Scipione Gonzaga.",
+        "ItacAcademyItem": {
+            "AcademyId": "0062",
+            "RecordID": "021-000003800",
+            "Value": "Accademia degli Incitati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1589",
+        "DedicationPlaceDate": "Rovigo 1 January 1588",
+        "Shelfmark": "76f9|c76c20",
+        "Content": "Encomiastic poetry. Madrigals",
+        "Subjects": "Lucretius - Interpretations and criticism|Academic lessons",
+        "Language": "Italian",
+        "Pagination": "[32] 261",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16316",
+                "RecordID": "022-000002969",
+                "Value": "Frachetta,Girolamo,,1558-1619"
+            }
+        },
+        "Notes": "In the note `Ai lettori` Frachetta describes his involvement in the Accademia degli Incitati in Rome, which was created by Cardinal d`Este. It was the specific purpose of this Academy to discuss Italian as well as classical authors in Italian vernacular language.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5139",
+                "RecordID": "022-000000135",
+                "Value": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16324",
+                "RecordID": "022-000002977",
+                "Value": "Paganini,Pietro,,fl.1581-1598"
+            }
+        },
+        "PrinterOrnament": "U813",
+        "TitlePageImage": {
+            "ImageId": "55261",
+            "Value": "023-000002931_55261_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

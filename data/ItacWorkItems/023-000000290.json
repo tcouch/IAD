@@ -1,0 +1,70 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000290",
+        "WorkId": "00011",
+        "ShortTitle": "Il Diogene accusato. Comedia",
+        "LongTitle": "del Caliginoso Academico Gelato. Dedicata all`Illustrissimo Nicolo Cornaro",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1598",
+        "DedicationPlaceDate": "Bologna 25 October 1598",
+        "Shelfmark": "638.a.15 |1071.l.5.(2.)",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "pp. 132v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5032",
+                "RecordID": "022-000000034",
+                "Value": "Zoppio,Melchiorre,,1544-1634/7"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5032",
+                "RecordID": "022-000000034",
+                "Value": "Zoppio,Melchiorre,,1544-1634/7"
+            }
+        },
+        "Notes": "Printer`s ornament is three trees with birds on top.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5203",
+                "RecordID": "022-000000197",
+                "Value": "Cornaro,Nicol\u00f2,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5251",
+                "RecordID": "022-000000242",
+                "Value": "Bindoni,Gaspare,,1558-?"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5251",
+                "RecordID": "022-000000242",
+                "Value": "Bindoni,Gaspare,,1558-?"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "53096",
+            "Value": "023-000000290_53096_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

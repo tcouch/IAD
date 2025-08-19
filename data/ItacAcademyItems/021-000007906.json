@@ -1,0 +1,139 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0477",
+        "RecordId": "021-000007906",
+        "Name": "Argonauti-Casale Monferrato (Accademia degli)",
+        "AlternativeName": "Accademia de` Marinari|Academia Argonautarum",
+        "City": {
+            "CityId": "114",
+            "CityItalianName": "Casale Monferrato"
+        },
+        "StartDate": "ca. 1540",
+        "EndDate": "?",
+        "DateText": "ca. 1540-?",
+        "Notes": "Maylender identifies this academy with one erroneously located in Mantua in the 1557 edition of Antonio Francesco Doni`s Libraria (p. 277). Doni might have made an error based on the fact that it was in Mantua where the Argonauti of Casale Monferrato had their Dialogi Maritimi printed in 1547. There is one book associated with this academy that is not in the British Library collections: Gioan Iacopo Bottazzo, Argonavis in laude Argonautarum Academiae Casalensis Pterois equus Caroli quinti imperatori sive Hippographia, Franciscum Moschenium, Pavia, 1553.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9063",
+                "RecordId": "022-000001653",
+                "Name": "Pappazzone,Giovanni Battista,,16th C.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9060",
+                "RecordId": "022-000001650",
+                "Name": "Gallina,Niccolo,,16th C.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9059",
+                "RecordId": "022-000001649",
+                "Name": "Massa,Giovan Vincenzo,,16th C.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9058",
+                "RecordId": "022-000001648",
+                "Name": "Vercellese,Mattio,,16th C.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9057",
+                "RecordId": "022-000001647",
+                "Name": "Giustiniano,Girolamo,,ca. 1560-?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9242",
+                "RecordId": "022-000001538",
+                "Name": "Arrivabene,Giovan Francesco,,ca. 1515-?",
+                "Nickname": "Oronte",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9262",
+                "RecordId": "022-000001550",
+                "Name": "Pico,Cristoforo,,late 16th C.-17th C.",
+                "Nickname": "Amicla",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9013",
+                "RecordId": "022-000001581",
+                "Name": "Catalano,Pietro,,16th C.",
+                "Nickname": "Ergino",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9149",
+                "RecordId": "022-000001599",
+                "Name": "Del Pero,Giovan Jacopo,,16th C.",
+                "Nickname": "Telone",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9139",
+                "RecordId": "022-000001620",
+                "Name": "De` Malvezzi,Bessario,,16th C.",
+                "Nickname": "Palinuro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9035",
+                "RecordId": "022-000001625",
+                "Name": "Montiglio,Giovan Francesco,,16th C.",
+                "Nickname": "Canopo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9070",
+                "RecordId": "022-000001660",
+                "Name": "Bagno,Ferrante,,16th C.",
+                "Nickname": "Anceo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9128",
+                "RecordId": "022-000001735",
+                "Name": "Bottazzo,Gioan Iacopo,,Early 16th C.-?",
+                "Nickname": "Nausiteo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9113",
+                "RecordId": "022-000001720",
+                "Name": "Franco,Nicolo,,1515-1570",
+                "Nickname": "Cloanto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9193",
+                "RecordId": "022-000001772",
+                "Name": "Cane,Gioan,,16th C.",
+                "Nickname": "Peloro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

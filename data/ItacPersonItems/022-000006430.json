@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19249",
+        "RecordId": "022-000006430",
+        "Surname": "Persio",
+        "Forename": "Antonio",
+        "PersonalTitle": "Abbot",
+        "DateText": "1542 - 1611",
+        "StartDate": "1542",
+        "EndDate": "1611",
+        "Nationality": {
+            "NationalityId": "181",
+            "Value": "of Matera"
+        },
+        "Notes": "Jurist, he taught in Padua, Bologna, Perugia, Naples, joined the Lincei in 1611.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

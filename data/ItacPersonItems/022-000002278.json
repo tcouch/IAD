@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15737",
+        "RecordId": "022-000002278",
+        "Surname": "de` Medici",
+        "Forename": "Cosimo II",
+        "PersonalTitle": "Grand Duke of Tuscany",
+        "DateText": "1590-1621",
+        "StartDate": "1590",
+        "EndDate": "1621",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

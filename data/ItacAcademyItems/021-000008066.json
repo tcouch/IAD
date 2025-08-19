@@ -1,0 +1,158 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0534",
+        "RecordId": "021-000008066",
+        "Name": "Incolti-Roma (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Field of flowers, uncultivated and without order, on which falls the rain, and a ray of sun",
+        "Motto": "Inculti prosperabuntur",
+        "StartDate": "1658",
+        "EndDate": "early1800",
+        "DateText": "1658-early1800",
+        "Notes": "The Academy was based at Collegio Nazareno (Rome). On the history of the academy, and comments on academicians` emblems, see Angela Negro, Il ritratto segreto. Miti e simboli nella quadreria dell`Accademia degli Incolti al Collegio Nazareno. Una collezione sconosciuta del Seicento e Settecento romano (Rome, 2004).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17618",
+                "RecordId": "022-000004512",
+                "Name": "Anonymous-Member of the Incolti Academy,,,",
+                "Nickname": "Il Sincero",
+                "Motto": "Interiora patent",
+                "PersonEmblemDescription": "Pomegranate"
+            },
+            {
+                "PersonId": "20717",
+                "RecordId": "022-000008537",
+                "Name": "Lazzarini,Marcello,,",
+                "Nickname": "Il Diverso",
+                "Motto": "Ne crede colori",
+                "PersonEmblemDescription": "Fountain"
+            },
+            {
+                "PersonId": "20718",
+                "RecordId": "022-000008538",
+                "Name": "Gaulli,Giulio,,",
+                "Nickname": "L' Indipendente",
+                "Motto": "Inculta rubent",
+                "PersonEmblemDescription": "Strawberry plant"
+            },
+            {
+                "PersonId": "20719",
+                "RecordId": "022-000008539",
+                "Name": "Gaulli,Ludovico,,",
+                "Nickname": "Il Consolato",
+                "Motto": "In gaudia poena",
+                "PersonEmblemDescription": "Garland of passion flower"
+            },
+            {
+                "PersonId": "20721",
+                "RecordId": "022-000008541",
+                "Name": "Villanova de Villevielle,Giovan Battista,,",
+                "Nickname": "Il Tardo",
+                "Motto": "Sera tamen respexit",
+                "PersonEmblemDescription": "Jasmine"
+            },
+            {
+                "PersonId": "18914",
+                "RecordId": "022-000006012",
+                "Name": "Anonymous-Member of the Incolti,,,",
+                "Nickname": "L' Aggraziato",
+                "Motto": "Aspicit aequis",
+                "PersonEmblemDescription": "Stars-Flowers-Telescope"
+            },
+            {
+                "PersonId": "20722",
+                "RecordId": "022-000008542",
+                "Name": "Picaluga,Giovan Battista,,",
+                "Nickname": "Il Sicuro",
+                "Motto": "Undicue tuta",
+                "PersonEmblemDescription": "Grapevine"
+            },
+            {
+                "PersonId": "20723",
+                "RecordId": "022-000008543",
+                "Name": "Belloni,Antonio,,",
+                "Nickname": "L' Audace",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20724",
+                "RecordId": "022-000008544",
+                "Name": "Anon-Member of the Incolti Academy,,,",
+                "Nickname": "Il Provocato",
+                "Motto": "Et impune lacessunt",
+                "PersonEmblemDescription": "Silenus-Satyrs-Nymph"
+            },
+            {
+                "PersonId": "20725",
+                "RecordId": "022-000008545",
+                "Name": "Ruffetti,Diogene,,",
+                "Nickname": "Il Sommo",
+                "Motto": "Sit summus",
+                "PersonEmblemDescription": "Lyre"
+            },
+            {
+                "PersonId": "20726",
+                "RecordId": "022-000008546",
+                "Name": "Maggiori,Giovanni,,",
+                "Nickname": "Il Faticato?",
+                "Motto": "Nostrumque leves quaecumque laborem. Virgil Lib. I Aeneidis",
+                "PersonEmblemDescription": "Aeneas-Acathes-Venus"
+            },
+            {
+                "PersonId": "20711",
+                "RecordId": "022-000008531",
+                "Name": "Conti,Marcantonio,,",
+                "Nickname": "Il Nascosto",
+                "Motto": "Meliora latent",
+                "PersonEmblemDescription": "Shield-Pomegranade"
+            },
+            {
+                "PersonId": "20712",
+                "RecordId": "022-000008532",
+                "Name": "Muccioli,Adriano,,",
+                "Nickname": "Il Faticoso",
+                "Motto": "Incultus gratior",
+                "PersonEmblemDescription": "Shield-Tree-Storm"
+            },
+            {
+                "PersonId": "20713",
+                "RecordId": "022-000008533",
+                "Name": "De Sanctis,Gerolamo David,,",
+                "Nickname": "L' Encomiastico",
+                "Motto": "Semper honos",
+                "PersonEmblemDescription": "Palm"
+            },
+            {
+                "PersonId": "20714",
+                "RecordId": "022-000008534",
+                "Name": "Pervissani,Tiburzio,,",
+                "Nickname": "Il Sostenuto",
+                "Motto": "Ascendit innixa",
+                "PersonEmblemDescription": "Autumn fruits-Grapevine"
+            },
+            {
+                "PersonId": "20715",
+                "RecordId": "022-000008535",
+                "Name": "Stampiglia,Silvio,,",
+                "Nickname": "L' Animoso",
+                "Motto": "Tenues grandia",
+                "PersonEmblemDescription": "Ears of wheat"
+            },
+            {
+                "PersonId": "20720",
+                "RecordId": "022-000008540",
+                "Name": "Midelburgos,Giovanni Battista,,",
+                "Nickname": "Il Laborioso",
+                "Motto": "Virgin of the Apocalypse-Oroborus-Goblet-Tree",
+                "PersonEmblemDescription": "Desuda in aevum"
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

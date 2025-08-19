@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19266",
+        "RecordId": "022-000006449",
+        "Surname": "Baliani",
+        "Forename": "Gio. Battista",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Bagliani"
+        },
+        "DateText": "1582-1666",
+        "StartDate": "1582",
+        "EndDate": "1666",
+        "Nationality": {
+            "NationalityId": "179",
+            "Value": "of Genoa"
+        },
+        "Notes": "Mathematician and physicist. His membership in the Lincei was repeatedly proposed by Galileo.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

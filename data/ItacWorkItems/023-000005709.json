@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005709",
+        "WorkId": "000694",
+        "ShortTitle": "Le Muse Siciliane",
+        "LongTitle": "Overo scelta di tutte le Canzoni della Sicilia, Raccolte Da Pier Giuseppe Sanclemente, Et hora da Nicolo Mussuto in questa nova impressione accresciute, e riformate",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0114",
+                "RecordID": "021-000005234",
+                "Value": "Accademia degli Accesi (Palermo)"
+            },
+            {
+                "AcademyId": "0118",
+                "RecordID": "021-000005370",
+                "Value": "Accademia dei Riaccesi (Palermo)"
+            }
+        ],
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1662",
+        "DedicationPlaceDate": "Palermo 8 December 1662",
+        "Shelfmark": "1070.b.30.",
+        "Subjects": "Poetry",
+        "Language": "Italian|Latin|Sicilian literary language",
+        "Pagination": "3vols pp. 1245",
+        "Marginalia": "No",
+        "Notes": "This text contains references to various Sicilian academicians. This is the second edition according to the printer Giuseppe Bisagni, in his dedication. The first edition appeared in ca 1645.",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "18578",
+                "RecordID": "022-000005625",
+                "Value": "Gelosus,,Vicar General,"
+            }
+        },
+        "CensorsAgreement": "Imp. Ab. Gel. Vic. Gen.\nImp. Domin. F. P.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18651",
+                "RecordID": "022-000005712",
+                "Value": "Pilo Moles Cardona,Pietro,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18421",
+                    "RecordID": "022-000005442",
+                    "Value": "Galeano,Giuseppe,,1605 - 1675"
+                },
+                {
+                    "PersonId": "18650",
+                    "RecordID": "022-000005711",
+                    "Value": "Mussuto,Nicolo,,1609 - 1668"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18577",
+                "RecordID": "022-000005624",
+                "Value": "Bisagni,Giuseppe,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

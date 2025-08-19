@@ -1,0 +1,87 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006362",
+        "WorkId": "000760",
+        "ShortTitle": "Della fisonomia di tutto il corpo humano del s Gio Batta della Porta Acc Linceo Libri Quattro",
+        "LongTitle": "Ne` quali si tratta di quanto intorno a questa materia n`hanno i Greci, Latini, e gli Arabi scritto. Hora brevemente in tavole sinottiche ridotta et ordinata da Francesco Stelluti Acc. Linceo da Fabriano. All`em.mo et rev.mo Sig. Cardinale Francesco Barberino",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1637",
+        "DedicationPlaceDate": "Roma 4 maggio 1637",
+        "Shelfmark": "719i8",
+        "Subjects": "Physiognomy",
+        "Language": "Italian",
+        "Pagination": "[8] 155 [4]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16280",
+                "RecordID": "022-000002933",
+                "Value": "Della Porta,Giambattista,,1535?-1615"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18568",
+                    "RecordID": "022-000005608",
+                    "Value": "Torniellus,A. ,,"
+                },
+                {
+                    "PersonId": "18445",
+                    "RecordID": "022-000005468",
+                    "Value": "Riccardi,Nicola,Master of the Sacred Palace,1585-1639"
+                },
+                {
+                    "PersonId": "17747",
+                    "RecordID": "022-000004646",
+                    "Value": "Braccio,Ignazio,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur reverendissimo Patri magistro Sacri Apostolici Palatii. A. Torniellus Vicesg. --- Reverendiss. Patris Fr. Nicolai Riccardi Apost. Palatij Magistri iussu, perlegi synopticas tabulas, quibus Physiognomiam universam a Io. Baptista Porta editam, Franciscus Stellutus Academicus Lynceus, commodiore methodo, ac distributione, sub uno fere ponit aspectu: easque nihil habere, quod orthodoxae pugnet religioni: multa vero quae ad bonos mores conferunt, censeo. Ignatius Braccius S. Theol. Doct. et Protonot Apost. --- Imprimatur Fr. Nicolaus Riccardius Ord. Praedicatorum, sacri Palatii Apostolici Magister.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5099",
+                "RecordID": "022-000000096",
+                "Value": "Barberini,Francesco,Cardinal,1597 - 1679"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15230",
+                "RecordID": "022-000001273",
+                "Value": "Stelluti,Francesco,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "19199",
+                "RecordID": "022-000006363",
+                "Value": "Widman,Daniel,,fl1630-1652"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19166",
+                "RecordID": "022-000006315",
+                "Value": "Mascardi,Vitale,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55272",
+            "Value": "023-000006362_55272_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

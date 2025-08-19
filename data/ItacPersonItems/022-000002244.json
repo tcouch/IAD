@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15713",
+        "RecordId": "022-000002244",
+        "Surname": "dell`Anguillara",
+        "Forename": "Giovan Andrea",
+        "Gender": "Male",
+        "DateText": "1517-1572",
+        "StartDate": "1517",
+        "EndDate": "1572",
+        "Nationality": {
+            "NationalityId": "84",
+            "Value": "of Sutri"
+        },
+        "Notes": "See Zaccaria (1996)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

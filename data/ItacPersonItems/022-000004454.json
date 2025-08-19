@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17565",
+        "RecordId": "022-000004454",
+        "Surname": "Fava",
+        "Forename": "Niccolo` Maria Valeriano",
+        "Gender": "Male",
+        "PersonalTitle": "Count",
+        "Anagram": "Nicolo` Maria de` Valeriani",
+        "DateText": "1670-1736",
+        "StartDate": "1670",
+        "EndDate": "1736",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "For details, see Bergamini, `Dai Gelati alla Renia`.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

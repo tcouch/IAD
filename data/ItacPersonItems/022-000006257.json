@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19122",
+        "RecordId": "022-000006257",
+        "Surname": "Barozzi",
+        "Forename": "Jacopo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "il Vignola"
+        },
+        "DateText": "1507-1573",
+        "StartDate": "1507",
+        "EndDate": "1573",
+        "Nationality": {
+            "NationalityId": "113",
+            "Value": "of Vignola (Modena)"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

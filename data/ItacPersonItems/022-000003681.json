@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16907",
+        "RecordId": "022-000003681",
+        "Surname": "Priuli",
+        "Forename": "Lorenzo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Priolus",
+            "AlternativeForename": "Laurentius"
+        },
+        "PersonalTitle": "Doge",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

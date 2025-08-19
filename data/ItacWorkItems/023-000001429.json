@@ -1,0 +1,69 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001429",
+        "WorkId": "00157",
+        "ShortTitle": "Opuscoli di Vincenzo Gramigna",
+        "LongTitle": "Dedicati All`Illustriss. et Eccellentissimo Signor Marcantonio Borghese Principe di Sulmona.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1621",
+        "Shelfmark": "537.c.10.",
+        "Subjects": "Eulogy of the author|Dissertations|speeches",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 278",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15029",
+                "RecordID": "022-000001071",
+                "Value": "Gramigna,Vincenzo,,1580-1627"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15118",
+                "RecordID": "022-000001159",
+                "Value": "Di Capua,Vincenzo Luigi,,"
+            }
+        },
+        "CensorsAgreement": "Con Licenza de` Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18968",
+                "RecordID": "022-000006074",
+                "Value": "Borghese,Marcantonio,I Prince of Sulmona,1601 - 1658"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15195",
+                "RecordID": "022-000001237",
+                "Value": "Cecconcelli,Pietro,,"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Agli accademici otiosi nell`essere eletto principe dell`Accademia",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15118",
+                        "RecordID": "022-000001159",
+                        "Value": "Di Capua, Vincenzo Luigi, ,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

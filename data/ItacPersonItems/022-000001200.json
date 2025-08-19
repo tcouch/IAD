@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15158",
+        "RecordId": "022-000001200",
+        "Surname": "Bagolino",
+        "Forename": "Gerolamo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Hyeronimus"
+        },
+        "DateText": "late1400-?",
+        "StartDate": "late1400",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "265",
+            "Value": "of Verona"
+        },
+        "Notes": "After his degree in medicine at the University of Padua, he turned to the studying and teaching of philosophy. For more details, see his biography by Cesare Vasoli, in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

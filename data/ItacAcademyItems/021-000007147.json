@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0341",
+        "RecordId": "021-000007147",
+        "Name": "Accesi (Accademia degli; Compagnia della Calza)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "?",
+        "EndDate": "1565",
+        "DateText": "?-1565",
+        "Notes": "Count Da Monte composed the L`Antigono for the new theatre of the Accademia - performed on 28 February 1564.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19737",
+                "RecordId": "022-000007146",
+                "Name": "Foscari,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9243",
+                "RecordId": "022-000001539",
+                "Name": "della Rovere,Francesco Maria II,Duke of Urbino,1549-1631",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19738",
+                "RecordId": "022-000007148",
+                "Name": "Contarini,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

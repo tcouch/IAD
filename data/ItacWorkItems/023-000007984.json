@@ -1,0 +1,79 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007984",
+        "WorkId": "000910",
+        "ShortTitle": "Il Principe Vigilante",
+        "LongTitle": "Del Padre Maestro F. Diodato Solera Da Salerno Agostiniano Accademico Otioso. Opera spettante \u00e0 Principi, & \u00e0 Regitori de` Popoli.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1629",
+        "DedicationPlaceDate": "Naples 15 January 1629",
+        "Shelfmark": "521.f.15.",
+        "Subjects": "Political Treatise",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 298",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17648",
+                "RecordID": "022-000004542",
+                "Value": "Solera,Diodato,Augustinian,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16638",
+                    "RecordID": "022-000003358",
+                    "Value": "Terragnolus,Iacobus,Vicar General,"
+                },
+                {
+                    "PersonId": "16136",
+                    "RecordID": "022-000002748",
+                    "Value": "de Claro,Franciscus,Canon,"
+                },
+                {
+                    "PersonId": "20324",
+                    "RecordID": "022-000007985",
+                    "Value": "Antonino ,Francesco Andrea,,"
+                },
+                {
+                    "PersonId": "20325",
+                    "RecordID": "022-000007986",
+                    "Value": "Merlinus,Franciscus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Approbatio ex parte Reverendiss. Patris Generalis Ordinis. \nEgo Fr. Andreas Antoninus Romanus Ord. Herem. S. Aug. Sac. Theol. Doctor. & in Almo Neapolitano Augustinensium Gymnasio Theologiae Magister,& Regens. iussu Reverendissimi Patris megistri Hieronymi de Ghettis Romani totius Augustinianae familiae Pastoris vigilantissimi, diligenter involvi opus elucubratum ab Admodum R. P. Magistro Fratre Adeodato Solera Salernitano nostri instituti, viro eruditissimo, ac Concionatore celeberrimo; cuius titulus est. Il Principe vigilante, in quo tam nihil est offendere quod offendat, ut omnia potius, quae in eo luculenter proponuntur singulari concordia, mira eruditionis, & suavitatis stylo disponuntur. Quare onus san\u00e8 pulchrum, ac dignum esse existimo, ut in publica utilitatem Typis mandetur. Neapol. in nostro Augustiniano Caenobio die 25. Octob. 1628.\nEgo Mag. F. Andr. Antonin. Reg. qui sup.\nIllustrissime, & Excellentissime Domine.\nOpusculum hoc cuius titulus est Il Principe Vigilante Adm. Rev. P. Mag. Fr. Deodati Solera, quod tua ordinatione accurat\u00e8 vidi, necessarijssimum iudico Principibus quibuscumque, nec minus Aulicis eorum: quandoquidem plenum est, Christianis, & polytictsdogmatibus ideoq; dignissimum, ut quamprimum Typis mandetur existimo. \nNeap. 14. Novembris 1628.\nExcellentiss. Domin. tuae\nServus humiliss. D. Franc. Merlinus\nOpus Adm. R. P. M. Deodati Solere Ord. S. Augustini, cui (Il Principe Vigilante) inscripto est, nihil continet \u00e0 fide alienum, vel quod bonos mores corrumpat; im\u00f2 ob prae excellentem doctrinam, & reconditam omnis generis eruditionem non solum Principibus omnibus pro Regnorum suorum conservatione, eorumque incremento perutile esse, verum etiam necessarium iudico. Ideoque facultas concedi potest, quod typis mandetur.\nFranciscus de Claro Canon. Deput. \nIacob. Terragn. Vic. Gener.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17397",
+                "RecordID": "022-000004240",
+                "Value": "de Ribiera y Enr\u00edquez,Fernando Af\u00e1n ,viceroy of Naples|Duke of Alcal\u00e1,1583-1637"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15137",
+                "RecordID": "022-000001179",
+                "Value": "Scoriggio,Lazzaro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55247",
+            "Value": "023-000007984_55247_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

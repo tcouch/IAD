@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003626",
+        "WorkId": "000479",
+        "ShortTitle": "Le origini della volgar toscana favella",
+        "LongTitle": "Per Celso Cittadini. Lettor pubblico di essa nello studio di Siena. Censor perpetuo della medesima nell`Accademia dei Filomati",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1604",
+        "DedicationPlaceDate": "Siena 1 April 1604",
+        "Shelfmark": "627d19",
+        "Subjects": "History of language",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16863",
+                "RecordID": "022-000003625",
+                "Value": "Cittadini,Celso,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16860",
+                "RecordID": "022-000003621",
+                "Value": "Marchetti,Salvestro,,fl.1594 - 1603"
+            }
+        },
+        "Notes": "At the bottom of the title-page are the letters D.F.F and the date 1604.\nAnother edition was published in 1628, without mention of the Accademia dei Filomati (shelfmark 1607.326). In 1643, the same essay was included in: Degli autori del ben parlare per secolari, e religiosi opere diverse. Intorno 1. Alla favella nobile d\u2019Italia. 2. Al barbarismo, e solecismo, tropi, figure, & altre virtu\u0300 e vitii del parlare. 3. Agli stili, & eloquenza. 4. Alla retorica. 5. All\u2019 eloquenza ecclesiastica. Edited by Giuseppe degli Aromatari, pt. 1. tom. 6. Venetia, 1643.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16869",
+                "RecordID": "022-000003635",
+                "Value": "Sergardi,Fabio,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16864",
+                "RecordID": "022-000003627",
+                "Value": "D. F. F.,,,fl.1604"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16860",
+                "RecordID": "022-000003621",
+                "Value": "Marchetti,Salvestro,,fl.1594 - 1603"
+            }
+        },
+        "PrinterOrnament": "V241 |Z1081",
+        "TitlePageImage": {
+            "ImageId": "53888",
+            "Value": "023-000003626_53888_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53889",
+            "Value": "023-000003626_53889_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

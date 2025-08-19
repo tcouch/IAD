@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0351",
+        "RecordId": "021-000007188",
+        "Name": "Animosi-Bologna (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Tower, its top above the clouds, and trees around its base, with mathematical and optical instruments hanging beside the cartouche",
+        "Motto": "Sublimi feriam sydera vertice (Hor. Ode I)",
+        "StartDate": "1552?",
+        "EndDate": "1592?",
+        "DateText": "1552?-1592?",
+        "Notes": "According to Michele Medici and Giovanni Fantuzzi, the Bolognese Captain Teodosio Poeti left a sum of money for the creation of this Academy in his last will (1549). He died in 1551, aged 32.",
+        "ItacPersonItem": {
+            "PersonId": "19769",
+            "RecordId": "022-000007189",
+            "Name": "Poeti,Teodosio,,1520 - 1552",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

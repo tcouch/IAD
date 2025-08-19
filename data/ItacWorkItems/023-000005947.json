@@ -1,0 +1,259 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005947",
+        "WorkId": "000708",
+        "ShortTitle": "Noctes vaticanae",
+        "LongTitle": "Seu sermones habiti in Academia a S. Carlo Borromeo romae in Palatio Vaticano instituta. Praemittitur ospusculum Augustini Valerii inscriptum Convivium Noctium Vaticanarum. Omnia nunc primum e MSS. Codicibus Bibliothecae Ambrosianae eruta. Joseph Antonius Saxius. Praefatione et notis illustravit",
+        "ItacAcademyItem": {
+            "AcademyId": "0130",
+            "RecordID": "021-000005733",
+            "Value": "Accademia delle Notti Vaticane"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "38",
+            "PublicationPlaceItalianName": "Milano",
+            "PublicationPlaceEnglishName": "Milan",
+            "PublicationPlaceLatinName": "Mediolani"
+        },
+        "PublicationYear": "1748",
+        "DedicationPlaceDate": "Mediolani Ex Aedibus Bibliothecae Amrbosianae III Nonas Novembris Anni 1748",
+        "Shelfmark": "8356f13",
+        "Subjects": "Academic presentations",
+        "Language": "Italian|Latin",
+        "Pagination": "xxxviii 358 [20]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18876",
+                "RecordID": "022-000005962",
+                "Value": "Sassi,Giuseppe Antonio,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18681",
+                    "RecordID": "022-000005745",
+                    "Value": "Valiero,Agostino,Bishop of Verona|Cardinal,1531 - 1606"
+                },
+                {
+                    "PersonId": "18690",
+                    "RecordID": "022-000005754",
+                    "Value": "Pellegrino,,,"
+                },
+                {
+                    "PersonId": "18687",
+                    "RecordID": "022-000005751",
+                    "Value": "Umile,,,"
+                },
+                {
+                    "PersonId": "18671",
+                    "RecordID": "022-000005735",
+                    "Value": "Borromeo,Carlo (Santo),Cardinal,1538 - 1584"
+                },
+                {
+                    "PersonId": "18868",
+                    "RecordID": "022-000005953",
+                    "Value": "N.,N.,,"
+                },
+                {
+                    "PersonId": "18680",
+                    "RecordID": "022-000005744",
+                    "Value": "Antoniano,Silvio,Cardinal,1540 - 1603"
+                },
+                {
+                    "PersonId": "9230",
+                    "RecordID": "022-000001527",
+                    "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+                }
+            ]
+        },
+        "Notes": "Colophon image is actually the frontspiece.",
+        "CensorsAgreement": "Die XVIII Maj MDCCXLVIII Imprimatur Pro- Commissarius Sancti Officii Mediolani. Benedictus mazzolenus Can. Ord. Theologus Ecclesiae Metropol. pro Eminentissimo ac Reverendissimo D. D. Card. Archiepiscopo Puteobonello. Vidit Julius Caesar Bersanus pro Excellentissimo Sanatu",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18876",
+                "RecordID": "022-000005962",
+                "Value": "Sassi,Giuseppe Antonio,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18877",
+                    "RecordID": "022-000005964",
+                    "Value": "Mercori,Giacomo,,"
+                },
+                {
+                    "PersonId": "18878",
+                    "RecordID": "022-000005965",
+                    "Value": "Saxius,Joan. Bap.ta,,"
+                }
+            ]
+        },
+        "TitlePageImage": {
+            "ImageId": "54491",
+            "Value": "023-000005947_54491_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54492",
+            "Value": "023-000005947_54492_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Convivium Noctium Vaticanarum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18681",
+                            "RecordID": "022-000005745",
+                            "Value": "Valiero,Agostino,Bishop of Verona|Cardinal,1531 - 1606"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Orazione accademica recitata nelle Notti Vaticane dal Pellegrino sopra la prima Beatitudine: Beati pauperes spiritu: quniam ipsorum est Regnum Caelorum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18690",
+                            "RecordID": "022-000005754",
+                            "Value": "Pellegrino,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Orazione dell`Umile sopra la terza Beatitudine: Beati qui lugent: quoniam ipsi consolabuntur",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18687",
+                            "RecordID": "022-000005751",
+                            "Value": "Umile,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Orazione del Caos sopra la quarta Beatitudine: Beati qui esuriunt et sitiunt iustitiam: quoniam ipsi saturabuntur",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18671",
+                            "RecordID": "022-000005735",
+                            "Value": "Borromeo,Carlo (Santo),Cardinal,1538 - 1584"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Orazione di N. N. sopra la quinta Beatitudine: Beati misericordes: quoniam ipsi misericordiam consequentur",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18868",
+                            "RecordID": "022-000005953",
+                            "Value": "N.,N.,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Orazione del Fedele sopra la quinta Beatitudine: Beati mundo corde: quoniam ipsi Deum videbunt",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18691",
+                            "RecordID": "022-000005755",
+                            "Value": "Fedele,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Orazione di NN. N. sopra la settima Beatitudine: Beati pacifici: quniam filii Dei vocabuntur",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18869",
+                            "RecordID": "022-000005954",
+                            "Value": "NN.,N.,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Orazione del Caos contro la Lussuria",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18671",
+                            "RecordID": "022-000005735",
+                            "Value": "Borromeo,Carlo (Santo),Cardinal,1538 - 1584"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sermo habitus ab Academico dicto il Risoluto: De remittendis injuriis. In Evangel. Matth. Cap. XVIII v.23 Assimilatum est Regnum Coelorum homini Regi et c.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18680",
+                            "RecordID": "022-000005744",
+                            "Value": "Antoniano,Silvio,Cardinal,1540 - 1603"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione del Risoluto sopra l`astinenza dal mangiar carni",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18680",
+                            "RecordID": "022-000005744",
+                            "Value": "Antoniano,Silvio,Cardinal,1540 - 1603"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione del Risoluto contra il peccato dell`Accidia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18680",
+                            "RecordID": "022-000005744",
+                            "Value": "Antoniano,Silvio,Cardinal,1540 - 1603"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sermo habitus ab Academico nuncupato il Caos: De Caritate",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18671",
+                            "RecordID": "022-000005735",
+                            "Value": "Borromeo,Carlo (Santo),Cardinal,1538 - 1584"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ragionamento di Sperone Speroni; sopra le Sentenze: Ne quid nimis, e Nosce te ispum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9230",
+                            "RecordID": "022-000001527",
+                            "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ragionamento primo di Sperone Speroni: Dell`amor di se stesso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9230",
+                            "RecordID": "022-000001527",
+                            "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ragionamento secondo di Sperone Speroni: Dell`Amor di se stesso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9230",
+                            "RecordID": "022-000001527",
+                            "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

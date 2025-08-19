@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15808",
+        "RecordId": "022-000002359",
+        "Surname": "Tagliapietra",
+        "Forename": "Benedetto",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Talipetra",
+            "AlternativeForename": "Benedicto"
+        },
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Patron of the Academia Veneziana",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

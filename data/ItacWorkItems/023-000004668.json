@@ -1,0 +1,108 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004668",
+        "WorkId": "000587",
+        "ShortTitle": "Scipionis Capycii Patritii Neapolitani De Principiis Rerum Libri Duo.",
+        "LongTitle": "Eiusdem De Vivo Ioanne Baptista Vate Maximo. Libri Tres. Et Elegiae quaedam cum Epigrammatis.",
+        "ItacAcademyItem": {
+            "AcademyId": "0088",
+            "RecordID": "021-000004624",
+            "Value": "Accademia Partenia"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1594",
+        "DedicationPlaceDate": "Naples December 1594",
+        "Shelfmark": "1070.d.20.",
+        "Subjects": "Poetry",
+        "Language": "Latin|Greek",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 86",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17763",
+                "RecordID": "022-000004666",
+                "Value": "Capece ,Scipione,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17769",
+                    "RecordID": "022-000004673",
+                    "Value": "De Marra,Ferdinandus,,"
+                },
+                {
+                    "PersonId": "16556",
+                    "RecordID": "022-000003269",
+                    "Value": "Bembo,Pietro,Cardinal,1470 - 1547"
+                },
+                {
+                    "PersonId": "17510",
+                    "RecordID": "022-000004385",
+                    "Value": "Manuzio,Aldo,,"
+                },
+                {
+                    "PersonId": "17770",
+                    "RecordID": "022-000004674",
+                    "Value": "Guerreri,Francesco,,"
+                }
+            ]
+        },
+        "Notes": "In the dedication to Ottavio Capece, Girolamo Raimondi mentions Ignazio Braccio`s affiliation to the Partenia Academy in Naples.\nFor another edition of see Opere Poetiche di Scipione Capece, Venice, 1754 (BL Shelfmark: 11436.h.82.)",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17766",
+                    "RecordID": "022-000004670",
+                    "Value": "Biandr\u00e0,Ardicinus,Vicar General,"
+                },
+                {
+                    "PersonId": "17767",
+                    "RecordID": "022-000004671",
+                    "Value": "Veronensis,Cherubinus,Archbishop of Naples,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Ardicinus Biandr\u00e0 Vic. Gen. Neap.\nM. Cherubinus Voronen. Theol. Archiep. Neap. vidit.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17764",
+                    "RecordID": "022-000004667",
+                    "Value": "Capece,Ottaviano,Bishop of Nicotera,"
+                },
+                {
+                    "PersonId": "17768",
+                    "RecordID": "022-000004672",
+                    "Value": "Carbonius,Ioannes Antonius,Marquis,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17728",
+                "RecordID": "022-000004625",
+                "Value": "Raimondi,Girolamo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17765",
+                "RecordID": "022-000004669",
+                "Value": "Carlinum & Pacem,Iacobum & Antonium,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54732",
+            "Value": "023-000004668_54732_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

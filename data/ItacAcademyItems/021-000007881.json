@@ -1,0 +1,348 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0471",
+        "RecordId": "021-000007881",
+        "Name": "Veneziana (Academia)",
+        "AlternativeName": "Academia della Fama|Accademia Veneta",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Winged Fame, blowing a trumpet, with her left foot on the globe",
+        "EmblemImage": {
+            "ImageId": "55260",
+            "Value": "021-000007881_55260_1.jpg"
+        },
+        "Motto": "Io volo al ciel per riposarmi in Dio",
+        "StartDate": "1557",
+        "EndDate": "1561",
+        "DateText": "1557-1561",
+        "Notes": "Publications related to this Academy, but not in British Library collections, include: 1557 a` 13 di nouembre. Nella casa dell`infrascritto clarissimo m. Domenico Venier del confin di Santa Maria Formosa. .. [Venezia, 1557?];   Libri quos variis in scientiis et artibus conscriptos nuper edidit, & ad nundinas Francfordianas misit Academia Veneta ([Venezia]: in Academia Veneta, 1559);   Trattato de` costumi de` giouani, de` uecchi, e dell`et\u00e0 uirile; de` nobili, de` ricchi, de` potenti, e de` fortunati, di Aristotele; nuouamente tradotto (In Venetia: [Accademia Veneta?], 1561);   Orationes clarorum hominum, vel honoris officiique causa ad principes, vel in funere de virtutibus eorum habitae. Nuper in Academia Veneta prim\u00f9m in lucem editae, & nunc diligenti\u00f9s multo qu\u00e0m ant\u00e8 typis excusa. Adiectis novis aliquot disertissimis eiusdem argumenti orationibus, ... (Parisiis: apud Hieronymum de Marnef, & viduam Gulielmi Cauellat, sub Pelicano, monte Hilarij, 1577). For a critical bibliography on the Academy, see Lina Bolzoni, La stanza della memoria. Modelli letterari e iconografici nell`eta` della stampa (Turin: Einaudi, 1995).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9246",
+                "RecordId": "022-000001542",
+                "Name": "Badoer,Federico,,1519 - 1593",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9247",
+                "RecordId": "022-000001543",
+                "Name": "Venier,Domenico,,1517-1582",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20260",
+                "RecordId": "022-000007888",
+                "Name": "Cillenio,Raffaele,,?-1595",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16954",
+                "RecordId": "022-000003744",
+                "Name": "Faenzi,Valerio,,fl.1557-1598",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17187",
+                "RecordId": "022-000003994",
+                "Name": "Ghislieri,Michele,Cardinal Alessandrino|Pope Pius V,1504-1572",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16222",
+                "RecordId": "022-000002859",
+                "Name": "Sansovino,Francesco,,1521-1583",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5623",
+                "RecordId": "022-000000693",
+                "Name": "Navagero,Bernardo,,1507-?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5625",
+                "RecordId": "022-000000695",
+                "Name": "Tasso,Bernardo,,1493-1569",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5639",
+                "RecordId": "022-000000714",
+                "Name": "Patrizi,Francesco,,1529-1597",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18681",
+                "RecordId": "022-000005745",
+                "Name": "Valiero,Agostino,Bishop of Verona|Cardinal,1531 - 1606",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20000",
+                "RecordId": "022-000007470",
+                "Name": "Sebastiano,Fausto,,1502-1565?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16030",
+                "RecordId": "022-000002599",
+                "Name": "Sigonio,Carlo,,ca.1520 - 1584",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9245",
+                "RecordId": "022-000001541",
+                "Name": "Manutio,Paolo,,1512-1574",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7367",
+                "RecordId": "022-000000954",
+                "Name": "Riccius,Joannes,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15944",
+                "RecordId": "022-000002508",
+                "Name": "Magno,Celio,,1536-1602",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15977",
+                "RecordId": "022-000002541",
+                "Name": "Porcelaga,Vincenzo,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15993",
+                "RecordId": "022-000002562",
+                "Name": "Gradenigo,Thadio,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16013",
+                "RecordId": "022-000002582",
+                "Name": "Fenaroli,Girolamo,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16046",
+                "RecordId": "022-000002618",
+                "Name": "Silvio,Marc`Antonio,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17213",
+                "RecordId": "022-000004026",
+                "Name": "Girardi,Antonio,,16th c.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16067",
+                "RecordId": "022-000002649",
+                "Name": "Arseo,Alvise,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16080",
+                "RecordId": "022-000002665",
+                "Name": "Badoer,Giustiniano,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16085",
+                "RecordId": "022-000002671",
+                "Name": "Badoer,Giovanni,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16086",
+                "RecordId": "022-000002672",
+                "Name": "Badoer,Alvise,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16123",
+                "RecordId": "022-000002732",
+                "Name": "Dolfin,Hierolamo,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16154",
+                "RecordId": "022-000002769",
+                "Name": "Gradenigo,Marin,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16170",
+                "RecordId": "022-000002791",
+                "Name": "Manolesso,Pietro,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16171",
+                "RecordId": "022-000002792",
+                "Name": "Bello Buono,Decio,,fl.1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18042",
+                "RecordId": "022-000004982",
+                "Name": "Contile,Luca,,1505-1574",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16178",
+                "RecordId": "022-000002800",
+                "Name": "Venier,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16179",
+                "RecordId": "022-000002801",
+                "Name": "Marlupini,Marlupino,Abbot,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16228",
+                "RecordId": "022-000002868",
+                "Name": "Barbaro,Daniele,,1514-1570",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20350",
+                "RecordId": "022-000008014",
+                "Name": "Molin,Girolamo,,1500-1560",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16454",
+                "RecordId": "022-000003131",
+                "Name": "Zarlino,Gioseffo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20795",
+                "RecordId": "022-000008632",
+                "Name": "Cattani,Rocco,,1515?-?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20796",
+                "RecordId": "022-000008633",
+                "Name": "Coccio,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20828",
+                "RecordId": "022-000008688",
+                "Name": "Pellerio,Luciano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20827",
+                "RecordId": "022-000008687",
+                "Name": "Marlupini,Urbano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20842",
+                "RecordId": "022-000008707",
+                "Name": "Loredan,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20856",
+                "RecordId": "022-000008723",
+                "Name": "Sanuto,Livio,,1520-1576",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

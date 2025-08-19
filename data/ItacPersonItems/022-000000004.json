@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5002",
+        "RecordId": "022-000000004",
+        "Surname": "Facchinetti",
+        "Forename": "Giovanni Antonio Jr",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Facheneti"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1575-1606",
+        "StartDate": "1575",
+        "EndDate": "1606",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

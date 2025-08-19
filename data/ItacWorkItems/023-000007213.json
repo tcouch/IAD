@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007213",
+        "WorkId": "000817",
+        "ShortTitle": "Globi differenti",
+        "LongTitle": "del P. Coronelli consacrati a Sua Eccellenza il signor Conte di Lamberg Ambasciatore Cesareo et c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0143",
+            "RecordID": "021-000006183",
+            "Value": "Accademia degli Argonauti"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1693 [1701]",
+        "DedicationPlaceDate": "Venice",
+        "Shelfmark": "MapsC6d9",
+        "Subjects": "Maps|Globes|Engravings",
+        "Language": "Italian|Latin|Greek|Arabic|French",
+        "Pagination": "139 plates",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19029",
+                "RecordID": "022-000006145",
+                "Value": "Coronelli,Vincenzo,,1650-1718"
+            }
+        },
+        "Notes": "From the British Library catalogue: `A revised edition of Coronelli\u2019s Libro dei Globi (1691-97), prepared in 1701 for publication as vol. X of his Atlante Veneto.` Here are shown the title page and subsequent page.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16145",
+                "RecordID": "022-000002757",
+                "Value": "Ottoboni,Pietro Vito,Cardinal|Pope Alexander VIII,1610-1691"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "19785",
+                "RecordID": "022-000007215",
+                "Value": "Lamberti,Ludovico,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "19786",
+                "RecordID": "022-000007216",
+                "Value": "Dalla Via,Alessandro,,fl.1690-1720"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16237",
+                "RecordID": "022-000002881",
+                "Value": "Accademia degli Argonauti,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55046",
+            "Value": "023-000007213_55046_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55048",
+            "Value": "023-000007213_55048_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Globo celeste Del Padre Coronelli, consagrato alla gloriosa memoria del Sommo Pontefice Alessandro VIII. Presentatto all'Eminentissimo e Reverendissimo Principe, Degnissimo suo nipote Pietro Ottoboni Veneto. Del titolo di San Lorenzo in Damaso della S. R. C. Diacono Cardinale V. Cancelliere et c.. Dell'Accademia degli Argonauti et d'ogni altro letterato Mecenate Generoso",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19029",
+                        "RecordID": "022-000006145",
+                        "Value": "Coronelli,Vincenzo,,1650 - 1718"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

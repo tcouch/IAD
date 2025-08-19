@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004209",
+        "WorkId": "000540",
+        "ShortTitle": "Della Vita Di Scipione Ammirato",
+        "LongTitle": "Patrizio Leccese Libri Tr\u00e8, Scritta Da Domenico De Angelis Accademico Spensierato Detto tr\u00e0 gli Arcadi Arato Alalcomenio. All`Illustriss, e Reverendiss. Signore Monsignor Fabrizio Pignatelli Vescovo di Lecce.",
+        "ItacAcademyItem": {
+            "AcademyId": "0073",
+            "RecordID": "021-000004204",
+            "Value": "Accademia Ievoliana"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "74",
+            "PublicationPlaceItalianName": "Lecce",
+            "PublicationPlaceEnglishName": "Lecce",
+            "PublicationPlaceLatinName": "Licea"
+        },
+        "PublicationYear": "1706",
+        "DedicationPlaceDate": "Lecce 2 December 1701",
+        "Shelfmark": "276.a.7.",
+        "Subjects": "Biography",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 280",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17369",
+                "RecordID": "022-000004208",
+                "Value": "De Angelis,Domenico,,"
+            }
+        },
+        "Notes": "On p. 66, the author mentions Scipione Ammirato`s affiliation to the Ievoliana Academy in Naples. \non pp. 56-7, the author mentions Scipione Ammirato`s affiliation to the Trasformati Academy in Lecce.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17370",
+                "RecordID": "022-000004210",
+                "Value": "Pignatelli ,Fabrizio,Bishop of Lecce,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17371",
+                "RecordID": "022-000004211",
+                "Value": "Stamperia Vescovile ,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

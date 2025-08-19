@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9115",
+        "RecordId": "022-000001722",
+        "Surname": "Obrecht",
+        "Forename": "Ulrich D.",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Obrechtus",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Ulricus"
+            }
+        ],
+        "DateText": "1646-1701",
+        "StartDate": "1646",
+        "EndDate": "1701",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Obrecht joined the Ricovrati in 1678. He was professor of law at Strasburg. The dates are taken from ELGAR, Electronic Gateway to Archives at Rylands.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

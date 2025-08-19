@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0420",
+        "RecordId": "021-000007764",
+        "Name": "Geografico-Storico-Fisica (Accademia)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1680",
+        "EndDate": "1714",
+        "DateText": "1680-1714",
+        "ItacPersonItem": {
+            "PersonId": "20215",
+            "RecordId": "022-000007763",
+            "Name": "Brandarci,Antonio,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008387",
+        "WorkId": "000946",
+        "ShortTitle": "Organo Antifone Letanie, e Te Deum a Otto Voci con Organo e senza",
+        "LongTitle": "di Mauritio Cazzati. Maestro di Cappella dell`insigne Collegiata di San Petronio di Bologna. Et Accademico Eccitato",
+        "ItacAcademyItem": {
+            "AcademyId": "0570",
+            "RecordID": "021-000008374",
+            "Value": "Eccitati (Accademia degli)"
+        },
+        "Format": "14\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1686",
+        "Shelfmark": "E9",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "27",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20584",
+                "RecordID": "022-000008338",
+                "Value": "Cazzati,Maurizio,,1616-1678"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20584",
+                "RecordID": "022-000008338",
+                "Value": "Cazzati,Maurizio,,1616-1678"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5231",
+                    "RecordID": "022-000000223",
+                    "Value": "Musotto,Ioseph.,,"
+                },
+                {
+                    "PersonId": "18693",
+                    "RecordID": "022-000005757",
+                    "Value": "Molus,Angelus Gulielmus,Vicar General of the Holy Office in Bologna,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Michaelis de Collibus Cler. Reg. S. Pauli, Poenit. pro Illustrissimo et Reverendissimo D. D. Iosepho Musotto Vic. Capitul. Reimprimatur. Fr. Gulielmus Molus Vic. Gener. S. Officii Bononiae",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15395",
+                "RecordID": "022-000001896",
+                "Value": "Micheletti,Gioseffo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55298",
+            "Value": "023-000008387_55298_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Salve regina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20584",
+                            "RecordID": "022-000008338",
+                            "Value": "Cazzati,Maurizio,,1616-1678"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alma redemptoris",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20584",
+                            "RecordID": "022-000008338",
+                            "Value": "Cazzati,Maurizio,,1616-1678"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ave Regina Caelorum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20584",
+                            "RecordID": "022-000008338",
+                            "Value": "Cazzati,Maurizio,,1616-1678"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Regina Caeli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20584",
+                            "RecordID": "022-000008338",
+                            "Value": "Cazzati,Maurizio,,1616-1678"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Litanie",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20584",
+                            "RecordID": "022-000008338",
+                            "Value": "Cazzati,Maurizio,,1616-1678"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Te Deum laudamus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20584",
+                            "RecordID": "022-000008338",
+                            "Value": "Cazzati,Maurizio,,1616-1678"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Pange lingua",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20584",
+                            "RecordID": "022-000008338",
+                            "Value": "Cazzati,Maurizio,,1616-1678"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

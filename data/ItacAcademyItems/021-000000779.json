@@ -1,0 +1,166 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0011",
+        "RecordId": "021-000000779",
+        "Name": "Selvaggi (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Pan-pipes hanging from a tree",
+        "Motto": "Un suono esprime",
+        "StartDate": "ca.1606",
+        "EndDate": "ca.1629",
+        "DateText": "ca.1606-ca.1629",
+        "Notes": "Manuscript collection of poems related to this Academy is in British Library, Add. MS 25596, ff. 18-63: Rime de gli Accademici Selvaggi di Bologna, Raccolte nel Principato del Signore Oldrado Garganelli detto ll Desioso. Publications related to this Academy, but not in British Library collections, include: Capponi, Giovanni, Tirinto favola pastorale di Gio. Capponi Porrettano l`Animoso Accademico Selvaggio. Al sig. Gio. Filippo Certani il Palustre dedicata, e rappresentata dall`Accademia de Selvaggi in Bologna l`anno 1607 (In Bologna: per Gio: Battista Bellagamba, 1607); \nCapponi, Giovanni, Egloghe boscherecce, e marittime di Gio. Capponi porrettano, l`Animoso Accademico Selvaggio di Bologna. ..(In Venetia: appresso Evangelista Deuchino, & Gio. Battista Pulciani, 1609); \nOrsilla favola boschereccia di Giovanni Capponi porrettano l`Animoso Accad. Seluaggio. Al molto illustre sig.r Lorenzo Buonsignori. (In Venezia: appresso il Violati Accademico Seluaggio, 1615) - according to Italian OPAC, This work was attributed by Giusto Fontanini to Pietro Lesena, see G. Melzi, Dizionario di opere anonime e pseudonime di scrittori italiani, 1848, v. 1 p. 173; \nCapponi, Giovanni, Oziose occupazioni di Gio. Capponi porrettano, l`animoso accademico selvaggio di Bologna. All`illustrissimo sig. Galeazzo Paleotti.. (In Parma: per Erasmo Viotti, 1606); \nCapponi, Giovanni, Cloanto a Clori. Idillio di Gio. Capponi. L`Amoroso Selvaggio (In Venetia: appresso Gio. Battista Ciotti, 1618); \nCapponi, Giovanni, Delle rime di Giovanni Capponi porrettano l`Animoso Accademico Selvaggio di Bologna. Parte prima e seconda....(In Venetia : appresso Euangelista Deuchino e Gio. Battista Pulciani, 1609)\nCapponi, Giovanni, `Discorso della vita humana fatto nella medesima Accademia de` Selvaggi di Bologna sotto li 27 Febbraio con l`occasione del sonetto di Torquato Tasso \"Nel gran teatro ove l`humana vita\", in Lettura di Parnaso e Discorsi Accademici di Giovanni Capponi. Parte prima. All`illustriss. sig. conte Alfonso Gonzaga (In Venetia: appresso Euangelista Deuch., 1620)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5018",
+                "RecordId": "022-000000020",
+                "Name": "Rabbia, Raffaele, ,",
+                "Nickname": "L`Agitato",
+                "Motto": "Dal mio trvaglio il suono",
+                "PersonEmblemDescription": "A tambourine"
+            },
+            {
+                "PersonId": "5100",
+                "RecordId": "022-000000097",
+                "Name": "Abelli, Cesare, ,",
+                "Nickname": "Il Solingo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5116",
+                "RecordId": "022-000000113",
+                "Name": "Capponi, Giovanni, , 1586-1629",
+                "Nickname": "Animoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5284",
+                "RecordId": "022-000000331",
+                "Name": "Lodi, Giacinto, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5611",
+                "RecordId": "022-000000677",
+                "Name": "Arloti, Marcantonio, ,",
+                "Nickname": "Lo Strepitoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7017",
+                "RecordId": "022-000000781",
+                "Name": "Certani, Giovanni Filippo, ,",
+                "Nickname": "Il Palustre",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7016",
+                "RecordId": "022-000000786",
+                "Name": "Vass\u00e9 Pietramellara,Lorenzo, ,",
+                "Nickname": "Il Difeso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7015",
+                "RecordId": "022-000000788",
+                "Name": "Garganelli, Oldrado, ,",
+                "Nickname": "Il Desioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7002",
+                "RecordId": "022-000000790",
+                "Name": "D[el] M. A. A. A[cademico]. S[elvaggio], , ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7013",
+                "RecordId": "022-000000808",
+                "Name": "Calvi , Iacopo Filippo, ,",
+                "Nickname": "Il Flebile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7014",
+                "RecordId": "022-000000810",
+                "Name": "Cavatia, Giulio Cesare, ,",
+                "Nickname": "L`Inutile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9999",
+                "RecordId": "022-000000827",
+                "Name": "Zecca, Ercole, ,",
+                "Nickname": "L`Inerme",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5381",
+                "RecordId": "022-000000390",
+                "Name": "Cecca A. S.,Hercole,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6019",
+                "RecordId": "022-000000751",
+                "Name": "Spada,Lionello,,1576-1622",
+                "Nickname": "L`Elevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5278",
+                "RecordId": "022-000000267",
+                "Name": "Valesio,Giovanni,,1561-1640",
+                "Nickname": "L`Invescato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16554",
+                "RecordId": "022-000003266",
+                "Name": "Diamantini,Catterino,,",
+                "Nickname": "Il Costante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16558",
+                "RecordId": "022-000003271",
+                "Name": "Costantini,Carl` Antonio,,",
+                "Nickname": "Lo Sprigionato Selvaggio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9695",
+                "RecordId": "022-000000547",
+                "Name": "Paleotti,Galeazzo,Senator,fl. 1558-1613",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

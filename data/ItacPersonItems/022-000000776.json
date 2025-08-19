@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "6051",
+        "RecordId": "022-000000776",
+        "Surname": "Bendandi",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Bendandus",
+            "AlternativeForename": "Hieronymus"
+        },
+        "DateText": "ca.1604-1659",
+        "StartDate": "ca.1604",
+        "EndDate": "1659",
+        "Nationality": {
+            "NationalityId": "98",
+            "Value": "of Ravenna"
+        },
+        "Role": "Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

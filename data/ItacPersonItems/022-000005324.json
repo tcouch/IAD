@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18314",
+        "RecordId": "022-000005324",
+        "Surname": "Caraccio",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "PersonalTitle": "Baron of Corano",
+        "DateText": "1630-1702",
+        "StartDate": "1630",
+        "EndDate": "1702",
+        "Nationality": {
+            "NationalityId": "367"
+        },
+        "Notes": "Portrait is from Caraccio, L`imperio vindicato (1690)",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

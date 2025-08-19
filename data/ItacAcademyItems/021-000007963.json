@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0484",
+        "RecordId": "021-000007963",
+        "Name": "Spensierati (Messina?) (Accademia degli)",
+        "City": {
+            "CityId": "82",
+            "CityItalianName": "Messina",
+            "CityEnglishName": "Messina",
+            "CityLatinName": "Messana"
+        },
+        "StartDate": "?",
+        "DateText": "?",
+        "Notes": "Academy of uncertain origin. \nNot listed in Maylender`s Storia delle Accademie d`Italia.",
+        "ItacPersonItem": {
+            "PersonId": "18873",
+            "RecordId": "022-000005959",
+            "Name": "Frassia,Girolamo,,?-1668?",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

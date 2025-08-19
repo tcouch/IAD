@@ -1,0 +1,90 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003033",
+        "WorkId": "000393",
+        "ShortTitle": "Le Maraviglie Poetiche",
+        "LongTitle": "E Le poesie Varie Del Signor Federigo Meninni",
+        "ItacAcademyItem": {
+            "AcademyId": "0046",
+            "RecordID": "021-000002785",
+            "Value": "Accademia de gli Agitati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1705",
+        "Shelfmark": "11429.aa.30.",
+        "Subjects": "Poetry|Encomiastic Poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraving|Author`s portrait",
+        "Pagination": "pp. 600",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16168",
+                "RecordID": "022-000002788",
+                "Value": "Meninni,Federigo,,1636 - 1712"
+            }
+        },
+        "Notes": "The author dedicates verses to various academicians.\nEngraving by Isabella Piccini in the frontispiece",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16406",
+                    "RecordID": "022-000003072",
+                    "Value": "Asperti ,Raimondo,Inquisitor of Padua,"
+                },
+                {
+                    "PersonId": "16407",
+                    "RecordID": "022-000003073",
+                    "Value": "Marcello,Ferigo,,"
+                },
+                {
+                    "PersonId": "16409",
+                    "RecordID": "022-000003075",
+                    "Value": "Gadaldini,Agostino,,"
+                },
+                {
+                    "PersonId": "16408",
+                    "RecordID": "022-000003074",
+                    "Value": "Zorzi,Marin,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Refformatori Dello Studio di Padoa.\nHavendo veduto per la Fede di revisione, & approbatione del P.F. Raimondo Asperti Inquisitore nel Libro intitolato: Le Maraviglie Poetiche di federigo Meninni, non v`esser cos`alcuna contro la Santa Fede Cattolica, & parimente per Attestato del Segretario Nostro; niente contro Prencipi, & buoni costumi, concedemo Licenza ad Andrea Poletti Stampatore, che possi esser stampato, osservando gl`ordini in materia di Stampe, & presentando le solite copie alle Publiche Librarie di Venetia, & di Padoa.\nDa. 24. Maggio 1704.\nferigo Marcello Proc. Ref. \nMarin Zorzi Ref.\nAgostino Gadaldini Segret.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16405",
+                "RecordID": "022-000003071",
+                "Value": "Canneti,Pietro,Abbot,1659 - 1730"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16183",
+                "RecordID": "022-000002805",
+                "Value": "Pisani,Baldassarre,,1650 - ?"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7400",
+                "RecordID": "022-000000990",
+                "Value": "Poletti,Andrea,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52913",
+            "Value": "023-000003033_52913_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54928",
+            "Value": "023-000003033_54928_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

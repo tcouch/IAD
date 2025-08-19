@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18876",
+        "RecordId": "022-000005963",
+        "Surname": "Odierna",
+        "Forename": "Giovanni Battista",
+        "AlternativeName": {
+            "AlternativeSurname": "Hodierna",
+            "AlternativeForename": "Joannes Baptista"
+        },
+        "DateText": "1597 - 1660",
+        "StartDate": "1597",
+        "EndDate": "1660",
+        "Nationality": {
+            "NationalityId": "213",
+            "Value": "of Ragusa"
+        },
+        "Notes": "Not mentioned by Maylender as a member of the Riaccesi Academy in Palermo. For a biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 330 - 331 (BL Shelfmark:610.m.10.)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

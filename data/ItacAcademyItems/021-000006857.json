@@ -1,0 +1,53 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0231",
+        "RecordId": "021-000006857",
+        "Name": "Illuminati (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Books, open, on one of which is written `Hic mentem`, shone on by the sun",
+        "Motto": "Hic orbem",
+        "StartDate": "1598?",
+        "EndDate": "?",
+        "DateText": "1598?-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19568",
+                "RecordId": "022-000006856",
+                "Name": "Ongaro,Antonio,,1569 - 1599",
+                "Nickname": "L`Affidato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19578",
+                "RecordId": "022-000006878",
+                "Name": "Insegna,Mariano,Cavalier,",
+                "Nickname": "L`Opaco",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19577",
+                "RecordId": "022-000006877",
+                "Name": "Palella,Tiberio,,",
+                "Nickname": "Il Cupo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19569",
+                "RecordId": "022-000006858",
+                "Name": "Pallavicino,Isabella,Marchioness,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

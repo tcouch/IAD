@@ -1,0 +1,177 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007198",
+        "WorkId": "000815",
+        "ShortTitle": "Agatha Catanensis",
+        "LongTitle": "Sive De Natali Patria D. Agathae Dissertatio Historica Apologetica. Auctore D. Io. Baptista De Grossis S.T. & V.I.D. Prothonotario Apostolico, Ac Regiae Et Insignis Ecclesiae Collegiatae B. M. de Elemosyna Canonico.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "105",
+            "PublicationPlaceItalianName": "Catania",
+            "PublicationPlaceEnglishName": "Catania",
+            "PublicationPlaceLatinName": "Catana"
+        },
+        "PublicationYear": "1656",
+        "Shelfmark": "490.i.10.",
+        "Content": "Life of Saint Agata",
+        "Subjects": "Hagiography",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Saint Agata",
+        "Pagination": "pp. 312",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19775",
+                "RecordID": "022-000007202",
+                "Value": "De Grossis,Giovanni Battista,Protonotary apostolic,1605 - 1666"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19780",
+                    "RecordID": "022-000007208",
+                    "Value": "Nari,Antonino,Jesuit,"
+                },
+                {
+                    "PersonId": "15326",
+                    "RecordID": "022-000001365",
+                    "Value": "Ventriglia,Flavio,,"
+                },
+                {
+                    "PersonId": "19003",
+                    "RecordID": "022-000006114",
+                    "Value": "Varvesi,Giovanni Francesco,,"
+                },
+                {
+                    "PersonId": "19789",
+                    "RecordID": "022-000007219",
+                    "Value": "da Messina,Giovanni Francesco,,"
+                },
+                {
+                    "PersonId": "19790",
+                    "RecordID": "022-000007220",
+                    "Value": "Perrello,Mariano,Friar,"
+                },
+                {
+                    "PersonId": "17379",
+                    "RecordID": "022-000004219",
+                    "Value": "Munebria,Giuseppe,,?-1683"
+                }
+            ]
+        },
+        "Notes": "This text was published under the auspices of the Senate of Catania",
+        "CensorsAgreement": "Superiorum permissu",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19791",
+                "RecordID": "022-000007221",
+                "Value": "Petronio,Vincenzo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55212",
+            "Value": "023-000007198_55212_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "R. P. Antonini Nari Soc. Iesu Presbyteri. Anagramma purum.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19780",
+                            "RecordID": "022-000007208",
+                            "Value": "Nari,Antonino,Jesuit,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Flavii Ventrilii V. I. D. Parthenopaei. Ad Auctorem Domunus ioannes Baptista Grossus Canonicus Catanensis. Anagramma purum.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15326",
+                            "RecordID": "022-000001365",
+                            "Value": "Ventriglia,Flavio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Io. Baptistae De Grossis Siculo Catanensi S. T. et V.I.D. Prothonotario Apostolico. P. F. Ioannes Franciscus Varvesi messanensis Ord. Fr. Min. S. Francisci Capuccinorum Sacerdos, & S. T. Professor, Olim Academiae Fucinensis Nobilissimae Urbis Messanae Alumnus.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19003",
+                            "RecordID": "022-000006114",
+                            "Value": "Varvesi,Giovanni Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Immortalit\u00e0 della Felice Penna del Sig. D. Giovanni Battista Grossi Sonetto Per la sua S. Agata Catanese Del P. F. Gio. Francesco da Messina Predicator Capuccino, e gia Accademico della Fucina. Della Nobil Citt\u00e0 di Messina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19003",
+                            "RecordID": "022-000006114",
+                            "Value": "Varvesi,Giovanni Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Madrigale.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19003",
+                            "RecordID": "022-000006114",
+                            "Value": "Varvesi,Giovanni Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Sig. Dottor D. Gio. Battista Grossi Sonetto.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19790",
+                            "RecordID": "022-000007220",
+                            "Value": "Perrello,Mariano,Friar,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Sig. Dottor D. Gio. Battista De Grossi Per l'Opera intitolata Agatha Catanensis. Sonetto. Di Don Giuseppe Munebria",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17379",
+                            "RecordID": "022-000004219",
+                            "Value": "Munebria,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto Del Signor Don Francesco Morabito. S'allude ugual vanto nell'armi, e nelle lettere, tra L'Autore, e Guglielmo Grossi suo antenato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19431",
+                            "RecordID": "022-000006647",
+                            "Value": "Morabito,Francesco,,? - 1690"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Dottor Canonico il Signor Don. Gio. Battista Grossi.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19431",
+                            "RecordID": "022-000006647",
+                            "Value": "Morabito,Francesco,,? - 1690"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

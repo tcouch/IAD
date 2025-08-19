@@ -1,0 +1,85 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002717",
+        "WorkId": "000345",
+        "ShortTitle": "Descrittione Dei Luoghi Antiqui Di Napoli E Del Suo Amenissimo distretto.",
+        "LongTitle": "Per Benedetto Di Falco Napolitano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1580",
+        "Shelfmark": "754.a.38.",
+        "Subjects": "History of Naples",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Woodcut|Anchor and dolphin",
+        "Pagination": "unnumbered pages",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16071",
+                "RecordID": "022-000002653",
+                "Value": "di Falco ,Benedetto,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16081",
+                "RecordID": "022-000002666",
+                "Value": "Morera,Scipione,,"
+            }
+        },
+        "Notes": "This text contains MS notes in Italian. On the last three pages the author mentions the Sireni Academy, the Ardenti Academy and the Incogniti Academy of Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16115",
+                    "RecordID": "022-000002719",
+                    "Value": "Guidobonus,,General Vicar,"
+                },
+                {
+                    "PersonId": "16116",
+                    "RecordID": "022-000002720",
+                    "Value": "Regius,Paulus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, P. Fra. Guidobonus Vic. Gen. Neap. Paulus Regius vidit idem f. 22.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16071",
+                "RecordID": "022-000002653",
+                "Value": "di Falco ,Benedetto,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16114",
+                "RecordID": "022-000002718",
+                "Value": "Cancer ,Mattia, Heredi di,,"
+            }
+        },
+        "PrinterOrnament": "EDIT16 V123 - Z51",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "A Messer Benedetto de Falco. Napolitano. Astemio degli Incogniti. Da Napoli.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16081",
+                        "RecordID": "022-000002666",
+                        "Value": "Morera,Scipione,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

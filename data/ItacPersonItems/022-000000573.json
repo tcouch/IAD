@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9721",
+        "RecordId": "022-000000573",
+        "Surname": "Malvezzi",
+        "Forename": "Matteo",
+        "DateText": "fl. 1660 - 1690",
+        "StartDate": "fl. 1660",
+        "EndDate": "1690",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Dates referring to the year when President of the Academy",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

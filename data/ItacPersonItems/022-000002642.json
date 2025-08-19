@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16062",
+        "RecordId": "022-000002642",
+        "Surname": "Terracina",
+        "Forename": "Laura",
+        "Gender": "Female",
+        "DateText": "1519-1577",
+        "StartDate": "1519",
+        "EndDate": "1577",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Portrait of Laura Terracina, Rime, 1548; Quarte Rime, 1550. For other portraits see Laura Terracina, Discorso, 1559; Rime, 1549.",
+        "Role": "Author|Dedicatee|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

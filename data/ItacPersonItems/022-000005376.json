@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18359",
+        "RecordId": "022-000005376",
+        "Surname": "Aversa",
+        "Forename": "Tommaso",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Avversa",
+            "AlternativeForename": "Tommaso"
+        },
+        "DateText": "1623-1663",
+        "StartDate": "1623",
+        "EndDate": "1663",
+        "Nationality": {
+            "NationalityId": "250",
+            "Value": "of Mistretta (Messina)"
+        },
+        "Notes": "For a biographical account see Antonino Mongitore, Bibliotheca Sicula, Felicella, Palermo, Vol.II, p. 254 (British Library Shelfmark:610.m.10.)",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

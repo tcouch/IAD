@@ -1,0 +1,24 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0501",
+        "RecordId": "021-000008033",
+        "Name": "Ardenti (Accademia degli)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "ca.1575?",
+        "DateText": "ca.1575?",
+        "ItacPersonItem": {
+            "PersonId": "20355",
+            "RecordId": "022-000008077",
+            "Name": "Baroccio,Alfonso,,ca.1531-1609",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

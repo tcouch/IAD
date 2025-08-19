@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18383",
+        "RecordId": "022-000005402",
+        "Surname": "Bouche",
+        "Forename": "Honore`",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bouche Provincialis",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Honorati"
+            }
+        ],
+        "DateText": "1598-1671",
+        "StartDate": "1598",
+        "EndDate": "1671",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Historian, the guest of Cardinal Barberini, he joined the Umoristi in 1634.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

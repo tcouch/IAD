@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006420",
+        "WorkId": "000774",
+        "ShortTitle": "Poesie Liriche Di Baldassarre Pisani",
+        "LongTitle": "Consacrate All`Altezza Serenissima Di Cosmo Medici Gran Duca di Toscana",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            },
+            {
+                "AcademyId": "0046",
+                "RecordID": "021-000002785",
+                "Value": "Accademia de gli Agitati"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1676",
+        "Shelfmark": "11429.df.1.",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Illustration": "Plate|Y",
+        "Pagination": "pp. 434",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16183",
+                "RecordID": "022-000002805",
+                "Value": "Pisani,Baldassarre,,1650 - ?"
+            }
+        },
+        "Notes": "This text contains verses dedicated to various Neapolitan and non Neapolitan academicians",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15737",
+                "RecordID": "022-000002278",
+                "Value": "de` Medici,Cosimo II,Grand Duke of Tuscany,1590-1621"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16175",
+                "RecordID": "022-000002796",
+                "Value": "Piccini,Isabella,Nun,1646 - 1732"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5308",
+                "RecordID": "022-000000359",
+                "Value": "Pezzana,Nicol\u00f2,,c. 1620-c. 1750"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54639",
+            "Value": "023-000006420_54639_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18900",
+        "RecordId": "022-000005993",
+        "Surname": "Leone",
+        "Forename": "Pietro",
+        "DateText": "1665 - 1746",
+        "StartDate": "1665",
+        "EndDate": "1746",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Still active in Rome in 1719",
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

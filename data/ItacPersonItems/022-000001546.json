@@ -1,0 +1,16 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9251",
+        "RecordId": "022-000001546",
+        "Surname": "Matteo il maestro",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Full name: Matteo il Maestro nella contrada di San Giacomo ai Quattro Elementi.\nBertolo proposes that the book was printed by English typographers who used Wolfe`s material, after his death. See Bertolo, `John Wolfe`, in Rinascimento Italiano davanti alla Riforma (Vecchiarelli, 2004).",
+        "Role": "Printer",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

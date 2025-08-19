@@ -1,0 +1,24 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0460",
+        "RecordId": "021-000007858",
+        "Name": "Vivi (Accademia dei)",
+        "City": {
+            "CityId": "112",
+            "CityItalianName": "Candia"
+        },
+        "StartDate": "1561",
+        "EndDate": "?",
+        "DateText": "1561-?",
+        "Notes": "On Academies in Candia/Crete, see Literature and society in Renaissance Crete, ed. David Holton (Cambridge: CUP, 1991).",
+        "ItacPersonItem": {
+            "PersonId": "19592",
+            "RecordId": "022-000006932",
+            "Name": "Barozzi,Francesco,,1537 - 1604",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18776",
+        "RecordId": "022-000005844",
+        "Surname": "Cassioni",
+        "Forename": "Giovanfrancesco",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Cassionus",
+                "AlternativeForename": "Io Fran"
+            },
+            {
+                "AlternativeForename": "Giovanni Francesco"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Active in Bologna in 1678ca.",
+        "Role": "Illustrator",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

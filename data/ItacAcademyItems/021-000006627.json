@@ -1,0 +1,60 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0168",
+        "RecordId": "021-000006627",
+        "Name": "Basiliana (Accademia)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1635",
+        "EndDate": "?",
+        "DateText": "1635-?",
+        "Notes": "This Academy was created by Cardinal Francesco Barberini. See Carella (1993). Ingo Herklotz, Die Academia Basiliana : griechische Philologie, Kirchengeschichte und Unionsbemu\u00a8hungen im Rom der Barberini (2008). Publications related to this Academy, but non in British Library collections, include: Orationes Iosephi Carpani Romani I.V.D. protonotarij apostolici, in Romana universitate iuris civilis in prima ordinaria sede vespertina professoris emeriti, Intrecciatorum Academiae institutoris. Addita Fastis Academiae Basilianae (Romae, Ignatii de Lazaris, 1682); and attributed to Andrea Torelli, is Christiana Hierarchia Apum Moribus... in Academia Basiliana (Bononiae 1641)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5099",
+                "RecordId": "022-000000096",
+                "Name": "Barberini,Francesco,Cardinal,1597 - 1679",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18907",
+                "RecordId": "022-000006002",
+                "Name": "Carpani,Giuseppe,,1613?-1691",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15217",
+                "RecordId": "022-000001259",
+                "Name": "Allacci,Leone,,1586-1669",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18441",
+                "RecordId": "022-000005464",
+                "Name": "Holstein,Lucas,,1596 - 1661",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5185",
+                "RecordId": "022-000000180",
+                "Name": "Torelli,Andrea,,fl. 1627 - 1647",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

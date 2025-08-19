@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0271",
+        "RecordId": "021-000006924",
+        "Name": "Ottenebrati (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Rainbow below the sun",
+        "Motto": "Mille trahit",
+        "StartDate": "1680",
+        "EndDate": "?",
+        "DateText": "1680-?",
+        "Notes": "The Ottenebrati was an Academy of art. See Fanti, Notizie e insegne (1983)",
+        "ItacPersonItem": {
+            "PersonId": "15400",
+            "RecordId": "022-000001902",
+            "Name": "Ghisilieri,Francesco,,fl. 1686",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

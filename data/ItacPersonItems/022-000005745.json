@@ -1,0 +1,31 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18681",
+        "RecordId": "022-000005745",
+        "Surname": "Valier",
+        "Forename": "Agostino",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Valeri"
+            },
+            {
+                "AlternativeSurname": "Valieri"
+            },
+            {
+                "AlternativeSurname": "Valiero",
+                "AlternativeForename": null
+            }
+        ],
+        "PersonalTitle": "Bishop of Verona|Cardinal",
+        "DateText": "1531-1606",
+        "StartDate": "1531",
+        "EndDate": "1606",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

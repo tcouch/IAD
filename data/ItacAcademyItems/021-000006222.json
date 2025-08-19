@@ -1,0 +1,95 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0148",
+        "RecordId": "021-000006222",
+        "Name": "Oziosi-Bologna (Accademia degli)",
+        "AlternativeName": "Academia Ociosorum",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Iron bushel measure turned upside down",
+        "Motto": "Minus cum magis",
+        "StartDate": "1563",
+        "EndDate": "1567?",
+        "DateText": "1563-1567?",
+        "Notes": "Publications related to this Academy, but not in British Library collections, are: Theoremata universalia. De ordine, et divisione scientiae comtemplatione: theoremata naturalia, theologalia etc. examinata in Ociosorum Academia Bononiensi anno 1567. die 26. februarii. - (Bononiae: Peregrinus Bonardus, & Io. Antonius Faba socij excudebant, 1567) --- In Camilli Vizanii comitis et equitis Bononiensis atque academici Ociosi funere, Antonii Mariae Venusti,... laudatio (Bononiae: apud J Rossium) --- Constantii Varolii Bononiensis Conclusiones, quaesitis divinis, naturalibus, moralibus, et dialecticis respondentes, ad disputandum propositae in nobiliss. Otiosorum Academia. Apud praestantiss. & inter omnes huius aetatis philosophum summum, Antonium Franciscum Fabium ... Ad illustrem, ... Anselmum Dandinium. - (Bononiae: ex officina Ioannis Rubrij) --- De rerum principiis institutio, publicis disputationib. florentissimae Ociosorum Academiae examinanda a Zacharia Andriano ... (Bononiae: Peregrinus Bonardus, & Io. Antonius Faba socii excudebant, 1567)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19093",
+                "RecordId": "022-000006218",
+                "Name": "Vizzani,Camillo,,1542 - 1566",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19095",
+                "RecordId": "022-000006220",
+                "Name": "Vizzani,Pompeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19096",
+                "RecordId": "022-000006221",
+                "Name": "Varoli,Costanzo,,1543 - 1575",
+                "Nickname": "Adombrato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19097",
+                "RecordId": "022-000006223",
+                "Name": "Andriano,Zaccaria,,fl.1563 - 1576",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19098",
+                "RecordId": "022-000006224",
+                "Name": "Tagliacozzi,Gasparo,,1545 - 1599",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5139",
+                "RecordId": "022-000000135",
+                "Name": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19131",
+                "RecordId": "022-000006268",
+                "Name": "Stelliola,Niccol\u00f2 Antonio,,1546/7 - 1623",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20918",
+                "RecordId": "022-000008788",
+                "Name": "Venusti,Antonio Maria,,fl. 1560s",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9701",
+                "RecordId": "022-000000553",
+                "Name": "Vizzani,Giasone,,fl. 1558-1613",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

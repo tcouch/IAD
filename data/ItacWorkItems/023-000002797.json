@@ -1,0 +1,161 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002797",
+        "WorkId": "000355",
+        "ShortTitle": "Il Ritratto del Sonetto E Della Canzone, Discorsi Di Federigo Meninni.",
+        "LongTitle": "Ne` quali, oltra le regole di ben comporre il Sonetto, e la Canzone, si d\u00e0 notizia di varj Poeti Toscani, e giudicio dell`Opere loro; si risolvono molte quistioni Retoriche, Poetiche, e Filosofiche, con altre cose appartenenti all`Arguzia, all` Imitazione, all`Emulazione, alla Traduzione, al Furto, & all`Ammenda de proprj Componimenti.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0046",
+                "RecordID": "021-000002785",
+                "Value": "Accademia de gli Agitati"
+            },
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            }
+        ],
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1678",
+        "Shelfmark": "11429.df.8.",
+        "Subjects": "Dissertations",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 444",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16168",
+                "RecordID": "022-000002788",
+                "Value": "Meninni,Federigo,,1636 - 1712"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16176",
+                    "RecordID": "022-000002798",
+                    "Value": "Manfredus ,Camillus,,"
+                },
+                {
+                    "PersonId": "16177",
+                    "RecordID": "022-000002799",
+                    "Value": "Borgia,Girolamo,,"
+                },
+                {
+                    "PersonId": "15269",
+                    "RecordID": "022-000001310",
+                    "Value": "Domenichi,Giuseppe,,"
+                },
+                {
+                    "PersonId": "5126",
+                    "RecordID": "022-000000122",
+                    "Value": "Crasso,Lorenzo,,1623 - ?"
+                }
+            ]
+        },
+        "Notes": "On p. 124 the author mentions Giovan Battista Manso and the Oziosi Academy in Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16180",
+                    "RecordID": "022-000002802",
+                    "Value": "Pesaro,Lonardo,,"
+                },
+                {
+                    "PersonId": "16181",
+                    "RecordID": "022-000002803",
+                    "Value": "Mocenigo ,Pietro,,"
+                },
+                {
+                    "PersonId": "15376",
+                    "RecordID": "022-000001869",
+                    "Value": "Franceschi,Lodovico,,"
+                },
+                {
+                    "PersonId": "16182",
+                    "RecordID": "022-000002804",
+                    "Value": "Caimo ,Christoforo,,"
+                },
+                {
+                    "PersonId": "15133",
+                    "RecordID": "022-000001175",
+                    "Value": "Nani ,Battista,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi reformatori dello Studio di Padova. Havendo veduto per fede del P. Inquisitore nel libro intitolato, Il Ritratto del Sonetto, e della Canzone stampato in Napoli; non esser cosa alcuna contra la Santa Fede Cattolica, \u00e8 buoni costumu; come parimenti per attestato del Segretario nostro niente contro Prencipi; concediamo licenza \u00e0 Gio: Bertano di poterlo stampare, osservando gl`ordini, &c. \nDat. dal Mag. li 19. Luglio 1678.\nBattista nani Cav. Pr. Ref. Lonardo Pesaro Cav. Ref.  Pietro Mocenigo Cav. Ref. \nLodovico Franceschi Segr. 1678. I. Agosto. Registrato nel Magistrato alla Bestema. Christoforo Caimo Nod.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5213",
+                "RecordID": "022-000000205",
+                "Value": "Orsini (de Gravina),Vincenzo Maria,Cardinal|Pope Benedict XI (1724-1730),1649-1730"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16183",
+                "RecordID": "022-000002805",
+                "Value": "Pisani,Baldassarre,,1650 - ?"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16184",
+                "RecordID": "022-000002806",
+                "Value": "Bertano,Giovanni,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Friderico Meninno; Camillus Manfredus Phoebeam Animam, Opera Phoebea Ingenius Gratatur Encomijs",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16176",
+                            "RecordID": "022-000002798",
+                            "Value": "Manfredus ,Camillus,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor D. Girolamo Borgia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16177",
+                            "RecordID": "022-000002799",
+                            "Value": "Borgia,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Lorenzo Crasso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5126",
+                            "RecordID": "022-000000122",
+                            "Value": "Crasso,Lorenzo,,1623"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor D. Gioseffo Domenichi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16178",
+                            "RecordID": "022-000002800",
+                            "Value": "Domenichi,Gioseffo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

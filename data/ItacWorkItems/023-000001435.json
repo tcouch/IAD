@@ -1,0 +1,150 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001435",
+        "WorkId": "00203",
+        "ShortTitle": "Antistitum Pr\u00e6clarissim\u00e6 Neapolitan\u00e6 Ecclesi\u00e6 Catalogus",
+        "LongTitle": "Ab Apostolorum temporibus ad hanc usque nostram \u00e6tatem et ad annum M D C X L III. Auctore Bartholomeo Chioccarello I. C. Neapolitano | et in supremis eiusdem Regni foris causar patrono.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1643",
+        "DedicationPlaceDate": "Naples 13 October 1643",
+        "Shelfmark": "C.69.h.2.",
+        "Content": "Epigrams | Verses | Ecclesiastical History",
+        "Subjects": "Prose|Poetry",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Engraved plates | Religious figures | Armorial bearings | Floral ornaments | Portrait of 15200 |",
+        "Pagination": "first 18 pages unnumbered | pp. 372 | unnumbered last 8 pages",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16047",
+                "RecordID": "022-000002619",
+                "Value": "Cioccarello,Bartolomeo,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15240",
+                "RecordID": "022-000001283",
+                "Value": "Porrini,Petri Agnelli,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15005",
+                    "RecordID": "022-000001047",
+                    "Value": "De Petris,Franciscum,,"
+                },
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                },
+                {
+                    "PersonId": "15235",
+                    "RecordID": "022-000001278",
+                    "Value": "Zufia,,,"
+                },
+                {
+                    "PersonId": "15238",
+                    "RecordID": "022-000001281",
+                    "Value": "Capicius Latro,,,"
+                },
+                {
+                    "PersonId": "15241",
+                    "RecordID": "022-000001284",
+                    "Value": "Brancia,,,"
+                },
+                {
+                    "PersonId": "15242",
+                    "RecordID": "022-000001285",
+                    "Value": "Azcon,,,"
+                },
+                {
+                    "PersonId": "15243",
+                    "RecordID": "022-000001286",
+                    "Value": "Sanfelicius.,,,"
+                },
+                {
+                    "PersonId": "15244",
+                    "RecordID": "022-000001287",
+                    "Value": "De Giorno,,,"
+                },
+                {
+                    "PersonId": "15245",
+                    "RecordID": "022-000001288",
+                    "Value": "Arias De Mesa,Ferdinandus,,"
+                },
+                {
+                    "PersonId": "15262",
+                    "RecordID": "022-000001304",
+                    "Value": "De Rubeis,Franciscus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur ; Gregorius Peccerillus Vic. Gen. ; F. Ioseph de Rubeis Ord. Min. Conu. S. T. D. ;  Eminentiss. & Reverendiss. Card. Filomarin. Theologus; Registr. Fol. 1; Illustrissimo & Eccellentissimo Signore. Bartolomeo Chioccarello f\u00e0 intendere \u00e0 V. E. come ha scritto l`historia delli Vescovi & Arcivescovi di Napoli intitolata Neapolitana Ecclesia Antistitum Catalogus la quale desidera stampare. Per t\u00e0to supplica V. E. resti servita darli licenza & il suo regio beneplacito che possa farla stampare & l`haver\u00e0 \u00e0 gratia ut Deus & c. ; Magnificus V. I. D. Franciscus de Petris videat & in scriptis referat Suae Excellentiae. Brnacia Regens ; Provisum per Suam Excellentiam Neapoli die 3. Septembris 1642. ; De Giorno ; Illustrissime & Excellentissime Princeps. Perlegi Te iubente prefatum opus Neapolitane Ecclesie Antistitum testorq; nihil in eo contineri quod Regali iurisdictioni aut bonis moribus adversetur quinimo elaboratum plan\u00e8 opus pium ereditum dignissimum duco quod typis tradatur. Neapoli nonis Septemb. 1642. Excellenti\u00e6 Tue Obsequentissimus Franciscus de Petris. Potest imprimi servata correctione nostra si ita videbitur vestre Excellentie & Regio Collaterali Concilio. Ita censeo. D. Ferdinandus Arias de mesa Regius Consiliaris delegatus per Suam Excellentiam pro revisione librorum. ; Imprimatur ; Tap. Reg. Branc. ; Reg. Zuf. ; Reg. Azc\u00f5 ; Reg. S\u00e3felic.  ; Reg. Capic. Latro Proreg.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15005",
+                    "RecordID": "022-000001047",
+                    "Value": "De Petris,Franciscum,,"
+                },
+                {
+                    "PersonId": "15200",
+                    "RecordID": "022-000001169",
+                    "Value": "Filomarino,Ascanius,Cardinal | Archbishop ,1583-1666"
+                },
+                {
+                    "PersonId": "15260",
+                    "RecordID": "022-000001268",
+                    "Value": "Chioccarello,Bartholomeo,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15239",
+                "RecordID": "022-000001282",
+                "Value": "Savij,Francisci,,"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Ad Opus De Episcopis Et Archiepiscopis Neap. A` Sanctissimo Aspren Primo Episcopo Ad Eminentissimum Cardinalem Ascanium Philamarinum pr\u00e6sentem Archiepiscopum.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15005",
+                            "RecordID": "022-000001047",
+                            "Value": "De Petris , Franciscum , ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Auctorem Quod librum de Episcopis & Archiepiscopis Neapolitanis auspicato terminavit",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15226",
+                            "RecordID": "022-000001269",
+                            "Value": "Masculus , Ioannes , Gesuit,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

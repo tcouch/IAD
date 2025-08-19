@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20435",
+        "RecordId": "022-000008159",
+        "Surname": "Serra",
+        "Forename": "Giacomo",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1570-1623",
+        "StartDate": "1570",
+        "EndDate": "1623",
+        "Nationality": {
+            "NationalityId": "100",
+            "Value": "Genoese"
+        },
+        "Notes": "Papal legate in Ferrara 1615-1618",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16578",
+        "RecordId": "022-000003296",
+        "Surname": "Scotti",
+        "Forename": "Giovanni Pompilio",
+        "AlternativeName": {
+            "AlternativeSurname": "Scotto",
+            "AlternativeForename": null
+        },
+        "DateText": "1620 - 1698",
+        "StartDate": "1620",
+        "EndDate": "1698",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1649. In the academy he discussed the following problems: `Quale nelle miserie sia il piu` felice ricovero`, and `Qual sia la strada piu` breve per arrivar alla gloria`.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

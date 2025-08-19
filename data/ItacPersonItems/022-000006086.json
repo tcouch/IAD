@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18977",
+        "RecordId": "022-000006086",
+        "Surname": "de Noyelle",
+        "Forename": "Carlo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Carolus"
+        },
+        "DateText": "1615-1686",
+        "StartDate": "1615",
+        "EndDate": "1686",
+        "Nationality": {
+            "NationalityId": "167",
+            "Value": "Flemish"
+        },
+        "Role": "Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

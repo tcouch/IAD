@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18092",
+        "RecordId": "022-000005045",
+        "Surname": "Philandrier",
+        "Forename": "Guillaume",
+        "DateText": "1505 - 1565",
+        "StartDate": "1505",
+        "EndDate": "1565",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Lemerle, Les `Annotations` (2000)",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

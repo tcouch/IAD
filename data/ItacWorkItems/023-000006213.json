@@ -1,0 +1,198 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006213",
+        "WorkId": "000730",
+        "ShortTitle": "De le rime di diuersi nobili poeti toscani, raccolte da M. Dionigi Atanagi, libro primo (-secondo)",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0107",
+                "RecordID": "021-000005041",
+                "Value": "Accademia della Virt\u00f9"
+            },
+            {
+                "AcademyId": "0147",
+                "RecordID": "021-000006203",
+                "Value": "Accademia degli Sdegnati"
+            },
+            {
+                "AcademyId": "0130",
+                "RecordID": "021-000005733",
+                "Value": "Accademia delle Notti Vaticane"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1565",
+        "Shelfmark": "241e18",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18122",
+                    "RecordID": "022-000005080",
+                    "Value": "Atanagi,Dionigi,,ca.1510 - 1573"
+                },
+                {
+                    "PersonId": "7551",
+                    "RecordID": "022-000001455",
+                    "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+                },
+                {
+                    "PersonId": "19090",
+                    "RecordID": "022-000006215",
+                    "Value": "di Valvasone,Erasmo,,1523 - 1593"
+                },
+                {
+                    "PersonId": "15713",
+                    "RecordID": "022-000002244",
+                    "Value": "dell`Anguillara,Giovan Andrea,,1517 - 1572"
+                },
+                {
+                    "PersonId": "19092",
+                    "RecordID": "022-000006217",
+                    "Value": "Dardano,Tommaso,,"
+                },
+                {
+                    "PersonId": "9230",
+                    "RecordID": "022-000001527",
+                    "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+                }
+            ]
+        },
+        "Notes": "In square brackets are Atanagi`s comments in the Index of the same book.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19088",
+                    "RecordID": "022-000006212",
+                    "Value": "Bonarelli,Pietro,Count of Orciano,fl.1565-1574"
+                },
+                {
+                    "PersonId": "19089",
+                    "RecordID": "022-000006214",
+                    "Value": "Z\u00e1polya,Giovanni Sigismondo ,,1540 - 1571"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18122",
+                "RecordID": "022-000005080",
+                "Value": "Atanagi,Dionigi,,ca.1510 - 1573"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19087",
+                "RecordID": "022-000006211",
+                "Value": "Avanzo,Lodovico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54609",
+            "Value": "023-000006213_54609_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "O bella Dea che da celesti giri [ Per l`Accademia della Virtu` piena de` piu` rari spiriti d`Europa, de la quale egli fu il fondatore]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7551",
+                            "RecordID": "022-000001455",
+                            "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "O di leggiadro Sdegno anime accese [... in Roma... fiorirono molte Accademie... tra le quali non inferiore ad alcuna fu l`Accademia dello Sdegno, de la quale fu autore, et fondatore l`unico signor Girolamo ruscelli insieme co` nobilissimi spiriti Tomasso Spica et M. Gio. Battista Palatino. Essendo adunque gli Accademici Sdegnati ridotti insieme per eleggersi un Protettore; L`Atanagio, il quale era membro di quel corpo ... gli conforto` col presente sonetto, si` come poi fecero, elettione di Monsignor Alessandro Cardinal Farnese...]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18122",
+                            "RecordID": "022-000005080",
+                            "Value": "Atanagi,Dionigi,,ca.1510 - 1573"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "O degli humani ingegni aquila altera [A F. M. Molza... uno de` primi de l`Accademia de la Virtu` la quale s`intende per `lo Virtuoso stuolo`]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18122",
+                            "RecordID": "022-000005080",
+                            "Value": "Atanagi,Dionigi,,ca.1510 - 1573"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Spirti nobili che felicemente [Versi endecasillabi de la poesia nuova, a gli Academici de la Virtu`]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7551",
+                            "RecordID": "022-000001455",
+                            "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "O come virtute ben posasi in alta colonna [Versi de la poesia nuova ne\u2019 quali l\u2019autore loda Monsignor Francesco Arcivescovo Colonna ne la cui casa si soleva in quell tempo raunare la celebratissima Academia de la Virtu\u2019\u2026]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7551",
+                            "RecordID": "022-000001455",
+                            "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Signor ch`ornaste gia` l`avite rive [Al Conte Bartolomeo di Portia, giovane studiosissimo et di belle lettere partito da Brugnara et andato a Roma a servigi di Sua Santita`, et uno de` principali de l`Academia Vaticana fondata dall`Illustrissimo Sig. Carlo Borromeo]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19090",
+                            "RecordID": "022-000006215",
+                            "Value": "di Valvasone,Erasmo,,1523 - 1593"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Leggiadri spirti, ch`ove Amor v`invita [A gli Academici Sdegnati, de` quali l`autore era uno tra primi, et piu` lodati nella poesia Toscana, in morte de la Mancina]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19092",
+                            "RecordID": "022-000006217",
+                            "Value": "Dardano,Tommaso,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Schiera gentil ch`a l`alto Vaticano [A l`Academia Vaticana]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9230",
+                            "RecordID": "022-000001527",
+                            "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Scorgo per tutto ovunque intorno i guardo [In morte della Mancina, fatto nell`Academia dello Sdegno del cui corpo l`autore era honoratissimo membro]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15713",
+                            "RecordID": "022-000002244",
+                            "Value": "dell`Anguillara,Giovan Andrea,,1517 - 1572"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

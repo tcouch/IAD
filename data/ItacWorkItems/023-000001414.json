@@ -1,0 +1,101 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001414",
+        "WorkId": "00141",
+        "ShortTitle": "Le Avventurose Disaventure favola maritima di Gio. Battista Basile il pigro;",
+        "LongTitle": "Academico Stravagante di Creta. Con licenza de` Superiori & Privilegio.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1612",
+        "DedicationPlaceDate": "Naples 8 July 1610",
+        "Shelfmark": "1071.l.9. (4.)",
+        "Subjects": "Pastoral tale",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 132",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15002",
+                "RecordID": "022-000001044",
+                "Value": "Basile,Giovan Battista,Count of Torone,1575-1632"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15018",
+                    "RecordID": "022-000001060",
+                    "Value": "Comite,Oratio,,"
+                },
+                {
+                    "PersonId": "17743",
+                    "RecordID": "022-000004642",
+                    "Value": "Cortese,Giulio Cesare,,1570 - 1640"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15360",
+                    "RecordID": "022-000001399",
+                    "Value": "Cominus,Barth[olomeus],,"
+                },
+                {
+                    "PersonId": "15361",
+                    "RecordID": "022-000001400",
+                    "Value": "Breatto,Io[annes] Bapt[ista],,"
+                },
+                {
+                    "PersonId": "17780",
+                    "RecordID": "022-000004685",
+                    "Value": "Moresini ,Iseppo,,"
+                },
+                {
+                    "PersonId": "17781",
+                    "RecordID": "022-000004686",
+                    "Value": "Pasqualigo,Filippo,,"
+                },
+                {
+                    "PersonId": "17782",
+                    "RecordID": "022-000004687",
+                    "Value": "Belegno,Giust`Antonio,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Gli Eccellentissi. Signori Capi del Eccelso Conseglio di X. infrascritti, hauta fede dalli Signori Reformatori del Studio di Padoa per relatione a lor fatta dalli due \u00e0 questo deputati, cio\u00e8 del Reverendo Padre Inquisitor & dal circospetto Secretario del Senato Gio. Maraveglia con giuramento che nel libro intitolato le Avventurose disaventure di Gio. Battista Basile stampato in Napoli non si trova cosa contra le leggi, & degno di stampa; concedono licenza, che possa esser stampato in questa Citt\u00e0.\nDat. die X. Decembris 1611.\nD. Iseppo Moresini\nD. Filippo Pasqualigo\nD. Giust`Ant. Belegno. Capi del Eccelso Cons. di X.\nIllustriss. Consilij Decem. Secr.\nBartholomeus Cominus.\n1611. a di 12. Decembre\nRegistrato in libro a carte 94.\nIo. Baptista Breatto Officij contra Blasph. Not.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15017",
+                    "RecordID": "022-000001059",
+                    "Value": "Carafa,Luigi,Prince of Stigliano,1567 - 1630"
+                },
+                {
+                    "PersonId": "15018",
+                    "RecordID": "022-000001060",
+                    "Value": "Comite,Oratio,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15180",
+                "RecordID": "022-000001222",
+                "Value": "Combi,Sebastiano,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

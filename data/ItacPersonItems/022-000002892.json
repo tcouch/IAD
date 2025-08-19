@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16245",
+        "RecordId": "022-000002892",
+        "Surname": "Cornelio",
+        "Forename": "Tommaso",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Cornelius",
+            "AlternativeForename": "Thomas"
+        },
+        "DateText": "1614-1684",
+        "StartDate": "1614",
+        "EndDate": "1684",
+        "Nationality": {
+            "NationalityId": "88",
+            "Value": "of Cosenza"
+        },
+        "Notes": "Portrait by Teresa del Po from Cornelio Tommaso, Progymnasmata Physica, Naples, 1688",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

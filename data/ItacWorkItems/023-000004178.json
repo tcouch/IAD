@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004178",
+        "WorkId": "000534",
+        "ShortTitle": "I diseguali amori comedia pastorale",
+        "LongTitle": "del Dilettevole della Congrega de` Rozzi. Recitata alla presenza dell`Altezze Serenissime di Toscana l`anno 1613. Il di` 4 di Novembre. al Molt`illustre Sig. Alfonso Bandini, nobil Sanese",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1614[sic]",
+        "DedicationPlaceDate": "From Home 15 January 1615",
+        "Shelfmark": "1071.l.4.(1.)",
+        "Subjects": "Pastoral comedy",
+        "Language": "Italian",
+        "Pagination": "170",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16802",
+                "RecordID": "022-000003545",
+                "Value": "Flori,Benvenuto,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17349",
+                "RecordID": "022-000004179",
+                "Value": "Bandini,Alfonso,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16866",
+                "RecordID": "022-000003630",
+                "Value": "Florimi,Heredi di Matteo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54193",
+            "Value": "023-000004178_54193_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

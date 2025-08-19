@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19128",
+        "RecordId": "022-000006265",
+        "Surname": "Welser",
+        "Forename": "Marc",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Velserus",
+                "AlternativeForename": "Marcus"
+            },
+            {
+                "AlternativeSurname": "Velseri",
+                "AlternativeForename": "Marco"
+            }
+        ],
+        "DateText": "1558-1614",
+        "StartDate": "1558",
+        "EndDate": "1614",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Studied in Padua, Paris, and Rome. Historian and archeologist, joined the Lincei in 1612.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

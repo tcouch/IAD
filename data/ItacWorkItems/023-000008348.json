@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008348",
+        "WorkId": "000937",
+        "ShortTitle": "Londra dedicata all`illustrissimo S. Nicolao Cornaro",
+        "LongTitle": "figliuolo dell`eccellentissimo Sig[no]r Proc[urato]re Francesco.",
+        "ItacAcademyItem": {
+            "AcademyId": "0143",
+            "RecordID": "021-000006183",
+            "Value": "Argonauti (Venezia) (Accademia degli)"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1689",
+        "Shelfmark": "Maps CC.5.a.45",
+        "Subjects": "Maps",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "20593",
+                "RecordID": "022-000008349",
+                "Value": "Padovani,Domenico,,"
+            }
+        },
+        "Notes": "This item is part of the following publication, which is not in British Library collections: Citta, fortezze, isole e porti principali dell`Europa in pianta, et in elevatione, descritte e publicate ad uso dell`Accademia Cosmografica degli Argonauti dal Padre Maestro Coronelli ... Venetia 1689. The copy in the library of Modena has this detail: `[Venezia] : si vende da Dom. Padovani Sopra il Ponte di Rialto alla Geografia, 1689`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5203",
+                "RecordID": "022-000000197",
+                "Value": "Cornaro,Nicol\u00f2,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16237",
+                "RecordID": "022-000002881",
+                "Value": "Accademia degli Argonauti,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001564",
+        "WorkId": "00106",
+        "ShortTitle": "Orationi del sig(nor) Sperone Speroni",
+        "LongTitle": "Dottor e cavalier padovano. Nuovamente poste in luce.",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1596",
+        "DedicationPlaceDate": "Padua 16 December 1596",
+        "Shelfmark": "72.k.3|713.d.34.(2.)",
+        "Subjects": "Encomiastic discourse",
+        "Language": "Italian",
+        "Pagination": "216",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9230",
+                "RecordID": "022-000001527",
+                "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+            }
+        },
+        "Notes": "The colophon reads: `In Venetia 1596 per Giovani Alberti ad Instantia di Paulo Meieti.` Another edition (1740) press mark 89.g.5.",
+        "CensorsAgreement": "Con licentia de` superiori et privilegi",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9243",
+                "RecordID": "022-000001539",
+                "Value": "della Rovere,Francesco Maria II,Duke of Urbino,1549-1631"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9155",
+                "RecordID": "022-000001593",
+                "Value": "De` Conti,Ingolfo,,1565-1615"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9241",
+                "RecordID": "022-000001537",
+                "Value": "Meietti,Roberto,,"
+            }
+        },
+        "PrinterOrnament": "U67|V257|Z1067",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Agli Accademici Infiammati di Padova quando fu suo Principe",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9230",
+                        "RecordID": "022-000001527",
+                        "Value": "Speroni, Sperone, , 1500-1588"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

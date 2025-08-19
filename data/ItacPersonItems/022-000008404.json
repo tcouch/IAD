@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20615",
+        "RecordId": "022-000008404",
+        "Surname": "Cotta",
+        "Forename": "Giacomo",
+        "AlternativeName": {
+            "AlternativeForename": "Jacopo"
+        },
+        "DateText": "1627-1689",
+        "StartDate": "1627",
+        "EndDate": "1689",
+        "Nationality": {
+            "NationalityId": "399",
+            "Value": "of Gorlago"
+        },
+        "Notes": "Cotta`s details are in Laura Gaetani, `Scena d`huomini illustri...`, in Le muse tra i libri... (Padua, 2009)",
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

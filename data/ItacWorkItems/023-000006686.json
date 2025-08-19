@@ -1,0 +1,292 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006686",
+        "WorkId": "000793",
+        "ShortTitle": "Accademia di lettere e d`arti cavalleresche,",
+        "LongTitle": "celebrata in Roma, per lo nascimento del Serenissimo Principe di Wallia, e dedicata alla Sacra Maesta` di Maria Regina d`Inghilterra dalli nobili convittori del Collegio Clementino De` padri della Congregazione Somasca",
+        "ItacAcademyItem": {
+            "AcademyId": "0170",
+            "RecordID": "021-000006654",
+            "Value": "Accademia degli Stravaganti"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1688",
+        "DedicationPlaceDate": "Rome 1 October 1688",
+        "Shelfmark": "1505/312",
+        "Subjects": "Tournament",
+        "Language": "Italian",
+        "Pagination": "43",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19451",
+                    "RecordID": "022-000006669",
+                    "Value": "Ravaschieri Fiesco,Girolamo,,"
+                },
+                {
+                    "PersonId": "19450",
+                    "RecordID": "022-000006668",
+                    "Value": "Pallavicino,Pietro Maria,Marquis,"
+                },
+                {
+                    "PersonId": "19442",
+                    "RecordID": "022-000006660",
+                    "Value": "Colonna,Francesco,,"
+                },
+                {
+                    "PersonId": "19446",
+                    "RecordID": "022-000006664",
+                    "Value": "Pallavicino,Cristoforo,,"
+                },
+                {
+                    "PersonId": "19470",
+                    "RecordID": "022-000006690",
+                    "Value": "Servanzio,Paolo,Abbot,"
+                },
+                {
+                    "PersonId": "19459",
+                    "RecordID": "022-000006677",
+                    "Value": "de Medici,Francesco,,"
+                },
+                {
+                    "PersonId": "19471",
+                    "RecordID": "022-000006691",
+                    "Value": "Gonzaga,Giovanni,,"
+                },
+                {
+                    "PersonId": "19457",
+                    "RecordID": "022-000006675",
+                    "Value": "Calcagnini,Francesco,Marquis,"
+                },
+                {
+                    "PersonId": "19472",
+                    "RecordID": "022-000006692",
+                    "Value": "Bellincini,Carlo,,"
+                },
+                {
+                    "PersonId": "19473",
+                    "RecordID": "022-000006693",
+                    "Value": "Ansidei,Marc`Antonio,,"
+                },
+                {
+                    "PersonId": "19461",
+                    "RecordID": "022-000006679",
+                    "Value": "Mari,Andrea,,"
+                },
+                {
+                    "PersonId": "19474",
+                    "RecordID": "022-000006694",
+                    "Value": "Casoni,Francesco Antonio,,"
+                },
+                {
+                    "PersonId": "19475",
+                    "RecordID": "022-000006695",
+                    "Value": "Lomellino,Bartolomeo,Abbot,"
+                }
+            ]
+        },
+        "Notes": "Editors comment on the choice to adopt the Italian language instead of the Latin language. Here are displayed the title-page and one image from the book.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19438",
+                "RecordID": "022-000006655",
+                "Value": "Accademici Stravaganti,,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19467",
+                    "RecordID": "022-000006687",
+                    "Value": "Barigioni,Gio. Ant.,,"
+                },
+                {
+                    "PersonId": "19468",
+                    "RecordID": "022-000006688",
+                    "Value": "Fariat,Benedetto,,"
+                },
+                {
+                    "PersonId": "19469",
+                    "RecordID": "022-000006689",
+                    "Value": "van Westerhout,Arnold,,1651-1725"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18969",
+                "RecordID": "022-000006075",
+                "Value": "Komarek,Giovanni Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54889",
+            "Value": "023-000006686_54889_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54890",
+            "Value": "023-000006686_54890_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Ragionamento",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19451",
+                            "RecordID": "022-000006669",
+                            "Value": "Ravaschieri Fiesco,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si consdiera l`obbligazione che corre all`Inghilterra, di corrispondere alle grazie celesti, nel natale del suo Principe, impetrato da Nostro Signore Innocenzo XI. Sonetto - Quando Signor, lo spirto Tuo Sovrano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19470",
+                            "RecordID": "022-000006690",
+                            "Value": "Servanzio,Paolo,Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per li fuochi festivi dell`Inghilterra nel solennizzare la nativita` del suo infante reale. Sonetto - Gia` il Frenator del contrastato impero",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19446",
+                            "RecordID": "022-000006664",
+                            "Value": "Pallavicino,Cristoforo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si considera la cagione dell`infirmita` della quale fu assalito il Serenissimo Infante Principe di Wallia. Sonetto - Vagisce in Anglia il Successor Reale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19459",
+                            "RecordID": "022-000006677",
+                            "Value": "de Medici,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Su la difficulta` incontrata nel nudrire l`infante britannico. S`invita l`Inghilterra a ritornare alla Chiesa Cattolica. Sonetto - Su` la cuna de l`Angelico Signore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19471",
+                            "RecordID": "022-000006691",
+                            "Value": "Gonzaga,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sopra il medesimo suggetto. Cioe` considerando il nato bambino non nudrito co` l solito alimento di latte. sonetto - Si stilla in vano il pargoletto erede",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19442",
+                            "RecordID": "022-000006660",
+                            "Value": "Colonna,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Santita` di Nostro Signore Innocenzo XI. Dalla liberalita` di cui si riconoscono le cristiane vittorie, e dalle lagrime la successione del soglio britannico. Sonetto - Santo Monarca, al di cui cenno e` stretto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19446",
+                            "RecordID": "022-000006664",
+                            "Value": "Pallavicino,Cristoforo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella felice prole concessa dal cielo alle Maesta` britanniche con cui si spera l`intiero stabilimento della fede cattolica nell`Inghilterra. Sonetto - Piange Maria che un dono umile, e frale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19457",
+                            "RecordID": "022-000006675",
+                            "Value": "Calcagnini,Francesco,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel proposto parto reale, impetrato da Dio, per li meriti, e preghiere del Sommo Pontefice che ama teneramente i progressi della corona britannica. Sonetto - Sconsolata piangea l`Anglia guerriera",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19451",
+                            "RecordID": "022-000006669",
+                            "Value": "Ravaschieri Fiesco,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Sacra Maesta` di Maria Regina d`Inghilterra. S`allude al dono fatto presentare a Nostra Dama di Loreto, che consiste nella statua d`un Angelo prezioso, che tiene nelle mani un cuore d`oro, tempestato di gemme. Sonetto - Per dar tributo aLei che il cielo bea",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19472",
+                            "RecordID": "022-000006692",
+                            "Value": "Bellincini,Carlo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Sacra Real Maesta` di Giacomo II. Per lo nascimento del primogeito, precorso dalle sconfitte del Turco e seguito da i moti dell`Olanda. Sonetto - De l`Anglia appena il real parto usci`o",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19473",
+                            "RecordID": "022-000006693",
+                            "Value": "Ansidei,Marc`Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la nativita` del Reale Infante d`Inghilterra. S`allude alla sentenza, benche` erronea, di Platone. Sonetto - Nel piu` bel velo che natura ordi`o",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19474",
+                            "RecordID": "022-000006694",
+                            "Value": "Casoni,Francesco Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Canzone dello stesso nel medesimo argomento - Viva il gran Dio ch` i Voti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19474",
+                            "RecordID": "022-000006694",
+                            "Value": "Casoni,Francesco Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella nativita` del Reale Infante d`Inghilterra Principe di Wallia. S`allude alle segnalate vittorie, riportate dagl` eroi Cattolici contro la depressa potenza del Turco. Oda - Dal Bosforo confuso uscia quel pianto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19475",
+                            "RecordID": "022-000006695",
+                            "Value": "Lomellino,Bartolomeo,Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Disposizione degli Esercizi cavallereschi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19475",
+                            "RecordID": "022-000006695"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

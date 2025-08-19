@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008418",
+        "WorkId": "000954",
+        "ShortTitle": "Inni sacri a due tre quattro e cinque voci con violini e senza",
+        "LongTitle": "di Sebastiano Cherici. Maestro di cappella della Cattedrale e dell` Illustrissima Accademia dello Spirito Santo in Ferrara. Consacrati All`illustrissimo et Eccellentissimo signor Don Giulio Antonio Acquaviva d`Aragona Conte di Conversano, Duca delle Noci, e di Nardo`, ecc. Opera Prima",
+        "ItacAcademyItem": {
+            "AcademyId": "0537",
+            "RecordID": "021-000008071",
+            "Value": "Spirito Santo (Accademia dello)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1672",
+        "Shelfmark": "C175a",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15621",
+                "RecordID": "022-000002147",
+                "Value": "Chierici,Sebastiano,Chapel Master,1647-1704"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15296",
+                "RecordID": "022-000001336",
+                "Value": "Acquaviva de Aragona,Giulio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

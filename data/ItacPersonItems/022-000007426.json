@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19967",
+        "RecordId": "022-000007426",
+        "Surname": "de Vega",
+        "Forename": "Lope",
+        "DateText": "1562-1635",
+        "StartDate": "1562",
+        "EndDate": "1635",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Notes": "Portrait from Lope de Vega, Laurel de Apolo con otras rimas. Por Lope Felix de Vega Carpio, Madrid, 1630 (BL Shelfmark: 11451.d.34.).",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

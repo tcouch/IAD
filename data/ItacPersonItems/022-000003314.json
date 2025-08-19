@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16596",
+        "RecordId": "022-000003314",
+        "Surname": "Sassonia",
+        "Forename": "Ercole Il Giovane",
+        "DateText": "1620 - ?",
+        "StartDate": "1620",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrat in 1645, where he was Segratario in 1648-49.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

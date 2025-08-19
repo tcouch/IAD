@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0109",
+        "RecordId": "021-000005081",
+        "Name": "Concordi-Napoli (Accademia dei)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1674",
+        "EndDate": "?",
+        "DateText": "1674-?",
+        "ItacPersonItem": {
+            "PersonId": "15229",
+            "RecordId": "022-000001272",
+            "Name": "Campanile,Giuseppe,,1620 (?) - 1674",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

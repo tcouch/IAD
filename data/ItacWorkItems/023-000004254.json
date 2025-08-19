@@ -1,0 +1,115 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004254",
+        "WorkId": "000550",
+        "ShortTitle": "Philippi Finella De Planetaria Naturali Phisionomia.",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1649",
+        "DedicationPlaceDate": "Naples 7 June 1649",
+        "Shelfmark": "1141.c.12.(1.)",
+        "Subjects": "Astronomy|Physiognomy",
+        "Language": "Latin|Italian",
+        "Illustration": "Engraved title page|Cornucopia",
+        "Pagination": "pp. 254",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17406",
+                    "RecordID": "022-000004256",
+                    "Value": "Turrianus De Tassis,Franciscus,,"
+                },
+                {
+                    "PersonId": "16936",
+                    "RecordID": "022-000003720",
+                    "Value": "Massaro,Giovanni Pietro,,"
+                },
+                {
+                    "PersonId": "17413",
+                    "RecordID": "022-000004265",
+                    "Value": "Cordemoy,Odo,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                },
+                {
+                    "PersonId": "15262",
+                    "RecordID": "022-000001304",
+                    "Value": "De Rubeis,Franciscus Josephum,,"
+                },
+                {
+                    "PersonId": "15200",
+                    "RecordID": "022-000001169",
+                    "Value": "Filomarino,Ascanio,Cardinal|Archbishop,1583-1666"
+                },
+                {
+                    "PersonId": "15235",
+                    "RecordID": "022-000001278",
+                    "Value": "Zufia,,,"
+                },
+                {
+                    "PersonId": "15237",
+                    "RecordID": "022-000001280",
+                    "Value": "Caracciolus,,,"
+                },
+                {
+                    "PersonId": "15238",
+                    "RecordID": "022-000001281",
+                    "Value": "Capiciuslatro,,,"
+                },
+                {
+                    "PersonId": "15922",
+                    "RecordID": "022-000002486",
+                    "Value": "Garcia,,,"
+                },
+                {
+                    "PersonId": "17408",
+                    "RecordID": "022-000004258",
+                    "Value": "Barra ,Alberto,Carmelite,"
+                },
+                {
+                    "PersonId": "17409",
+                    "RecordID": "022-000004259",
+                    "Value": "Scoppa,Dominicus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Approbationes. Potest imprimi. Fr. Alterbus Barra Carmelita, Deput. vidit.\nImprimatur.\nGreg. Peccerillus Vic. General.\nIussisti ExcellentissimePrinceps, ut videram, retroscripta sex opuscola, per Philippum Finella, Philosophum Parthenopaeum composita, ea legendo optemperavi in quibus summa perspicitur scientia, naturalium arcanorum, quapropter dignissima existimo, ut quamprimum praelo tradantur, ad solatium, & utilitatem sapientium, cum nihil bonis moribus officiant, die 14. Mensis may 1648.\nExcelletiae Suae Servuus Ioannes Dominicus Scoppa Marij\nVisa supradicta relatione. Imprimatur.\nZufia Reg. Caracciolus Reg. Capyciuslatro Reg. Garzia Reg. \nReg. fol. 34. \u00e0 ter. Per me F. Iosephum de Rubeis Ord. Min. Conv. Eminen. Card. Philam. Teol.\nIllustriss. Et Eccellentiss. Signore\nFilippo Finella Napolitano desidera mandare alle Stampe alcune delle sue Opere, & fr\u00e0 l`altre sono. La Fisionomia Planetaria, L`Ophthalmia, Psysiognomica, lo Specolo Astronomico, li quatro segni ch`appariscono nell`ugne delle mani, & il Soloquio Spargirico latini, & volgari, per tanto supplica \u00e0 V. E. del suo regio imrpimato, & tutto l`haver\u00e0 \u00e0 gratia, ut Deus.\nMag. Dominicus Scoppia videat, & in scriptis referat S. E. Zufia Reg.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15871",
+                "RecordID": "022-000002431",
+                "Value": "Gaffaro,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53946",
+            "Value": "023-000004254_53946_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

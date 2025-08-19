@@ -1,0 +1,65 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004337",
+        "WorkId": "000565",
+        "ShortTitle": "Illustrium Mulierum Et Illustrium Litteris Virorum Elogis",
+        "LongTitle": "A Iulio Caesare Capacio Neapolitanae urbi \u00e0 Secretis conscripta.",
+        "ItacAcademyItem": {
+            "AcademyId": "0065",
+            "RecordID": "021-000003995",
+            "Value": "Accademia Pontaniana"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1609",
+        "Shelfmark": "131.a.24.",
+        "Subjects": "Celebratory prose and poems",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp 387",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15014",
+                "RecordID": "022-000001056",
+                "Value": "Capaccio,Giulio Cesare,,1552-1634"
+            }
+        },
+        "Notes": "On p. 375, the author mentions Giavanni Pontano and the Pontaniana Academy in Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "17470",
+                    "RecordID": "022-000004339",
+                    "Value": "Marasca,Chrysostomus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur.\nPetrus Ant. Ghibertus Locumtenens.\nMAgister Cornelius Tiroboscus Ordinis Praed. Curiae Archipiscopalis Theologus vidit.\nM. Chrysost. Marasca Carmelita dep. vidit.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17471",
+                "RecordID": "022-000004340",
+                "Value": "Fontana,Sebastiano,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17469",
+                "RecordID": "022-000004338",
+                "Value": "Carlino & Vitale ,Giovanni Giacomo & Costantino,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

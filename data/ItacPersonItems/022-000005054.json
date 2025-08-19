@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18099",
+        "RecordId": "022-000005054",
+        "Surname": "Dossena",
+        "Forename": "Giovanni Andrea",
+        "Gender": "Male",
+        "DateText": "fl. 1543-1545",
+        "StartDate": "fl. 1543",
+        "EndDate": "1545",
+        "Nationality": {
+            "NationalityId": "206",
+            "Value": "of Turin"
+        },
+        "Notes": "Active in Rome in 1544",
+        "Role": "Printer|Publisher",
+        "TypographicReference": "U775",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

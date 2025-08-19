@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003394",
+        "WorkId": "000449",
+        "ShortTitle": "Della Magia Naturale",
+        "LongTitle": "Del Signor Gio: Battista Della Porta Napolitano Libri XX. Tradotto Da Latino In Volgare Con la gionta d`infiniti altri secreti, e con la dichiaratione di molti, che prima non s`intendevano.Trattansi nel 1 Delle mirabili cagioni delle cose. 2 Di produrre varij animali. 3 Di generar nove piante. 4 Per accrescere le robbe di casa. 5 Della trasmutatione de` metalli. 6 Del falsificare le gioie. 7 Di miracoli della calamita. 8 Delle stupende medicine. 9 Del ornamento delle donne. 10 Di cavare le quinte essenze. 11 Della profumeria. 12 De` fochi artificiali. 13 Di temperar i ferri. 14 Delli mirabili conviti. 15 Per torre le fere con le mani. 16 Delle cifre invisibili. 17 Delle imagini de specchi. 18 Delli esperimenti della stadera. 19 Dell`aperimenti spirituali. 20 Del Chaos.",
+        "ItacAcademyItem": {
+            "AcademyId": "0055",
+            "RecordID": "021-000003393",
+            "Value": "Accademia dei Segreti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1611",
+        "Shelfmark": "1578/2338",
+        "Subjects": "Science|Magic|Medicine",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 726",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16280",
+                "RecordID": "022-000002933",
+                "Value": "Della Porta,Giambattista,,1535?-1615"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16665",
+                "RecordID": "022-000003395",
+                "Value": "De Rosa,Giovanni,,"
+            }
+        },
+        "Notes": "In the preface, the author mentions an Academy which may refer to the Neapolitan Segreti Academy founded by Giambattista Della Porta.",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "16667",
+                "RecordID": "022-000003397",
+                "Value": "Gratianus,Alexander,Vicar General,"
+            }
+        },
+        "CensorsAgreement": "Ego Frater Thomas de Capua Sacra Theologiae Magister, & almi studij Sancti Dominici de Neapoli Regens, Superiorum iussu legi, aatq; perlegi illa diligentia, quae potui, ac debui viginti libros Magiae naturalis admodum Illustris Domini Ioannis Baptistae de Porta Neapolitani, eccellentissimi Philosophi, & in omni Scientiarum genere peritissimi, 7 nihil in illis inveni, quod Sancta Romanae, universalique Ecclesiae repugnaret: neque quod possit pias aures offendere, aut quod aliquid contra bonos mores contineant. quocirca fateor esse libros hos doctos, & solida, magnaque doctrina refertos, utilisque. Et in fidem me propria manu subscripsi. Datum in Regio Conventu nostro Sancti Dominici de neap. die 9. Augusti 1588.\nIsta est. Fr. Thomas de Capua, qui supra manu propria. Imprimatur.\nAlexander Gratianus Vic. Gen. Cap. Neapolit. M. Cherub. Veron. August. Theol. Cur. Archip. Neap.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15058",
+                "RecordID": "022-000001099",
+                "Value": "Carlino,Gio[vanni] Giacomo,,c. 1579-c. 1615"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53480",
+            "Value": "023-000003394_53480_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

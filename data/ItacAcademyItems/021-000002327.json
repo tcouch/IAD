@@ -1,0 +1,178 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0027",
+        "RecordId": "021-000002327",
+        "Name": "Avveduti (Accademia degli)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "Tree with fruit, growing on a naked rock, with a crown above it",
+        "EmblemImage": {
+            "ImageId": "52617",
+            "Value": "021-000002327_52617_1.jpg"
+        },
+        "Motto": "Non sine studio",
+        "StartDate": "ca1600",
+        "EndDate": "ca1615?",
+        "DateText": "ca1600-ca1615?",
+        "Notes": "Lorenzo Pasquati is said to be the Academy printer.\nOther publications, not in British Library collections, include: Fedeli, Fedele, Anatomia d`un nuovo mostro uscito dalla Stamparia Arcivescovale di Bologna intitolato Risposta di Theodoro Eugenio di Famagosta all`aviso del signor Antonio Quirino senator veneto. Fatta nell`Academia de gli Avveduti da Fedel Fedeli academico detto il Sodo. Et mandata alle stampe per opera di Gio. Battista Gambabella (In Padoua: appresso Nicolo Padovano, 1607); Rime de diversi nobilissimi ingegni in lode di.. Alvise Trevisan, racolte da Mons. Giov. Bat. Arigoni fondator di essa Accademia e a S.S. dedicate; \nOratione funebre di Gio. Battista Arigoni fondator de l`Academia degli Aveduti di Padova, fatta in morte del clarissimo signor Gasparo Trevisan academico... detto Il Coraggioso. Dedicata... ad Alvise (Trevisan) Principe di essa Accademia; Il fraterno amore overo Il Delio. Favola pastorale con gl`intermezzi apparenti... Del Conte Gio. Battista Arigoni... al serenisssimo Cosimo II de` Medici (Padua: Tozzi, 1609?) with dedication by Girolamo Dona` and preface by Michele Almoro` prince of the Academy. The same volume had been previously published as Carli Venturiano, Il Mirtillo. Favola boschereccia (Padua: Tozzi, 1605). A leter edition issued in Padua by Tozzi in 1610.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15767",
+                "RecordId": "022-000002314",
+                "Name": "Arrigoni,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15768",
+                "RecordId": "022-000002315",
+                "Name": "Collalto,Antonio,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15769",
+                "RecordId": "022-000002316",
+                "Name": "Torelli,Guasparri,,",
+                "Nickname": "Il Confidato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15770",
+                "RecordId": "022-000002317",
+                "Name": "D.C.S.A.T.F.D.I.S.S.,,,",
+                "Nickname": "Il Ponderato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15771",
+                "RecordId": "022-000002318",
+                "Name": "Dona`,Girolamo,,",
+                "Nickname": "L`Annodato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15772",
+                "RecordId": "022-000002319",
+                "Name": "Gregorii,Antonio,,",
+                "Nickname": "Il Tenebroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15773",
+                "RecordId": "022-000002320",
+                "Name": "Viadana,Girolamo,,",
+                "Nickname": "Il Peregrino",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15774",
+                "RecordId": "022-000002321",
+                "Name": "Muse`,Diotesalvi,,",
+                "Nickname": "Il Contemplativo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15775",
+                "RecordId": "022-000002322",
+                "Name": "C.S.N.G,,,",
+                "Nickname": "Il Voto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15777",
+                "RecordId": "022-000002324",
+                "Name": "Carpi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15778",
+                "RecordId": "022-000002325",
+                "Name": "Trevisan,Gasparo,, -1602?",
+                "Nickname": "Il Coraggioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15779",
+                "RecordId": "022-000002326",
+                "Name": "Trevisan,Alvise,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9741",
+                "RecordId": "022-000000450",
+                "Name": "Barb\u00f2,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15780",
+                "RecordId": "022-000002328",
+                "Name": "Basadonna,Giovanni Andrea,,fl.1600",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16403",
+                "RecordId": "022-000003069",
+                "Name": "Gritti,Niccolo`,,",
+                "Nickname": "Il Voto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15700",
+                "RecordId": "022-000002231",
+                "Name": "Cornaro,Iacopo,,",
+                "Nickname": "Lo Snello",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16506",
+                "RecordId": "022-000003193",
+                "Name": "Cicolla ,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16640",
+                "RecordId": "022-000003360",
+                "Name": "Michele,Almoro`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20592",
+                "RecordId": "022-000008347",
+                "Name": "Fedeli,Fedele,,",
+                "Nickname": "Il Sodo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18006",
+        "RecordId": "022-000004943",
+        "Surname": "Baldi",
+        "Forename": "Cammillo",
+        "Gender": "Male",
+        "DateText": "1550-1637",
+        "StartDate": "1550",
+        "EndDate": "1637",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Teacher of philosophy and medicine in the Bolognese Studium. See his biography by Mario Tronti in DBI; see also Lucia Rodler, Camillo Baldi e la teoria delle missive, in Id. I silenzi mimici del volto (Pisa, 1991)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

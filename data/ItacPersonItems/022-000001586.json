@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9018",
+        "RecordId": "022-000001586",
+        "Surname": "Galilei",
+        "Forename": "Galileo",
+        "DateText": "1564 - 1642",
+        "StartDate": "1564",
+        "EndDate": "1642",
+        "Nationality": {
+            "NationalityId": "130",
+            "Value": "of Pisa"
+        },
+        "Notes": "Among the founders of the Ricovrati in 1599, he was `censore sopra le stampe`. Joined the Accademia dei Lincei in 1611. Also member of Crusca, and Accademia Fiorentina. Portrait as Ricovrato is from Istoria.. intorno alle macchie solari (1613).",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

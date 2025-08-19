@@ -1,0 +1,169 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007533",
+        "WorkId": "000846",
+        "ShortTitle": "Miscellanea italica physico-mathematica",
+        "LongTitle": "Collegit Gaudentius Robertus Carm. Cong.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0141",
+                "RecordID": "021-000006038",
+                "Value": "Accademia Fisico-matematica"
+            },
+            {
+                "AcademyId": "0141",
+                "RecordID": "021-000006038",
+                "Value": "Fisico-matematica (Accademia)"
+            }
+        ],
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1692",
+        "Shelfmark": "60c17",
+        "Subjects": "Astronomy",
+        "Language": "Italian|Latin",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5028",
+                    "RecordID": "022-000000030",
+                    "Value": "Montanari,Geminiano,,1633 - 1687"
+                },
+                {
+                    "PersonId": "18960",
+                    "RecordID": "022-000006063",
+                    "Value": "Cellio,Marc` Antonio,,"
+                },
+                {
+                    "PersonId": "18956",
+                    "RecordID": "022-000006059",
+                    "Value": "Ponzi,Giuseppe Dionisio,Bishop of Umbriatico,"
+                },
+                {
+                    "PersonId": "20039",
+                    "RecordID": "022-000007535",
+                    "Value": "Anonymous Member of Academia Fisicomatematica,,,"
+                }
+            ]
+        },
+        "Notes": "In one of his letters, Montanari refers to Billy as the Academy`s engraver (see, p. 561). One engraving from the book is shown here instead of the colophon image.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20040",
+                    "RecordID": "022-000007536",
+                    "Value": "Taurellus,Romualdus,,"
+                },
+                {
+                    "PersonId": "16201",
+                    "RecordID": "022-000002830",
+                    "Value": "Bonfiliolus,Silvester,Doctor Revisor Sancti Officii,"
+                },
+                {
+                    "PersonId": "20041",
+                    "RecordID": "022-000007537",
+                    "Value": "Agudius,Ioseph Maria,,"
+                },
+                {
+                    "PersonId": "5399",
+                    "RecordID": "022-000000409",
+                    "Value": "Boncompagni,Giacomo,Archibishop of Bologna,1652 - 1731"
+                }
+            ]
+        },
+        "CensorsAgreement": "V. D. Romualdus Taurellus Poenitent. in Metropol. Bonon. pro Illustriss. & Reverendiss. D. D. Iacobo Boncompagno Archiepisc. & Principe. Admitti posse censui. Ego Silvester Bonfiliolus S. Inquisit. Revisor. Stante prefata attestatione Imprimatur. F. Ioseph Maria Agudius Vicarius Sancti Officii Bononia",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18328",
+                "RecordID": "022-000005341",
+                "Value": "Pamphili,Benedetto,,1653 - 1730"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20038",
+                "RecordID": "022-000007534",
+                "Value": "Roberti,Gaudenzio,,1655-1695"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "20043",
+                "RecordID": "022-000007539",
+                "Value": "Francia,Francesco Maria,,1657-1735"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18961",
+                "RecordID": "022-000006065",
+                "Value": "Billy,Nicolo` I,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18237",
+                "RecordID": "022-000005223",
+                "Value": "Pisarri , Antonio (Eredi),,1680-1700"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54994",
+            "Value": "023-000007533_54994_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54995",
+            "Value": "023-000007533_54995_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Copia di due lettere scritte all'illustrissimo signor Antonio Magliabechi. Bibliotecario del Serenissimo Granduca di Toscana, sopra i moti, e le apparenze delle due comete ultimamente apparse sul fine di Novembre 1680 nelle costellazioni di Vergine, e Libra, e sul fine di Dicembre in quella di Capricorno & c. Dal dottore Geminiano Montanari pubblico professore delle scienze matematiche",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5028",
+                            "RecordID": "022-000000030",
+                            "Value": "Montanari,Geminiano,,1633 - 1687"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Copia di lettera scritta all'Illustriss. Signore Gio. Domenico Cassini. Astronomo primario della Sacra Maesta' del Re Christianissimo sopra l'osservazione de moti  et apparenze d'una cometa veduita verso il fine di Novembre dell'anno 1680, nelle costellazioni di Vergine, e Libra. Da Marc'Antonio Cellio. Accademico nell'Accademia Fisicomatematica di Roma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18960",
+                            "RecordID": "022-000006063",
+                            "Value": "Cellio,Marc` Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso fatto nell'Accademia Fisicomatematica di Roma tenuta li 5 di Gennaro del 1681. Sopra la cometa nuovamente apparsa. Da uno dell'Accademia medesima",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20039",
+                            "RecordID": "022-000007535",
+                            "Value": "Anonymous Member of Academia Fisicomatematica,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Accademiae Phisicomathematicae Romanae a Secretis in Cometicae observationes Habitae ab Academia Hysicomathematica [sic!] Romana anno 1680 et 1681. Astronomiae et Cosmographiae cultoribus Ioseph Dionysius Ponthaeus Academiae Physico-mathematice Romanae a Secretis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18956",
+                            "RecordID": "022-000006059",
+                            "Value": "Ponzi,Giuseppe Dionisio,Bishop of Umbriatico,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

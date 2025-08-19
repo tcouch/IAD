@@ -1,0 +1,271 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001960",
+        "WorkId": "000275",
+        "ShortTitle": "Sonetti sacri del marchese Galeazzo Gualengo, detto l`avvinto accademico intrepido",
+        "LongTitle": "da essa accademia dedicati a gl`illustrissimi, e reuerendissimi ss. il signor Cardinal Bevilacqua e`l signor Cardinal Pio di Savoia e da lo stesso autore nuovamente corretti, ed accresciuti",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1623",
+        "DedicationPlaceDate": "Ferrara 1 febbraio 1620",
+        "Shelfmark": "11429e7",
+        "Subjects": "Sacred poetry",
+        "Language": "Italian|Latin",
+        "Pagination": "110 [14]; 110 [17]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20431",
+                "RecordID": "022-000008155",
+                "Value": "Gualengo,Galeazzo,Marquis,?-1623"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18513",
+                    "RecordID": "022-000005545",
+                    "Value": "Pandolfi,Alfonso,,"
+                },
+                {
+                    "PersonId": "20445",
+                    "RecordID": "022-000008169",
+                    "Value": "Pio di Savoia,Ascanio,,"
+                },
+                {
+                    "PersonId": "20446",
+                    "RecordID": "022-000008170",
+                    "Value": "Cibo,Carlo,Marquis of Carrara|Duke of Aiello,1581-1662"
+                },
+                {
+                    "PersonId": "20447",
+                    "RecordID": "022-000008171",
+                    "Value": "Turco,Cesare,Marquis,"
+                },
+                {
+                    "PersonId": "5089",
+                    "RecordID": "022-000000086",
+                    "Value": "Achillini,Claudio,,1574-1640"
+                },
+                {
+                    "PersonId": "20448",
+                    "RecordID": "022-000008172",
+                    "Value": "Lolio,Girolamo,,"
+                },
+                {
+                    "PersonId": "20449",
+                    "RecordID": "022-000008173",
+                    "Value": "Rossetti,Lodovico,,"
+                },
+                {
+                    "PersonId": "20450",
+                    "RecordID": "022-000008174",
+                    "Value": "Zerbinati,Luigi,,"
+                },
+                {
+                    "PersonId": "18365",
+                    "RecordID": "022-000005383",
+                    "Value": "Guarini,Alessandro,,1563-1636"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20439",
+                    "RecordID": "022-000008163",
+                    "Value": "de Francis ,Paulus,,fl.1600-1625"
+                },
+                {
+                    "PersonId": "20441",
+                    "RecordID": "022-000008165",
+                    "Value": "Camp.,D.,Vicar General,"
+                },
+                {
+                    "PersonId": "20440",
+                    "RecordID": "022-000008164",
+                    "Value": "Gambius,Hieronymus,,"
+                },
+                {
+                    "PersonId": "20442",
+                    "RecordID": "022-000008166",
+                    "Value": "Bazanius,Hippolytus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Carminum sacrorum librorum denuo ab Illustriss. Galeatio Gualengo Marchione, academieae Intrepidorum alumno docte, subtiliter et copiose elucubratum, et auctum, de superiorum mandato, magna animi mei voluptate semel, atque iterum perlegi, et cum nihil in illo, quod non sit tam fidei, quam sacris moribus accomodatum, et aptum, reperiatur, dignum, animi humani spirituali delectatione afficiendi causa, nec non poetici studii illustrandi, typis iudicavi. Ferrariae in Conventu servorum B. Mariae semper Virginis Die 5 Februarii 1623. Ita est, et c. Io: Hieronymus Gambus Ordinis Servorum Sacrae Theologiae publicus Professor, ac Sanctissimae Inquisitionis Officii Consult. Imprimatur, si placet admodum R. P. Inquisit. D. Camp. Vic. Gen. et c.\n\nEgo F. Hyppolitus Bazanius de Ferraria Ordinis Servorum, qui alias carmina haec illustrissimi D. D. Marchionis Galeatii Gualengi vidi, et approbavi; ex commissione R. Adm Patris Magistri Fratris Pauli de Francis de Neapoli Inquisitoris Generalis Ferrariae, eadem per ipsummet illustrissimum authore revisa, recognita, et aucta attenta meditatione, et summa delectatione iterum percurri, et cum illa doctrina, ac pietate omni ex parte scatere perspexerim, quod denuo in gratiam studiosorum, et ad cunctorum spirituale oblectamentum possint, et debeant typis mandari, censeo. Ex aedibus Servorum die 6 Februarii 1623. Idem qui supra F. Hyppol. Fecit, et c. Imprimatur F. Paulus de Francis Inquisit. Gen. Ferrariae, et c.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20443",
+                    "RecordID": "022-000008167",
+                    "Value": "Bevilacqua,Bonifazio,Cardinal,1571-1627"
+                },
+                {
+                    "PersonId": "20444",
+                    "RecordID": "022-000008168",
+                    "Value": "Pio di Savoia,Carlo Emanuele,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20438",
+                "RecordID": "022-000008162",
+                "Value": "Suzzi,Francesco,Stampatore camerale,fl.1620-1657"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55283",
+            "Value": "023-000001960_55283_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55284",
+            "Value": "023-000001960_55284_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "All'autore: S'altri con vana ed impudica lira",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18365",
+                            "RecordID": "022-000005383",
+                            "Value": "Guarini,Alessandro,,1563-1636"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di questi sacri e riveriti allori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18513",
+                            "RecordID": "022-000005545",
+                            "Value": "Pandolfi,Alfonso,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Questi fiori da cui belta' non fugge",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18513",
+                            "RecordID": "022-000005545",
+                            "Value": "Pandolfi,Alfonso,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De suo cigno maggior, carco d'allori,",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20445",
+                            "RecordID": "022-000008169",
+                            "Value": "Pio di Savoia,Ascanio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si scherza sopra l'Impresa dell'autore: Mentre, che fermo ti ritenne, e cinto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20445",
+                            "RecordID": "022-000008169",
+                            "Value": "Pio di Savoia,Ascanio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gualengo, da pincipi a noi rimoti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20446",
+                            "RecordID": "022-000008170",
+                            "Value": "Cibo,Carlo,Marquis of Carrara|Duke of Aiello,1581-1662"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ardi' o Gualengo, de gl'incendi tuoi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20446",
+                            "RecordID": "022-000008170",
+                            "Value": "Cibo,Carlo,Marquis of Carrara|Duke of Aiello,1581-1662"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Altri con varia cetra, e lusinghiera",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20447",
+                            "RecordID": "022-000008171",
+                            "Value": "Turco,Cesare,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Mentre de' sacri eroi canti le pene",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5089",
+                            "RecordID": "022-000000086",
+                            "Value": "Achillini,Claudio,,1574-1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In nome d'uno eremita: Da le vicine e discoscese rupi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5089",
+                            "RecordID": "022-000000086",
+                            "Value": "Achillini,Claudio,,1574-1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Non col cantor di Smirna, o quel di Manto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20448",
+                            "RecordID": "022-000008172",
+                            "Value": "Lolio,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Agli illust. et Reverendiss. SS il card. Bevilacqua e 'l signor Cardinal Pio di Savoia: Sacrati eroi, che 'l bel nostro emispero",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20449",
+                            "RecordID": "022-000008173",
+                            "Value": "Rossetti,Lodovico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Tentin pur' il camin fallace ed erto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20450",
+                            "RecordID": "022-000008174",
+                            "Value": "Zerbinati,Luigi,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

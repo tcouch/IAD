@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005408",
+        "WorkId": "000665",
+        "ShortTitle": "Ragionamento dello Accademico Aldeano sopra la poesia giocosa",
+        "LongTitle": "de` greci, de` latini et de` toscani, con alcune poesie piacevoli. Del medesimo autore",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1634",
+        "Shelfmark": "74a15",
+        "Subjects": "Academic discourse|Poetry",
+        "Language": "Italian",
+        "Pagination": "214",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18347",
+                "RecordID": "022-000005363",
+                "Value": "Villani,Niccolo`,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18388",
+                "RecordID": "022-000005407",
+                "Value": "Pinelli,Giovanni Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54432",
+            "Value": "023-000005408_54432_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

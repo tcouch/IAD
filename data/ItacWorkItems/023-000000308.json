@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000308",
+        "WorkId": "00029",
+        "ShortTitle": "Pauli Maccii Emblemata",
+        "LongTitle": "cum privilegiis",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            },
+            {
+                "AcademyId": "0007",
+                "RecordID": "021-000000433",
+                "Value": "Accademia degli Ardenti (Bologna)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1628",
+        "Shelfmark": "636.g.26",
+        "Subjects": "Moral emblems|Latin mottoes",
+        "Language": "Latin|Italian",
+        "Illustration": "Engraved plates | Emblems",
+        "Pagination": "pp. 331 plus 5 unnumbered at the end",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5275",
+                "RecordID": "022-000000265",
+                "Value": "Maccius,Paulus,,"
+            }
+        },
+        "Notes": "It contains emblems dedicated to Academia dei Gelati and Academia degli Ardenti; for details on the engraver see Praz Studies in seventeenth-century imagery (Rome 1975). Images displayed include title-page and emblem dedicated to Accademia degli Ardenti.\nAuthor`s Protesta: Sicubi fata, fortem, fortunam, et Numen, Deos, Deas, Coelum, idque; generis verba repereris, Christiano ritu interpreteris, ita enim a recta pietate non deerraveris.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5150",
+                    "RecordID": "022-000000215",
+                    "Value": "De Bonis,Homobonus,,"
+                },
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Homobonus de Bonis Poenitentiarius pro Illustriss. Et Reverendiss. Card. Archiepiscopo | Imprimatur | Fr. Hieronymus Onuphrius Romanus Doctor Collegiatus Lector Publicus ac Sanctiss. Inquisitionis Consultor pro Reverendiss. P. Inquisit. Bonon.",
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5276",
+                "RecordID": "022-000000266",
+                "Value": "Coriolano,Giovanni Battista,,c. 1579-1649"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5246",
+                "RecordID": "022-000000238",
+                "Value": "Ferroni,Clemente,,1555/6-1640"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54858",
+            "Value": "023-000000308_54858_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54859",
+            "Value": "023-000000308_54859_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

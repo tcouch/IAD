@@ -1,0 +1,35 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0146",
+        "RecordId": "021-000006199",
+        "Name": "Nascosti (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Sunset",
+        "Motto": "Et latet et lucet",
+        "Notes": "References to this Academy are in Maylender, vol. 4, and Franchi, Impressioni sceniche, pp. 86, 369, 373. Other publications related to the history of this Academy, non in British Library collections, include, Tancredi Cottone, Tragedie dell`Academico Nascosto raccolte dal sig.r Francesco Gianetti all`ill.mo et reverendissimo sig.r Scipione card. Borghese (Roma, Facciotti, 1628), which includes the following tragedies: Precipitio de` falsi dei al comparir dell`eterno verbo in carne; Davide; Eduino; Olao; Sisdrach, Misach, Abdenago: Anania, Azaria, Misael); Escharistumenos overo I contenti d`amore... [di] Carlo Tiberi (1639). This was a comedy in prose, possibly published with a prologue in music, and it was performed by Accademici Nascosti.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19077",
+                "RecordId": "022-000006198",
+                "Name": "Tiberi,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15467",
+                "RecordId": "022-000001988",
+                "Name": "Cottone,Tancredi,,1570-1653",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

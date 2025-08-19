@@ -1,0 +1,88 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002701",
+        "WorkId": "000336",
+        "ShortTitle": "Antichita Di Napoli E Del Suo Amenissimo Distretto",
+        "LongTitle": "Descritta Da Benedetto de Falco Cittadino Napolitano",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1549",
+        "Shelfmark": "1578/5384.(1.)",
+        "Subjects": "History of Naples",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 142",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16071",
+                "RecordID": "022-000002653",
+                "Value": "di Falco ,Benedetto,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16081",
+                    "RecordID": "022-000002666",
+                    "Value": "Morera,Scipione,,"
+                },
+                {
+                    "PersonId": "16099",
+                    "RecordID": "022-000002688",
+                    "Value": "Lega ,Giovanni Dominico,,"
+                }
+            ]
+        },
+        "Notes": "On p. 139 the author mentions the Sireni Academy, the Ardenti Academy and the Incogniti Academy of Naples.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16082",
+                "RecordID": "022-000002667",
+                "Value": "Curz,Lionardo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16107",
+                "RecordID": "022-000002702",
+                "Value": "Suganappo,Giovanni Paolo,,"
+            }
+        },
+        "PrinterOrnament": "A3 - V135 - Z410",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Signor Leonardo Curz Alemano. Parthenio de gli Incogniti. Da Napoli.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16099",
+                            "RecordID": "022-000002688",
+                            "Value": "Lega ,Giovanni Dominico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A messer Benedetto de Falco. Napolitano. Astemio de gli Incogniti. Da Napoli.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16081",
+                            "RecordID": "022-000002666",
+                            "Value": "Morera,Scipione,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

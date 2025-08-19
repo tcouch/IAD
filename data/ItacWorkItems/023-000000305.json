@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000305",
+        "WorkId": "00026",
+        "ShortTitle": "La Medea essule",
+        "LongTitle": "Tragedia del Caliginoso Gelato il signor Melchiorre Zoppio",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1602",
+        "DedicationPlaceDate": "Bologna 1 August 1602",
+        "Shelfmark": "1071.i.11.(2.)",
+        "Subjects": "Tragedy",
+        "Language": "Italian|Latin",
+        "Pagination": "first 68 leaves unnumbered; pp. 166",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5032",
+                "RecordID": "022-000000034",
+                "Value": "Zoppio,Melchiorre,,1544-1634/7"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5221",
+                "RecordID": "022-000000212",
+                "Value": "Passeri Aldobrandini,Cinthio,Cardinal,1551-1610"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5273",
+                "RecordID": "022-000000263",
+                "Value": "Segni,Giulio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5248",
+                "RecordID": "022-000000240",
+                "Value": "Rossi,Heredi di Giovanni [Perseo],,\u20201629"
+            }
+        },
+        "PrinterOrnament": "Z832",
+        "TitlePageImage": {
+            "ImageId": "52667",
+            "Value": "023-000000305_52667_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

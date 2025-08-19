@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15944",
+        "RecordId": "022-000002508",
+        "Surname": "Magno",
+        "Forename": "Celio",
+        "Gender": "Male",
+        "DateText": "1536-1602",
+        "StartDate": "1536",
+        "EndDate": "1602",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "See his biography by Daniele Ghirlanda in DBI. It is believed that Magno wrote a `Prefatione sopra il Petrarca`, for the Accademia Veneziana.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

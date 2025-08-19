@@ -1,0 +1,167 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004302",
+        "WorkId": "000559",
+        "ShortTitle": "Il Torchio Delle Osservationi Della Peste Di Napoli Nell`Anno M.DC.LVI.",
+        "LongTitle": "Diviso In tre Parti Dal Dott. Carlo Morexano Messinese Filosofo, e Medico. Dedicato All`Illustrissimi Signori Tesorieri dello Spedale grande di Santa Maria della Piet\u00e0 della Nobile, & essemplare Citt\u00e0 di Messina. I Signori D. Francesco Hozes Cavaliere Dell`Ordine Militare Della Stella, E Regio Secreto Di Detta Citt\u00e0 Fra D. Placido Ventimilia Cavaliere Gierosolimitano. E Dell`Ordine Militare della Stella.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0034",
+                "RecordID": "021-000002609",
+                "Value": "Accademia degli Erranti"
+            },
+            {
+                "AcademyId": "0075",
+                "RecordID": "021-000004303",
+                "Value": "Accademia dei Volanti"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1659",
+        "DedicationPlaceDate": "Naples 14 February 1659",
+        "Shelfmark": "1167.g.16.(7.)",
+        "Subjects": "Account of the Plague occurrred in Naples in 1656",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 53",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17444",
+                "RecordID": "022-000004305",
+                "Value": "Morexano,Carlo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17443",
+                    "RecordID": "022-000004304",
+                    "Value": "Torres,Clemente,Reverend,"
+                },
+                {
+                    "PersonId": "17446",
+                    "RecordID": "022-000004307",
+                    "Value": "Lucillo,Mutio,,"
+                },
+                {
+                    "PersonId": "17447",
+                    "RecordID": "022-000004308",
+                    "Value": "di Martino ,Gioseppe,,"
+                },
+                {
+                    "PersonId": "17448",
+                    "RecordID": "022-000004309",
+                    "Value": "Barone,Antonio,,"
+                },
+                {
+                    "PersonId": "17429",
+                    "RecordID": "022-000004286",
+                    "Value": "Tartaglione,Gregorio,,"
+                },
+                {
+                    "PersonId": "17451",
+                    "RecordID": "022-000004312",
+                    "Value": "Academico Innominato,,,"
+                }
+            ]
+        },
+        "Notes": "This book contains a manuscript signiture on the title page",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17449",
+                    "RecordID": "022-000004310",
+                    "Value": "Hozes,Francesco,Knight of the Star Order,"
+                },
+                {
+                    "PersonId": "17450",
+                    "RecordID": "022-000004311",
+                    "Value": "Ventimilia ,Placido,Knight of the Star Order,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17445",
+                "RecordID": "022-000004306",
+                "Value": "di Alecci,Sebastiano,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54532",
+            "Value": "023-000004302_54532_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "All`Autore Sonetto Del Padre Fr\u00e0 Gregorio Tartaglione lettore dell`Ordine de` Predicatori & Academico errante.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17429",
+                            "RecordID": "022-000004286",
+                            "Value": "Tartaglione,Gregorio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In lode dell`Authore Sonetto del Molto Reverendo Don Clemente Torres Accademico volante.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17443",
+                            "RecordID": "022-000004304",
+                            "Value": "Torres,Clemente,Reverend,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Mutio Lucillo Cavaliere Gerosolimitano per la salute recata \u00e0 molti in tempo del Contagio di Napoli dal`Eccell. Dot. il Sig. Carlo Morexano.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17446",
+                            "RecordID": "022-000004307",
+                            "Value": "Lucillo,Mutio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per l`Autore del Signor Gioseppe di Martino Dottore dell`una & l`altra legge",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17447",
+                            "RecordID": "022-000004308",
+                            "Value": "di Martino ,Gioseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per l`Autore sonetto del Signor Antonio Barone Dottore delle leggi.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17448",
+                            "RecordID": "022-000004309",
+                            "Value": "Barone,Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Canzone in lode dell`Autore d`un Academico innominato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17451",
+                            "RecordID": "022-000004312",
+                            "Value": "Academico Innominato,,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

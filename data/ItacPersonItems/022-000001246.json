@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15204",
+        "RecordId": "022-000001246",
+        "Surname": "Cipelli",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "DateText": "1478-1554",
+        "StartDate": "1478",
+        "EndDate": "1554",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See his biography by Elpidio Mioni, in DBI",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

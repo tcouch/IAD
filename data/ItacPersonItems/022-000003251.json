@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16544",
+        "RecordId": "022-000003251",
+        "Surname": "Chigi",
+        "Forename": "Fabio",
+        "Gender": "Male",
+        "PersonalTitle": "Pope Alexander VII",
+        "DateText": "1599-1667",
+        "StartDate": "1599",
+        "EndDate": "1667",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Chigi joined the Umoristi Academy in the 1620s with the nickname Tyrrenum - see Caterina Volpi, `Ritratti di illustri contemporanei nella collezione di Cassiano dal Pozzo`, in I segreti di un collezionista. Exhibition Catalogue, ed. F. Solinas (2001), p. 71. See his biography by Mario Rosa, in DBI.",
+        "Role": "Dedicatee|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006719",
+        "WorkId": "000798",
+        "ShortTitle": "Il Bellorofonte",
+        "LongTitle": "Drama. Da cantarsi nel Collegio Clementino nel Carnevale dell`anno 1690",
+        "ItacAcademyItem": {
+            "AcademyId": "0170",
+            "RecordID": "021-000006654",
+            "Value": "Accademia degli Stravaganti"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1690",
+        "Shelfmark": "906b2(1)",
+        "Subjects": "Opera",
+        "Language": "Italian",
+        "Pagination": "55",
+        "Marginalia": "No",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16239",
+                    "RecordID": "022-000002883",
+                    "Value": "Menattus,Stephanus Ioseph,Vicar General|Master of the Sacred Palace,? - 1695"
+                },
+                {
+                    "PersonId": "18932",
+                    "RecordID": "022-000006033",
+                    "Value": "Forlani,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "18345",
+                    "RecordID": "022-000005361",
+                    "Value": "Ferrari,Thomas Maria,Cardinal,1649 - 1716"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, Si videbitur Reverendiss. P. Sac. Apost. Pal. Mag. Stephanus Joseph Menattus Episc. Cyrenen. Vicesger. - Imprimatur, Fr. Francisus Maria Forlani Reverendiss. P. F. Thomae Mariae Ferrari Sac. ap. Pal. Mag. Soc. Ord. Praed.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18969",
+                "RecordID": "022-000006075",
+                "Value": "Komarek,Giovanni Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54865",
+            "Value": "023-000006719_54865_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003547",
+        "WorkId": "000462",
+        "ShortTitle": "Mascarata rappresentata da` Rozzi",
+        "LongTitle": "Nella venuta dell`Altezze Serenissime di Toscana a siena, l`Anno 1611 il di` 30 di Ottobre. Dove con la venuta del Sole, e dell`Aurora, s`intendono le Grandezze, e la Nobilta` dello Stato di Siena. Composta dal dilettevole della Congrega de` Rozzi. All`Illustriss(imo) signore, e padrone Osservandiss(imo) Il Sig. Conte Virgilio Malvezzi",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1615",
+        "DedicationPlaceDate": "`Di Casa` 5 June 1615",
+        "Shelfmark": "11715.a.6",
+        "Language": "Italian",
+        "Pagination": "40",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16802",
+                "RecordID": "022-000003545",
+                "Value": "Flori,Benvenuto,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16803",
+                "RecordID": "022-000003546",
+                "Value": "Oppi,Lorenzo,,"
+            }
+        },
+        "CensorsAgreement": "`Con licenza de` superiori`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5082",
+                "RecordID": "022-000000079",
+                "Value": "Malvezzi,Virgilio,Marquis,1595-1654"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16803",
+                "RecordID": "022-000003546",
+                "Value": "Oppi,Lorenzo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16804",
+                "RecordID": "022-000003548",
+                "Value": "I Florimi,,,"
+            }
+        },
+        "PrinterOrnament": "Mar.t.e.146",
+        "TitlePageImage": {
+            "ImageId": "53884",
+            "Value": "023-000003547_53884_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

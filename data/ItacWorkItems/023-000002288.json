@@ -1,0 +1,520 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002288",
+        "WorkId": "000302",
+        "ShortTitle": "Poesie nomiche di Gio. Battista Manso",
+        "LongTitle": "Marchese di Villa Signor della Citt\u00e0 di Bisaccia e di Pianca Academico Otioso. Divise in rime amorose sacre e morali",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1635",
+        "DedicationPlaceDate": "Venice 1 September 1635",
+        "Shelfmark": "1063.c.16.",
+        "Content": "Poetry, Encomiastic poetry",
+        "Subjects": "moral poems|Love poems|Sacred poems",
+        "Language": "Italian|Latin|Spanish",
+        "Illustration": "Woodcuts|Author`s portrait",
+        "Pagination": "[26]; discontinuous pagination",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15003",
+                "RecordID": "022-000001045",
+                "Value": "Manso,Giovanni Battista,Marquis of Villa,1569 -1645"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15085",
+                    "RecordID": "022-000001126",
+                    "Value": "Della Marra,Hettorre,,"
+                },
+                {
+                    "PersonId": "15312",
+                    "RecordID": "022-000001352",
+                    "Value": "Tasso,Torquato,,1544-1595"
+                },
+                {
+                    "PersonId": "15112",
+                    "RecordID": "022-000001153",
+                    "Value": "Di Costanzo,Angelo,,1507-1591"
+                },
+                {
+                    "PersonId": "15120",
+                    "RecordID": "022-000001161",
+                    "Value": "Bisaccio,Francesco,Bishop of Sulmona,"
+                },
+                {
+                    "PersonId": "15082",
+                    "RecordID": "022-000001123",
+                    "Value": "Carafa,Giulio,,"
+                },
+                {
+                    "PersonId": "15313",
+                    "RecordID": "022-000001353",
+                    "Value": "Caracciolo,Giulio,, - c.1590"
+                },
+                {
+                    "PersonId": "15110",
+                    "RecordID": "022-000001151",
+                    "Value": "Toraldo,Vincenzo,,"
+                },
+                {
+                    "PersonId": "15039",
+                    "RecordID": "022-000001081",
+                    "Value": "Noci,Carlo,,"
+                },
+                {
+                    "PersonId": "15108",
+                    "RecordID": "022-000001149",
+                    "Value": "Filangieri,Vincenzo,,"
+                },
+                {
+                    "PersonId": "15057",
+                    "RecordID": "022-000001098",
+                    "Value": "Mauro,Francesco,,"
+                },
+                {
+                    "PersonId": "15028",
+                    "RecordID": "022-000001070",
+                    "Value": "Grillo,Angelo,Abbot,"
+                },
+                {
+                    "PersonId": "15048",
+                    "RecordID": "022-000001090",
+                    "Value": "Carafa,Fabrizio,,"
+                },
+                {
+                    "PersonId": "15046",
+                    "RecordID": "022-000001088",
+                    "Value": "Loffredo,Enrico,Marquis of Santa Agata,"
+                },
+                {
+                    "PersonId": "15034",
+                    "RecordID": "022-000001076",
+                    "Value": "Biaguazzone,Antonio,,"
+                },
+                {
+                    "PersonId": "15069",
+                    "RecordID": "022-000001110",
+                    "Value": "Biffi,Gio[vanni] Ambrosio,,"
+                },
+                {
+                    "PersonId": "15036",
+                    "RecordID": "022-000001078",
+                    "Value": "Gallerati,Antonio,,"
+                },
+                {
+                    "PersonId": "5605",
+                    "RecordID": "022-000000671",
+                    "Value": "Marino,Giambattista,,1569-1625"
+                },
+                {
+                    "PersonId": "15315",
+                    "RecordID": "022-000001355",
+                    "Value": "Caria,Giulio,,"
+                },
+                {
+                    "PersonId": "15317",
+                    "RecordID": "022-000001356",
+                    "Value": "Incerto,Anonymous author,,"
+                },
+                {
+                    "PersonId": "15076",
+                    "RecordID": "022-000001117",
+                    "Value": "Soranzo,Giovanni,,"
+                },
+                {
+                    "PersonId": "15020",
+                    "RecordID": "022-000001062",
+                    "Value": "Gaetano,Filippo,Duke of Sermoneta,"
+                },
+                {
+                    "PersonId": "15068",
+                    "RecordID": "022-000001109",
+                    "Value": "Colonna,Giacomo,,"
+                },
+                {
+                    "PersonId": "15010",
+                    "RecordID": "022-000001052",
+                    "Value": "Palomba,Anello Maria,,"
+                },
+                {
+                    "PersonId": "15017",
+                    "RecordID": "022-000001059",
+                    "Value": "Carafa,Luigi,Prince of Stigliano,1567 - 1630"
+                },
+                {
+                    "PersonId": "15089",
+                    "RecordID": "022-000001130",
+                    "Value": "Macedonio,Marcello,,"
+                },
+                {
+                    "PersonId": "15043",
+                    "RecordID": "022-000001085",
+                    "Value": "Mendozza,Diego,,"
+                },
+                {
+                    "PersonId": "15072",
+                    "RecordID": "022-000001113",
+                    "Value": "Cacace,Gio[vanni] Camillo,,1578-1656"
+                },
+                {
+                    "PersonId": "15106",
+                    "RecordID": "022-000001147",
+                    "Value": "Seca,Valerio,Bishop of Alife,"
+                },
+                {
+                    "PersonId": "15075",
+                    "RecordID": "022-000001116",
+                    "Value": "Bacchetta,Giovanni Pietro,,"
+                },
+                {
+                    "PersonId": "15100",
+                    "RecordID": "022-000001141",
+                    "Value": "Del Pozzo,Tiberio,,"
+                },
+                {
+                    "PersonId": "15096",
+                    "RecordID": "022-000001137",
+                    "Value": "Moccia,Scipione,,"
+                },
+                {
+                    "PersonId": "15115",
+                    "RecordID": "022-000001156",
+                    "Value": "Caracciolo,Annibale,,"
+                },
+                {
+                    "PersonId": "15066",
+                    "RecordID": "022-000001107",
+                    "Value": "Grossi,Gennaro,,"
+                },
+                {
+                    "PersonId": "15042",
+                    "RecordID": "022-000001084",
+                    "Value": "Pappacoda,Cesare,Marquis of Pisciotta,"
+                },
+                {
+                    "PersonId": "15098",
+                    "RecordID": "022-000001139",
+                    "Value": "Gonzaga,Silvio,Duke of Mantua,"
+                },
+                {
+                    "PersonId": "15092",
+                    "RecordID": "022-000001133",
+                    "Value": "Sbarra,Ottavio,,"
+                },
+                {
+                    "PersonId": "15041",
+                    "RecordID": "022-000001083",
+                    "Value": "Burro,Cesare,,"
+                },
+                {
+                    "PersonId": "15097",
+                    "RecordID": "022-000001138",
+                    "Value": "Sambiasi,Scipione,,"
+                },
+                {
+                    "PersonId": "15074",
+                    "RecordID": "022-000001115",
+                    "Value": "Ladro Capece,Giovanni,,"
+                },
+                {
+                    "PersonId": "15102",
+                    "RecordID": "022-000001143",
+                    "Value": "Ciamboli,Tomaso,,"
+                },
+                {
+                    "PersonId": "15094",
+                    "RecordID": "022-000001135",
+                    "Value": "Pasqualoni Aquila,Salvatore,,"
+                },
+                {
+                    "PersonId": "15080",
+                    "RecordID": "022-000001121",
+                    "Value": "Caracciolo,Giulio,Duke of Celenza,"
+                },
+                {
+                    "PersonId": "15037",
+                    "RecordID": "022-000001079",
+                    "Value": "Spina,E. Arcangelo,,"
+                },
+                {
+                    "PersonId": "15101",
+                    "RecordID": "022-000001142",
+                    "Value": "Carafa,Tommaso,,"
+                },
+                {
+                    "PersonId": "15107",
+                    "RecordID": "022-000001148",
+                    "Value": "Carafa,Vincenzo,,"
+                },
+                {
+                    "PersonId": "15044",
+                    "RecordID": "022-000001086",
+                    "Value": "Cito,Donato Antonio,,"
+                },
+                {
+                    "PersonId": "15119",
+                    "RecordID": "022-000001160",
+                    "Value": "Santamaria,Andrea,,"
+                },
+                {
+                    "PersonId": "15051",
+                    "RecordID": "022-000001093",
+                    "Value": "Rovito,Ferrante,,"
+                },
+                {
+                    "PersonId": "15050",
+                    "RecordID": "022-000001092",
+                    "Value": "Di Donno,Ferdinando,,"
+                },
+                {
+                    "PersonId": "15055",
+                    "RecordID": "022-000001096",
+                    "Value": "Falese,Francesco,,"
+                },
+                {
+                    "PersonId": "15056",
+                    "RecordID": "022-000001097",
+                    "Value": "Carafa,Francesco Maria,Duke of Nocera,"
+                },
+                {
+                    "PersonId": "15086",
+                    "RecordID": "022-000001127",
+                    "Value": "Pignatelli,Ettore,,"
+                },
+                {
+                    "PersonId": "15077",
+                    "RecordID": "022-000001118",
+                    "Value": "Tassis,Giovanni,Count of Villamediana,"
+                },
+                {
+                    "PersonId": "15049",
+                    "RecordID": "022-000001091",
+                    "Value": "Marotta,Fabritio,,"
+                },
+                {
+                    "PersonId": "15078",
+                    "RecordID": "022-000001119",
+                    "Value": "Montenegro,Girolamo,Marquis of Marigliano,"
+                },
+                {
+                    "PersonId": "15001",
+                    "RecordID": "022-000001043",
+                    "Value": "Composto,Giovan Battista,,"
+                },
+                {
+                    "PersonId": "15103",
+                    "RecordID": "022-000001144",
+                    "Value": "Pipini,Tomaso,,"
+                },
+                {
+                    "PersonId": "15104",
+                    "RecordID": "022-000001145",
+                    "Value": "Stigliani,Tommaso,,1573 - 1651"
+                },
+                {
+                    "PersonId": "15053",
+                    "RecordID": "022-000001094",
+                    "Value": "Vencia,Filippo,,"
+                },
+                {
+                    "PersonId": "15062",
+                    "RecordID": "022-000001103",
+                    "Value": "Vivo,Francesco,,"
+                },
+                {
+                    "PersonId": "15093",
+                    "RecordID": "022-000001134",
+                    "Value": "Filippi,Pietro,Bishop of Boiano,"
+                },
+                {
+                    "PersonId": "15040",
+                    "RecordID": "022-000001082",
+                    "Value": "Loffredo,Cecco,Marquis of Trevico,"
+                },
+                {
+                    "PersonId": "15002",
+                    "RecordID": "022-000001044",
+                    "Value": "Basile,Giovan Battista,Count of Torone,1575-1632"
+                },
+                {
+                    "PersonId": "15079",
+                    "RecordID": "022-000001120",
+                    "Value": "Stella,Girolamo,,"
+                },
+                {
+                    "PersonId": "15063",
+                    "RecordID": "022-000001104",
+                    "Value": "Andrantonelli,Fulvio,,"
+                },
+                {
+                    "PersonId": "15117",
+                    "RecordID": "022-000001158",
+                    "Value": "Mega Acerenza,Francesco,,"
+                },
+                {
+                    "PersonId": "15030",
+                    "RecordID": "022-000001072",
+                    "Value": "Scaramuccia,Angelita,,"
+                },
+                {
+                    "PersonId": "15116",
+                    "RecordID": "022-000001157",
+                    "Value": "Sarriano,Anello,,"
+                },
+                {
+                    "PersonId": "15045",
+                    "RecordID": "022-000001087",
+                    "Value": "Faciuti,Donato,,"
+                },
+                {
+                    "PersonId": "15095",
+                    "RecordID": "022-000001136",
+                    "Value": "Errico,Scipione,,1592 - 1670"
+                },
+                {
+                    "PersonId": "15090",
+                    "RecordID": "022-000001131",
+                    "Value": "Sarrocchi,Margharita,,"
+                },
+                {
+                    "PersonId": "15121",
+                    "RecordID": "022-000001162",
+                    "Value": "Caroli,Francesco,,"
+                },
+                {
+                    "PersonId": "15070",
+                    "RecordID": "022-000001111",
+                    "Value": "Comentati,Gio[vanni] Battista,,"
+                },
+                {
+                    "PersonId": "15088",
+                    "RecordID": "022-000001129",
+                    "Value": "Mazzucci,Lelio,,"
+                },
+                {
+                    "PersonId": "15087",
+                    "RecordID": "022-000001128",
+                    "Value": "D`Andrea,Honofrio,,1608 - 1640s?"
+                },
+                {
+                    "PersonId": "5149",
+                    "RecordID": "022-000000145",
+                    "Value": "Maia Materdona,Giovanni Francesco,,1590 - 1650"
+                },
+                {
+                    "PersonId": "15018",
+                    "RecordID": "022-000001060",
+                    "Value": "Comite,Oratio,,"
+                },
+                {
+                    "PersonId": "15065",
+                    "RecordID": "022-000001106",
+                    "Value": "Pinelli,Galeazzo Francesco,Duke of Acerenza,"
+                },
+                {
+                    "PersonId": "15067",
+                    "RecordID": "022-000001108",
+                    "Value": "Arcamone,Giacomo,,"
+                },
+                {
+                    "PersonId": "15084",
+                    "RecordID": "022-000001125",
+                    "Value": "Imparato,Giuseppe,,"
+                },
+                {
+                    "PersonId": "15091",
+                    "RecordID": "022-000001132",
+                    "Value": "Orsi,Michele,,"
+                },
+                {
+                    "PersonId": "15314",
+                    "RecordID": "022-000001354",
+                    "Value": "Vittorelli,Andrea,,"
+                },
+                {
+                    "PersonId": "15109",
+                    "RecordID": "022-000001150"
+                },
+                {
+                    "PersonId": "15033",
+                    "RecordID": "022-000001075",
+                    "Value": "Basso,Antonio,,1605-1648"
+                },
+                {
+                    "PersonId": "15064",
+                    "RecordID": "022-000001105",
+                    "Value": "Zinani,Gabriele,,1557 - 1635"
+                },
+                {
+                    "PersonId": "15105",
+                    "RecordID": "022-000001146",
+                    "Value": "Accetto,Torquato,,1600 - ?"
+                },
+                {
+                    "PersonId": "15035",
+                    "RecordID": "022-000001077",
+                    "Value": "Bruni,Antonio,,1593-1635"
+                },
+                {
+                    "PersonId": "15689",
+                    "RecordID": "022-000002217",
+                    "Value": "Pignatelli,Ascanio,Duke of Bisaccia,1533 - 1602"
+                },
+                {
+                    "PersonId": "16878",
+                    "RecordID": "022-000003646",
+                    "Value": "Gallaccini,Teofilo,,1564 - 1641"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15134",
+                "RecordID": "022-000001176",
+                "Value": "Baba,Francesco,,"
+            }
+        },
+        "Notes": "Contributors refer to the Oziosi Academy and its members",
+        "CensorsAgreement": "Con licenza de` Superiori et Privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15122",
+                "RecordID": "022-000001163",
+                "Value": "Michiele,Pietro,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15135",
+                "RecordID": "022-000001177",
+                "Value": "Berardelli,Alessandro,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15134",
+                "RecordID": "022-000001176",
+                "Value": "Baba,Francesco,,"
+            }
+        },
+        "PrinterOrnament": "Z130 | MAR.TE. 536",
+        "TitlePageImage": {
+            "ImageId": "53942",
+            "Value": "023-000002288_53942_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

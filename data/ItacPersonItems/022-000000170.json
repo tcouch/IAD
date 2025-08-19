@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5175",
+        "RecordId": "022-000000170",
+        "Surname": "Rossetti",
+        "Forename": "Carlo",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1614/5-1681",
+        "StartDate": "1614/5",
+        "EndDate": "1681",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "The portait is taken from Galeazzo Gualdo Priorato, Scena d`alcuni huomini illustri d`Italia, etc. [First series.] (Augusta, 1658).",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

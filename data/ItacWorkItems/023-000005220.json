@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005220",
+        "WorkId": "000640",
+        "ShortTitle": "Rime di messer Bernardo Tasso",
+        "LongTitle": "Libro quinto",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1560",
+        "Shelfmark": "11426aa46",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "120",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5625",
+                "RecordID": "022-000000695",
+                "Value": "Tasso,Bernardo,,1493-1569"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5625",
+                "RecordID": "022-000000695",
+                "Value": "Tasso,Bernardo,,1493-1569"
+            }
+        },
+        "Notes": "The sonnet praises the Academia veneta for its cultural programme",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

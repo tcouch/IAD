@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19666",
+        "RecordId": "022-000007025",
+        "Surname": "Menzini",
+        "Forename": "Benedetto",
+        "DateText": "1646 - 1704",
+        "StartDate": "1646",
+        "EndDate": "1704",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Joined the Accademia di Cristina di Svezia in 1679. See C. A. Girotto, `Menzini, Benedetto`, in DBI. Also member of Apatisti and Crusca.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18161",
+        "RecordId": "022-000005129",
+        "Surname": "Dal Pozzo",
+        "Forename": "Cassiano",
+        "Gender": "Male",
+        "DateText": "1588-1657",
+        "StartDate": "1588",
+        "EndDate": "1657",
+        "Nationality": {
+            "NationalityId": "206",
+            "Value": "of Turin"
+        },
+        "Notes": "Admitted among the Lincei in 1621, see Gabrieli, Contributi... (1989)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

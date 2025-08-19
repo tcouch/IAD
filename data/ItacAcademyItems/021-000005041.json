@@ -1,0 +1,277 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0107",
+        "RecordId": "021-000005041",
+        "Name": "Virt\u00f9 (Accademia della)",
+        "AlternativeName": "Academia dei virtuosi|Academia vitruviana|Accademia della Poesia Nuova|Liceo",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "ca.1532",
+        "EndDate": "ca.1545",
+        "DateText": "ca.1532-ca.1545",
+        "Notes": "On the different names of the Academy, see Sbaragli (1939). Names of some members of the Academy are in Franco Pignatti, `Molza`, in DBI.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "7551",
+                "RecordId": "022-000001455",
+                "Name": "Tolomei,Claudio,Bishop,1492-1555/6",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18089",
+                "RecordId": "022-000005042",
+                "Name": "Cervini,Marcello,Pope Marcellus II,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18042",
+                "RecordId": "022-000004982",
+                "Name": "Contile,Luca,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17497",
+                "RecordId": "022-000004370",
+                "Name": "Caro,Annibale,,1507-1566",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18091",
+                "RecordId": "022-000005044",
+                "Name": "Flaminio,Marcantonio,,1498 - 1550",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18093",
+                "RecordId": "022-000005046",
+                "Name": "Maffei,Bernardino,,1514 - 1553",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18092",
+                "RecordId": "022-000005045",
+                "Name": "Philandrier,Guillaume,,1505 -1565",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18094",
+                "RecordId": "022-000005047",
+                "Name": "Landi,Giulio,,1498 - 1579",
+                "Nickname": "Sere Stentato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18095",
+                "RecordId": "022-000005049",
+                "Name": "Cincio,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18098",
+                "RecordId": "022-000005052",
+                "Name": "Leoni,Giovan Francesco,,ca.1505 - 1580",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17990",
+                "RecordId": "022-000004924",
+                "Name": "de` Medici,Ippolito,Cardinal,1511 - 1535",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18090",
+                "RecordId": "022-000005043",
+                "Name": "Molza,Francesco Maria,,1489 - 1544",
+                "Nickname": "Padre Siceo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18123",
+                "RecordId": "022-000005082",
+                "Name": "Martirano,Coriolano,Bishop,1503 - 1557?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18104",
+                "RecordId": "022-000005062",
+                "Name": "Gualtieri,Pietro Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18131",
+                "RecordId": "022-000005094",
+                "Name": "Porrino,Gandolfo,,? - 1552",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18130",
+                "RecordId": "022-000005092",
+                "Name": "Franzesi,Mattio,,1510s - 1550/54",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18127",
+                "RecordId": "022-000005087",
+                "Name": "Colonna,Francesco,Archbishop of Taranto,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18133",
+                "RecordId": "022-000005096",
+                "Name": "Segni,F.,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18132",
+                "RecordId": "022-000005095",
+                "Name": "Longhena,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19120",
+                "RecordId": "022-000006255",
+                "Name": "Garimberto,Girolamo,,1506 - 1575",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18097",
+                "RecordId": "022-000005051",
+                "Name": "Lucenio,Ludovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16022",
+                "RecordId": "022-000002591",
+                "Name": "Manzuoli,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19121",
+                "RecordId": "022-000006256",
+                "Name": "Maffei,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19122",
+                "RecordId": "022-000006257",
+                "Name": "Barozzi,Jacopo,,1507 - 1573",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18128",
+                "RecordId": "022-000005090",
+                "Name": "Bini,Giovan Francesco,,1480s - 1556",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7555",
+                "RecordId": "022-000001459",
+                "Name": "Grimaldi,Giovambattista,,c. 1524-c. 1612",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20764",
+                "RecordId": "022-000008590",
+                "Name": "Manilio,Marco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18119",
+                "RecordId": "022-000005077",
+                "Name": "Spica,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20763",
+                "RecordId": "022-000008589",
+                "Name": "Monterchi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20762",
+                "RecordId": "022-000008588",
+                "Name": "Poggio,Giulio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20767",
+                "RecordId": "022-000008594",
+                "Name": "Martelli,Ludovico,,1500-1527/28",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20768",
+                "RecordId": "022-000008595",
+                "Name": "Gaddi,Giovanni,,1493-1542",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

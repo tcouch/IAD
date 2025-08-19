@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9038",
+        "RecordId": "022-000001628",
+        "Surname": "Selvatico",
+        "Forename": "Benedetto",
+        "AlternativeName": {
+            "AlternativeSurname": "Salvatico"
+        },
+        "PersonalTitle": "Cavaliere",
+        "DateText": "1575 - 1658",
+        "StartDate": "1575",
+        "EndDate": "1658",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Professor of Medicine at the Studio in Padua. Joined the Ricovrati in 1603. Principe of the Ricoverati in 1634 and 1645.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

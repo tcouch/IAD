@@ -1,0 +1,31 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18520",
+        "RecordId": "022-000005554",
+        "Surname": "Piccini",
+        "Forename": "Giacomo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Jacopo"
+            },
+            {
+                "AlternativeSurname": "P.",
+                "AlternativeForename": "J."
+            },
+            {
+                "AlternativeSurname": "Pecini",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1619?-1660",
+        "StartDate": "1619?",
+        "EndDate": "1660",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

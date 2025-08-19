@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15546",
+        "RecordId": "022-000002072",
+        "Surname": "Corelli",
+        "Forename": "Arcangelo",
+        "Gender": "Male",
+        "DateText": "1653-1713",
+        "StartDate": "1653",
+        "EndDate": "1713",
+        "Nationality": {
+            "NationalityId": "320",
+            "Value": "of Fusignano (Lugo)"
+        },
+        "Notes": "Joined the Accademia Filarmonica in 1670. See his biography by Piero Buscaroli, in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

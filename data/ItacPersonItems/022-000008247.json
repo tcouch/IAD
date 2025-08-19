@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20508",
+        "RecordId": "022-000008247",
+        "Surname": "Malaguzzi Valeri",
+        "Forename": "Orazio",
+        "AlternativeName": {
+            "AlternativeSurname": "Malegucci"
+        },
+        "PersonalTitle": "Count",
+        "DateText": "1531-1583",
+        "StartDate": "1531",
+        "EndDate": "1583",
+        "Nationality": {
+            "NationalityId": "78",
+            "Value": "of Reggio Emilia"
+        },
+        "Notes": "Ambassador to Philip II for the Estense court in 1576 and 1580, and later `cameriere segreto` of Pope Pius V.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

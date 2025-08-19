@@ -1,0 +1,116 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004945",
+        "WorkId": "000609",
+        "ShortTitle": "Iulii Caesaris Baricelli A S. Marco Doctoris Medici & Philosophi de Hydronosa Natura sive sudore humani corporis.",
+        "LongTitle": "Libri Quatuor. In quibus non solum de origine, Differentijs 7 Praesagio: verum atque de Usu Apparatu, et Curatione sudorum differitur. Opus varia lectione refertum, & cum ex Veterum, Neotericorumq; Medicorum decretis: tum ex longa, & accurata observatione nova methodo elucescit. Cum duplici Indice, uno quidem capitum, altero vero memorabilium, quae in opere continentur. Ad Illustrissimum dominum D. Hieronymum Cabalinium.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "San Marco 1 May 1614",
+        "Shelfmark": "549.e.9.",
+        "Subjects": "Science|Medicine",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 428",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15870",
+                "RecordID": "022-000002430",
+                "Value": "Baricelli,Giulio Cesare,,1594 - ?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15006",
+                    "RecordID": "022-000001048",
+                    "Value": "Zizzae,Prosper Antonius,,"
+                },
+                {
+                    "PersonId": "18009",
+                    "RecordID": "022-000004947",
+                    "Value": "Ragucius,Antonius,Abbot,"
+                },
+                {
+                    "PersonId": "15005",
+                    "RecordID": "022-000001047",
+                    "Value": "De Petris,Franciscum,,"
+                },
+                {
+                    "PersonId": "18010",
+                    "RecordID": "022-000004948",
+                    "Value": "Thomasius,Hieronymus,,"
+                },
+                {
+                    "PersonId": "18011",
+                    "RecordID": "022-000004949",
+                    "Value": "Rossus,Iulius,,"
+                },
+                {
+                    "PersonId": "18012",
+                    "RecordID": "022-000004950",
+                    "Value": "De Bellis,Ioannes Sylvius,,"
+                }
+            ]
+        },
+        "Notes": "This texts contains verses written by Oziosi academicians.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15224",
+                    "RecordID": "022-000001266",
+                    "Value": "Longus,Ioannes,Canon|Archbishop of Naples,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. \nPetrus Antonius Ghibertus Vic. Gen.\nioannes Longus Canonicus, & Curiae Archiepiscopalis Neap. Theologus deput. vidit, & registr. fol. 16.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18008",
+                "RecordID": "022-000004946",
+                "Value": "Cabanilio,Hieronymo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15137",
+                "RecordID": "022-000001179",
+                "Value": "Scoriggio,Lazzaro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54537",
+            "Value": "023-000004945_54537_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Iulio Caesari Baricello Philosopho eminentissimo auctori, prosperi Antonii Zizzae Academici Otiosi Neap. Elegia.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15006",
+                        "RecordID": "022-000001048",
+                        "Value": "Zizzae,Prosper Antonius,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

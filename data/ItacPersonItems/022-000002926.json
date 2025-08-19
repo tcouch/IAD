@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16274",
+        "RecordId": "022-000002926",
+        "Surname": "Bonetti",
+        "Forename": "Luca",
+        "Gender": "Male",
+        "DateText": "fl. 1553-1612",
+        "StartDate": "fl. 1553",
+        "EndDate": "1612",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Printer|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

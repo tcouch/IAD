@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0082",
+        "RecordId": "021-000004450",
+        "Name": "Scomposti (Accademia degli)",
+        "City": {
+            "CityId": "77",
+            "CityItalianName": "Fano"
+        },
+        "Motto": "Compositi ad seposita",
+        "StartDate": "1641",
+        "EndDate": "?",
+        "DateText": "1641-?",
+        "ItacPersonItem": {
+            "PersonId": "5394",
+            "RecordId": "022-000000403",
+            "Name": "Bernardoni,Pietro Antonio,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

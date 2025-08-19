@@ -1,0 +1,152 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002212",
+        "WorkId": "000287",
+        "ShortTitle": "Rime degl`illustrissimi Sig. Academici Eterei",
+        "LongTitle": "All`Illustriss. et Reverendiss. Sig. il Signor Cardinale Scipione Gonzaga. Con privilegio. \nAd instanza d`Alfonso Caraffa",
+        "ItacAcademyItem": {
+            "AcademyId": "0025",
+            "RecordID": "021-000002211",
+            "Value": "Accademia degli Eterei"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1588",
+        "DedicationPlaceDate": "Ferrara, 20 February 1588",
+        "Shelfmark": "1481.ddd.1|240.f.33",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "pp. 148; plus 21 unnumbered",
+        "Marginalia": "No",
+        "Edition": "2nd",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15688",
+                    "RecordID": "022-000002216",
+                    "Value": "Bonagente,Annibale,,"
+                },
+                {
+                    "PersonId": "15689",
+                    "RecordID": "022-000002217",
+                    "Value": "Pignatelli,Ascanio,Duke of Bisaccia,1533 - 1602"
+                },
+                {
+                    "PersonId": "5146",
+                    "RecordID": "022-000000142",
+                    "Value": "Guarini,Battista,,1538 - 1612"
+                },
+                {
+                    "PersonId": "9012",
+                    "RecordID": "022-000001580",
+                    "Value": "Scaino,Ioachin,,1535 - 1608"
+                },
+                {
+                    "PersonId": "15691",
+                    "RecordID": "022-000002219",
+                    "Value": "Pusterla,Giovanni Francesco,,fl. 1560"
+                },
+                {
+                    "PersonId": "15693",
+                    "RecordID": "022-000002221",
+                    "Value": "Gabrielli,Pietro,,"
+                },
+                {
+                    "PersonId": "15694",
+                    "RecordID": "022-000002222",
+                    "Value": "Arlotti,Ridolfo,,1546 - 1613"
+                },
+                {
+                    "PersonId": "5139",
+                    "RecordID": "022-000000135",
+                    "Value": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593"
+                },
+                {
+                    "PersonId": "15695",
+                    "RecordID": "022-000002223",
+                    "Value": "Santini,Stefano,, - 1564"
+                },
+                {
+                    "PersonId": "15312",
+                    "RecordID": "022-000001352",
+                    "Value": "Tasso,Torquato,,1544-1595"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15685",
+                "RecordID": "022-000002213",
+                "Value": "Caraffa,Alfonso,,"
+            }
+        },
+        "Notes": "Publisher`s typographic ornament on the titlepage (A13 - V56 - Z1063). Printer`s ornament in the colophon.\nDedication to Margherita di Valois was in the first edition.",
+        "CensorsAgreement": "Con licenza de` superiori.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5139",
+                    "RecordID": "022-000000135",
+                    "Value": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593"
+                },
+                {
+                    "PersonId": "15687",
+                    "RecordID": "022-000002215",
+                    "Value": "Valois,Margherita,Duchess of Savoy,1523 - 1574"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15685",
+                "RecordID": "022-000002213",
+                "Value": "Caraffa,Alfonso,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "PrinterOrnament": "U435",
+        "TitlePageImage": {
+            "ImageId": "53111",
+            "Value": "023-000002212_53111_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53112",
+            "Value": "023-000002212_53112_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sonnet: Alla Serenissima Madama Margherita di Valois Duchessa di Savoia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15686",
+                            "RecordID": "022-000002214",
+                            "Value": "Accademici Eterei,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Argomenti overo dichiarationi sopra alcuni de i componimenti dell`opera",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

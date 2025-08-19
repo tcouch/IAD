@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20160",
+        "RecordId": "022-000007680",
+        "Surname": "Fabri",
+        "Forename": "Achille",
+        "DateText": "1654-1711",
+        "StartDate": "1654",
+        "EndDate": "1711",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Joined the Indivisi in 1697, and hosted the meetings in his house. See his biography by F. Mengoli, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

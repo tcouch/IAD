@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000427",
+        "WorkId": "00039",
+        "ShortTitle": "Mascherata di Pazzi",
+        "LongTitle": "Incanto d`Umbria Maga per l`uccisione d`Arione suo amante. Del Costante academico Ravvivato",
+        "ItacAcademyItem": {
+            "AcademyId": "0006",
+            "RecordID": "021-000000002",
+            "Value": "Accademia dei Riaccesi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1614",
+        "Shelfmark": "11429.ee.7",
+        "Subjects": "Theatre|Mythology",
+        "Language": "Italian",
+        "Pagination": "16",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5370",
+                "RecordID": "022-000000376",
+                "Value": "Branchi,Silvestro,,c. 1550-c. 1650"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "5401",
+                "RecordID": "022-000000222",
+                "Value": "Baldassinus,Marcellus,,"
+            }
+        },
+        "CensorsAgreement": "Don Marcellus Baldassinus pro illustriss. et reverendissimo Archiepisc. Bonon. Imprimatur Inquisit. Bonon.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5253",
+                "RecordID": "022-000000244",
+                "Value": "Cochi,Bartolomeo,,\u20201621"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52666",
+            "Value": "023-000000427_52666_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

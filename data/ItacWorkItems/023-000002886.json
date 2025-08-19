@@ -1,0 +1,64 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002886",
+        "WorkId": "000377",
+        "ShortTitle": "Delle Poesie Di Federigo Meninni, Le Canzoni.",
+        "LongTitle": "All`Illustriss. ed Eccellentiss. Signore, Il Signor D. Giosia III Acquaviva D`Aragona, Duca D`Adri XIV, Prencipe Di Teramo, d`Acquaviva, e di Bitonto, Conte di Giulia-nova, e di Gioia.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0046",
+                "RecordID": "021-000002785",
+                "Value": "Academia de gli Agitati"
+            },
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Academia degli Oziosi"
+            }
+        ],
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1677",
+        "Shelfmark": "11427.de.5.",
+        "Subjects": "Poetry|Encomiastic poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Mythological figures|Apollo",
+        "Pagination": "pp. 247",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16168",
+                "RecordID": "022-000002788",
+                "Value": "Meninni,Federigo,,"
+            }
+        },
+        "Notes": "In the dedication to Giosia III Acquaviva D`Aragona, the author mentions  the dedicatee`s affiliation to the Oziosi Academy.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16183",
+                "RecordID": "022-000002805",
+                "Value": "Pisani,Baldassar,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16175",
+                "RecordID": "022-000002796",
+                "Value": "Piccini,Isabella,Nun,1646 - 1732"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5308",
+                "RecordID": "022-000000359",
+                "Value": "Pezzana,Nicol\u00f2,,c. 1620-c. 1750"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

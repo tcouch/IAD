@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19176",
+        "RecordId": "022-000006325",
+        "Surname": "Campello",
+        "Forename": "Adone",
+        "Gender": "Male",
+        "DateText": "pre1537-post1604",
+        "StartDate": "pre1537",
+        "EndDate": "post1604",
+        "Nationality": {
+            "NationalityId": "294",
+            "Value": "of Spoleto"
+        },
+        "Notes": "Campello was invited to be a corresponding member of the Lincei in 1604",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

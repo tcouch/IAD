@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19366",
+        "RecordId": "022-000006570",
+        "Surname": "Fontana",
+        "Forename": "Lavinia",
+        "Gender": "Female",
+        "DateText": "1552-1614",
+        "StartDate": "1552",
+        "EndDate": "1614",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Painter. Possibly a member of San Luca Academy, according to Cox, Prodigious Muse, 2011",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0500",
+        "RecordId": "021-000008032",
+        "Name": "Applicati (Accademia degli)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "EmblemDescription": "Black eagle in white field",
+        "Motto": "Sub umbra alarum tuarum quiesco",
+        "StartDate": "1680",
+        "EndDate": "?",
+        "DateText": "1680-?",
+        "Notes": "Publications related to the history of the Applicati Academy, but not in British Library collections, include: \nCimalba, Lotario, La verit\u00e0 mentita per amore, opera scenica di Lotario Cimalba d`Urbino, donata \u00e0 gl`Accademici Applicati di Ferrara. Da medesimi dedicata all`illustrissimo Sig. il Sig. marchese Onofrio Bevilacqua marchese di Machastorno (In Ferrara: per l`Erede del Giglio, 1682). \nAvailable online: http://www.urfm.braidense.it/rd/01324.pdf. I could not verify Maylender`s information that there is another book related to this Academy as reported by Baruffaldi, Notizie istoriche delle accademie ferraresi (1787) - Il principe giardiniero (Ferrara, Pomatelli, 1687)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9769",
+                "RecordId": "022-000000619",
+                "Name": "Bevilacqua,Onofrio,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20466",
+                "RecordId": "022-000008196",
+                "Name": "Vincenzi,Vincenzo,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

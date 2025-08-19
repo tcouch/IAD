@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18492",
+        "RecordId": "022-000005517",
+        "Surname": "Basilico",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Basilico",
+                "AlternativeForename": "Hieronimus"
+            },
+            {
+                "AlternativeSurname": "Basilico",
+                "AlternativeForename": "Gerolamo"
+            }
+        ],
+        "DateText": "?-1670s",
+        "StartDate": "?",
+        "EndDate": "1670s",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 273 - 274 (British Library Shelfmark: 610.m.10.)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

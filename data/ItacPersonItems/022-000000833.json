@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7100",
+        "RecordId": "022-000000833",
+        "Surname": "Mora",
+        "Forename": "Domenico",
+        "DateText": "1536 - ca.1600",
+        "StartDate": "1536",
+        "EndDate": "ca.1600",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "On Mora, Gianluigi Betti, Scrittori politici bolognesi (Genua, 2000); Paul Gehl `Military courtesy in Sixteenth-Century Lithuania: Il cavaliere of Domenico Mora` Archivum Lithuanicum 3 (2001) pp. 55-76",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

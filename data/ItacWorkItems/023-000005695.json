@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005695",
+        "WorkId": "000690",
+        "ShortTitle": "La Bietolata",
+        "LongTitle": "Dialogo Dell`Attizzato Accademico Addormentato, Racceso, E della Fucina. Intorno alla risposta alli quesiti di Benedetto Maghetti Fatta da Donno Pietro Emmanuele",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "56",
+            "PublicationPlaceItalianName": "Macerata",
+            "PublicationPlaceEnglishName": "Macerata",
+            "PublicationPlaceLatinName": "Maceratensis"
+        },
+        "PublicationYear": "1647",
+        "Shelfmark": "1609/323",
+        "Subjects": "Mathematics|Science",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 198",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18586",
+                "RecordID": "022-000005634",
+                "Value": "Spinola,Daniele,,"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` Superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18638",
+                "RecordID": "022-000005694",
+                "Value": "Salvi,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54628",
+            "Value": "023-000005695_54628_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

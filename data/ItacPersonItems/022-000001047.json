@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15005",
+        "RecordId": "022-000001047",
+        "Surname": "De Pietri",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "De Petris",
+            "AlternativeForename": "Franciscum"
+        },
+        "DateText": "1575-1645?",
+        "StartDate": "1575",
+        "EndDate": "1645?",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Role": "Author|Censor|Contributor|Dedicatee|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

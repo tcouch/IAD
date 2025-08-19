@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004236",
+        "WorkId": "000541",
+        "ShortTitle": "Delle Virt\u00f9 Occulte Delle Vipere Per le 28. mansioni delli segni del Zodiaco.",
+        "LongTitle": "Con Le Tavole Astronomiche Per Sapere \u00e0 che hora se leva il Sole, & che tempo sia mezo giorno.\nDi Quanti Minuti Sia Un`Hora Tanto nelli Giorni Eguali, quanto che nell`ineguali. & che sar\u00e0 lo Pianeto predominante cos\u00ec nel giorno, come nella notte. Con Le Tavole Perpetue In Che Segno, Gradi, & Minuti se ritrova la Luna, & in che tempi s\u00e0 aspetti con lo Sole. Divisa in due libri Di Filippo Finella.",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1634",
+        "DedicationPlaceDate": "Naples 28 October 1634",
+        "Shelfmark": "718.i.14.",
+        "Subjects": "Astrological Medicine|Medicine",
+        "Language": "Italian|Latin",
+        "Illustration": "A plate on the title page|Armorial bearing",
+        "Pagination": "pp. 30",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,1584 - ?"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17396",
+                "RecordID": "022-000004237",
+                "Value": "Gonzaga,Scipione,Prince,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16933",
+                "RecordID": "022-000003717",
+                "Value": "Longo,Egidio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53950",
+            "Value": "023-000004236_53950_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53951",
+            "Value": "023-000004236_53951_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

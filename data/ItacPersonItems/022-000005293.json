@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18289",
+        "RecordId": "022-000005293",
+        "Surname": "Grignani",
+        "Forename": "Ludovico",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Grignano"
+        },
+        "DateText": "1586-1651",
+        "StartDate": "1586",
+        "EndDate": "1651",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Grignani was born into a Sicilian family recently moved to Rome. He specialised in the printing of local authors, popular literature, theatre, collections of poems. He also figures among the most famous printers of Relazioni, and Avvisi. (See Casetti Brach and Di Cesare, in DBI)",
+        "Role": "Printer|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

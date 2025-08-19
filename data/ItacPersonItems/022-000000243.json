@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5252",
+        "RecordId": "022-000000243",
+        "Surname": "Ciotti",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "DateText": "ca.1564-ca.1635",
+        "StartDate": "ca.1564",
+        "EndDate": "ca.1635",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Printer of Accademia Veneziana Seconda. See his biography by Massimo Firpo in DBI.",
+        "Role": "Printer|Editor",
+        "TypographicReference": "Mar.Te Id n. 804",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

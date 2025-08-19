@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15383",
+        "RecordId": "022-000001877",
+        "Surname": "Felina",
+        "Forename": "Clemente Maria",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Felini",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Vicar General",
+        "DateText": "?-1699",
+        "StartDate": "?",
+        "EndDate": "1699",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Felini belonged to the Carmelitan order. Dates in Fantuzzi, Notizie degli scrittori bolognesi (1783), ad vocem",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

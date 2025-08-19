@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17567",
+        "RecordId": "022-000004456",
+        "Surname": "Orsi",
+        "Forename": "Gian Gioseffo",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Gian Giuseppe"
+            },
+            {
+                "AlternativeForename": "Giuseppe"
+            },
+            {
+                "AlternativeForename": "Giovanni Giuseppe"
+            }
+        ],
+        "DateText": "1652 - 1733",
+        "StartDate": "1652",
+        "EndDate": "1733",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Joined the Accesi in 1691",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

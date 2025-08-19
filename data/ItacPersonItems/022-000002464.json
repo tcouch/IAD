@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15903",
+        "RecordId": "022-000002464",
+        "Surname": "de Lazara",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Zuane"
+        },
+        "PersonalTitle": "Count|Cavaliere di Santo Stefano",
+        "DateText": "1621-1690",
+        "StartDate": "1621",
+        "EndDate": "1690",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1645",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

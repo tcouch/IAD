@@ -1,0 +1,26 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16599",
+        "RecordId": "022-000003317",
+        "Surname": "Saraceni",
+        "Forename": "Giulio",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Sarasin",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Sarafin",
+                "AlternativeForename": null
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "74",
+            "Value": "of Vicenza"
+        },
+        "Notes": "Joined the Ricovrati in 1684. He celbrated the qualities of the Saint protector of the academy, St. Francis of Sales.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

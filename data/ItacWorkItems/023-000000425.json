@@ -1,0 +1,83 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000425",
+        "WorkId": "00037",
+        "ShortTitle": "La tavola Rotonda",
+        "LongTitle": "Cena dell`Illustrissimo signor Filippo Guastavillani. Allo stesso signore lor protettore gli Academici Riaccesi",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0006",
+                "RecordID": "021-000000002",
+                "Value": "Accademia dei Riaccesi"
+            },
+            {
+                "AcademyId": "0003",
+                "RecordID": "021-000000313",
+                "Value": "Academia degli Assorditi di Urbino"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1639",
+        "Shelfmark": "11429.ee.6.(3.)",
+        "Subjects": "Celebratory theatrical performance",
+        "Language": "Italian",
+        "Illustration": "Woodcut | Academy emblem | Engraved plates | Stage; table structure",
+        "Pagination": "32",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5202",
+                "RecordID": "022-000000196",
+                "Value": "Guastavillani,Filippo,Senator,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                },
+                {
+                    "PersonId": "5406",
+                    "RecordID": "022-000000416",
+                    "Value": "Madronus,Ludovicus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "V. D. Ludovicus Modronus metropol. Bonon. Poenit. Pro eminentiss. Card. Archiepisc. Imprimatur Fr. Hieron. Onuphr. Pro Reverendiss P. Inquis. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5202",
+                "RecordID": "022-000000196",
+                "Value": "Guastavillani,Filippo,Senator,"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0003",
+                "RecordID": "021-000000313",
+                "Value": "Academia degli Assorditi di Urbino"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5409",
+                "RecordID": "022-000000419",
+                "Value": "Tebaldini,Nicol\u00f2,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52697",
+            "Value": "023-000000425_52697_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

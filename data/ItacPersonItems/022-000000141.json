@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5145",
+        "RecordId": "022-000000141",
+        "Surname": "Grimaldi",
+        "Forename": "Lorenzo",
+        "Gender": "Male",
+        "DateText": "fl.1643 - 1696",
+        "StartDate": "fl.1643",
+        "EndDate": "1696",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "The author of Sylvae revirescentes poeticae iuventutis voluptates Lauri Entii Vetusti inter Gelatos l`Illustrato... (Bologna 1691) - not in BL collections.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

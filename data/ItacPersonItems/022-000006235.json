@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19105",
+        "RecordId": "022-000006235",
+        "Surname": "Venuti",
+        "Forename": "Alessandro",
+        "AlternativeName": {
+            "AlternativeSurname": "Tusculano",
+            "AlternativeForename": "Aristotele"
+        },
+        "DateText": "fl.1549-1553",
+        "StartDate": "fl.1549",
+        "EndDate": "1553",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Dates gathered form Atanagi`s letter to Spica (17 August 1549), and Adinolfi`s Roma nell`eta` di mezzo (1881). Real name is in Archivi e cultura (2004)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

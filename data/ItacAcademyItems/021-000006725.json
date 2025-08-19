@@ -1,0 +1,33 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0173",
+        "RecordId": "021-000006725",
+        "Name": "Uniti-Roma (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "Notes": "Publications related to the history of this academy, but  not held in British Library collections, include: Amor vince lo sdegno overo l`Olimpia placata drama per musica da rappresentarsi dalli sig: accademici Uniti l`anno 1692 (Roma: Gioseppe Vannacci... piazza Navona nella libraria di Carlo Giannini, 1692); Maggia d` amore favola pastorale di Matteo, Pagani romano achademico, Unito detto, il Vigilante dedicata al, molt, illre, ... Gioseppe, Ciesare d`Arpino (Ronciglione: Ludovico Grignani e Lorenzo Lupi, 1619).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19498",
+                "RecordId": "022-000006726",
+                "Name": "Pagani,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19496",
+                "RecordId": "022-000006722",
+                "Name": "Cesari,Giuseppe,,1568 - 1640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

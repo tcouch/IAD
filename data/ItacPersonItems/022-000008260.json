@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20521",
+        "RecordId": "022-000008260",
+        "Surname": "Baldi",
+        "Forename": "Bernardino",
+        "Gender": "Male",
+        "PersonalTitle": "Abbot of Guastalla",
+        "DateText": "1553-1617",
+        "StartDate": "1553",
+        "EndDate": "1617",
+        "Nationality": {
+            "NationalityId": "97",
+            "Value": "of Urbino"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

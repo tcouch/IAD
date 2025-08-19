@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004787",
+        "WorkId": "000592",
+        "ShortTitle": "De Pestilente Faucium Affectu",
+        "LongTitle": "Neapoli Saeviente Opusculum. Auctore Io. Andrea Sgambato. Phylosopho, ac Medico Neapolitano, & Academico Otioso.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1620",
+        "Shelfmark": "1167.e.19.(4.)",
+        "Subjects": "Medicine|History of Naples",
+        "Language": "Latin",
+        "Pagination": "pp. 72",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17637",
+                "RecordID": "022-000004531",
+                "Value": "Sgambato,Giovanni Andrea,,"
+            }
+        },
+        "Notes": "This text contains manuscript notes and an account of the outbreak of plague occurred in Naples in 1617.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17015",
+                    "RecordID": "022-000003819",
+                    "Value": "Alexander,,Bishop of Carinola|Vicar,"
+                },
+                {
+                    "PersonId": "17016",
+                    "RecordID": "022-000003820",
+                    "Value": "Merola,Marsilio,,"
+                },
+                {
+                    "PersonId": "15224",
+                    "RecordID": "022-000001266",
+                    "Value": "Longus,Ioannes,Canon|Archbishop of Naples,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Alexand. Episcop. Carin. Vic. Gen. \nM, Merula S. Th. D. Can. deput.\nIoan. Long. Can. Neap. Theol. praebendatus deputatus.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17870",
+                "RecordID": "022-000004788",
+                "Value": "Pignatelli,Francesco,Duke of Bisaccia,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16653",
+                "RecordID": "022-000003378",
+                "Value": "Longo,Tarquinio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54542",
+            "Value": "023-000004787_54542_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

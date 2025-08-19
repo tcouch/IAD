@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17795",
+        "RecordId": "022-000004703",
+        "Surname": "Oregio",
+        "Forename": "Agostino",
+        "AlternativeName": {
+            "AlternativeForename": "Augustino"
+        },
+        "PersonalTitle": "Archbishop of Benevento|Cardinal",
+        "DateText": "1577 - 1635",
+        "StartDate": "1577",
+        "EndDate": "1635",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

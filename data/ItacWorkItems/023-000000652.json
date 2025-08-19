@@ -1,0 +1,102 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000652",
+        "WorkId": "00044",
+        "ShortTitle": "Speculazioni fisiche",
+        "LongTitle": "del dottore Geminiano Montanari Modanese professor matematico nello studio di Bologna sopra gli effetti di que` vetri Temprati che rotti in una parte si risolvono tutti in polvere esposti in due lettere una al Serenissimo Gran Duca Ferdinando II e l`altra all`illustrissimo Signor Conte Girolamo Savorgnano nobile veneto. Dedicate a gl`illustrissimi signori presidenti e convittori dell`Accademia degli Ardenti di Bologna detta volgarmente del Porto",
+        "ItacAcademyItem": {
+            "AcademyId": "0007",
+            "RecordID": "021-000000433",
+            "Value": "Accademia degli Ardenti (Bologna)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1671",
+        "DedicationPlaceDate": "24 January 1671",
+        "Shelfmark": "1651/1588 | 537.c.15.(5.)",
+        "Subjects": "Science",
+        "Language": "Italian",
+        "Illustration": "Woodcut | Flowers | Engraved page | Objects",
+        "Pagination": "[5] 76",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5028",
+                "RecordID": "022-000000030",
+                "Value": "Montanari,Geminiano,,1633 - 1687"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5028",
+                    "RecordID": "022-000000030",
+                    "Value": "Montanari,Geminiano,,1633 - 1687"
+                },
+                {
+                    "PersonId": "5173",
+                    "RecordID": "022-000000168"
+                },
+                {
+                    "PersonId": "5530",
+                    "RecordID": "022-000000526",
+                    "Value": "Manolessi,Emilio Maria,,fl. 1665-1685"
+                },
+                {
+                    "PersonId": "5531",
+                    "RecordID": "022-000000528",
+                    "Value": "Fabri,Agostino,,fl.1671 - 1677"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5022",
+                    "RecordID": "022-000000024",
+                    "Value": "Montalbanus,Ovidius,,1601 - 1671"
+                },
+                {
+                    "PersonId": "5223",
+                    "RecordID": "022-000000214",
+                    "Value": "Cribellus,Ioseph,,"
+                },
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal|Archibishop of Bologna,1622 - 1684"
+                },
+                {
+                    "PersonId": "5229",
+                    "RecordID": "022-000000221",
+                    "Value": "Gherardus de Diano,Marcellus,Vic. gener. S. Officij Bononiae,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Ioseph. Cribellus ex Clericis Reg. Congreg. S. Pauli Poenitent. In Metropolitana Bononiae pro eminentissimo ac reverendissimo D. Hieronymo Boncompagno Archiep. Bonon. et Principe | Dum literas hasce praelo committendas recensuit Ovidius Montalbanus Philosopho iurista Bonon. et Mathemat. olim Professor illas doctissima et irrepraehensibili plenas literatura invenit dignissimas ut nullo obliterentur aevo cognovit | Imprimatur | Fr. Marcellus Ghirardus de Diano Sacrae Theol. Mag. Vic. gener. S. Officij Bononiae.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5530",
+                "RecordID": "022-000000526",
+                "Value": "Manolessi,Emilio Maria,,fl. 1665-1685"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5245",
+                "RecordID": "022-000000237",
+                "Value": "Manolessi,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52636",
+            "Value": "023-000000652_52636_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

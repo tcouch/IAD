@@ -1,0 +1,101 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006945",
+        "WorkId": "000809",
+        "ShortTitle": "Catalogo del Congresso Medico Romano",
+        "LongTitle": "ove sono descritti i nomi degli autori, e le materie da loro trattate ogni lunedi dal 10. giorno di marzo 1681 fino all`8. di giugno 1682. All`Eminentiss. et Reverendiss. Prencipi il Sig. Card. Carlo Pio. Il sig. Card. Decio Azzolini. Il Sig. Card. Paluzzo Altieri. Il Sig. Card. Flaminio del Taia. Il Sig. Card. Gio: Battista de Luca. Il Sig. Card. Felice Rospigliosi. Il Sig. Card. Benedetto Panfilio",
+        "ItacAcademyItem": {
+            "AcademyId": "0257",
+            "RecordID": "021-000006906",
+            "Value": "Accademia Medica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1682",
+        "DedicationPlaceDate": "Roma 8 giugno 1682",
+        "Shelfmark": "1172g15(2)",
+        "Subjects": "Academic presentations",
+        "Language": "Italian",
+        "Pagination": "16",
+        "Marginalia": "No",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17879",
+                    "RecordID": "022-000004800",
+                    "Value": "de Angelis,Giacomo,Cardinal|Archbishop of Urbino,1610 - 1695"
+                },
+                {
+                    "PersonId": "19599",
+                    "RecordID": "022-000006951",
+                    "Value": "Alfanius,Antonius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Si videbitur Reverendiss. Pat. Magistro Sacr. Palatij Apostolici I. de Angelis Arch. Urb. Vicesg. Imprimatur, F. Antonius Alfanius Magister, ac Reverendiss. Patr. mag. Sac. Apost. Palat. Socius Ord. Praed.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5214",
+                    "RecordID": "022-000000206",
+                    "Value": "Azzolini,Decio (junior),Cardinal,1623-1689"
+                },
+                {
+                    "PersonId": "17876",
+                    "RecordID": "022-000004797",
+                    "Value": "Rospigliosi,Felice,Cardinal,1639 - 1688"
+                },
+                {
+                    "PersonId": "18328",
+                    "RecordID": "022-000005341",
+                    "Value": "Pamphili,Benedetto,,1653 - 1730"
+                },
+                {
+                    "PersonId": "19598",
+                    "RecordID": "022-000006950",
+                    "Value": "Taja,Flaminio,Cardinal,1600 - 1682"
+                },
+                {
+                    "PersonId": "19596",
+                    "RecordID": "022-000006948",
+                    "Value": "Pio,Carlo (Iuniore),,1622 - 1689"
+                },
+                {
+                    "PersonId": "19597",
+                    "RecordID": "022-000006949",
+                    "Value": "Altieri degli Albertoni,Paluzzo,Cardinal,1623 - 1698"
+                },
+                {
+                    "PersonId": "18990",
+                    "RecordID": "022-000006100",
+                    "Value": "Baldeschi Colonna,Federico,Cardinal,1625 - 1691"
+                },
+                {
+                    "PersonId": "18315",
+                    "RecordID": "022-000005325",
+                    "Value": "De Luca,Giovanni Battista,Cardinal,1614 - 1683"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19594",
+                "RecordID": "022-000006946",
+                "Value": "Cesaretti,Felice,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19594",
+                "RecordID": "022-000006946",
+                "Value": "Cesaretti,Felice,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

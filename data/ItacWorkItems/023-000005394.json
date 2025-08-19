@@ -1,0 +1,93 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005394",
+        "WorkId": "000664",
+        "ShortTitle": "Historie delle prosperita` infelici di Elio Seiano",
+        "LongTitle": "e d`una femina di Catanea gran Siniscalca di Napoli, di Pietro Mattei historiografo del Re Christianissimo. Tradotte dalla francese nella lingua Italiana dal Gelato Academico Umorista. All`illustrissimo Signore il signor Gio. Girolamo Marini Marchese di Castelnuovo di Scrivia, signor di Pescarolo, et Grontardo",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Umoristi (Accademia degli)"
+            }
+        ],
+        "City": {
+            "CityId": "38",
+            "PublicationPlaceItalianName": "Milano",
+            "PublicationPlaceEnglishName": "Milan",
+            "PublicationPlaceLatinName": "Mediolani"
+        },
+        "PublicationYear": "1620",
+        "DedicationPlaceDate": "Milan 1 August 1620",
+        "Shelfmark": "610a6",
+        "Subjects": "History",
+        "Language": "Italian",
+        "Pagination": "160",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18376",
+                "RecordID": "022-000005395",
+                "Value": "Matthieu,Pierre,,1563 - 1621"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18377",
+                "RecordID": "022-000005396",
+                "Value": "Gelato,Accademico Umorista,,"
+            }
+        },
+        "Notes": "The section on the woman from Catania contains this foreword: AVVERTIMENTO Il Boccaccio fiorentino e` l`Autore di questa historia, l`ultima del suo libro de `Casibus virorum illustrium` e la riferisce, con la fede de` suoi occhi propri e di due vecchi capitani, Marino de` Bulgari e Costantino della Rocca, ch`egli havea conosciuti a corte di Roberto Re di Napoli. Io l`ho raffrontata con un antico codice manuscritto alla prima impressione fatta in Francia et a quello che ne scrive Gio. Antonio Summonte. Egli e` un tragico effetto dell`incostanza della fortuna, che non e` meno ingegnosa ne` suoi inganni, che pazza ne` suoi favori, Ella non pote` innalzare questa donna dal piu` basso, ne` precipitarla dal piu` alto luogo, per dimostare che la salita alle grandi prosperita` e` di vetro, la cima un terremoto, la discesa un precipitio. `Et a voli troppo alti, e repentini/ sogliono i precipitii essere vicini`. Torquato Tasso",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7004",
+                    "RecordID": "022-000000796",
+                    "Value": "Saccus,,,"
+                },
+                {
+                    "PersonId": "17862",
+                    "RecordID": "022-000004773",
+                    "Value": "Fuochi,Guglielmo,Inquisitor,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur Fra. Pa. Commiss. Generalis S. Officij Med. Die 18 Iunij 1620. Gulielmus Vid. Praep. S. Nazarij pro Illust. D. Card. Archiep. Vidit Saccus pro Excell. Senatu.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18378",
+                "RecordID": "022-000005397",
+                "Value": "Marini,Giovanni Girolamo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7005",
+                "RecordID": "022-000000797",
+                "Value": "Bidelli,Giovanni Battista,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7005",
+                "RecordID": "022-000000797",
+                "Value": "Bidelli,Giovanni Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54430",
+            "Value": "023-000005394_54430_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54431",
+            "Value": "023-000005394_54431_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

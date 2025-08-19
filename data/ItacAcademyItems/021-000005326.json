@@ -1,0 +1,55 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0116",
+        "RecordId": "021-000005326",
+        "Name": "Filergiti (Accademia dei)",
+        "City": {
+            "CityId": "88",
+            "CityItalianName": "Forl\u00ec",
+            "CityEnglishName": "Forl\u00ec"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "17688",
+                "RecordId": "022-000004583",
+                "Name": "Mangelli,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5279",
+                "RecordId": "022-000000324",
+                "Name": "Manzini,Giovanni Battista,,1599 - 1664",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5020",
+                "RecordId": "022-000000022",
+                "Name": "Bonomi,Giovanfrancesco,,1626 - 1705",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5283",
+                "RecordId": "022-000000330",
+                "Name": "Mariscotti,Annibale,,fl. 1574 - 1627?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19029",
+                "RecordId": "022-000006145",
+                "Name": "Coronelli,Vincenzo,,1650-1718",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

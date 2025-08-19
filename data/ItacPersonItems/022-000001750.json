@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9644",
+        "RecordId": "022-000001750",
+        "Surname": "du Liger de la Garde Deshouli\u00e8res",
+        "Forename": "Antoinette",
+        "Gender": "Female",
+        "Pseudonym": "Diocl\u00e9e",
+        "DateText": "1638-1694",
+        "StartDate": "1638",
+        "EndDate": "1694",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Joined the Ricovrati in 1688. Also known as `La Parfaite`.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

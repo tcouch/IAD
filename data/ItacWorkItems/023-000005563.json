@@ -1,0 +1,174 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005563",
+        "WorkId": "000676",
+        "ShortTitle": "Poesie di Marcello Giovanetti",
+        "LongTitle": "Compartite in Affettuose, Boschereccie, Nuttiali, Eroiche, Sacre, Varie",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0122",
+                "RecordID": "021-000005568",
+                "Value": "Accademia dei Virtuosi"
+            },
+            {
+                "AcademyId": "0123",
+                "RecordID": "021-000005569",
+                "Value": "Accademia degli Insensati"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1626",
+        "Shelfmark": "1062b11",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "319 [14]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18510",
+                "RecordID": "022-000005542",
+                "Value": "Giovanetti,Marcello,,1598 - 1631"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18510",
+                    "RecordID": "022-000005542",
+                    "Value": "Giovanetti,Marcello,,1598 - 1631"
+                },
+                {
+                    "PersonId": "15035",
+                    "RecordID": "022-000001077",
+                    "Value": "Bruni,Antonio,,1593-1635"
+                },
+                {
+                    "PersonId": "18531",
+                    "RecordID": "022-000005567",
+                    "Value": "Accademici Insensati,,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16077",
+                "RecordID": "022-000002662",
+                "Value": "Manelfi,Giovanni,,1621- 1626"
+            }
+        },
+        "Notes": "According to Crelly (1989), p. 172, the Panegirico `Il Secolo d`Oro`, includes some sestinas where the author makes explicit reference to Cardinal Ludovisi`s Accademia dei Virtuosi.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16527",
+                    "RecordID": "022-000003224",
+                    "Value": "Rodulfi,Niccolai,,"
+                },
+                {
+                    "PersonId": "18530",
+                    "RecordID": "022-000005566",
+                    "Value": "Bisconius,Andreas,,"
+                },
+                {
+                    "PersonId": "5268",
+                    "RecordID": "022-000000258",
+                    "Value": "Carli,Ferrante,,1578 - 1641"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, Si videbitur Reverendiss. P. Mag. Sac. Apost. A episc. Hierac. Vicesg. Le Poesie del Sig. Marcello Giovanetti son degne d`uscire alla luce nella Citta` Capo e Maestra dell`Universo, con certezza del commune applauso di questo nostro eruditissimo secolo. E perche` l`ho rivedute d`ordine del Reverendiss. P. Ridolfi maestro del Sacro Palazzo Apostolico, e quanto vale il mio debile giuditio, le stimo tali, ne rendo testimonianza con la mia sottoscrizione in pie` di questa carta. Io Ferrante Carlo affermo quanto ho scritto di sopra. Imprimatur, Fr. Andreas Biscionius, Praedicator Generalis, et Socius Reverendissimi Patris Fr. Nicolai Ridulfii Ordinis Praed. Sacri Palatii Apost. Magistri.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5215",
+                "RecordID": "022-000000207",
+                "Value": "Magalotti,Lorenzo,,1584-1637"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Signor Don Carlo Colonna principe dell`Accademia degli Umoristi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18510",
+                            "RecordID": "022-000005542",
+                            "Value": "Giovanetti,Marcello,,1598 - 1631"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Loda l`Accademia Ascolana",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18510",
+                            "RecordID": "022-000005542",
+                            "Value": "Giovanetti,Marcello,,1598 - 1631"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poesie varie ai Sig. Accademici Umoristi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18510",
+                            "RecordID": "022-000005542",
+                            "Value": "Giovanetti,Marcello,,1598 - 1631"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Risposta del Sig. Antonio Bruni in nome e per ordine dei Sig. Accademici (Umoristi?)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15035",
+                            "RecordID": "022-000001077",
+                            "Value": "Bruni,Antonio,,1593-1635"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A i sig. Accademici Insensati (Accademia degli Insensati of Perugia?)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18510",
+                            "RecordID": "022-000005542",
+                            "Value": "Giovanetti,Marcello,,1598 - 1631"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Risposta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18531",
+                            "RecordID": "022-000005567",
+                            "Value": "Accademici Insensati,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Secolo d`Oro. Panegirico Delle lodi del Signor Cardinal Ludovisio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18510",
+                            "RecordID": "022-000005542",
+                            "Value": "Giovanetti,Marcello,,1598 - 1631"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

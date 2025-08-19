@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001904",
+        "WorkId": "000265",
+        "ShortTitle": "Concertino per camera a Violino e Violoncello",
+        "LongTitle": "Dedicato all`Altezza Serenissima di Francesco II Duca di Modona, Reggio et da Giuseppe Torelli veronese musico della Perinsigne Colleggiata di San Petronio di Bologna, et Accademico Filarmonico Opera Quarta",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "(1690?)",
+        "Shelfmark": "K.2.i.12",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "Pages unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15394",
+                "RecordID": "022-000001895",
+                "Value": "Torelli,Giuseppe,,1658-1709"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15403",
+                "RecordID": "022-000001906",
+                "Value": "Buffagnotti,Carlo Antonio,,fl. 1660-1715"
+            }
+        },
+        "CensorsAgreement": "Si vendono da Marino Silvani con lic. de` Sup.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15404",
+                "RecordID": "022-000001907",
+                "Value": "d`Este,Francesco II,Duke of Modena,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "15403",
+                "RecordID": "022-000001906",
+                "Value": "Buffagnotti,Carlo Antonio,,fl. 1660-1715"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

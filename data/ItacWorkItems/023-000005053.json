@@ -1,0 +1,57 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005053",
+        "WorkId": "000619",
+        "ShortTitle": "Gulielmi Philandri Castilionii Galli civis ro. in Decem libros M. Vitruvii Pollionis de Architectura Annotationes",
+        "LongTitle": "Ad franciscum valesium Regem Christianissimum, cum Indicibus Graeco et Latino locuplentissimis",
+        "ItacAcademyItem": {
+            "AcademyId": "0107",
+            "RecordID": "021-000005041",
+            "Value": "Accademia della Virt\u00f9"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1544",
+        "DedicationPlaceDate": "Rome Cal. Augusti 1544",
+        "Shelfmark": "1043.f.12",
+        "Subjects": "Architecture",
+        "Language": "Latin",
+        "Pagination": "360 [19r-v]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18092",
+                "RecordID": "022-000005045",
+                "Value": "Philandrier,Guillaume,,1505 - 1565"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "18099",
+                "RecordID": "022-000005054",
+                "Value": "Dossena,Giovanni Andrea,,fl. 1543 - 1545"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18146",
+                "RecordID": "022-000005111",
+                "Value": "Francis,Valois,King of France,1515 - 1547"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18099",
+                "RecordID": "022-000005054",
+                "Value": "Dossena,Giovanni Andrea,,fl. 1543 - 1545"
+            }
+        },
+        "PrinterOrnament": "U775",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16508",
+        "RecordId": "022-000003195",
+        "Surname": "Strozzi",
+        "Forename": "Giulio",
+        "Gender": "Male",
+        "DateText": "1583-1660",
+        "StartDate": "1583",
+        "EndDate": "1660",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Of Florentine origin, he joined the Ricovrati in 1601. Member of several Academies in Venice, Rome, and Udine. His portrait is taken from La Venetia edificata (1624), by Francesco Valegio. The protrait in Accademia degli Unisoni is taken from La Venetia edificata (1626).",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16749",
+        "RecordId": "022-000003485",
+        "Surname": "Alessandro",
+        "Gender": "Male",
+        "DateText": "fl.1544-1561",
+        "StartDate": "fl.1544",
+        "EndDate": "1561",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Alessandro was a taylor, he joined the Rozzi in 1544, and reunited the Congrega in 1561 after a period of suspension.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

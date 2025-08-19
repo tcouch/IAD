@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15809",
+        "RecordId": "022-000002362",
+        "Surname": "Denores",
+        "Forename": "Giason",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "De Nores",
+                "AlternativeForename": "Giasone"
+            },
+            {
+                "AlternativeSurname": "di Nores"
+            }
+        ],
+        "DateText": "ca.1530-1590",
+        "StartDate": "ca.1530",
+        "EndDate": "1590",
+        "Nationality": {
+            "NationalityId": "418",
+            "Value": "of Nicosia"
+        },
+        "Notes": "See the biography by Giorgio Patrizi, in DBI. Denores studied in Padua and was the pupil of Trifon Gabriele and Sperone Speroni. In 1573 he took part to the opening of the Rinascenti Academy, while he was employed as Lector of Rhetoric at the University of Padua with a salary of 50 ducats.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

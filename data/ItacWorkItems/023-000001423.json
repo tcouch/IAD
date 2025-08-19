@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001423",
+        "WorkId": "00151",
+        "ShortTitle": "Iulii Caesaris Capacii Neapolitane Urbi",
+        "LongTitle": "A Secretis Epistolarum Liber Primus.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1615",
+        "DedicationPlaceDate": "Naples",
+        "Shelfmark": "10905.d.2.",
+        "Subjects": "Private Correspondence",
+        "Language": "Latin",
+        "Pagination": "pp. 133",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15014",
+                "RecordID": "022-000001056",
+                "Value": "Capaccio,Giulio Cesare,,1552-1634"
+            }
+        },
+        "Notes": "This text contains letters to Oziosi academicians.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15140",
+                    "RecordID": "022-000001182",
+                    "Value": "Tiroboscus,Cornelius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Petrus Antonius Ghibertus Vicarius Generalis.\nM. Cornelius Tirobosc. Pred. Ord. Curiae Archiepsc. Theologus",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15019",
+                "RecordID": "022-000001061",
+                "Value": "De Castro Andrada,Pietro Fernandez,Count|Viceroy,1560 - 1634"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52864",
+            "Value": "023-000001423_52864_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

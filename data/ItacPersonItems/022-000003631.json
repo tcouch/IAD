@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16867",
+        "RecordId": "022-000003631",
+        "Surname": "Arnold",
+        "Forename": "Christoph",
+        "Gender": "Male",
+        "DateText": "1650-1695/7",
+        "StartDate": "1650",
+        "EndDate": "1695/7",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Arnold was a self-taught astronomer, and joined the Ricovrati Academy in 1678.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007983",
+        "WorkId": "000909",
+        "ShortTitle": "Orationi del sig. Fabio Patriti I.",
+        "LongTitle": "All`Ill.mo S. Fran.co Priuli degniss. Procurator di San Marco. L`una delle quali tratta le lodi della Musica: et l`altra Dell`Istitutioni delle Academie",
+        "ItacAcademyItem": {
+            "AcademyId": "0100",
+            "RecordID": "021-000004905",
+            "Value": "Accademia Veneziana"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1587",
+        "DedicationPlaceDate": "Venetia 23 Gennaio 1587",
+        "Shelfmark": "72k30",
+        "Content": "The first orazione points out how music is present in all aspects of life, and in all disciplines.",
+        "Subjects": "Academic speech",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15859",
+                "RecordID": "022-000002413",
+                "Value": "Patrizi,Fabio,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15859",
+                    "RecordID": "022-000002413",
+                    "Value": "Patrizi,Fabio,,"
+                },
+                {
+                    "PersonId": "15928",
+                    "RecordID": "022-000002492",
+                    "Value": "Sforza,Muzio,,?-1597"
+                },
+                {
+                    "PersonId": "15939",
+                    "RecordID": "022-000002503",
+                    "Value": "De Gli Oratori,Francesco,,"
+                }
+            ]
+        },
+        "Notes": "In the first oration, Patrizi mentions Bernardino Partenio, Lucio Scarano, Muzio Sforza, Francesco degli Oratori, Cornelio Frangipani, and Gisueppe Zarlino. In the second oration, are mentioned Lucio Scarano, Luigi Badoer, and Muzio Sforza. The relationship between this publication and the second Accademia Veneziana is not entirely sure, although Scarano is clearly associated to this and not to the first Accademia Veneziana (Accademia della Fama).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15896",
+                "RecordID": "022-000002457",
+                "Value": "Priuli,Francesco,Procurator,1570-1610"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17511",
+                "RecordID": "022-000004387",
+                "Value": "Rampazetto,Giovanni Antonio,,fl.1582-1607"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Oratione prima del S. Fabio Patritii in lode della muscia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15859",
+                            "RecordID": "022-000002413",
+                            "Value": "Patrizi,Fabio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonnet Di Francesco De Gli Oratori all'autore - Al divin suon di Musica si' bella",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15939",
+                            "RecordID": "022-000002503",
+                            "Value": "De Gli Oratori,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonnet Di Mutio Sforza all'autore - Ben a le forze tue materia eguale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15928",
+                            "RecordID": "022-000002492",
+                            "Value": "Sforza,Muzio,,?-1597"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione seconda del S. Fabio Patritii: Dell'Istitutioni dell' Accademie",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15859",
+                            "RecordID": "022-000002413",
+                            "Value": "Patrizi,Fabio,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

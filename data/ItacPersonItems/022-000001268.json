@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15260",
+        "RecordId": "022-000001268",
+        "Surname": "Canal",
+        "Forename": "Paolo",
+        "Gender": "Male",
+        "DateText": "1481-1508",
+        "StartDate": "1481",
+        "EndDate": "1508",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See his biography by Fernando Lepori, in DBI",
+        "Role": null,
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

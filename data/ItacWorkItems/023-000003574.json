@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003574",
+        "WorkId": "000471",
+        "ShortTitle": "Pelagrilli",
+        "LongTitle": "Comedia di M. Ascanio Cacciaconti Sanese",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1552",
+        "Shelfmark": "162.a.32",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "24 leaves",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16732",
+                "RecordID": "022-000003468",
+                "Value": "Cacciaconti,Ascanio,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16822",
+                "RecordID": "022-000003575",
+                "Value": "Landi,Giovanni - Eredi,,fl.1552"
+            }
+        },
+        "Notes": "In the colophon: `In Siena ad instantia delle herede di Giovanni d`Alisandro Libraio`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16824",
+                "RecordID": "022-000003578",
+                "Value": "Castrucci,Lucina,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53891",
+            "Value": "023-000003574_53891_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

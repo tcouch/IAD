@@ -1,0 +1,56 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002876",
+        "WorkId": "000373",
+        "ShortTitle": "Libro secondo delle lettere scritte al signor Pietro Aretino",
+        "LongTitle": "da molti signori, comunita`, donne di valore, poeti, et altri eccellentissimi spiriti. dedicate al Reverendiss. signor Lodovico Beccatelli, disgnissimo Legato del Sommo Pontefice Giulio Terzo",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1552",
+        "DedicationPlaceDate": "Venice, 8 October 1552",
+        "Shelfmark": "677.a.18",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "vol. 2, 463 [10]",
+        "Marginalia": "No",
+        "Notes": "Piccolomini writes to Aretino to tell he has been accepted as member of the Infiammati",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15999",
+                "RecordID": "022-000002568",
+                "Value": "Beccadelli,Ludovico,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16234",
+                "RecordID": "022-000002875",
+                "Value": "Marcolini,Francesco,,"
+            }
+        },
+        "PrinterOrnament": "Z1193",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Al molto Magnifico... Signor Pietro Aretino. 20 March 1541",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9205",
+                        "RecordID": "022-000001502",
+                        "Value": "Piccolomini,Alessandro,,1508-1578"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

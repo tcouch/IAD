@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16597",
+        "RecordId": "022-000003315",
+        "Surname": "Sasso",
+        "Forename": "Giacomo",
+        "AlternativeName": {
+            "AlternativeSurname": "Sassi",
+            "AlternativeForename": null
+        },
+        "DateText": "1573 - 1610",
+        "StartDate": "1573",
+        "EndDate": "1610",
+        "Nationality": {
+            "NationalityId": "98",
+            "Value": "of Ravenna"
+        },
+        "Notes": "Joined the Ricovrati in 1601. Also member of the Accademia degli Affidati in Pavia, Insensati in Perugia, and Informi in Ravenna, where he delivered a lecture in defense of women, starting from a sonnet by Bernardo Tasso.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

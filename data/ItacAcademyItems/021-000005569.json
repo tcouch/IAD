@@ -1,0 +1,95 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0123",
+        "RecordId": "021-000005569",
+        "Name": "Insensati (Accademia degli)",
+        "City": {
+            "CityId": "95",
+            "CityItalianName": "Perugia",
+            "CityEnglishName": "Perugia"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "16597",
+                "RecordId": "022-000003315",
+                "Name": "Sasso,Giacomo,,1573 - 1610",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19353",
+                "RecordId": "022-000006555",
+                "Name": "Zuccari,Federico,,",
+                "Nickname": "Sonnachioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19355",
+                "RecordId": "022-000006557",
+                "Name": "Venturi,Ventura,,",
+                "Nickname": "Il Velato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19838",
+                "RecordId": "022-000007275",
+                "Name": "Dandi,Giovanni Pellegrino,,1664 - 1726?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16293",
+                "RecordId": "022-000002946",
+                "Name": "Benigni Manfredi,Ippolita,,",
+                "Nickname": "la Ferma",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16311",
+                "RecordId": "022-000002964",
+                "Name": "Turina,Francesca,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18510",
+                "RecordId": "022-000005542",
+                "Name": "Giovanetti,Marcello,,1598-1631",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7370",
+                "RecordId": "022-000000957",
+                "Name": "Benamati,Guidobaldo,,1598-1653",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20775",
+                "RecordId": "022-000008602",
+                "Name": "Ripa,Cesare,,ca.1555-1622",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9001",
+                "RecordId": "022-000001573",
+                "Name": "Oddo (o Degli Oddi),Sforza,,1540-1611",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

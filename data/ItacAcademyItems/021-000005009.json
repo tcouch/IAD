@@ -1,0 +1,114 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0103",
+        "RecordId": "021-000005009",
+        "Name": "Svegliati (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "EmblemDescription": "a cockerel",
+        "EmblemImage": {
+            "ImageId": "54531",
+            "Value": "021-000005009_54531_1.jpg"
+        },
+        "Motto": "Cantu Ciere Viros",
+        "StartDate": "1560s",
+        "EndDate": "1593",
+        "DateText": "1560s-1593",
+        "Notes": "Former Rinaldiana Academy founded after Rinaldi`s death. Emblem from Giulio Cesare Capaccio, Delle Imprese, Naples, Carlino & Pace, 1592 (British Library shelfmark: 89.K.6.)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18037",
+                "RecordId": "022-000004977",
+                "Name": "Cortese,Giulio ,Marquis of Lavello,? - 1598",
+                "Nickname": "Attonito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15057",
+                "RecordId": "022-000001098",
+                "Name": "Mauro,Francesco,,",
+                "Nickname": "Errante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5605",
+                "RecordId": "022-000000671",
+                "Name": "Marino,Giambattista,,1569-1625",
+                "Nickname": "Accorto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18064",
+                "RecordId": "022-000005011",
+                "Name": "Filomarino,Prospero,,",
+                "Nickname": "Intento",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18065",
+                "RecordId": "022-000005012",
+                "Name": "Massaro ,Giovanni Alfonso,,",
+                "Nickname": "Tardo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18066",
+                "RecordId": "022-000005013",
+                "Name": "Colleli,Pietro,,",
+                "Nickname": "Licenzioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18067",
+                "RecordId": "022-000005014",
+                "Name": "Regio ,Paolo,Bishop of Vico Equense,",
+                "Nickname": "Solitario",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18068",
+                "RecordId": "022-000005015",
+                "Name": "Costo,Tommaso,,1545? - 1620s",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18069",
+                "RecordId": "022-000005016",
+                "Name": "Cortese,Muzio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18070",
+                "RecordId": "022-000005017",
+                "Name": "Cortese,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18071",
+                "RecordId": "022-000005018",
+                "Name": "Pacelli,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

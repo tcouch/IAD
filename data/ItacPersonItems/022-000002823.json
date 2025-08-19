@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16196",
+        "RecordId": "022-000002823",
+        "Surname": "Tallemant des R\u00e9aux",
+        "Forename": "Fran\u00e7ois",
+        "PersonalTitle": "Abbot",
+        "DateText": "1620 - 1693",
+        "StartDate": "1620",
+        "EndDate": "1693",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

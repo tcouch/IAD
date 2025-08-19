@@ -1,0 +1,341 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0142",
+        "RecordId": "021-000006141",
+        "Name": "Concili (Accademia dei)",
+        "AlternativeName": "Accademia dei discorsi eruditi|Accademia della Conferenza Ecclesiastica nel collegio di Propaganda Fide",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1671",
+        "EndDate": "?; 1740",
+        "DateText": "1671-?; 1740-?",
+        "Notes": "The Accademia dei Concili is mentioned in Domenico Magri, Hierolexicon (1677). In Fabiani, Il merito (1694), p. 68, there is an anonymous sonnet dedicated to Ciampini, called `Institutore dell`Accademia fisicomatematica e dell`Accademia solita de i Discorsi eruditi, che si recitano in Propaganda Fide da Virtuosi et c.. For further details, see Paschini, \u2018Mons. Giovanni Ciampini e la Conferenza dei Concili ...\u2019, in Atti della Pontificia Accademia Romana di Archeologia (serie III), Rendiconti, (1935), pp. 96-115; Maria Pia Donato, Accademie romane. Una storia sociale, 1671-1824 (Napoli, 2000).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18936",
+                "RecordId": "022-000006037",
+                "Name": "Ciampini,Giovanni Giustino,,1633 - 1698",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18955",
+                "RecordId": "022-000006058",
+                "Name": "Toschi,Girolamo,Archdeacon of Reggio,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19027",
+                "RecordId": "022-000006140",
+                "Name": "Pastrizio,Giovanni,,1636 - 1708",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17681",
+                "RecordId": "022-000004576",
+                "Name": "Albani,Giovanni Francesco,Pope Clement XI,1649 - 1721",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19509",
+                "RecordId": "022-000006769",
+                "Name": "Nazari,Tommaso,Abbot,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19042",
+                "RecordId": "022-000006159",
+                "Name": "Serra,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19064",
+                "RecordId": "022-000006181",
+                "Name": "de` Giulii,Tomaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19511",
+                "RecordId": "022-000006771",
+                "Name": "Mazzoni,Benedetto,,1606 - 1690",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19512",
+                "RecordId": "022-000006772",
+                "Name": "Paolino,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19513",
+                "RecordId": "022-000006773",
+                "Name": "Salas,Pompeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19514",
+                "RecordId": "022-000006774",
+                "Name": "Romano,D,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19515",
+                "RecordId": "022-000006775",
+                "Name": "Levera,F,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19516",
+                "RecordId": "022-000006776",
+                "Name": "Biolanti,F,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19517",
+                "RecordId": "022-000006777",
+                "Name": "Tamagnini,Simone,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19518",
+                "RecordId": "022-000006778",
+                "Name": "Porter,Francis,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19519",
+                "RecordId": "022-000006779",
+                "Name": "Sperelli,S,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19520",
+                "RecordId": "022-000006780",
+                "Name": "Scufo,F,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19521",
+                "RecordId": "022-000006781",
+                "Name": "Cristini,D,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19522",
+                "RecordId": "022-000006782",
+                "Name": "Gherardelli,S,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19523",
+                "RecordId": "022-000006783",
+                "Name": "Diofebi,B,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19524",
+                "RecordId": "022-000006784",
+                "Name": "Creneo,P,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19525",
+                "RecordId": "022-000006785",
+                "Name": "Casoni,L,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19526",
+                "RecordId": "022-000006786",
+                "Name": "Paolucci,F,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19527",
+                "RecordId": "022-000006787",
+                "Name": "Gaddi,P,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19528",
+                "RecordId": "022-000006788",
+                "Name": "Fabroni,Carlo Agostino ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19529",
+                "RecordId": "022-000006789",
+                "Name": "Petrini,P,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19530",
+                "RecordId": "022-000006790",
+                "Name": "Maffei,P A ,Canon,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19531",
+                "RecordId": "022-000006791",
+                "Name": "Maseri,P,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19532",
+                "RecordId": "022-000006792",
+                "Name": "Troilo,G,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19533",
+                "RecordId": "022-000006793",
+                "Name": "Paravicini,G,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19534",
+                "RecordId": "022-000006794",
+                "Name": "de Wolf,Chretien,,1612 - 1682",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5452",
+                "RecordId": "022-000000436",
+                "Name": "Lambertini,Prospero Lorenzo,Pope Benedetto XIV,1675-1758",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19535",
+                "RecordId": "022-000006795",
+                "Name": "Schelstrate,Emmanuel,,1649 - 1692",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7401",
+                "RecordId": "022-000000992",
+                "Name": "Bianchini,Francesco,,1662 - 1729",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19039",
+                "RecordId": "022-000006156",
+                "Name": "Del Torre,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19537",
+                "RecordId": "022-000006797",
+                "Name": "Ginotti,Bernardino Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19538",
+                "RecordId": "022-000006798",
+                "Name": "Celsi,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19539",
+                "RecordId": "022-000006799",
+                "Name": "Grassi,Ludovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19540",
+                "RecordId": "022-000006800",
+                "Name": "Fontanini,Giusto,,1666 - 1736",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19542",
+                "RecordId": "022-000006803",
+                "Name": "di Sant`Elia,Bonaventura,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

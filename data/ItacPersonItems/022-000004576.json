@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17681",
+        "RecordId": "022-000004576",
+        "Surname": "Albani",
+        "Forename": "Giovanni Francesco",
+        "Gender": "Male",
+        "PersonalTitle": "Pope Clement XI",
+        "DateText": "1649-1721",
+        "StartDate": "1649",
+        "EndDate": "1721",
+        "Nationality": {
+            "NationalityId": "97",
+            "Value": "of Urbino"
+        },
+        "Notes": "He joined the Accademia Reale di Crsitina di Svezia in 1675. For further details on his life, see his biography by Stefano Andretta in DBI.",
+        "Role": "Dedicatee|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

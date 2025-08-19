@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003215",
+        "WorkId": "000421",
+        "ShortTitle": "Le guidon de la langue italienne",
+        "LongTitle": "Par Nathanael Dhuez avec Trois Dialogues familiers, Italiens et Fran\u00e7ois. La comedie de la Moresse. Les compliments Italiens. et une Guirlande de Proverbes.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "69",
+            "PublicationPlaceItalianName": "Leida",
+            "PublicationPlaceEnglishName": "Leiden",
+            "PublicationPlaceLatinName": "Lugduni Batavorum"
+        },
+        "PublicationYear": "1641",
+        "Shelfmark": "1568/3403",
+        "Subjects": "Linguistics|Proverbs",
+        "Language": "Italian|French",
+        "Pagination": "286",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16522",
+                "RecordID": "022-000003218",
+                "Value": "Dhuez,Nathana\u00ebl,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16496",
+                "RecordID": "022-000003180",
+                "Value": "Vignali,Antonio,,1501 - 1559"
+            }
+        },
+        "Notes": "Vignali signs as `Arsiccio Intronato`.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16520",
+                "RecordID": "022-000003216",
+                "Value": "Elzeviers,Bonaventure et Abraham,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53424",
+            "Value": "023-000003215_53424_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

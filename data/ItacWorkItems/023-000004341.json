@@ -1,0 +1,75 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004341",
+        "WorkId": "000566",
+        "ShortTitle": "Rime Scelte Di Poeti Illustri De` Nostri Tempi.",
+        "ItacAcademyItem": {
+            "AcademyId": "0077",
+            "RecordID": "021-000004331",
+            "Value": "Accademia degli Incuriositi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "60",
+            "PublicationPlaceItalianName": "Lucca",
+            "PublicationPlaceEnglishName": "Lucca",
+            "PublicationPlaceLatinName": "Luccae"
+        },
+        "PublicationYear": "1709",
+        "DedicationPlaceDate": "Lucca 19 December 1708",
+        "Shelfmark": "239.b.3.",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 407",
+        "Marginalia": "No",
+        "Notes": "Miscellaneous text containing verses by Biagio Maioli De Avitabile, a member of the Incuriositi Academy in Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17475",
+                    "RecordID": "022-000004345",
+                    "Value": "Torre,Vincenzo,Vicar General,"
+                },
+                {
+                    "PersonId": "17478",
+                    "RecordID": "022-000004348",
+                    "Value": "Spada,Orazio Filippo,Cardinal|Bishop of Lucca,"
+                },
+                {
+                    "PersonId": "17477",
+                    "RecordID": "022-000004347",
+                    "Value": "Garzoni,Antonino,,"
+                },
+                {
+                    "PersonId": "17476",
+                    "RecordID": "022-000004346",
+                    "Value": "Nicolini,Joseph Vincentius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Per ordine dell`Illustrissimo, e Reverendissimo Monsignor Vincenzo Torre Vicario Generale dell`Eminentissimo, e Reverendissimo Signor Cardinale Orazio Filippo Spada Vescovo di Lucca io sottoscritto avendo letto, e considerato il Libro intitolato: Rime scelte di Poeti illustri de` nostri tempi, non vi ho trovato cosa, che offenda i buoni costumi, ne` che ripugni alla nostra Santa Fede, onde lo giudico degno di darsi alla luce. Di S. Romano 16. Dicembre 1708.\nFr. Antonino Garzoni M. S. T. Dell`Ordine de` Predicatori.\nImprimatur.\nVincentius Torre Vic. Gen.\nJoseph Vincentius Nicolini Ill. Off. Super Juris. Praep.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17474",
+                "RecordID": "022-000004344",
+                "Value": "Franzona Durazza,Paola,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17473",
+                "RecordID": "022-000004343",
+                "Value": "Lippi,Bartolomeo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17472",
+                "RecordID": "022-000004342",
+                "Value": "Frediani,Pellegrino,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

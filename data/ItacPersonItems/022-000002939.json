@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16286",
+        "RecordId": "022-000002939",
+        "Surname": "Albergati",
+        "Forename": "Fabio",
+        "Gender": "Male",
+        "DateText": "1538-1606",
+        "StartDate": "1538",
+        "EndDate": "1606",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "He joined the Ricovrati in 1602.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

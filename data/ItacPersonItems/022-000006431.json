@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19250",
+        "RecordId": "022-000006431",
+        "Surname": "Corvino",
+        "Forename": "Enrico",
+        "Gender": "Male",
+        "DateText": "?-before 1640",
+        "StartDate": "?",
+        "EndDate": "before 1640",
+        "Nationality": {
+            "NationalityId": "67",
+            "Value": "Dutch"
+        },
+        "Notes": "Apothecary in Rome. Joined the Lincei in 1611.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006400",
+        "WorkId": "000772",
+        "ShortTitle": "Relazione del contagio stato in Firenze l`anno 1630 e 1633",
+        "LongTitle": "Coll`aggiunta del catalogo di tutte le Pestilenze piu` celebri, che sono state nel mondo, delle quali si trovi fatta memoria.",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1714",
+        "Shelfmark": "1167g17(2)",
+        "Subjects": "Medicine",
+        "Language": "Italian",
+        "Pagination": "232",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19139",
+                "RecordID": "022-000006276",
+                "Value": "Guiducci,Mario,,1584 - 1646"
+            }
+        },
+        "Notes": "A note clarifies that the Panegirico was written at the end of 1630, but had not been published because of the second outburst of the plague.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19227",
+                "RecordID": "022-000006404",
+                "Value": "Guidicci & Franchi,Jacopo & Santi,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Per la liberazione di Firenze dalla Peste. Panegirico di Mario Guiducci Accademico Linceo",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19139",
+                        "RecordID": "022-000006276",
+                        "Value": "Guiducci,Mario,,1584 - 1646"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

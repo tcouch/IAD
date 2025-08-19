@@ -1,0 +1,24 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0065",
+        "RecordId": "021-000003995",
+        "Name": "Pontaniana (Accademia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1442",
+        "DateText": "1442",
+        "ItacPersonItem": {
+            "PersonId": "15112",
+            "RecordId": "022-000001153",
+            "Name": "Di Costanzo,Angelo,,1507-1591",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

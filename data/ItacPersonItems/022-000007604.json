@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20102",
+        "RecordId": "022-000007604",
+        "Surname": "Campelli",
+        "Forename": "Bernardino",
+        "AlternativeName": {
+            "AlternativeSurname": "Campello",
+            "AlternativeForename": null
+        },
+        "DateText": "1594-1676",
+        "StartDate": "1594",
+        "EndDate": "1676",
+        "Nationality": {
+            "NationalityId": "294",
+            "Value": "of Spoleto"
+        },
+        "Notes": "Jurist, and diplomat. Also member of the Apatisti in Florence.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

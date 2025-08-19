@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18991",
+        "RecordId": "022-000006101",
+        "Surname": "Van Wittel",
+        "Forename": "Caspar",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Vanvitelli"
+            },
+            {
+                "AlternativeSurname": "de Witte",
+                "AlternativeForename": "Gaspar"
+            }
+        ],
+        "DateText": "1653-1737",
+        "StartDate": "1653",
+        "EndDate": "1737",
+        "Nationality": {
+            "NationalityId": "67",
+            "Value": "Dutch"
+        },
+        "Notes": "Affiliated to the Dutch and Flemish society called Bentvueghels, with the nickname Grundel.",
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

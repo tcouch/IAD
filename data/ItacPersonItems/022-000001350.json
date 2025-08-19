@@ -1,0 +1,31 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15310",
+        "RecordId": "022-000001350",
+        "Surname": "Bottigella",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Botticella",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Butigella",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1470-1515",
+        "StartDate": "1470",
+        "EndDate": "1515",
+        "Nationality": {
+            "NationalityId": "161",
+            "Value": "of Pavia"
+        },
+        "Notes": "His biography and criticism about his work in the entry by Piero Craveri, in DBI",
+        "Role": "Author",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

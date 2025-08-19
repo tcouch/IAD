@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7503",
+        "RecordId": "022-000001024",
+        "Surname": "Longo",
+        "Forename": "Alberico",
+        "AlternativeName": {
+            "AlternativeSurname": "Longi Salentini",
+            "AlternativeForename": "Alberici"
+        },
+        "DateText": "1490? - 1555",
+        "StartDate": "1490?",
+        "EndDate": "1555",
+        "Nationality": {
+            "NationalityId": "192",
+            "Value": "of Nardo` (Lecce)"
+        },
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9043",
+        "RecordId": "022-000001634",
+        "Surname": "Frigimelica",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "DateText": "1611 - 1683",
+        "StartDate": "1611",
+        "EndDate": "1683",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Professor of medicine in Padua. Joined the Ricovrati in 1633. He gave at least two presentations in Accademia: `Qual sia la strada piu` breve per arrivare alla gloria`, and `Se sia maggiore il contento che si prova nel possedere il bene o il dolore nel perderlo`.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005153",
+        "WorkId": "000633",
+        "ShortTitle": "Progne tragoedia",
+        "LongTitle": "Nunc primum edita",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "1069b16(2)",
+        "Subjects": "Theatre|Tragedy",
+        "Language": "Latin",
+        "Pagination": "27r-v",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7345",
+                "RecordID": "022-000000932",
+                "Value": "Correr,Ggregorio,,1409-1464"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7419",
+                "RecordID": "022-000001007",
+                "Value": "de Varga,Francisco,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7367",
+                "RecordID": "022-000000954",
+                "Value": "Riccius,Joannes,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "PrinterOrnament": "U226",
+        "TitlePageImage": {
+            "ImageId": "55081",
+            "Value": "023-000005153_55081_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

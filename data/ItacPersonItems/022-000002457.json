@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15896",
+        "RecordId": "022-000002457",
+        "Surname": "Priuli",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "PersonalTitle": "Procurator",
+        "DateText": "1537-1592",
+        "StartDate": "1537",
+        "EndDate": "1592",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "The son of Gianfrancesco, was created Procurator od San Marco in 1570. The identification follows Cicogna, Iscrizioni veneziane, p. 438.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

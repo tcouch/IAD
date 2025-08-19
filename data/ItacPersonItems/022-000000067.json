@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5070",
+        "RecordId": "022-000000067",
+        "Surname": "Marescalchi",
+        "Forename": "Fulvio Antonio",
+        "Gender": "Male",
+        "PersonalTitle": "Senator",
+        "DateText": "fl.1614-1644",
+        "StartDate": "fl.1614",
+        "EndDate": "1644",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

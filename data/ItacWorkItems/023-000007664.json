@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007664",
+        "WorkId": "000862",
+        "ShortTitle": "Considerationi del Villa academico disarmato.",
+        "LongTitle": "Sopra il discorso del niente di D. Luigi Manzini. Fatte nell`Academia de gl`Incogniti. In casa dell`Illustrissimo Sig. Gio: Francesco Loredano. Dedicate all`Illustrissimo et Eccellentissimo Senatore Il Sign. Domenico Molino. Seconda Impressione",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Accademia degli Incogniti (Venezia)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1635",
+        "Shelfmark": "1056i1(3)",
+        "Subjects": "Academic discourse|Criticism",
+        "Language": "Italian",
+        "Pagination": "23",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19872",
+                "RecordID": "022-000007314",
+                "Value": "Villa,Pietro,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15347",
+                "RecordID": "022-000001386",
+                "Value": "Molino,Domenico,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20151",
+                "RecordID": "022-000007665",
+                "Value": "Vaglierino,Giovanni Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55230",
+            "Value": "023-000007664_55230_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

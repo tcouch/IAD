@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7017",
+        "RecordId": "022-000000781",
+        "Surname": "Certani",
+        "Forename": "Giovanni Filippo",
+        "Gender": "Male",
+        "DateText": "fl.1607-1610",
+        "StartDate": "fl.1607",
+        "EndDate": "1610",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Certani`s nickname can be found in Bumaldi, Minervalia. Capponi founded the Accademia dei Selvaggi in Certani`s house.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

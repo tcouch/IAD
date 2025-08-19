@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18842",
+        "RecordId": "022-000005918",
+        "Surname": "Bricci",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Briccio"
+        },
+        "DateText": "1579-1645",
+        "StartDate": "1579",
+        "EndDate": "1645",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Also member of Roman Academies Affumicati, and Divisi. See O. Michel, and L. Rossi, `Briccio, Giovanni`, in DBI. Portrait is from Bricci, La Tartarea ... comedia infernale (Viterbo, 1614).",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

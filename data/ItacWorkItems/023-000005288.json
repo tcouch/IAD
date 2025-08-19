@@ -1,0 +1,104 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005288",
+        "WorkId": "000652",
+        "ShortTitle": "Poesie di Girolamo Preti,",
+        "LongTitle": "All`Illustrissimo et Reverendissimo Sig[nor] Antonio Grimani. Dall`autore corretta, ed accresciuta. Ed in questa ultima impressione ampliata di nuove cose non piu` poste in luce.",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1631",
+        "DedicationPlaceDate": "Bologna 17 December 1631",
+        "Shelfmark": "11429b49",
+        "Subjects": "Poetry",
+        "Language": "Italian|Latin",
+        "Pagination": "[36] 296 [6]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5171",
+                "RecordID": "022-000000166",
+                "Value": "Preti,Girolamo,,1582 - 1626"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5171",
+                    "RecordID": "022-000000166",
+                    "Value": "Preti,Girolamo,,1582 - 1626"
+                },
+                {
+                    "PersonId": "18253",
+                    "RecordID": "022-000005249",
+                    "Value": "Inflammati,Academici Humoristae,,"
+                }
+            ]
+        },
+        "Notes": "LO STAMPATORE: I seguenti Elogi, co` quali e` piaciuto a questi valent`huomini di honorar l`Autore, disposti si sono per ordine d`Alfabetto, secondo i nomi de gli Autori,per fuggir lo scoglio delle precedenze. I quali encomi, si` come erano aborriti dalla modestia dell`Autore, cosi` publicati si sono, non perche` queste lodi sieno accettate dal lodato, ma perche` si vegga lo `ngegno de` lodatori.\n\nA CHI LEGGE Avertasi che, se si trova in questi componimenti alcun luogo, dove esaltandosi la bellezza humana, ella sia paragonata a cose sovrhumane, e celesti; overo esaggerandosi le pene amorose, elle sieno agguagliate alle pene Infernali, cio` e` detto per un` hiperbole vaneggiante e per secondar l`usanza de; Poeti. Inoltre le voci Fortuna, Fato, Destino e Sorte, intender si deono per le seconde cagioni , ubidienti alla sovrana universal Cagione. Per Paradiso, ha voluto l`Autore significar cosa vaga, o luogo semplicemente delizioso; per Angola, Idolo, Dea, intese Donna sommamente bella; per Santo, cosa honesta; per Celeste, Sacro e Divino, vuol che s`intenda Cosa eccellente, e degna di riverenza. Per Beare, intendasi Felicitare; per Adorare intendasi Con humilta` riverire. Insomma, l`autor protesta che tutte le voci e tutte le sentenze, le quali paiono o ardite o profanate, si` come usate furiono da tutti i poeti per render piu` vaga e piu` spiritosa la Poesia; cosi` in questi Scherzi intepretar si deono con sentimento non discordante dalla cattolica Verita`",
+        "CensorsAgreement": "Impirmatur si videbitur Reverendiss. P. mag. Sac. Pal. Apostolici A. Eps Hierac. Vicesg. Imprimatur. Fr. Nicolaus Rodulfius Ord. Praedicatorium, Sacri Apostolici Palatii Magister.\nVidit Io: Maria Camogius pro Eminentiss. Card. Archiep. Imprimatur Fr. Hieronymus Onuphrius, pro Reverendiss.  P. Inquisitore Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18287",
+                "RecordID": "022-000005290",
+                "Value": "Grimani,Antonio,Abbot,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18286",
+                "RecordID": "022-000005289",
+                "Value": "Ingegneri,Cesare,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5246",
+                "RecordID": "022-000000238",
+                "Value": "Ferroni,Clemente,,1555/6-1640"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54883",
+            "Value": "023-000005288_54883_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54884",
+            "Value": "023-000005288_54884_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Hyeronimus Pretus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18253",
+                            "RecordID": "022-000005249",
+                            "Value": "Inflammati,Academici Humoristae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per un Ritratto del Cavalier Guarino nell`Esequie a lui fatte da SS. Accademici Humoristi di Roma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5171",
+                            "RecordID": "022-000000166",
+                            "Value": "Preti,Girolamo,,1582 - 1626"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

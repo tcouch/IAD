@@ -1,0 +1,349 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000988",
+        "WorkId": "00114",
+        "ShortTitle": "Compendio della Cefalogia Fisonomica",
+        "LongTitle": "nella quale si contiene cento sonetti di diversi eccellenti poeti sopra cento teste humane. Del signor Cornelio Girardelli bolognese. All`illustre signore signor padron Colendissimo il sig. Felice Sorgo",
+        "ItacAcademyItem": {
+            "AcademyId": "0014",
+            "RecordID": "021-000000878",
+            "Value": "Accademia dei Vespertini"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1674",
+        "DedicationPlaceDate": "Bologna 17 August 1673",
+        "Shelfmark": "11426.a.53",
+        "Subjects": "Physiognomy|Poetry|Portraits",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcuts|",
+        "Pagination": "First 4 leaves unnumbered; pp. 100",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5016",
+                    "RecordID": "022-000000018",
+                    "Value": "Bombaci,Gasparo,Count,1607-1676"
+                },
+                {
+                    "PersonId": "5022",
+                    "RecordID": "022-000000024",
+                    "Value": "Montalbani,Ovidio,,1601 - 1671"
+                },
+                {
+                    "PersonId": "5473",
+                    "RecordID": "022-000000459",
+                    "Value": "Rossi,Errico,Marquis,"
+                },
+                {
+                    "PersonId": "7301",
+                    "RecordID": "022-000000881",
+                    "Value": "Muratori,Achille,,"
+                },
+                {
+                    "PersonId": "7302",
+                    "RecordID": "022-000000883",
+                    "Value": "Irresoluto,Academico Vespertino,,"
+                },
+                {
+                    "PersonId": "7303",
+                    "RecordID": "022-000000884",
+                    "Value": "Avido,,,"
+                },
+                {
+                    "PersonId": "7355",
+                    "RecordID": "022-000000942",
+                    "Value": "Martuzzi da Frascati,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "7356",
+                    "RecordID": "022-000000943",
+                    "Value": "Bezi,Giuliano,,"
+                },
+                {
+                    "PersonId": "7357",
+                    "RecordID": "022-000000944",
+                    "Value": "Marinucci,Guidobaldi,,"
+                },
+                {
+                    "PersonId": "7358",
+                    "RecordID": "022-000000945",
+                    "Value": "Guacciamanni,Domenico,,"
+                },
+                {
+                    "PersonId": "7359",
+                    "RecordID": "022-000000946",
+                    "Value": "Tobioli,Tobia,,"
+                },
+                {
+                    "PersonId": "7360",
+                    "RecordID": "022-000000947",
+                    "Value": "Gabrielli,Diamante,,"
+                },
+                {
+                    "PersonId": "7361",
+                    "RecordID": "022-000000948",
+                    "Value": "Paliardi Bresciano,Giacomo,,"
+                },
+                {
+                    "PersonId": "7362",
+                    "RecordID": "022-000000949",
+                    "Value": "Benamati,Marc`Antonio,,"
+                },
+                {
+                    "PersonId": "7363",
+                    "RecordID": "022-000000950",
+                    "Value": "N.N,,,"
+                },
+                {
+                    "PersonId": "7364",
+                    "RecordID": "022-000000951",
+                    "Value": "L.P.,,,"
+                },
+                {
+                    "PersonId": "7365",
+                    "RecordID": "022-000000952",
+                    "Value": "Intento,,,"
+                },
+                {
+                    "PersonId": "7366",
+                    "RecordID": "022-000000953",
+                    "Value": "Marcoleoni,Bernardino,,"
+                },
+                {
+                    "PersonId": "7368",
+                    "RecordID": "022-000000955",
+                    "Value": "Narducci,,,"
+                },
+                {
+                    "PersonId": "7369",
+                    "RecordID": "022-000000956",
+                    "Value": "V.S.A.N.N.,,,"
+                },
+                {
+                    "PersonId": "7370",
+                    "RecordID": "022-000000957",
+                    "Value": "Benamati,Guidobaldo,,late1500-1653"
+                },
+                {
+                    "PersonId": "7371",
+                    "RecordID": "022-000000958",
+                    "Value": "Galeotti,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "7372",
+                    "RecordID": "022-000000959",
+                    "Value": "Cittadini,Camillo,,"
+                },
+                {
+                    "PersonId": "7373",
+                    "RecordID": "022-000000960",
+                    "Value": "Roeseville,Licano,,"
+                },
+                {
+                    "PersonId": "7374",
+                    "RecordID": "022-000000961",
+                    "Value": "Cavedalis,Giovan Francesco,,"
+                },
+                {
+                    "PersonId": "7375",
+                    "RecordID": "022-000000962",
+                    "Value": "Pipi,Andrea,,"
+                },
+                {
+                    "PersonId": "7376",
+                    "RecordID": "022-000000963",
+                    "Value": "Ardenano,Antonio Maria,,"
+                },
+                {
+                    "PersonId": "7378",
+                    "RecordID": "022-000000965",
+                    "Value": "Lancetti,Gio(vanni),,"
+                },
+                {
+                    "PersonId": "7379",
+                    "RecordID": "022-000000966",
+                    "Value": "Stiatici,Girolamo Maria,,"
+                },
+                {
+                    "PersonId": "7380",
+                    "RecordID": "022-000000967",
+                    "Value": "Angelici,Michelangelo,,"
+                },
+                {
+                    "PersonId": "7381",
+                    "RecordID": "022-000000968",
+                    "Value": "Masi,Tomaso,,"
+                },
+                {
+                    "PersonId": "7382",
+                    "RecordID": "022-000000969",
+                    "Value": "Santini,Francesco,,"
+                },
+                {
+                    "PersonId": "7383",
+                    "RecordID": "022-000000970",
+                    "Value": "Aldrovandi ,Antonio,,fl. 1630 - 1668"
+                },
+                {
+                    "PersonId": "7384",
+                    "RecordID": "022-000000971",
+                    "Value": "Gierosello,Marc`Antonio,,"
+                },
+                {
+                    "PersonId": "7385",
+                    "RecordID": "022-000000972",
+                    "Value": "Diverso,Honesto,,"
+                },
+                {
+                    "PersonId": "7386",
+                    "RecordID": "022-000000973",
+                    "Value": "Martij,Hercole,,"
+                },
+                {
+                    "PersonId": "7387",
+                    "RecordID": "022-000000974",
+                    "Value": "Silvuzzi,Nicol\u00f2,,"
+                },
+                {
+                    "PersonId": "7388",
+                    "RecordID": "022-000000975",
+                    "Value": "F.M.,,,"
+                },
+                {
+                    "PersonId": "7389",
+                    "RecordID": "022-000000976",
+                    "Value": "Gatti,Bassiano,,1562-1642"
+                },
+                {
+                    "PersonId": "7390",
+                    "RecordID": "022-000000977",
+                    "Value": "Ammonio,Tullio,,"
+                },
+                {
+                    "PersonId": "7391",
+                    "RecordID": "022-000000978",
+                    "Value": "Betteloni,Angelo,,"
+                },
+                {
+                    "PersonId": "7392",
+                    "RecordID": "022-000000979",
+                    "Value": "Roffeni,Filippo,,"
+                },
+                {
+                    "PersonId": "7393",
+                    "RecordID": "022-000000980",
+                    "Value": "dall`Ombra,Filaldesperto,,"
+                },
+                {
+                    "PersonId": "7394",
+                    "RecordID": "022-000000981",
+                    "Value": "Rontoni,Giulio,,"
+                },
+                {
+                    "PersonId": "7395",
+                    "RecordID": "022-000000982",
+                    "Value": "Ghirardelli,Laura Felice,,"
+                },
+                {
+                    "PersonId": "7396",
+                    "RecordID": "022-000000983",
+                    "Value": "Insensato,,,"
+                },
+                {
+                    "PersonId": "7397",
+                    "RecordID": "022-000000984",
+                    "Value": "Coralti,Aliprando,,"
+                },
+                {
+                    "PersonId": "7398",
+                    "RecordID": "022-000000985",
+                    "Value": "Martelli,Tom(m)aso,,"
+                },
+                {
+                    "PersonId": "5015",
+                    "RecordID": "022-000000017",
+                    "Value": "Gessi,Berlingiero (juniore),Senator,1613 - 1671"
+                },
+                {
+                    "PersonId": "5116",
+                    "RecordID": "022-000000113",
+                    "Value": "Capponi,Giovanni,,1586-1629"
+                },
+                {
+                    "PersonId": "7329",
+                    "RecordID": "022-000000916",
+                    "Value": "Capponi,Annibale,,1535-1614"
+                },
+                {
+                    "PersonId": "7332",
+                    "RecordID": "022-000000919",
+                    "Value": "Intrepido,,,"
+                },
+                {
+                    "PersonId": "7314",
+                    "RecordID": "022-000000901",
+                    "Value": "Guerini,Guerino,,"
+                },
+                {
+                    "PersonId": "7333",
+                    "RecordID": "022-000000920",
+                    "Value": "Maldenti,Manfredi,,"
+                },
+                {
+                    "PersonId": "7342",
+                    "RecordID": "022-000000929",
+                    "Value": "Conforme,,,"
+                },
+                {
+                    "PersonId": "7349",
+                    "RecordID": "022-000000936",
+                    "Value": "Ciarlini da Carpi,Ippolito,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal|Archibishop of Bologna,1622 - 1684"
+                },
+                {
+                    "PersonId": "7308",
+                    "RecordID": "022-000000889",
+                    "Value": "Gribaldi,Mauritius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "V. D. Mauritius Giribaldi Clericus Regulari Sancti Pauli et in Ecclesiae Metropol. Bononiae Poenit. pro Eminentiss. Cardinali Hyeronimo Boncompagno Archiep. Princ. | Reimprimatur | Fr. Marcellus Ghirardus a Diano Sacrae teologiae Magister Ordinis Predicatorum ac Vicarius Generalis S. Officij Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7305",
+                "RecordID": "022-000000886",
+                "Value": "Sorgo,Felice,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7306",
+                "RecordID": "022-000000887",
+                "Value": "Vaglierino,Giovanni Battista,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7307",
+                "RecordID": "022-000000888",
+                "Value": "Recaldini,Giovanni,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

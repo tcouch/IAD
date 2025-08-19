@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5041",
+        "RecordId": "022-000000043",
+        "Surname": "Facchinetti",
+        "Forename": "Giovanni Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Facheneti"
+        },
+        "PersonalTitle": "Pope Innocent IX",
+        "DateText": "1519-1591",
+        "StartDate": "1519",
+        "EndDate": "1591",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

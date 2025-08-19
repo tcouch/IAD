@@ -1,0 +1,446 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0086",
+        "RecordId": "021-000004474",
+        "Name": "Unanimi (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Baytree, with a book hanging on one side and a lyre on the other",
+        "Motto": "Undique honores",
+        "StartDate": "1670",
+        "EndDate": "1673",
+        "DateText": "1670-1673",
+        "Notes": "For the history of the Academy, its members, and its publications, see Bergamini, `Dai Gelati alla Renia`. There are 4 publications related to this Academy in the Archiginnasio library in Bologna. The academy was interested in literature and music. Here we provide a list of `letterati` members. Publications, not held in British Library collections, include: L`Alloro trionfato poesia di Tomaso Stanzani da cantarsi da` SS. Accademici Unanimi nella loro Accademia (In Bologna: per l`Erede di Domenico Barbieri, 1672); Olocausto d`encomi offerto da sign. Academici Unanimi al loro gran protettore san Nicol\u00f2 il Magno nell`Accademia di belle lettere, e musica fatta la sera delli 17 marzo 1672. ... (In Bologna: per Gio. Recaldini, 1672); Ossequio all`eminentissimo Lazaro Pallavicino dignissimo legato di Bologna, presentato da` fondatori Unanimi per l`intrapresa protezione della loro accademia (Bologna: presso Gio. Battista Ferroni, 1673); Plausus poetici in solemni totius philosophiae propugnatione habita a D. Sebastiano Veronesio Bononiensi. - [17th c.]",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17581",
+                "RecordId": "022-000004475",
+                "Name": "Albergati,Ugo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16204",
+                "RecordId": "022-000002833",
+                "Name": "Balbi,Benedetto Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17582",
+                "RecordId": "022-000004476",
+                "Name": "Benedelli,Giovanni Battista,,",
+                "Nickname": "Il Pensieroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15570",
+                "RecordId": "022-000002096",
+                "Name": "Bergamini,Giacomo Antonio,,",
+                "Nickname": "Il Retrogado Avanzato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17584",
+                "RecordId": "022-000004478",
+                "Name": "Bonzi,Maffeo,,",
+                "Nickname": "Ingenuo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17585",
+                "RecordId": "022-000004479",
+                "Name": "Bordochi,Francesco Maria,,",
+                "Nickname": "Simpatico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5482",
+                "RecordId": "022-000000468",
+                "Name": "de Buoi,Vitale,Count,",
+                "Nickname": "Considerante impensato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17586",
+                "RecordId": "022-000004480",
+                "Name": "Calderini,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5017",
+                "RecordId": "022-000000019",
+                "Name": "Carmeni,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9739",
+                "RecordId": "022-000000591",
+                "Name": "Casali,Gregorio,Senator,fl. 1695",
+                "Nickname": "Mascherato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17587",
+                "RecordId": "022-000004481",
+                "Name": "Chiari,Carlo Virgilio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17588",
+                "RecordId": "022-000004482",
+                "Name": "Cupellini,Ercole Antonio,,",
+                "Nickname": "Infervorato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5606",
+                "RecordId": "022-000000672",
+                "Name": "Ferrari,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5021",
+                "RecordId": "022-000000023",
+                "Name": "Fioravanti,Innocenzio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17589",
+                "RecordId": "022-000004483",
+                "Name": "Franchi,Giulio Antonio,,",
+                "Nickname": "Esanimato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17590",
+                "RecordId": "022-000004484",
+                "Name": "Galvani,Giovanni,,",
+                "Nickname": "Discorde",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17592",
+                "RecordId": "022-000004486",
+                "Name": "Garzoni,Annibale Giuseppe,,",
+                "Nickname": "Rauco",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17593",
+                "RecordId": "022-000004487",
+                "Name": "Gherardi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17682",
+                "RecordId": "022-000004577",
+                "Name": "Giovanetti,Ulisse,,",
+                "Nickname": "Inabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17683",
+                "RecordId": "022-000004578",
+                "Name": "Giroldi,Pellegrino,,",
+                "Nickname": "Agitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17684",
+                "RecordId": "022-000004579",
+                "Name": "Glacani,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17685",
+                "RecordId": "022-000004580",
+                "Name": "Grazioli,Ippolito Antonio,,",
+                "Nickname": "Umile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15165",
+                "RecordId": "022-000001207",
+                "Name": "Legati,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17686",
+                "RecordId": "022-000004581",
+                "Name": "Maggi,Giuseppe Carlo Gaetano,,",
+                "Nickname": "Costante timido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17687",
+                "RecordId": "022-000004582",
+                "Name": "Malisardi,Gregorio,,",
+                "Nickname": "Oscuro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17688",
+                "RecordId": "022-000004583",
+                "Name": "Mangelli,Antonio,,",
+                "Nickname": "Sincero",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17689",
+                "RecordId": "022-000004584",
+                "Name": "Marescotti,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17690",
+                "RecordId": "022-000004585",
+                "Name": "Mazza,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17691",
+                "RecordId": "022-000004586",
+                "Name": "Mezzavacca,Flaminio,,",
+                "Nickname": "Avvivato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17692",
+                "RecordId": "022-000004587",
+                "Name": "Moscardini,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17693",
+                "RecordId": "022-000004588",
+                "Name": "Motta,Bartolomeo Francesco,,",
+                "Nickname": "Vivace",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17695",
+                "RecordId": "022-000004590",
+                "Name": "Orsi,Carlo Antonio,,",
+                "Nickname": "Affaticato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17696",
+                "RecordId": "022-000004591",
+                "Name": "Ottani,Filippo,,",
+                "Nickname": "Fedele",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17697",
+                "RecordId": "022-000004592",
+                "Name": "Prandini,Francesco Maria,,",
+                "Nickname": "Intronato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17698",
+                "RecordId": "022-000004593",
+                "Name": "Righi,Bartolomeo,,",
+                "Nickname": "Patetico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17699",
+                "RecordId": "022-000004594",
+                "Name": "Rossi,Bonaventura,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17700",
+                "RecordId": "022-000004595",
+                "Name": "Sacchi,Angelo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17701",
+                "RecordId": "022-000004596",
+                "Name": "Sanfoni,Celidonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16202",
+                "RecordId": "022-000002831",
+                "Name": "Scarselli,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17703",
+                "RecordId": "022-000004598",
+                "Name": "Stanzani,Tommaso,,1647 - 1717",
+                "Nickname": "Disunito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17712",
+                "RecordId": "022-000004608",
+                "Name": "Zecchini,Agostino,,",
+                "Nickname": "il Gradito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5094",
+                "RecordId": "022-000000091",
+                "Name": "Zambeccari,Camillo,,",
+                "Nickname": "il Devoto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17713",
+                "RecordId": "022-000004609",
+                "Name": "Vittorio,Gio. Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17714",
+                "RecordId": "022-000004610",
+                "Name": "Villacupino,Domenico Maria,,",
+                "Nickname": "l`Incostante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5188",
+                "RecordId": "022-000000182",
+                "Name": "Venenti,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17715",
+                "RecordId": "022-000004611",
+                "Name": "Vastamigli,Antonio Luigi,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17716",
+                "RecordId": "022-000004612",
+                "Name": "Tosi,Giancarlo,,",
+                "Nickname": "Il Fido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17717",
+                "RecordId": "022-000004613",
+                "Name": "Togni,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17718",
+                "RecordId": "022-000004614",
+                "Name": "Tesini,Luca,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5182",
+                "RecordId": "022-000000177",
+                "Name": "Tenti,Bernardino,,",
+                "Nickname": "Il Disacerbato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5080",
+                "RecordId": "022-000000077",
+                "Name": "Nanni Fantuzzi,Ippolito,,ca. 1609 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15385",
+                "RecordId": "022-000001880",
+                "Name": "Colonna,Giovanni  Paolo,,1637-1695",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15422",
+                "RecordId": "022-000001928",
+                "Name": "Vitali,Gio(vanni) Battista,Chapel Master,1632-1692",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

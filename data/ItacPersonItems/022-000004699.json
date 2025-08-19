@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17792",
+        "RecordId": "022-000004699",
+        "Surname": "Nifo",
+        "Forename": "Agostino",
+        "AlternativeName": {
+            "AlternativeSurname": "Niphus",
+            "AlternativeForename": "Augustinus"
+        },
+        "DateText": "1473 - 1545?",
+        "StartDate": "1473",
+        "EndDate": "1545?",
+        "Nationality": {
+            "NationalityId": "168",
+            "Value": "of Sessa Aurunca"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

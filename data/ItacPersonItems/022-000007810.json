@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20231",
+        "RecordId": "022-000007810",
+        "Surname": "Papin",
+        "Forename": "Denis",
+        "DateText": "1647-1714",
+        "StartDate": "1647",
+        "EndDate": "1714",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Date of death according to The library of Samuel Pepys (2004). In 1679 became curator of the scientific library in Sarotti`s house. See his biography in H. W. Robinson, Denis Papin, in Notes and Records of the Royal Society of London, Vol. 5, No. 1 (Oct., 1947), pp. 47-50.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

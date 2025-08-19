@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7505",
+        "RecordId": "022-000001026",
+        "Surname": "Camozzi",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Camoti Asolano",
+                "AlternativeForename": "Ioanni Baptistae"
+            },
+            {
+                "AlternativeSurname": "Camosio"
+            }
+        ],
+        "DateText": "1515-1581",
+        "StartDate": "1515",
+        "EndDate": "1581",
+        "Nationality": {
+            "NationalityId": "194",
+            "Value": "of Asolo (Treviso)"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

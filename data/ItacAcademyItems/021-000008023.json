@@ -1,0 +1,32 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0491",
+        "RecordId": "021-000008023",
+        "Name": "Erranti-Ceneda (Accademia degli)",
+        "City": {
+            "CityId": "116",
+            "CityItalianName": "Ceneda",
+            "CityEnglishName": "Ceneda"
+        },
+        "Notes": "On Carraris` presence in the Academy, see Virginia Cox, The Prodigious Muse, 2011",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16271",
+                "RecordId": "022-000002922",
+                "Name": "Carrari,Fabrizia,,",
+                "Nickname": "Boscareccia",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16288",
+                "RecordId": "022-000002941",
+                "Name": "Carrari,Innocenza,,",
+                "Nickname": "Piscatrice",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

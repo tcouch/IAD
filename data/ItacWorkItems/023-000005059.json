@@ -1,0 +1,173 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005059",
+        "WorkId": "000621",
+        "ShortTitle": "Versi et regole della nuova poesia toscana",
+        "ItacAcademyItem": {
+            "AcademyId": "0107",
+            "RecordID": "021-000005041",
+            "Value": "Accademia della Virt\u00f9"
+        },
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1539",
+        "DedicationPlaceDate": "Rome, 18 October 1539",
+        "Shelfmark": "84.c.31",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7551",
+                "RecordID": "022-000001455",
+                "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7551",
+                    "RecordID": "022-000001455",
+                    "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+                },
+                {
+                    "PersonId": "18103",
+                    "RecordID": "022-000005061",
+                    "Value": "Renieri Da Colle,Antonio,,"
+                },
+                {
+                    "PersonId": "18104",
+                    "RecordID": "022-000005062",
+                    "Value": "Gualterio,Paolo,,"
+                },
+                {
+                    "PersonId": "18105",
+                    "RecordID": "022-000005063",
+                    "Value": "Zuccarelli,Giovanni,,"
+                },
+                {
+                    "PersonId": "18106",
+                    "RecordID": "022-000005064",
+                    "Value": "Vieri,Giulio,,"
+                },
+                {
+                    "PersonId": "18107",
+                    "RecordID": "022-000005065",
+                    "Value": "Cittolini,Alessandro,,ca.1500 - ca.1583"
+                },
+                {
+                    "PersonId": "18108",
+                    "RecordID": "022-000005066",
+                    "Value": "Paganucci,Bartolomeo,,"
+                },
+                {
+                    "PersonId": "18109",
+                    "RecordID": "022-000005067",
+                    "Value": "Zerbo,Gabriello,,"
+                },
+                {
+                    "PersonId": "18110",
+                    "RecordID": "022-000005068",
+                    "Value": "Alamanni,Giovan Battista,,"
+                },
+                {
+                    "PersonId": "18111",
+                    "RecordID": "022-000005069",
+                    "Value": "Sansoval di Castro,Diego,,"
+                },
+                {
+                    "PersonId": "16387",
+                    "RecordID": "022-000003053",
+                    "Value": "Colombini,Leonardo,,"
+                },
+                {
+                    "PersonId": "17986",
+                    "RecordID": "022-000004920",
+                    "Value": "Cerretani,Aldobrando,,"
+                },
+                {
+                    "PersonId": "18115",
+                    "RecordID": "022-000005073",
+                    "Value": "Romei,Cristofano,,"
+                },
+                {
+                    "PersonId": "18114",
+                    "RecordID": "022-000005072",
+                    "Value": "Brigidi,Ottaviano,,"
+                },
+                {
+                    "PersonId": "18116",
+                    "RecordID": "022-000005074",
+                    "Value": "de` Marchesi,Carlo,,"
+                },
+                {
+                    "PersonId": "18117",
+                    "RecordID": "022-000005075",
+                    "Value": "Bovio,Alessandro,,"
+                },
+                {
+                    "PersonId": "18118",
+                    "RecordID": "022-000005076",
+                    "Value": "Zefiro,Mario,,"
+                },
+                {
+                    "PersonId": "18119",
+                    "RecordID": "022-000005077",
+                    "Value": "Spica,Tommaso,,"
+                },
+                {
+                    "PersonId": "17497",
+                    "RecordID": "022-000004370",
+                    "Value": "Caro,Annibale,,1507 - 1566"
+                },
+                {
+                    "PersonId": "18120",
+                    "RecordID": "022-000005078",
+                    "Value": "Boccarino,Bernardino,,"
+                },
+                {
+                    "PersonId": "7552",
+                    "RecordID": "022-000001456",
+                    "Value": "Benzio,Trifone,,fl.1530-1571"
+                },
+                {
+                    "PersonId": "18121",
+                    "RecordID": "022-000005079",
+                    "Value": "del Rosso Fiorentino,Paolo,,"
+                },
+                {
+                    "PersonId": "18122",
+                    "RecordID": "022-000005080",
+                    "Value": "Atanagi,Dionigi,,ca.1510 - 1573"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17988",
+                "RecordID": "022-000004922",
+                "Value": "Valerio,Gio.,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18102",
+                "RecordID": "022-000005060",
+                "Value": "Pallavicino,Cosimo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18100",
+                "RecordID": "022-000005057",
+                "Value": "Blado,Antonio,,1490 - 1567"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

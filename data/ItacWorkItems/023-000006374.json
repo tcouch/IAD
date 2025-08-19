@@ -1,0 +1,64 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006374",
+        "WorkId": "000765",
+        "ShortTitle": "Systema cosmicum, autore Galilaeo Galilaei  Lynceo",
+        "LongTitle": "Academiae Pisanae mathematico extraordinario, serenissimi magni - Ducis Hetruriae philosopho et mathematico primario: in quo quatuor dialogis de duobus Maximis Mundi Systematibus, Ptolemaico et Copernicano, utriusque rationibus Philosophicis ac naturalibus indefinite propositis differitur. Ex italica Lingua Latine conversum, Accessit Appendix gemina, qua SS. Scripturae dicta cum Terrae mobilitate conciliantur.",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "71",
+            "PublicationPlaceItalianName": "Londra",
+            "PublicationPlaceEnglishName": "London",
+            "PublicationPlaceLatinName": "Londinium"
+        },
+        "PublicationYear": "1663",
+        "DedicationPlaceDate": "Aug. Treb. [Strasbourg] Kal. Mart. 1635",
+        "Shelfmark": "8562a34",
+        "Subjects": "Astronomy",
+        "Language": "Latin",
+        "Pagination": "[18] 704 [24]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9018",
+                "RecordID": "022-000001586",
+                "Value": "Galilei,Galileo,,1564 - 1642"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "19232",
+                "RecordID": "022-000006409",
+                "Value": "Baylie,Ricardus,,1585/6-1667"
+            }
+        },
+        "CensorsAgreement": "Typis mandetur hic liber, cujus titulum retroversa pagina monstrabit. Ricardus Baylie Vice-Can. Oxon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19204",
+                "RecordID": "022-000006371",
+                "Value": "Berneggerius,Matthias,,1582 - 1640"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19206",
+                "RecordID": "022-000006375",
+                "Value": "Dicas,Thomam,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008411",
+        "WorkId": "000951",
+        "ShortTitle": "Bizzarrie academiche",
+        "LongTitle": "di Gio. Francesco Loredano nobile veneto",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Incogniti-Venezia (Accademia degli)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "115",
+            "PublicationPlaceItalianName": "Cremona",
+            "PublicationPlaceEnglishName": "Cremona",
+            "PublicationPlaceLatinName": "Cremonae"
+        },
+        "PublicationYear": "1640",
+        "DedicationPlaceDate": "Di casa 10 Novembre 1639",
+        "Shelfmark": "1607/60",
+        "Subjects": "Academic presentations",
+        "Language": "Italian",
+        "Pagination": "[40] 391",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17761",
+                "RecordID": "022-000004663",
+                "Value": "Loredan,Gianfrancesco,,1607-1661"
+            }
+        },
+        "CensorsAgreement": "Imprimatur Fr. Nicolaus Buzzallus Vic. Gen. S. Officii Cremonae Comes maioragiu pro Excellentissimo Senatu",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20618",
+                "RecordID": "022-000008412",
+                "Value": "Giussani,Giovanni Antonio,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7317",
+                "RecordID": "022-000000904",
+                "Value": "Belpieri,Giacinto,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7317",
+                "RecordID": "022-000000904",
+                "Value": "Belpieri,Giacinto,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55315",
+            "Value": "023-000008411_55315_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7300",
+        "RecordId": "022-000000880",
+        "Surname": "Ghirardelli",
+        "Forename": "Cornelio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Girardelli"
+        },
+        "DateText": "mid16th c.-1637",
+        "StartDate": "mid16th c.",
+        "EndDate": "1637",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "He was member of the order of \"francescani minoriti\" and was particularly interested in astrology and medicine. He co-founded the Vespertini Academy with Ovidio Montalbani. See his biography by Alessandro Ottaviani in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

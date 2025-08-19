@@ -1,0 +1,76 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001413",
+        "WorkId": "00140",
+        "ShortTitle": "Rime di M. Pietro Bembo de gli errori di tutte l`altre impressioni purgate.",
+        "LongTitle": "Aggiuntovi l`osservationi la variet\u00e0 de` testi e la tavola di tutte le desinenze delle rime. Dal cavalier Gio: Battista Basile nell`Accademia de gli Stravaganti di Creti e de gli Otiosi di Napoli il Pigro.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1616",
+        "Shelfmark": "11426.aaa.20",
+        "Content": "Edited collection of Pietro Bembo`s Poems.",
+        "Subjects": "Poetry|Critical edition",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 134",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16556",
+                    "RecordID": "022-000003269",
+                    "Value": "Bembo,Pietro,Cardinal,1470 - 1547"
+                },
+                {
+                    "PersonId": "16557",
+                    "RecordID": "022-000003270",
+                    "Value": "Della Casa,Giovanni,Archbishop of Benevento,1503 - 1556"
+                }
+            ]
+        },
+        "Notes": "Miscellaneous text containing other Basile`s critical editions of Pietro Bembo`s poetry and Giovanni Della Casa`s Rime.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15140",
+                    "RecordID": "022-000001182",
+                    "Value": "Tiroboscus,Cornelius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur Petrus Antonius Ghibertus Vicarius Generalis. Magister Cornelius Tiroboscus Praedicatorum ordinis Theologus. In Napoli nella stamperia di Costantino Vitale. 1618. Con licenza de` Superiori.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15002",
+                "RecordID": "022-000001044",
+                "Value": "Basile,Giovan Battista,Count of Torone,1575-1632"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15032",
+                "RecordID": "022-000001074",
+                "Value": "Vitale,Costantino,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52865",
+            "Value": "023-000001413_52865_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007862",
+        "WorkId": "000879",
+        "ShortTitle": "Delle orationi volgarmente scritte da molti huomini illustri de` tempi nostri",
+        "LongTitle": "Parte seconda. Nella quale si contengono ragionamenti filosofici, criminali, et funebri appartenenti ad ogni qualita` di persone. Raccolte, rivedute et corrette da M. Francesco Sansovino.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0459",
+                "RecordID": "021-000007857",
+                "Value": "Accademia degli Uniti (Venezia)"
+            },
+            {
+                "AcademyId": "0459",
+                "RecordID": "021-000007857",
+                "Value": "Uniti - Venezia (Accademia degli)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1575",
+        "Shelfmark": "835f7",
+        "Subjects": "Academic Speeches|Encomiastic discourse|Slavery",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17866",
+                "RecordID": "022-000004779",
+                "Value": "Spatafora,Bartolomeo,,fl.1553-after1582"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17866",
+                "RecordID": "022-000004779",
+                "Value": "Spatafora,Bartolomeo,,fl.1553-after1582"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20258",
+                "RecordID": "022-000007863",
+                "Value": "Cossazza,Ulatico,Voivoda of the Bosnian Kingdom|Duke of Santa Sava,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16222",
+                "RecordID": "022-000002859",
+                "Value": "Sansovino,Francesco,,1521-1583"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16222",
+                "RecordID": "022-000002859",
+                "Value": "Sansovino,Francesco,,1521-1583"
+            }
+        },
+        "PrinterOrnament": "V454 |Z396",
+        "TitlePageImage": {
+            "ImageId": "55032",
+            "Value": "023-000007862_55032_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Oratione di M. Bartolomeo Spataphora nelle esequie del serenissimo principe Marcantonio Trevisano Doge di Venetia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17866",
+                            "RecordID": "022-000004779",
+                            "Value": "Spatafora,Bartolomeo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al serenissimo Principe Francesco Venieri, Doge di Venetia etc. nella sua creatione, congratulatione di Bartolomeo Spatafora",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17866",
+                            "RecordID": "022-000004779",
+                            "Value": "Spatafora,Bartolomeo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Difesa [della servitu'] di Bartholomeo Spataphora di Moncata, gentil'huomo venetiano, nell'Accademia de gli Uniti di Venetia, a X di settembre 1552 ---",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17866",
+                            "RecordID": "022-000004779",
+                            "Value": "Spatafora,Bartolomeo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Difesa della discordia nell'Accademia degli Uniti di Venetia, a 20 di maggio 1553",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17866",
+                            "RecordID": "022-000004779",
+                            "Value": "Spatafora,Bartolomeo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

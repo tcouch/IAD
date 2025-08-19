@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5224",
+        "RecordId": "022-000000216",
+        "Surname": "Boncompagno",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Hieronymo"
+            },
+            {
+                "AlternativeSurname": "Boncompagni"
+            }
+        ],
+        "PersonalTitle": "Cardinal|Archibishop of Bologna",
+        "DateText": "1622-1684",
+        "StartDate": "1622",
+        "EndDate": "1684",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "The affiliation of Girolamo Boncompagni to the Gelati Academy, with the nickname Il Moderato, is in Mario Mariani`s dedication to the prelate of his Il Tempio dell`onore (1671).",
+        "Role": "Censor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

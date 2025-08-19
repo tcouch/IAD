@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19129",
+        "RecordId": "022-000006266",
+        "Surname": "Ridolfi",
+        "Forename": "Cosimo",
+        "DateText": "1570 - 1619",
+        "StartDate": "1570",
+        "EndDate": "1619",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Joined the Lincei in 1613.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

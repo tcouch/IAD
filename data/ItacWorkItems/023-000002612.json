@@ -1,0 +1,187 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002612",
+        "WorkId": "000317",
+        "ShortTitle": "Memorie Historiche del Sannio",
+        "LongTitle": "Chiamato Hoggi Principato Ultra, Contado di Molisi, e parte di Terra di Lavoro, provincie del Regno di Napoli. Divise in Cinque Libri, Nelli quali si descrivono i suoi confini, gli habitatori, le guerre, edificationi, e rovine de luoghi: Li Signori di essi, le loro famiglie, e gli huomini illustri, che vi fiorirono nella Santit\u00e0, nelle lettere, e nell`arme. Raccolte dal Dottor Gio. Vincenzo Ciarlanti Arciprete Della Catedrale D`Isernia.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0034",
+                "RecordID": "021-000002609",
+                "Value": "Accademia degli Erranti"
+            },
+            {
+                "AcademyId": "0042",
+                "RecordID": "021-000002744",
+                "Value": "Accademia degli Arcincauti"
+            }
+        ],
+        "Format": "Folio",
+        "City": {
+            "CityId": "63",
+            "PublicationPlaceItalianName": "Isernia",
+            "PublicationPlaceEnglishName": "Isernia",
+            "PublicationPlaceLatinName": "Aesernia"
+        },
+        "PublicationYear": "1644",
+        "DedicationPlaceDate": "Isernia 15 August 1644",
+        "Shelfmark": "664.e.14.",
+        "Subjects": "History of Sannio",
+        "Language": "Italian|Latin",
+        "Illustration": "Armorial bearings|Armorial bearing",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16041",
+                "RecordID": "022-000002611",
+                "Value": "Ciarlanti,Gio[vanni] Vincenzo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16040",
+                    "RecordID": "022-000002610",
+                    "Value": "Cacace,Gio[vanni] Battista,,"
+                },
+                {
+                    "PersonId": "15018",
+                    "RecordID": "022-000001060",
+                    "Value": "Comite,Oratio,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15232",
+                "RecordID": "022-000001275",
+                "Value": "Cavallo,Camillo,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15241",
+                    "RecordID": "022-000001284",
+                    "Value": "Brancia,,,"
+                },
+                {
+                    "PersonId": "15235",
+                    "RecordID": "022-000001278",
+                    "Value": "Zufia,,,"
+                },
+                {
+                    "PersonId": "15243",
+                    "RecordID": "022-000001286",
+                    "Value": "Sanfelicius.,,,"
+                },
+                {
+                    "PersonId": "15242",
+                    "RecordID": "022-000001285",
+                    "Value": "Azcon,,,"
+                },
+                {
+                    "PersonId": "15238",
+                    "RecordID": "022-000001281",
+                    "Value": "Capicius Latro,,,"
+                },
+                {
+                    "PersonId": "16045",
+                    "RecordID": "022-000002617",
+                    "Value": "Tapia,,,"
+                },
+                {
+                    "PersonId": "16047",
+                    "RecordID": "022-000002619",
+                    "Value": "Cioccarello,Bartolomeo,,"
+                },
+                {
+                    "PersonId": "16049",
+                    "RecordID": "022-000002621",
+                    "Value": "Mascambrunus,Hieronymus,Bishop of Isernia,"
+                },
+                {
+                    "PersonId": "16048",
+                    "RecordID": "022-000002620",
+                    "Value": "Sanchez,Ioannes,,"
+                },
+                {
+                    "PersonId": "16050",
+                    "RecordID": "022-000002622",
+                    "Value": "de Mesa,Arias,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Historicae Samnij Memoriae, quas V.I.D. Io. Vincentius Ciarlanti Iserniensis Archipresbyter studios\u00e8 collegit, apt\u00e8 disposuit, erudit\u00e8 illustravit; omnino dignae sunt Illustrissime Praesul, quae lucem, quam veritati refuderunt, aspiciant. Datum Iserniae die 11. Martij 1643. Ioannes Sanchez Theologus Cler. Reg. Minor. Imprimatur. Hieronymus Mascambrunus Episcopus Iserniensis. \nIllustrissime, & Excellentissime Domine. Vidi, ac perlegi praesentem librum, & in eo nihil est, quod bonis moribus, aut Regiae Iurisdictioni adversetur, quapropter dignum illum censeo, ut Imprimi possit, & sic refero Vestre Excellentiae. Neapoli die 15. Novembris 1641.\nV. E. humilissimus servuus Bartholomeus Chioccarellus. Visa supradicta relatione. Imprimatur. Tapia Reg. Brancia Reg. Zufia Reg. Sanfelicius Reg. Azcon Reg. Capiciuslatro Reg. Vidit Arias de Mesa Regius Consiliarus delegatus per S. E. pro revisione librorum.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16041",
+                    "RecordID": "022-000002611",
+                    "Value": "Ciarlanti,Gio[vanni] Vincenzo,,"
+                },
+                {
+                    "PersonId": "16042",
+                    "RecordID": "022-000002613",
+                    "Value": "de Cabrera,Juan Alfonso Enr\u00edquez ,Viceroy,"
+                },
+                {
+                    "PersonId": "16043",
+                    "RecordID": "022-000002614",
+                    "Value": "Caracciolo,Carlo Andrea,Marquis of Torrecuso,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15232",
+                "RecordID": "022-000001275",
+                "Value": "Cavallo,Camillo,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Signor Gio. Vincenzo Ciarlanti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15018",
+                            "RecordID": "022-000001060",
+                            "Value": "Comite,Oratio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ioannis Baptistae Cacacij Academici Errantis. In laudes Nobilissimi historici Io. Vincentij Ciarlanti. Quod Samnij glorias, ac trophea ab oblivione in clarissimam temporum omnium memoriam eripuerit. Epigramma.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15018",
+                            "RecordID": "022-000001060"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Oratio Comite Arcincauto. All`Autore.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15018",
+                            "RecordID": "022-000001060",
+                            "Value": "Comite,Oratio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Laureata Panegyricus In Laudes Caroli Andreae Caraccioli Marchioni De Torrecuso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16040",
+                            "RecordID": "022-000002610",
+                            "Value": "Cacace,Gio[vanni] Battista,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

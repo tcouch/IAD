@@ -1,0 +1,22 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0418",
+        "RecordId": "021-000007761",
+        "Name": "Pantectica (Accademia)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "ItacPersonItem": {
+            "PersonId": "20214",
+            "RecordId": "022-000007760",
+            "Name": "Castagna,Marcantonio,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

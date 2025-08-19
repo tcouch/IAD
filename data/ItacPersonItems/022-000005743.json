@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18679",
+        "RecordId": "022-000005743",
+        "Surname": "Ferrero",
+        "Forename": "Pier Francesco",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Ferrerio"
+            },
+            {
+                "AlternativeSurname": "Ferreri"
+            }
+        ],
+        "PersonalTitle": "Bishop of Vercelli|Cardinal",
+        "DateText": "1510-1566",
+        "StartDate": "1510",
+        "EndDate": "1566",
+        "Nationality": {
+            "NationalityId": "263",
+            "Value": "of Vercelli"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

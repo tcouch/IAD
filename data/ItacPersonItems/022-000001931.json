@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15424",
+        "RecordId": "022-000001931",
+        "Surname": "Limpio",
+        "Forename": "Pompeo",
+        "Gender": "Male",
+        "DateText": "fl.1550-ca1608",
+        "StartDate": "fl.1550",
+        "EndDate": "ca1608",
+        "Nationality": {
+            "NationalityId": "216",
+            "Value": "of Bari"
+        },
+        "Notes": "President of Accademia Veneziana",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

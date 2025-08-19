@@ -1,0 +1,89 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005151",
+        "WorkId": "000631",
+        "ShortTitle": "Duo tum gravissima tum lepidissima poemata heroica",
+        "LongTitle": "Illustriss. Iacobi Sadoleti, & Francisci Sfondrati. Quorum alterum inscribitur Curtius, alterum vero De raptu Helenae",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "1069.b.16.(3.)",
+        "Language": "Latin",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20804",
+                    "RecordID": "022-000008641",
+                    "Value": "Sadoleto,Jacopo,Cardinal,1477-1547"
+                },
+                {
+                    "PersonId": "20805",
+                    "RecordID": "022-000008642",
+                    "Value": "Sfondrati,Francesco,Governor of Siena|Bishop of Cremona|Cardinal,1493-1550"
+                }
+            ]
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20804",
+                    "RecordID": "022-000008641",
+                    "Value": "Sadoleto,Jacopo,Cardinal,1477-1547"
+                },
+                {
+                    "PersonId": "20805",
+                    "RecordID": "022-000008642",
+                    "Value": "Sfondrati,Francesco,Governor of Siena|Bishop of Cremona|Cardinal,1493-1550"
+                }
+            ]
+        },
+        "Notes": "The dedication is signed by the poets of the Academia Veneta, `Poetae Academiae Venetae`.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manuzio,Paolo,,1512-1574"
+            }
+        },
+        "PrinterOrnament": "U226",
+        "TitlePageImage": {
+            "ImageId": "55082",
+            "Value": "023-000005151_55082_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Curtius",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20804",
+                            "RecordID": "022-000008641",
+                            "Value": "Sadoleto,Jacopo,Cardinal,1477-1547"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De raptu Helenae",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20805",
+                            "RecordID": "022-000008642",
+                            "Value": "Sfondrati,Francesco,Governor of Siena|Bishop of Cremona|Cardinal,1493-1550"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

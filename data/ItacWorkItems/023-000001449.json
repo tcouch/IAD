@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001449",
+        "WorkId": "00177",
+        "ShortTitle": "Vita Del Cavalier Giovan Battista Marino",
+        "LongTitle": "Descritta dal Cavaliere Francesco Ferrari. All`Illustrissimo Sig. Il Sig. Domenico Molino.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "56",
+            "PublicationPlaceItalianName": "Macerata"
+        },
+        "PublicationYear": "1637",
+        "Shelfmark": "1607/1702",
+        "Content": "Biography of Giovan Battista Marino",
+        "Subjects": "Biography",
+        "Language": "Latin|Italian",
+        "Pagination": "pp. 42",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15345",
+                "RecordID": "022-000001384",
+                "Value": "Ferrari,Francesco,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15346",
+                "RecordID": "022-000001385",
+                "Value": "Carboni,Giuliano,,"
+            }
+        },
+        "Notes": "on pp. 238 239 the author mentions the Oziosi Academy. \nFor another edition of Ferrari`s biography, see Vita del Cavalier Gio. Battista Marini, Venice, 1633 (shelfmark: 1063.i.9.)",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15348",
+                    "RecordID": "022-000001387",
+                    "Value": "Angelutius,Claudius,Canon,"
+                },
+                {
+                    "PersonId": "15349",
+                    "RecordID": "022-000001388",
+                    "Value": "Pelicanus,Antonius Franciscus,Vicar,"
+                },
+                {
+                    "PersonId": "15350",
+                    "RecordID": "022-000001389",
+                    "Value": "Spinuccius,Hieronymus,,"
+                },
+                {
+                    "PersonId": "15351",
+                    "RecordID": "022-000001390",
+                    "Value": "Talianus,Ioannes Baptistam,Vicar,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Pro Eminentiss. & Reverendiss. D. D. Cardinali Asculano Episc. Mac. Claudius Angelutius Canon. Teol.  Imprimatur Antonius Franciscus Pilicanus Protonot. Apost. Vicarius & Auditor Generalis Eminentiss. Cardinalis Episc. Maceraten. Vidit Hieronymus Spinaccius Philosophus & Sacrae Teologie Doctor & Sancti Officij Revisor.  Imprimatur Fr. Ioannes Baptista Talianus Vicarius S. Officij Maceratae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15347",
+                "RecordID": "022-000001386",
+                "Value": "Molino,Domenico,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17956",
+        "RecordId": "022-000004880",
+        "Surname": "Bartholin",
+        "Forename": "Caspar",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bartolino",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Gaspare"
+            }
+        ],
+        "DateText": "1585-1629",
+        "StartDate": "1585",
+        "EndDate": "1629",
+        "Nationality": {
+            "NationalityId": "65",
+            "Value": "Danish"
+        },
+        "Notes": "Joined the Ricovrati in 1678.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001865",
+        "WorkId": "000256",
+        "ShortTitle": "Discorso Academico",
+        "LongTitle": "qual godi con piu` diletto la rappresentazione comica, o tragica, o mista d`un palco. Se un cieco che veda o un sordo che senta",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Accademia dei Ricovrati"
+            },
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Umoristi (Accademia degli)"
+            }
+        ],
+        "Format": "10\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1676 (1576 in error)",
+        "Shelfmark": "1489.aa.13",
+        "Subjects": "Theatre|Academic discourse",
+        "Language": "Italian",
+        "Pagination": "pp. 19",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9304",
+                "RecordID": "022-000001788",
+                "Value": "Macedo,Francisco,,1596 - 1681"
+            }
+        },
+        "Notes": "A chi legge. Essendo nata la presente questione tra gentiluomini venetiani, e` ventilata con dispute, e` fomentata con scommesse, sono stato richesto da molti, ed ancora commandato da miei maggiori a metter in carta, e sottoporre al torchio il mio parere; et ancorche`non mi dichiaro scorgerai tu bene, che preferisco l`Udito, e questa ragione basta. Il diletto della Vista finisce col palco, quello dell`Udito se ne riporta in casa la Dottrina. \nAt the end of the pamphlet, ther author signs as L`Academico Humorista Romano Ricovrato Padovano Macedo",
+        "CensorsAgreement": "Con Licenza de` superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9192",
+                "RecordID": "022-000001684",
+                "Value": "Cadorino,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

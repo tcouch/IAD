@@ -1,0 +1,168 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0360",
+        "RecordId": "021-000007328",
+        "Name": "Imperfetti-Venezia (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1648",
+        "EndDate": "?",
+        "DateText": "1648-?",
+        "Notes": "The list of names is taken from Maylender, Storia delle Accademie d`Italia, vol. 3, pp. 175-176. Other information are in Battagia, Accademie veneziane, and Cicogna, Saggio di bibliografia veneziana. Publications related to the Academy, but not in British Library collections, include: Le glorie dell`armi venete celebrate nell`Accademia dei signori Imperfetti per la vittoria ottenuta contro l`armi ottomane (Venezia: Pinelli, 1651); Domenico Vincenti, Esercitii Accademici, Discorsi di Domenico Vincenti (Venezia, Hertz, 1657); La gelosia crudele. Overo Le incrudelite gelosie d`Astiage, re di Media. Comedia in prosa uscita l`anno 1665. In Vienna d`Austria per comando espresso dell`augustissima imperatrice Eleonora ... E del 1672 ... recitata due volte li 26, e 29. di febbraio dalli signori Academici Imperfetti sul gran teatro Fedele [ Domenico Gisberti ]  (1672).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19883",
+                "RecordId": "022-000007325",
+                "Name": "Busenello,Giovan Francesco,,1598 - 1659",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19885",
+                "RecordId": "022-000007327",
+                "Name": "Aureli,Aurelio,,ca.1630 - 1708",
+                "Nickname": "L'Indifferente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19887",
+                "RecordId": "022-000007330",
+                "Name": "Minato,Nicolo`,,ca.1628 - 1698",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20044",
+                "RecordId": "022-000007540",
+                "Name": "Angeli,Mariano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20045",
+                "RecordId": "022-000007541",
+                "Name": "Dandolo,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20051",
+                "RecordId": "022-000007547",
+                "Name": "Balbi,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20052",
+                "RecordId": "022-000007548",
+                "Name": "Amadei,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20053",
+                "RecordId": "022-000007549",
+                "Name": "Bonifacio,Gasparo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20054",
+                "RecordId": "022-000007550",
+                "Name": "Cossali Morana,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20049",
+                "RecordId": "022-000007545",
+                "Name": "Dall`Angelo,Giacomo,,",
+                "Nickname": "l'Assicurato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20055",
+                "RecordId": "022-000007551",
+                "Name": "Delaiti,Girolamo,,",
+                "Nickname": "il Volubile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20059",
+                "RecordId": "022-000007555",
+                "Name": "Sclano,Alessandro,,",
+                "Nickname": "l'Invogliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20061",
+                "RecordId": "022-000007557",
+                "Name": "Delaiti,Giacomo,,",
+                "Nickname": "l'Incostante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20062",
+                "RecordId": "022-000007558",
+                "Name": "Zeno,Pier Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20063",
+                "RecordId": "022-000007559",
+                "Name": "Dandolo,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19906",
+                "RecordId": "022-000007350",
+                "Name": "Bonifacio,Baldassarre,,1585-1659",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20048",
+                "RecordId": "022-000007544",
+                "Name": "Vincenti,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17662",
+                "RecordId": "022-000004556",
+                "Name": "Bisaccioni,Maiolino,Count,1582-1663",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55344",
+                    "Value": "022-000004556_55344_2.jpg"
+                }
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

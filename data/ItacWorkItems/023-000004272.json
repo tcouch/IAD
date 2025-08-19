@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004272",
+        "WorkId": "000555",
+        "ShortTitle": "La rappresentatione di Santa Colomba",
+        "LongTitle": "vergine e martire. Composta nuovamente dal desioso Insipido Senese",
+        "ItacAcademyItem": {
+            "AcademyId": "0061",
+            "RecordID": "021-000003726",
+            "Value": "Congrega degli Insipidi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "76",
+            "PublicationPlaceItalianName": "Farnese",
+            "PublicationPlaceEnglishName": "Farnese",
+            "PublicationPlaceLatinName": "Farnese"
+        },
+        "PublicationYear": "1601",
+        "Shelfmark": "11426.f.34",
+        "Subjects": "Religious poetry",
+        "Language": "Italian",
+        "Pagination": "[16]",
+        "Marginalia": "No",
+        "Edition": "3rd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16981",
+                "RecordID": "022-000003771",
+                "Value": "Tregiani,Domenico di Gismondo,,"
+            }
+        },
+        "Notes": "In the titlepage: `Stampata in Siena. Con licenza de` superiori. 1608. Et Ristampata in Orvieto`. The catalogue of the Biblioteca degli Intronati in Siena lists 1583 and 1616 copies, both printed `in Siena alla Loggia del Papa`.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17348",
+                "RecordID": "022-000004177",
+                "Value": "Fortunati,Pier` Antonio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54182",
+            "Value": "023-000004272_54182_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54183",
+            "Value": "023-000004272_54183_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

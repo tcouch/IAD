@@ -1,0 +1,34 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20759",
+        "RecordId": "022-000008585",
+        "Surname": "Franciotti",
+        "Forename": "Nicolao",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Franchetti",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Franciotto",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Niccolo'"
+            },
+            {
+                "AlternativeForename": "Nicolas"
+            }
+        ],
+        "DateText": "1493-1575",
+        "StartDate": "1493",
+        "EndDate": "1575",
+        "Nationality": {
+            "NationalityId": "158",
+            "Value": "of Lucca"
+        },
+        "Notes": "See his biography by Simonetta Adorni Braccesi, in DBI",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

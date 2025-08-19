@@ -1,0 +1,31 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18439",
+        "RecordId": "022-000005462",
+        "Surname": "Bartholin",
+        "Forename": "Thomas",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bartolini",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Bartolino",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Tomaso"
+            }
+        ],
+        "DateText": "1616-1680",
+        "StartDate": "1616",
+        "EndDate": "1680",
+        "Nationality": {
+            "NationalityId": "65",
+            "Value": "Danish"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

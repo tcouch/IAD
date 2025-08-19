@@ -1,0 +1,25 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5015",
+        "RecordId": "022-000000017",
+        "Surname": "Gessi",
+        "Forename": "Berlingiero (juniore)",
+        "AlternativeName": {
+            "AlternativeForename": "Berlinghiero"
+        },
+        "PersonalTitle": "Senator",
+        "Pseudonym": "Filotimo",
+        "Anagram": "Gregorio Belsensi",
+        "DateText": "1613 - 1671",
+        "StartDate": "1613",
+        "EndDate": "1671",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "For Filotimo, see Lodi al sig. Guido Reni 1632. He was among the Umoristi (Rome), Caliginosi (Ancona), founder of the Erranti (Fermo).",
+        "Role": "Contributor|Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

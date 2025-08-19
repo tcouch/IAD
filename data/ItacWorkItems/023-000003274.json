@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003274",
+        "WorkId": "000440",
+        "ShortTitle": "Dialogo de` Giuochi",
+        "LongTitle": "che nelle vegghie sanesi si usano di fare. Del Materiale Intronato. all`Illustrissima et Eccellentissima signora donna Isabella de` Medici Orsina duchessa di Bracciano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1574",
+        "Shelfmark": "1485.a.23|785.d.2.(1.)",
+        "Subjects": "Entertainment",
+        "Language": "Italian",
+        "Pagination": "288",
+        "Marginalia": "No",
+        "Edition": "2nd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16272",
+                "RecordID": "022-000002924",
+                "Value": "Bargagli,Girolamo,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16560",
+                "RecordID": "022-000003276",
+                "Value": "Orsini de` Medici,Isabella,,1542 - 1576"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16559",
+                "RecordID": "022-000003275",
+                "Value": "Bertano,Giovanni Antonio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

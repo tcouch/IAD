@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005691",
+        "WorkId": "000689",
+        "ShortTitle": "Il Crivello",
+        "LongTitle": "Di Landino Alpesei Accademico Addormentato, Racceso, E Della Fucina, Nel quale si vagliano alcune cose contenute nella lettera in difesa di un Problema Geometrico Risoluto Da Donno Piero Emmanueli",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "56",
+            "PublicationPlaceItalianName": "Macerata",
+            "PublicationPlaceEnglishName": "Macerata",
+            "PublicationPlaceLatinName": "Maceratensis"
+        },
+        "PublicationYear": "1647",
+        "Shelfmark": "1609/323",
+        "Subjects": "Geometry",
+        "Language": "Italian",
+        "Pagination": "pp.111",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18586",
+                "RecordID": "022-000005634",
+                "Value": "Spinola,Daniele,,"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18637",
+                "RecordID": "022-000005693",
+                "Value": "Emmanueli,Piero,,? - 1669"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18638",
+                "RecordID": "022-000005694",
+                "Value": "Salvi,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54627",
+            "Value": "023-000005691_54627_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

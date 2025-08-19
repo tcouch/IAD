@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002878",
+        "WorkId": "000374",
+        "ShortTitle": "Prose fiorentine.",
+        "LongTitle": "Parte quarta. Volume primo, contenente le lettere",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1734",
+        "Shelfmark": "659.b.25",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "[xxxx] 318",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16236",
+                "RecordID": "022-000002879",
+                "Value": "Strozzi,Fabrizio,,"
+            }
+        },
+        "Notes": "Strozzi comments on Varchi as censor of the Infiammati, and on his own partecipation to the Academy.",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "A messer Benedetto Varchi. Di Roma a` 5 di Novembre nel 40.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16236",
+                        "RecordID": "022-000002879",
+                        "Value": "Strozzi,Fabrizio,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

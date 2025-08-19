@@ -1,0 +1,91 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005149",
+        "WorkId": "000629",
+        "ShortTitle": "Commento di Ser Agresto da Ficaruolo",
+        "LongTitle": "sopra la prima ficata del padre Siceo. Con la diceria de` Nasi",
+        "ItacAcademyItem": {
+            "AcademyId": "0107",
+            "RecordID": "021-000005041",
+            "Value": "Accademia della Virt\u00f9"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "93",
+            "PublicationPlaceItalianName": "Cosmopoli",
+            "PublicationPlaceFictitiousName": "Cosmopoli"
+        },
+        "PublicationYear": "1660",
+        "DedicationPlaceDate": "Di Bengodi 12 January 1584",
+        "Shelfmark": "c125cc2",
+        "Subjects": "Ludic encomiastic prose",
+        "Language": "Italian",
+        "Pagination": "69",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17497",
+                "RecordID": "022-000004370",
+                "Value": "Caro,Annibale,,1507 - 1566"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17497",
+                    "RecordID": "022-000004370",
+                    "Value": "Caro,Annibale,,1507 - 1566"
+                },
+                {
+                    "PersonId": "18177",
+                    "RecordID": "022-000005148",
+                    "Value": "Barbagriga stampatore,Herede,,fl. 1584"
+                }
+            ]
+        },
+        "Notes": "The `Commento` is part of Capricciosi & piacevoli Ragionamenti di M. Pietro Aretino, Il Veritiere e `l divino, cognominato il flagello de` Principi. Nuova editione. Con certe postille... Stampati in Cosmpoli. The editor used the dedicatory letter from the 1584 edition.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17497",
+                    "RecordID": "022-000004370",
+                    "Value": "Caro,Annibale,,1507 - 1566"
+                },
+                {
+                    "PersonId": "18090",
+                    "RecordID": "022-000005043",
+                    "Value": "Molza,Francesco Maria,,1489 - 1544"
+                }
+            ]
+        },
+        "TitlePageImage": {
+            "ImageId": "54414",
+            "Value": "023-000005149_54414_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Nasea. Overo diceria de` nasi del medesimo ser Agresto: Al Sesto Re della Vertu`, detto Nasone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17497",
+                            "RecordID": "022-000004370",
+                            "Value": "Caro,Annibale,,1507 - 1566"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Herede di Barbagriga stampatore a gli amatori delle scienze",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18177",
+                            "RecordID": "022-000005148",
+                            "Value": "Barbagriga stampatore,Herede,,fl. 1584"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

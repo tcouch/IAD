@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18312",
+        "RecordId": "022-000005322",
+        "Surname": "Vannacci",
+        "Forename": "Giuseppe",
+        "DateText": "ca1650-1699",
+        "StartDate": "ca1650",
+        "EndDate": "1699",
+        "Nationality": {
+            "NationalityId": "184",
+            "Value": "of Pistoia"
+        },
+        "Notes": "Active between 1678 and 1699 in Rome.",
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

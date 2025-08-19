@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005282",
+        "WorkId": "000650",
+        "ShortTitle": "Poesie di Girolamo Preti,",
+        "LongTitle": "In questa ultima impressione corrette, et ampliate di nuove materie non piu` stampate.",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1656",
+        "Shelfmark": "1063a35",
+        "Subjects": "Poetry",
+        "Language": "Italian|Latin",
+        "Pagination": "229 [10]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5171",
+                "RecordID": "022-000000166",
+                "Value": "Preti,Girolamo,,\u20201626"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5171",
+                    "RecordID": "022-000000166",
+                    "Value": "Preti,Girolamo,,\u20201626"
+                },
+                {
+                    "PersonId": "18253",
+                    "RecordID": "022-000005249",
+                    "Value": "Inflammati,Academici Humoristae,,"
+                }
+            ]
+        },
+        "Notes": "LO STAMPATORE: I seguenti Elogi, co` quali e` piaciuto a questi valent`huomini di honorar l`Autore, disposti si sono per ordine d`Alfabetto, secondo i nomi de gli Autori,per fuggir lo scoglio delle precedenze. I quali encomi, si` come erano aborriti dalla modestia dell`Autore, cosi` publicati si sono, non perche` queste lodi sieno accettate dal lodato, ma perche` si vegga lo `ngegno de` lodatori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18284",
+                "RecordID": "022-000005283",
+                "Value": "Brigna,Giovanni Battista,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Hyeronimus Pretus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18253",
+                            "RecordID": "022-000005249",
+                            "Value": "Inflammati,Academici Humoristae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per un Ritratto del Cavalier Guarrino nell`Esequie a lui fatte da SS. Accademici Humoristi di Roma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5171",
+                            "RecordID": "022-000000166",
+                            "Value": "Preti,Girolamo,,\u20201626"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

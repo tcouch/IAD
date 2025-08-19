@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16103",
+        "RecordId": "022-000002694",
+        "Surname": "Bonifacio",
+        "Forename": "Giovan Bernardino",
+        "Gender": "Male",
+        "PersonalTitle": "Marquis of Doria",
+        "DateText": "1517-1597",
+        "StartDate": "1517",
+        "EndDate": "1597",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

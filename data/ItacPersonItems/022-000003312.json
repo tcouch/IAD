@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16594",
+        "RecordId": "022-000003312",
+        "Surname": "Sassonia",
+        "Forename": "Lodovico Jr",
+        "DateText": "1657 - ?",
+        "StartDate": "1657",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1675. Secretary of the Academy in 1677-78.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

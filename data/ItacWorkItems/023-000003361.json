@@ -1,0 +1,199 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003361",
+        "WorkId": "000445",
+        "ShortTitle": "Dell`Elixir Vitae",
+        "LongTitle": "Di Fra Donato D`Eremita Di Rocca d`Evandro dell`ord. de Pre. Libri Quattro. Al Serenissimo Ferdinando Secondo gran Duca di Toscana",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0035",
+                "RecordID": "021-000002615",
+                "Value": "Academia degli Incauti"
+            },
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Academia degli Oziosi"
+            }
+        ],
+        "Format": "Folio",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1624",
+        "DedicationPlaceDate": "7 October 1624",
+        "Shelfmark": "717.l.4.",
+        "Subjects": "apothecary guide|Medicine|Science",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|male figures; angels|Plate|The Medici coat of arms",
+        "Pagination": "pp. 182",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16633",
+                "RecordID": "022-000003352",
+                "Value": "D`Eremita,Donato,Friar,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15018",
+                    "RecordID": "022-000001060",
+                    "Value": "Comite,Oratio,,"
+                },
+                {
+                    "PersonId": "16634",
+                    "RecordID": "022-000003353",
+                    "Value": "Perillo,Marc`Antonio,,"
+                },
+                {
+                    "PersonId": "15006",
+                    "RecordID": "022-000001048",
+                    "Value": "Zizzae,Prosper Antonius,,"
+                },
+                {
+                    "PersonId": "16641",
+                    "RecordID": "022-000003362",
+                    "Value": "Pinto ,Carlo,,"
+                }
+            ]
+        },
+        "Notes": "On p. 4, the author mentions the Oziosi Academy.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16642",
+                    "RecordID": "022-000003363",
+                    "Value": "Lactantius,,Prior,"
+                },
+                {
+                    "PersonId": "16643",
+                    "RecordID": "022-000003364",
+                    "Value": "de Crema,Sixtus,Prior,"
+                },
+                {
+                    "PersonId": "16644",
+                    "RecordID": "022-000003365",
+                    "Value": "Caracia de Ripalta,Archangelus,Prior,"
+                },
+                {
+                    "PersonId": "16645",
+                    "RecordID": "022-000003366",
+                    "Value": "de Cagli,Paolo,Prior,"
+                },
+                {
+                    "PersonId": "16646",
+                    "RecordID": "022-000003367",
+                    "Value": "Siccus,Seraphinus ,,"
+                },
+                {
+                    "PersonId": "16647",
+                    "RecordID": "022-000003368",
+                    "Value": "de Valentia,Ioannes Vincentius,,"
+                },
+                {
+                    "PersonId": "15189",
+                    "RecordID": "022-000001231",
+                    "Value": "Tastius,Laelius,,"
+                },
+                {
+                    "PersonId": "16648",
+                    "RecordID": "022-000003369",
+                    "Value": "Letteresius,Andreas,Canon,"
+                },
+                {
+                    "PersonId": "16649",
+                    "RecordID": "022-000003370",
+                    "Value": "de Mari,Stephanus,Canon,"
+                },
+                {
+                    "PersonId": "16650",
+                    "RecordID": "022-000003371",
+                    "Value": "Basilis,Ioannes Andreas,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Nos Fr. Lactantius Cremonensis Sac. Theolog. Mag. ac Provintiae Lombardiae Prior Provincialis Ordinis Praedicatorum.\nVisis attestationibus plurium Adm. RR. PP. Magistrorum Provintiae nostrae Deputatorum pro revisione libri de Elixir Vitae, compositi per Fr. Donatum de heremita Aromatarium Conventus nostri una cum approbationibus eorundem harum serie nostri auctoritate Officij, facultatem facimus dicto Fr. Donato, ut pro communi hominum beneficio servatis, servandis iuxta decreta Sac. Conc. Tridentini, & Indicis Romani super impressione librorum, typis praedictum librum excudi valeat. In quorum fidem,  etc. Dat. in Praefato Conventu nostro Neapolitano die 4. Martij 1623.\nIta est Fr. Lactantius qui supra manu propria.\nLoco Sigilli.\nReg. fol. 96.\nFr. Sixtius de Crema Lector, Prior Chiensis, et Socius.\nApprobatio Operis ADM. RR. PP. MM. Fr. Archangeli Caracie, & Fr. Pauli de Cagli.\nPraesens Opus dell`Elixir Vitae inscriptum, \u00e0 Fr. Donato de Eremita Ord. Praed. compositum, sapientum examini expositum, iussu Reverendiss. Patris Generalis Ordinis nostri, vidi, legi, e diligenter consideravi, in quo nihil regulis Catholicae Fidei, vel Christianis moribus contrarium reperire potui: Quare ad omnium communem utilitatem, atq; commoditate, ut typis detur approbo, simulque collaudo. Datum Neapoli in Monasterio S. Sebastiani die 18. Februarij 1623.\nEgo Fr. Archangelus Caracia de Ripalta S. Theol. Mag. & prior S. Sebastiani Ord. praed. manu propria.\nIo Fr. Paolo de Cagli Maestro, e Priore del Convento de S. Catarina testifico haver visto, & bene essaminato il libro composto da Fra Donato d`Eremita, ne in quello haver ritrovata cosa in contrario. et in fede, &c. \nFra Paolo de Cagli sopradetto.\nNos F. Seraphinus Siccus Magister Ordinis Praedicatorum visis supra notatis attestationibus PP. MM. Fr. Archangeli Caracia de Ripalta, & Fr. Pauli de Callio. Concedimus ut ipsum Opus praefatus Elixir Vitae inscriptum \u00e0 F. Donato de Eremita compilatum Typis mandari possit. In quorum fidem &c. Dat. Romae die 12. Februarij 1624.\nFr. Seraphinus qui supra Loco Sigilli.\nF. Io. Vincentius de Valentia Mag. & Socius.\nImprimatur. Laelius Tastius Vic. Gen. Neap. Andreas Letteresius Sac. Theol. Doct. Can. Dep. Stephanus de mari Can. Dep. vidit.\nIllustriss. & Reverendiss. Domino\nEx mandato Illustriss. & Reverendiss. D. Cardinalis Proregis volumen de Elixir vitae inscriptum Fr. Donati de Heremita Ordinis Praedicatorum singularis in re aromataria viri summa cum diligentia percurri. Opus vis figuris exornatum; ex quo multa didici, & in eo quicquam contra Fidem Catholicam, bonosq; mores non inveni. obid nedum \u00e0 Medicis, Aromatarijs, Chymicis, Spagirysq; lectu dignum agnosco; sed etiam omnibus, qui in politioribus literis versantur, cunctisq; viventibus ad vitam prorogandum, & prope morientibus ad ipsam reparandam necessarijssimum arbitror. Neapoli die 21. Augusti 1622.\nV. Illustriss. 7 Reverendiss. Dominationi Servuus deditissimus.\nIoannes Andreas Basilis Neap. Philospphus, & Medicus, in Regio Gymnasio Publicus Medicinae Professor, unus ex Collegio Medicorum, Illustriss. card. Proregis medicus \u00e0 cubiculo, & in hoc Regno Regius generalis Protomedicus.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke ,1610-1670"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16639",
+                "RecordID": "022-000003359",
+                "Value": "Roncagliolo ,Secondino,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53499",
+            "Value": "023-000003361_53499_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53500",
+            "Value": "023-000003361_53500_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Per l`Altezza Serenissima del Gran Duca Di Toscana. A Fra Donato d`Eremita di Rocca d`Evandro dell`Ordine di San Domenico.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15018",
+                            "RecordID": "022-000001060",
+                            "Value": "Comite,Oratio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Librum Religiosi Viri Fr. donati Heremita Aromatariae, Medicarq; rei peritissimi. Carolus Pintus Acad. Ociosus.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16641",
+                            "RecordID": "022-000003362",
+                            "Value": "Pinto ,Carlo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "On Opus quod inscribitur Elixir Vitae Fr. Donato de Heremita ex Illustrissimo Praedicatorum Ordine compositum. Ad Sereniss. Ethruriae Ducem. D. Prosperi Antonii Zizzae Acad. Ociosi.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15006",
+                            "RecordID": "022-000001048",
+                            "Value": "Zizzae,Prosper Antonius,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Libro Dell`Elixir Vitae di Fra Donato d`Eremita di Rocca d`Evandro dell`Ordine de Predicatori. di Marc`Antonio Perillo Ingelosito Academico Incauto.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16634",
+                            "RecordID": "022-000003353",
+                            "Value": "Perillo,Marc`Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eiusdem ad Invidum Epigramma.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16634",
+                            "RecordID": "022-000003353",
+                            "Value": "Perillo,Marc`Antonio,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

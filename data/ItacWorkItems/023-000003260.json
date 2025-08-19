@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003260",
+        "WorkId": "000435",
+        "ShortTitle": "L`amor costante comedia",
+        "LongTitle": "del signor Stordito Intronato, composta per la venuta dell`Imperatore in Siena l`anno del 36. Nella qual comedia intervengono varii abbattimenti di diverse sorte d`armi et intrecciati, ogni cosa in tempi e misure di morescha, cosa non manco nuova che bella.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1540",
+        "DedicationPlaceDate": "Venice 15 November 1540",
+        "Shelfmark": "841.a.46",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "78r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16547",
+                "RecordID": "022-000003255",
+                "Value": "Arrivabene,Andrea,,1534 - 1570"
+            }
+        },
+        "Notes": "In the title page is written `Al segno del Pozzo`; in the colophon `In venetia per giovanni de Farri e fratelli da Rivoltella. Nell`anno del signore 1541`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16548",
+                "RecordID": "022-000003256",
+                "Value": "Soranzo,Giovanni di Alvise,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16547",
+                "RecordID": "022-000003255",
+                "Value": "Arrivabene,Andrea,,1534 - 1570"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9252",
+                "RecordID": "022-000001547",
+                "Value": "Farri,Giovanni e fratelli,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53447",
+            "Value": "023-000003260_53447_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53448",
+            "Value": "023-000003260_53448_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

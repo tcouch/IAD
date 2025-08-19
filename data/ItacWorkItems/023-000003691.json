@@ -1,0 +1,150 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003691",
+        "WorkId": "000491",
+        "ShortTitle": "Poesie toscane e latine",
+        "LongTitle": "Da diversi autori composte. Nell`Essequie dell`Illustre Sig. Isabella Marescotti de` Ballati, Gentildonna Sanese. Raccolte da Salvestro Marchetti",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0029",
+                "RecordID": "021-000002361",
+                "Value": "Accademia Dei Filomati"
+            },
+            {
+                "AcademyId": "0049",
+                "RecordID": "021-000002895",
+                "Value": "Accademia degli Accesi"
+            },
+            {
+                "AcademyId": "0084",
+                "RecordID": "021-000004460",
+                "Value": "Accademia dei Risoluti"
+            },
+            {
+                "AcademyId": "0058",
+                "RecordID": "021-000003666",
+                "Value": "Accademia degli Uniti (Siena)"
+            },
+            {
+                "AcademyId": "0085",
+                "RecordID": "021-000004461",
+                "Value": "Accademia dei Travagliati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1596",
+        "DedicationPlaceDate": "Siena 25 May 1596",
+        "Shelfmark": "Cup.403.bb.2",
+        "Subjects": "funereal  poems",
+        "Language": "Italian|Latin",
+        "Pagination": "[6] 84",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16911",
+                    "RecordID": "022-000003686",
+                    "Value": "Maccabruni,Lepido,,"
+                },
+                {
+                    "PersonId": "16882",
+                    "RecordID": "022-000003650",
+                    "Value": "Iacomini,Pompilio,,"
+                },
+                {
+                    "PersonId": "16874",
+                    "RecordID": "022-000003642",
+                    "Value": "Malavolti,Ubaldino,,"
+                },
+                {
+                    "PersonId": "16877",
+                    "RecordID": "022-000003645",
+                    "Value": "Petrucci,Lorenzo,,"
+                },
+                {
+                    "PersonId": "16880",
+                    "RecordID": "022-000003648",
+                    "Value": "Lomeri,Annibale,,"
+                },
+                {
+                    "PersonId": "16912",
+                    "RecordID": "022-000003687",
+                    "Value": "Bacci,Giovanni Maria,,"
+                },
+                {
+                    "PersonId": "16913",
+                    "RecordID": "022-000003688",
+                    "Value": "Incolto Accademicio,,,"
+                },
+                {
+                    "PersonId": "16914",
+                    "RecordID": "022-000003689",
+                    "Value": "Mansueto,Accademico Svegliato,,"
+                },
+                {
+                    "PersonId": "16252",
+                    "RecordID": "022-000002900",
+                    "Value": "Turamini,Virginio,,"
+                },
+                {
+                    "PersonId": "16915",
+                    "RecordID": "022-000003690",
+                    "Value": "Arrossito,Filomato,,"
+                },
+                {
+                    "PersonId": "16916",
+                    "RecordID": "022-000003692",
+                    "Value": "Piccolomini,Ipolito,,"
+                }
+            ]
+        },
+        "Notes": "Lomeri signs as Accademico Resoluto. Bacci signs as Accademico Unito, Piccolomini signs as Accademico Travagliato.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16917",
+                    "RecordID": "022-000003693",
+                    "Value": "Ravennas,Zaccharias,Inquisitor,"
+                },
+                {
+                    "PersonId": "16918",
+                    "RecordID": "022-000003694",
+                    "Value": "Faustus,,Vicar,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimantur. Fr. Zaccharias Ravennas Inquisitor generalis. Faustus Vicarius Gen.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16412",
+                "RecordID": "022-000003078",
+                "Value": "Ballati,Orazio,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16860",
+                "RecordID": "022-000003621",
+                "Value": "Marchetti,Salvestro,,fl.1594 - 1603"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53896",
+            "Value": "023-000003691_53896_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

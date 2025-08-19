@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18992",
+        "RecordId": "022-000006102",
+        "Surname": "Falda",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Io. Bap."
+        },
+        "DateText": "1643-1678",
+        "StartDate": "1643",
+        "EndDate": "1678",
+        "Nationality": {
+            "NationalityId": "263",
+            "Value": "of Vercelli"
+        },
+        "Notes": "For his biography, see A. Margiotta-S. Tozzi, `Falda, Giovanni Battista`, in DBI.",
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

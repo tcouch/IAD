@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15696",
+        "RecordId": "022-000002226",
+        "Surname": "Bevilacqua",
+        "Forename": "Niccolo`",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bevilaqua",
+                "AlternativeForename": "Nicolaus"
+            },
+            {
+                "AlternativeSurname": "Tridentinus",
+                "AlternativeForename": "Nicolaus"
+            }
+        ],
+        "DateText": "ca.1515-1574",
+        "StartDate": "ca.1515",
+        "EndDate": "1574",
+        "Nationality": {
+            "NationalityId": "412",
+            "Value": "of Termenago"
+        },
+        "Notes": "The son of Antonio, Nicolo` learnt the art of printing from Paolo Manuzio. He worked in Venice, and moved to Turin in 1572, when he was invited by Emanuele Filiberto to establish a printing press under his control.",
+        "Role": "Printer",
+        "TypographicReference": "A137 - V279 - Z936",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

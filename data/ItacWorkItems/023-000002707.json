@@ -1,0 +1,64 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002707",
+        "WorkId": "000340",
+        "ShortTitle": "Discorso Sopra Il Principio Di Tutti i Canti D`Orlando Furioso.",
+        "LongTitle": "Fatto Per La S. Laura Terracina: Detta Nell`Academia Degl`incogniti Febea. Di Nuovo Con Diligenza Ristampato Et Ricorretto.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1551",
+        "DedicationPlaceDate": "Naples 1 August 1550; Naples 29 April 1549",
+        "Shelfmark": "1071.f.7.(4.)",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Illustration": "Woodcuts|",
+        "Pagination": "pp. 78 recto - verso",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16062",
+                "RecordID": "022-000002642",
+                "Value": "Terracina,Laura,,1519-1577"
+            }
+        },
+        "Notes": "The colophon contains printer`s ornament.",
+        "CensorsAgreement": "Con Privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16103",
+                    "RecordID": "022-000002694",
+                    "Value": "Bonifacio,Giovan Bernardino,Marquis of Doria,"
+                },
+                {
+                    "PersonId": "16104",
+                    "RecordID": "022-000002695",
+                    "Value": "Dolce,Lodovico,,1508 - 1568"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7557",
+                "RecordID": "022-000001461",
+                "Value": "Giolito De Ferrari e fratelli,Gabriele,,fl.1550-1556"
+            }
+        },
+        "PrinterOrnament": "Z535 |U89",
+        "TitlePageImage": {
+            "ImageId": "52850",
+            "Value": "023-000002707_52850_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

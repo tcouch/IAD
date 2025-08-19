@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18077",
+        "RecordId": "022-000005026",
+        "Surname": "Pignatelli",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "PersonalTitle": "Pope Innocenzo XII",
+        "DateText": "1615 - 1700",
+        "StartDate": "1615",
+        "EndDate": "1700",
+        "Nationality": {
+            "NationalityId": "200",
+            "Value": "Spinazzola (Bari)"
+        },
+        "Notes": "Portrait from Ritratti de celebri personaggi raccolti nell`Accademia Cosmografica degli Argonauti.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

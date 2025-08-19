@@ -1,0 +1,296 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000766",
+        "WorkId": "00049",
+        "ShortTitle": "Il funerale d`Agostin Carraccio",
+        "LongTitle": "Fatto in Bologna sua patria da gl`Incaminati Academici del disegno. Scritto all`Illustrissimo et reverendissimo Cardinal Farnese",
+        "ItacAcademyItem": {
+            "AcademyId": "0009",
+            "RecordID": "021-000000721",
+            "Value": "Accademia degli Incamminati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1603",
+        "Shelfmark": "811.e.54",
+        "Subjects": "Art History|Funeral oration|Poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved plates | Emblems; human figures",
+        "Pagination": "pp. 52",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "6000",
+                "RecordID": "022-000000724",
+                "Value": "Morello,Benedetto,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5034",
+                    "RecordID": "022-000000036",
+                    "Value": "Faberi,Lucio,,before1560-1610"
+                },
+                {
+                    "PersonId": "5263",
+                    "RecordID": "022-000000253",
+                    "Value": "Rinaldi,Cesare,,1559 - 1636"
+                },
+                {
+                    "PersonId": "5266",
+                    "RecordID": "022-000000256",
+                    "Value": "Arrighi,Lorenzo,,"
+                },
+                {
+                    "PersonId": "5273",
+                    "RecordID": "022-000000263",
+                    "Value": "Segni,Giulio,,"
+                },
+                {
+                    "PersonId": "6000",
+                    "RecordID": "022-000000724",
+                    "Value": "Morello,Benedetto,,"
+                },
+                {
+                    "PersonId": "6001",
+                    "RecordID": "022-000000729",
+                    "Value": "Bambasi,Gabriel,,"
+                },
+                {
+                    "PersonId": "6002",
+                    "RecordID": "022-000000731",
+                    "Value": "Accademico Insensato,,,"
+                },
+                {
+                    "PersonId": "6003",
+                    "RecordID": "022-000000732",
+                    "Value": "Incerto,,,"
+                },
+                {
+                    "PersonId": "6004",
+                    "RecordID": "022-000000733",
+                    "Value": "Sancti,Alexandri,,"
+                },
+                {
+                    "PersonId": "6005",
+                    "RecordID": "022-000000734",
+                    "Value": "Lauri,Ioannis Baptistae,,"
+                },
+                {
+                    "PersonId": "6006",
+                    "RecordID": "022-000000736",
+                    "Value": "Incerti,,,"
+                },
+                {
+                    "PersonId": "6007",
+                    "RecordID": "022-000000737",
+                    "Value": "Incerti,,,"
+                }
+            ]
+        },
+        "Notes": "The same text also in: Malvasia, Felsina pittrice (1678), pp. 407ff. For a critical reading of this publication, see M. S. Campanini, `Faberi, Lucio`, in DBI.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "6010",
+                    "RecordID": "022-000000726",
+                    "Value": "De Urceis,Aloysius,Inquisit. Bonon.,"
+                },
+                {
+                    "PersonId": "6011",
+                    "RecordID": "022-000000727",
+                    "Value": "Mallonius,Daniel,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Fr Daniel Mallonius Revisor. Imprimatur Fr. Aloysius de Urceis Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "6009",
+                    "RecordID": "022-000000740",
+                    "Value": "Farnese,Odoardo,Cardinal,1573-1626"
+                },
+                {
+                    "PersonId": "5119",
+                    "RecordID": "022-000000115",
+                    "Value": "Carracci,Agostino,,1557-1602"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "6000",
+                "RecordID": "022-000000724",
+                "Value": "Morello,Benedetto,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5635",
+                    "RecordID": "022-000000708",
+                    "Value": "Reni,Guido,,1575-1642"
+                },
+                {
+                    "PersonId": "6014",
+                    "RecordID": "022-000000745",
+                    "Value": "Brizio,Francesco,,c.1574-1623"
+                }
+            ]
+        },
+        "EngraverReference": "Bartsch 4003.030 | Bartsch 4005.017-023",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5274",
+                "RecordID": "022-000000264",
+                "Value": "Benacci,Vittorio,,1571 - 1629"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "49493",
+            "Value": "023-000000766_49493_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Oratione funebre",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5034",
+                            "RecordID": "022-000000036",
+                            "Value": "Faberi , Lucio, , 1550s-1610"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5034",
+                            "RecordID": "022-000000036",
+                            "Value": "Faberi , Lucio, , 1550s-1610"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5263",
+                            "RecordID": "022-000000253",
+                            "Value": "Rinaldi, Cesare, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5266",
+                            "RecordID": "022-000000256",
+                            "Value": "Arrighi, Lorenzo, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5273",
+                            "RecordID": "022-000000263",
+                            "Value": "Segni , Giulio , ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dedica",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "6000",
+                            "RecordID": "022-000000724",
+                            "Value": "Morello,Benedetto, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "6001",
+                            "RecordID": "022-000000729",
+                            "Value": "Bambasi, Gabriel, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "6002",
+                            "RecordID": "022-000000731",
+                            "Value": "Accademico Insensato, , ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "6003",
+                            "RecordID": "022-000000732",
+                            "Value": "Incerto, , ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "6004",
+                            "RecordID": "022-000000733",
+                            "Value": "Sancti, Alexandri, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "6005",
+                            "RecordID": "022-000000734",
+                            "Value": "Lauri, Ioannis Baptistae, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "6006",
+                            "RecordID": "022-000000736",
+                            "Value": "Incerti, , ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "6007",
+                            "RecordID": "022-000000737",
+                            "Value": "Incerti, , ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

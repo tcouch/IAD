@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9129",
+        "RecordId": "022-000001736",
+        "Surname": "Marsili",
+        "Forename": "Luigi Ferdinando",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Marcillius"
+        },
+        "DateText": "1658-1730",
+        "StartDate": "1658",
+        "EndDate": "1730",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Marsili joined the Ricovrati in 1678. He was member of the Academie des sciences in Paris and in Montepellier, and of the Royal Society in London. He was the founder of the University Library in Bologna and contributed to the creation of the Istituto delle scienze in Bologna. Marsili`s biography by G. Gullino and C. Preti is in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

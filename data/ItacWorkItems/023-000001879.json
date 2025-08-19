@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001879",
+        "WorkId": "000259",
+        "ShortTitle": "Motetti sacri (Parte che canta; Organo)",
+        "LongTitle": "a voce sola con due violini del signore Gio. Paolo Colonna. Maestro di cappella in S. Petronio di Bologna, et Accademico Filaschiso, e Filarmonico. Opera seconda",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "10\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1691",
+        "Shelfmark": "D.40.i",
+        "Subjects": "Music",
+        "Language": "Latin",
+        "Pagination": "pp. 70",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15385",
+                "RecordID": "022-000001880",
+                "Value": "Colonna,Giovanni  Paolo,,1637-1695"
+            }
+        },
+        "Notes": "At the bottom is written: `Si vendono da Marino Silvani all`Insegna del Violino`",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5532",
+                "RecordID": "022-000000531",
+                "Value": "Monti,Pietro Maria,,fl. 1689-1708"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52826",
+            "Value": "023-000001879_52826_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

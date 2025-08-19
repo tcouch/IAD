@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15431",
+        "RecordId": "022-000001942",
+        "Surname": "Casali",
+        "Forename": "Mario",
+        "Gender": "Male",
+        "PersonalTitle": "Count|Senator",
+        "DateText": "fl.1658-1681",
+        "StartDate": "fl.1658",
+        "EndDate": "1681",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Prince of the Accademia dei Gelati for 10 years (1658-1668).",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

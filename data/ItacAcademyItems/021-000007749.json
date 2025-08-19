@@ -1,0 +1,83 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0413",
+        "RecordId": "021-000007749",
+        "Name": "Morsiniana (Accademia)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "before1618",
+        "EndDate": "?",
+        "DateText": "before1618-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15749",
+                "RecordId": "022-000002293",
+                "Name": "Morosini,Andrea,,1558-1619",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20194",
+                "RecordId": "022-000007720",
+                "Name": "Donato,Leonardo,Doge,1536-1612",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15747",
+                "RecordId": "022-000002291",
+                "Name": "Contarini,Niccolo` ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15347",
+                "RecordId": "022-000001386",
+                "Name": "Molino,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20211",
+                "RecordId": "022-000007753",
+                "Name": "Querini,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20210",
+                "RecordId": "022-000007752",
+                "Name": "Venier,Giannantonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20208",
+                "RecordId": "022-000007750",
+                "Name": "Bon,Ottaviano,,1552-1623",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20209",
+                "RecordId": "022-000007751",
+                "Name": "Trevisan,Marco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

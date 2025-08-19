@@ -1,0 +1,180 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0080",
+        "RecordId": "021-000004394",
+        "Name": "Oscuri (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "Motto": "Et latet et licet",
+        "StartDate": "1679",
+        "EndDate": "1720",
+        "DateText": "1679-1720",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16246",
+                "RecordId": "022-000002893",
+                "Name": "D`Andrea,Francesco,,1625 - 1698",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17466",
+                "RecordId": "022-000004334",
+                "Name": "Guasco,Padovano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17796",
+                "RecordId": "022-000004704",
+                "Name": "Falanga,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17797",
+                "RecordId": "022-000004705",
+                "Name": "Loffredo,Benedetto,Canon,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17798",
+                "RecordId": "022-000004706",
+                "Name": "Loffredo,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17799",
+                "RecordId": "022-000004707",
+                "Name": "Verde,Francesco,Bishop of Vico Equense,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17800",
+                "RecordId": "022-000004708",
+                "Name": "Marciano,Giovanni Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17801",
+                "RecordId": "022-000004709",
+                "Name": "Giannone,Francesco Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16183",
+                "RecordId": "022-000002805",
+                "Name": "Pisani,Baldassarre,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17802",
+                "RecordId": "022-000004710",
+                "Name": "Rodoerio,Gio[vanni] Leonardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17803",
+                "RecordId": "022-000004711",
+                "Name": "Mucci,Gio[vanni] Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17804",
+                "RecordId": "022-000004712",
+                "Name": "D`Alessio,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17805",
+                "RecordId": "022-000004713",
+                "Name": "de Luca,Carlo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17806",
+                "RecordId": "022-000004714",
+                "Name": "Grossi,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17807",
+                "RecordId": "022-000004715",
+                "Name": "Sambiase ,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17809",
+                "RecordId": "022-000004717",
+                "Name": "Improgno,Francesco Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17810",
+                "RecordId": "022-000004718",
+                "Name": "Rubini,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17811",
+                "RecordId": "022-000004719",
+                "Name": "Cappella,Nicola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17264",
+                "RecordId": "022-000004079",
+                "Name": "Chianese,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17808",
+                "RecordId": "022-000004716",
+                "Name": "Menechini,Prospero,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

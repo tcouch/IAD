@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7702",
+        "RecordId": "022-000001477",
+        "Surname": "Banchieri",
+        "Forename": "Adriano",
+        "Gender": "Male",
+        "Pseudonym": "Scaligeri della Fratta",
+        "DateText": "1568-1634",
+        "StartDate": "1568",
+        "EndDate": "1634",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

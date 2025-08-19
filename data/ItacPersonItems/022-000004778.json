@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17865",
+        "RecordId": "022-000004778",
+        "Surname": "Trissino",
+        "Forename": "Gio. Giorgio",
+        "PersonalTitle": "Count",
+        "DateText": "1478 - 1550",
+        "StartDate": "1478",
+        "EndDate": "1550",
+        "Nationality": {
+            "NationalityId": "74",
+            "Value": "of Vicenza"
+        },
+        "Notes": "According to Premoli (2005), he was member of the Infiammati.",
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

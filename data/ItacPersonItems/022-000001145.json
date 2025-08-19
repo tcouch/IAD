@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15104",
+        "RecordId": "022-000001145",
+        "Surname": "Stigliani",
+        "Forename": "Tommaso",
+        "AlternativeName": {
+            "AlternativeForename": "Tomaso"
+        },
+        "DateText": "1573 - 1651",
+        "StartDate": "1573",
+        "EndDate": "1651",
+        "Nationality": {
+            "NationalityId": "181",
+            "Value": "of Matera"
+        },
+        "Notes": "Called Masoto Galistoni da Terama by Aprosio",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

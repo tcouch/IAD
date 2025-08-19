@@ -1,0 +1,53 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0012",
+        "RecordId": "021-000000832",
+        "Name": "Storditi (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "1565",
+        "EndDate": "ca.1570",
+        "DateText": "1565-ca.1570",
+        "Notes": "One publication related to the history of the Academy, but not in British Library collections, is Claudio Betti, De l`honore. Consideratione de l`eccell.mo filosofo M. Claudio Betti Modonese (Bologna 1567). According to Giorgio Stabile, it was first recited during one of the Academy meetings.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "7100",
+                "RecordId": "022-000000833",
+                "Name": "Mora,Domenico, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7101",
+                "RecordId": "022-000000834",
+                "Name": "Fiubbi, Marc`Antonio, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16000",
+                "RecordId": "022-000002569",
+                "Name": "Bernardi,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20705",
+                "RecordId": "022-000008522",
+                "Name": "Betti,Claudio,,ca.1520-1598",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

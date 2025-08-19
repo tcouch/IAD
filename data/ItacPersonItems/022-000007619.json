@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20115",
+        "RecordId": "022-000007619",
+        "Surname": "Rousselet",
+        "Forename": "Gilles",
+        "AlternativeName": {
+            "AlternativeForename": "Aegidius"
+        },
+        "DateText": "1610-1686",
+        "StartDate": "1610",
+        "EndDate": "1686",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

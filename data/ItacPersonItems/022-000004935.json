@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17999",
+        "RecordId": "022-000004935",
+        "Surname": "Bascarini",
+        "Forename": "Niccolo`",
+        "Gender": "Male",
+        "DateText": "fl. 1541-1554",
+        "StartDate": "fl. 1541",
+        "EndDate": "1554",
+        "Nationality": {
+            "NationalityId": "198",
+            "Value": "of Pavone di Sabbio Chiese (Brescia)"
+        },
+        "Notes": "The dates refer to his activity in Venice",
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

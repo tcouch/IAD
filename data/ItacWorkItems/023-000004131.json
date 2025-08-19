@@ -1,0 +1,70 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004131",
+        "WorkId": "000529",
+        "ShortTitle": "Descrittione Del Regno Di Napoli Di Scipione Mazzella Napolitano.",
+        "LongTitle": "Nella quale s`ha piena contezza cos\u00ec del sito d`esso, de` nomi delle Provincie antichi e moderni, de` costumi de` popoli, delle qualit\u00e0 de` paesi, e de gli huomini famosi, che l`hanno illustrato: come de` monti, de` mari, de` fiumi, de` laghi, de` bagni, delle minere, e d`altre cose maravigliose, che vi sono. Con La Nota De` Fuochi, Delle impositioni, de` donativi, e dell`entrate, che n`h\u00e0 il R\u00e8. E vi si fa mentione de i R\u00e8, che l`han dominato , de` lor titoli, dell`incoronatione, e del lor modo di scrivere \u00e0 diversi Principi: de` Pontefici, e de` Cardinali, che vi nacquero, e de` Vicer\u00e8 stativi, e de gli Arcivescovati, e Vescovati, e delle famiglie nobili, che vi sono. Co` nomi de` Baroni, lor arme, e`l divisamento delle lor Corone; e con un preambolo de i R\u00e8 di Gierusalem, ove si dichiara perche i R\u00e8 di Napoli habbiano quel titolo.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0039",
+                "RecordID": "021-000002690",
+                "Value": "Accademia degli Ardenti"
+            },
+            {
+                "AcademyId": "0037",
+                "RecordID": "021-000002640",
+                "Value": "Accademia degli Incogniti"
+            },
+            {
+                "AcademyId": "0057",
+                "RecordID": "021-000003617",
+                "Value": "Accademia dei Sireni"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1586",
+        "DedicationPlaceDate": "Naples 1 Augusat 1586",
+        "Shelfmark": "G.4483.",
+        "Subjects": "History of Naples|Kingdom of Naples",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|mythological figure; armorial bearings",
+        "Pagination": "pp. 710",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16854",
+                "RecordID": "022-000003612",
+                "Value": "Mazzella,Scipione,,"
+            }
+        },
+        "Notes": "On pp. 210-211 the author mentions the Sireni Academy, the Ardenti Academy and the Incogniti Academy in Naples.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16855",
+                "RecordID": "022-000003614",
+                "Value": "Buoncompagno,Iacopo,Duke of Sora,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16856",
+                "RecordID": "022-000003615",
+                "Value": "Gattus,S,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16857",
+                "RecordID": "022-000003616",
+                "Value": "Cappelli,Gio. Battista,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

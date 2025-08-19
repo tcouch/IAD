@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9080",
+        "RecordId": "022-000001670",
+        "Surname": "Speroni",
+        "Forename": "Alvise Biasio",
+        "DateText": "? - 1729",
+        "StartDate": "?",
+        "EndDate": "1729",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1692.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

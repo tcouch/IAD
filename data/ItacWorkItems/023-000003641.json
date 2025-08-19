@@ -1,0 +1,102 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003641",
+        "WorkId": "000484",
+        "ShortTitle": "Rime dello Sbattuto Filomato",
+        "LongTitle": "All`illustre et molto reverendo signor Giovanni Battista Primicerio dedicate e raccolte dal Bidello della Accademia Filomata. Con licenza dei superiori",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1597",
+        "DedicationPlaceDate": "1 October 1597",
+        "Shelfmark": "11427.de.10",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "Unnumbered",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16874",
+                "RecordID": "022-000003642",
+                "Value": "Malavolti,Ubaldino,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16860",
+                "RecordID": "022-000003621",
+                "Value": "Marchetti,Salvestro,,fl.1594 - 1603"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16883",
+                    "RecordID": "022-000003651",
+                    "Value": "Bolgarini,Alceo,,"
+                },
+                {
+                    "PersonId": "16881",
+                    "RecordID": "022-000003649",
+                    "Value": "Finetti,Bartolomeo,,"
+                },
+                {
+                    "PersonId": "16882",
+                    "RecordID": "022-000003650",
+                    "Value": "Iacomini,Pompilio,,"
+                },
+                {
+                    "PersonId": "16880",
+                    "RecordID": "022-000003648",
+                    "Value": "Lomeri,Annibale,,"
+                },
+                {
+                    "PersonId": "16879",
+                    "RecordID": "022-000003647",
+                    "Value": "Nini,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "16877",
+                    "RecordID": "022-000003645",
+                    "Value": "Petrucci,Lorenzo,,"
+                },
+                {
+                    "PersonId": "16876",
+                    "RecordID": "022-000003644",
+                    "Value": "Balgarini,Iacomo,,"
+                },
+                {
+                    "PersonId": "16875",
+                    "RecordID": "022-000003643",
+                    "Value": "Piccolomini,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "16878",
+                    "RecordID": "022-000003646",
+                    "Value": "Gallaccini,Teofilo,,1564 - 1641"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16860",
+                "RecordID": "022-000003621",
+                "Value": "Marchetti,Salvestro,,fl.1594 - 1603"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53898",
+            "Value": "023-000003641_53898_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

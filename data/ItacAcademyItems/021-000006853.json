@@ -1,0 +1,91 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0228",
+        "RecordId": "021-000006853",
+        "Name": "Gessiana (Accademia)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1630",
+        "EndDate": "?",
+        "DateText": "1630 - ?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5136",
+                "RecordId": "022-000000132",
+                "Name": "Gessi,Berlingiero (seniore),Cardinal,1564 - 1639",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15035",
+                "RecordId": "022-000001077",
+                "Name": "Bruni,Antonio,,1593-1635",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18347",
+                "RecordId": "022-000005363",
+                "Name": "Villani,Niccolo`,,1590 - 1636",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18189",
+                "RecordId": "022-000005169",
+                "Name": "Falconio,Arrigo,,fl. 1605 - 1627",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18162",
+                "RecordId": "022-000005130",
+                "Name": "Salviani,Gasparo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18427",
+                "RecordId": "022-000005450",
+                "Name": "Bracciolini (Dell`Api),Francesco,,1566 - 1645",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18200",
+                "RecordId": "022-000005180",
+                "Name": "Paoli,Pierfrancesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18204",
+                "RecordId": "022-000005184",
+                "Name": "de Simeonibus,Gasparis,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5105",
+                "RecordId": "022-000000102",
+                "Name": "Balducci,Francesco,,1579 - 1642",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

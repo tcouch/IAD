@@ -1,0 +1,135 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005244",
+        "WorkId": "000646",
+        "ShortTitle": "Lettere facete et piacevoli",
+        "LongTitle": "di diversi grandi huomini et chiari ingegni. scritte sopra diverse materie, Raccolte per M. Dionigi Atanagi. Col privilegio",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0107",
+                "RecordID": "021-000005041",
+                "Value": "Accademia della Virt\u00f9"
+            },
+            {
+                "AcademyId": "0147",
+                "RecordID": "021-000006203",
+                "Value": "Accademia degli Sdegnati"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1582",
+        "DedicationPlaceDate": "Venice 22 March 1561",
+        "Shelfmark": "10910aa12",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "348",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18128",
+                    "RecordID": "022-000005090",
+                    "Value": "Bini,Giovan Francesco,,1480s - 1556"
+                },
+                {
+                    "PersonId": "18095",
+                    "RecordID": "022-000005049",
+                    "Value": "Cincio,Giuseppe,,"
+                },
+                {
+                    "PersonId": "7552",
+                    "RecordID": "022-000001456",
+                    "Value": "Benzio,Trifone,,fl.1530-1571"
+                }
+            ]
+        },
+        "Notes": "All Benzio`s letters refer to the Accademia dello Sdegno and its members",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18250",
+                "RecordID": "022-000005243",
+                "Value": "Del Monte,Ranieri,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18122",
+                "RecordID": "022-000005080",
+                "Value": "Atanagi,Dionigi,,ca.1510 - 1573"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18251",
+                "RecordID": "022-000005245",
+                "Value": "Zopini,Fabio & Agostino,,fl. 1577-1595"
+            }
+        },
+        "PrinterOrnament": "V530",
+        "TitlePageImage": {
+            "ImageId": "54408",
+            "Value": "023-000005244_54408_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Di M. Gioseppe Cincio. Medico di Madama Margherita d`Austria. A M. Claudio Tolomei Re della Virtu`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18095",
+                            "RecordID": "022-000005049",
+                            "Value": "Cincio,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A M. Claudio Tolomei Re della Virtu` III [Cotognata]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18128",
+                            "RecordID": "022-000005090",
+                            "Value": "Bini,Giovan Francesco,,1480s - 1556"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A messer Dionigi Atanagi 10 Febraro 1541",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7552",
+                            "RecordID": "022-000001456",
+                            "Value": "Benzio,Trifone,,fl.1530-1571"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A messer Dionigi Atanagi 19 Febraro 1541",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7552",
+                            "RecordID": "022-000001456",
+                            "Value": "Benzio,Trifone,,fl.1530-1571"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A messer Tomaso Spica, principe dell`Academia dello Sdegno, 19 giugno 1559",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7552",
+                            "RecordID": "022-000001456",
+                            "Value": "Benzio,Trifone,,fl.1530-1571"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

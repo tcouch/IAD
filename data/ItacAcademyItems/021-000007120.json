@@ -1,0 +1,24 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0320",
+        "RecordId": "021-000007120",
+        "Name": "Spinosi (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "17th c.",
+        "DateText": "17th c.",
+        "ItacPersonItem": {
+            "PersonId": "19732",
+            "RecordId": "022-000007119",
+            "Name": "Torelli,Francesco,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

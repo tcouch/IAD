@@ -1,0 +1,98 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005109",
+        "WorkId": "000622",
+        "ShortTitle": "Commento di Ser Agresto da Ficaruolo:",
+        "LongTitle": "sopra la prima ficata del padre Siceo",
+        "ItacAcademyItem": {
+            "AcademyId": "0107",
+            "RecordID": "021-000005041",
+            "Value": "Accademia della Virt\u00f9"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1538",
+        "Shelfmark": "11422.b.21",
+        "Subjects": "Ludic encomiastic prose",
+        "Language": "Italian",
+        "Pagination": "98r-v [11r-v]",
+        "Marginalia": "Yes",
+        "Edition": "1st edition",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17497",
+                "RecordID": "022-000004370",
+                "Value": "Caro,Annibale,,1507 - 1566"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17497",
+                    "RecordID": "022-000004370",
+                    "Value": "Caro,Annibale,,1507 - 1566"
+                },
+                {
+                    "PersonId": "18101",
+                    "RecordID": "022-000005058",
+                    "Value": "Ser Alfabecoco Cacapensieri,,,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17497",
+                    "RecordID": "022-000004370",
+                    "Value": "Caro,Annibale,,1507 - 1566"
+                },
+                {
+                    "PersonId": "18090",
+                    "RecordID": "022-000005043",
+                    "Value": "Molza,Francesco Maria,,1489 - 1544"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18100",
+                "RecordID": "022-000005057",
+                "Value": "Blado,Antonio,,1490 - 1567"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54412",
+            "Value": "023-000005109_54412_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Nasea. Overo diceria de` nasi del medesimo ser Agresto: Al Sesto Re della Vertu`, detto Nasone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17497",
+                            "RecordID": "022-000004370",
+                            "Value": "Caro,Annibale,,1507 - 1566"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Tavola delle cose notabili di tutta l`opera ordinata con diligenza da Ser Alfabecoco Cacapensieri ad istanza dello stampatore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18101",
+                            "RecordID": "022-000005058",
+                            "Value": "Ser Alfabecoco Cacapensieri,,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

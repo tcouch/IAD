@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5139",
+        "RecordId": "022-000000135",
+        "Surname": "Gonzaga",
+        "Forename": "Scipione",
+        "Gender": "Male",
+        "PersonalTitle": "Abbot|Cardinal",
+        "DateText": "1542-1593",
+        "StartDate": "1542",
+        "EndDate": "1593",
+        "Nationality": {
+            "NationalityId": "230",
+            "Value": "of San Martino dell`Argine (Mantua)"
+        },
+        "Notes": "Founder of the Accademia degli Eterei. The portrait from his autobiography. See his biorgaphy by Gino Benzoni, in DBI.",
+        "Role": "Dedicatee|Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

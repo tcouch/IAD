@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004248",
+        "WorkId": "000547",
+        "ShortTitle": "De Metroposcopia",
+        "LongTitle": "Se\u00f9 Methoposcopia Naturali",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "75",
+            "PublicationPlaceItalianName": "Anversa",
+            "PublicationPlaceEnglishName": "Antwerp",
+            "PublicationPlaceLatinName": "Antuerpia"
+        },
+        "PublicationYear": "1648",
+        "DedicationPlaceDate": "Naples 7 May 1648",
+        "Shelfmark": "1141.a.10.",
+        "Subjects": "Physiognomy|Metoposcopy|Astrology",
+        "Language": "Latin",
+        "Pagination": "3 vol.",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17402",
+                "RecordID": "022-000004249",
+                "Value": "Bonanno,Bernardino,Baron,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17398",
+                "RecordID": "022-000004241",
+                "Value": "Moretum,Balthassarem,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

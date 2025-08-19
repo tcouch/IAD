@@ -1,0 +1,113 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005247",
+        "WorkId": "000648",
+        "ShortTitle": "Poesie di Girolamo Preti,",
+        "LongTitle": "In questa ultima impressione corrette, et ampliate di nuove materie non piu` stampate. all`Illustriss[imo] Si[gnor] e Padron Colendissimo il Sig. Marchese Fabio Striggi Capitano di Corazze per la Santita` di Nostro Signore",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1644",
+        "Shelfmark": "11429aa(1)",
+        "Subjects": "Poetry",
+        "Language": "Italian|Latin",
+        "Pagination": "[7] 229r-v [5]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5171",
+                "RecordID": "022-000000166",
+                "Value": "Preti,Girolamo,,1582 - 1626"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5171",
+                    "RecordID": "022-000000166",
+                    "Value": "Preti,Girolamo,,1582 - 1626"
+                },
+                {
+                    "PersonId": "18253",
+                    "RecordID": "022-000005249",
+                    "Value": "Inflammati,Academici Humoristae,,"
+                }
+            ]
+        },
+        "Notes": "LO STAMPATORE: I seguenti Elogi, co` quali e` piaciuto a questi valent`huomini di honorar l`Autore, disposti si sono per ordine d`Alfabetto, secondo i nomi de gli Autori,per fuggir lo scoglio delle precedenze. I quali encomi, si` come erano aborriti dalla modestia dell`Autore, cosi` publicati si sono, non perche` queste lodi sieno accettate dal lodato, ma perche` si vegga lo `ngegno de` lodatori",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5304",
+                    "RecordID": "022-000000352",
+                    "Value": "de Manfredis,Dominicus,,"
+                },
+                {
+                    "PersonId": "18255",
+                    "RecordID": "022-000005252",
+                    "Value": "Finatius,Octavianus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Octavianus Finatius pro Eminentiss. ac Reverendiss. D. D. Principe Card. Columna Bonon. Archiep. \nImprimatur Fr. Dominicus de Manfredis Doctor Colleg. & Sanctiss. Inquisitionis Consultor pro Reverendiss. P. Inquisit. Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18252",
+                "RecordID": "022-000005248",
+                "Value": "Striggi,Fabio,Marquis,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5312",
+                "RecordID": "022-000000365",
+                "Value": "Zenero,Carlo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5312",
+                "RecordID": "022-000000365",
+                "Value": "Zenero,Carlo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54398",
+            "Value": "023-000005247_54398_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Hyeronimus Pretus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18253",
+                            "RecordID": "022-000005249",
+                            "Value": "Inflammati,Academici Humoristae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per un Ritratto del Cavalier Guarrino nell`Esequie a lui fatte da SS. Accademici Humoristi di Roma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5171",
+                            "RecordID": "022-000000166",
+                            "Value": "Preti,Girolamo,,\u20201626"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

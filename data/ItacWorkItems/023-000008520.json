@@ -1,0 +1,102 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008520",
+        "WorkId": "000966",
+        "ShortTitle": "Il Diamerone di M. Valerio Marcellino",
+        "LongTitle": "Ove con vive ragioni si mostra, la morte non esser quel male, che`l senso si persuade. Con una dotta, e giudiciosa lettera, over discorso intorno alla lingua volgare.",
+        "ItacAcademyItem": {
+            "AcademyId": "0470",
+            "RecordID": "021-000007880",
+            "Value": "Veniera (Accademia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1564",
+        "DedicationPlaceDate": "Venezia 10 luglio 1664",
+        "Shelfmark": "232h10",
+        "Subjects": "Language",
+        "Language": "Italian",
+        "Pagination": "128 [4]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20703",
+                "RecordID": "022-000008518",
+                "Value": "Marcellino,Valerio,,1536-1602"
+            }
+        },
+        "Notes": "Diamerone is a philosophical treatise, which includes a letter on the subject of vernacular Italian. The editor`s letter of dedication suggests that the text was written about 4 years before. In this work, the author claims to be reporting the converstations held in the house of Domenico Venier. The dialogue includes one monsignor Giuliano, Girolamo Molino, Giorgio Gradenigo, Bernardo Tasso, Dionigi Atanagi, Sperone Speroni, and the young men Luigi Belegno, Sebastiano Magno, monsignor Girolamo Fenarolo, Antonio Diedo, Pietro Badoaro, Celio Magno and others. See the summary by Lorenzo Carpane`, `Marcellino, Valerio`, in DBI.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20706",
+                    "RecordID": "022-000008523",
+                    "Value": "Cornero,Luigi,,"
+                },
+                {
+                    "PersonId": "20707",
+                    "RecordID": "022-000008524",
+                    "Value": "Zane,Piero,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20704",
+                "RecordID": "022-000008521",
+                "Value": "Citolini,Alessandro,,ca1500-after1581"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55318",
+            "Value": "023-000008520_55318_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Lettera over discorso di M. Valerio Marcellino intorno alla lingua volgare",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20703",
+                            "RecordID": "022-000008518",
+                            "Value": "Marcellino,Valerio,,1536-1602"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Giornata prima",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20703",
+                            "RecordID": "022-000008518",
+                            "Value": "Marcellino,Valerio,,1536-1602"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Giornata seconda",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20703",
+                            "RecordID": "022-000008518",
+                            "Value": "Marcellino,Valerio,,1536-1602"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

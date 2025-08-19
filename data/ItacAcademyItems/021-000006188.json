@@ -1,0 +1,49 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0144",
+        "RecordId": "021-000006188",
+        "Name": "Divisi (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "Notes": "According to Maylender this Academy was based in Viterbo.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18842",
+                "RecordId": "022-000005918",
+                "Name": "Bricci,Giovanni,,1579 - 1645",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19067",
+                "RecordId": "022-000006186",
+                "Name": "de Nobili,Giovanni,,fl. 1609",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18843",
+                "RecordId": "022-000005920",
+                "Name": "Verucci,Virgilio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19068",
+                "RecordId": "022-000006187",
+                "Name": "Cesi,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004986",
+        "WorkId": "000612",
+        "ShortTitle": "Panegyricus",
+        "LongTitle": "Ill.mo Et Ex.mo Dno. Petro Fernandez \u00e0 Castro Lemensium Et Andradae Comiti, Marchioni Sarriae, Comiti Villaluae, Commendatori Zarzae ordinis Alcantarae, Regi \u00e0 cubiculo, Proregi Neapolitano, et supremi Italiae Consilij Praesidi. Scriptus.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1616",
+        "Shelfmark": "814.l.11.",
+        "Subjects": "Eulogy",
+        "Language": "Italian|Latin|Greek|Spanish",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 196",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18045",
+                "RecordID": "022-000004987",
+                "Value": "Barrionuevo,Garcia,Marquis,"
+            }
+        },
+        "Notes": "This text contains various references to Oziosi Academicians.",
+        "CensorsAgreement": "M. Thaddeus Caputus Augustinianus Dep. vidit.\nImprimatur Alexander Boschius Vic. Gener.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15019",
+                    "RecordID": "022-000001061",
+                    "Value": "De Castro Andrada,Pietro Fernandez,Count|Viceroy,1560 - 1634"
+                },
+                {
+                    "PersonId": "18047",
+                    "RecordID": "022-000004989",
+                    "Value": "da Cerda e Sandoval,Catalina,Vicereine of Naples,"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18046",
+                "RecordID": "022-000004988",
+                "Value": "Baratta,Alessandro,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16653",
+                "RecordID": "022-000003378",
+                "Value": "Longo,Tarquinio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54540",
+            "Value": "023-000004986_54540_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

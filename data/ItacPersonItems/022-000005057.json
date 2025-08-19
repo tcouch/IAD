@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18100",
+        "RecordId": "022-000005057",
+        "Surname": "Blado",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "DateText": "1490-1567",
+        "StartDate": "1490",
+        "EndDate": "1567",
+        "Nationality": {
+            "NationalityId": "207",
+            "Value": "of Asola (Mantua)"
+        },
+        "Notes": "Active in Foligno, Rome and Viterbo. He signs as Barbagrigia da Bengodi. In Lettere facete (1575) he is Barbagigia.",
+        "Role": "Printer|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

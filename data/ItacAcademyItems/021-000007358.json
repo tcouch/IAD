@@ -1,0 +1,68 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0364",
+        "RecordId": "021-000007358",
+        "Name": "Disinvolti (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1648?",
+        "EndDate": "1678?",
+        "DateText": "1648?-1678?",
+        "Notes": "The existence of this Academy is doubtful. Cicogna, Saggio di bibliografia veneziana (1847), p. 553, attributed its foundation to Santinelli. Two presentations were supposedly delivered in the Accademia dei Disinvolti in Venezia, and these are: Del Conte Aurelio Corboli Bonaventura da Urbino sopra l`emblema de` signori Disinvolti (Venezia 1648); Orazione di Carlo Abriani dottore nell`aprirsi dell`Accademia dei Disinvolti in Venezia (1648).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19911",
+                "RecordId": "022-000007357",
+                "Name": "Abriani,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19931",
+                "RecordId": "022-000007380",
+                "Name": "Corboli,Aurelio,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5178",
+                "RecordId": "022-000000173",
+                "Name": "Santinelli,Francesco Maria,Marquis,1627 - 1697",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19932",
+                "RecordId": "022-000007381",
+                "Name": "Ottobon,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19827",
+                "RecordId": "022-000007264",
+                "Name": "Contarini,Camillo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19933",
+                "RecordId": "022-000007382",
+                "Name": "Contarini,Luca,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

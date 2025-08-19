@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006336",
+        "WorkId": "000750",
+        "ShortTitle": "Apes Dianiae",
+        "LongTitle": "in Monimentis veterum noviter observatae: Elegiacum poema: Sanctissimo Principi Urbano VIII Pont. Opt. Max. Sacrum: Auctore Iusto Riquio Lynceo C. R.",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1625",
+        "Shelfmark": "1578/1139",
+        "Language": "Latin",
+        "Pagination": "12",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19140",
+                "RecordID": "022-000006277",
+                "Value": "Ricchio,Giusto,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16527",
+                    "RecordID": "022-000003224",
+                    "Value": "Rodulfi,Niccolai,,"
+                },
+                {
+                    "PersonId": "19156",
+                    "RecordID": "022-000006299",
+                    "Value": "Episcopus,Antonius,,"
+                },
+                {
+                    "PersonId": "19183",
+                    "RecordID": "022-000006337",
+                    "Value": "Phoebaeus,Antoninus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverendiss. P. Mag. Sacri Palatii Apost. A. Episc. Hierac. Vicesg. Imprimatur. Fr. Antoninus Phoebaeus Magister, & Socius Reverendissimi Patris Nicolai Rodulfi Ordin. Praedic. Sacri Palatii Apostolici Magistri.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5001",
+                "RecordID": "022-000000003",
+                "Value": "Barberini,Maffeo,Pope Urban VIII,1568-1644"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17441",
+                "RecordID": "022-000004300",
+                "Value": "Mascardi,Giacomo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

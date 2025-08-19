@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004438",
+        "WorkId": "000578",
+        "ShortTitle": "Rime Degli Arcadi Tomo Terzo.",
+        "LongTitle": "All`Altezza Serenissima Del Principe Eugenio Di Savoia",
+        "ItacAcademyItem": {
+            "AcademyId": "0078",
+            "RecordID": "021-000004349",
+            "Value": "Accademia Sebezia Colonia degli Arcadi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1716",
+        "Shelfmark": "240.k.6.",
+        "Subjects": "Poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 395. Last 35 pages unnumbered.",
+        "Marginalia": "No",
+        "Notes": "On p. 396, Biagio Maioli d`Avitabile`s affiliation to the Colonia Sebezia degli Arcadi in Naples is mentioned.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17554",
+                    "RecordID": "022-000004440",
+                    "Value": "Caracciolo ,Niccol\u00f2,Cardinal,1658 - 1728"
+                },
+                {
+                    "PersonId": "17555",
+                    "RecordID": "022-000004441",
+                    "Value": "Forteguerri ,Niccol\u00f2,,"
+                },
+                {
+                    "PersonId": "17556",
+                    "RecordID": "022-000004442",
+                    "Value": "Selleri,Gregorio,,"
+                },
+                {
+                    "PersonId": "17557",
+                    "RecordID": "022-000004443",
+                    "Value": "di S. Girolamo,Ridolfo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur.\nSi videbitur Reverendiss. P. Mag. Sac. Pal. Apost.\nN. Card. Caracciolus Archiep. Cap. Pro-Vic.\nApprovazione\nDell`Illustrissimo, e Reverendissimo Signore Monsignor Niccolo` Forteguerri\nReferendario dell`una, e dell`altra Segnatura, e Prelato Domestico di N.S.\nIo infrascritto avendo riveduto d`ordine del P. Reverendissimo Selleri Maestro del Sacro Palazzo Apostolico, il Terzo Tomo delle Rime degli Arcadi, n\u00e8 ci avendo trovata cosa contraria al buon Costume, ed alla Religione, lo giudico al buon Costume, ed alla Religione, lo giudico degno della publica luce; ed in Fede &c. Questo d\u00ec 4. Agosto 1716.\nNiccol\u00f2 Forteguerri.\nPer ubbidire a i comandi del Reverendissimo Padre Maestro del Sacro Palazzo Apostolico Gregorio Selleri, ho letto il Terzo Tomo delle Rime degli Arcadi, nel quale niente ho ritrovato contro i dogmi della Santa Chiesa Cattolica, niente contro i Principi, o i buoni costumu; anzi ho riconosciuto in esse sempre pi\u00f9 spiccare l`eleganza dello stile, e l`esquisitezza dell`Arte Poetica. In fede &c. Dato nella Casa Professa delle Scuole Pie di San Pantaleo. Questo d\u00ec 25. Settembre 1716.\nRidolfo di S. Girolamo Assistente Generale de` Chierici Regolari delle Scuole Pie.\nImprimatur.\nFr. Gregorius Selleri Ordin. Praedic. Sac. Palatii Apost. MAg.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17553",
+                "RecordID": "022-000004439",
+                "Value": "di Savoia,Eugenio,Prince,1663 - 1736"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17558",
+                "RecordID": "022-000004444",
+                "Value": "Rossi,Antonio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

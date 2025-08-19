@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17700",
+        "RecordId": "022-000004595",
+        "Surname": "Sacchi",
+        "Forename": "Angelo Antonio",
+        "AlternativeName": {
+            "AlternativeSurname": "Sacco"
+        },
+        "PersonalTitle": "Count",
+        "DateText": "1650 - 1723",
+        "StartDate": "1650",
+        "EndDate": "1723",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Prince of the Inabili. For short biography, see Bergamini, La colonia renia, vol. 1, p. 78. The same person could be also member of the Unanimi.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003377",
+        "WorkId": "000447",
+        "ShortTitle": "Epitalamio",
+        "LongTitle": "In Lode Delle Nozze Degli Illustriss., & Eccellentiss. Signori. D. Francesco Di Castro Et D. Lucretia Gattinara, Conti Di Castro. Di Francesco di Vivo, Accademico Eclissato, detto l`Opportuno.",
+        "ItacAcademyItem": {
+            "AcademyId": "0053",
+            "RecordID": "021-000003375",
+            "Value": "Accademia degli Ecclissati"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1604",
+        "DedicationPlaceDate": "Naples 10 July 1604",
+        "Shelfmark": "RB.23.a.3801",
+        "Subjects": "Encomiastic poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|Armorial bearing",
+        "Pagination": "pp. 16",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16652",
+                "RecordID": "022-000003374",
+                "Value": "Di Vivo,Francesco,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16656",
+                    "RecordID": "022-000003381",
+                    "Value": "Palumbus,Curtius,General Vicar,"
+                },
+                {
+                    "PersonId": "15223",
+                    "RecordID": "022-000001265",
+                    "Value": "Gallacinus,Rutilius,Canon,"
+                },
+                {
+                    "PersonId": "16657",
+                    "RecordID": "022-000003382",
+                    "Value": "Lottherius,Graviel,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Curtius Palumbus Vic. Gen. Cap. Neap. Rutilius Gallacinus Canonicus dep. vid. Reg. fol. 5. D. Graviel Lottherius dep. vid.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16654",
+                    "RecordID": "022-000003379",
+                    "Value": "di Castro,Francesco,Count of Castro,1579 - 1637"
+                },
+                {
+                    "PersonId": "16655",
+                    "RecordID": "022-000003380",
+                    "Value": "Gattinara,Lucretia,Countess of Castro,1590 - 1623"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16653",
+                "RecordID": "022-000003378",
+                "Value": "Longo,Tarquinio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53928",
+            "Value": "023-000003377_53928_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

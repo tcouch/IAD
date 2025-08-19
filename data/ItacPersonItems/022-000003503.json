@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16767",
+        "RecordId": "022-000003503",
+        "Surname": "di Giovanni di Antonio Grasso",
+        "Forename": "Matteo",
+        "Gender": "Male",
+        "DateText": "fl.1547-1561",
+        "StartDate": "fl.1547",
+        "EndDate": "1561",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Joined the Rozzi in 1547, and was chief of the Congrega in 1561",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

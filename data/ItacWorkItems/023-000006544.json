@@ -1,0 +1,268 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006544",
+        "WorkId": "000783",
+        "ShortTitle": "Origine, et progresso dell` Academia del Dissegno,",
+        "LongTitle": "de pittori , scultori, & architetti di Roma. Doue si contengono molti utilissimi discorsi, & filosofici ragionamenti appartenenti alle suddette professioni et inpraticolare ad alcune nuove definitioni del dissegno, della pittura, scultura, et Architettura, et al mdodo d`incaminar i giovani et perfettionar i provetti. Recitati sotto il regimento dell`eccellente sig. cauagliero Federico Zuccari, & raccolti da Romano Alberti secretario dell` Academia",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0159",
+                "RecordID": "021-000006516",
+                "Value": "Accademia di San Luca"
+            },
+            {
+                "AcademyId": "0123",
+                "RecordID": "021-000005569",
+                "Value": "Accademia degli Insensati"
+            },
+            {
+                "AcademyId": "0163",
+                "RecordID": "021-000006560",
+                "Value": "Accademia degli Intenti"
+            },
+            {
+                "AcademyId": "0162",
+                "RecordID": "021-000006545",
+                "Value": "Accademia degli Affidati (Pavia)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "80",
+            "PublicationPlaceItalianName": "Pavia",
+            "PublicationPlaceEnglishName": "Pavia",
+            "PublicationPlaceLatinName": "Ticinum"
+        },
+        "PublicationYear": "1604",
+        "DedicationPlaceDate": "Roma 31 Gennaio 1599",
+        "Shelfmark": "127d21",
+        "Subjects": "Architecture|Figurative arts|Painting",
+        "Language": "Italian",
+        "Pagination": "[14] 79 [7]",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19347",
+                    "RecordID": "022-000006547",
+                    "Value": "Massini,Filippo,,1559 - 1617/18"
+                },
+                {
+                    "PersonId": "19346",
+                    "RecordID": "022-000006546",
+                    "Value": "Beccaria,Gerolamo,,"
+                },
+                {
+                    "PersonId": "19348",
+                    "RecordID": "022-000006550",
+                    "Value": "Giorgi,Giovanni,,"
+                },
+                {
+                    "PersonId": "19349",
+                    "RecordID": "022-000006551",
+                    "Value": "dalla Torre,Michele,,"
+                },
+                {
+                    "PersonId": "19350",
+                    "RecordID": "022-000006552",
+                    "Value": "Passeri,Silvio,,"
+                },
+                {
+                    "PersonId": "5171",
+                    "RecordID": "022-000000166",
+                    "Value": "Preti,Girolamo,,1582 - 1626"
+                },
+                {
+                    "PersonId": "19351",
+                    "RecordID": "022-000006553",
+                    "Value": "Grimaldei,Pauli Saetonii,,"
+                },
+                {
+                    "PersonId": "19352",
+                    "RecordID": "022-000006554",
+                    "Value": "Speltae,Antonii Mariae,,"
+                },
+                {
+                    "PersonId": "19353",
+                    "RecordID": "022-000006555",
+                    "Value": "Zuccari,Federico,,1539/40 - 1609"
+                },
+                {
+                    "PersonId": "19354",
+                    "RecordID": "022-000006556",
+                    "Value": "Maganza,Alessandro,,"
+                }
+            ]
+        },
+        "Notes": "Reproduction of title-page and frontispiece.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19359",
+                    "RecordID": "022-000006562",
+                    "Value": "De Lauda,Aurelius,,"
+                },
+                {
+                    "PersonId": "19360",
+                    "RecordID": "022-000006563",
+                    "Value": "Pusterla,Egidio,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Io Frat`Aurelio da Lodi, Lettore prmo di Sacra Theologia nel convento di San Thomaso di Pavia e Consultore Theologo del S. Offitio, ho veduto il presente libro intotolato Origine [etc.] e corretto ove bisognava per l`ordine e commissione del M. R. P. Inquisit. et hora in questo non truovo errore alcuno intorno alla S. Fede, o cosa contro le regole dell`Indice. Ita est, Fr. Aurelius de Lauda, qui supr. - Fr. Aegidius Pusterla Inquisit. Papien.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19356",
+                "RecordID": "022-000006558",
+                "Value": "Borromeo,Federico,Cardinal,1564 - 1631"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19348",
+                "RecordID": "022-000006549",
+                "Value": "Alberti,Romano,,fl.1580-1604"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19357",
+                "RecordID": "022-000006559",
+                "Value": "Bartoli,Pietro,,1600 - 1619"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54854",
+            "Value": "023-000006544_54854_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54855",
+            "Value": "023-000006544_54855_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Madrigale nell`Accademia Affidata l`Illustrato - Zuccar se pingi e scrivi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19346",
+                            "RecordID": "022-000006546",
+                            "Value": "Beccaria,Gerolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. Cavalier Zuccaro Havendo egli dipinto il beato Carlo Borromeo quando prese l`habito di cardinale. Sonetto - Zuccar non e` pennel con cui descrivi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19348",
+                            "RecordID": "022-000006550",
+                            "Value": "Giorgi,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. Federico Zuccari Madrigale - Zuccar non son colori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19349",
+                            "RecordID": "022-000006551",
+                            "Value": "dalla Torre,Michele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Colla destra e col senno el ferro e l`armi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19349",
+                            "RecordID": "022-000006551",
+                            "Value": "dalla Torre,Michele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. cavaliero Federico Zuccaro nel suo discorso del Dissegno e nella Impresa della Lanterna Sonetto del signor Silvio Passeri Accademico Intento",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19350",
+                            "RecordID": "022-000006552",
+                            "Value": "Passeri,Silvio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al signor cavaliere Federico Zuccaro. Sonetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5171",
+                            "RecordID": "022-000000166",
+                            "Value": "Preti,Girolamo,,1582 - 1626"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Pauli Saetonii Grimaldei Praesbyteri Genuensis disciplinarum et Iurisprudentiae studiosi. In Federici Zucchari Equitis nobiliss. Referata dogmata carmen extemporarium - Condite pictores tabulas nunc condite formas",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19351",
+                            "RecordID": "022-000006553",
+                            "Value": "Grimaldei,Pauli Saetonii,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad perillustrem Federicum Zuccarum Clarissimum Equitem - Sangui ne quo clarus vivas et stemmate felix",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19352",
+                            "RecordID": "022-000006554",
+                            "Value": "Speltae,Antonii Mariae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Lanterna Luminosa. Madrigale del Sonnachioso Accademico Insensato - O viva face dell`humana mente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19353",
+                            "RecordID": "022-000006555",
+                            "Value": "Zuccari,Federico,,1539/40 - 1609"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. Federico Zuccaro Cavaliero Del Serenissimo Senato Veneto Sonetto del sig. Alessandro Maganza Pittore - Tu che non pure a le Ceruse agli Ostri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19354",
+                            "RecordID": "022-000006556",
+                            "Value": "Maganza,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Madrigale dell`Estatico Intento al sig. Cavagliere Federico Zuccari - Zuccaro o che il pennello",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19347",
+                            "RecordID": "022-000006547",
+                            "Value": "Massini,Filippo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "parte delle conclusioni del Rev[erendo] D. Ventura Venturi da Siena Academico Insensato detto il Velato. Disputate in publica Academia dell`Insensati in Perusa [Perugia] tra molte altre Decisione Morali, e Poetiche, queste del Disegno. Dedicate come sono qui sotto [...] Marchese Della Corgna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19355",
+                            "RecordID": "022-000006557",
+                            "Value": "Venturi,Ventura,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,330 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003701",
+        "WorkId": "000493",
+        "ShortTitle": "Dialogi Maritimi di M. Gioan Iacopo Bottazzo",
+        "LongTitle": "Et alcune rime maritime di M. Nicolo Franco, et d`altri diversi spiriti, dell`Accademia degli Argonauti.\nAll`Eccellenza del Machese di Soncino, Il S. Conte Massimiano Stampa.",
+        "ItacAcademyItem": {
+            "AcademyId": "0477",
+            "RecordID": "021-000007906",
+            "Value": "Accademia degli Argonauti (Casale Monferrato)"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "67",
+            "PublicationPlaceItalianName": "Mantova",
+            "PublicationPlaceEnglishName": "Mantua",
+            "PublicationPlaceLatinName": "Mantua"
+        },
+        "PublicationYear": "1547",
+        "DedicationPlaceDate": "Casale Monferrato",
+        "Shelfmark": "12350.b.20. |239.b.15.",
+        "Content": "The first part is by Gioan Iacopo Bottazzo and is divided into three parts, each part in the form of a dialogue discussing a different theme. The themes are geography, the winds and the celestial world. The second part is comprised of the Rime of Nicolo Franco and other members of the Argonauti.",
+        "Subjects": "Geography|Geology|Meteorology|Chemistry|Poetry|Love|Astronomy|Natural Philosophy|Philosophy|Natural History",
+        "Language": "Italian",
+        "Pagination": "pp. 168",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9128",
+                "RecordID": "022-000001735",
+                "Value": "Bottazzo,Gioan Iacopo,,Early 16th C.-?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9113",
+                    "RecordID": "022-000001720",
+                    "Value": "Franco,Nicolo,,1515-1570"
+                },
+                {
+                    "PersonId": "9262",
+                    "RecordID": "022-000001550",
+                    "Value": "Pico,Cristoforo,,late 16th C.-17th C."
+                },
+                {
+                    "PersonId": "9013",
+                    "RecordID": "022-000001581",
+                    "Value": "Catalano,Pietro,,16th C."
+                },
+                {
+                    "PersonId": "9149",
+                    "RecordID": "022-000001599",
+                    "Value": "Del Pero,Giovan Jacopo,,16th C."
+                },
+                {
+                    "PersonId": "9139",
+                    "RecordID": "022-000001620",
+                    "Value": "De` Malvezzi,Bessario,,16th C."
+                },
+                {
+                    "PersonId": "9035",
+                    "RecordID": "022-000001625",
+                    "Value": "Montiglio,Giovan Francesco,,16th C."
+                },
+                {
+                    "PersonId": "9057",
+                    "RecordID": "022-000001647",
+                    "Value": "Giustiniano,Girolamo,,ca. 1560-?"
+                },
+                {
+                    "PersonId": "9058",
+                    "RecordID": "022-000001648",
+                    "Value": "Vercellese,Mattio,,16th C."
+                },
+                {
+                    "PersonId": "9059",
+                    "RecordID": "022-000001649",
+                    "Value": "Massa,Giovan Vincenzo,,16th C."
+                },
+                {
+                    "PersonId": "9060",
+                    "RecordID": "022-000001650",
+                    "Value": "Gallina,Niccolo,,16th C."
+                },
+                {
+                    "PersonId": "9063",
+                    "RecordID": "022-000001653",
+                    "Value": "Pappazzone,Giovanni Battista,,16th C."
+                },
+                {
+                    "PersonId": "9070",
+                    "RecordID": "022-000001660",
+                    "Value": "Bagno,Ferrante,,16th C."
+                }
+            ]
+        },
+        "Notes": "On p. 142r a sonnet by Nicolo Franco is addressed to Ferrante Gonzaga and Isabella of Capua, prince and princess of Molfetta. On pp. 167v-168r a letter is addressed to Teodoro Bottazzo, son of the author, written by the printer Giacomo Ruffinelli. The first part of the book was republished in a modern edition; see, Gioan Iacopo Bottazzo, Dialogi Maritimi, 1547, ed. Elisa Deandrea (Novara: Interlinea, 2008).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9641",
+                "RecordID": "022-000001689",
+                "Value": "Stampa,Massimiano,Count|Marquis of Soncino,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9640",
+                "RecordID": "022-000001688",
+                "Value": "Ruffinelli,Giacomo,,fl. 1547-1598"
+            }
+        },
+        "PrinterOrnament": "A36 - V99 - Z574",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Rime Maritime di Nicolo Franco nell'Accademia degli Argonauti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9113",
+                            "RecordID": "022-000001720",
+                            "Value": "Franco,Nicolo,,1515-1570"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Gioan Fran. Arrivabene, detto Oronte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9242",
+                            "RecordID": "022-000001538",
+                            "Value": "Arrivabene,Giovan Francesco,,ca. 1515-?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Nicolo Franco al S. Gioan Fran. Arrivabene",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9113",
+                            "RecordID": "022-000001720",
+                            "Value": "Franco,Nicolo,,1515-1570"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del S. Cristofero Picco, detto Amicla",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9262",
+                            "RecordID": "022-000001550",
+                            "Value": "Pico,Cristoforo,,late 16th C.-17th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Medisimo, in figura del Cavalier Gerardo, detto Tiphi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9262",
+                            "RecordID": "022-000001550",
+                            "Value": "Pico,Cristoforo,,late 16th C.-17th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Pietro Catalano, detto Ergino",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9013",
+                            "RecordID": "022-000001581",
+                            "Value": "Catalano,Pietro,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Gioaniac. Del Pero, detto Telone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9149",
+                            "RecordID": "022-000001599",
+                            "Value": "Del Pero,Giovan Jacopo,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Nicolo Franco, al S. Gioaniacopo Bottazzo, detto Nausitheo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9113",
+                            "RecordID": "022-000001720",
+                            "Value": "Franco,Nicolo,,1515-1570"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Bessario de' Malvezzi, detto Palinuro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9139",
+                            "RecordID": "022-000001620",
+                            "Value": "De` Malvezzi,Bessario,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Gioan Fran. Montiglio, detto Canopo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9035",
+                            "RecordID": "022-000001625",
+                            "Value": "Montiglio,Giovan Francesco,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Girolamo Giustiniano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9057",
+                            "RecordID": "022-000001647",
+                            "Value": "Giustiniano,Girolamo,,ca. 1560-?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Nicolo Franco, al Matio Vercellese",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9113",
+                            "RecordID": "022-000001720",
+                            "Value": "Franco,Nicolo,,1515-1570"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Matio Vercellese",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9058",
+                            "RecordID": "022-000001648",
+                            "Value": "Vercellese,Mattio,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Nicolo Franco al S. Gioan Cane, detto Peloro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9113",
+                            "RecordID": "022-000001720",
+                            "Value": "Franco,Nicolo,,1515-1570"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Gioan Vicen. Massa, a M. Nicolo Franco",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9059",
+                            "RecordID": "022-000001649",
+                            "Value": "Massa,Giovan Vincenzo,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Nicolo Gallina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9060",
+                            "RecordID": "022-000001650",
+                            "Value": "Gallina,Niccolo,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Gioan Battista Pappazzone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9063",
+                            "RecordID": "022-000001653",
+                            "Value": "Pappazzone,Giovanni Battista,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del S. Ferrante Bagno, detto Anceo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9070",
+                            "RecordID": "022-000001660",
+                            "Value": "Bagno,Ferrante,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Segue la Maritima Sciolta del detto S. Ferrante Bagno. Anceo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9070",
+                            "RecordID": "022-000001660",
+                            "Value": "Bagno,Ferrante,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Hydromantia Maritima di M. Gioan Francesco Arrivabene. Melite",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9242",
+                            "RecordID": "022-000001538",
+                            "Value": "Arrivabene,Giovan Francesco,,ca. 1515-?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Cloanto. Maritima Seconda di M. Gioanfrancesco Arrivabene. Peloro & Oronte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9242",
+                            "RecordID": "022-000001538",
+                            "Value": "Arrivabene,Giovan Francesco,,ca. 1515-?"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

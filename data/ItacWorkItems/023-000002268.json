@@ -1,0 +1,95 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002268",
+        "WorkId": "000296",
+        "ShortTitle": "De Gymnasio Patavino",
+        "LongTitle": "Antonii Riccoboni Commentariorum libri sex: quibus antiquissima eius origo et multa preclara ad Patavium pertinentia: Doctoresque clariores usque ad ann 1571: ac deinceps omnes, quotquot in eo floruerunt, et florent: eorumque controversiae atque alia memoratu dignissima recensentur. Opus ut non amplius pertractatum: sic studiosis antiquitatis valde expetendum. Cum duplici Indice, altero capitum, altero precipuarum rerum capitibus comprehensarum.",
+        "ItacAcademyItem": {
+            "AcademyId": "0026",
+            "RecordID": "021-000002259",
+            "Value": "Accademia degli Animosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1598",
+        "DedicationPlaceDate": "Padua, August 1598",
+        "Shelfmark": "L.R.302.a.2/6|8355.e.17|661.d.18",
+        "Subjects": "Antiquities",
+        "Language": "Latin",
+        "Pagination": "pp. 148r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15724",
+                "RecordID": "022-000002261",
+                "Value": "Riccobono,Antonio,,1541 - 1599"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15733",
+                    "RecordID": "022-000002272",
+                    "Value": "Chevenhullero in Aichlberg,Augustino,Baron,"
+                },
+                {
+                    "PersonId": "15732",
+                    "RecordID": "022-000002271",
+                    "Value": "Magero,Erasmo Sigefrido,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9636",
+                "RecordID": "022-000001683",
+                "Value": "Bolzetta,Francesco,,1566-1653"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9636",
+                "RecordID": "022-000001683",
+                "Value": "Bolzetta,Francesco,,1566-1653"
+            }
+        },
+        "PrinterOrnament": "U159",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "De Animosorum Academia ex Gymnasio Patavino conflata",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Jacobum Fuscarenum Philosophum, Patavii Praetorem, nomine Academiae Animosorum, Oratio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Franciscum Duodum Patavii Praefectum, nomine Academiae Animosorum, Oratio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

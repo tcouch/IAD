@@ -1,0 +1,26 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20206",
+        "RecordId": "022-000007746",
+        "Surname": "Vendramin",
+        "Forename": "Girolamo",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Hyeronimus"
+            },
+            {
+                "AlternativeSurname": "Vendramenus",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "?-1617",
+        "StartDate": "?",
+        "EndDate": "1617",
+        "Nationality": {
+            "NationalityId": "358",
+            "Value": "of Spalato"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

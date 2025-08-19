@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "6028",
+        "RecordId": "022-000000759",
+        "Surname": "Gatti",
+        "Forename": "Oliviero",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Catti"
+        },
+        "DateText": "1579-1648",
+        "StartDate": "1579",
+        "EndDate": "1648",
+        "Nationality": {
+            "NationalityId": "171",
+            "Value": "of Piacenza"
+        },
+        "Notes": "Active in Bologna 1597-1628. See S. Ferrara, Incisiori bolognesi ed emiliani del `600 (Bologna, 1973)",
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19833",
+        "RecordId": "022-000007270",
+        "Surname": "Querini",
+        "Forename": "Girolamo",
+        "AlternativeName": {
+            "AlternativeSurname": "Quirinus",
+            "AlternativeForename": "Hieronymus"
+        },
+        "PersonalTitle": "Procurator",
+        "DateText": "1647 - ?",
+        "StartDate": "1647",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

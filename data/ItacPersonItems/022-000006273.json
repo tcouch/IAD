@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19136",
+        "RecordId": "022-000006273",
+        "Surname": "Pandolfini",
+        "Forename": "Filippo",
+        "Gender": "Male",
+        "DateText": "1575-1655",
+        "StartDate": "1575",
+        "EndDate": "1655",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Translated into Latin some of Galileo`s works. Governor of Montepulciano and Livorno. It is not clear whether he became member of the Lincei in 1614. See Gabrieli, Contributi, I, p. 449.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

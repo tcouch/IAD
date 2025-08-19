@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19421",
+        "RecordId": "022-000006633",
+        "Surname": "D`Aquino",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "PersonalTitle": "Viceroy of Sicily|Prince of Caramanica",
+        "DateText": "1738-1795",
+        "StartDate": "1738",
+        "EndDate": "1795",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

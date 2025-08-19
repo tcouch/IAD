@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7506",
+        "RecordId": "022-000001027",
+        "Surname": "Boccadiferro",
+        "Forename": "Lodovico",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Buccaferrea"
+            },
+            {
+                "AlternativeForename": "Ludovicus"
+            }
+        ],
+        "DateText": "1482-1545",
+        "StartDate": "1482",
+        "EndDate": "1545",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Professor of philosophy in Rome and Bologna. A close friend of Achille Bocchi, he took part in the conversations of the Hermatena. See his biography by Antonio Rotondo`, in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15747",
+        "RecordId": "022-000002291",
+        "Surname": "Contarini",
+        "Forename": "Niccolo`",
+        "Gender": "Male",
+        "PersonalTitle": "Doge",
+        "DateText": "1553-1631",
+        "StartDate": "1553",
+        "EndDate": "1631",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See his biography by G. Cozzi in DBI",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

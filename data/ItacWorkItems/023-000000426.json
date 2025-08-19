@@ -1,0 +1,70 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000426",
+        "WorkId": "00038",
+        "ShortTitle": "L`amorosa innocenza",
+        "LongTitle": "Tragicommedia pastorale del Signor Silvestro Branchi il Costante nell`Accademia de` Ravvivati. All`illustrissimo et reverendissimo Signor Luigi Cardinale Capponi dignissimo arcivescovo di Ravenna e principe",
+        "ItacAcademyItem": {
+            "AcademyId": "0006",
+            "RecordID": "021-000000002",
+            "Value": "Accademia dei Riaccesi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1623",
+        "DedicationPlaceDate": "Bologna 12 February 1623",
+        "Shelfmark": "11714.a.13",
+        "Subjects": "Tragic comedy",
+        "Language": "Italian",
+        "Illustration": "Woodcut |",
+        "Pagination": "207",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5370",
+                "RecordID": "022-000000376",
+                "Value": "Branchi,Silvestro,,c. 1550-c. 1650"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5150",
+                    "RecordID": "022-000000215",
+                    "Value": "De Bonis,Homobonus,,"
+                },
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "L`Auttore protesta che leggendo le parole fato Dei sorte et altre simili voci che vanno intese poeticamente; atteso che egli si conforma in tutto e per tutto alle ordinationi et riti di santa Chiesa | D. Homobonus de Bonis Poenit. Pro Illustrissimo et reverendissimo D. Card. Archiepisc. Bon. |  Imprimatur Fr. Hieronymus Onuphrius Consultor S. Officij pro Reverendiss. P. Inq. Bon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5410",
+                "RecordID": "022-000000422",
+                "Value": "Capponi,Luigi,Cardinal,1582-1659"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5408",
+                "RecordID": "022-000000418",
+                "Value": "Moscatelli,Giovanni Paolo,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52740",
+            "Value": "023-000000426_52740_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

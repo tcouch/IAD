@@ -1,0 +1,137 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007869",
+        "WorkId": "000881",
+        "ShortTitle": "Elettra tragedia di Sofocle",
+        "LongTitle": "Fatta volgare dall`illustre signor Erasmo delli signori di Valvasone. Academico Uranico.",
+        "ItacAcademyItem": {
+            "AcademyId": "0462",
+            "RecordID": "021-000007865",
+            "Value": "Accademia degli Uranici"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1588",
+        "DedicationPlaceDate": "Dall`Accademia Uranica di Venezia il 20 dicembre 1587",
+        "Shelfmark": "237i38|638c27(4)|162b34",
+        "Subjects": "Tragedy|Theatre",
+        "Language": "Italian|Latin|Greek",
+        "Pagination": "60r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19090",
+                "RecordID": "022-000006215",
+                "Value": "di Valvasone,Erasmo,,1523 - 1593"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17607",
+                    "RecordID": "022-000004501",
+                    "Value": "Camilli,Camillo,,?-1615"
+                },
+                {
+                    "PersonId": "17583",
+                    "RecordID": "022-000004477"
+                },
+                {
+                    "PersonId": "17591",
+                    "RecordID": "022-000004485",
+                    "Value": "Alessandri,Giovanni Domenico,,"
+                },
+                {
+                    "PersonId": "9661",
+                    "RecordID": "022-000001830",
+                    "Value": "Paulini,Fabio,,ca.1535-1605"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17570",
+                "RecordID": "022-000004463",
+                "Value": "Grimani,Giovanni,Patriarch of Aquileia,1506-1593"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0462",
+                "RecordID": "021-000007865",
+                "Value": "Accademia degli Uranici"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17515",
+                "RecordID": "022-000004392",
+                "Value": "Guerra,Domenico and Giovanni Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55031",
+            "Value": "023-000007869_55031_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Vili al secol moderno antichi danni",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9661",
+                            "RecordID": "022-000001830",
+                            "Value": "Paulini,Fabio,,ca.1535-1605"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Felice Erasmo, che ne' sacri chiostri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17591",
+                            "RecordID": "022-000004485",
+                            "Value": "Alessandri,Giovanni Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A che tanto ti duoli, a che ti lagni?",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17591",
+                            "RecordID": "022-000004485",
+                            "Value": "Alessandri,Giovanni Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Rettor sommo del ciel, Giove immortal",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17591",
+                            "RecordID": "022-000004485",
+                            "Value": "Alessandri,Giovanni Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Cecropiam italico mutattam carmine doctis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9661",
+                            "RecordID": "022-000001830",
+                            "Value": "Paulini,Fabio,,ca.1535-1605"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19177",
+        "RecordId": "022-000006326",
+        "Surname": "Bahuin",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bavinnio",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Bavinio",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Bahuinus",
+                "AlternativeForename": null
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "63",
+            "Value": "Swiss"
+        },
+        "Notes": "One of the two Swiss Protestant brothers from Basel with this surname: Giovanni (1541-1613) or Gaspare (1560-1624)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

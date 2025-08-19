@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19495",
+        "RecordId": "022-000006720",
+        "Surname": "Gigli",
+        "Forename": "Girolamo",
+        "DateText": "1660-1722",
+        "StartDate": "1660",
+        "EndDate": "1722",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Also member of the Accademia dei Timidi (Mantua), and Crusca in Florence. See L. L. Spera, `Gigli, Girolamo`, in DBI.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

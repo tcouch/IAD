@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20111",
+        "RecordId": "022-000007614",
+        "Surname": "Ghilini",
+        "Forename": "Girolamo",
+        "DateText": "1589-1668",
+        "StartDate": "1589",
+        "EndDate": "1668",
+        "Nationality": {
+            "NationalityId": "349",
+            "Value": "of Alessandria"
+        },
+        "Notes": "Ghilini was born in Monza. See his biography by Andrea Merlotti, in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9148",
+        "RecordId": "022-000001600",
+        "Surname": "Sassonia",
+        "Forename": "Ercole",
+        "Gender": "Male",
+        "DateText": "1551-1607",
+        "StartDate": "1551",
+        "EndDate": "1607",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1602. His portrait comes from Tomasini, Illustrium virorum elogia (1630)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

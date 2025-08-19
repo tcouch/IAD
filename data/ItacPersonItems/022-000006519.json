@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19327",
+        "RecordId": "022-000006519",
+        "Surname": "Bellori",
+        "Forename": "Giovanni Pietro",
+        "Gender": "Male",
+        "DateText": "1613-1696",
+        "StartDate": "1613",
+        "EndDate": "1696",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Member of the Accademia di San Luca since 1652",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

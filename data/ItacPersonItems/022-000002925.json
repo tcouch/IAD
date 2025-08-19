@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16273",
+        "RecordId": "022-000002925",
+        "Surname": "de` Medici",
+        "Forename": "Ferdinando I",
+        "Gender": "Male",
+        "PersonalTitle": "Grand Duke of Tuscany",
+        "DateText": "1549-1609",
+        "StartDate": "1549",
+        "EndDate": "1609",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

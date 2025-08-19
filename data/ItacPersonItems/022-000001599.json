@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9149",
+        "RecordId": "022-000001599",
+        "Surname": "Del Pero",
+        "Forename": "Giovan Jacopo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Giovanni Giacomo"
+            },
+            {
+                "AlternativeSurname": "Dal Pero",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "16th C.",
+        "StartDate": "16th C.",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "There are 6 letters by Del Pero included in Stefano Guazzo`s Lettere Volgari di Diversi Gentilhuomini del Monferrato (1566).",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

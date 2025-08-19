@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16576",
+        "RecordId": "022-000003294",
+        "Surname": "Secco",
+        "Forename": "Giovanni Fermo",
+        "PersonalTitle": "Count",
+        "DateText": "1660 - ?",
+        "StartDate": "1660",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1693.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

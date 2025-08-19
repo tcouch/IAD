@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006879",
+        "WorkId": "000805",
+        "ShortTitle": "Rime d`Antonio Ongaro,",
+        "LongTitle": "detto l`Affidato Accademico Illuminato. all`Illustrissima signora Isabella Marchesa Pallavicina",
+        "ItacAcademyItem": {
+            "AcademyId": "0231",
+            "RecordID": "021-000006857",
+            "Value": "Accademia degli Illuminati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "76",
+            "PublicationPlaceItalianName": "Farnese",
+            "PublicationPlaceEnglishName": "Farnese",
+            "PublicationPlaceLatinName": "Farnese"
+        },
+        "PublicationYear": "1600",
+        "DedicationPlaceDate": "Valentano 2 dicembre 1599",
+        "Shelfmark": "11429b47",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "127",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19568",
+                "RecordID": "022-000006856",
+                "Value": "Ongaro,Antonio,,1569 - 1599"
+            }
+        },
+        "Notes": "On the title page there may be the Academy`s emblem. But Zappella believes this is the Mariani`s ornament. For the background of this publication, see Franchi, Impressioni (1620), p. 508. Contrary to other editions, poems do not have titles.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19569",
+                "RecordID": "022-000006858",
+                "Value": "Pallavicino,Isabella,Marchioness,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19577",
+                "RecordID": "022-000006877",
+                "Value": "Palella,Tiberio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17418",
+                "RecordID": "022-000004273",
+                "Value": "Mariani,Nicol\u00f2,,fl.1590-1624"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54882",
+            "Value": "023-000006879_54882_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Del cavaliere Mariano Insegna detto l`Opaco al` Authore - Sonetto - Quando lo spirto tuo resto` disciolto",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19578",
+                        "RecordID": "022-000006878",
+                        "Value": "Insegna,Mariano,Cavalier,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

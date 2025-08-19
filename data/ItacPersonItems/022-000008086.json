@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20364",
+        "RecordId": "022-000008086",
+        "Surname": "Cappelli",
+        "Forename": "Laura Beatrice",
+        "Gender": "Female",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Capelli"
+            },
+            {
+                "AlternativeSurname": "Cappello"
+            }
+        ],
+        "DateText": "1540-ca. 1617",
+        "StartDate": "1540",
+        "EndDate": "ca. 1617",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Cappelli was raised in the household of Alessandro Beccaria and Lucrezia Martinengo, her aunt. See Dizionario biografico delle donne lombarde: 568-1968, ed. Rachele Farina (Milan: Baldini & Castoldi, 1995), 265.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

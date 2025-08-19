@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0079",
+        "RecordId": "021-000004352",
+        "Name": "Scienze (Accademia delle)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1732",
+        "EndDate": "?",
+        "DateText": "1732-?",
+        "Notes": "This circle is recorded by Maylender as the Galianiana Academy. \nSee Naples, Rome, Florence edited by Boutier, Marin and Romano, \u00c9cole Fran\u00e7aise de Rome, 2005;\nL\u2019et\u00e0 dei lumi. Studi storici sul Settecento europeo in onore di Franco Venturi, Naples, 1985",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17465",
+                "RecordId": "022-000004333",
+                "Name": "Lanzani ,Niccol\u00f2,,",
+                "Nickname": "Accademico Chimico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17354",
+                "RecordId": "022-000004188",
+                "Name": "Galiani,Celestino,,1681 - 1735",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17355",
+                "RecordId": "022-000004189",
+                "Name": "Spinelli ,Francesco,Prince of Scalea,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17880",
+        "RecordId": "022-000004801",
+        "Surname": "Capizucchi",
+        "Forename": "Raimondo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Capisuccus"
+        },
+        "PersonalTitle": "Cardinal|Master of the Sacred Palace",
+        "DateText": "1615-1691",
+        "StartDate": "1615",
+        "EndDate": "1691",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Role": "Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

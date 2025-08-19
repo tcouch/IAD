@@ -1,0 +1,158 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0478",
+        "RecordId": "021-000007907",
+        "Name": "Illustrati (Accademia degli)",
+        "AlternativeName": "Illustri",
+        "City": {
+            "CityId": "114",
+            "CityItalianName": "Casale Monferrato"
+        },
+        "EmblemDescription": "Sun rising and moon sinking",
+        "Motto": "Lux indeficiens",
+        "StartDate": "1561",
+        "EndDate": "ca.1595",
+        "DateText": "1561-ca.1595",
+        "Notes": "The leggi of the academy are summarised in Stefano Guazzo, Civil Conversatione (1574), 104r.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9194",
+                "RecordId": "022-000001773",
+                "Name": "Guazzo,Stefano,,1530-1593",
+                "Nickname": "L'Elevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16872",
+                "RecordId": "022-000003639",
+                "Name": "Magnocavallo,Annibale,,1543-1596",
+                "Nickname": "l'Acceso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9128",
+                "RecordId": "022-000001735",
+                "Name": "Bottazzo,Gioan Iacopo,,Early 16th C.-?",
+                "Nickname": "l'Pensoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9645",
+                "RecordId": "022-000001776",
+                "Name": "Volpe,Giovanni Mattheo,,16th C.",
+                "Nickname": "l'Avveduto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16521",
+                "RecordId": "022-000003217",
+                "Name": "Guasco,Annibale,,1540-1619",
+                "Nickname": "Tenebroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20068",
+                "RecordId": "022-000007566",
+                "Name": "Morra,Anselmo,,",
+                "Nickname": "Percosso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16583",
+                "RecordId": "022-000003301",
+                "Name": "De Londo\u00f1o,Sancho,,ca.1515-1569",
+                "Nickname": "Confiado",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16546",
+                "RecordId": "022-000003253",
+                "Name": "Sordi,Filiberto,,",
+                "Nickname": "Attratto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16611",
+                "RecordId": "022-000003330",
+                "Name": "Becio,Francesco,,",
+                "Nickname": "Luminoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16622",
+                "RecordId": "022-000003341",
+                "Name": "Pugiella,Francesco,,",
+                "Nickname": "Invaghito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16623",
+                "RecordId": "022-000003342",
+                "Name": "Gambara,Gianfrancesco,Cardinal,1533-1587",
+                "Nickname": "Temperato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16659",
+                "RecordId": "022-000003387",
+                "Name": "Pappalardo,Gianfrancesco,,",
+                "Nickname": "Lieto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16660",
+                "RecordId": "022-000003388",
+                "Name": "Carretto,Giorgio,,",
+                "Nickname": "Errante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16731",
+                "RecordId": "022-000003467",
+                "Name": "Cavagliate,Giovanni Guglielmo,,",
+                "Nickname": "Affannato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16820",
+                "RecordId": "022-000003569",
+                "Name": "Delli R\u00e8,Stefano,,",
+                "Nickname": "Svegliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16793",
+                "RecordId": "022-000003533",
+                "Name": "Calandra,Silvio,,ca. 1540-1590",
+                "Nickname": "Sollecito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16823",
+                "RecordId": "022-000003577",
+                "Name": "Crova,Teodoro,,",
+                "Nickname": "Affetato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

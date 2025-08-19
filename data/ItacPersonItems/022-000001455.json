@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7551",
+        "RecordId": "022-000001455",
+        "Surname": "Tolomei",
+        "Forename": "Claudio",
+        "PersonalTitle": "Bishop",
+        "Pseudonym": "Franci Adriano da Siena",
+        "DateText": "1492 - 1555/6",
+        "StartDate": "1492",
+        "EndDate": "1555/6",
+        "Nationality": {
+            "NationalityId": "203",
+            "Value": "of Asciano (Siena)"
+        },
+        "Notes": "Founder of the Accademia della Virtu`",
+        "Role": "Author|Contributor|Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

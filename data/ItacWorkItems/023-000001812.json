@@ -1,0 +1,36 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001812",
+        "WorkId": "00128",
+        "ShortTitle": "Der fu?rtefflichen ... Jungfer Gabrielis Carola Patinin",
+        "LongTitle": "u?ber die glu?cklich entsetzte ... Residentz-Stadt Wien auf der Italia?nischen Academie Padua in Lat. Sprach gehaltene ... Lob-Rede ... in das Teutsche ... uebersetzet. Lat. & Germ",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "10\u00b0",
+        "City": {
+            "CityId": "58",
+            "PublicationPlaceItalianName": "Francoforte",
+            "PublicationPlaceEnglishName": "Frankfort",
+            "PublicationPlaceLatinName": "Fancofurtii"
+        },
+        "PublicationYear": "1684",
+        "Shelfmark": "1315.a.15",
+        "Subjects": "Encomiastic discourse on the Turkish menace",
+        "Language": "Latin|German",
+        "Illustration": "Engraving | The author`s portrait",
+        "Pagination": "pp. 38",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9162",
+                "RecordID": "022-000001739",
+                "Value": "Patina,Carola Catterina,,ca 1667-1745"
+            }
+        },
+        "Notes": "According to Vigan\u00f2 `Le donne e i Ricovrati` in L`Accademia in biblioteca (2004) p. 206 this could be Gabrielle`s German translation of her sister`s speech.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

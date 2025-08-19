@@ -1,0 +1,108 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006300",
+        "WorkId": "000740",
+        "ShortTitle": "Io. Baptistae Portae Lyncei Neapolitani De Aeris Transmutationibus Libri IIII",
+        "LongTitle": "In quo opere diligenter pertractatur de iis, quae, vel ex aere, vel in aere oriuntur. Mete???????? multiplices opiniones, qua illustrantur, qua refelluntur. Demum variarum causae mutationum aperiuntur",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "Neapoli 7 Novembris 1609",
+        "Shelfmark": "538d(1)",
+        "Subjects": "Meteorology",
+        "Language": "Greek|Arabic|Latin",
+        "Pagination": "[8] 211 [5]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16280",
+                "RecordID": "022-000002933",
+                "Value": "Della Porta,Giambattista,,1535? - 1615"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19159",
+                    "RecordID": "022-000006303",
+                    "Value": "Demisiani,Ioannis,,"
+                },
+                {
+                    "PersonId": "19158",
+                    "RecordID": "022-000006302",
+                    "Value": "Dobeli,Marci,,"
+                }
+            ]
+        },
+        "Notes": "In the colophon: `Romae apud Bartholomaeum Zannettum 1610`",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18184",
+                    "RecordID": "022-000005163",
+                    "Value": "Ystella,Ludovicus,,"
+                },
+                {
+                    "PersonId": "18185",
+                    "RecordID": "022-000005164",
+                    "Value": "Pallavicinus ,Thomas,,"
+                },
+                {
+                    "PersonId": "19157",
+                    "RecordID": "022-000006301",
+                    "Value": "de Angelis,Alexander,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur R. P. M. Sacri Pal. Apost. Caesar Fidelis Vicesregens. Iussu reverendissimi P. F. Ludovici Ystella Sacri Palatii Magistri Ego Alexander de Angelis Societatis Iesu, et Sacrae Theologiae Professor, legi Quatuor libros Meteororum Io. Baptistae Portae Neapolitani, in quibus nihil inveni, quod sit contra fidem, aut bonos mores, sed dignos eos iudico qui in lucem prodeant, si ita videbitur iss, quorum interest. Data in nostro Collegio Romano die 22 Novembris 1608. Ego Alexander de Angelis qui supra. Imprimatur f. Thomas Pallavicinus mafister et socius reverendiss. P. F. Ludovici ystella Sacri Palatii Apost. Magistri.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19124",
+                "RecordID": "022-000006260",
+                "Value": "Cesi,Federico,Prince of  Acquasparta,1585 - 1630"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17441",
+                "RecordID": "022-000004300",
+                "Value": "Mascardi,Giacomo,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "[Greek poem in honour of Della Porta]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19159",
+                            "RecordID": "022-000006303",
+                            "Value": "Demisiani,Ioannis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "[Arabic poem in honour of Della Porta]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19158",
+                            "RecordID": "022-000006302",
+                            "Value": "Dobeli,Marci,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

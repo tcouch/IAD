@@ -1,0 +1,83 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001441",
+        "WorkId": "00169",
+        "ShortTitle": "Discorso Dell`Eclissi",
+        "LongTitle": "detto Nell`Accademia degli Otiosi Nel d\u00ec di Maggio 1652. dato in luce per l`Accademico detto l`Arrestato.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1652",
+        "DedicationPlaceDate": "Naples 19 August 1652",
+        "Shelfmark": "531.b.51.",
+        "Content": "Speech delivered at the Otiosi Academy on the solar eclipse occurred in Naples in 1652.",
+        "Subjects": "Astronomy|Philosophy|Prose",
+        "Language": "Italian|Latin",
+        "Pagination": "First 4 pages unnumbered | pp. 56 | Last 5 pages unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15261",
+                "RecordID": "022-000001303",
+                "Value": "Anonymous,Author,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15200",
+                    "RecordID": "022-000001169",
+                    "Value": "Filomarino,Ascanius,Cardinal | Archbishop ,1583-1666"
+                },
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                },
+                {
+                    "PersonId": "15235",
+                    "RecordID": "022-000001278",
+                    "Value": "Zufia,,,"
+                },
+                {
+                    "PersonId": "15237",
+                    "RecordID": "022-000001280",
+                    "Value": "Caracciolus,,,"
+                },
+                {
+                    "PersonId": "15238",
+                    "RecordID": "022-000001281",
+                    "Value": "Capicius Latro,,,"
+                },
+                {
+                    "PersonId": "15262",
+                    "RecordID": "022-000001304",
+                    "Value": "De Rubeis,Franciscus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur ; Gregorius Peccerillus Vicar General; Fr. Ioseph de Rubeis Ordinis Minorum Convent. Sacr. Theolog.; Doct. & Eminentiss. Ac Reverendiss. Cardinal. Philamar. Theol. & Consult. S. Offic. ; Illustrss. & Eccell. Signore. Camillo Cavallo espone \u00e0 V. E. come desidera stampare una lettione detta nell`Accademia de gli Otiosi intorno all`Ecclissi ; supplica V. E. resti servita dargli licenza che si possa stampare. ; Magnific. Io: Bapt. Cacacius. Videat & inscriptis S. E. referat. Provisium per Suam Excellentiam Neapoli die 17. Iulii 1652. Tagliaviva  Excell. Domine. Iussu Excell. Vestr\u00e6 habitam in Ociosorum Academia eruditissimam san\u00e8 de Eclipsi prolusionem additamqu\u00e8 elegantissimam ad Lectorem Epistolam legi nec quidquam in; ea vel morum censura dignum ; vel Regi\u00e6 Iurisdictioni adversum occurrit. Ceterum  siquid in me de ea opella iudicium dicam paucis talem esse ut ex hoc ungue Leonem ex hac clava metiri Alcide liceat ex hac deniqu\u00e8 prolusione Auctoris literaturam ideoq;  dignam puto qua\u00e6 uti non degener Ociosorum Academi\u00e6 foetus \u00e6 in lucem suscipiatur. \u00e6 Excell. Vestr\u00e6 Servus Humilissimus \u00e6 D. I. Baptista Cacacius. Visa supradicta relatione Imprimatur. Zufia Reg. Caracciolus Reg. Provisum per Suam Excellentiam Neap. die 19. Augusti 1652. De Amico.",
+        "EngraverReference": "N",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15232",
+                "RecordID": "022-000001275",
+                "Value": "Cavallo,Camillo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53622",
+            "Value": "023-000001441_53622_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

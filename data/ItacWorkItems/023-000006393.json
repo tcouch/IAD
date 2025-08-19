@@ -1,0 +1,60 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006393",
+        "WorkId": "000770",
+        "ShortTitle": "Lettera Missiva",
+        "LongTitle": "del Signor Gio: Francesco Buonamici Maltese Dottore di Medicina, Filosofo, e Poeta Diretta ad Agostino Scilla Messinese Pittore, ed Accademico della Fucina detto lo Scolorito. Data sotto li 28. d`Agosto 1668. Ove si tratta dell`origine delle Glossopietre, occhi di Serpi, Bastoncini detti di San Paolo, ed altre pietre figurate, che si cavano dall`Isola di Malta, e del Gozzo.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1770",
+        "Shelfmark": "663.g.6.",
+        "Subjects": "Palentology",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 100",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19217",
+                "RecordID": "022-000006390",
+                "Value": "Buonamici,Gio[vanni] Francesco,,"
+            }
+        },
+        "Notes": "Buonamici`s letter to Agostino Scilla is in Opuscoli di Autori Siciliani Tomo Undecimo Alla Grandezza di Ferdinando Maria Tomasi, Caro, traina, e Naselli Principe, e Sig. Dell`Isola di Lampedusa, Duca di Palma, Barone del Castello di Montechiaro, de` Grani, e Falconeri, Signore della Torretta, e delli Feudi di Colobrino, S. Nicol\u00f2, e Zarcati, Signore, e Padrone delle Segrezie della Citt\u00e0 di Girgenti, e di Licata, Prefetto del pubblico Banco di questa Capitale, Presidente della Redenzione de` Cattivi in questo Regno di Sicilia, Maestro Razionale di Cappa e Spada con esercizio del Supremo Trib. del R. Patrimonio, grande di Spagna &c.\nIn Palermo MDCCLXX. Nella Stamperia de` Santi Apostoli in Piazza Bologni Presso D. Gaetano Maria Bentivenga.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19219",
+                "RecordID": "022-000006392",
+                "Value": "Tomasi Caro Traina Naselli,Ferdinando Maria,Prince of Lampedusa|Baron|Duke of Palma,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19218",
+                "RecordID": "022-000006391",
+                "Value": "Bentivenga,Gaetano Maria,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19218",
+                "RecordID": "022-000006391",
+                "Value": "Bentivenga,Gaetano Maria,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54660",
+            "Value": "023-000006393_54660_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

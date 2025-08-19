@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001864",
+        "WorkId": "00139",
+        "ShortTitle": "Il bellissimo torneo a piedi",
+        "LongTitle": "overo la barriera fatta dalla nobilt\u00e0 di Vicenza nel Theatro delli signori academici Olimpici il Carnevale dell`Anno 1612. Dedicata al clarissimo Lorenzo Donato dell` Illustrissimo signor Luigi Capitano di Vicenza",
+        "ItacAcademyItem": {
+            "AcademyId": "0022",
+            "RecordID": "021-000001817",
+            "Value": "Accademia degli Orditi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "37",
+            "PublicationPlaceItalianName": "Vicenza",
+            "PublicationPlaceEnglishName": "Vicenza",
+            "PublicationPlaceLatinName": "Vicentiae"
+        },
+        "PublicationYear": "1612",
+        "DedicationPlaceDate": "Vicenza 6 March 1612",
+        "Shelfmark": "9325.b.50.(2.)",
+        "Subjects": "Tournament",
+        "Language": "Italian",
+        "Pagination": "pp. 43",
+        "Marginalia": "No",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9677",
+                "RecordID": "022-000001850",
+                "Value": "Donato,Lorenzo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9651",
+                "RecordID": "022-000001820",
+                "Value": "Fiamma,Carlo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5256",
+                "RecordID": "022-000000247",
+                "Value": "Grossi,Francesco,,\u20201629"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

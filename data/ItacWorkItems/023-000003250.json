@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003250",
+        "WorkId": "000779",
+        "ShortTitle": "Fasti senenses",
+        "LongTitle": "Ab Academia Intronatorum editi.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1660",
+        "Shelfmark": "127.g.1|J/4867.h.8",
+        "Language": "Latin",
+        "Pagination": "280",
+        "Marginalia": "No",
+        "Notes": "The British Library catalogue suggests Rome as place of publication, and 1660 as the date.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16544",
+                "RecordID": "022-000003251",
+                "Value": "Chigi,Fabio ,Pope Alexander VII,1599-1667"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Intronati (Accademia degli)"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "16543",
+                "RecordID": "022-000003249",
+                "Value": "Vannius,Raphael,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16542",
+                "RecordID": "022-000003248",
+                "Value": "Vallet,Guillelmus,,1633 - 1704"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

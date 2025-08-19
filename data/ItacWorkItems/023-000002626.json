@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002626",
+        "WorkId": "000319",
+        "ShortTitle": "Lettere di uomini illustri",
+        "LongTitle": "che fiorirono nel principio del secolo Decimosettimo non piu` stampate",
+        "ItacAcademyItem": {
+            "AcademyId": "0031",
+            "RecordID": "021-000002439",
+            "Value": "Accademia Delia"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1744",
+        "Shelfmark": "1085.l.9",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "pp. 515",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9141",
+                "RecordID": "022-000001618",
+                "Value": "Pignoria,Lorenzo,,1571 - 1631"
+            }
+        },
+        "Notes": "The author writes to Paolo Gualdo on 18 April 1608 and 9 May 1608, and comments on discussions about the Academy`s name and emblem. See pp. 57-8, and 63-4; mentions Ingolfo Conti`s Oration on the occasion of the death of Pietro Duodo (1611), at p. 118.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16057",
+                    "RecordID": "022-000002635",
+                    "Value": "Manuelli,Tommaso,Inquisitor,"
+                },
+                {
+                    "PersonId": "16058",
+                    "RecordID": "022-000002636",
+                    "Value": "Mocenigo,Alvise,,"
+                },
+                {
+                    "PersonId": "16059",
+                    "RecordID": "022-000002637",
+                    "Value": "Querini,Zuanne,Proc. Ref.,"
+                },
+                {
+                    "PersonId": "16060",
+                    "RecordID": "022-000002638",
+                    "Value": "Bianchi,Agostino,Secretary,"
+                },
+                {
+                    "PersonId": "16061",
+                    "RecordID": "022-000002639",
+                    "Value": "Legrenzi,Alvise,Secretary,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Riformatori dello Studio di Padova\nAvendo veduto per la Fede di Revisione, ed approvazione del P. F. Paolo Tommaso Manuelli Inquisitore nel Libro intitolato Lettere d`uomini illustri [etc.], non v`esser cos`alcuna contro la Santa Fede Cattolica, e parimente per attestato del Segretario nostro niente contro Principi, e buoni costumi, concediamo licenza che possa essere stampato, osservando gli ordini in materia di Stampe, e presentando le solite copie alle Pubbliche Librerie di Venezia, e di Padova. \nData li 15 Ottobre 1742. \nAlvise Mocenigo Rif.\nZuanne Querini Proc. Rif.\nAgostino Bianchi Segretario\nRegistrato nel Magistrato Eccellentissimo degli Esecutori contro la Bestemmia li 12 Novembre 1742.\nAlvise Legrenzi Segretario",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16056",
+                "RecordID": "022-000002634",
+                "Value": "Stamperia Baglioni,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

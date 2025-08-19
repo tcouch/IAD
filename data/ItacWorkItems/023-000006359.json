@@ -1,0 +1,57 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006359",
+        "WorkId": "000759",
+        "ShortTitle": "De vita Virginii Caesarini Lyncei",
+        "LongTitle": "Iuliani, Civitatis Novae Ducis, baronis romani, f. Liber. Auctore Iusto Riquio Belga Canonico Gandavensi, Cive Romano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1629",
+        "DedicationPlaceDate": "Patavii kalend. Ianuar. anno 1629",
+        "Shelfmark": "1232c25(5)",
+        "Subjects": "Biographies of academicians",
+        "Language": "Latin",
+        "Pagination": "23",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19140",
+                "RecordID": "022-000006277",
+                "Value": "Ricchio,Giusto,,"
+            }
+        },
+        "Notes": "This book was part of Cesi`s project to publish encomiastic biographies of early Lincei.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19198",
+                "RecordID": "022-000006361",
+                "Value": "Contarini,Giovanni,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19197",
+                "RecordID": "022-000006360",
+                "Value": "Thuilius,Johannes,,1590 - 1630"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19197",
+                "RecordID": "022-000006360",
+                "Value": "Thuilius,Johannes,,1590 - 1630"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

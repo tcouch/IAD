@@ -1,0 +1,110 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0068",
+        "RecordId": "021-000004142",
+        "Name": "Raffrontati (Accademia dei)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Padlock of a German type, with a letter of the alphabet on each movable ring",
+        "Motto": "Rite iunctis",
+        "StartDate": "1588ca.",
+        "EndDate": "1594",
+        "DateText": "1588ca.-1594",
+        "Notes": "The same emblem belonged to the Raffrontati in Fermo, which was founded by the Sienese Girolamo Alberti when he became lector of Humanities in that city in 1594 (see Maylender, IV, p. 364). Sources record a German gentleman as being part of the Academy with the emblem of a cock singing with open wings, and the motto Excutit inde canit.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17319",
+                "RecordId": "022-000004143",
+                "Name": "Rocchi,Enea,,",
+                "Nickname": "Soave",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17320",
+                "RecordId": "022-000004144",
+                "Name": "Salimbeni,Pier Maria,,",
+                "Nickname": "Tenace",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17321",
+                "RecordId": "022-000004145",
+                "Name": "d`Elci,Giulio,,",
+                "Nickname": "Sonoro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17322",
+                "RecordId": "022-000004146",
+                "Name": "Borghesi,Giovanni Battista,,",
+                "Nickname": "Acuto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17323",
+                "RecordId": "022-000004147",
+                "Name": "Mealdi,Tiburzio,,",
+                "Nickname": "Sicuro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17324",
+                "RecordId": "022-000004148",
+                "Name": "Bucci,Florindo,,",
+                "Nickname": "Unito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17325",
+                "RecordId": "022-000004149",
+                "Name": "Alberti,Francesco Maria,,",
+                "Nickname": "Perfetto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17326",
+                "RecordId": "022-000004150",
+                "Name": "Baccinetti,Girolamo,,",
+                "Nickname": "Sollevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17327",
+                "RecordId": "022-000004151",
+                "Name": "Nerucci,Mario,,",
+                "Nickname": "Pulito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17328",
+                "RecordId": "022-000004152",
+                "Name": "Corsignani,Agnolo,,",
+                "Nickname": "Attento",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17329",
+                "RecordId": "022-000004153",
+                "Name": "Alberti,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

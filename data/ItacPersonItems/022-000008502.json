@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20695",
+        "RecordId": "022-000008502",
+        "Surname": "Osanna",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "DateText": "fl. 1573-1608",
+        "StartDate": "fl. 1573",
+        "EndDate": "1608",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Role": "Printer",
+        "TypographicReference": "A37 - V96 - Z511",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

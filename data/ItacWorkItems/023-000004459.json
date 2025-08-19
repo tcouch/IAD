@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004459",
+        "WorkId": "000580",
+        "ShortTitle": "Francisci Antonii Casertae Neap.ni Tractationes Duae Ad Medicinae praxim pertinentes.",
+        "LongTitle": "Altera de Natura, & Usu Aquarum potabilium, tum in sanis, tum in aegris corporibus. Alia de Natura, & Usu Vinorum, tum in sanis, tum in aegrotis.\nCum Indice Questionum, Articulorum, & Dubiorum. Ad Illustriss. Et Reverendiss. D. D. Odoardum Farnesium S.R.E. Card. Ampliss. Ac Episcopum Sabiensem.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1623",
+        "Shelfmark": "1038.i.6.",
+        "Subjects": "Medicine",
+        "Language": "Latin",
+        "Illustration": "Plate|Coat of arms of the Farnese family",
+        "Pagination": "2 vols, pp. 278",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17568",
+                "RecordID": "022-000004458",
+                "Value": "Caserta,Francesco Antonio,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15189",
+                    "RecordID": "022-000001231",
+                    "Value": "Tastius,Laelius,,"
+                },
+                {
+                    "PersonId": "16952",
+                    "RecordID": "022-000003741",
+                    "Value": "Palumbus,Marcus Antonius,,"
+                },
+                {
+                    "PersonId": "16532",
+                    "RecordID": "022-000003233",
+                    "Value": "Caputo,Filocalo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur Laelius Tastius Vic. Gen. Neap.\nM. Antonius Palumbus Theol. Dep. vidit.\nMag. Philocalus Caputus Carmel. Theol. Dep. vidit.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "6009",
+                "RecordID": "022-000000740",
+                "Value": "Farnese,Odoardo,Cardinal,1573-1626"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16853",
+                "RecordID": "022-000003611",
+                "Value": "Perrey,Nicolas,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16639",
+                "RecordID": "022-000003359",
+                "Value": "Roncagliolo ,Secondino,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54739",
+            "Value": "023-000004459_54739_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16376",
+        "RecordId": "022-000003042",
+        "Surname": "Bulgarini",
+        "Forename": "Belisario",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Bolgarini"
+        },
+        "DateText": "1539-1620",
+        "StartDate": "1539",
+        "EndDate": "1620",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Founder of the Accademia degli Accesi",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

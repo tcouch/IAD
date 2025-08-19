@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9023",
+        "RecordId": "022-000001604",
+        "Surname": "Baglioni",
+        "Forename": "Malatesta",
+        "Gender": "Male",
+        "PersonalTitle": "Bishop of Assisi|Bishop of Pesaro|Apostolic Referendary",
+        "DateText": "1581-1648",
+        "StartDate": "1581",
+        "EndDate": "1648",
+        "Nationality": {
+            "NationalityId": "221",
+            "Value": "of Perugia"
+        },
+        "Notes": "Clergyman, he received a degree in law at the University of Padua. He took part in the creation of the Ricovrati Academy, which he joined in 1599. He was described as `generoso di sangue e sperimentato nelle armi`. He was appointed Apostolic Referendary in 1605, Bishop of Pesaro in 1612 and Bishop pf Assisi in 1641.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

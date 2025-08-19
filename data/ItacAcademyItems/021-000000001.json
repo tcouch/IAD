@@ -1,0 +1,2220 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0001",
+        "RecordId": "021-000000001",
+        "Name": "Gelati (Accademia dei)",
+        "AlternativeName": "Academia Gelatorum",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "A wood of trees covered with ice",
+        "EmblemImage": {
+            "ImageId": "46395",
+            "Value": "021-000000001_46395_1.jpg"
+        },
+        "Motto": "Nec longum tempus",
+        "StartDate": "1588",
+        "EndDate": "ca.1799",
+        "DateText": "1588-ca.1799",
+        "Notes": "List of members of the Academy is in Memorie Imprese e Ritratti de\u2019 Signori Accademici Gelati di Bologna (Bologna, 1672) and Leggi dell\u2019Accademia de\u2019 Sig[nori] Gelati di Bologna (Bologna, 1683). Biographical information are in Fantuzzi, Notizie degli scrittori bolognesi (1784). --- Giorgio Stabile refers to a letter mentioning the Accademia dei Gelati as early as 1558, see Stabile, `Betti Claudio, detto Betto il Giovane`, in DBI. --- Explanation of the Academy`s emblem, is in Zoppio, Consolatione di Melchiorre Zoppio, filosofo morale, nella morte della moglie, Olimpia Luna Z. (1603). --- For the Gelati`s interest in theatre, see Marina Calore, `La biblioteca drammatica delgi Accademici Gelati di Bologna`, in Atti della Accademia delle scienze dell`Istituto di Bologna , Classe di scienze morali, Rendiconti, 1992-1993, pp. 61-82. --- For a history of the Accademia in the late XVII c., see Bergamini, `Dai Gelati alla Renia (1670-1698). Appunti per una storia delle accademie letterarie bolognesi`, in La Colonia Renia: profilo documentario e critico dell\u2019Arcadia bolognese, ed. Mario Saccenti 2 vols (Modena: 1988).\nPublications related tot he Academy, but not in British Library catalogue, include: Encomia iurisprudentiae solemnia Paulus Maccius Acad. Gelat. In Archigymnasio Bononiae dicebat. Et Illustrissimo D. Augustino Marsilio Senat. dicabat... (1633); Nerei vaticinium de raptu Helenae Apellaea Guidonis Rheni arte depicto. Paulus Maccius in Academia Gelatorum Defessus describebat, Emanuelique Vizanio adolescenti Latinarum, Graecarumque litterarum studiosissimo, ... donabat (Bononiae : typis Clementis Ferronij, 1633 (Bononiae, Kalen. Februarij [1 II] 1633); Cruentum divae Martinae virginis et martyris in Verba Christi Iuramentum Paullus Maccius in Academia Gelatorum defessus scribebat, et illistrissimis Bononiensis Reipublicae Senatoribus dicabat (Bononiae: typis Clementis Ferronij, 1635); Lo sposalizio della terra col Cielo per l`Immacolata Concezione della Verg. Orazione panegirica di Paolo Emilio Fantucci senatore bolognese, recitata dal medesimo nel tempio di S. Francesco di Bologna nell`occasione della solita accademia dell`Immacolata Concezione (Bologna: presso Gio. Battista Ferroni, 1658); Accademia dei Gelati, Componimenti dispensati nella publica adunanza de gli Academici Gelati per le nozze del sig.r Tolomeo Duglioli il Dedito e della S.ra Maria Barberini (In Bologna: per Bartolomeo Cochi, 1618?)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5065",
+                "RecordId": "022-000000062",
+                "Name": "Galli,Giovan Battista,,",
+                "Nickname": "Il Vigile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5069",
+                "RecordId": "022-000000066",
+                "Name": "Gandolfi,Antonio,,",
+                "Nickname": "Il Conservato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5166",
+                "RecordId": "022-000000161",
+                "Name": "Pepoli,Giovanni,Count,",
+                "Nickname": "L`Ardito",
+                "Motto": "Iam satis nivis",
+                "PersonEmblemDescription": "Plant half covered in snow?; blossoming flowers; thorns",
+                "PersonEmblemImage": {
+                    "ImageId": "53015",
+                    "Value": "022-000000161_53015_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5070",
+                "RecordId": "022-000000067",
+                "Name": "Marescalchi,Fulvio Antonio,Senator,?1644",
+                "Nickname": "Il Munito",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53017",
+                    "Value": "022-000000067_53017_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5071",
+                "RecordId": "022-000000068",
+                "Name": "Paleotti,Francesco,,",
+                "Nickname": "Il Cupido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5072",
+                "RecordId": "022-000000069",
+                "Name": "Fantuzzi,Alfonso,,",
+                "Nickname": "Il Volubile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5074",
+                "RecordId": "022-000000071",
+                "Name": "Guidotti,Carlo,,",
+                "Nickname": "Il Composto",
+                "Motto": "Et mutuata luce",
+                "PersonEmblemDescription": "Six stars; deserted landscape",
+                "PersonEmblemImage": {
+                    "ImageId": "53018",
+                    "Value": "022-000000071_53018_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5076",
+                "RecordId": "022-000000073",
+                "Name": "Ranuzzi Manzoli,Girolamo,Count,",
+                "Nickname": "Il Tardato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5078",
+                "RecordId": "022-000000075",
+                "Name": "Lupari Magnani,Paolo Scipione,Marquis,",
+                "Nickname": "Il Risoluto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5079",
+                "RecordId": "022-000000076",
+                "Name": "Fogliani Gualandi,Ermete,,",
+                "Nickname": "Il Pericoloso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5081",
+                "RecordId": "022-000000078",
+                "Name": "Malvasia,Cornelio,,1603-1664",
+                "Nickname": "Il Difeso",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53020",
+                    "Value": "022-000000078_53020_2.jpg"
+                }
+            },
+            {
+                "PersonId": "16194",
+                "RecordId": "022-000002821",
+                "Name": "Tolomei Marescotti,Maria Settimia,,1659 - 1715",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5084",
+                "RecordId": "022-000000081",
+                "Name": "Marescalchi,Vincenzo Maria,,",
+                "Nickname": "Il Ritenuto",
+                "Motto": "Haeret ne erret",
+                "PersonEmblemDescription": "A horse shoe on a slope",
+                "PersonEmblemImage": {
+                    "ImageId": "53023",
+                    "Value": "022-000000081_53023_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5088",
+                "RecordId": "022-000000085",
+                "Name": "Pepoli,Guido,Count  |  Marquis,",
+                "Nickname": "Il Ristorato",
+                "Motto": "Dedit liquidam vocem",
+                "PersonEmblemDescription": "A swan? drinking dew from a tree",
+                "PersonEmblemImage": {
+                    "ImageId": "53026",
+                    "Value": "022-000000085_53026_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5090",
+                "RecordId": "022-000000087",
+                "Name": "Malvezzi,Floriano,,",
+                "Nickname": "Il Provido",
+                "Motto": "Sic vos non vobis",
+                "PersonEmblemDescription": "A hut in the middle of a wood",
+                "PersonEmblemImage": {
+                    "ImageId": "53027",
+                    "Value": "022-000000087_53027_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5091",
+                "RecordId": "022-000000088",
+                "Name": "Gozzadini,Ulisse Giuseppe,Cardinal,1650-1728",
+                "Nickname": "Il Cauto",
+                "Motto": "Satis omnia tuta (from Vergil)",
+                "PersonEmblemDescription": "Fox on the bank of a frozen river judges whether it is prudent to cross the river by listening the water under the ice",
+                "PersonEmblemImage": {
+                    "ImageId": "53028",
+                    "Value": "022-000000088_53028_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5093",
+                "RecordId": "022-000000090",
+                "Name": "Pepoli,Ugo Giuseppe,Count,",
+                "Nickname": "Il Trattenuto",
+                "Motto": "Ni gelu dedisset iter",
+                "PersonEmblemDescription": "A broken spear? Stuck into the ground with branches and leaves",
+                "PersonEmblemImage": {
+                    "ImageId": "53029",
+                    "Value": "022-000000090_53029_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5096",
+                "RecordId": "022-000000093",
+                "Name": "Malvezzi,Roberto,Abbot,",
+                "Nickname": "Il Risoluto",
+                "Motto": "In ardua",
+                "PersonEmblemDescription": "A winged horse at the bottom of an iced mountain",
+                "PersonEmblemImage": {
+                    "ImageId": "53030",
+                    "Value": "022-000000093_53030_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5098",
+                "RecordId": "022-000000095",
+                "Name": "Gambalonga,Cesare,,",
+                "Nickname": "Il Distratto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5101",
+                "RecordId": "022-000000098",
+                "Name": "Agocchi,Giovan Battista,Archbishop,1570-1632",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53031",
+                    "Value": "022-000000098_53031_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5103",
+                "RecordId": "022-000000100",
+                "Name": "Amadio,Carlo,,",
+                "Nickname": "Il Raccorciato",
+                "Motto": "Resecta Uberior",
+                "PersonEmblemDescription": "A pruned tree",
+                "PersonEmblemImage": {
+                    "ImageId": "53032",
+                    "Value": "022-000000100_53032_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5104",
+                "RecordId": "022-000000101",
+                "Name": "Argoli,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5105",
+                "RecordId": "022-000000102",
+                "Name": "Balducci,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5107",
+                "RecordId": "022-000000104",
+                "Name": "Benigni,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5111",
+                "RecordId": "022-000000108",
+                "Name": "Bonarelli della Rovere,Prospero,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53035",
+                    "Value": "022-000000108_53035_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5113",
+                "RecordId": "022-000000110",
+                "Name": "Boncompagni,Francesco,Cardinal,1592-1641",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5115",
+                "RecordId": "022-000000112",
+                "Name": "Calcagnini,Mario,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5118",
+                "RecordId": "022-000000114",
+                "Name": "Carmeni,Daniele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5120",
+                "RecordId": "022-000000116",
+                "Name": "Casali,Lodovico,,",
+                "Nickname": "Il Rugiadoso",
+                "Motto": "Gelu pretiosiora",
+                "PersonEmblemDescription": "An oyster with two pearls inside",
+                "PersonEmblemImage": {
+                    "ImageId": "53036",
+                    "Value": "022-000000116_53036_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5122",
+                "RecordId": "022-000000118",
+                "Name": "Castiglioni,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5123",
+                "RecordId": "022-000000119",
+                "Name": "Ciampoli,Giovanni,,1590-1643",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53037",
+                    "Value": "022-000000119_53037_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5125",
+                "RecordId": "022-000000121",
+                "Name": "Dalla Corgna,Fabio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5129",
+                "RecordId": "022-000000125",
+                "Name": "Facchinetti,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5130",
+                "RecordId": "022-000000126",
+                "Name": "Ficieni,Luigi,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5131",
+                "RecordId": "022-000000127",
+                "Name": "Fieschi,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5133",
+                "RecordId": "022-000000129",
+                "Name": "Gaddi,Jacopo,,c. 1600-1668",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5135",
+                "RecordId": "022-000000131",
+                "Name": "Gera,Diego,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5136",
+                "RecordId": "022-000000132",
+                "Name": "Gessi,Berlingiero (seniore),Cardinal,1564-1639",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53040",
+                    "Value": "022-000000132_53040_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5137",
+                "RecordId": "022-000000133",
+                "Name": "Gessi,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53041",
+                    "Value": "022-000000133_53041_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5138",
+                "RecordId": "022-000000134",
+                "Name": "Ghisilieri,Filippo Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5139",
+                "RecordId": "022-000000135",
+                "Name": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5140",
+                "RecordId": "022-000000136",
+                "Name": "Gornia,Giovan Battista,,1633-1684",
+                "Nickname": "Il Rinforzato",
+                "Motto": "Attollitur et roboratur",
+                "PersonEmblemDescription": "A pumpkin",
+                "PersonEmblemImage": {
+                    "ImageId": "53042",
+                    "Value": "022-000000136_53042_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5141",
+                "RecordId": "022-000000137",
+                "Name": "Grassi,Alberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5142",
+                "RecordId": "022-000000138",
+                "Name": "Graziani,Girolamo,Count,1604-1674",
+                "Nickname": "L`Impedito",
+                "Motto": "Nisi cum deflua nive",
+                "PersonEmblemDescription": "A horse attempting to proceed?",
+                "PersonEmblemImage": {
+                    "ImageId": "53043",
+                    "Value": "022-000000138_53043_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5143",
+                "RecordId": "022-000000139",
+                "Name": "Griffoni,Matteo,Count,",
+                "Nickname": "L`Adusto",
+                "Motto": "Dum riget fovet",
+                "PersonEmblemDescription": "An animal inside a cave",
+                "PersonEmblemImage": {
+                    "ImageId": "53044",
+                    "Value": "022-000000139_53044_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5144",
+                "RecordId": "022-000000140",
+                "Name": "De` Riccardi d`Ortona,Federico,,",
+                "Nickname": "L`Abbattuto",
+                "Motto": "Fuit et ingens",
+                "PersonEmblemDescription": "An old tower the top is ruined",
+                "PersonEmblemImage": {
+                    "ImageId": "53045",
+                    "Value": "022-000000140_53045_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5145",
+                "RecordId": "022-000000141",
+                "Name": "Grimaldi,Lorenzo,,",
+                "Nickname": "L`Illustrato",
+                "Motto": "Mediis albicat pruinis",
+                "PersonEmblemDescription": "A polar bear? in a deserted landscape",
+                "PersonEmblemImage": {
+                    "ImageId": "53046",
+                    "Value": "022-000000141_53046_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5146",
+                "RecordId": "022-000000142",
+                "Name": "Guarini,Battista,,1538-1612",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5147",
+                "RecordId": "022-000000143",
+                "Name": "Imperiale,Gian Vincenzo,,1582-1648",
+                "Nickname": "L`Attempato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5148",
+                "RecordId": "022-000000144",
+                "Name": "della Luna,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5149",
+                "RecordId": "022-000000145",
+                "Name": "Maia Materdona,Giovanni Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5151",
+                "RecordId": "022-000000146",
+                "Name": "Manzi,Giovanni Galeazzo,,",
+                "Nickname": "L`Occupato",
+                "Motto": "Otia fecit Hyems",
+                "PersonEmblemDescription": "A yoke hanging from a bare tree",
+                "PersonEmblemImage": {
+                    "ImageId": "53047",
+                    "Value": "022-000000146_53047_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5153",
+                "RecordId": "022-000000148",
+                "Name": "Manzini,Luigi,Count,1604-1657",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53049",
+                    "Value": "022-000000148_53049_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5154",
+                "RecordId": "022-000000149",
+                "Name": "Mariani,Mario,,",
+                "Nickname": "L`Addormentato",
+                "Motto": "Redde diem",
+                "PersonEmblemDescription": "Eight-points star over sea and land",
+                "PersonEmblemImage": {
+                    "ImageId": "53050",
+                    "Value": "022-000000149_53050_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5157",
+                "RecordId": "022-000000152",
+                "Name": "Melosio,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5159",
+                "RecordId": "022-000000154",
+                "Name": "Mirogli,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5160",
+                "RecordId": "022-000000155",
+                "Name": "Mitelli,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5161",
+                "RecordId": "022-000000156",
+                "Name": "Montalbani,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53052",
+                    "Value": "022-000000156_53052_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5163",
+                "RecordId": "022-000000158",
+                "Name": "degli Obizzi,Pio Enea,Marquis,1592-1674",
+                "Nickname": "Il Rigenerato",
+                "Motto": "Ingressus serpens",
+                "PersonEmblemDescription": "A larva transforming in butterfly",
+                "PersonEmblemImage": {
+                    "ImageId": "53053",
+                    "Value": "022-000000158_53053_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5164",
+                "RecordId": "022-000000159",
+                "Name": "Orsi,Francesco,Count,",
+                "Nickname": "Lo Sterile",
+                "Motto": "Et iacet informis",
+                "PersonEmblemDescription": "A constellation in the sky with a bear?",
+                "PersonEmblemImage": {
+                    "ImageId": "53054",
+                    "Value": "022-000000159_53054_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5165",
+                "RecordId": "022-000000160",
+                "Name": "Orsi,Giovanni,Count,",
+                "Nickname": "Il Geloso",
+                "Motto": "Quo magis gelat inde clarior lucet",
+                "PersonEmblemDescription": "A bear representing the constellation",
+                "PersonEmblemImage": {
+                    "ImageId": "53055",
+                    "Value": "022-000000160_53055_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5167",
+                "RecordId": "022-000000162",
+                "Name": "Pepoli,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5169",
+                "RecordId": "022-000000164",
+                "Name": "Pichi,Curzio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5170",
+                "RecordId": "022-000000165",
+                "Name": "Pierizzi,Paolo,,",
+                "Nickname": "Il Fomentato",
+                "Motto": "Gelida fovet",
+                "PersonEmblemDescription": "A field of grass covered in snow",
+                "PersonEmblemImage": {
+                    "ImageId": "53056",
+                    "Value": "022-000000165_53056_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5171",
+                "RecordId": "022-000000166",
+                "Name": "Preti,Girolamo,,\u20201626",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53057",
+                    "Value": "022-000000166_53057_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5172",
+                "RecordId": "022-000000167",
+                "Name": "Ratta Garganelli,Giuseppe Carlo,,",
+                "Nickname": "Il Solo",
+                "Motto": "Ver non facit ver praesagit",
+                "PersonEmblemDescription": "An eagle?; bare trees and a village",
+                "PersonEmblemImage": {
+                    "ImageId": "53058",
+                    "Value": "022-000000167_53058_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5173",
+                "RecordId": "022-000000168",
+                "Name": "Redi,Francesco,,1626-1698",
+                "Nickname": "Il Candido",
+                "Motto": "Sol per quest`una",
+                "PersonEmblemDescription": "A rabbit on a mountain",
+                "PersonEmblemImage": {
+                    "ImageId": "53060",
+                    "Value": "022-000000168_53060_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5174",
+                "RecordId": "022-000000169",
+                "Name": "Ricci,Costanzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5176",
+                "RecordId": "022-000000171",
+                "Name": "Sacchetti,Urbano,,",
+                "Nickname": "L`Accorto",
+                "Motto": "His servare fidem",
+                "PersonEmblemDescription": "A stoat",
+                "PersonEmblemImage": {
+                    "ImageId": "53061",
+                    "Value": "022-000000171_53061_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5177",
+                "RecordId": "022-000000172",
+                "Name": "Santagata,Simone,,",
+                "Nickname": "L`Impigrito",
+                "Motto": "Discit servare quietem",
+                "PersonEmblemDescription": "Bees flying in and out a beehive inside a dead trunk",
+                "PersonEmblemImage": {
+                    "ImageId": "53062",
+                    "Value": "022-000000172_53062_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5178",
+                "RecordId": "022-000000173",
+                "Name": "Santinelli,Francesco Maria,Marquis | Count,",
+                "Nickname": "L`Avalorato",
+                "Motto": "His vegetior",
+                "PersonEmblemDescription": "Clouds; rain; wind over a field",
+                "PersonEmblemImage": {
+                    "ImageId": "53063",
+                    "Value": "022-000000173_53063_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5179",
+                "RecordId": "022-000000174",
+                "Name": "Scappi,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5180",
+                "RecordId": "022-000000175",
+                "Name": "Sch\u00f6nleben,Giovanni Lodovico,,",
+                "Nickname": "Il Ritirato",
+                "Motto": "Servat translata virorem",
+                "PersonEmblemDescription": "A plant inside a tabernacle",
+                "PersonEmblemImage": {
+                    "ImageId": "53064",
+                    "Value": "022-000000175_53064_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5181",
+                "RecordId": "022-000000176",
+                "Name": "Severoli,Nicola,,",
+                "Nickname": "L`Incorrotto",
+                "Motto": "Difficilis captu",
+                "PersonEmblemDescription": "Animal with woolf head bird beak dog body wings and bird front paws",
+                "PersonEmblemImage": {
+                    "ImageId": "53065",
+                    "Value": "022-000000176_53065_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5182",
+                "RecordId": "022-000000177",
+                "Name": "Tenti,Bernardino,,",
+                "Nickname": "Il Disacerbato",
+                "Motto": "Dum bruma recurrit",
+                "PersonEmblemDescription": "A tree with leaves in a deserted landscape",
+                "PersonEmblemImage": {
+                    "ImageId": "53067",
+                    "Value": "022-000000177_53067_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5183",
+                "RecordId": "022-000000178",
+                "Name": "Testi,Fulvio,Count ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53068",
+                    "Value": "022-000000178_53068_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5184",
+                "RecordId": "022-000000179",
+                "Name": "Tingoli,Lodovico,,1602-1669",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53069",
+                    "Value": "022-000000179_53069_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5185",
+                "RecordId": "022-000000180",
+                "Name": "Torelli,Andrea,,fl. 1627 - 1647",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5188",
+                "RecordId": "022-000000182",
+                "Name": "Venenti,Giulio Cesare,,",
+                "Nickname": "L`Ardente",
+                "Motto": "Arcano defensa gelu",
+                "PersonEmblemDescription": "Active Mongibello (Etna)",
+                "PersonEmblemImage": {
+                    "ImageId": "53070",
+                    "Value": "022-000000182_53070_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5189",
+                "RecordId": "022-000000183",
+                "Name": "Vizani,Carlo Emanuele,,1617-1661",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53071",
+                    "Value": "022-000000183_53071_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5191",
+                "RecordId": "022-000000185",
+                "Name": "Zani,Valerio,Count, - 1696",
+                "Nickname": "Il Ritardato",
+                "Motto": "Mox fluet",
+                "PersonEmblemDescription": "A frozen fountain and bare trees in the distance",
+                "PersonEmblemImage": {
+                    "ImageId": "53072",
+                    "Value": "022-000000185_53072_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5192",
+                "RecordId": "022-000000186",
+                "Name": "Zoppio,Cesare,,",
+                "Nickname": "Il Trasformato",
+                "Motto": "Hac sola albescere laetor",
+                "PersonEmblemDescription": "A vase with flowers (roses?) under the snow",
+                "PersonEmblemImage": {
+                    "ImageId": "53073",
+                    "Value": "022-000000186_53073_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5193",
+                "RecordId": "022-000000187",
+                "Name": "Facchinetti,Filippo,Senator,?1608",
+                "Nickname": "L`Informe",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5268",
+                "RecordId": "022-000000258",
+                "Name": "Carli,Ferrante,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5006",
+                "RecordId": "022-000000008",
+                "Name": "Ranuzzi,Annibale,Count,1625-?",
+                "Nickname": "Il Procelloso",
+                "Motto": "Ratibus ventos",
+                "PersonEmblemDescription": "A star amidst clouds above a stormy sea",
+                "PersonEmblemImage": {
+                    "ImageId": "53074",
+                    "Value": "022-000000008_53074_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5121",
+                "RecordId": "022-000000117",
+                "Name": "Castelli,Giovanni Paolo,,1646-?",
+                "Nickname": "L`Inalzato",
+                "Motto": "Sydera celsa petit",
+                "PersonEmblemDescription": "Tower with a branch growing from the left angle",
+                "PersonEmblemImage": {
+                    "ImageId": "53075",
+                    "Value": "022-000000117_53075_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5132",
+                "RecordId": "022-000000128",
+                "Name": "Fontana Bombelli,Pompeo,,1613-?",
+                "Nickname": "L`Incalorito",
+                "Motto": "Benche gelida sia gorgoglia e bolle",
+                "PersonEmblemDescription": "A fountain",
+                "PersonEmblemImage": {
+                    "ImageId": "53076",
+                    "Value": "022-000000128_53076_5.jpg"
+                }
+            },
+            {
+                "PersonId": "15035",
+                "RecordId": "022-000001077",
+                "Name": "Bruni,Antonio,,1593-1635",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15322",
+                "RecordId": "022-000001361",
+                "Name": "Argentino,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7356",
+                "RecordId": "022-000000943",
+                "Name": "Bezi,Giuliano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5119",
+                "RecordId": "022-000000115",
+                "Name": "Carracci,Agostino,,1557-1602",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "52715",
+                    "Value": "022-000000115_52715_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5097",
+                "RecordId": "022-000000094",
+                "Name": "Baldi,Girolamo Camillo,,",
+                "Nickname": "Il Rinchiuso",
+                "Motto": "Meliora latent",
+                "PersonEmblemDescription": "Pine cone",
+                "PersonEmblemImage": {
+                    "ImageId": "52717",
+                    "Value": "022-000000094_52717_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5116",
+                "RecordId": "022-000000113",
+                "Name": "Capponi,Giovanni,,1586-1629",
+                "Nickname": "Il Selvaggio",
+                "Motto": "Non omnes arbusta iuvant",
+                "PersonEmblemDescription": "An eagle flies out of a bush",
+                "PersonPortraitImage": {
+                    "ImageId": "52720",
+                    "Value": "022-000000113_52720_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5186",
+                "RecordId": "022-000000181",
+                "Name": "Turchi,Giovanni,,",
+                "Nickname": "L`Inesperto",
+                "Motto": "Acquirit eundo",
+                "PersonEmblemDescription": "Snow ball",
+                "PersonEmblemImage": {
+                    "ImageId": "52722",
+                    "Value": "022-000000181_52722_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5015",
+                "RecordId": "022-000000017",
+                "Name": "Gessi,Berlingiero (juniore),Senator,1613-1671",
+                "Nickname": "Il Sollecito",
+                "Motto": "Nunc ire voluptas",
+                "PersonEmblemDescription": "A sledge",
+                "PersonEmblemImage": {
+                    "ImageId": "52721",
+                    "Value": "022-000000017_52721_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "52723",
+                    "Value": "022-000000017_52723_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5035",
+                "RecordId": "022-000000037",
+                "Name": "Fabretti,Vincenzo,,",
+                "Nickname": "L`Incolto",
+                "Motto": "Sponte sua",
+                "PersonEmblemDescription": "A tree on top of a rock",
+                "PersonEmblemImage": {
+                    "ImageId": "52726",
+                    "Value": "022-000000037_52726_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5190",
+                "RecordId": "022-000000184",
+                "Name": "Zabarella,Giacomo,Count (The Younger),1599 - 1679",
+                "Nickname": "L`Amiantato",
+                "Motto": "Accendor non uror",
+                "PersonEmblemDescription": "A fire in front of a carpet",
+                "PersonEmblemImage": {
+                    "ImageId": "53081",
+                    "Value": "022-000000184_53081_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "53080",
+                    "Value": "022-000000184_53080_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5001",
+                "RecordId": "022-000000003",
+                "Name": "Barberini,Maffeo,Pope Urban VIII,1568-1644",
+                "Nickname": "Il Ricoverato",
+                "Motto": "Hic domus",
+                "PersonEmblemDescription": "A tree with bees",
+                "PersonEmblemImage": {
+                    "ImageId": "52872",
+                    "Value": "022-000000003_52872_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5003",
+                "RecordId": "022-000000005",
+                "Name": "Mariani,Andrea,,1593-1661",
+                "Nickname": "L`Affidato",
+                "Motto": "Non nisi per gelidum",
+                "PersonEmblemDescription": "A chariot",
+                "PersonPortraitImage": {
+                    "ImageId": "52875",
+                    "Value": "022-000000005_52875_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5004",
+                "RecordId": "022-000000006",
+                "Name": "Caprara,Alberto,,1627-1691",
+                "Nickname": "Il Sincero",
+                "Motto": "Fit candida gelu",
+                "PersonEmblemDescription": "Falling rain transformed in snow",
+                "PersonEmblemImage": {
+                    "ImageId": "52877",
+                    "Value": "022-000000006_52877_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5005",
+                "RecordId": "022-000000007",
+                "Name": "Cospi,Angelo,,1603-1671",
+                "Nickname": "Il Coraggioso",
+                "Motto": "Perficere est animus",
+                "PersonEmblemDescription": "A ship in stormy water",
+                "PersonPortraitImage": {
+                    "ImageId": "52878",
+                    "Value": "022-000000007_52878_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5007",
+                "RecordId": "022-000000009",
+                "Name": "Bonfioli,Agesilao,Count | Senator,",
+                "Nickname": "Il Sollevato",
+                "Motto": "Penetrabit",
+                "PersonEmblemDescription": "An arrow directed from the sea to the cloudy sky",
+                "PersonPortraitImage": {
+                    "ImageId": "52879",
+                    "Value": "022-000000009_52879_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5009",
+                "RecordId": "022-000000011",
+                "Name": "Zani,Andrea,Count | Marquis,?1651",
+                "Nickname": "Il Macerato",
+                "Motto": "Exivit et album",
+                "PersonEmblemDescription": "A pyramid made of poles open on one side?",
+                "PersonPortraitImage": {
+                    "ImageId": "52881",
+                    "Value": "022-000000011_52881_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5012",
+                "RecordId": "022-000000014",
+                "Name": "Barbazza,Andrea,Count,1581/82-1656",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "52883",
+                    "Value": "022-000000014_52883_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5013",
+                "RecordId": "022-000000015",
+                "Name": "Litta,Alfonso,Cardinal,1608",
+                "Nickname": "L`Imperturbabile",
+                "Motto": "Compressa solidior",
+                "PersonEmblemDescription": "Snow flakes and a hammer? turned upside down  and snow on the ground",
+                "PersonPortraitImage": {
+                    "ImageId": "52884",
+                    "Value": "022-000000015_52884_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5014",
+                "RecordId": "022-000000016",
+                "Name": "Capponi,Giovambattista,,1620 - 1675",
+                "Nickname": "L`Animoso",
+                "Motto": "Si quid mea carmina possent",
+                "PersonEmblemDescription": "A bird looking at a tree charged with leaves",
+                "PersonEmblemImage": {
+                    "ImageId": "52885",
+                    "Value": "022-000000016_52885_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5017",
+                "RecordId": "022-000000019",
+                "Name": "Carmeni,Francesco,,",
+                "Nickname": "Il Sollevato",
+                "Motto": "Sublimiora gelu",
+                "PersonEmblemDescription": "A thermometer?",
+                "PersonEmblemImage": {
+                    "ImageId": "52886",
+                    "Value": "022-000000019_52886_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5019",
+                "RecordId": "022-000000021",
+                "Name": "Ber\u00f2,Ercolagostino,Count,1623-1696",
+                "Nickname": "L`Indugiato",
+                "Motto": "E frigore virtus",
+                "PersonEmblemDescription": "The juniper tree",
+                "PersonEmblemImage": {
+                    "ImageId": "52887",
+                    "Value": "022-000000021_52887_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5020",
+                "RecordId": "022-000000022",
+                "Name": "Bonomi,Giovanfrancesco,,1626-1705",
+                "Nickname": "L`Affaticato",
+                "Motto": "Sed iuvat ipse labor",
+                "PersonEmblemDescription": "A tree covered with snow",
+                "PersonEmblemImage": {
+                    "ImageId": "52888",
+                    "Value": "022-000000022_52888_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5021",
+                "RecordId": "022-000000023",
+                "Name": "Fioravanti,Innocenzio Maria,,",
+                "Nickname": "L\u2019Aduggiato",
+                "Motto": "Spe divite manet",
+                "PersonEmblemDescription": "A plant in the forefront a valley in the background and a tree on the right hand side",
+                "PersonEmblemImage": {
+                    "ImageId": "52889",
+                    "Value": "022-000000023_52889_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5024",
+                "RecordId": "022-000000026",
+                "Name": "Marsili,Antonio Felice,,1649-1710",
+                "Nickname": "L`Instabile",
+                "Motto": "Consistet gelv",
+                "PersonEmblemDescription": "A river with many twists",
+                "PersonEmblemImage": {
+                    "ImageId": "52892",
+                    "Value": "022-000000026_52892_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5025",
+                "RecordId": "022-000000027",
+                "Name": "Sanuti Pellicani,Giovan Battista,,",
+                "Nickname": "L`Intimorito",
+                "Motto": "Et fugit et fruitur",
+                "PersonEmblemDescription": "stream; mountain; winged horse; dog",
+                "PersonEmblemImage": {
+                    "ImageId": "52896",
+                    "Value": "022-000000027_52896_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5026",
+                "RecordId": "022-000000028",
+                "Name": "Desideri,Girolamo,,",
+                "Nickname": "L`Indifferente",
+                "Motto": "Formas fingetur in omnes",
+                "PersonEmblemDescription": "Log; hammer; wood chisel",
+                "PersonEmblemImage": {
+                    "ImageId": "52897",
+                    "Value": "022-000000028_52897_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5027",
+                "RecordId": "022-000000029",
+                "Name": "Guastavillani,Angelo Michele,Senator,",
+                "Nickname": "L\u2019Intempestivo",
+                "Motto": "Scit nivibvs servare fidem",
+                "PersonEmblemDescription": "Rose tree; flower-bed",
+                "PersonEmblemImage": {
+                    "ImageId": "52898",
+                    "Value": "022-000000029_52898_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5029",
+                "RecordId": "022-000000031",
+                "Name": "Contenti,Giorgio,,",
+                "Nickname": "L`Indefesso",
+                "Motto": "Usq. Sequens pressit",
+                "PersonEmblemDescription": "Dragon killed by a spear",
+                "PersonEmblemImage": {
+                    "ImageId": "52900",
+                    "Value": "022-000000031_52900_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5031",
+                "RecordId": "022-000000033",
+                "Name": "Balzani,Paolo Emilio,,",
+                "Nickname": "Il Faunio",
+                "Motto": "Utile Dulci",
+                "PersonEmblemDescription": "Two fauns hold the stripe of the motto below there is a Pan flute attached to a trunk",
+                "PersonEmblemImage": {
+                    "ImageId": "52902",
+                    "Value": "022-000000033_52902_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5008",
+                "RecordId": "022-000000010",
+                "Name": "Barbieri,Alessandro,,",
+                "Nickname": "L\u2019Anelante",
+                "Motto": "Sudavit et alsit",
+                "PersonEmblemDescription": "Hunting dog",
+                "PersonEmblemImage": {
+                    "ImageId": "52880",
+                    "Value": "022-000000010_52880_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5016",
+                "RecordId": "022-000000018",
+                "Name": "Bombaci,Gasparo,Count,1607-1676",
+                "Nickname": "Il Tardo",
+                "Motto": "Ma nel medesmo tempo",
+                "PersonEmblemDescription": "Ursa minor",
+                "PersonEmblemImage": {
+                    "ImageId": "52995",
+                    "Value": "022-000000018_52995_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5036",
+                "RecordId": "022-000000038",
+                "Name": "Caccianemici,Francesco Maria,,",
+                "Nickname": "Il Tenebroso",
+                "Motto": "In apricum proferet",
+                "PersonEmblemDescription": "Light inside a dark cave",
+                "PersonEmblemImage": {
+                    "ImageId": "52997",
+                    "Value": "022-000000038_52997_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5051",
+                "RecordId": "022-000000053",
+                "Name": "Turchi,Niccol\u00f2 Zoppio,,1609-1656",
+                "Nickname": "L`Inabile",
+                "Motto": "Tanta molis erat",
+                "PersonEmblemDescription": "A machine for lifting weights",
+                "PersonPortraitImage": {
+                    "ImageId": "53083",
+                    "Value": "022-000000053_53083_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5037",
+                "RecordId": "022-000000039",
+                "Name": "Coradino,Nicol\u00f2,,1573 - 1624",
+                "Nickname": "L`Avvelenato",
+                "Motto": "Ex gelido antidotum",
+                "PersonEmblemDescription": "deer poisoning snake cold water",
+                "PersonEmblemImage": {
+                    "ImageId": "52998",
+                    "Value": "022-000000039_52998_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5038",
+                "RecordId": "022-000000040",
+                "Name": "Pepoli,Romeo,,",
+                "Nickname": "Il Diretto",
+                "Motto": "Ut nusq(uam) Aberret",
+                "PersonEmblemDescription": "Five bare poles? and one with a sphere on top",
+                "PersonEmblemImage": {
+                    "ImageId": "52999",
+                    "Value": "022-000000040_52999_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5039",
+                "RecordId": "022-000000041",
+                "Name": "Campeggi,Ridolfo,Count,1565-1624",
+                "Nickname": "Il Rugginoso",
+                "Motto": "Attritus lucescere coepit",
+                "PersonEmblemDescription": "The instrument for polishing and shining swords",
+                "PersonEmblemImage": {
+                    "ImageId": "53000",
+                    "Value": "022-000000041_53000_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "53001",
+                    "Value": "022-000000041_53001_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5044",
+                "RecordId": "022-000000046",
+                "Name": "L`Involto,L`Involto,,",
+                "Nickname": "L`Involto",
+                "Motto": "Sic tutanda fides",
+                "PersonEmblemDescription": "A hand covered by a cloth; below is a river flowing from a mountain across the woods",
+                "PersonEmblemImage": {
+                    "ImageId": "53003",
+                    "Value": "022-000000046_53003_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5047",
+                "RecordId": "022-000000049",
+                "Name": "Marescotti,Ercole,,",
+                "Nickname": "Il Rapito",
+                "Motto": "In contrarium occ(idit?) or(itur?)",
+                "PersonEmblemDescription": "Sphere-constellation-zodiac-initials M and S"
+            },
+            {
+                "PersonId": "5048",
+                "RecordId": "022-000000050",
+                "Name": "Bentivogli,Carlo,Count,1615-1661",
+                "Nickname": "L`Unito",
+                "Motto": "Vicissim servare fidem",
+                "PersonEmblemDescription": "Mount Etna where flames are close to the ice",
+                "PersonPortraitImage": {
+                    "ImageId": "53008",
+                    "Value": "022-000000050_53008_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5049",
+                "RecordId": "022-000000051",
+                "Name": "Testa,Lelio,,",
+                "Nickname": "Il Pronto",
+                "Motto": "In utrunque",
+                "PersonEmblemDescription": "Two arms holding a sword and a cloth"
+            },
+            {
+                "PersonId": "5050",
+                "RecordId": "022-000000052",
+                "Name": "Onofrio,Giacinto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5052",
+                "RecordId": "022-000000054",
+                "Name": "Marescotti,Bernardino,Count,\u20201649",
+                "Nickname": "Il Notturno",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53010",
+                    "Value": "022-000000054_53010_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5053",
+                "RecordId": "022-000000055",
+                "Name": "Cattanei,Ippolito,,",
+                "Nickname": "L`Arido",
+                "Motto": "Virescet",
+                "PersonEmblemDescription": null,
+                "PersonEmblemImage": {
+                    "ImageId": "53011",
+                    "Value": "022-000000055_53011_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5059",
+                "RecordId": "022-000000057",
+                "Name": "Riario,Ferdinando,Marquis,",
+                "Nickname": "Il Soave",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5061",
+                "RecordId": "022-000000059",
+                "Name": "Sampieri,Giacomo,,",
+                "Nickname": "L`Ineguale",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5062",
+                "RecordId": "022-000000060",
+                "Name": "Duglioli,Tolomeo,,",
+                "Nickname": "Il Dedito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5063",
+                "RecordId": "022-000000061",
+                "Name": "Guardini,Alessandro,,",
+                "Nickname": "Il Politropo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5126",
+                "RecordId": "022-000000122",
+                "Name": "Crasso,Lorenzo,,1623",
+                "Nickname": "Il Costante",
+                "Motto": "Frigore viridior",
+                "PersonEmblemDescription": "Ivy growing around a dead trunk",
+                "PersonEmblemImage": {
+                    "ImageId": "53038",
+                    "Value": "022-000000122_53038_5.jpg"
+                }
+            },
+            {
+                "PersonId": "7414",
+                "RecordId": "022-000001010",
+                "Name": "Pinchiari,Agostino Sante,,",
+                "Nickname": "L`Affinato",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonEmblemImage": {
+                    "ImageId": "53086",
+                    "Value": "022-000001010_53086_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5099",
+                "RecordId": "022-000000096",
+                "Name": "Barberini,Francesco,Cardinal ,1597-1679",
+                "Nickname": "Il Rinvigorito",
+                "Motto": "Operta tumescit",
+                "PersonEmblemDescription": "Bushes without leaves and mountains covered with snow in the background",
+                "PersonEmblemImage": {
+                    "ImageId": "53087",
+                    "Value": "022-000000096_53087_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "53085",
+                    "Value": "022-000000096_53085_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5030",
+                "RecordId": "022-000000032",
+                "Name": "Maurizzi,Giovanni Battista,,?1635",
+                "Nickname": "L`Immaturo",
+                "Motto": "Se se melioribus offert",
+                "PersonEmblemDescription": "Vine full of unripe grape exposed to the rising sun",
+                "PersonEmblemImage": {
+                    "ImageId": "53088",
+                    "Value": "022-000000032_53088_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "52901",
+                    "Value": "022-000000032_52901_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5043",
+                "RecordId": "022-000000045",
+                "Name": "Marescotti,Agesilao,,?1618",
+                "Nickname": "Il Tetro",
+                "Motto": "Ut speciosa dehinc",
+                "PersonEmblemDescription": "Difficult to decipher: a wall that is whiter on one side and darker on the other; a mop and a bucket (the tools of the decorator?)",
+                "PersonEmblemImage": {
+                    "ImageId": "53092",
+                    "Value": "022-000000045_53092_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5045",
+                "RecordId": "022-000000047",
+                "Name": "Gessi,Camillo,Senator,1571-1635",
+                "Nickname": "L`Intento",
+                "Motto": "Per vada monstrat iter",
+                "PersonEmblemDescription": "Lighthouse",
+                "PersonEmblemImage": {
+                    "ImageId": "53093",
+                    "Value": "022-000000047_53093_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "53005",
+                    "Value": "022-000000047_53005_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5032",
+                "RecordId": "022-000000034",
+                "Name": "Zoppio,Melchiorre,,1544-1634/7",
+                "Nickname": "Il Caliginoso",
+                "Motto": "Muneris hoc tui",
+                "PersonEmblemDescription": "Mock sun in misty cloud",
+                "PersonEmblemImage": {
+                    "ImageId": "52725",
+                    "Value": "022-000000034_52725_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "53094",
+                    "Value": "022-000000034_53094_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5022",
+                "RecordId": "022-000000024",
+                "Name": "Montalbani,Ovidio,,c. 1600",
+                "Nickname": "L`Innestato",
+                "Motto": "Mirabiturque novas",
+                "PersonEmblemDescription": "Tree with grafts",
+                "PersonEmblemImage": {
+                    "ImageId": "53132",
+                    "Value": "022-000000024_53132_5.jpg"
+                }
+            },
+            {
+                "PersonId": "15016",
+                "RecordId": "022-000001058",
+                "Name": "Battista,Giuseppe,,1610-1675",
+                "Nickname": "L`Assiderato",
+                "Motto": "Ritornero vivace a miglior tempo",
+                "PersonEmblemDescription": "A contracted snake",
+                "PersonEmblemImage": {
+                    "ImageId": "52616",
+                    "Value": "022-000001058_52616_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5010",
+                "RecordId": "022-000000012",
+                "Name": "Bellisomi,Agostino,Marquis,",
+                "Nickname": "Il Considerato",
+                "Motto": "Negotiosa quies",
+                "PersonEmblemDescription": "A tree without leaves above which is a goat (Aries?) a jug of water (wine?) and fish",
+                "PersonEmblemImage": {
+                    "ImageId": "53390",
+                    "Value": "022-000000012_53390_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5046",
+                "RecordId": "022-000000048",
+                "Name": "Gessi,Cesare,,1568",
+                "Nickname": "L`Improviso",
+                "Motto": "Non expectatas dabit",
+                "PersonEmblemDescription": "Plant blossoming from top of a spear",
+                "PersonEmblemImage": {
+                    "ImageId": "53397",
+                    "Value": "022-000000048_53397_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "52719",
+                    "Value": "022-000000048_52719_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5042",
+                "RecordId": "022-000000044",
+                "Name": "Severi,Severo,,",
+                "Nickname": "Il Deliberato",
+                "Motto": "In suetum per iter",
+                "PersonEmblemDescription": "Two ice skates on the surface of a lake",
+                "PersonEmblemImage": {
+                    "ImageId": "53398",
+                    "Value": "022-000000044_53398_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5095",
+                "RecordId": "022-000000092",
+                "Name": "Pepoli,Cornelio,,",
+                "Nickname": "L`Indefesso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5066",
+                "RecordId": "022-000000063",
+                "Name": "Pepoli,Lucrezio,Count,",
+                "Nickname": "L`Inutile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5068",
+                "RecordId": "022-000000065",
+                "Name": "Fantuzzi,Giovanni,,",
+                "Nickname": "L`Ispido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5077",
+                "RecordId": "022-000000074",
+                "Name": "Fibbia,Carlo Antonio,Count,",
+                "Nickname": "L`Impatiente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5073",
+                "RecordId": "022-000000070",
+                "Name": "Claudini,Francesco,,",
+                "Nickname": "L`Eccitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5075",
+                "RecordId": "022-000000072",
+                "Name": "Orsi,Lodovico,Count,",
+                "Nickname": "L`Eretto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5082",
+                "RecordId": "022-000000079",
+                "Name": "Malvezzi,Virgilio,Marquis,1595-1654",
+                "Nickname": "L`Esposto",
+                "Motto": "Resisto",
+                "PersonEmblemDescription": "A breastplate an helmet and a shield hanging from the branches of a tree",
+                "PersonPortraitImage": {
+                    "ImageId": "53022",
+                    "Value": "022-000000079_53022_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5083",
+                "RecordId": "022-000000080",
+                "Name": "Fantuzzi,Paoloemilio,Senator,",
+                "Nickname": "L`Ardente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5085",
+                "RecordId": "022-000000082",
+                "Name": "Giacobbi,Girolamo,,1567 - 1628",
+                "Nickname": "L`Imperfetto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5094",
+                "RecordId": "022-000000091",
+                "Name": "Zambeccari,Camillo,,",
+                "Nickname": "L`Audace",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5108",
+                "RecordId": "022-000000105",
+                "Name": "Bentivogli,Ippolito,Count  |  Marquis,",
+                "Nickname": "L`Immobile",
+                "Motto": "Sistunt ut marmore (from Ovid 10th Elegy `De Tristibus`)",
+                "PersonEmblemDescription": "A ship stuck into a frozen river",
+                "PersonEmblemImage": {
+                    "ImageId": "53033",
+                    "Value": "022-000000105_53033_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5060",
+                "RecordId": "022-000000058",
+                "Name": "Bargellini,Giulio Cesare,Count,",
+                "Nickname": "L`Agitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5056",
+                "RecordId": "022-000000056",
+                "Name": "Pellini,Fabio,,",
+                "Nickname": "L`Immerso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5028",
+                "RecordId": "022-000000030",
+                "Name": "Montanari,Geminiano,,1633 - 1687",
+                "Nickname": "L\u2019Elevato",
+                "Motto": "Altior e gelidis",
+                "PersonEmblemDescription": "Globe with the constellation Ursa Mayor",
+                "PersonEmblemImage": {
+                    "ImageId": "53131",
+                    "Value": "022-000000030_53131_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5109",
+                "RecordId": "022-000000106",
+                "Name": "Bentivogli,Ulisse,Marquis,",
+                "Nickname": "L`Avvivato",
+                "Motto": "Cincta repente gelu (from Martial)",
+                "PersonEmblemDescription": "A ship with a torch on top of the master representing the Luce di Sant`Ermo",
+                "PersonEmblemImage": {
+                    "ImageId": "53034",
+                    "Value": "022-000000106_53034_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5128",
+                "RecordId": "022-000000124",
+                "Name": "Facchinetti,Lodovico,Marquis,",
+                "Nickname": "L`Irrigato",
+                "Motto": "Mutantur in annos",
+                "PersonEmblemDescription": "River",
+                "PersonEmblemImage": {
+                    "ImageId": "53443",
+                    "Value": "022-000000124_53443_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5041",
+                "RecordId": "022-000000043",
+                "Name": "Facchinetti,Giovanni Antonio,Pope Innocent IX,1519-1591",
+                "Nickname": "L`Informe",
+                "Motto": "Non speciosa mihi",
+                "PersonEmblemDescription": "An ice-axe at the bottom of a mountain",
+                "PersonEmblemImage": {
+                    "ImageId": "53444",
+                    "Value": "022-000000043_53444_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5040",
+                "RecordId": "022-000000042",
+                "Name": "Facchinetti,Lodovico,Marquis  ,",
+                "Nickname": "L`Irrigato",
+                "Motto": "Mutantur in annos",
+                "PersonEmblemDescription": "A tree on the edge of stream",
+                "PersonEmblemImage": {
+                    "ImageId": "53445",
+                    "Value": "022-000000042_53445_5.jpg"
+                }
+            },
+            {
+                "PersonId": "17000",
+                "RecordId": "022-000003798",
+                "Name": "Rabasco,Ottaviano,,",
+                "Nickname": "L` Assicurato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15153",
+                "RecordId": "022-000001195",
+                "Name": "Minozzi,Pier Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17702",
+                "RecordId": "022-000004597",
+                "Name": "Marsili,Ippolito Domenico,,1653 - 1682",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17700",
+                "RecordId": "022-000004595",
+                "Name": "Sacchi,Angelo Antonio,,1650 - 1723",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17719",
+                "RecordId": "022-000004615",
+                "Name": "Stenone,Niccolo`,Bishop,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17720",
+                "RecordId": "022-000004616",
+                "Name": "Cevoli,Tiberio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17721",
+                "RecordId": "022-000004617",
+                "Name": "Grimaldi,Giuseppe Maria,Marquis,fl.1682",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17722",
+                "RecordId": "022-000004618",
+                "Name": "Certani,Giacomo,Abbot,fl. 1682",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17723",
+                "RecordId": "022-000004619",
+                "Name": "Pierizzi,Paolo Francesco,,fl.1682",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17724",
+                "RecordId": "022-000004620",
+                "Name": "Baregani,Nicola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17725",
+                "RecordId": "022-000004621",
+                "Name": "Paleotti,Andrea,Marquis,fl.1682",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17726",
+                "RecordId": "022-000004622",
+                "Name": "Corraro,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17727",
+                "RecordId": "022-000004623",
+                "Name": "Tiepolo,Gio. Domenico,,fl. 1682",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5011",
+                "RecordId": "022-000000013",
+                "Name": "dalla Valle,Alfonso,Marquis,",
+                "Nickname": "Il Pellegrino",
+                "Motto": "Hac iter elisium",
+                "PersonEmblemDescription": "Constellation of the Capricorn",
+                "PersonPortraitImage": {
+                    "ImageId": "52882",
+                    "Value": "022-000000013_52882_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5033",
+                "RecordId": "022-000000035",
+                "Name": "Buonvalori,Cristoforo,,",
+                "Nickname": "L` Avido Accademico Gelato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7383",
+                "RecordId": "022-000000970",
+                "Name": "Aldrovandi ,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5100",
+                "RecordId": "022-000000097",
+                "Name": "Abelli,Cesare,,fl. 1616 - \u20201683",
+                "Nickname": "ll Sollevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16204",
+                "RecordId": "022-000002833",
+                "Name": "Balbi,Benedetto Giuseppe,,",
+                "Nickname": "il Debole",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15431",
+                "RecordId": "022-000001942",
+                "Name": "Casali,Mario,Count,",
+                "Nickname": "L`Affabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5080",
+                "RecordId": "022-000000077",
+                "Name": "Nanni Fantuzzi,Ippolito,,ca. 1609 - 1677",
+                "Nickname": "L` Infemo",
+                "Motto": "Dulci aspersione",
+                "PersonEmblemDescription": "Elephant crossing a stream"
+            },
+            {
+                "PersonId": "5002",
+                "RecordId": "022-000000004",
+                "Name": "Facchinetti,Giovanni Antonio (Jr.),Cardinal,1575 - 1606",
+                "Nickname": "Il Vigoroso",
+                "Motto": "Rursum virescet",
+                "PersonEmblemDescription": "Tree half in blossom",
+                "PersonPortraitImage": {
+                    "ImageId": "52874",
+                    "Value": "022-000000004_52874_2.jpg"
+                }
+            },
+            {
+                "PersonId": "17689",
+                "RecordId": "022-000004584",
+                "Name": "Marescotti,Vincenzo,,fl. 1651 - 1684",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5155",
+                "RecordId": "022-000000150",
+                "Name": "Marsili,Cesare,,",
+                "Nickname": "Torbido",
+                "Motto": "Fulgore dat algor",
+                "PersonEmblemDescription": "Pleiades",
+                "PersonPortraitImage": {
+                    "ImageId": "53051",
+                    "Value": "022-000000150_53051_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5162",
+                "RecordId": "022-000000157",
+                "Name": "Muscettola,Antonio,,1628 - 1679",
+                "Nickname": "Lo `nfecondo",
+                "Motto": "Gelido ciel concepe e figlia",
+                "PersonEmblemDescription": "Bare tree - nest - two birds",
+                "PersonEmblemImage": {
+                    "ImageId": "53077",
+                    "Value": "022-000000157_53077_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5280",
+                "RecordId": "022-000000318",
+                "Name": "Pellegrini,Matteo,,1595 - 1652",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5462",
+                "RecordId": "022-000000446",
+                "Name": "Bedori,Carlo Antonio,,1654 - 1713",
+                "Nickname": "Il Rifiorito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18006",
+                "RecordId": "022-000004943",
+                "Name": "Baldi,Cammillo,,1550 - 1637",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5034",
+                "RecordId": "022-000000036",
+                "Name": "Faberi,Lucio,,1550s - 1610",
+                "Nickname": "Il Tardo",
+                "Motto": "Praesens in tempus",
+                "PersonEmblemDescription": "A tree against a wood in the background",
+                "PersonEmblemImage": {
+                    "ImageId": "54186",
+                    "Value": "022-000000036_54186_5.jpg"
+                }
+            },
+            {
+                "PersonId": "18315",
+                "RecordId": "022-000005325",
+                "Name": "De Luca,Giovanni Battista,Cardinal,1614 - 1683",
+                "Nickname": "Il Tempestivo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18519",
+                "RecordId": "022-000005553",
+                "Name": "Beregan,Nicolo`,,1627 - 1713",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5272",
+                "RecordId": "022-000000262",
+                "Name": "Trincherij,Andreae,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19258",
+                "RecordId": "022-000006439",
+                "Name": "Bon,Nicolo`,,1635 - 1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19371",
+                "RecordId": "022-000006576",
+                "Name": "Belloi,Pietro Ercole,,1634 - 1702",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19372",
+                "RecordId": "022-000006577",
+                "Name": "Mezzabarba,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19373",
+                "RecordId": "022-000006578",
+                "Name": "Solari,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17566",
+                "RecordId": "022-000004455",
+                "Name": "Maggi,Carlo Maria,,1630 - 1699",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5086",
+                "RecordId": "022-000000083",
+                "Name": "Malvasia,Carlo Cesare,Count,1616 - 1693",
+                "Nickname": "l`Ascoso",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonEmblemImage": {
+                    "ImageId": "46399",
+                    "Value": "022-000000083_46399_5.jpg"
+                }
+            },
+            {
+                "PersonId": "19667",
+                "RecordId": "022-000007026",
+                "Name": "Guidi,Alessandro,,1650 - 1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19935",
+                "RecordId": "022-000007384",
+                "Name": "Grandi,Iacopo,,1646 - 1691",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16211",
+                "RecordId": "022-000002846",
+                "Name": "Manfredi,Eustachio,,1674-1739",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5152",
+                "RecordId": "022-000000147",
+                "Name": "Manzini,Carlo Antonio,Count,1600-1677",
+                "Nickname": "L`Errante",
+                "Motto": "Me gelidum nemus",
+                "PersonEmblemDescription": "Ivy growing around a trunk",
+                "PersonEmblemImage": {
+                    "ImageId": "53048",
+                    "Value": "022-000000147_53048_5.jpg"
+                }
+            },
+            {
+                "PersonId": "5092",
+                "RecordId": "022-000000089",
+                "Name": "Cospi,Ferdinando,,1606-1686",
+                "Nickname": "Il Fedele",
+                "Motto": "S[e]rba la fede al cielo",
+                "PersonEmblemDescription": "A thermometer",
+                "PersonPortraitImage": {
+                    "ImageId": "53380",
+                    "Value": "022-000000089_53380_2.jpg"
+                }
+            },
+            {
+                "PersonId": "20705",
+                "RecordId": "022-000008522",
+                "Name": "Betti,Claudio,,ca.1520-1598",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20107",
+                "RecordId": "022-000007609",
+                "Name": "Pona,Francesco,,1594-1655",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5275",
+                "RecordId": "022-000000265",
+                "Name": "Maccio,Paolo,,ca.1570-ca.1638",
+                "Nickname": "Defessus",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5175",
+                "RecordId": "022-000000170",
+                "Name": "Rossetti,Carlo,Cardinal,1614/5-1681",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonEmblemImage": {
+                    "ImageId": "53078",
+                    "Value": "022-000000170_53078_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "55341",
+                    "Value": "022-000000170_55341_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5127",
+                "RecordId": "022-000000123",
+                "Name": "Facchinetti,Cesare,Cardinal,1608 - 1683",
+                "Nickname": "Il Florido",
+                "Motto": "Sub nive floresco",
+                "PersonEmblemDescription": "A field with flowers and a mountain partially covered with snow",
+                "PersonEmblemImage": {
+                    "ImageId": "53039",
+                    "Value": "022-000000123_53039_5.jpg"
+                },
+                "PersonPortraitImage": {
+                    "ImageId": "55342",
+                    "Value": "022-000000123_55342_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5224",
+                "RecordId": "022-000000216",
+                "Name": "Boncompagno,Girolamo,Cardinal|Archibishop of Bologna,1622-1684",
+                "Nickname": "Il Moderato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

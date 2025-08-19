@@ -1,0 +1,181 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0141",
+        "RecordId": "021-000006038",
+        "Name": "Fisico-matematica (Accademia)",
+        "AlternativeName": "Accademia physico-mathematica|Academia physicomathematica|Accademia delle sperienze",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1677",
+        "EndDate": "1698",
+        "DateText": "1677-1698",
+        "Notes": "On the history of this Academy, see Silvia Grassi Fiorentino`s biography of Ciampini in DBI;  Middleton (1975); and Fiorella Lopiccoli, `Il corpuscolarismo italiano nel \"Giornale dei Letterati\" di Roma (1668-1681)`, in Scienza filosofia e religione tra `600 e `700 in Italia, ed. Maria Vittoria Predaval Magrini (1990). Donato (2000), p. 43, indicates a number of publications related to this Academy - not in British Library catalogue: M. A. Cellio, Descrizzione di un nuovo modo di trasportare qualsiasi figura disegnata in carta da chi che sia ... dimostrato... li` 4 agosto 1686 (Roma, Komarek, 1686); Honuphriis, Franciscus, Abortus bicorporeus monoceps Romae anno 1691. Editus in Academia Physico-mathematica examinatus a Francisco de Honuphrijs medicinae doctore Christinae Sueciae olim Reginae botanico, ac eiusdem Academiae, in rebus physicis a secretis. ... Dissertatio epistolaris ad excellentissimum doctorum Franciscum Redi philosophum celeberrimum (Romae: typis Rev. Camerae Apostolicae, 1691); Relatione di operationi fatte e da farsi dal sig. Francesco Minniti nella celeberrima Accademia Fisico-Matematica del ... Monsignor Ciampini .... quale c`e` stata comunicata, in Giornale de` letterati (Modena, Eredi Cassiani, 1692); Discorso fatto nell`Accademia fisicomatematica... il 5 gennaio 1681 sopra la cometa nuovamente apparsa (Roma, 1681).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18936",
+                "RecordId": "022-000006037",
+                "Name": "Ciampini,Giovanni Giustino,,1633 - 1698",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16146",
+                "RecordId": "022-000002759",
+                "Name": "Porzio,Luca Antonio,,1639 - 1724",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16209",
+                "RecordId": "022-000002840",
+                "Name": "Borrelli,Giovanni Alfonso,,1608 - 1679",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18940",
+                "RecordId": "022-000006042",
+                "Name": "Eschinardi,Francesco,,1623 - 1703",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7401",
+                "RecordId": "022-000000992",
+                "Name": "Bianchini,Francesco,,1662 - 1729",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18955",
+                "RecordId": "022-000006058",
+                "Name": "Toschi,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5531",
+                "RecordId": "022-000000528",
+                "Name": "Fabri,Agostino,,fl.1671 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18738",
+                "RecordId": "022-000005805",
+                "Name": "di Napoli,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18957",
+                "RecordId": "022-000006060",
+                "Name": "Petrucci,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18958",
+                "RecordId": "022-000006061",
+                "Name": "Baldigiani,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18959",
+                "RecordId": "022-000006062",
+                "Name": "Brunacci,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18960",
+                "RecordId": "022-000006063",
+                "Name": "Cellio,Marc` Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18956",
+                "RecordId": "022-000006059",
+                "Name": "Ponzi,Giuseppe Dionisio,Bishop of Umbriatico,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18963",
+                "RecordId": "022-000006067",
+                "Name": "Meyer,Cornelio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18951",
+                "RecordId": "022-000006054",
+                "Name": "Fabretti,Raffaele,,1618 - 1700",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19606",
+                "RecordId": "022-000006958",
+                "Name": "Magnani,Ippolito,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19619",
+                "RecordId": "022-000006971",
+                "Name": "Scilla,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19588",
+                "RecordId": "022-000006918",
+                "Name": "Onorati,Francesco Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19719",
+                "RecordId": "022-000007094",
+                "Name": "Giordani,Vitale,,1633 - 1711",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19530",
+                "RecordId": "022-000006790",
+                "Name": "Maffei,Paolo Alessandro,Canon,1653-1716",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

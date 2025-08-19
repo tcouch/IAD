@@ -1,0 +1,48 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007934",
+        "WorkId": "000902",
+        "ShortTitle": "Narrativa del Fuoco Uscito Da Mongibello il d\u00ec undici di Marzo del 1669.",
+        "LongTitle": "Con li miracoli esatti da S.D.M. ad intercessione della Gloriosa S. Agata per la totale liberatione della sua Patria Catania. Con li progressi, e ruine fatte, dalle Terre, Habitationi, Poderi, Vigne, Giardini, Chiese, & Luochi incendiari. Con gli ripari sperimentati per buoni per divertirlo dal naturale suo corso, e Camino. Di Carlo Mancino Dedicata Al Molto Illustre Signore Il Signor Fra D. Diego Pappalardo Fr\u00e0 Cappellano Conventuale della Religion Gerosolimitana.",
+        "ItacAcademyItem": {
+            "AcademyId": "0169",
+            "RecordID": "021-000006646",
+            "Value": "Accademia dei Chiari"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1669",
+        "Shelfmark": "444.b.42.",
+        "Subjects": "Mount Etna",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 60",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20270",
+                "RecordID": "022-000007914",
+                "Value": "Mancino,Carlo,,?-1683"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20284",
+                "RecordID": "022-000007935",
+                "Value": "Pappalardo,Diego,Chapel Master|Jerosolimitan,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18577",
+                "RecordID": "022-000005624",
+                "Value": "Bisagni,Giuseppe,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

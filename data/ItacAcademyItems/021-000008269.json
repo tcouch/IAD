@@ -1,0 +1,58 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0552",
+        "RecordId": "021-000008269",
+        "Name": "Affidati (Guastalla) (Accademia degli)",
+        "City": {
+            "CityId": "124",
+            "CityItalianName": "Guastalla (Mantova)"
+        },
+        "StartDate": "ca.1580",
+        "EndDate": "ca.1630",
+        "DateText": "ca.1580-ca.1630",
+        "Notes": "The academy was established by Ferrante Gonzaga at his palace in Guastalla. See Raffaele Tamalio, `Gonzaga, Ferrante,` DBI 57 (2002).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9653",
+                "RecordId": "022-000001822",
+                "Name": "Gonzaga,Ferrando,Prince of Molfetta,1563-1630",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5146",
+                "RecordId": "022-000000142",
+                "Name": "Guarini,Battista,,1538-1612",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20521",
+                "RecordId": "022-000008260",
+                "Name": "Baldi,Bernardino,Abbot of Guastalla,1553-1617",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20505",
+                "RecordId": "022-000008244",
+                "Name": "Carboni,Ippolito,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20526",
+                "RecordId": "022-000008270",
+                "Name": "Marliani,Bernardino,,1542-1605",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

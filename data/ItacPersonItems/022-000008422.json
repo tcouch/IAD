@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20625",
+        "RecordId": "022-000008422",
+        "Surname": "Della Rovere",
+        "Forename": "Livia Feltrio",
+        "Gender": "Female",
+        "PersonalTitle": "Duchess of Urbino",
+        "DateText": "1585-1641",
+        "StartDate": "1585",
+        "EndDate": "1641",
+        "Nationality": {
+            "NationalityId": "97",
+            "Value": "of Urbino"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

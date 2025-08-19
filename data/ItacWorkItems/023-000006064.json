@@ -1,0 +1,42 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006064",
+        "WorkId": "000717",
+        "ShortTitle": "Cometicae observationes",
+        "LongTitle": "habitae ab Academia Physicomathematica Romana Anno 1680 & 1681",
+        "ItacAcademyItem": {
+            "AcademyId": "0141",
+            "RecordID": "021-000006038",
+            "Value": "Accademia Fisico-matematica"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1681",
+        "Shelfmark": "532e34",
+        "Subjects": "Science|Astronomy",
+        "Language": "Latin",
+        "Pagination": "35",
+        "Marginalia": "No",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18343",
+                "RecordID": "022-000005358",
+                "Value": "Tinassi,Nicolo` Angelo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54550",
+            "Value": "023-000006064_54550_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54552",
+            "Value": "023-000006064_54552_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

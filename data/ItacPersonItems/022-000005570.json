@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18532",
+        "RecordId": "022-000005570",
+        "Surname": "Pasquale",
+        "Forename": "Scipione",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Pasquali"
+            },
+            {
+                "AlternativeForename": "Scipio"
+            }
+        ],
+        "PersonalTitle": "Bishop of Casale Monferrato",
+        "DateText": "? - 1624",
+        "StartDate": "?",
+        "EndDate": "1624",
+        "Nationality": {
+            "NationalityId": "59"
+        },
+        "Notes": "Opened the first session of the Accademia dei Virtuosi.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

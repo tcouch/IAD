@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16072",
+        "RecordId": "022-000002655",
+        "Surname": "Farnese",
+        "Forename": "Ranuccio I",
+        "Gender": "Male",
+        "PersonalTitle": "Duke of Parma",
+        "DateText": "1569-1622",
+        "StartDate": "1569",
+        "EndDate": "1622",
+        "Nationality": {
+            "NationalityId": "142",
+            "Value": "of Parma"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

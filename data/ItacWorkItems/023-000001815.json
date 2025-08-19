@@ -1,0 +1,93 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001815",
+        "WorkId": "00131",
+        "ShortTitle": "La Lira",
+        "LongTitle": "Rime del cavalier Marino Amorose Lugubri Marittime Morali Boscherecce Sacre Heroiche Varie. Parte prima (- terza). All`Illustrissimo et Reverendissimo monsignor Melchior Crescentio chierico di camera. Con privilegi. Nuovamente dall`autore purgate et corrette.",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "Turin 1 April 1614",
+        "Shelfmark": "241.a.19",
+        "Subjects": "Eulogistic poems",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5605",
+                "RecordID": "022-000000671",
+                "Value": "Marino,Giambattista,,1569-1625"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5605",
+                "RecordID": "022-000000671",
+                "Value": "Marino,Giambattista,,1569-1625"
+            }
+        },
+        "Notes": "Both poems delivered in the Academy. The poem dedicated to the Academy is not included in the 1629 edn",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Academia dei Ricovrati"
+            },
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9000",
+                    "RecordID": "022-000001572",
+                    "Value": "Cornaro,Federico,Abbot,1579 - 1659"
+                },
+                {
+                    "PersonId": "9315",
+                    "RecordID": "022-000001799",
+                    "Value": "Doria,,Cardinal,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,c. 1564-c. 1635"
+            }
+        },
+        "PrinterOrnament": "Mar.t.e 815",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Quando l`autore entr\u00f2 nell`Accademia de` Ricoverati alludendo alla impresa di essa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5605",
+                            "RecordID": "022-000000671",
+                            "Value": "Marino, Giambattista , , 1569-1625"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel dottorato di monsignor Federico Cornaro chierico di camera",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5605",
+                            "RecordID": "022-000000671",
+                            "Value": "Marino,Giambattista,,1569-1625"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

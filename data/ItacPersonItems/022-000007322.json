@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19880",
+        "RecordId": "022-000007322",
+        "Surname": "Baliani",
+        "Forename": "Giovanni Battista",
+        "AlternativeName": {
+            "AlternativeSurname": "Baelianus",
+            "AlternativeForename": "Io[annes] Baptista"
+        },
+        "DateText": "1582-1666",
+        "StartDate": "1582",
+        "EndDate": "1666",
+        "Nationality": {
+            "NationalityId": "179",
+            "Value": "of Genoa"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

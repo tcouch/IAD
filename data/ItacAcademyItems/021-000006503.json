@@ -1,0 +1,92 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0157",
+        "RecordId": "021-000006503",
+        "Name": "Pellegrini (Accademia dei - Roma)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "pre",
+        "EndDate": "1693",
+        "DateText": "pre-1693 -?",
+        "Notes": "Publications related to the hsitory of this Academy, but not in British Library catalogue, include: Il Marco Fabrizio opera scenica di Giacomo Badiale , promotore dell` Accademia de` Pellegrini in Roma... (Roma, Corbelletti, 1699); Il Lino generoso o vero La tirannide vinta dal valore melodramma di Giacomo Badiale promotore dell`Accademia de` Pellegrini in Roma da rappresentarsi nel Collegio Nazareno in questo anno 1699. Dedicato all`eminentiss., ... cardinale Pietro Ottoboni vice-cancelliero della S.R.C. &c (Roma, Chracas, 1699)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18454",
+                "RecordId": "022-000005477",
+                "Name": "Badiale,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17278",
+                "RecordId": "022-000004093",
+                "Name": "Gimma,Giacinto,,",
+                "Nickname": "Stellauro di Japigia",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19317",
+                "RecordId": "022-000006507",
+                "Name": "Perucci,Andrea,,",
+                "Nickname": "Rolmidero dell`Oreto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18699",
+                "RecordId": "022-000005764",
+                "Name": "Capece,Carlo Sigismondo,,1652 - 1724",
+                "Nickname": "Gismondo del Pincio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19319",
+                "RecordId": "022-000006509",
+                "Name": "Fernandes de Medrano,Giuseppe,,",
+                "Nickname": "Medranio Lilibeo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19320",
+                "RecordId": "022-000006510",
+                "Name": "Tremigliozzi,Gaetano,,",
+                "Nickname": "Braccidoro del Gargano",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17240",
+                "RecordId": "022-000004055",
+                "Name": "Di Sangro,Carlo Domenico,Duke of Vietri,",
+                "Nickname": "Albauro del Melandro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17257",
+                "RecordId": "022-000004072",
+                "Name": "de Milo,Domenico Andrea ,,",
+                "Nickname": "Fisireno di Mergellina",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19321",
+                "RecordId": "022-000006511",
+                "Name": "Guadagnolo,Francesco,,",
+                "Nickname": "Sestilo del Rodope",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

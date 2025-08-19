@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9060",
+        "RecordId": "022-000001650",
+        "Surname": "Gallina",
+        "Forename": "Niccolo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Nicolo"
+        },
+        "DateText": "16th C.",
+        "StartDate": "16th C.",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "There is evidence of epistolary contact between Gallina and the Gonzaga of Sabbioneta (see Ireneo Affo, Vita di Vespasiano Gonzaga, Duca di Sabbioneta e Trajetto (1780), p. 22).",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

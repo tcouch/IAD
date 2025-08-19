@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16267",
+        "RecordId": "022-000002916",
+        "Surname": "de` Franceschi",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "DateText": "ca.1530-1599",
+        "StartDate": "ca.1530",
+        "EndDate": "1599",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Active in Venice from the early 1560s. See edit16 for further details.",
+        "Role": "Printer",
+        "TypographicReference": "Z916",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

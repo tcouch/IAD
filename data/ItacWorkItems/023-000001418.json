@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001418",
+        "WorkId": "00146",
+        "ShortTitle": "Dell`Historia Napoletana scritta dal Signor Francesco De` Pietri libri due.",
+        "LongTitle": "Ove la primiera antichissima origine dell`Alma Citt\u00e0 di Napoli; il famosissimo culto non men della Gentile che della Christiana Religione; la somma felicit\u00e0 del Cielo e della Terra; l`ampissimo e splendidissimo Popolo; la dignissima Ragion Politica; i superbi e celebratissimi difici; le vaghissime contrade; l`inviolata e gloriosa Repub.; il sovrano pregio dell`armi e delle lettere l`isquisita e chiarissima Nobilt\u00e0; la strana et inudita cagion dell`insegne de` Nobili et in ispetielt\u00e0 de` Goti; la maravigliosa innondation de` Prencipi e de` Popoli che \u00e0 gara vi penetrarono et ogn`altra parte ch`\u00e0 perfetta chorografia s`appartenga novellamente si spiegano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1634",
+        "Shelfmark": "664.f.1.",
+        "Subjects": "History of Naples",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcuts | Coins | Gothic signs |",
+        "Pagination": "pp. 219",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15005",
+                "RecordID": "022-000001047",
+                "Value": "De Petris,Franciscum,,"
+            }
+        },
+        "Notes": "The dedication contains a reference to the Oziosi Academy",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15123",
+                    "RecordID": "022-000001164",
+                    "Value": "Tamburellus,Felix,General Vicar,"
+                },
+                {
+                    "PersonId": "15124",
+                    "RecordID": "022-000001165",
+                    "Value": "De Ianuario,Felix,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con licenza de` Superiori. Imprimatur",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15179",
+                "RecordID": "022-000001221",
+                "Value": "Montanaro,Domenico,,"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

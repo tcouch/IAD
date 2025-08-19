@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19834",
+        "RecordId": "022-000007271",
+        "Surname": "Grimani",
+        "Forename": "Antonio",
+        "PersonalTitle": "Procurator",
+        "DateText": "1622 - 1699",
+        "StartDate": "1622",
+        "EndDate": "1699",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See R. Zago, `Grimani, Antonio`, in DBI",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

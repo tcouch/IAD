@@ -1,0 +1,359 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0159",
+        "RecordId": "021-000006516",
+        "Name": "San Luca (Accademia di)",
+        "AlternativeName": "Accademia del Disegno",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Paintbrush, compass, and ruler forming an equilateral triangle",
+        "EmblemImage": {
+            "ImageId": "55340",
+            "Value": "021-000006516_55340_1.jpg"
+        },
+        "Motto": "Aequa potestas",
+        "StartDate": "1593",
+        "EndDate": "?",
+        "DateText": "1593-?",
+        "Notes": "Most publications from this Academy will appear in the Eighteenth century. Complete list of members up to 1696, is in Il centesimo dell`anno 1695 (1696).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16541",
+                "RecordId": "022-000003247",
+                "Name": "Maratta,Carlo,,1625 - 1713",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19325",
+                "RecordId": "022-000006517",
+                "Name": "Fontana,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19326",
+                "RecordId": "022-000006518",
+                "Name": "Ghezzi,Giuseppe,,1634 - 1721",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19327",
+                "RecordId": "022-000006519",
+                "Name": "Bellori,Giovanni Pietro,,1613 - 1696",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19353",
+                "RecordId": "022-000006555",
+                "Name": "Zuccari,Federico,,1539/40 - 1609",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19362",
+                "RecordId": "022-000006566",
+                "Name": "Ginnasia,Catarina,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19363",
+                "RecordId": "022-000006567",
+                "Name": "Marescotti,Laura,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19364",
+                "RecordId": "022-000006568",
+                "Name": "Vajani,Anna Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19365",
+                "RecordId": "022-000006569",
+                "Name": "Sirani,Elisabetta,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19366",
+                "RecordId": "022-000006570",
+                "Name": "Fontana,Lavinia,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19367",
+                "RecordId": "022-000006571",
+                "Name": "Garzoni,Giovanna,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19368",
+                "RecordId": "022-000006572",
+                "Name": "Guidotti,Giustiniana,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19169",
+                "RecordId": "022-000006318",
+                "Name": "Parasole,Isabella,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19369",
+                "RecordId": "022-000006573",
+                "Name": "Bricci,Plautilla,,1616-1690",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19378",
+                "RecordId": "022-000006584",
+                "Name": "Biagi,Ippolita,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19379",
+                "RecordId": "022-000006585",
+                "Name": "Corvini,Maddalena,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19380",
+                "RecordId": "022-000006586",
+                "Name": "Neri,Lucia,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16540",
+                "RecordId": "022-000003246",
+                "Name": "Del Po,Teresa,,1646 - 1713",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19381",
+                "RecordId": "022-000006587",
+                "Name": "Vezzo,Virginia,,1597 - post1626",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19382",
+                "RecordId": "022-000006588",
+                "Name": "Rospigliosi di Zagarolo,Maria,Duchess,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19383",
+                "RecordId": "022-000006589",
+                "Name": "Raimondi Velli,Teresa,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5119",
+                "RecordId": "022-000000115",
+                "Name": "Carracci,Agostino,,1557-1602",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19384",
+                "RecordId": "022-000006590",
+                "Name": "Carracci,Annibale,,1560 - 1609",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19385",
+                "RecordId": "022-000006591",
+                "Name": "Algardi,Alessandro,,1595 - 1654",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19386",
+                "RecordId": "022-000006592",
+                "Name": "Metelli,Agostino,,1609 - 1660",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5635",
+                "RecordId": "022-000000708",
+                "Name": "Reni,Guido,,1575-1642",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19389",
+                "RecordId": "022-000006595",
+                "Name": "Borromini,Francesco,,1599 - 1667",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19390",
+                "RecordId": "022-000006596",
+                "Name": "Merisi,Michelangelo,,1575 - 1610",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19388",
+                "RecordId": "022-000006594",
+                "Name": "Bernini,Giovanni Lorenzo,,1598 - 1680",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54686",
+                    "Value": "022-000006594_54686_2.jpg"
+                }
+            },
+            {
+                "PersonId": "6036",
+                "RecordId": "022-000000741",
+                "Name": "Carracci,Lodovico,,1555 - 1619",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19417",
+                "RecordId": "022-000006628",
+                "Name": "Carracci,Antonio,,1583ca - 1618",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19419",
+                "RecordId": "022-000006630",
+                "Name": "Brugolo,Abraham,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19420",
+                "RecordId": "022-000006631",
+                "Name": "Grammatica,Antiveduto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19143",
+                "RecordId": "022-000006282",
+                "Name": "Villamena,Francesco,,1564 - 1624",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19595",
+                "RecordId": "022-000006947",
+                "Name": "Mei,Bernardino,,1612 - 1676",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19418",
+                "RecordId": "022-000006629",
+                "Name": "Carracci,Antonio,,1583ca - 1618",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19348",
+                "RecordId": "022-000006549",
+                "Name": "Alberti,Romano,,fl.1580-1604",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16425",
+                "RecordId": "022-000003093",
+                "Name": "Leoni,Ottavio,,1578?-1630",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20337",
+                "RecordId": "022-000007999",
+                "Name": "Gaulli,Alessandro,,1666?-after1723/4",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20716",
+                "RecordId": "022-000008536",
+                "Name": "Gaulli,Giovan Battista,,1639-1709",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20731",
+                "RecordId": "022-000008554",
+                "Name": "Albani,Francesco,,1578-1660",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

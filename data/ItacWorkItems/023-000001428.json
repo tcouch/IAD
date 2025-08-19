@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001428",
+        "WorkId": "00156",
+        "ShortTitle": "Delle Poesie Meliche di Giuseppe Battista",
+        "LongTitle": "Parte prima. All`illustrissimo et Eccellentissimo Fancesco Marino Caracciolo Principe di Avellino; Gran Cancelliere e Capitan generale della cavalleria napoletana nello stato di Milano. Quarta impressione",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1656",
+        "Shelfmark": "241.a.8.",
+        "Subjects": "Melic poetry",
+        "Language": "Italian",
+        "Pagination": "pp. 197; pp. 150; Index not numbered",
+        "Marginalia": "No",
+        "Edition": "4th",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15016",
+                "RecordID": "022-000001058",
+                "Value": "Battista,Giuseppe,,1610-1675"
+            }
+        },
+        "Notes": "The volume is made of two parts. The first part contains several sections each one dedicated to a different person.",
+        "CensorsAgreement": "Con licenza e privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15003",
+                    "RecordID": "022-000001045",
+                    "Value": "Manso,Ioannes Baptistam,Marquis of Villa,1560/70-1645"
+                },
+                {
+                    "PersonId": "15031",
+                    "RecordID": "022-000001073",
+                    "Value": "Caracciolo,Francesco Marino,Prince,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15194",
+                "RecordID": "022-000001236",
+                "Value": "Menafoglio,Abbondio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

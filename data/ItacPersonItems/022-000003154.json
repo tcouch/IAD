@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16476",
+        "RecordId": "022-000003154",
+        "Surname": "Tomasini",
+        "Forename": "Giacomo Filippo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Tomasino"
+            },
+            {
+                "AlternativeForename": "Jacopo Filippo"
+            }
+        ],
+        "PersonalTitle": "Bishop of Cittanova d`Istria",
+        "DateText": "1595-1655",
+        "StartDate": "1595",
+        "EndDate": "1655",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1633, and the Incogniti in 1647. On Tomasini and his books of illustrated biographies, see Dora Moscardin, \u201c\u2018Imaginum amore flagrasse\u2019. Le raccolte di ritratti di Paolo e Giacomo Filippo Tomasino\u2019, in Bollettino del museo civico di Padova, 87 (1998), pp. 55-87.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

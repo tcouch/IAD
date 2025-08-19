@@ -1,0 +1,65 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007501",
+        "WorkId": "000838",
+        "ShortTitle": "Orationem de Christi Domini nece.",
+        "LongTitle": "Illustriss. et Excellentiss. Domino D. Francesco Caietano Sermonetae Duci, & c. Rogerius Caietanus D. D. D.",
+        "ItacAcademyItem": {
+            "AcademyId": "0041",
+            "RecordID": "021-000002728",
+            "Value": "Accademia degli Apatisti"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1653",
+        "Shelfmark": "G5484(4)",
+        "Language": "Latin",
+        "Pagination": "32",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20018",
+                "RecordID": "022-000007500",
+                "Value": "Pennignis,Nassaulus,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19147",
+                    "RecordID": "022-000006287",
+                    "Value": "Rivaldus,A.,,"
+                },
+                {
+                    "PersonId": "19149",
+                    "RecordID": "022-000006291",
+                    "Value": "Fanus,Vincentius,,"
+                },
+                {
+                    "PersonId": "19152",
+                    "RecordID": "022-000006294",
+                    "Value": "Candido,Vincenzo,Master of the Sacred Palace,1573 - 1654"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverendiss. Pat. Mag. Sac. Pal. Apost. A Rivaldus Vicesg. -- Imprimatur. Fr. Vincentius Fanus, Magister, & Socius Reverendiss. Pat. Fr. Vincentij Candidi, Mag. Sacri Palatij Apostolici, Ordinis Praedicatorum",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Illustrissimo Domino Abbati Rogerio Caetano. Epigramma",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20018",
+                        "RecordID": "022-000007500",
+                        "Value": "Pennignis,Nassaulus,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

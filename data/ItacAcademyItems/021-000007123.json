@@ -1,0 +1,24 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0322",
+        "RecordId": "021-000007123",
+        "Name": "Svegliati (Accademia degli)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "StartDate": "16th c.",
+        "DateText": "16th c.",
+        "ItacPersonItem": {
+            "PersonId": "19733",
+            "RecordId": "022-000007122",
+            "Name": "Pietra,Maurizio,Count|Bishop of Vigevano,1514 - 1576",
+            "Nickname": "Disarmato",
+            "Motto": "Trovommi amor del tutto disarmato",
+            "PersonEmblemDescription": "Snail hit by an arrow"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

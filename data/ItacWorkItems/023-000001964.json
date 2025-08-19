@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001964",
+        "WorkId": "000278",
+        "ShortTitle": "Sonate (Basso Continuo)",
+        "LongTitle": "A due Violini. Col suo Basso continuo per l`organo. Del Sig. Gio. Battista Vitali. Musico di Violone da Brazzo in San Petronio di Bologna, et Accademico Filaschise. Opera Seconda. Al Molto Illustre Sig. Vincenzo Maria Carrati.",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "14\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1671",
+        "Shelfmark": "d.5.e",
+        "Pagination": "pp. 27",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15422",
+                "RecordID": "022-000001928",
+                "Value": "Vitali,Gio(vanni) Battista,Chapel Master,1632-1692"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9810",
+                "RecordID": "022-000001491",
+                "Value": "Carrati,Vincenzo Maria,,-1675"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15407",
+                "RecordID": "022-000001912",
+                "Value": "Silvani,Marino,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

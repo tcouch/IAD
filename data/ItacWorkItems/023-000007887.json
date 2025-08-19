@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007887",
+        "WorkId": "000891",
+        "ShortTitle": "De Dei Locutione",
+        "LongTitle": "Marci Antonii Nattae Astensis Oratio",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Accademia Veneziana (della Fama)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "835e1(4)",
+        "Language": "Latin",
+        "Pagination": "19r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17013",
+                "RecordID": "022-000003817",
+                "Value": "Natta,Marco Antonio,,?-1568"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17187",
+                "RecordID": "022-000003994",
+                "Value": "Ghislieri,Michele,Cardinal Alessandrino|Pope Pius V,1504-1572"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Academia Veneta"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "PrinterOrnament": "U226",
+        "TitlePageImage": {
+            "ImageId": "55078",
+            "Value": "023-000007887_55078_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

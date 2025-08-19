@@ -1,0 +1,87 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003151",
+        "WorkId": "000404",
+        "ShortTitle": "[Li Ingannati] Comedia del sacrificio de gli Intronati",
+        "LongTitle": "Celebrato ne i giuochi d`un Carnovale in Siena",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1543",
+        "Shelfmark": "11715.aa.47|11715.a.1",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "66r-v [2]",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16844",
+                "RecordID": "022-000003599",
+                "Value": "Intronati,,,"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16474",
+                "RecordID": "022-000003152",
+                "Value": "Navo`,Curzio Troiano,,fl. 1537 - 1566"
+            }
+        },
+        "PrinterOrnament": "CNCE 43",
+        "TitlePageImage": {
+            "ImageId": "53393",
+            "Value": "023-000003151_53393_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Il sacrificio de gli Intronati celebrato nei giuochi del Carnovale in Siena l`anno 1531 sotto il Sodo dignissimo archintronato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15004",
+                            "RecordID": "022-000001046",
+                            "Value": "Ab Alexandro,Iannis Petri,,1574-1647"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Li Ingannati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Intronati,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Canzone nella morte d`una civetta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Intronati,,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

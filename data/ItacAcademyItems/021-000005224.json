@@ -1,0 +1,83 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0113",
+        "RecordId": "021-000005224",
+        "Name": "Affumicati (Accademia degli)",
+        "City": {
+            "CityId": "85",
+            "CityItalianName": "Modica (Ragusa)",
+            "CityEnglishName": "Modica",
+            "CityLatinName": "Mutyca/Motyca"
+        },
+        "StartDate": "1558",
+        "EndDate": "1720",
+        "DateText": "1558-1720",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18239",
+                "RecordId": "022-000005226",
+                "Name": "Matarazzo,Diego,,",
+                "Nickname": "Incenerito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18240",
+                "RecordId": "022-000005227",
+                "Name": "Matarazzo,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18241",
+                "RecordId": "022-000005228",
+                "Name": "Salemi,Giacinto,,",
+                "Nickname": "Fomentoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18242",
+                "RecordId": "022-000005229",
+                "Name": "Olivares,Domenico,,",
+                "Nickname": "Fallace",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18243",
+                "RecordId": "022-000005230",
+                "Name": "Rizzone,Carlo,,",
+                "Nickname": "Vivace",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18244",
+                "RecordId": "022-000005231",
+                "Name": "Campailla,Tommaso,,1668 - 1740",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18238",
+                "RecordId": "022-000005225",
+                "Name": "Grimaldi-Lorefice,Girolama,,1681 - \u2020?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19279",
+                "RecordId": "022-000006464",
+                "Name": "Ragusa,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

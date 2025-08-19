@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0311",
+        "RecordId": "021-000007107",
+        "Name": "Sizienti-Siena (Accademia dei)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "pegasus on mount Helicon with the Castalian spring",
+        "Motto": "Quamdiu sitient",
+        "StartDate": "Late16thc.",
+        "DateText": "Late16thc.",
+        "Notes": "This Academy was possibly created by celso Sozzini or by one of his students, when he returned to Siena after lecturing in the Bolognese Studium on canon and civil law (1551-1555 and 1556-1562).",
+        "ItacPersonItem": {
+            "PersonId": "9214",
+            "RecordId": "022-000001511",
+            "Name": "Sozzini,Celso,,1517-1570",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

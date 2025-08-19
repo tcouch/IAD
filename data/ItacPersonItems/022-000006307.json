@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19161",
+        "RecordId": "022-000006307",
+        "Surname": "Lauro",
+        "Forename": "Giovanni",
+        "AlternativeName": {
+            "AlternativeSurname": "Laurus",
+            "AlternativeForename": "Ioannes"
+        },
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Active in Rome between 1584 and 1635.",
+        "Role": "Illustrator",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

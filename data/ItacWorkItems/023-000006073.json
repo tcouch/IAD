@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006073",
+        "WorkId": "000719",
+        "ShortTitle": "Nuove inventioni di tubi ottici",
+        "LongTitle": "Dimostrate nell`Accademia Fisicomatematica Romana 1686",
+        "ItacAcademyItem": {
+            "AcademyId": "0141",
+            "RecordID": "021-000006038",
+            "Value": "Accademia Fisico-matematica"
+        },
+        "Format": "10\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1686",
+        "Shelfmark": "537f47",
+        "Subjects": "Science",
+        "Language": "Italian",
+        "Pagination": "19",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18738",
+                "RecordID": "022-000005805",
+                "Value": "di Napoli,Carlo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18969",
+                "RecordID": "022-000006075",
+                "Value": "Komarek,Giovanni Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54554",
+            "Value": "023-000006073_54554_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

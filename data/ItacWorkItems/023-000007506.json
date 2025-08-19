@@ -1,0 +1,64 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007506",
+        "WorkId": "000840",
+        "ShortTitle": "Duo Florum Fasciculi Vel Se Sanctae Silviae Patria Manifesta.",
+        "LongTitle": "Authore R. D. Carolo Morabito Messanensi",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1688",
+        "Shelfmark": "1492.a.9.",
+        "Subjects": "Hagiography|History of Messina",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved page|City of Messina",
+        "Pagination": "pp. 88",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20020",
+                "RecordID": "022-000007504",
+                "Value": "Morabito,Carlo,,"
+            }
+        },
+        "Notes": "This text contains a reference to Placido Samperi, a member of the Abbarbicati academy and the Fucina academy in Messina",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20023",
+                "RecordID": "022-000007508",
+                "Value": "Alvarez,Francesco,Archbishop of Messina,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "20024",
+                "RecordID": "022-000007511",
+                "Value": "Donia,Petrus,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20025",
+                "RecordID": "022-000007513",
+                "Value": "de Amico,Vincenzo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55217",
+            "Value": "023-000007506_55217_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55218",
+            "Value": "023-000007506_55218_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

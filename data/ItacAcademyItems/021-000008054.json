@@ -1,0 +1,36 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0522",
+        "RecordId": "021-000008054",
+        "Name": "Mercuriali (Accademia dei)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1574",
+        "EndDate": "?",
+        "DateText": "1574-?",
+        "Notes": "One publication related to the history of this Academy, but not in British Library collections, is \nMarocelli de Marocellis patricii ferrarien. academicorum Mercurialium principis theoremata dialectica et moralia. Ad clarissimum iurisconsultum d. Ioan. Mariam Crispum serenissimi principis Ferrariae consiliarium integerrimum (Ferrariae: apud Haredes Francisci Rubei, 1576)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20523",
+                "RecordId": "022-000008262",
+                "Name": "Faleroti,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20524",
+                "RecordId": "022-000008263",
+                "Name": "Marocelli,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

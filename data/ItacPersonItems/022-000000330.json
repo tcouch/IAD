@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5283",
+        "RecordId": "022-000000330",
+        "Surname": "Marescotti",
+        "Forename": "Annibale",
+        "DateText": "fl. 1574 - 1627?",
+        "StartDate": "fl. 1574",
+        "EndDate": "1627?",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Editor of Rime di quei della notte nel rappresentare la fauola d`Egeria sotto il principato del sig. Annibale Mariscotti l`Ardito (1627), in Archiginnasio.",
+        "Role": null,
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

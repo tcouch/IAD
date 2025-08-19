@@ -1,0 +1,160 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008379",
+        "WorkId": "000943",
+        "ShortTitle": "Discorsi fatti da Gabriello Chiabrera",
+        "LongTitle": "Nell`Accademia degli Addormentati in Genova. Con la vita dell`autore. All`illustrissimo signore Francesco Rebuffo",
+        "ItacAcademyItem": {
+            "AcademyId": "0556",
+            "RecordID": "021-000008352",
+            "Value": "Addormentati - Genova (Accademia degli)"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "123",
+            "PublicationPlaceItalianName": "Genova",
+            "PublicationPlaceEnglishName": "Genoa",
+            "PublicationPlaceLatinName": "Genua"
+        },
+        "PublicationYear": "1670",
+        "Shelfmark": "12356a16",
+        "Subjects": "Academic presentations",
+        "Language": "Italian|Latin",
+        "Pagination": "124",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18348",
+                "RecordID": "022-000005364",
+                "Value": "Chiabrera,Gabriello,,1552-1638"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18348",
+                    "RecordID": "022-000005364",
+                    "Value": "Chiabrera,Gabriello,,1552-1638"
+                },
+                {
+                    "PersonId": "5123",
+                    "RecordID": "022-000000119",
+                    "Value": "Ciampoli,Giovanni,,1590-1643"
+                },
+                {
+                    "PersonId": "20602",
+                    "RecordID": "022-000008381",
+                    "Value": "Baptista,Io:,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "18292",
+                "RecordID": "022-000005297",
+                "Value": "Castagnola,Io. Franciscus,,"
+            }
+        },
+        "CensorsAgreement": "Imprimatur Vic. Gen. Sancti Officii Genuae. 1669 11 Decembris. Imprimatur ex auctoritate excellentissimi et Illustrissimi Magistratus Inquisitorum Status. Io: Franciscus Castagnola Cancellarius",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20601",
+                "RecordID": "022-000008380",
+                "Value": "Rebuffo,Francesco,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20603",
+                "RecordID": "022-000008382",
+                "Value": "Dego,Alessandro,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18291",
+                "RecordID": "022-000005296",
+                "Value": "Franchelli,Antonio Giorgio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55308",
+            "Value": "023-000008379_55308_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Decretum Serenissimorum Collegiorum Serenissimae Reipublicae Genuensis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20602",
+                            "RecordID": "022-000008381",
+                            "Value": "Baptista,Io:,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Urbanus Papa VIII. Dilecte fili salutem, et Apostolicam benedictionem pontificii amoris movimentum, et celeberrimae virtutis praemium estare volumus, Apostolicam hanc epistolam tibi inscriptam... Datum Romae apud Sanctam Mariam Maiorem sub anulo Piscatoris die 29 Novembris 1623. Pontificatus nostri anno secundo.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5123",
+                            "RecordID": "022-000000119",
+                            "Value": "Ciampoli,Giovanni,,1590-1643"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso I Intorno alla debolezza della prudenza humana",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18348",
+                            "RecordID": "022-000005364",
+                            "Value": "Chiabrera,Gabriello,,1552-1638"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso II Intorno alla virtu' della fortezza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18348",
+                            "RecordID": "022-000005364",
+                            "Value": "Chiabrera,Gabriello,,1552-1638"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso III Intorno alla temperanza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18348",
+                            "RecordID": "022-000005364",
+                            "Value": "Chiabrera,Gabriello,,1552-1638"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso IV Intorno alla virtu' della magnificenza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18348",
+                            "RecordID": "022-000005364",
+                            "Value": "Chiabrera,Gabriello,,1552-1638"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso V. Come si muova e come si quieti l'ira, e passa alle lodi della retorica",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18348",
+                            "RecordID": "022-000005364",
+                            "Value": "Chiabrera,Gabriello,,1552-1638"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

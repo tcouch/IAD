@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007242",
+        "WorkId": "000823",
+        "ShortTitle": "Atlante Veneto",
+        "LongTitle": "nel quale si contiene la descrittione geografica, storica, sacra, profana, e politica, degl`imperij, regni, provincie, e stati dell`universo, loro divisione, e confini, coll`agiunta di tutti li paesi nuovamente scoperti, accresciuto di molte tavole geografice, non piu publicate. Opera, e studio del padre maestro Coronelli Min Convent. cosmografo della Serenissima Republica, e professore di Geografia nell`Universita` di Venetia, ad uso dell`Accademia Cosmografica degli Argonauti. Tomo I",
+        "ItacAcademyItem": {
+            "AcademyId": "0143",
+            "RecordID": "021-000006183",
+            "Value": "Accademia degli Argonauti"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1691",
+        "DedicationPlaceDate": "Venetia 1691",
+        "Shelfmark": "MapsC44f6",
+        "Subjects": "Geography|History",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19029",
+                "RecordID": "022-000006145",
+                "Value": "Coronelli,Vincenzo,,1650 - 1718"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9646",
+                    "RecordID": "022-000001780",
+                    "Value": "Valier,Silvestro,Doge,1630-1700"
+                },
+                {
+                    "PersonId": "16407",
+                    "RecordID": "022-000003073",
+                    "Value": "Marcello,Ferigo,,"
+                },
+                {
+                    "PersonId": "16172",
+                    "RecordID": "022-000002793",
+                    "Value": "Nicolosi,Gio[vanni] Battista,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi riformatori dello studio di Padova - Havendo veduto per fede del Padre Inquisitore nel libro intitolato `Atlante veneto` del padre maestro F. Vincenzo Coronelli, non v`esser cosa alcuna contro la Santa Fede cattolica e parimenti per attestato del Segretario nostro niente contro Prencipi, e buoni costumi, concediamo licenza, che possa esser stampato, osservando le leggi in materia di stampe e presentando le solite copie alle publiche Librarie di Venetia, e di Padova, et c. Data li 28 Aprile 1687 - Silvestro Valier Kav. Procurator e Reformator; Ferigo Marcello Procurator e Reformator; Gio Battista Nicolosi Segretario.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19807",
+                "RecordID": "022-000007243",
+                "Value": "Morosini,Francesco,Doge,1618 - 1694"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16237",
+                "RecordID": "022-000002881",
+                "Value": "Accademia degli Argonauti,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

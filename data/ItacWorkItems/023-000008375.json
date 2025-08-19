@@ -1,0 +1,31 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008375",
+        "WorkId": "000941",
+        "ShortTitle": "Il quarto libro de motetti a voce sola",
+        "LongTitle": "Alla Serenissima Anna de Medici Arciduchessa d`Austria. Opera XXV di Mauritio Cazzati Maestro di Cappella in San Petronio di Bologna, et Accademico Eccitato",
+        "ItacAcademyItem": {
+            "AcademyId": "0570",
+            "RecordID": "021-000008374",
+            "Value": "Eccitati (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1661",
+        "DedicationPlaceDate": "Bologna 30 Marzo 1661",
+        "Shelfmark": "A140",
+        "Subjects": "Music",
+        "Pagination": "211",
+        "Marginalia": "No",
+        "TitlePageImage": {
+            "ImageId": "55307",
+            "Value": "023-000008375_55307_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004246",
+        "WorkId": "000546",
+        "ShortTitle": "Lezioni Intorno Alla natura Delle Mofete",
+        "LongTitle": "Del Signor Lionardo Di Capoa Accademico Investigante, Ultima edizione accresciuta di un`Indice copiosissimo, e delle postille nel margine. Dedicate All`Illustriss., ed Eccellentiss. Signora D. Aurora Nata Pricipessa Sanseverino Duchessa Gaetano Chiamata fra gli Arcadi Lucinda Coritesia. Volume III",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1714",
+        "Shelfmark": "1165.h.16-18.",
+        "Subjects": "Geology|Volcanology|Science",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "A plate on the title page|Mythological figures",
+        "Pagination": "pp. 135",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16142",
+                "RecordID": "022-000002754",
+                "Value": "Di Capua,Leonardo,,1617 - 1695"
+            }
+        },
+        "Notes": "In the dedication, Cesare di Capoa, son fo Leonardo, mentions some Investiganti academicians.\nIn the dedication to the reader, il Volubile Accademico Investigante (Gennaro D`Andrea?) mentions the Investiganti Academy and some of its members.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17401",
+                "RecordID": "022-000004247",
+                "Value": "Sanseverino Gaetano,Aurora,Princess of Bisignano,1667 - 1726"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17209",
+                    "RecordID": "022-000004022",
+                    "Value": "Ciccarelli,Lorenzo,,"
+                },
+                {
+                    "PersonId": "16190",
+                    "RecordID": "022-000002817",
+                    "Value": "di Capoa,Cesare,,"
+                }
+            ]
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Il Volubile Accademico Investigante al lettore",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16191",
+                        "RecordID": "022-000002818",
+                        "Value": "Il Volubile, Accademico Investigante,,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

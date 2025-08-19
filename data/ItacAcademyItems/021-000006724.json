@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0172",
+        "RecordId": "021-000006724",
+        "Name": "Congrega dei Virtuosi al Pantheon",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1541",
+        "EndDate": "?",
+        "DateText": "1541-?",
+        "Notes": "Academy of Fine Arts.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19496",
+                "RecordId": "022-000006722",
+                "Name": "Cesari,Giuseppe,,1568 - 1640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19497",
+                "RecordId": "022-000006723",
+                "Name": "de Adiutorio,Desiderio,,1481 - 1546",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16425",
+                "RecordId": "022-000003093",
+                "Name": "Leoni,Ottavio,,1578?-1630",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

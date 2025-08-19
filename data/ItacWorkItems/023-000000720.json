@@ -1,0 +1,319 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000720",
+        "WorkId": "00048",
+        "ShortTitle": "Lodi al signor Guido Reni",
+        "LongTitle": "Raccolte dall`Imperfetto Accademico Confuso",
+        "ItacAcademyItem": {
+            "AcademyId": "0087",
+            "RecordID": "021-000004599",
+            "Value": "Accademia dei Confusi (seconda)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1632",
+        "DedicationPlaceDate": "Bologna 8 May 1632",
+        "Shelfmark": "84.d.6",
+        "Subjects": "Art criticism",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page | Human figures",
+        "Pagination": "pp. 96",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5085",
+                "RecordID": "022-000000082",
+                "Value": "Giacobbi,Girolamo,,1567 - 1628"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5015",
+                    "RecordID": "022-000000017",
+                    "Value": "Gessi,Berlingiero,Senator,1613 - 1671"
+                },
+                {
+                    "PersonId": "5016",
+                    "RecordID": "022-000000018",
+                    "Value": "Bombaci,Gasparo,Count,1607-1676"
+                },
+                {
+                    "PersonId": "5022",
+                    "RecordID": "022-000000024",
+                    "Value": "Montalbanus,Ovidius,,1601 - 1671"
+                },
+                {
+                    "PersonId": "5039",
+                    "RecordID": "022-000000041",
+                    "Value": "Campeggi,Ridolfo,Count,1565-1624"
+                },
+                {
+                    "PersonId": "5048",
+                    "RecordID": "022-000000050",
+                    "Value": "Bentivogli,Carlo,Count,1615-1661"
+                },
+                {
+                    "PersonId": "5051",
+                    "RecordID": "022-000000053",
+                    "Value": "Turchi,Niccol\u00f2 Zoppio,,1609-1656"
+                },
+                {
+                    "PersonId": "5052",
+                    "RecordID": "022-000000054",
+                    "Value": "Marescotti,Bernardino,Count,\u20201649"
+                },
+                {
+                    "PersonId": "5080",
+                    "RecordID": "022-000000077"
+                },
+                {
+                    "PersonId": "5102",
+                    "RecordID": "022-000000099"
+                },
+                {
+                    "PersonId": "5103",
+                    "RecordID": "022-000000100",
+                    "Value": "Amadio,Carlo,,fl. 1682"
+                },
+                {
+                    "PersonId": "5109",
+                    "RecordID": "022-000000106"
+                },
+                {
+                    "PersonId": "5116",
+                    "RecordID": "022-000000113",
+                    "Value": "Capponi,Giovanni,,1586-1629"
+                },
+                {
+                    "PersonId": "5152",
+                    "RecordID": "022-000000147"
+                },
+                {
+                    "PersonId": "5263",
+                    "RecordID": "022-000000253",
+                    "Value": "Rinaldi,Cesare,,"
+                },
+                {
+                    "PersonId": "5275",
+                    "RecordID": "022-000000265",
+                    "Value": "Maccius,Paulus,,"
+                },
+                {
+                    "PersonId": "5603",
+                    "RecordID": "022-000000660",
+                    "Value": "Possenti,Carlo,,"
+                },
+                {
+                    "PersonId": "5604",
+                    "RecordID": "022-000000666",
+                    "Value": "della Valle,Francesco,,"
+                },
+                {
+                    "PersonId": "5605",
+                    "RecordID": "022-000000671",
+                    "Value": "Marino,Giambattista,,1569-1625"
+                },
+                {
+                    "PersonId": "5606",
+                    "RecordID": "022-000000672",
+                    "Value": "Ferrari,Francesco,,"
+                },
+                {
+                    "PersonId": "5607",
+                    "RecordID": "022-000000673",
+                    "Value": "Rota,Andrea,,"
+                },
+                {
+                    "PersonId": "5608",
+                    "RecordID": "022-000000674",
+                    "Value": "Cavallina,Domenico,,"
+                },
+                {
+                    "PersonId": "5609",
+                    "RecordID": "022-000000675",
+                    "Value": "Martinelli,Costanzo,,"
+                },
+                {
+                    "PersonId": "5610",
+                    "RecordID": "022-000000676",
+                    "Value": "Pellicani,Alessandro,,"
+                },
+                {
+                    "PersonId": "5611",
+                    "RecordID": "022-000000677",
+                    "Value": "Arloti,Marcantonio,,"
+                },
+                {
+                    "PersonId": "5613",
+                    "RecordID": "022-000000680",
+                    "Value": "Ronconi,Giulio,,"
+                },
+                {
+                    "PersonId": "5615",
+                    "RecordID": "022-000000684",
+                    "Value": "Querini,Quirino,,"
+                },
+                {
+                    "PersonId": "5616",
+                    "RecordID": "022-000000685",
+                    "Value": "Incerto,,,"
+                },
+                {
+                    "PersonId": "5617",
+                    "RecordID": "022-000000686",
+                    "Value": "Nani,Floriano,,"
+                },
+                {
+                    "PersonId": "5618",
+                    "RecordID": "022-000000687",
+                    "Value": "Incerto,,,"
+                },
+                {
+                    "PersonId": "5619",
+                    "RecordID": "022-000000688",
+                    "Value": "Vignola,Pietro,,"
+                },
+                {
+                    "PersonId": "5620",
+                    "RecordID": "022-000000689",
+                    "Value": "Zagarini,Alessandro,,"
+                },
+                {
+                    "PersonId": "5621",
+                    "RecordID": "022-000000691",
+                    "Value": "Colli,Lorenzo,,"
+                },
+                {
+                    "PersonId": "5622",
+                    "RecordID": "022-000000692",
+                    "Value": "Poggi,Semidea,,"
+                },
+                {
+                    "PersonId": "5624",
+                    "RecordID": "022-000000694",
+                    "Value": "Spada,Carlo,,"
+                },
+                {
+                    "PersonId": "5626",
+                    "RecordID": "022-000000696",
+                    "Value": "Bergomensis,Iacopus Pighettus,,"
+                },
+                {
+                    "PersonId": "5627",
+                    "RecordID": "022-000000698",
+                    "Value": "Praedae,Francisci Mariae,,"
+                },
+                {
+                    "PersonId": "5628",
+                    "RecordID": "022-000000699",
+                    "Value": "Victorii,Victorii,,"
+                },
+                {
+                    "PersonId": "5629",
+                    "RecordID": "022-000000700",
+                    "Value": "Incerti,,,"
+                },
+                {
+                    "PersonId": "5630",
+                    "RecordID": "022-000000701",
+                    "Value": "Syxti,Guarini,,"
+                },
+                {
+                    "PersonId": "5631",
+                    "RecordID": "022-000000702",
+                    "Value": "Bassi,Io. Dominici,,"
+                },
+                {
+                    "PersonId": "5632",
+                    "RecordID": "022-000000703",
+                    "Value": "de Fabris,Fabii Antonii,,"
+                },
+                {
+                    "PersonId": "5633",
+                    "RecordID": "022-000000704",
+                    "Value": "Cerronii a Modigliana,Horatii,,"
+                },
+                {
+                    "PersonId": "5634",
+                    "RecordID": "022-000000705",
+                    "Value": "Spada,Francesco,,"
+                },
+                {
+                    "PersonId": "15035",
+                    "RecordID": "022-000001077",
+                    "Value": "Bruni,Antonio,,1593-1635"
+                },
+                {
+                    "PersonId": "5017",
+                    "RecordID": "022-000000019",
+                    "Value": "Carmeni,Francesco,,fl. 1632 - 1671"
+                },
+                {
+                    "PersonId": "5181",
+                    "RecordID": "022-000000176",
+                    "Value": "Severoli,Nicola,,"
+                }
+            ]
+        },
+        "Notes": "Several comments on this book in Anthony Colantuono, Guido Reni\u2019s Abduction of Helen: the Politics and Rhetoric of Painting in Seventeenth-Century Europe (Cambridge, 1997).",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5150",
+                    "RecordID": "022-000000215",
+                    "Value": "De Bonis,Homobonus,,"
+                },
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Homob. Poenit. Pro Eminentiss. Et Reverendiss. Card. Archiepiscop. | Imprimatur | Fr. Hierony. Onuph. Pro Reverendiss. P. Inq. Bonon. \nA` beningni lettori (\u2026) e se leggendo t`incontrerai in voci che repugnino alla santa fede come `fato` `destino` `fortuna` e simili perdona queste trabocchevoli forme che `l Christiano aborre all`uso del poetico stile che le richiede e vivi felice.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5635",
+                    "RecordID": "022-000000708",
+                    "Value": "Reni,Guido,,1575-1642"
+                },
+                {
+                    "PersonId": "5636",
+                    "RecordID": "022-000000709",
+                    "Value": "Sampieri,Vincenzo,,"
+                },
+                {
+                    "PersonId": "5637",
+                    "RecordID": "022-000000710",
+                    "Value": "Andriano,Camillo,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5409",
+                "RecordID": "022-000000419",
+                "Value": "Tebaldini,Nicol\u00f2,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5409",
+                "RecordID": "022-000000419",
+                "Value": "Tebaldini,Nicol\u00f2,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52644",
+            "Value": "023-000000720_52644_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

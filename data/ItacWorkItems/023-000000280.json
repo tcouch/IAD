@@ -1,0 +1,115 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000280",
+        "WorkId": "00001",
+        "ShortTitle": "Memorie Imprese e Ritratti de\u2019 Signori Accademici Gelati di Bologna",
+        "LongTitle": "Raccolte nel principato del signor Valerio Zani il Ritardato all\u2019eminentissimo et reverendissimo signor cardinale Francesco Barberino decano del sacro collegio accademico e protettore",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1672",
+        "Shelfmark": "133.c.14 | 658.e.5 | Ac.8840/1",
+        "Subjects": "Biographies of academicians",
+        "Language": "Italian",
+        "Illustration": "Engraved flyleaf | Academy emblem | Engraved plates | Portraits of academicians; their emblems; their coats of arms",
+        "Pagination": "12 pages unnumbered; pp. 406",
+        "Marginalia": "No",
+        "Notes": "Here, titlepage and fly-leaf are reproduced.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5223",
+                    "RecordID": "022-000000214",
+                    "Value": "Cribellus,Ioseph,,"
+                },
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal,1622-1684"
+                },
+                {
+                    "PersonId": "5225",
+                    "RecordID": "022-000000217",
+                    "Value": "Passus,Michael Pius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit Ioseph Cribellus ex Clericis Regularis Cong. S. Pauli Poenitent. In Metropolitana Bononien. Pro Eminentissimo ac reuerendis[simo] D. Hieronymo Boncompagno Archiep. Bonon. & Principe | Vidit pro Reverendis[simo] P. Inquisitore Bononiae D. Vitalis Terra Rubea a Parma Prior Cassinensis S.T.D. Publicus Lector & S. Officij Consultor | Imprimatur. Fr. Michael Pius Passus Inquisitor Generalis Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5099",
+                "RecordID": "022-000000096",
+                "Value": "Barberini,Francesco,Cardinal ,1597-1679"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5014",
+                "RecordID": "022-000000016",
+                "Value": "Capponi,Giovambattista,,1620 - 1675"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "5119",
+                "RecordID": "022-000000115",
+                "Value": "Carracci,Agostino,,1557-1602"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5194",
+                    "RecordID": "022-000000188",
+                    "Value": "Tintus,Lauren,,1626-1700"
+                },
+                {
+                    "PersonId": "5195",
+                    "RecordID": "022-000000189",
+                    "Value": "Mitellus,I. M.,,1634-1718"
+                },
+                {
+                    "PersonId": "5196",
+                    "RecordID": "022-000000190",
+                    "Value": "Afner,Io. Rigus,,"
+                },
+                {
+                    "PersonId": "5197",
+                    "RecordID": "022-000000191",
+                    "Value": "Van Otteren,Hubertus,,fl. 1680-1713"
+                },
+                {
+                    "PersonId": "5198",
+                    "RecordID": "022-000000192",
+                    "Value": "Clouet,A.,,1636-1679"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5245",
+                "RecordID": "022-000000237",
+                "Value": "Manolessi,,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "53090",
+            "Value": "023-000000280_53090_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53091",
+            "Value": "023-000000280_53091_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

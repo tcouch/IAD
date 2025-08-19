@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19169",
+        "RecordId": "022-000006318",
+        "Surname": "Parasole",
+        "Forename": "Isabella",
+        "Gender": "Female",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Parasoli"
+            },
+            {
+                "AlternativeSurname": "Cattani Parasole"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Engraver. For a short biography, see O`Malley, and Meyers, The art of natural history (2008)",
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20506",
+        "RecordId": "022-000008245",
+        "Surname": "Bartoli (eredi di)",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "DateText": "fl. 1575-1596",
+        "StartDate": "fl. 1575",
+        "EndDate": "1596",
+        "Nationality": {
+            "NationalityId": "179",
+            "Value": "of Genoa"
+        },
+        "Role": "Printer",
+        "TypographicReference": "U109",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

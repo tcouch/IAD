@@ -1,0 +1,83 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002553",
+        "WorkId": "000314",
+        "ShortTitle": "Il Polidoro",
+        "LongTitle": "Tragedia di Pomponio Torelli, Conte di Montechiarugolo. Nell`Accademia de` Signori Innominati di Parma Il Perduto.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0032",
+                "RecordID": "021-000002552",
+                "Value": "Accademia dei Fecondi"
+            },
+            {
+                "AcademyId": "0106",
+                "RecordID": "021-000005036",
+                "Value": "Accademia degli Innominati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "36",
+            "PublicationPlaceItalianName": "Parma",
+            "PublicationPlaceEnglishName": "Parma",
+            "PublicationPlaceLatinName": "Parmae"
+        },
+        "PublicationYear": "1605",
+        "DedicationPlaceDate": "Montechiarugolo, 9 July 1605",
+        "Shelfmark": "85.b.2.(5.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "pp. 116",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9144",
+                "RecordID": "022-000001615",
+                "Value": "Torelli,Pomponio,Count,1539 - 1608"
+            }
+        },
+        "Notes": "The book is dedicated to the Fecondi.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9184",
+                    "RecordID": "022-000001769",
+                    "Value": "Ionicus,Octavianus,,"
+                },
+                {
+                    "PersonId": "9185",
+                    "RecordID": "022-000001770",
+                    "Value": "Viana,Petrus,,"
+                },
+                {
+                    "PersonId": "9186",
+                    "RecordID": "022-000001771",
+                    "Value": "Arrighi da Soncino,Giovanni Maria,Inquisitor of Parma,"
+                },
+                {
+                    "PersonId": "15988",
+                    "RecordID": "022-000002554",
+                    "Value": "Bart.,Io. Phi.,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Ego Octavianus Ionicus Theologus Ecclesiae Cathedralis Parmae,legi Il Polidoro del Perduto Accademico Innominato, et nihil dissonum inveni fidei et bonis maribus: unde merito Typis mandari posse censeo.\nEgo Petrus Viana Societatis Iesu publicus Professor Theologiae moralis in Gymnasio Parmensi vidi ex commissione Reverendiss. Vicarij Parmensis, et Rever. Patris Inquisitoris Polydorum illustrissimi Domini Comitis Pomponij Torelli, et nihil in eo reperi, quod sanctae fidei nostrae, aut bonis moribus adversetur, et ideo censeo posse imprimi, si ita videbitur praedictis Dominis. Dat. Parmae in nostro Collegio 20 Iunij 1605.\nEgo Fr. Io. Maria de Soncino Inquisitor Parm. Visis supradictis attestationibus vz. admodum R. Domini Octaviani Ionici Theologi Cathedralis, et Rever. D. Petri Vianae Societatis Iesu concedo, ut imprimantur. \nImprimantur, ut in suprascriptis attestationibus.\nIo. Philip. Bart. Vic. Gen.",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0032",
+                "RecordID": "021-000002552",
+                "Value": "Accademia dei Fecondi"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9188",
+                "RecordID": "022-000001676",
+                "Value": "Viotti,Erasmo,,"
+            }
+        },
+        "PrinterOrnament": "Mar.t.e1403",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20220",
+        "RecordId": "022-000007771",
+        "Surname": "della Rovere de` Medici",
+        "Forename": "Vittoria",
+        "Gender": "Female",
+        "PersonalTitle": "Grand Duchess of Tuscany",
+        "DateText": "1621-?",
+        "StartDate": "1621",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "97",
+            "Value": "of Urbino"
+        },
+        "Notes": "Founder of the Assicurate, according to Virginia Cox, The Prodigious Muse, 2011",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

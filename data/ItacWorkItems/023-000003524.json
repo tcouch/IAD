@@ -1,0 +1,83 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003524",
+        "WorkId": "000455",
+        "ShortTitle": "Il bruscello et il boschetto",
+        "LongTitle": "Dialoghi molto allegri et dilettevoli del Falotico della Congrega dei Rozzi. Et un capitolo della sposa nuova padrona, del Fumoso della medesima Congrega",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1574",
+        "DedicationPlaceDate": "29 November 1574",
+        "Shelfmark": "1071.c.36",
+        "Subjects": "Rhyming dialogue",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16737",
+                "RecordID": "022-000003473",
+                "Value": "Giovanni Battista,,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16746",
+                "RecordID": "022-000003482",
+                "Value": "Salvestro,,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16788",
+                "RecordID": "022-000003525",
+                "Value": "Gessi,Pirro,,fl.1574"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16789",
+                "RecordID": "022-000003526",
+                "Value": "Bonetti,Emilio,,fl.1574"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53852",
+            "Value": "023-000003524_53852_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53853",
+            "Value": "023-000003524_53853_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Capitolo alla villana Del Fumoso della Congrega dei Rozzi All Padrona sposa La prima volta, che`l Mezzaiuolo la va a vedere",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16746",
+                        "RecordID": "022-000003482",
+                        "Value": "Salvestro,,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

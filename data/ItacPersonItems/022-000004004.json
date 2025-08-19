@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17194",
+        "RecordId": "022-000004004",
+        "Surname": "Pole",
+        "Forename": "Reginald",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Polo",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1550-1558",
+        "StartDate": "1550",
+        "EndDate": "1558",
+        "Nationality": {
+            "NationalityId": "68",
+            "Value": "English"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

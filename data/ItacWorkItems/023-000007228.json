@@ -1,0 +1,83 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007228",
+        "WorkId": "000819",
+        "ShortTitle": "Isola di Rodi",
+        "LongTitle": "Geografica-storica, Antica e Moderna, coll`altre adiacenti gia` posseduta da cavalieri hospitalieri di San Giovanni di Gerusalemme. Opera de` Padri Maestri Coronelli Cosmografo della Serenissima repubblica di Venetia, e Parisotti Storiografo dell`Accademia Cosmografica degli Argonauti. Tomo primo dell`Arcipelago. All`eminentissimo, e Reverendissimo Principe il S. Card. Panfilio. Gran Priore di Roma dell`Ordine Gerosolim. et c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0143",
+            "RecordID": "021-000006183",
+            "Value": "Accademia degli Argonauti"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1688",
+        "DedicationPlaceDate": "Venezia febraro 1688",
+        "Shelfmark": "794b6",
+        "Subjects": "Geography",
+        "Language": "Italian",
+        "Pagination": "[6] 430 [ [17]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19029",
+                    "RecordID": "022-000006145",
+                    "Value": "Coronelli,Vincenzo,,1650-1718"
+                },
+                {
+                    "PersonId": "19795",
+                    "RecordID": "022-000007226",
+                    "Value": "Parisotti,Girolamo Antonio,,"
+                }
+            ]
+        },
+        "Notes": "Here, the title page and the subsequent page are shown. For Parisotti`s contribution in publishing the book See Sartori, `Regesto coronelliano`, in Miscellanea francescana, 51 (1951), p. 303.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16172",
+                    "RecordID": "022-000002793",
+                    "Value": "Nicolosi,Gio[vanni] Battista,,"
+                },
+                {
+                    "PersonId": "9646",
+                    "RecordID": "022-000001780",
+                    "Value": "Valier,Silvestro,Doge,1630-1700"
+                },
+                {
+                    "PersonId": "19797",
+                    "RecordID": "022-000007229",
+                    "Value": "Giustinian,Girolamo Ascanio,,"
+                },
+                {
+                    "PersonId": "16407",
+                    "RecordID": "022-000003073",
+                    "Value": "Marcello,Ferigo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi riformatori dello studio di Padova - Havendo veduto per fede del Padre Inquisitore nel libro intitolato `Descrittione geografica dell`Arcipelago antico e moderno del Padre Maestro Coronelli Cosmografo Publico e del Padre Maestro Parisotti Storiografo dell`Accademia degli Argonauti`, non v`esser cosa alcuna contro la Santa Fede cattolica e parimenti per attestato del Segretario nostro niente contro Prencipi, e buoni costumi, concediamo licenza a Pietro Antonio Brigonci di poterlo stampare, osservando gl`ordini in materia di stampe, e presentando le solite copie alle pubbliche Librarie di Venetia e di Padova. Data li 9 Febraro 1687 - Silvestro Valier Cav. Proc. Ref.; Gerolemo Ascanio Zustin Ref.; Ferigo Marcello Reform.; Gio: Battista Nicolosi Segretario",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19798",
+                "RecordID": "022-000007230",
+                "Value": "Brigonci,Pietro Antonio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55064",
+            "Value": "023-000007228_55064_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55065",
+            "Value": "023-000007228_55065_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

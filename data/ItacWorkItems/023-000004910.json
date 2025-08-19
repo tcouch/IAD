@@ -1,0 +1,76 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004910",
+        "WorkId": "000604",
+        "ShortTitle": "Il sesto di Vergilio, tradotto",
+        "LongTitle": "dal S. Stordito Intronato, in lingua Toscana, in versi sciolti da rima. Le due orationi le quali sono nel terzodecimo libro delle Metamorfosi d`Ovidio, l`una d`Aiace, et l`altra di Ulisse. Tradotte parimente dal medesimo S. Stordito Intronato, in versi sciolti da Rima.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1540",
+        "DedicationPlaceDate": "Lucigno ad Asso, 26 December 1537; Padua 31 December 1539",
+        "Shelfmark": "11352.aa.19",
+        "Subjects": "Translation",
+        "Language": "Italian",
+        "Pagination": "39r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17978",
+                    "RecordID": "022-000004911",
+                    "Value": "Vergilius Maro,Publius ,,70 - 19 b.C."
+                },
+                {
+                    "PersonId": "17979",
+                    "RecordID": "022-000004912",
+                    "Value": "Ovidius Naso,Publius,,43b.C. - ca. 17a.D."
+                }
+            ]
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17980",
+                "RecordID": "022-000004913",
+                "Value": "Venturi,Frasia,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16547",
+                "RecordID": "022-000003255",
+                "Value": "Arrivabene,Andrea,,1534 - 1570"
+            }
+        },
+        "PrinterOrnament": "CNCE 57160",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Al dottissimo et onoratissimo S. lo Scacciato Intronato. Lo Stordito Intronato",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9205",
+                        "RecordID": "022-000001502",
+                        "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

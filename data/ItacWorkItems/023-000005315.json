@@ -1,0 +1,74 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005315",
+        "WorkId": "000658",
+        "ShortTitle": "La finta mora",
+        "LongTitle": "Commedia del Dottor Iacopo Cicognini Accademico Intronato. Dedicata all` Illustr.mo Sig. Roberto Capponi. Marchese di Monte Carlo in Regno",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1625",
+        "DedicationPlaceDate": "Florence, 1st January 1625",
+        "Shelfmark": "11712b47",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "159",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9945",
+                "RecordID": "022-000000816",
+                "Value": "Cicognini,Giacomo,,1557 - 1633"
+            }
+        },
+        "Notes": "The comedy was staged by the accademici Incostanti in Florence. See the introduction, and Solerti, Musica, ballo e drammatica alla Corte Medicea dal 1600 al 1637 (Florence, 1905)",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18308",
+                    "RecordID": "022-000005317",
+                    "Value": "Ricasoli Baroni,Pandolfo,,"
+                },
+                {
+                    "PersonId": "18309",
+                    "RecordID": "022-000005318",
+                    "Value": "Corb.,Lod,Inquisitor,"
+                },
+                {
+                    "PersonId": "17030",
+                    "RecordID": "022-000003836",
+                    "Value": "dell`Antella,Niccolo`,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Io ho rivista la presente Commedia intitolata la Finta Mora, ne` vi ho trovata cosa indecente, ne` che posa prohbire la stampa, ci sono molte cose che mostrano vivacita` di intelletto. Di Firenze il di` 4 marzo 1623. Pandolfo Ricasoli Baroni Canon. Fior.\nVedita la sopradetta relazione concediamo si possi stampare in Firenze, quando cosi` piaccia al M.R.P. Inquisitore. Addi` 8 marzo 1623. ab Inc. L`Arcivescovo di Firenze\nSi stampi la sopradetta commedia F. Lod Corb. Inq. Gen. 8 marzo 1624\nStampisi, Adi` 10 di maggio 1624. Niccolo` dell`Antella",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18307",
+                "RecordID": "022-000005316",
+                "Value": "Capponi,Roberto,Marquis of Monte Carlo in Regno,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18310",
+                "RecordID": "022-000005319",
+                "Value": "I Giunti ,(Family),,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54429",
+            "Value": "023-000005315_54429_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001016",
+        "WorkId": "00093",
+        "ShortTitle": "Lettere inedite di uomini illustri",
+        "LongTitle": "per servir d`appendice all`opera intitolata Vitae Italorum doctrina excellentium",
+        "ItacAcademyItem": {
+            "AcademyId": "0015",
+            "RecordID": "021-000000989",
+            "Value": "Accademia della Traccia"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1773",
+        "DedicationPlaceDate": "Florence 22 July 1773 | Pisa 8 April 1775 | Bologna 6 April 1669",
+        "Shelfmark": "93.d.4",
+        "Subjects": "Science",
+        "Language": "Italian",
+        "Illustration": "Engraved plate | devices for experiments",
+        "Pagination": "2 vols; vol. 1 pp. 364; vol.2 pp. 352",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5028",
+                "RecordID": "022-000000030",
+                "Value": "Montanari,Geminiano,,1633 - 1687"
+            }
+        },
+        "Notes": "The Academy is mentioned in the letter dated Bologna, 6 April 1669",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7406",
+                    "RecordID": "022-000000996",
+                    "Value": "Hapbsburg-Lorraine,Leopold,Grand Duke of Tuscany,1747-1790"
+                },
+                {
+                    "PersonId": "7407",
+                    "RecordID": "022-000000997",
+                    "Value": "Chigi,Sigismondo,,1736-1793"
+                },
+                {
+                    "PersonId": "7408",
+                    "RecordID": "022-000000998",
+                    "Value": "Firmian,Carlo,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7405",
+                "RecordID": "022-000000995",
+                "Value": "Fabroni,Angelo,,1732-1803"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7404",
+                "RecordID": "022-000000994",
+                "Value": "Mo\u00fccke,Francesco,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Lettera al principe Leopoldo di Toscana",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "5028",
+                        "RecordID": "022-000000030",
+                        "Value": "Montanari, Geminiano, , 1633-1687"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

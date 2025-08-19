@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20238",
+        "RecordId": "022-000007818",
+        "Surname": "Giustinian",
+        "Forename": "Giorgio",
+        "DateText": "1572-1629",
+        "StartDate": "1572",
+        "EndDate": "1629",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Ambassador to England in 1605. For more details, see his biography by G. Gullino, in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

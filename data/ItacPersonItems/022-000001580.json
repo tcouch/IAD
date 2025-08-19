@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9012",
+        "RecordId": "022-000001580",
+        "Surname": "Scaino",
+        "Forename": "Ioachin",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Gioacchino"
+            },
+            {
+                "AlternativeForename": "Giovachino"
+            }
+        ],
+        "DateText": "1535 - 1608",
+        "StartDate": "1535",
+        "EndDate": "1608",
+        "Nationality": {
+            "NationalityId": "75",
+            "Value": "of Salo` del Garda"
+        },
+        "Notes": "Joined the Ricovrati in 1599. Presented an oration on Glory, and how is attained by those who expose themselves to death for the sake of their `patria`.",
+        "Role": "Contributor|Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

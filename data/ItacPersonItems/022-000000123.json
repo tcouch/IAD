@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5127",
+        "RecordId": "022-000000123",
+        "Surname": "Facchinetti",
+        "Forename": "Cesare",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Facheneti"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1608-1683",
+        "StartDate": "1608",
+        "EndDate": "1683",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "The portrait is taken from Galeazzo Gualdo Priorato, Scena d`alcuni huomini illustri d`Italia, etc. [First series.] (Augusta, 1658).",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

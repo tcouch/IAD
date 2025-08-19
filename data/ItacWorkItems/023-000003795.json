@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003795",
+        "WorkId": "000508",
+        "ShortTitle": "Gl` intrighi amorosi",
+        "LongTitle": "Commedia villanesca del Desioso Insipido Sanese. Recitata in Siena l`anno 1584",
+        "ItacAcademyItem": {
+            "AcademyId": "0061",
+            "RecordID": "021-000003726",
+            "Value": "Congrega degli Insipidi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1587",
+        "Shelfmark": "162.a.49",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "71",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16981",
+                "RecordID": "022-000003771",
+                "Value": "Tregiani,Domenico di Gismondo,,"
+            }
+        },
+        "Notes": "Mentions the Sienese Academies dei Rozzi, degl` Insipidi, degli Samrriti, dei Selvatici, and dei Raccolti.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16997",
+                "RecordID": "022-000003789",
+                "Value": "Alla Loggia del Papa,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53874",
+            "Value": "023-000003795_53874_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53875",
+            "Value": "023-000003795_53875_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006582",
+        "WorkId": "000786",
+        "ShortTitle": "Flavia Papia Sacra opus in quatuor partes divisum.",
+        "LongTitle": "In quarum prima Sanctorum omnium Ticini quiescentium Agiologium texitur, ... in secunda breves eorundem sanctorum histori\u00e6 ... in tertia de c\u00e6teris aliis sanctorum partialibus reliquiis ... in quarta de Langobardorum Regno, ac gestis ... Lucubrato poot authoris decessum indice ... ab eiusdem amico F.J.M.A.S.A., etc. [With a dedicatory epistle subscribed, Prior et F.F.",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "80",
+            "PublicationPlaceItalianName": "Pavia",
+            "PublicationPlaceEnglishName": "Pavia",
+            "PublicationPlaceLatinName": "Ticinum"
+        },
+        "PublicationYear": "1699",
+        "Shelfmark": "J/4783f10",
+        "Language": "Latin",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19377",
+                "RecordID": "022-000006583",
+                "Value": "Ghisoni,Romualdo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19371",
+                "RecordID": "022-000006576",
+                "Value": "Belloi,Pietro Ercole,,1634 - 1702"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Papia urbs singulis descripta monosticis ab eruditissimo domino I. V. D. Petro Hercule Bellois Bononiensi Academico Gelato In opere M.S. cui titulus Rerum Ticini memorabilium: Exametra Belloiana",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19371",
+                        "RecordID": "022-000006576",
+                        "Value": "Belloi,Pietro Ercole,,1634 - 1702"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

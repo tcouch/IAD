@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19107",
+        "RecordId": "022-000006238",
+        "Surname": "Giunta",
+        "Forename": "Benedetto",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Gionta"
+            },
+            {
+                "AlternativeSurname": "Giunti",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "fl.1531 - 1562",
+        "StartDate": "fl.1531",
+        "EndDate": "1562",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

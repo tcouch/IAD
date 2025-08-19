@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008519",
+        "WorkId": "000965",
+        "ShortTitle": "Ragionamento della poesia",
+        "LongTitle": "di M. Bernardo Tasso",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1562",
+        "Shelfmark": "75c10",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "[2] 15r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5625",
+                "RecordID": "022-000000695",
+                "Value": "Tasso,Bernardo,,1493-1569"
+            }
+        },
+        "Notes": "In the dedication, the author states that he recited this Ragionamento in the Accademia Veneziana two years before.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20672",
+                "RecordID": "022-000008476",
+                "Value": "Bonaventura,Pietro,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55319",
+            "Value": "023-000008519_55319_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

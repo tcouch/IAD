@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0178",
+        "RecordId": "021-000006742",
+        "Name": "Acerbi (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "ca1619",
+        "EndDate": "?",
+        "DateText": "ca1619-?",
+        "Notes": "The Acerbi Academy was created by a group of people from Lucca living in Rome. See Maylender, Storia delle Accademie..., vol. I, p. 53. Pagnino mentions this Academy in his Rime (Venezia, Ciotti, 1619), which is not in British Library collections.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19504",
+                "RecordId": "022-000006739",
+                "Name": "Spada,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19505",
+                "RecordId": "022-000006740",
+                "Name": "Pagnini,Guglielmo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19506",
+                "RecordId": "022-000006741",
+                "Name": "Sercambi,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

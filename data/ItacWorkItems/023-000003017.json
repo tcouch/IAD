@@ -1,0 +1,95 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003017",
+        "WorkId": "000384",
+        "ShortTitle": "Due orationi una volgare di Gio. Battista Leoni.",
+        "LongTitle": "L`altra latina di Lucio Scarano recitate da loro nel publicarsi dell`Academia Venetiana",
+        "ItacAcademyItem": {
+            "AcademyId": "0100",
+            "RecordID": "021-000004905",
+            "Value": "Accademia Veneziana"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1594",
+        "Shelfmark": "12301c13",
+        "Subjects": "Academic discourse",
+        "Language": "Italian|Latin",
+        "Pagination": "26",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20009",
+                    "RecordID": "022-000007485",
+                    "Value": "Leoni,Giovanni Battista,,1542?-1613?"
+                },
+                {
+                    "PersonId": "16585",
+                    "RecordID": "022-000003303",
+                    "Value": "Scarano,Lucio,,1540?-1610?"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15808",
+                    "RecordID": "022-000002359",
+                    "Value": "Tagliapietra,Benedetto,,"
+                },
+                {
+                    "PersonId": "15815",
+                    "RecordID": "022-000002369",
+                    "Value": "Zeno,Girolamo,,"
+                },
+                {
+                    "PersonId": "15816",
+                    "RecordID": "022-000002370",
+                    "Value": "Priuli,Sebastiano,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,ca.1564-ca.1635"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55350",
+            "Value": "023-000003017_55350_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Oratione di Gio Battista Leoni Presidente dell'Academia Venetiana. recitata da lui nel publicarsi di essa Academia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20009",
+                            "RecordID": "022-000007485",
+                            "Value": "Leoni,Giovanni Battista,,1542?-1613?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lucii Scaranii philosophi medici, in Venetiarum Gymnasio Humaniora studia profitentis, academici Veneti, oratio: habita in solenni Academiae Venetae celebratione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16585",
+                            "RecordID": "022-000003303",
+                            "Value": "Scarano,Lucio,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

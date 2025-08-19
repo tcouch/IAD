@@ -1,0 +1,168 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007615",
+        "WorkId": "000852",
+        "ShortTitle": "Le glorie de gli Incogniti",
+        "LongTitle": "O vero gli huomini illustri dell`Accademia de` signori Incogniti di Venetia",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Accademia degli Incogniti (Venezia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1647",
+        "Shelfmark": "132b3",
+        "Subjects": "Biographies of academicians",
+        "Language": "Italian",
+        "Pagination": "432",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19906",
+                "RecordID": "022-000007350",
+                "Value": "Bonifacio,Baldassarre,,1585-1659"
+            }
+        },
+        "Notes": "Images include title page and frontispiece.",
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Accademia degli Incogniti (Venezia)"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15378",
+                    "RecordID": "022-000001871",
+                    "Value": "Ruschi,Francesco,,1610-1661"
+                },
+                {
+                    "PersonId": "20119",
+                    "RecordID": "022-000007623",
+                    "Value": "Tinelli,Tiberio,,1586-1638"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18520",
+                    "RecordID": "022-000005554",
+                    "Value": "Piccini,Giacomo,,1619?-1660"
+                },
+                {
+                    "PersonId": "20112",
+                    "RecordID": "022-000007616",
+                    "Value": "Merlini,Cosimo,,1580-1641"
+                },
+                {
+                    "PersonId": "20114",
+                    "RecordID": "022-000007618",
+                    "Value": "G,G,,"
+                },
+                {
+                    "PersonId": "20115",
+                    "RecordID": "022-000007619",
+                    "Value": "Rousselet,Gilles,,1610-1686"
+                },
+                {
+                    "PersonId": "20116",
+                    "RecordID": "022-000007620",
+                    "Value": "Vouillemont,Sebastien,,"
+                },
+                {
+                    "PersonId": "20117",
+                    "RecordID": "022-000007621",
+                    "Value": "Fluret,,,"
+                },
+                {
+                    "PersonId": "15336",
+                    "RecordID": "022-000001375",
+                    "Value": "C.,B.,,"
+                },
+                {
+                    "PersonId": "20118",
+                    "RecordID": "022-000007622",
+                    "Value": "Blancus,,,"
+                },
+                {
+                    "PersonId": "18521",
+                    "RecordID": "022-000005556",
+                    "Value": "Boschini,Marco,,1613-1678 (or1704)"
+                },
+                {
+                    "PersonId": "20120",
+                    "RecordID": "022-000007624",
+                    "Value": "Georgi,Giovanni,,fl.1617-1671"
+                },
+                {
+                    "PersonId": "20121",
+                    "RecordID": "022-000007625",
+                    "Value": "Bloemaert,Cornelis,,1603-1680"
+                },
+                {
+                    "PersonId": "5276",
+                    "RecordID": "022-000000266",
+                    "Value": "Coriolano,Giovanni Battista,,c. 1579-1649"
+                },
+                {
+                    "PersonId": "20122",
+                    "RecordID": "022-000007626",
+                    "Value": "Renierus,Nicol,,"
+                },
+                {
+                    "PersonId": "20123",
+                    "RecordID": "022-000007627",
+                    "Value": "Le Tellier,P,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9633",
+                "RecordID": "022-000001800",
+                "Value": "Valvasense,Franciscus,,fl. 1600-1650"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55206",
+            "Value": "023-000007615_55206_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55205",
+            "Value": "023-000007615_55205_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Omnibus ignotus, dum sis tibi cognitus ipsi - Accademia degli Incogniti a Giovan Francesco Loredan",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Multa propagatae Priamus dat pignora prolis (dedicated to Loredan)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19906",
+                            "RecordID": "022-000007350",
+                            "Value": "Bonifacio,Baldassarre,,1585-1659"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

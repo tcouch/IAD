@@ -1,0 +1,69 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007461",
+        "WorkId": "000827",
+        "ShortTitle": "Opere di Antonio Riccho Neapolitano",
+        "LongTitle": "Intitulata Fior de Delia stampata nuovamente. Sonetti. Capitoli. Epistole. Desperata. Eglogha. Barzellette. Strambotti. Farze",
+        "ItacAcademyItem": {
+            "AcademyId": "0381",
+            "RecordID": "021-000007460",
+            "Value": "Compagnia dei Fausti"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1511",
+        "Shelfmark": "11426aa36",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19996",
+                "RecordID": "022-000007463",
+                "Value": "Ricco,Antonio,,fl.1507"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19996",
+                "RecordID": "022-000007463",
+                "Value": "Ricco,Antonio,,fl.1507"
+            }
+        },
+        "Notes": "On this publication, see Marzia Pieri, La scena boschereccia nel Rinascimento italiano (Padova, 1983)",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19995",
+                "RecordID": "022-000007462",
+                "Value": "Sessa,Melchiorre,,1505 - 1562"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55008",
+            "Value": "023-000007461_55008_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55007",
+            "Value": "023-000007461_55007_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Acta et recitata su la presente farza in Venetia a di di 12 febraro 1507 in la casa del magnifico misser Marino Malipiero per la nobile Compagnia de Fausti: Capitulo ala gloriosa Virgine",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19996",
+                        "RecordID": "022-000007463",
+                        "Value": "Ricco,Antonio,,fl.1507"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0349",
+        "RecordId": "021-000007173",
+        "Name": "Anelanti (Accademia degli)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "Motto": "Et sitim et sordes",
+        "StartDate": "1659?",
+        "EndDate": "?",
+        "DateText": "1659?-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16562",
+                "RecordId": "022-000003280",
+                "Name": "Soncin,Francesco,,? - 1674",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19758",
+                "RecordId": "022-000007176",
+                "Name": "Dall`Acqua,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19756",
+                "RecordId": "022-000007174",
+                "Name": "Petruzzi,Michele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19757",
+                "RecordId": "022-000007175",
+                "Name": "Mazzola,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

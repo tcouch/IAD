@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15090",
+        "RecordId": "022-000001131",
+        "Surname": "Sarrocchi",
+        "Forename": "Margharita",
+        "Gender": "Female",
+        "AlternativeName": {
+            "AlternativeSurname": "Sarocchia",
+            "AlternativeForename": "Margherita"
+        },
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "She left the Umoristi before 1608 and contributed to the creation of the Ordinati. See Russo (1979)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

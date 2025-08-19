@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16017",
+        "RecordId": "022-000002586",
+        "Surname": "Lemm Margadant",
+        "Forename": "Simon",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Lemnius",
+            "AlternativeForename": null
+        },
+        "DateText": "1511?-1550",
+        "StartDate": "1511?",
+        "EndDate": "1550",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Swiss German poet, pupil of Melanchton.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

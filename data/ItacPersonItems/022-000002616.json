@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16044",
+        "RecordId": "022-000002616",
+        "Surname": "Crasso",
+        "Forename": "Niccolo`",
+        "Gender": "Male",
+        "Pseudonym": "Publio Licinio|Incerto",
+        "DateText": "pre1586-1656",
+        "StartDate": "pre1586",
+        "EndDate": "1656",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See his biography by C. Povolo, in DBI",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

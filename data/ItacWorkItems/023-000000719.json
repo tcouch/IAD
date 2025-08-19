@@ -1,0 +1,87 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000719",
+        "WorkId": "00047",
+        "ShortTitle": "Lettura d\u2019H. Peruzzini da Fossombrone Lo Stanco",
+        "LongTitle": "sopra un Madriale del S\u00bar C. Simonetti da Fano L`Assetato. Recitata nell\u2019 Illustre Academia de\u2019Confusi nel di XXIII. di Marzo MDLXXV.",
+        "ItacAcademyItem": {
+            "AcademyId": "0008",
+            "RecordID": "021-000000655",
+            "Value": "Accademia dei Confusi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1575",
+        "DedicationPlaceDate": "Bologna 7 April 1575",
+        "Shelfmark": "237.h.20",
+        "Subjects": "Poetry|Music",
+        "Language": "Italian",
+        "Illustration": "Woodcut | Academician`s emblem",
+        "Pagination": "pp. 63r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5640",
+                "RecordID": "022-000000715",
+                "Value": "Peruzzini,Ippolito,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5602",
+                "RecordID": "022-000000659",
+                "Value": "Manfredi,Muzio,,ca.1535-1609"
+            }
+        },
+        "Notes": "The name of the printer and the publication place cannot be read from the British Library copy. I relied on the Italian integrated catalogue edit16. Maylender does not include the Accademia dei Confusi in Fossombrone, whereas edit16 mentions such Academy.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5642",
+                "RecordID": "022-000000717",
+                "Value": "Dalla Rovere,Ippolito Feltrio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5641",
+                "RecordID": "022-000000716",
+                "Value": "Bonardo,Pellegrino,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52662",
+            "Value": "023-000000719_52662_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Poem to Hippolito Peruzzini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5602",
+                            "RecordID": "022-000000659",
+                            "Value": "Manfredi, Muzio , ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dedica",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5640",
+                            "RecordID": "022-000000715",
+                            "Value": "Peruzzini, Ippolito , ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

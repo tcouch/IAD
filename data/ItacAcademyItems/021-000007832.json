@@ -1,0 +1,124 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0446",
+        "RecordId": "021-000007832",
+        "Name": "Scritturale (Accademia)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1662",
+        "EndDate": "?",
+        "DateText": "1662-?",
+        "Notes": "Details of the Academy and its members, are in Maylender, vol. V, pp. 139-140",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20246",
+                "RecordId": "022-000007833",
+                "Name": "Van Otteren,Leonardo Enrico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20247",
+                "RecordId": "022-000007834",
+                "Name": "Muti,Giovanni Maria,,1649-1727",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20249",
+                "RecordId": "022-000007836",
+                "Name": "da Venezia,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20248",
+                "RecordId": "022-000007835",
+                "Name": "Zanardi,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20250",
+                "RecordId": "022-000007837",
+                "Name": "Vilioni,Celso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20251",
+                "RecordId": "022-000007838",
+                "Name": "Fiorelli,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20252",
+                "RecordId": "022-000007839",
+                "Name": "Lepori,Vito,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20253",
+                "RecordId": "022-000007840",
+                "Name": "Pavesi,Giovanni Benedetto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19401",
+                "RecordId": "022-000006608",
+                "Name": "Scoppa,Placido,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18465",
+                "RecordId": "022-000005489",
+                "Name": "Werle,Michelangelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19984",
+                "RecordId": "022-000007443",
+                "Name": "Beltrame,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18171",
+                "RecordId": "022-000005140",
+                "Name": "Trevisan,Simone,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18165",
+                "RecordId": "022-000005133",
+                "Name": "Pincini,Primo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

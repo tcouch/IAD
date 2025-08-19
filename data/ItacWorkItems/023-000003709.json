@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003709",
+        "WorkId": "000495",
+        "ShortTitle": "Canzonette a tre voci dell\u2019Affettuoso. Libro Quinto. Canto P. (Canto S.) (Basso.)",
+        "ItacAcademyItem": {
+            "AcademyId": "0059",
+            "RecordID": "021-000003708",
+            "Value": "Accademia dei Filomeli"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1605?",
+        "Shelfmark": "K.8.f.11",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16941",
+                "RecordID": "022-000003729",
+                "Value": "Affettuoso,,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16943",
+                "RecordID": "022-000003731",
+                "Value": "Ghini,Camillo,,"
+            }
+        },
+        "Notes": "From the British Library catalogue: `Engraved throughout. In the Canto Primo part 3 is in duplicate. The dedication is signed by Camillo Ghini, the engraver. The composer, whose identity is uncertain, was a member of the Accademia dei Filomeli of Siena. This collection also contains Canzonets by Desiderio Pecci and H. Palermita.`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16942",
+                "RecordID": "022-000003730",
+                "Value": "Borghesi,Emilio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

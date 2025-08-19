@@ -1,0 +1,33 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19164",
+        "RecordId": "022-000006313",
+        "Surname": "Heckius",
+        "Forename": "Wilhelm",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Wilhelmus"
+            },
+            {
+                "AlternativeSurname": "Heck",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Eckio",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Heeck",
+                "AlternativeForename": null
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "67",
+            "Value": "Dutch"
+        },
+        "Notes": "Ioannes Heeck`s brother. He published Ioannes` De peste` at his own expenses.",
+        "Role": "Editor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16951",
+        "RecordId": "022-000003739",
+        "Surname": "Parrino",
+        "Forename": "Antonio Domenico",
+        "AlternativeName": {
+            "AlternativeSurname": "Parrinus",
+            "AlternativeForename": "Antonius Domenicus"
+        },
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Role": "Printer",
+        "TypographicReference": "Mar.te 1383",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

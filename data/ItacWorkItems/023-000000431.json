@@ -1,0 +1,131 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000431",
+        "WorkId": "00040",
+        "ShortTitle": "I Fiori",
+        "LongTitle": "Primizie poetiche di Pietro Antonio Bernardoni. Accademico Scomposto ed Acceso. Divise in Rime amorose eroiche sacre morali et funebri. Consagrate all`illustrissimo et reverendissimo Monsignor Giovanni Francesco Ruota Governatore di Fano.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0083",
+                "RecordID": "021-000004457",
+                "Value": "Accademia degli Accesi (Bologna)"
+            },
+            {
+                "AcademyId": "0082",
+                "RecordID": "021-000004450",
+                "Value": "Accademia degli Scomposti"
+            }
+        ],
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1694",
+        "Shelfmark": "1062.a.13",
+        "Subjects": "Sacred poems|erotic poems|Love poems|moral poems|funereal  poems",
+        "Language": "Italian",
+        "Pagination": "pp. 176",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5394",
+                "RecordID": "022-000000403",
+                "Value": "Bernardoni,Pietro Antonio,,1672 - 1714"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5394",
+                "RecordID": "022-000000403",
+                "Value": "Bernardoni,Pietro Antonio,,1672 - 1714"
+            }
+        },
+        "Notes": "Printer Eredi del Sarti alla Rosa",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5397",
+                    "RecordID": "022-000000407",
+                    "Value": "Ferrerius,Vincentius Maria,,"
+                },
+                {
+                    "PersonId": "5398",
+                    "RecordID": "022-000000408",
+                    "Value": "Carminatus,Paulus,,"
+                },
+                {
+                    "PersonId": "5399",
+                    "RecordID": "022-000000409",
+                    "Value": "Boncompagni,Giacomo,Archibishop of Bologna,1652 - 1731"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Paulus Carminatus Cleric. Reg. S. Pauli et in Eccl. Metrop. Bonon. Poenit. Pro Illustriss. et Reverendiss. Domino D. Iacobo Boncompagno Archiepisc. ac Principe | Imprimatur | Fr. Vincentius Maria Ferrerius Vicarius Gen. S. Officii Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5395",
+                "RecordID": "022-000000404",
+                "Value": "Ruota,Giovanni Francesco,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5396",
+                "RecordID": "022-000000405",
+                "Value": "Sarti,Eredi del,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54869",
+            "Value": "023-000000431_54869_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Alli signori Accesi di Bologna dopo havuto l`onore d`essere tra essi aggregato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5394",
+                            "RecordID": "022-000000403",
+                            "Value": "Bernardoni,Pietro Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alli signori scomposti di Fano tra i quali ha l`honore d`essere aggregato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5394",
+                            "RecordID": "022-000000403",
+                            "Value": "Bernardoni,Pietro Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. Cavagliero Lodovico Marcolini, sotto il di cui Principato hebbe l`honore d`essere accolto nella nobilissima Accademia degli Scomposti di Fano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5394",
+                            "RecordID": "022-000000403",
+                            "Value": "Bernardoni,Pietro Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la Filli di Sciro eletta in Suggetto de loro Congressi Accademici dalli signori Accesi di Bologna. Allude alla Scena seconda dell`Atto primo di detta Pastorale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5394",
+                            "RecordID": "022-000000403",
+                            "Value": "Bernardoni,Pietro Antonio,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

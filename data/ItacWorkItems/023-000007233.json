@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007233",
+        "WorkId": "000821",
+        "ShortTitle": "Viaggi del P. Coronelli Parte Seconda",
+        "LongTitle": "Consecrati all`Eccellenza Reverendissima di Monsignor Giovanni Casimiro Ab-alten Bokun, Referendario dell`una e l`altra Segnatura, Protonotario Apostolico, inviato straordinario del Regno di Polonia alla Santa Sede, alla Serenissima",
+        "ItacAcademyItem": {
+            "AcademyId": "0143",
+            "RecordID": "021-000006183",
+            "Value": "Accademia degli Argonauti"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1697",
+        "DedicationPlaceDate": "Venezia 1697",
+        "Shelfmark": "1049f7",
+        "Subjects": "Geography|Travel",
+        "Language": "Italian",
+        "Pagination": "[4] 232 [1]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19029",
+                "RecordID": "022-000006145",
+                "Value": "Coronelli,Vincenzo,,1650 - 1718"
+            }
+        },
+        "Notes": "Here, the titlepage, and one image from the book are shown.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19800",
+                "RecordID": "022-000007234",
+                "Value": "Ab Alten Bokun,Casimiro,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19799",
+                "RecordID": "022-000007231",
+                "Value": "Tramontino,Giovanni Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55060",
+            "Value": "023-000007233_55060_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55061",
+            "Value": "023-000007233_55061_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

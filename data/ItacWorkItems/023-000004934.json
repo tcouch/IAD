@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004934",
+        "WorkId": "000607",
+        "ShortTitle": "Editione tertia della sfera del mondo",
+        "LongTitle": "di M. Alisandro Piccolomini, divisa in libri quattro, i quali non per via di traduttione, ne a qual si voglia particolare scrittore obligati, ma parte da migliori raccogliendo, e parte di nuovo producendo, contengano in se tutto quel ch`intorno a tal materia si possa desiderare, ridotti a tanta agevolezza, et a cosi` facil modo di dimostrare, che qual si voglia poco essercitato negli studii di matematica potra` agevolissimamente, et con prestezza intenderne il tutto, di nuovo ricorretta, et ampliata. DELLE STELLE FISSE. Libro uno con le sue figure, e con le sue tavole, dove con maravigliosa agevolezza potra` ciascheduno conoscere qualunque stella delle XLVIII imagini del cielo stellato, e le favole loro integramente, et sapere in ogni tempo del`anno, a qual si voglia hora di notte, in che parte del cielo si truovino, non solo dette imagini, ma qualunque stella di quelle\n_ _ _\n\nDELLE STELLE FISSE LIBRO UNO dove di tutte le XLVIII immagin celesti minutissimamente si tratta; et non solo le favole loro ordinatamente si narra, ma ancora le figure di ciascheduna, n`apparon cosi`  manifeste et distintamente disposte et formate, come a punto per il Ciel si distendano. Et oltre a questo ci son tavole, con nuova invention fabricate, con le loro dichiarationi, cosi` facili et chiare, che per il mezo di quelle et de le figure insiememente, potra` ciascheduno, con maravigliosa agevolezza, in ogni tempo de l`anno, a qual si sia hora di notte, conoscere non solo le dette imagini nel Cielo, ma qual si voglia stella di quelle.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1552",
+        "DedicationPlaceDate": "Dalla Villa di Val Zanzibio 10 August 1539; Ivi, 29 August 1539",
+        "Shelfmark": "C.108.gg.24",
+        "Subjects": "Astronomy",
+        "Language": "Italian",
+        "Pagination": "58; 122 [4]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Notes": "An expanded edition appeared in Venice, appresso Giovanni Varisco e compagni, 1579. There is no mention of the Intronati Academy. The first part is dedicated to Antonio Cocco. The second part is dedicated to Laudomia Forteguerri, with the same dedcation date and place. The image of the colophon corresponds to the second title page.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9228",
+                "RecordID": "022-000001525",
+                "Value": "Forteguerri,Laudomia,,1515-1555"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16547",
+                    "RecordID": "022-000003255",
+                    "Value": "Arrivabene,Andrea,,1534-1570"
+                },
+                {
+                    "PersonId": "17999",
+                    "RecordID": "022-000004935",
+                    "Value": "Bascarini,Niccolo`,,1541 - 1554"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16547",
+                "RecordID": "022-000003255",
+                "Value": "Arrivabene,Andrea,,1534-1570"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54176",
+            "Value": "023-000004934_54176_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54177",
+            "Value": "023-000004934_54177_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

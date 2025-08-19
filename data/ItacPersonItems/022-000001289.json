@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15246",
+        "RecordId": "022-000001289",
+        "Surname": "De Quevedo Villegas",
+        "Forename": "Francisco",
+        "Gender": "Male",
+        "DateText": "1580-1645",
+        "StartDate": "1580",
+        "EndDate": "1645",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Notes": "Portrait from Obras de Don Francisco De Quevedo Villegas, Madrid 1791.",
+        "Role": "Author",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

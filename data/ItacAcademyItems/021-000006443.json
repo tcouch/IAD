@@ -1,0 +1,98 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0153",
+        "RecordId": "021-000006443",
+        "Name": "Partenia - Roma (Accademia)",
+        "AlternativeName": "Academia Verginale|Academia Parthenia",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemImage": {
+            "ImageId": "54682",
+            "Value": "021-000006443_54682_1.jpg"
+        },
+        "Motto": "Arcanis nodis",
+        "StartDate": "ca1594",
+        "EndDate": "ca1639",
+        "DateText": "ca1594-ca1639",
+        "Notes": "Publications related to this Academy, but not in British Library collections, include: Giulio Negroni (1553-1625), Impresa dell`Accademia Partenia di Roma (1594); Carmina quae ad modos dicta sunt cum Felix ex Marchionibus Malaspinis acad. parth. philos. theses (1607); Ephydriadum tusculanarum chori ad modos romanos dicti. Cum sub auspicijs illustriss. principis Petri card. Aldobrandini Petrus Cicilianus academicus Parthenius propositas de universa philosophiaq theses defenderet in Collegio Rom. Societ. Iesu (Zannetti 1613); Theses ex universa philosophia illustrissimo principi Petro. card. Aldobrandino ... inscriptas. Thomas Drallus Varisiensis academicus Parthenius in Coll.o Rom.o Soc. Iesu publice defendit (Zannetti 1613); Ilario Frumenzi, Illustrissimo principi Carolo Medici S.R.E. cardinali magni ducis Etruriae fratri caelestium orbium armoniam dicat Hilarius Frumentius Novocomensis... (Mascardi 1617); Rosa Veralla sive De laudibus Ill.mi principis Fabritii card. Veralli Odae tres. A Martino Tondo acad. parth. dedicatae... (Mascardi 1622); Leone Santi, Eroparthenica; siue Laudes B. Virginis...  (Cavallo, 1634); Certamen lyricum... patrocinante Bernardus Barbi Tridentinus Parthenicae Academiae princeps theologiae laurea insigniretur (Corbelletti, 1639). See Franchi, Impressioni sceniche.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19261",
+                "RecordId": "022-000006444",
+                "Name": "Frumenti,Ilario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19262",
+                "RecordId": "022-000006445",
+                "Name": "Tondi,Martino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19263",
+                "RecordId": "022-000006446",
+                "Name": "Manzoni,Pompeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19264",
+                "RecordId": "022-000006447",
+                "Name": "Ciciliano,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19265",
+                "RecordId": "022-000006448",
+                "Name": "Dralli,Tomaso,,fl.1613",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17315",
+                "RecordId": "022-000004138",
+                "Name": "Landi,Panfilo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19277",
+                "RecordId": "022-000006462",
+                "Name": "Lancellotti,Cesare,,1604 - 1673?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19278",
+                "RecordId": "022-000006463",
+                "Name": "Ricci,Matteo,,1552 - 1610",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20019",
+                "RecordId": "022-000007503",
+                "Name": "Liniewski,Johannes Stephanus ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

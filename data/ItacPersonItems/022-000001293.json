@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15250",
+        "RecordId": "022-000001293",
+        "Surname": "De La Cerda",
+        "Forename": "Antonio Iuan Luis",
+        "Gender": "Male",
+        "PersonalTitle": "Duke of Medinaceli|Duke and Marquis of Alcal\u00e0",
+        "DateText": "1607-1671",
+        "StartDate": "1607",
+        "EndDate": "1671",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Dedicatee",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

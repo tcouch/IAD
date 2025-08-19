@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18994",
+        "RecordId": "022-000006104",
+        "Surname": "Wouters",
+        "Forename": "Gomar",
+        "AlternativeName": {
+            "AlternativeForename": "Gommaro"
+        },
+        "DateText": "1649 - ?",
+        "StartDate": "1649",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "167",
+            "Value": "Flemish"
+        },
+        "Role": "Illustrator",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006641",
+        "WorkId": "000789",
+        "ShortTitle": "Poema Supra Di Lu Vinu",
+        "LongTitle": "Si sia utili o dannusu a li viventi Cantatu ntra l`Accademia di li Etnei Pri lu Carnuvali di l`Annu 1789. Da Giuseppe Leonardi Sicritariu di la stissa Accademia",
+        "ItacAcademyItem": {
+            "AcademyId": "0164",
+            "RecordID": "021-000006597",
+            "Value": "Accademia degli Etnei"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "105",
+            "PublicationPlaceItalianName": "Catania",
+            "PublicationPlaceEnglishName": "Catania",
+            "PublicationPlaceLatinName": "Catana"
+        },
+        "PublicationYear": "1789",
+        "Shelfmark": "1463.i.9.",
+        "Subjects": "Carnival performances",
+        "Language": "Italian|French|Sicilian literary language|English|Spanish|Greek",
+        "Illustration": "Plate|Portrait",
+        "Pagination": "pp. 303",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19392",
+                "RecordID": "022-000006599",
+                "Value": "Leonardi,Giuseppe,,"
+            }
+        },
+        "Notes": "Title page contains some manuscript notes",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19410",
+                "RecordID": "022-000006617",
+                "Value": "Patern\u00f2 Castello,Vincenzo Domenico,Prince,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "19428",
+                "RecordID": "022-000006642",
+                "Value": "Zacco,Antonio (artist),,1747 - 1831"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19422",
+                "RecordID": "022-000006634",
+                "Value": "Pastore,Francesco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54905",
+            "Value": "023-000006641_54905_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "A lu Signuri D. Vincenzu Patern\u00f2 Casteddu principi di lu Biscari protetturi di L`Accademia di li Etnei &c. &c.. Giuseppe Leonardi Sicritariu di la medesima",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19392",
+                        "RecordID": "022-000006599",
+                        "Value": "Leonardi,Giuseppe,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

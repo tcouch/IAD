@@ -1,0 +1,273 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008005",
+        "WorkId": "000912",
+        "ShortTitle": "Historia ecclesiastica gentis Scotorum libri XIX.",
+        "LongTitle": "Qua viri sanctitate, literis, dignitatibus toto orbe illustres, & familiae, et Scotie et in varias urbes transmissae, & praecipue Placentia recensentur. Illustrissimo viro fabio Scoto Plac[entin]o Miceni Com. Dicata. Auctore Thoma Dempstero Scoto I. C. Baron de Muresck Eq. Aur. Bonon. Prof. eminente, et ivi Academia Noctis Evantio",
+        "ItacAcademyItem": {
+            "AcademyId": "0002",
+            "RecordID": "021-000000312",
+            "Value": "Accademia della Notte"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1627",
+        "Shelfmark": "G11729",
+        "Language": "Latin|Italian|Greek",
+        "Pagination": "c.680",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5295",
+                "RecordID": "022-000000343",
+                "Value": "Dempster,Thomas,Baron,c.1579-1625"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5022",
+                    "RecordID": "022-000000024",
+                    "Value": "Montalbani,Ovidio,,1601 - 1671"
+                },
+                {
+                    "PersonId": "7318",
+                    "RecordID": "022-000000905",
+                    "Value": "Boncompagnus,Ludovicus,,"
+                },
+                {
+                    "PersonId": "19906",
+                    "RecordID": "022-000007350",
+                    "Value": "Bonifacio,Baldassarre,Archdeacon of Treviso|Bishop of Capo d`Istria,1585-1659"
+                },
+                {
+                    "PersonId": "7389",
+                    "RecordID": "022-000000976",
+                    "Value": "Gatti,Bassiano,,1562-1642"
+                },
+                {
+                    "PersonId": "15712",
+                    "RecordID": "022-000002243",
+                    "Value": "Bodii,Robert,,"
+                },
+                {
+                    "PersonId": "15721",
+                    "RecordID": "022-000002257",
+                    "Value": "Roderisii ,Simonis,,"
+                },
+                {
+                    "PersonId": "15727",
+                    "RecordID": "022-000002264",
+                    "Value": "Rhodius,Ioannes,,"
+                },
+                {
+                    "PersonId": "15731",
+                    "RecordID": "022-000002270",
+                    "Value": "Thuilius,Johannes,,"
+                },
+                {
+                    "PersonId": "7377",
+                    "RecordID": "022-000000964",
+                    "Value": "Accoramboni,Ottavio,Bishop of Fossombrone,1539-1625"
+                },
+                {
+                    "PersonId": "15569",
+                    "RecordID": "022-000002095",
+                    "Value": "Canossa,,Marquis,"
+                },
+                {
+                    "PersonId": "5016",
+                    "RecordID": "022-000000018",
+                    "Value": "Bombaci,Gasparo,Count,1607-1676"
+                },
+                {
+                    "PersonId": "15559",
+                    "RecordID": "022-000002085",
+                    "Value": "Talbot,William,,?-1634"
+                },
+                {
+                    "PersonId": "15665",
+                    "RecordID": "022-000002191",
+                    "Value": "Ligio,Giovanni,,"
+                },
+                {
+                    "PersonId": "15690",
+                    "RecordID": "022-000002218",
+                    "Value": "Suetono Scozzese,Henrico,,"
+                }
+            ]
+        },
+        "Notes": "There are numerous mistakes in the pagination.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7389",
+                "RecordID": "022-000000976",
+                "Value": "Gatti,Bassiano,,1562-1642"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "6028",
+                "RecordID": "022-000000759",
+                "Value": "Gatti,Oliviero,,1579-1648"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5409",
+                "RecordID": "022-000000419",
+                "Value": "Tebaldini,Nicol\u00f2,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Epigrammata - 1) Barbaries dominam delevit funditus urbem; 2) Tu paralipomenis Thoma prius edita(?) cedant; 3) Seu tenebra Scotiae seu dant obilivia nomen",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19906",
+                            "RecordID": "022-000007350",
+                            "Value": "Bonifacio,Baldassarre,Archdeacon of Treviso|Bishop of Capo d`Istria,1585-1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma - Sidera quot summo sol nocte colorat Olympo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5022",
+                            "RecordID": "022-000000024",
+                            "Value": "Montalbani,Ovidio,,1601 - 1671"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eroas animos avique eterna Britanni",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15712",
+                            "RecordID": "022-000002243",
+                            "Value": "Bodii,Robert,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Non minus augusto genio quam nomine magnus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15721",
+                            "RecordID": "022-000002257",
+                            "Value": "Roderisii ,Simonis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Aras arma foco leges sociosque quiritam",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15727",
+                            "RecordID": "022-000002264",
+                            "Value": "Rhodius,Ioannes,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In eiusdem prematurum obitum - Non erat a nostro tam distans orbis ab orbe",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15731",
+                            "RecordID": "022-000002270",
+                            "Value": "Thuilius,Johannes,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "1) Tres unus olim vidit in coelo dies; 2) In numeros Thoma foetus pro ducis in auras",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7318",
+                            "RecordID": "022-000000905",
+                            "Value": "Boncompagnus,Ludovicus,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "O cari che sembrate afflitti e mesti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7377",
+                            "RecordID": "022-000000964",
+                            "Value": "Accoramboni,Ottavio,Bishop of Fossombrone,1539-1625"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al suo precettore - Quell'arca di dottrina e quella luce",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15569",
+                            "RecordID": "022-000002095",
+                            "Value": "Canossa,,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del sig. Gasparo Bombaci il TARDO Academico della Notte - Chi sia gia' mai che sorvolando saglia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5016",
+                            "RecordID": "022-000000018",
+                            "Value": "Bombaci,Gasparo,Count,1607-1676"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nobil Dempster che tutto il Mondo honori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15559",
+                            "RecordID": "022-000002085",
+                            "Value": "Talbot,William,,?-1634"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L'inclito valor a i fatti egregi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15665",
+                            "RecordID": "022-000002191",
+                            "Value": "Ligio,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ne la dura tempesta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15690",
+                            "RecordID": "022-000002218",
+                            "Value": "Suetono Scozzese,Henrico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Mentre di velo corruttibil cinto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7389",
+                            "RecordID": "022-000000976",
+                            "Value": "Gatti,Bassiano,,1562-1642"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7383",
+        "RecordId": "022-000000970",
+        "Surname": "Aldrovandi",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "DateText": "fl.1630-1668",
+        "StartDate": "fl.1630",
+        "EndDate": "1668",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Joined the Accademia dei Gelati after 1642.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

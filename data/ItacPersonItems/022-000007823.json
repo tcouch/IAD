@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20240",
+        "RecordId": "022-000007823",
+        "Surname": "Vaughan",
+        "Forename": "John",
+        "PersonalTitle": "3rd Earl of Carbery",
+        "DateText": "1639-1713",
+        "StartDate": "1639",
+        "EndDate": "1713",
+        "Nationality": {
+            "NationalityId": "68",
+            "Value": "English"
+        },
+        "Notes": "President of the Royal Society (1686-1689)",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

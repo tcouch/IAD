@@ -1,0 +1,238 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005327",
+        "WorkId": "000660",
+        "ShortTitle": "Trapani",
+        "LongTitle": "In Una Brieve Descrittione Tratta Fuori Del Compendio di cinque antiche Citt\u00e0 di Sicilia, Del R. Don Leonardo Orlandini Dottore, e Canonico reale nel Duomo di Palermo, Insieme con un Cantico Spirituale alla Regina del Cielo.\nDonati Al R.P.M. Egidio Honesti Carmelitano",
+        "ItacAcademyItem": {
+            "AcademyId": "0114",
+            "RecordID": "021-000005234",
+            "Value": "Accademia degli Accesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1605",
+        "DedicationPlaceDate": "Palermo 10 April 1602",
+        "Shelfmark": "172.b.31.",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 83",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18256",
+                "RecordID": "022-000005253",
+                "Value": "Orlandini,Leonardo,,1552 - 1618"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18318",
+                    "RecordID": "022-000005330",
+                    "Value": "Ab Alexandro,Franciscus,Canon,"
+                },
+                {
+                    "PersonId": "18319",
+                    "RecordID": "022-000005331",
+                    "Value": "Liccus ,Gaspar,,1549 - 1619"
+                },
+                {
+                    "PersonId": "18323",
+                    "RecordID": "022-000005335"
+                },
+                {
+                    "PersonId": "18321",
+                    "RecordID": "022-000005333",
+                    "Value": "Salerno,Francesco,,"
+                },
+                {
+                    "PersonId": "18303",
+                    "RecordID": "022-000005311",
+                    "Value": "Cimino,Leonardo,,"
+                },
+                {
+                    "PersonId": "18325",
+                    "RecordID": "022-000005337",
+                    "Value": "Corsi,Raffaello,,"
+                },
+                {
+                    "PersonId": "18317",
+                    "RecordID": "022-000005329",
+                    "Value": "Pellicano,Paolo,Archdeacon of Palermo,"
+                },
+                {
+                    "PersonId": "18324",
+                    "RecordID": "022-000005336",
+                    "Value": "Chaggio,Francesco,,"
+                },
+                {
+                    "PersonId": "18326",
+                    "RecordID": "022-000005338",
+                    "Value": "Milanes Dattilo,Hieronimo,,"
+                },
+                {
+                    "PersonId": "18272",
+                    "RecordID": "022-000005269",
+                    "Value": "la Farina,Vincenzo,Baron of Aspromonte,"
+                }
+            ]
+        },
+        "Notes": "For another edition of this work see BL catalogue (shelfmark: 664.a.15.).",
+        "CensorsAgreement": "Con Licenza de` Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18316",
+                "RecordID": "022-000005328",
+                "Value": "Honesti,Egidio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18300",
+                "RecordID": "022-000005307",
+                "Value": "de Franceschi,Giovanni Antonio,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Incerti Auctoris Viri Religiosi Admodum R. P. M. Egidio Honesto.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18327",
+                            "RecordID": "022-000005339",
+                            "Value": "Incerti Auctoris,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Francisci Ab Alexandro Doctoris Theologi, & Canonici Panormitani",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18318",
+                            "RecordID": "022-000005330",
+                            "Value": "Ab Alexandro,Franciscus,Canon,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Gasparis Licchi Doct. Theologi, atq; Aecclesiae S. Iacobi Parochi.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18319",
+                            "RecordID": "022-000005331",
+                            "Value": "Liccus ,Gaspar,,1549 - 1619"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Don Viti Sorbae Sacerdotis Drepanitae",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18323",
+                            "RecordID": "022-000005335",
+                            "Value": "Sorbo,Vito,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Francisci Salerno Theologi Presbyteri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18321",
+                            "RecordID": "022-000005333",
+                            "Value": "Salerno,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Leonardi Cimini Panormitae Theologi, atque Philosophi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18303",
+                            "RecordID": "022-000005311",
+                            "Value": "Cimino,Leonardo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Raphaelis Drepanitae Cognomento Corsi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18325",
+                            "RecordID": "022-000005337",
+                            "Value": "Corsi,Raffaello,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Don Paolo Pellicano Archidiacono di Palermo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18317",
+                            "RecordID": "022-000005329",
+                            "Value": "Pellicano,Paolo,Archdeacon of Palermo,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Don Vito Sorbo Sacerdote All`Imagine di Nostra Signora",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18323",
+                            "RecordID": "022-000005335",
+                            "Value": "Sorbo,Vito,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Don Vincenzo La Farina Barone D`Aspromonte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18272",
+                            "RecordID": "022-000005269",
+                            "Value": "la Farina,Vincenzo,Baron of Aspromonte,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Francesco Chaggio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18324",
+                            "RecordID": "022-000005336",
+                            "Value": "Chaggio,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Raffaello Corsi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18325",
+                            "RecordID": "022-000005337",
+                            "Value": "Corsi,Raffaello,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De Hieronimo Dattilo Milanes",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18326",
+                            "RecordID": "022-000005338",
+                            "Value": "Milanes Dattilo,Hieronimo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

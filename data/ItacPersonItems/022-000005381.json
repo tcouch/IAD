@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18364",
+        "RecordId": "022-000005381",
+        "Surname": "Gonzaga",
+        "Forename": "Giulio Cesare",
+        "Gender": "Male",
+        "DateText": "1552/3-1609",
+        "StartDate": "1552/3",
+        "EndDate": "1609",
+        "Nationality": {
+            "NationalityId": "230",
+            "Value": "of San Martino dell`Argine (Mantua)"
+        },
+        "Notes": "Among the founders of the Umoristi, see Russo (1979)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

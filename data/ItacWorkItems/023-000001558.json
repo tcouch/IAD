@@ -1,0 +1,139 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001558",
+        "WorkId": "00100",
+        "ShortTitle": "Lettura del S(ignor) Alessandro Piccolomini Infiammato",
+        "LongTitle": "fatta nell`Accademia degli Infiammati 1541",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1541",
+        "DedicationPlaceDate": "Bologna 25 June 1541 | Padua 7 February 1541",
+        "Shelfmark": "237.h.21 | 832.f.49",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "pp. unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9204",
+                    "RecordID": "022-000001501",
+                    "Value": "Grimaldi,(H)Emmanuele,,"
+                },
+                {
+                    "PersonId": "9205",
+                    "RecordID": "022-000001502",
+                    "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+                },
+                {
+                    "PersonId": "9227",
+                    "RecordID": "022-000001524",
+                    "Value": "Grossi,Marcantonio,,fl.1540-1545"
+                },
+                {
+                    "PersonId": "9206",
+                    "RecordID": "022-000001503",
+                    "Value": "Varchi,Benedetto,,1503 - 1565"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9200",
+                    "RecordID": "022-000001497",
+                    "Value": "Orsini,Leone,Bishop of Frejus,1512 - 1564"
+                },
+                {
+                    "PersonId": "9228",
+                    "RecordID": "022-000001525",
+                    "Value": "Forteguerri,Laudomia,,1515-1555"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9227",
+                "RecordID": "022-000001524",
+                "Value": "Grossi,Marcantonio,,fl.1540-1545"
+            }
+        },
+        "PrinterOrnament": "Z350",
+        "ColophonImage": {
+            "ImageId": "52661",
+            "Value": "023-000001558_52661_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sonnet dedicated to Laudamia Forteguerri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9204",
+                            "RecordID": "022-000001501",
+                            "Value": "Grimaldi, (H)Emmanuele, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`Illustrissimo Leone Orsino vescovo di Fregius",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9205",
+                            "RecordID": "022-000001502",
+                            "Value": "Piccolomini, Alessandro, , 1508-1578"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonnet dedicated to Laudamia Forteguerri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9205",
+                            "RecordID": "022-000001502",
+                            "Value": "Piccolomini, Alessandro, , 1508-1578"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alli studiosi delle cose toscane",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9227",
+                            "RecordID": "022-000001524",
+                            "Value": "da Carpi, Marc` antonio, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonnet dedicated to Laudamia Forteguerri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9206",
+                            "RecordID": "022-000001503",
+                            "Value": "Varchi,Benedetto,,1503 - 1565"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

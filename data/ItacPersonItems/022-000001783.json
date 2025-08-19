@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9647",
+        "RecordId": "022-000001783",
+        "Surname": "Segeth",
+        "Forename": "Thomas",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Segethus"
+            },
+            {
+                "AlternativeSurname": "Segethi"
+            },
+            {
+                "AlternativeSurname": "Segetho"
+            }
+        ],
+        "DateText": "ca.1580-1627",
+        "StartDate": "ca.1580",
+        "EndDate": "1627",
+        "Nationality": {
+            "NationalityId": "62",
+            "Value": "Scottish"
+        },
+        "Notes": "The pupil of Justus Lipsius at Louvain, Segeth went to Padua in 1597, where he was the guest of Giovan Vincenzo Pinelli. In Pinelli`s house, he befriended Galileo, who gave him a copy of his `Sidereus nuncius` to be delivered to Kepler. Segeth joined the Ricovrati in 1600. In the Academy, he delivered a speech in Latin in front of all academicians, on the subject of man`s aim in life. Apparently, his pronunciation was not so clear, however everybody praised his rhetorical skills.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

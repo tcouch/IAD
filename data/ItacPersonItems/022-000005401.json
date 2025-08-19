@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18382",
+        "RecordId": "022-000005401",
+        "Surname": "Rivault",
+        "Forename": "Florence",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "de Flurence",
+            "AlternativeForename": "David Rivault"
+        },
+        "DateText": "1571-1616",
+        "StartDate": "1571",
+        "EndDate": "1616",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Mathematician. Joined the Umoristi in 1610. Last tutor of Louis XIII, see Gravit (1934)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

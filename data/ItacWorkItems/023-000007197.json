@@ -1,0 +1,125 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007197",
+        "WorkId": "000814",
+        "ShortTitle": "Ritratti de celebri personaggi",
+        "LongTitle": "Raccolti nell`Accademia Cosmografica degli Argonauti, dedicati all`illustrissimo, e reverendissimo signore Domenico Federici da Fano, Abbate di San Martino di Waska, Consigliere di Sua Maesta` Cesarea gia` suo segretario, ressidente alla Serenissima Repubblica di Venezia dal P. Maestro Vincenzo Coronelli Minor Conventuale di San Francesco, Publico Cosmografo, e Professore di Geografia",
+        "ItacAcademyItem": {
+            "AcademyId": "0143",
+            "RecordID": "021-000006183",
+            "Value": "Accademia degli Argonauti"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1697",
+        "Shelfmark": "74/561*g15",
+        "Subjects": "Portraits",
+        "Language": "Italian|Latin|Greek|English",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Notes": "Titlepage and frontispiece here digitized.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19773",
+                "RecordID": "022-000007200",
+                "Value": "Federici,Domenico,Abbot,1633-1720"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19029",
+                "RecordID": "022-000006145",
+                "Value": "Coronelli,Vincenzo,,1650-1718"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19785",
+                    "RecordID": "022-000007215",
+                    "Value": "Lamberti,Ludovico,,"
+                },
+                {
+                    "PersonId": "19803",
+                    "RecordID": "022-000007238"
+                },
+                {
+                    "PersonId": "19804",
+                    "RecordID": "022-000007239"
+                },
+                {
+                    "PersonId": "19805",
+                    "RecordID": "022-000007240"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19786",
+                    "RecordID": "022-000007216",
+                    "Value": "Dalla Via,Alessandro,,fl.1690-1720"
+                },
+                {
+                    "PersonId": "16175",
+                    "RecordID": "022-000002796",
+                    "Value": "Piccini,Isabella,Nun,1646 - 1732"
+                },
+                {
+                    "PersonId": "5200",
+                    "RecordID": "022-000000194",
+                    "Value": "Portio,Aniello,,fl. 1686-1707"
+                },
+                {
+                    "PersonId": "19804",
+                    "RecordID": "022-000007239",
+                    "Value": "Bombelli,Sebastianus,,"
+                },
+                {
+                    "PersonId": "19805",
+                    "RecordID": "022-000007240",
+                    "Value": "Iuster,Joseph,,"
+                },
+                {
+                    "PersonId": "19803",
+                    "RecordID": "022-000007238",
+                    "Value": "Heiss,Elias Christoph,,ca.1670 - ?"
+                },
+                {
+                    "PersonId": "19469",
+                    "RecordID": "022-000006689",
+                    "Value": "van Westerhout,Arnold,,1651-1725"
+                },
+                {
+                    "PersonId": "19029",
+                    "RecordID": "022-000006145",
+                    "Value": "Coronelli,Vincenzo,,1650-1718"
+                },
+                {
+                    "PersonId": "20608",
+                    "RecordID": "022-000008390",
+                    "Value": "Pizzati,Mattia,,17th c.-18th c."
+                },
+                {
+                    "PersonId": "20609",
+                    "RecordID": "022-000008391",
+                    "Value": "Palazzi,Giovanni,,fl.1685-1698"
+                }
+            ]
+        },
+        "TitlePageImage": {
+            "ImageId": "54929",
+            "Value": "023-000007197_54929_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54930",
+            "Value": "023-000007197_54930_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

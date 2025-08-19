@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18160",
+        "RecordId": "022-000005128",
+        "Surname": "Della Valle",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "a Valle",
+            "AlternativeForename": "Petrus"
+        },
+        "DateText": "1586-1652",
+        "StartDate": "1586",
+        "EndDate": "1652",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Also called Il Pellegrino. In 1633 he delivered the following presentation to the Umoristi Academy: `Di tre nuove maniere di verso sdrucciolo` (which was published in Rome by Facciotto, in 1634)",
+        "Role": "Contributor|Dedicatee|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

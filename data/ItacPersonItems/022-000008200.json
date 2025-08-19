@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20470",
+        "RecordId": "022-000008200",
+        "Surname": "Manara",
+        "Forename": "Curzio",
+        "DateText": "ca.1600-1650/52",
+        "StartDate": "ca.1600",
+        "EndDate": "1650/52",
+        "Nationality": {
+            "NationalityId": "99",
+            "Value": "of Cremona"
+        },
+        "Notes": "Priest, architect, set designer, and stagehand. On his biography and his Discordati Academy, see Sergio Monaldini, `Manara, Curzio`, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

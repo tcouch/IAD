@@ -1,0 +1,56 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000292",
+        "WorkId": "00013",
+        "ShortTitle": "Filarmindo favola pastorale",
+        "LongTitle": "del Rugginoso Gelato il conte Ridolfo Campeggi",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1605",
+        "DedicationPlaceDate": "Bologna 30 October 1605",
+        "Shelfmark": "1487.e.7",
+        "Subjects": "Pastoral tale",
+        "Language": "Italian",
+        "Pagination": "pp. 177",
+        "Marginalia": "No",
+        "Edition": "1st edn",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5039",
+                "RecordID": "022-000000041",
+                "Value": "Campeggi,Ridolfo,Count,1565-1624"
+            }
+        },
+        "CensorsAgreement": "Con privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5002",
+                "RecordID": "022-000000004",
+                "Value": "Facchinetti,Antonio,Cardinal,1575-1606"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,c. 1564-c. 1635"
+            }
+        },
+        "PrinterOrnament": "MAR.T.E. Id number 804",
+        "TitlePageImage": {
+            "ImageId": "52704",
+            "Value": "023-000000292_52704_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

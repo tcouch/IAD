@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9206",
+        "RecordId": "022-000001503",
+        "Surname": "Varchi",
+        "Forename": "Benedetto",
+        "DateText": "1503 - 1565",
+        "StartDate": "1503",
+        "EndDate": "1565",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Also among the founders of Accademia degli Umidi in Florence. On Varchi`s life and cultural context, see Umberto Pirotti, Benedetto Varchi e la cultura del suo tempo (Florence, 1971). Varchi mentions lecturing on Aristotle`s Nichomachean Ethics to the Infiammati in his correspondence with Piero Vettori, BL, Add. MS 10273, f. 222.",
+        "Role": "Author|Contributor",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

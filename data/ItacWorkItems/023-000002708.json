@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002708",
+        "WorkId": "000341",
+        "ShortTitle": "La Messalina di Francesco Pona.",
+        "LongTitle": "All`Illustrissimo Sig. Gio. Francesco Loredano Nobile Veneto.",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Incogniti (Accademia degli) - Venezia"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "57",
+            "PublicationPlaceItalianName": "Parigi",
+            "PublicationPlaceEnglishName": "Paris",
+            "PublicationPlaceLatinName": "Parisium"
+        },
+        "PublicationYear": "1633?",
+        "DedicationPlaceDate": "Di Verona 25 novembre 1633",
+        "Shelfmark": "G10103",
+        "Subjects": "Short story (Novella)",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20107",
+                "RecordID": "022-000007609",
+                "Value": "Pona,Francesco,,1594-1655"
+            }
+        },
+        "Notes": "This is part of the following volume: La Lucerna di Eureta Misoscolo aggiuntovi la Messalina di Francesco Pona. In Parigi. The British Library Integrated catalogue gives 1630 as the date of publication. \nBoth Pona`s dedication and printer`s forward in Messalina, are the same as in previous editions.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17761",
+                "RecordID": "022-000004663",
+                "Value": "Loredan,Gianfrancesco,,1607-1661"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55270",
+            "Value": "023-000002708_55270_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

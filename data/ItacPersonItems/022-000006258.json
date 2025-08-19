@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19123",
+        "RecordId": "022-000006258",
+        "Surname": "Ligorio",
+        "Forename": "Pirro",
+        "DateText": "ca.1513 - 1583",
+        "StartDate": "ca.1513",
+        "EndDate": "1583",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

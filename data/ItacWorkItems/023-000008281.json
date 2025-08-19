@@ -1,0 +1,991 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008281",
+        "WorkId": "000928",
+        "ShortTitle": "Componimenti volgari, et latini di diversi, et eccellenti autori, in morte di monsignore Hercole Gonzaga, Cardinal di Mantova",
+        "LongTitle": "con la vita del medesimo descritta dall` asciutto, academico invaghito",
+        "ItacAcademyItem": {
+            "AcademyId": "0551",
+            "RecordID": "021-000008268",
+            "Value": "Invaghiti (Mantova) (Accademia degli)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "67",
+            "PublicationPlaceItalianName": "Mantova",
+            "PublicationPlaceEnglishName": "Mantua",
+            "PublicationPlaceLatinName": "Mantua"
+        },
+        "PublicationYear": "1564",
+        "Shelfmark": "11431.c.23",
+        "Subjects": "Theatre|Funeral poems|Biography",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 72",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20529",
+                "RecordID": "022-000008273",
+                "Value": "Castellani,Giulio,,1528-1586"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20529",
+                    "RecordID": "022-000008273",
+                    "Value": "Castellani,Giulio,,1528-1586"
+                },
+                {
+                    "PersonId": "16793",
+                    "RecordID": "022-000003533",
+                    "Value": "Calandra,Silvio,,ca. 1540-1590"
+                },
+                {
+                    "PersonId": "5139",
+                    "RecordID": "022-000000135",
+                    "Value": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593"
+                },
+                {
+                    "PersonId": "15691",
+                    "RecordID": "022-000002219",
+                    "Value": "Pusterla,Giovanni Francesco,,fl. 1560"
+                },
+                {
+                    "PersonId": "20536",
+                    "RecordID": "022-000008282",
+                    "Value": "Pontevico,Silvio,,"
+                },
+                {
+                    "PersonId": "18674",
+                    "RecordID": "022-000005738",
+                    "Value": "Gonzaga,Cesare,Count of Guastalla|Prince of Molfetta|Duke of Ariano,1536-1575"
+                },
+                {
+                    "PersonId": "15695",
+                    "RecordID": "022-000002223",
+                    "Value": "Santini,Stefano,, - 1564"
+                },
+                {
+                    "PersonId": "20538",
+                    "RecordID": "022-000008284",
+                    "Value": "Valenti,Carlo,Marquis,"
+                },
+                {
+                    "PersonId": "20539",
+                    "RecordID": "022-000008285",
+                    "Value": "Andreasi,Alessandro,,"
+                },
+                {
+                    "PersonId": "20540",
+                    "RecordID": "022-000008286",
+                    "Value": "Udine,Ercole,,fl.1564-1598"
+                },
+                {
+                    "PersonId": "20541",
+                    "RecordID": "022-000008287",
+                    "Value": "Alterica,Ippolito,,"
+                },
+                {
+                    "PersonId": "20543",
+                    "RecordID": "022-000008289",
+                    "Value": "Susio,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "20542",
+                    "RecordID": "022-000008288",
+                    "Value": "Nuvoloni,Carlo,Cavalier,"
+                },
+                {
+                    "PersonId": "9194",
+                    "RecordID": "022-000001773",
+                    "Value": "Guazzo,Stefano,,1530-1593"
+                },
+                {
+                    "PersonId": "15688",
+                    "RecordID": "022-000002216",
+                    "Value": "Bonagente,Annibale,,"
+                },
+                {
+                    "PersonId": "20545",
+                    "RecordID": "022-000008291",
+                    "Value": "Leone,Annibale,,"
+                },
+                {
+                    "PersonId": "20546",
+                    "RecordID": "022-000008292",
+                    "Value": "Gaggi,Antonio,,"
+                },
+                {
+                    "PersonId": "5625",
+                    "RecordID": "022-000000695",
+                    "Value": "Tasso,Bernardo,,1493-1569"
+                },
+                {
+                    "PersonId": "20547",
+                    "RecordID": "022-000008293",
+                    "Value": "Cocco,Camillo,,"
+                },
+                {
+                    "PersonId": "20548",
+                    "RecordID": "022-000008294",
+                    "Value": "Malvagia,Cesare,,"
+                },
+                {
+                    "PersonId": "9206",
+                    "RecordID": "022-000001503",
+                    "Value": "Varchi,Benedetto,,1503 - 1565"
+                },
+                {
+                    "PersonId": "16550",
+                    "RecordID": "022-000003259",
+                    "Value": "Domenichi,Lodovico,,1515 - 1564"
+                },
+                {
+                    "PersonId": "16371",
+                    "RecordID": "022-000003036",
+                    "Value": "Battiferri,Laura,,"
+                },
+                {
+                    "PersonId": "20549",
+                    "RecordID": "022-000008295",
+                    "Value": "Accolti,Fabrizio,,"
+                },
+                {
+                    "PersonId": "20550",
+                    "RecordID": "022-000008296",
+                    "Value": "Stradelli,Francesco,,"
+                },
+                {
+                    "PersonId": "20551",
+                    "RecordID": "022-000008297",
+                    "Value": "Bernucci,Gasparo,,"
+                },
+                {
+                    "PersonId": "20562",
+                    "RecordID": "022-000008308",
+                    "Value": "Spini,Gherardo,,"
+                },
+                {
+                    "PersonId": "15473",
+                    "RecordID": "022-000001998",
+                    "Value": "Giraldi Cinzio,Giambattista,,1504-1573"
+                },
+                {
+                    "PersonId": "20552",
+                    "RecordID": "022-000008298",
+                    "Value": "Armenini,Giovanni Evangelista,,16th C."
+                },
+                {
+                    "PersonId": "17694",
+                    "RecordID": "022-000004589",
+                    "Value": "Verdizzotti,Giovanni Mario,,1525-1600"
+                },
+                {
+                    "PersonId": "16013",
+                    "RecordID": "022-000002582",
+                    "Value": "Fenaroli,Girolamo,,fl.1557"
+                },
+                {
+                    "PersonId": "20553",
+                    "RecordID": "022-000008299",
+                    "Value": "Fantuzzi,Ercole,,1550-ca.1600"
+                },
+                {
+                    "PersonId": "20554",
+                    "RecordID": "022-000008300",
+                    "Value": "Urbani,Michele,,"
+                },
+                {
+                    "PersonId": "20555",
+                    "RecordID": "022-000008301",
+                    "Value": "Angeli,Nicola,,1535-1604"
+                },
+                {
+                    "PersonId": "9013",
+                    "RecordID": "022-000001581",
+                    "Value": "Catalano,Pietro,,16th C."
+                },
+                {
+                    "PersonId": "20556",
+                    "RecordID": "022-000008302",
+                    "Value": "Diversi,Pietro Salio,,"
+                },
+                {
+                    "PersonId": "20557",
+                    "RecordID": "022-000008303",
+                    "Value": "Gabrieli,Pietro,,"
+                },
+                {
+                    "PersonId": "20558",
+                    "RecordID": "022-000008304",
+                    "Value": "Zaffardo,Carlo,,"
+                },
+                {
+                    "PersonId": "20559",
+                    "RecordID": "022-000008305",
+                    "Value": "Preti,Dionisio,,"
+                },
+                {
+                    "PersonId": "20563",
+                    "RecordID": "022-000008309",
+                    "Value": "Battaini,Alessandro,,"
+                },
+                {
+                    "PersonId": "20560",
+                    "RecordID": "022-000008306",
+                    "Value": "Capilupi,Ippolito,,1511-1580"
+                },
+                {
+                    "PersonId": "20561",
+                    "RecordID": "022-000008307",
+                    "Value": "Ghisulfo,Giulio,,"
+                },
+                {
+                    "PersonId": "16001",
+                    "RecordID": "022-000002570",
+                    "Value": "Bero`,Marco Tullio,,"
+                },
+                {
+                    "PersonId": "15702",
+                    "RecordID": "022-000002233",
+                    "Value": "Beccatelli,Pomponio,,1540 -"
+                },
+                {
+                    "PersonId": "20564",
+                    "RecordID": "022-000008310",
+                    "Value": "Castellano,C.,,"
+                },
+                {
+                    "PersonId": "20565",
+                    "RecordID": "022-000008311",
+                    "Value": "C.,S.,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "20535",
+                "RecordID": "022-000008280",
+                "Value": "Aldegatti,Ambrogio,Bishop of Casale Monferrato,"
+            }
+        },
+        "CensorsAgreement": "Con licenza del Reverendo padre, Maestro Ambrogio Aldegatti, inquisitore In Mantova",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15038",
+                    "RecordID": "022-000001080",
+                    "Value": "Gonzaga,Ercole,Cardinal,1505-1563"
+                },
+                {
+                    "PersonId": "18674",
+                    "RecordID": "022-000005738",
+                    "Value": "Gonzaga,Cesare,Count of Guastalla|Prince of Molfetta|Duke of Ariano,1536-1575"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9640",
+                "RecordID": "022-000001688",
+                "Value": "Ruffinelli,Giacomo,,fl. 1547-1598"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Vita di Monsignore Hercole Gonzaga, Cardinale di Mantova, all'Illustrissimo et Eccellentiss. S. il S. Cesare Gonzaga, Principe di Melfetta, Duca d'Arriano &c.\nEt Capitano Generale de gli huomini d'Arme del Catholico Re Filippo in Lombardia.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20529",
+                            "RecordID": "022-000008273",
+                            "Value": "Castellani,Giulio,,1528-1586"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Asciutto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20529",
+                            "RecordID": "022-000008273",
+                            "Value": "Castellani,Giulio,,1528-1586"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Illustrissimo Cardinale Gonzaga",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20529",
+                            "RecordID": "022-000008273",
+                            "Value": "Castellani,Giulio,,1528-1586"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A messer Silvio Calandra detto L'Acceso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20529",
+                            "RecordID": "022-000008273",
+                            "Value": "Castellani,Giulio,,1528-1586"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Risposta del signore Acceso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16793",
+                            "RecordID": "022-000003533",
+                            "Value": "Calandra,Silvio,,ca. 1540-1590"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del molto illustre Signor Scipione Gonzaga detto, L'Affannato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5139",
+                            "RecordID": "022-000000135",
+                            "Value": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Giovan Francesco Pusterla detto, L'Affrenato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15691",
+                            "RecordID": "022-000002219",
+                            "Value": "Pusterla,Giovanni Francesco,,fl. 1560"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Silvio Pontevico detto, L'Annebbiato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20536",
+                            "RecordID": "022-000008282",
+                            "Value": "Pontevico,Silvio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Giulio Cesare Gonzaga, detto L'Avilito",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18674",
+                            "RecordID": "022-000005738",
+                            "Value": "Gonzaga,Cesare,Count of Guastalla|Prince of Molfetta|Duke of Ariano,1536-1575"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Stefano Santino detto, il Devoto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15695",
+                            "RecordID": "022-000002223",
+                            "Value": "Santini,Stefano,, - 1564"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del S. Carlo Valenti detto, L'Immobile",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20538",
+                            "RecordID": "022-000008284",
+                            "Value": "Valenti,Carlo,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Alessandro Andreasi detto, L'Impedito",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20539",
+                            "RecordID": "022-000008285",
+                            "Value": "Andreasi,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Hercole Udine detto, L'Incauto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20540",
+                            "RecordID": "022-000008286",
+                            "Value": "Udine,Ercole,,fl.1564-1598"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A M. Giulio Castellani detto, L'Asciutto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20540",
+                            "RecordID": "022-000008286",
+                            "Value": "Udine,Ercole,,fl.1564-1598"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Asciutto Risposta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20529",
+                            "RecordID": "022-000008273",
+                            "Value": "Castellani,Giulio,,1528-1586"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Hippolito Alterica, nominato, L'Instrutto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20541",
+                            "RecordID": "022-000008287",
+                            "Value": "Alterica,Ippolito,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Giovan Battista Susio detto, il Liberato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20543",
+                            "RecordID": "022-000008289",
+                            "Value": "Susio,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Cavaliere Nuvolori, detto il Pacifico",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20542",
+                            "RecordID": "022-000008288",
+                            "Value": "Nuvoloni,Carlo,Cavalier,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Chiesa a Dio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20542",
+                            "RecordID": "022-000008288",
+                            "Value": "Nuvoloni,Carlo,Cavalier,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Stefano Guazzo detto, il Pensoso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9194",
+                            "RecordID": "022-000001773",
+                            "Value": "Guazzo,Stefano,,1530-1593"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Marcello Donato, nominato il Secreto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20537",
+                            "RecordID": "022-000008283",
+                            "Value": "Donato,Marcello,,1538-1602"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Massimo Farroni nominato, lo Svegliato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20544",
+                            "RecordID": "022-000008290",
+                            "Value": "Farroni,Massimo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Annibale Buonagenti, al Scipione Gonzaga",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15688",
+                            "RecordID": "022-000002216",
+                            "Value": "Bonagente,Annibale,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Annibale Lioni",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20545",
+                            "RecordID": "022-000008291",
+                            "Value": "Leone,Annibale,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Antonio Gaggi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20546",
+                            "RecordID": "022-000008292",
+                            "Value": "Gaggi,Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Bernardo Tasso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5625",
+                            "RecordID": "022-000000695",
+                            "Value": "Tasso,Bernardo,,1493-1569"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Camillo Cocco",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20547",
+                            "RecordID": "022-000008293",
+                            "Value": "Cocco,Camillo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Cesare Malvagia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20548",
+                            "RecordID": "022-000008294",
+                            "Value": "Malvagia,Cesare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. C. Castellani",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20564",
+                            "RecordID": "022-000008310",
+                            "Value": "Castellano,C.,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del S. C. A M. Benedetto Varchi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20565",
+                            "RecordID": "022-000008311",
+                            "Value": "C.,S.,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Risposta di M. Benedetto Varchi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9206",
+                            "RecordID": "022-000001503",
+                            "Value": "Varchi,Benedetto,,1503 - 1565"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A M. Lodovico Domenichi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9206",
+                            "RecordID": "022-000001503",
+                            "Value": "Varchi,Benedetto,,1503 - 1565"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Risposta di M. Lodovico Domenichi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16550",
+                            "RecordID": "022-000003259",
+                            "Value": "Domenichi,Lodovico,,1515 - 1564"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla S. Laura Battiferra",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16550",
+                            "RecordID": "022-000003259",
+                            "Value": "Domenichi,Lodovico,,1515 - 1564"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Risposta della S. Laura Battiferra",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16371",
+                            "RecordID": "022-000003036",
+                            "Value": "Battiferri,Laura,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Fabritio Accolti alla Signora Portia d'Angulo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20549",
+                            "RecordID": "022-000008295",
+                            "Value": "Accolti,Fabrizio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A M. Lodovico Domenichi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20549",
+                            "RecordID": "022-000008295",
+                            "Value": "Accolti,Fabrizio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Risposta di M. Lodovico Domenichi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16550",
+                            "RecordID": "022-000003259",
+                            "Value": "Domenichi,Lodovico,,1515 - 1564"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Francesco Stradelli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20550",
+                            "RecordID": "022-000008296",
+                            "Value": "Stradelli,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Gasparo Bernucci",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20551",
+                            "RecordID": "022-000008297",
+                            "Value": "Bernucci,Gasparo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Gherardo Spini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20562",
+                            "RecordID": "022-000008308",
+                            "Value": "Spini,Gherardo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Giovan Battista Giraldi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15473",
+                            "RecordID": "022-000001998",
+                            "Value": "Giraldi Cinzio,Giambattista,,1504-1573"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Giovanni Evangelista Armenini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20552",
+                            "RecordID": "022-000008298",
+                            "Value": "Armenini,Giovanni Evangelista,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Giovan Mario Verdizotti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17694",
+                            "RecordID": "022-000004589",
+                            "Value": "Verdizzotti,Giovanni Mario,,1525-1600"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Girolamo Fenaruolo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16013",
+                            "RecordID": "022-000002582",
+                            "Value": "Fenaroli,Girolamo,,fl.1557"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al S. Scipion Gonzaga",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16013",
+                            "RecordID": "022-000002582",
+                            "Value": "Fenaroli,Girolamo,,fl.1557"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Hercole Fantucci",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20553",
+                            "RecordID": "022-000008299",
+                            "Value": "Fantuzzi,Ercole,,1550-ca.1600"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Lodovico Domenichi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16550",
+                            "RecordID": "022-000003259",
+                            "Value": "Domenichi,Lodovico,,1515 - 1564"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Michele Urbani",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20554",
+                            "RecordID": "022-000008300",
+                            "Value": "Urbani,Michele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Nicola Angioli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20555",
+                            "RecordID": "022-000008301",
+                            "Value": "Angeli,Nicola,,1535-1604"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Pietro Catalani",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9013",
+                            "RecordID": "022-000001581",
+                            "Value": "Catalano,Pietro,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Pietro Salio Diversi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20556",
+                            "RecordID": "022-000008302",
+                            "Value": "Diversi,Pietro Salio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Pietro Gabrieli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20557",
+                            "RecordID": "022-000008303",
+                            "Value": "Gabrieli,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Caesari Gonzagae, Melfitensium Principi, ac Arrianorum Duci &c. gravis'q; armaturae equitum Philippi, Hispanorum Regis, in Cisalpina Gallia Praefecto, Iulius Castellanus. S.D.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20529",
+                            "RecordID": "022-000008273",
+                            "Value": "Castellani,Giulio,,1528-1586"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Iulii Castellanii, Academici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20529",
+                            "RecordID": "022-000008273",
+                            "Value": "Castellani,Giulio,,1528-1586"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alexandri Andreasii, Academici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20539",
+                            "RecordID": "022-000008285",
+                            "Value": "Andreasi,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Caroli Zaffardi Academici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20558",
+                            "RecordID": "022-000008304",
+                            "Value": "Zaffardo,Carlo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dionyssi Preti, Academici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20559",
+                            "RecordID": "022-000008305",
+                            "Value": "Preti,Dionisio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Hippolyti Altericae Academici. Ad Dionysium Pretum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20541",
+                            "RecordID": "022-000008287",
+                            "Value": "Alterica,Ippolito,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Silvii Pontevici, Academici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20536",
+                            "RecordID": "022-000008282",
+                            "Value": "Pontevico,Silvio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Stephani Guazzi, Academici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9194",
+                            "RecordID": "022-000001773",
+                            "Value": "Guazzo,Stefano,,1530-1593"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alexandri Battaini Virgiliocento",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20563",
+                            "RecordID": "022-000008309",
+                            "Value": "Battaini,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Hippolyti Capilupi, Fanensium Episcopi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20560",
+                            "RecordID": "022-000008306",
+                            "Value": "Capilupi,Ippolito,,1511-1580"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ioannis Baptistae Gyraldi Cynthii",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15473",
+                            "RecordID": "022-000001998",
+                            "Value": "Giraldi Cinzio,Giambattista,,1504-1573"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Iulii Ghisulfi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20561",
+                            "RecordID": "022-000008307",
+                            "Value": "Ghisulfo,Giulio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ludovici Domenichi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16550",
+                            "RecordID": "022-000003259",
+                            "Value": "Domenichi,Lodovico,,1515 - 1564"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Marci Tullii Beroi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16001",
+                            "RecordID": "022-000002570",
+                            "Value": "Bero`,Marco Tullio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Petri Gabriellii",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20557",
+                            "RecordID": "022-000008303",
+                            "Value": "Gabrieli,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Pomponii Becatelli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15702",
+                            "RecordID": "022-000002233",
+                            "Value": "Beccatelli,Pomponio,,1540 -"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

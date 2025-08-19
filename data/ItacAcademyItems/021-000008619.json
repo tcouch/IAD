@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0594",
+        "RecordId": "021-000008619",
+        "Name": "Incatenati (Accademia degli)",
+        "City": {
+            "CityId": "64",
+            "CityItalianName": "Verona",
+            "CityEnglishName": "Verona",
+            "CityLatinName": "Veronae"
+        },
+        "EmblemDescription": "A golden chain",
+        "StartDate": "?",
+        "EndDate": "1543",
+        "DateText": "? - 1543",
+        "Notes": "The Incatenati appears to be the first Veronese academy. Merged with the Filarmonica academy in 1543. \nAccording to Giuseppe Biadego, the Incatenati merged with the Filarmonica academy in 1563. See Giuseppe Biadego, Dissertazione sulle accademie veronesi in Atti e memorie dell`accademia d`agricoltura, scienze, lettere, arti e commercio, Verona, 1903.",
+        "ItacPersonItem": {
+            "PersonId": "20788",
+            "RecordId": "022-000008620",
+            "Name": "Dionisi,Dionisio,,? -?",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

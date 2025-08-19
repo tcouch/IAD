@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18422",
+        "RecordId": "022-000005444",
+        "Surname": "Fortunio",
+        "Forename": "Giacinto",
+        "AlternativeName": {
+            "AlternativeSurname": "Fortunius",
+            "AlternativeForename": "Hyacinthus Maria"
+        },
+        "DateText": "? - 1671",
+        "StartDate": "?",
+        "EndDate": "1671",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a detailed biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 295-296 (BL Shelfmark:610.m.10.)",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

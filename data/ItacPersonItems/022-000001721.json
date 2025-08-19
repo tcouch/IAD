@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9114",
+        "RecordId": "022-000001721",
+        "Surname": "Reichelt",
+        "Forename": "Iulius",
+        "DateText": "1637 - 1717",
+        "StartDate": "1637",
+        "EndDate": "1717",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Joined the Ricovrati in 1678. Dates according to `Isis History of Science Bibliographic Resources`.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

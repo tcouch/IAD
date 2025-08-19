@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0145",
+        "RecordId": "021-000006197",
+        "Name": "Sterili (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "before1648",
+        "EndDate": "1683",
+        "DateText": "before1648-1683",
+        "Notes": "Hosted in the palace of Michelangelo Brancavalerio, and extinguished after he was appointed Bishop of Alatri",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19075",
+                "RecordId": "022-000006195",
+                "Name": "Brancavalerio,Michelangelo ,Bishop of Alatri,fl.1648-1683",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19076",
+                "RecordId": "022-000006196",
+                "Name": "Rocci,Bernardo,Cardinal,1627 - 1680",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5103",
+                "RecordId": "022-000000100",
+                "Name": "Amadio,Carlo,,fl. 1682 - 86",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

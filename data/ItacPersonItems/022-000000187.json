@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5193",
+        "RecordId": "022-000000187",
+        "Surname": "Facchinetti",
+        "Forename": "Filippo",
+        "AlternativeName": {
+            "AlternativeSurname": "Facheneti"
+        },
+        "PersonalTitle": "Senator",
+        "DateText": "?1608",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "An `idillio` was written on the occasion of his death, and is published in Campeggi Rime 1608 p. 106",
+        "Role": "Contributor|Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005620",
+        "WorkId": "000680",
+        "ShortTitle": "Degli Allori D`Eurota. Poesie di diversi",
+        "LongTitle": "All`Eccellentissimo principe D. camillo Pamphilio raccolte dal cavalier Girolamo Brusoni e dedicate all`Eccellentissima Signora Principessa Donna Olimpia Aldobrandina Pamphili, Parte prima.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0127",
+                "RecordID": "021-000005619",
+                "Value": "Accademia degli Imperfetti"
+            },
+            {
+                "AcademyId": "0126",
+                "RecordID": "021-000005618",
+                "Value": "Accademia degli Anfistili"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1662",
+        "Shelfmark": "11426f93(5)",
+        "Subjects": "Encomiastic poetry",
+        "Language": "Italian",
+        "Pagination": "128",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18574",
+                "RecordID": "022-000005617",
+                "Value": "Colonna,Cesare,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18392",
+                    "RecordID": "022-000005412",
+                    "Value": "Pamphili,Camillo,,"
+                },
+                {
+                    "PersonId": "18391",
+                    "RecordID": "022-000005411",
+                    "Value": "Aldobrandini,Olimpia,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18575",
+                "RecordID": "022-000005621",
+                "Value": "Brusoni,Girolamo,,1614 - 1686"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9633",
+                "RecordID": "022-000001800",
+                "Value": "Valvasense,Franciscus,,fl. 1600-1650"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Lodasi la generosta` magnanima dell`Eccellentissimo Principe D. Camillo Pamphilio sonetto di D. Cesare Colonna. De SS. di Montalbano Fondatore dell`Accademia degli Amphistili e Prencipe di quella de gli Imperfetti nella Sapienza di Roma",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "18574",
+                        "RecordID": "022-000005617",
+                        "Value": "Colonna,Cesare,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

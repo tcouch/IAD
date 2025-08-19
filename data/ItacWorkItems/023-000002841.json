@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002841",
+        "WorkId": "000364",
+        "ShortTitle": "De Motionibus Naturalibus A Gravitate Pendentibus",
+        "LongTitle": "Liber Io: Alphonsi Borrelli In Academia Pisana Matheseos professoris.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "65",
+            "PublicationPlaceItalianName": "Reggio Calabria",
+            "PublicationPlaceEnglishName": "Reggio Calabria",
+            "PublicationPlaceLatinName": "Regio Iulio"
+        },
+        "PublicationYear": "1670",
+        "Shelfmark": "537.c.21.(2.)",
+        "Subjects": "Science",
+        "Language": "Latin",
+        "Illustration": "Woodcut|",
+        "Pagination": "pp. 566",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16209",
+                "RecordID": "022-000002840",
+                "Value": "Borrelli,Giovanni Alfonso,,1608-1679"
+            }
+        },
+        "Notes": "In the preface, the author refers to the Investiganti Academy and its members, after he was invited to demonstrate the experiments that were being conducted in the Cimento Academy in Florence. See Torrini, `L`Accademia degli Investiganti`, p. 875.",
+        "CensorsAgreement": "Superiorum permissu.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16185",
+                "RecordID": "022-000002808",
+                "Value": "Concublet,Andrea,Marquis of Arena,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16210",
+                "RecordID": "022-000002844",
+                "Value": "Ferri,Domenici,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53923",
+            "Value": "023-000002841_53923_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

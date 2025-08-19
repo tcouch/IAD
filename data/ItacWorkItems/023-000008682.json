@@ -1,0 +1,144 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008682",
+        "WorkId": "000996",
+        "ShortTitle": "[Lettere e Concessione]",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "PublicationYear": "1559-1560",
+        "Shelfmark": "John Rylands Aldine Collection 634",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "8 leaves",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20825",
+                    "RecordID": "022-000008683",
+                    "Value": "Farnese,Ranuccio,Cardinal of Naples,1530-1565"
+                },
+                {
+                    "PersonId": "15038",
+                    "RecordID": "022-000001080",
+                    "Value": "Gonzaga,Ercole,Cardinal,1505-1563"
+                },
+                {
+                    "PersonId": "15320",
+                    "RecordID": "022-000001359",
+                    "Value": "Savoia,Emanuele Filiberto,Duke of Savoy,1528-1580"
+                },
+                {
+                    "PersonId": "20826",
+                    "RecordID": "022-000008684",
+                    "Value": "Ciocchi del Monte,Crtistoforo Guidalotti,Patriarch of Alessandria,1484-1564"
+                },
+                {
+                    "PersonId": "9225",
+                    "RecordID": "022-000001522",
+                    "Value": "Madruzzo,Cristoforo,Cardinal,1512-1578"
+                },
+                {
+                    "PersonId": "17255",
+                    "RecordID": "022-000004070",
+                    "Value": "d`Este,Ippolito,Cardinal,1509-1572"
+                },
+                {
+                    "PersonId": "16909",
+                    "RecordID": "022-000003684",
+                    "Value": "Campeggi,Filippo Maria,Bishop of Feltre,1518-1584"
+                }
+            ]
+        },
+        "Notes": "Farnese thanks the Academy for the epistle dedicated to him, and containing many orations of distinguished authors. Farnese also mentions Claudio Aleandro and one M[onsignor?] Silvio. Gonzaga thanks the Academy for the publication dedicated to him. The Duke of Savoy mentions that his ambassador Senator Malopera has reported the Academy`s expression of esteem for the Duke. Cardinal Madruzzo mentions that Abbot Marlupino delivered to him a volume with `versi heroici dei cardinali Sadoleto and Sfondrato frutti di cotesta rara Academia Venetiana alla quale piacque [...] dedicarmeli.` Madruzzo declares to have expressed his gratitude to his friend and academician Luca Contile. D`Este has received from Valerio Faenzi a letter from the Academy and the volume dedicated to him.",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Lettera del Cardinal di Napoli. Roma, 8 giugno 1559",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20825",
+                            "RecordID": "022-000008683",
+                            "Value": "Farnese,Ranuccio,Cardinal of Naples,1530-1565"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Letetra del Cardinal di Mantova. Mantova, 10 Febbraio 1559",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15038",
+                            "RecordID": "022-000001080",
+                            "Value": "Gonzaga,Ercole,Cardinal,1505-1563"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lettera del Duca di Savoia. Nizza, 7 gennaio 1560",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15320",
+                            "RecordID": "022-000001359",
+                            "Value": "Savoia,Emanuele Filiberto,Duke of Savoy,1528-1580"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lettera del cardinal Alessandrino. Roma 13 agosto 15??",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20826",
+                            "RecordID": "022-000008684",
+                            "Value": "Ciocchi del Monte,Crtistoforo Guidalotti,Patriarch of Alessandria,1484-1564"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lettera del Cardinal di Trento. Bressanone, 15 giugno 1559",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9225",
+                            "RecordID": "022-000001522",
+                            "Value": "Madruzzo,Cristoforo,Cardinal,1512-1578"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lettera del Cardinal di Ferrara. Ferrara, 19 febbraio, 1559",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17255",
+                            "RecordID": "022-000004070",
+                            "Value": "d`Este,Ippolito,Cardinal,1509-1572"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Concessione del Medesimo [Filippo Maria Campeggi]. Venezia, 28 novembre 1560",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16909",
+                            "RecordID": "022-000003684",
+                            "Value": "Campeggi,Filippo Maria,Bishop of Feltre,1518-1584"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Letetra di Monsignor di Feltre. Bologna, 6 novembre 1560",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16909",
+                            "RecordID": "022-000003684",
+                            "Value": "Campeggi,Filippo Maria,Bishop of Feltre,1518-1584"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

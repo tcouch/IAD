@@ -1,0 +1,165 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006279",
+        "WorkId": "000738",
+        "ShortTitle": "Istoria e dimostrazioni intorno alle macchie solari e loro accidenti",
+        "LongTitle": "comprese in tre lettere scritte all`illustrissimo signor Marco Velseri Linceo duumviro d`Augusta consigliero di sua Maesta` Cesarea dal signor Galileo Galilei Linceo. Nobil Fiorentino, Filosofo, e Matematico Primario del Sereniss. D. Cosimo II. Gran Duca di Toscana",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1613",
+        "DedicationPlaceDate": "Roma 3 January 1613",
+        "Shelfmark": "C193b14(1)",
+        "Subjects": "Astronomy",
+        "Language": "Italian",
+        "Pagination": "164",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9018",
+                "RecordID": "022-000001586",
+                "Value": "Galilei,Galileo,,1564 - 1642"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19128",
+                    "RecordID": "022-000006265",
+                    "Value": "Welser,Marc,,1558 - 1614"
+                },
+                {
+                    "PersonId": "19127",
+                    "RecordID": "022-000006264",
+                    "Value": "Valerio,Luca,,"
+                },
+                {
+                    "PersonId": "19135",
+                    "RecordID": "022-000006272",
+                    "Value": "Faber,Joannes,,1574 - 1629"
+                },
+                {
+                    "PersonId": "15230",
+                    "RecordID": "022-000001273",
+                    "Value": "Stelluti,Francesco,,"
+                }
+            ]
+        },
+        "Notes": "Images include title page, and one page sample.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15212",
+                    "RecordID": "022-000001254",
+                    "Value": "Fidelis,Caesar,,"
+                },
+                {
+                    "PersonId": "18184",
+                    "RecordID": "022-000005163",
+                    "Value": "Ystella,Ludovicus,,"
+                },
+                {
+                    "PersonId": "19142",
+                    "RecordID": "022-000006281",
+                    "Value": "Butius,Antonius,,"
+                },
+                {
+                    "PersonId": "18185",
+                    "RecordID": "022-000005164",
+                    "Value": "Pallavicinus ,Thomas,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverendiss. P. M. Sacri Palatii Apost. Cesar Fidelis Vicesregens. Ex ordine Reverendissimi P. Magistri Sacri Palatii Apostolici F. Ludovici Ystella Valentini tres Epistolas de Maculis Solaribus Perillustris et Excellentiss. D. Galilei de Galileis ad Illustrissimum D. Marcum Velserum Augustae Vind. Duumvirum Praefectum scriptas diliogenter vidi, quas cum nihil, quod sacri Indicis regulis repugnet, immoraram doctrinam, novas, ac mirabiles observationes hucusque incognitas, inauditasque facili, ac perpolito stilo explicatas continere invenerim, typis dignissimas indicavi in fidem propria manu scripsi. Romae die 4 Novembris 1612. Antonius Butius Faventinus Civis Romanus, Philosophiae ac Medicinae Doctor. Imprimatur, Fr. Thomas Pallavicinus Bonon. Mag. et Reverendissimi P. F. Ludovici Ystellae Sacri Palatii Apost. Magistri Socius, ord. Praedicatiorum",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19130",
+                "RecordID": "022-000006267",
+                "Value": "Salviati,Filippo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19141",
+                "RecordID": "022-000006280",
+                "Value": "de Filiis,Angelo,,1583 - 1624?"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "19143",
+                "RecordID": "022-000006282",
+                "Value": "Villamena,Francesco,,1564 - 1624"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17441",
+                "RecordID": "022-000004300",
+                "Value": "Mascardi,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54613",
+            "Value": "023-000006279_54613_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54614",
+            "Value": "023-000006279_54614_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Dum radio, Galilaee, tuo Celum omne retectum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19127",
+                            "RecordID": "022-000006264",
+                            "Value": "Valerio,Luca,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Non tibi Daedaleis opus est Galilaee volanti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19135",
+                            "RecordID": "022-000006272",
+                            "Value": "Faber,Joannes,,1574 - 1629"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Son, Galileo, tuoi pregi si` possenti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15230",
+                            "RecordID": "022-000001273",
+                            "Value": "Stelluti,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "[Prima - seconda - terza lettera a Galileo Galilei]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19128",
+                            "RecordID": "022-000006265",
+                            "Value": "Welser,Marc,,1558 - 1614"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

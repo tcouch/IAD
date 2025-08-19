@@ -1,0 +1,85 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006526",
+        "WorkId": "000780",
+        "ShortTitle": "Historia della Citta di Chieti Metropoli Delle Provincie D`Abruzzo.",
+        "LongTitle": "Divisa in Tre Libri. Ne` quali si f\u00e0 mentione della sua antichit\u00e0, e fundatione de` suoi huomini Illlustri in santit\u00e0 di vita, nelle lettere, e nell`armi, della sua Religione, delle vite de` suoi Vescovi, & Arcivescovi, delle sue Chiese, e Monasterij con l`inscrittioni, & epitaffi, che vi sono, & altre opere pie, che vi si fanno. Scritta dal Dottor Girolamo Nicolino della Citt\u00e0 predetta.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "103",
+            "PublicationPlaceItalianName": "Chieti",
+            "PublicationPlaceEnglishName": "Chieti",
+            "PublicationPlaceLatinName": "Teate"
+        },
+        "PublicationYear": "1647",
+        "Shelfmark": "10131.c.9.",
+        "Subjects": "History of Chieti",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Y",
+        "Pagination": "pp. 267",
+        "Marginalia": "No",
+        "Notes": "P. 62 contains a reference to Marcello Ramignano`s affiliation to the Oziosi academy in Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                },
+                {
+                    "PersonId": "15920",
+                    "RecordID": "022-000002484",
+                    "Value": "Paternus,Placidus,,"
+                },
+                {
+                    "PersonId": "15124",
+                    "RecordID": "022-000001165",
+                    "Value": "De Ianuario,Felix,,"
+                },
+                {
+                    "PersonId": "15238",
+                    "RecordID": "022-000001281",
+                    "Value": "Capiciuslatro,,,"
+                },
+                {
+                    "PersonId": "15923",
+                    "RecordID": "022-000002487",
+                    "Value": "De Soto,,,"
+                },
+                {
+                    "PersonId": "15924",
+                    "RecordID": "022-000002488",
+                    "Value": "Burgos,,,"
+                },
+                {
+                    "PersonId": "15925",
+                    "RecordID": "022-000002489",
+                    "Value": "Martinez,,,"
+                },
+                {
+                    "PersonId": "19332",
+                    "RecordID": "022-000006527",
+                    "Value": "Gizzius,Michael Angelus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "In Congregatione habita coram Reverendissimo Domino Generali Vicario Neapolitano fuit dictum, quod P. Placidus \u00e0 Paterno revideat, & in scriptis referat eidem Congregationi habite sub die 28. Maii 1655. Gregorius Peccerillus.\nOpus hoc, cui titulus, Historia della Citt\u00e0 Metropoli di Chieti Geographic\u00e8, acv chronologic\u00e8 \u00e0 Magnif. V.I.D. Hyeronimo nicolino Thatino loculeter elaboratum perlegi, nihilque in eo reperi, quod bonis moribus adversetur, vel orthodoxiam historiarum varietate refertam non redoleat. Quapropter utpot\u00e8 Teatinae posteritati proficuum, Typis demandari posse censeo. Datum Neap. ex Regali Conventu Sancti Ludovici die 22. Iulii 1655.\nFr. Placidus Paternus \u00e0 Neap. Ord. Minimor. S. T. L. Definit. & Colega Provincialis Dep. \nPotest imprimi si videbitur Reverendiss. Dom. Vic. Gen. iuxta Relationem.\nD. I. de Ianuario.\nImprimatur. Gregorius Peccerillus.\nExcellentissime Domine.\nIussu Excellentiae Vestrae legi Historiam Civit. Theatinae ab V.I.D. Hieronymo Nicolino composit\u00e1, ac omni eruditione, & methodo repletam, cumq; in ea nihil reperii, quod Regali iurisdictione adversetur, imprimi posse diiudico, si aliter Excellentiae Vestrae non videbitur. Neap. die 24. Maii 1654.\nE.V. Deditissimus servuus\nMichael Angelus Gizzius.\nVisa supradicta relatione Imprimatur.\nCapyc. Latro R. De Soto R. Burgos R. Martinez R.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19339",
+                "RecordID": "022-000006534",
+                "Value": "Savio, Honofrio heredi,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54906",
+            "Value": "023-000006526_54906_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

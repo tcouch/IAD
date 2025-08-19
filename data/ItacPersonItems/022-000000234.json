@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5242",
+        "RecordId": "022-000000234",
+        "Surname": "Ragnina",
+        "Forename": "Domenico",
+        "Gender": "Male",
+        "DateText": "1536-1607",
+        "StartDate": "1536",
+        "EndDate": "1607",
+        "Nationality": {
+            "NationalityId": "365",
+            "Value": "of Ragusa of Dalmatia"
+        },
+        "Notes": "Merchant, and poet.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

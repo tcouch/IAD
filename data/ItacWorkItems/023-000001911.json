@@ -1,0 +1,134 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001911",
+        "WorkId": "000267",
+        "ShortTitle": "Melpomene coronata da Felsina",
+        "LongTitle": "Cantate musicali a voce sola, date in luce da` signori compositori bolognesi. Dedicate alli molto illustri signori fratelli Giuseppe Maria e Gio(vanni) Battista Carrati",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia dei Floridi 1615; dei Filomusi 1622; dei Filaschisi 1633; Filarmonica 1666"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1685",
+        "Shelfmark": "A.353",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "pp. 172",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5025",
+                    "RecordID": "022-000000027",
+                    "Value": "Sanuti Pellicani,Giovan Battista,,"
+                },
+                {
+                    "PersonId": "15412",
+                    "RecordID": "022-000001917",
+                    "Value": "Albergati,Pirro,Count,"
+                },
+                {
+                    "PersonId": "15413",
+                    "RecordID": "022-000001918",
+                    "Value": "Passarini,Francesco,Maestro di Cappella,"
+                },
+                {
+                    "PersonId": "15414",
+                    "RecordID": "022-000001919",
+                    "Value": "Perti,Giacomo Antonio,,"
+                },
+                {
+                    "PersonId": "15415",
+                    "RecordID": "022-000001920",
+                    "Value": "Giovanardi,Nicolo`,,"
+                },
+                {
+                    "PersonId": "15416",
+                    "RecordID": "022-000001921",
+                    "Value": "Gherardini,Rinaldo,,"
+                },
+                {
+                    "PersonId": "15417",
+                    "RecordID": "022-000001922",
+                    "Value": "Frabetti,Annibale,,"
+                },
+                {
+                    "PersonId": "15418",
+                    "RecordID": "022-000001923",
+                    "Value": "Tosi,Giuseppe,,"
+                },
+                {
+                    "PersonId": "15419",
+                    "RecordID": "022-000001924",
+                    "Value": "Monari,Bartolomeo,Chapel Master,"
+                },
+                {
+                    "PersonId": "15420",
+                    "RecordID": "022-000001925",
+                    "Value": "Gabrielli,Domenico,,"
+                },
+                {
+                    "PersonId": "15385",
+                    "RecordID": "022-000001880",
+                    "Value": "Colonna,Giovanni  Paolo,,1637-1695"
+                },
+                {
+                    "PersonId": "15421",
+                    "RecordID": "022-000001926",
+                    "Value": "Arresti,Giulio Cesare,Chapel Master,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15408",
+                    "RecordID": "022-000001913",
+                    "Value": "Conturbius,Fabricius,,"
+                },
+                {
+                    "PersonId": "5231",
+                    "RecordID": "022-000000223",
+                    "Value": "Musotto,Ioseph.,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Editor`s Protesta: Se per avventura (qualunque tu ti sii) incontrerai le parole Idolo, Fato, Destino, Dei, Adorare, e simili; sappi che gli Autori non vanneggiano con gli Ethnici, ma credono con li Cattolici, quali piu` per abbellire il Metro, che per altra intentione, si vagliono di queste forme, e se t`abbatti in qualche errore, compatisciolo, come per inavvertenza dello Stampatore trascorso, e vivi felice. \n\nVidit Fabricius Conturbius Clericus Reg. Sancti Pauli, et in Metropolitana Bononiae Paenitentiarius, pro Illustrissimo, et Reverendissimo D.D. Ioseph Musotto Vic. Cap. Imprimatur. Inquisitor Bononiae.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15409",
+                    "RecordID": "022-000001914",
+                    "Value": "Carrati,Giuseppe Maria,,"
+                },
+                {
+                    "PersonId": "15411",
+                    "RecordID": "022-000001916",
+                    "Value": "Carrati,Giovanni Battista,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15407",
+                "RecordID": "022-000001912",
+                "Value": "Silvani,Marino,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

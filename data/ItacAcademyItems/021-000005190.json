@@ -1,0 +1,74 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0112",
+        "RecordId": "021-000005190",
+        "Name": "Stella (Accademia della)",
+        "AlternativeName": "Accademia dei Cavalieri della Stella",
+        "City": {
+            "CityId": "82",
+            "CityItalianName": "Messina",
+            "CityEnglishName": "Messina",
+            "CityLatinName": "Messana"
+        },
+        "EmblemImage": {
+            "ImageId": "54526",
+            "Value": "021-000005190_54526_1.jpg"
+        },
+        "StartDate": "1595",
+        "EndDate": "1647",
+        "DateText": "1595-1647",
+        "Notes": "Maylender dates the foundation of the Stella Academy to the 1640s (Vol. V, p. 260)\nAccording to Placido Samperi the said Academy was founded in December 1595. See Iconologia della Gloriosa Vergine, Messina, 1644, (British Library Shelfmark: 664.e.8.).\nAccording to Giuseppe Buonfiglio e Costanzo, the Stella Academy was founded on the 6th of December 1595. See Dell`Historia Siciliana, Venice, 1604, (British Library Shelfmark: 1057.k.14.).\nFor a further reference to the Stella academy see Antonino Ansalone, Il Torneo \u00e0 piede,discorso, nel quale si raggiona con quanta magnificenza si sia combattuto nella sbarra da` Signori Cavalieri della Stella nell`anno 1637, Messina, Eredi Brea, 1637.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18210",
+                "RecordId": "022-000005192",
+                "Name": "di Bologna,Vincenzo,Marquis of Marineo,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18211",
+                "RecordId": "022-000005193",
+                "Name": "de Ribera,Affan,Marquis of Tarifa,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18212",
+                "RecordId": "022-000005194",
+                "Name": "de Ribera,Enriquez,Marquis of Tarifa,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18213",
+                "RecordId": "022-000005195",
+                "Name": "Marullo,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18226",
+                "RecordId": "022-000005209",
+                "Name": "Cirino,Marcello,Baron of San Basilio,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20316",
+                "RecordId": "022-000007973",
+                "Name": "Ansalone,Antonino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

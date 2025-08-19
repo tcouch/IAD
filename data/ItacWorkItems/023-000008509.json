@@ -1,0 +1,75 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008509",
+        "WorkId": "000960",
+        "ShortTitle": "Anticupido",
+        "LongTitle": "Orazione scherzante, recitata, ne`sollazzevoli giorni di Carnovale, Nell` Accademia de gl`Intrepidi, Contra il maligno Spirito, che con mentito nome chiamasi Amore",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1610",
+        "DedicationPlaceDate": "Ferrara",
+        "Shelfmark": "1608/814",
+        "Subjects": "Oration",
+        "Language": "Italian",
+        "Pagination": "pp. 44",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18365",
+                "RecordID": "022-000005383",
+                "Value": "Guarini,Alessandro,,1563-1636"
+            }
+        },
+        "Notes": "Included in Alessandro Guarini, Prose (Ferrara: V. Baldini, 1611).",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20697",
+                    "RecordID": "022-000008506",
+                    "Value": "Levaloro,Gasparo,Canon,"
+                },
+                {
+                    "PersonId": "20698",
+                    "RecordID": "022-000008508",
+                    "Value": "Scarella,Giovanni Battista,Friar,"
+                },
+                {
+                    "PersonId": "20441",
+                    "RecordID": "022-000008165",
+                    "Value": "Camp.,D.,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Ego Gaspar Levalorius Canon. Theologus vidi, & legi suprascriptam Orationem adm. Illustr. D. D. Alexandri Guarini nihilq; mihi in ea occurrit, quod catholicae fidei, bonisque moribus repugnet quare in lucem edi posse censeo.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20699",
+                "RecordID": "022-000008510",
+                "Value": "Lupi,Isabella,Marchioness of Soragna,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "PrinterOrnament": "U656",
+        "TitlePageImage": {
+            "ImageId": "55347",
+            "Value": "023-000008509_55347_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

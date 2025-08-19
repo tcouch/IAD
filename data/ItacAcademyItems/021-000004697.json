@@ -1,0 +1,79 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0092",
+        "RecordId": "021-000004697",
+        "Name": "Martiraniana (Accademia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1530s",
+        "EndDate": "1555",
+        "DateText": "1530s-1555",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17219",
+                "RecordId": "022-000004034",
+                "Name": "Rota,Bernardino ,,1508 - 1575",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16499",
+                "RecordId": "022-000003185",
+                "Name": "Ruscelli,Girolamo,,1504 - 1566",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17791",
+                "RecordId": "022-000004698",
+                "Name": "Martirano ,Bernardino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17792",
+                "RecordId": "022-000004699",
+                "Name": "Nifo,Agostino,,1473 - 1545?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17794",
+                "RecordId": "022-000004701",
+                "Name": "Anisio,Cosmo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17793",
+                "RecordId": "022-000004700",
+                "Name": "Anisio,Giano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17763",
+                "RecordId": "022-000004666",
+                "Name": "Capece ,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54735",
+                    "Value": "022-000004666_54735_2.jpg"
+                }
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

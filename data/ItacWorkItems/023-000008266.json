@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008266",
+        "WorkId": "000926",
+        "ShortTitle": "Vita di Ferrante Pallavicino",
+        "LongTitle": "Scritta da Girolamo Brussoni. L`Aggirato Accademico Incognito",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Incogniti (Accademia degli) - Venezia"
+            },
+            {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Incogniti-Venezia (Accademia degli)"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1654",
+        "Shelfmark": "1080a24",
+        "Subjects": "Biography",
+        "Language": "Italian",
+        "Pagination": "24",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18575",
+                "RecordID": "022-000005621",
+                "Value": "Brusoni,Girolamo,,1614-1686"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16428",
+                "RecordID": "022-000003098",
+                "Value": "Turrini,Antonio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55288",
+            "Value": "023-000008266_55288_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

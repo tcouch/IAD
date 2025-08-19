@@ -1,0 +1,97 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005638",
+        "WorkId": "000684",
+        "ShortTitle": "La Rosa Celeste",
+        "LongTitle": "Discorso Historico Del Dottor D. Vincenzo Auria Palermitano. Dell`Inventione, Vita, e Miracoli Di Santa Rosalia Vergine Palermitana All`Illustrissimo Senato Di Palermo.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1668",
+        "DedicationPlaceDate": "Palermo 15 February 1668",
+        "Shelfmark": "12225.b.5.(7.)",
+        "Subjects": "Hagiography",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 136",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18434",
+                "RecordID": "022-000005457",
+                "Value": "Auria,Vincenzo,,1625 - 1710"
+            }
+        },
+        "Notes": "This text contains various references to members of the Riaccesi Academy in Palermo",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18578",
+                    "RecordID": "022-000005625",
+                    "Value": "Gelosus,,Vicar General,"
+                },
+                {
+                    "PersonId": "18589",
+                    "RecordID": "022-000005639",
+                    "Value": "Daynotto,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Impr. Abbas Gelosus V.G.C.S.V.\nImpr. Daynotto F.P.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18590",
+                    "RecordID": "022-000005640",
+                    "Value": "Branciforte,Francesco,Duke of Santa Lucia|Knight of San Giacomo|Prefect of the Senate of Palermo,"
+                },
+                {
+                    "PersonId": "18592",
+                    "RecordID": "022-000005642",
+                    "Value": "Mont`Aperto ,Stefano,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "18593",
+                    "RecordID": "022-000005643",
+                    "Value": "Galletti,Carlo,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "18594",
+                    "RecordID": "022-000005644",
+                    "Value": "Del Pino,Pietro,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "18595",
+                    "RecordID": "022-000005645",
+                    "Value": "Fardella,Gaspare Maria,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "18596",
+                    "RecordID": "022-000005646",
+                    "Value": "D`Eredia,Giovanni,Senator of Palermo,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18582",
+                "RecordID": "022-000005630",
+                "Value": "de Isola,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54624",
+            "Value": "023-000005638_54624_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

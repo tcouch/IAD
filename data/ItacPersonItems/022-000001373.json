@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15334",
+        "RecordId": "022-000001373",
+        "Surname": "Thourneyser",
+        "Forename": "Johann Jacob",
+        "DateText": "1636-1718",
+        "StartDate": "1636",
+        "EndDate": "1718",
+        "Nationality": {
+            "NationalityId": "63",
+            "Value": "Swiss"
+        },
+        "Role": "Artist|Illustrator",
+        "TypographicReference": "N",
+        "EngraverReference": "Y",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

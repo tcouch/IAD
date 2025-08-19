@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003244",
+        "WorkId": "000430",
+        "ShortTitle": "Progymnasmata Physica",
+        "LongTitle": "Ad Illustriss. & Excellentiss. Dom. D. Marinum Franciscum Caracciolum Abellinatum Principem. His accessere Ejusdem Authoris Opera quaedam Posthuma numquam ante hac edita.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1688",
+        "DedicationPlaceDate": "Naples 1688",
+        "Shelfmark": "1135.g.15.",
+        "Subjects": "Philosophy|Science",
+        "Language": "Latin|Greek",
+        "Illustration": "Engraving|Temple; statues of Philolaus and Timaeus",
+        "Pagination": "pp. 368",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16245",
+                "RecordID": "022-000002892",
+                "Value": "Cornelio,Tommaso,,1614 - 1684"
+            }
+        },
+        "Notes": "In the preface to the reader, Leonardo Di Capua mentions the Investiganti Academy in Naples.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15031",
+                "RecordID": "022-000001073",
+                "Value": "Caracciolo,Francesco Marino,Prince  ,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16142",
+                "RecordID": "022-000002754",
+                "Value": "Di Capua,Leonardo,,1617 - 1695"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16540",
+                "RecordID": "022-000003246",
+                "Value": "Del Po,Teresa,,1646 - 1713"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16216",
+                "RecordID": "022-000002851",
+                "Value": "Raillard,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53628",
+            "Value": "023-000003244_53628_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53630",
+            "Value": "023-000003244_53630_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16366",
+        "RecordId": "022-000003028",
+        "Surname": "Meda",
+        "Forename": "Valerio e fratelli",
+        "DateText": "1550 - 1578",
+        "StartDate": "1550",
+        "EndDate": "1578",
+        "Nationality": {
+            "NationalityId": "76",
+            "Value": "Milanese"
+        },
+        "Notes": "They worked as tupographers for Giovann`Antonio degli Antoni.",
+        "Role": "Printer",
+        "TypographicReference": "Z1199",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

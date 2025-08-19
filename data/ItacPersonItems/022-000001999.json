@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15474",
+        "RecordId": "022-000001999",
+        "Surname": "Busdrago",
+        "Forename": "Vincentio",
+        "AlternativeName": {
+            "AlternativeSurname": "Busdraghi",
+            "AlternativeForename": "Vincenzo"
+        },
+        "DateText": "1516-1601",
+        "StartDate": "1516",
+        "EndDate": "1601",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Active in Lucca 1549-1600.",
+        "Role": "Printer|Editor",
+        "TypographicReference": "U665|U666",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

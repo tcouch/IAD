@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15715",
+        "RecordId": "022-000002246",
+        "Surname": "Ghisi",
+        "Forename": "Adamo",
+        "DateText": "ca.1530-ca.1585",
+        "StartDate": "ca.1530",
+        "EndDate": "ca.1585",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Called `Scultori`",
+        "Role": "Illustrator",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

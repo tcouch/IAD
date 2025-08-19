@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19278",
+        "RecordId": "022-000006463",
+        "Surname": "Ricci",
+        "Forename": "Matteo",
+        "DateText": "1552 - 1610",
+        "StartDate": "1552",
+        "EndDate": "1610",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Jesuit missionary to China. His affiliation to the Accademia Parthenia in Rome, in Bernard, Le Pere Matthieu Ricci et la societe chinoise de son temps (1937)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

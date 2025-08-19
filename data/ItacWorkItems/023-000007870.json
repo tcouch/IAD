@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007870",
+        "WorkId": "000882",
+        "ShortTitle": "Oratione della felicita`, e del sommo bene,",
+        "LongTitle": "del R.P. Faustino Tasso de minori osseruanti, da lui composta, e publicamente recitata in Vinetia nell`Accademia d`Uranici il giorno decimo di Giugno l`anno 1587. Al Sereniss[imo] Principe Pasqual Cicogna, et illustrissima signoria di Venetia. Con privilegio",
+        "ItacAcademyItem": {
+            "AcademyId": "0462",
+            "RecordID": "021-000007865",
+            "Value": "Accademia degli Uranici"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1587",
+        "DedicationPlaceDate": "di s. Francesco della Vigna, di Venezia 30 Luglio 1587",
+        "Shelfmark": "113b34",
+        "Subjects": "Academic discourse",
+        "Language": "Italian",
+        "Pagination": "52",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17837",
+                "RecordID": "022-000004747",
+                "Value": "Tasso,Faustino,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20259",
+                "RecordID": "022-000007866",
+                "Value": "Cicogna,Pasquale,Doge,1509-1595"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18851",
+                "RecordID": "022-000005932",
+                "Value": "Imberti,Domenico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55029",
+            "Value": "023-000007870_55029_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

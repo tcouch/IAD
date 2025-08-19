@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9207",
+        "RecordId": "022-000001504",
+        "Surname": "Tomitano",
+        "Forename": "Bernardino",
+        "DateText": "1517-1576",
+        "StartDate": "1517",
+        "EndDate": "1576",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Portrait from Tomasini, Illustrium virorum elogia (1630)",
+        "Role": "Author",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

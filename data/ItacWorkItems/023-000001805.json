@@ -1,0 +1,42 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001805",
+        "WorkId": "00120",
+        "ShortTitle": "Leggi degli Accademici Ricovrati",
+        "LongTitle": "riformate sotto il principato del signor Alvise Antonio Camposampiero l`anno 1667",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1697",
+        "Shelfmark": "1484.h.12",
+        "Subjects": "Laws of the Academia",
+        "Language": "Italian",
+        "Illustration": "Engraved titlepage | Academy emblem",
+        "Pagination": "pp. 32",
+        "Marginalia": "No",
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Academia dei Ricovrati"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9324",
+                "RecordID": "022-000001681",
+                "Value": "Speraindio,Sebastiano,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

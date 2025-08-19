@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16750",
+        "RecordId": "022-000003486",
+        "Surname": "Degli Orioli",
+        "Forename": "Giovan Battista",
+        "Gender": "Male",
+        "DateText": "fl.1544-1550",
+        "StartDate": "fl.1544",
+        "EndDate": "1550",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Joined the Rozzi in 1544",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18117",
+        "RecordId": "022-000005075",
+        "Surname": "Bovio",
+        "Forename": "Alessandro",
+        "Gender": "Male",
+        "DateText": "fl. 1539-1587",
+        "StartDate": "fl. 1539",
+        "EndDate": "1587",
+        "Nationality": {
+            "NationalityId": "78",
+            "Value": "of Reggio Emilia"
+        },
+        "Notes": "Information on his literary production is in Giovanni Guasco, Storia litteraria del principio e progresso dell\u2019accademia di belle lettere in Reggio ... (1711)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

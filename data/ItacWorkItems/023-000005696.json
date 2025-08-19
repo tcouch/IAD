@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005696",
+        "WorkId": "000691",
+        "ShortTitle": "Raccolta di Rime di Poeti Napoletani",
+        "LongTitle": "Non piu ancora stampate, e dedicate All`Illustriss. ed Eccellentiss. Sig. D. Paolo Di Sangro De` Conti Di Marsi Principe di Sansevero, Duca di Torremaggiore, Marchese di Castelnuovo, Signor di Castelfranco, e c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1701",
+        "Shelfmark": "11431.aa.3.",
+        "Subjects": "Poetry",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 295",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18632",
+                "RecordID": "022-000005686",
+                "Value": "lo Scavuzzo,Luigi,,? - 1688"
+            }
+        },
+        "Notes": "Miscellaneous text containing Luigi Scavuzzo`s Rime; printed in Naples `Nella Nuova Stamparia di Domenico Antonio Parrino \u00e0 Strada Toleto all`Insegna del Salvatore.\nFrontispiece and title page contain manuscript notes in the hand of Lord Sylvester Glenbervie, bought at Florence August? 1815.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16127",
+                    "RecordID": "022-000002736",
+                    "Value": "Siliquinus,Ioannes Andreas,Vicar General,"
+                },
+                {
+                    "PersonId": "16946",
+                    "RecordID": "022-000003734",
+                    "Value": "Giptius,Petrus Maria,Canon,"
+                },
+                {
+                    "PersonId": "18639",
+                    "RecordID": "022-000005697",
+                    "Value": "De Andrea,,Canon,"
+                },
+                {
+                    "PersonId": "18640",
+                    "RecordID": "022-000005698",
+                    "Value": "Casabona,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur.\nJo. Andreas Siliquinus Vic. G.\nD. Petrus Maria Giptius Can. Dep.\nImprimatur.\nDe Andrea Reg. \nCasabona",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18642",
+                "RecordID": "022-000005700",
+                "Value": "di Sangro,Paolo,Prince of Sansevero|Duke of Torremaggiore|Marquis of Castelnuovo,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18641",
+                "RecordID": "022-000005699",
+                "Value": "Acampora,Giovanni,Abbot,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16951",
+                "RecordID": "022-000003739",
+                "Value": "Parrino,Antonio Domenico,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16860",
+        "RecordId": "022-000003621",
+        "Surname": "Marchetti",
+        "Forename": "Salvestro",
+        "DateText": "fl.1594 - 1603",
+        "StartDate": "fl.1594",
+        "EndDate": "1603",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "`Bidello` of the Academy",
+        "Role": "Editor|Publisher|Printer|Contributor",
+        "TypographicReference": "V241 |Z1081",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

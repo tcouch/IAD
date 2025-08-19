@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008784",
+        "WorkId": "001004",
+        "ShortTitle": "Viaggi di Pietro della Valle il pellegrino",
+        "LongTitle": "Viaggi di Pietro della Valle il pellegrino, con minuto ragguaglio di tutte le cose notabili osseruate in essi, descritti da lui medesimo in 54 lettere familiari, da diuersi luoghi della intrapresa pellegrinatione. Mandate in Napoli all`erudito, e fra` pi\u00f9 cari, di molti anni suo amico. Mario Schipano. Diuisi in tr\u00e8 parti, cio\u00e8 la Turchia, la Persia, e l`India, co`l ritorno in patria, et in quest`ultima impressione, aggiuntaui la vita dell`autore. ..",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Umoristi (Accademia degli)"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1672",
+        "Shelfmark": "Newberry Library case G 63 .934",
+        "Subjects": "Travel|Geography",
+        "Language": "Italian",
+        "Pagination": "4vols",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18160",
+                "RecordID": "022-000005128",
+                "Value": "Della Valle,Pietro,,1586-1652"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18160",
+                    "RecordID": "022-000005128",
+                    "Value": "Della Valle,Pietro,,1586-1652"
+                },
+                {
+                    "PersonId": "20917",
+                    "RecordID": "022-000008785",
+                    "Value": "Bonini,Filippo Maria,Abbot,"
+                }
+            ]
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Vita di Pietro Della Valle Il Pellegrino descritta dall'abate Filippo Maria Bonini. Academico Humorista",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20917",
+                            "RecordID": "022-000008785",
+                            "Value": "Bonini,Filippo Maria,Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In loda del Gran Delfino galeon veneto col quale si tragito' in Costantinopoli. Il signor Pietro Della Valle Patrizio Romano. Per la peregrinazione dell'Asia. all'Academia de gli Humoristi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18160",
+                            "RecordID": "022-000005128",
+                            "Value": "Della Valle,Pietro,,1586-1652"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

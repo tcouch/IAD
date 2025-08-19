@@ -1,0 +1,54 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0352",
+        "RecordId": "021-000007191",
+        "Name": "Animosi-Venezia (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Ivy twined round a bay tree",
+        "Motto": "Tenues grandia",
+        "StartDate": "1691",
+        "EndDate": "1711; 1716?",
+        "DateText": "1691-1711; 1716?-?",
+        "Notes": "The Academy was created in Palazzo Morosini, after the Dodonei ceased their activity. Some pre-1700 publications not included in British Library catalogue, are: Il giudicio di Paride su`l monte Ida, intermezzo per musica da cantarsi nell`Accademia de` Signori Animosi di Venezia adi 31 gennaro l`anno 1699 in casa di S.E. il signor Gio: Carlo Grimani:1699; L` accademia sagro-politica. Raunata dal p. maestro, e reggente di Padova il p.f. Gio. Maria Muti domenicano. E dedicata all`illustrissimo, & eccellentissimo signor Gio. Carlo Grimani, In Milano, 1695, which apparently contains discourses read before the Animosi Academy in Venice (according to Maylender, Storia delle Accademie..., I, p. 207).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19770",
+                "RecordId": "022-000007190",
+                "Name": "Zeno,Apostolo,,1669 - 1750",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19771",
+                "RecordId": "022-000007192",
+                "Name": "Grimani,Giovanni Carlo,,1648 - 1714",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20223",
+                "RecordId": "022-000007789",
+                "Name": "Zopelli,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19974",
+                "RecordId": "022-000007433",
+                "Name": "David,Domenico,,1619?-1699",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

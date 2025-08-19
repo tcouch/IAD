@@ -1,0 +1,91 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001453",
+        "WorkId": "00181",
+        "ShortTitle": "La Musa Lirica di Ferdinando Di Donno",
+        "LongTitle": "Divisa in Affetti Platonici | Encomij Amorosi | Amatori Marinareschi | E in Rime Varie.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1620",
+        "DedicationPlaceDate": "Venice 23 June 1620",
+        "Shelfmark": "11429.aa.44.(3.)",
+        "Content": "Poetry | Encomiastic poetry",
+        "Subjects": "Poetry",
+        "Language": "Latin|Italian",
+        "Illustration": "A plate on the title page|snake/human figures; Venus; roses; Cupid; dolphin.",
+        "Pagination": "[16]; 216 pp.",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15050",
+                "RecordID": "022-000001092",
+                "Value": "Di Donno,Ferdinando,,1591-1649"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15368",
+                "RecordID": "022-000001407",
+                "Value": "Centurioni,Lavinio,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15365",
+                "RecordID": "022-000001404",
+                "Value": "Sarzina,Giacomo,,ca.1585-1641"
+            }
+        },
+        "Notes": "On p. 100 the author dedicates a poem to the Oziosi Academy. On p. 101 the author mentions the said Academy.",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "15369",
+                "RecordID": "022-000001408",
+                "Value": "Secchiarus,Ludovicus,,"
+            }
+        },
+        "CensorsAgreement": "Ego Fr. Io. Ludovicus Secchiarus Raven. Sacra Theologia Lector Ordinis Praedicatorum & Commissarius Sanctissima Inquisitionis Venet. Librum hunc carminum vulgari idiomate inscriptum la Musa Lirica di Ferdinando di Donno omni studio quo valui perlegi & cum nihil quod pias aures offendat continere perspexerim praelo dimisi. Venet. die 12. Aprilis 1620",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15367",
+                "RecordID": "022-000001406",
+                "Value": "Bisuti,Gio[vanni] Battista,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5278",
+                "RecordID": "022-000000267",
+                "Value": "Valesio,Giovanni,,1561 - 1640"
+            }
+        },
+        "EngraverReference": "Y",
+        "TitlePageImage": {
+            "ImageId": "55314",
+            "Value": "023-000001453_55314_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "A` Lettori",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15368",
+                        "RecordID": "022-000001407",
+                        "Value": "Centurioni, Lavinio, ,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20259",
+        "RecordId": "022-000007866",
+        "Surname": "Cicogna",
+        "Forename": "Pasquale",
+        "PersonalTitle": "Doge",
+        "DateText": "1509-1595",
+        "StartDate": "1509",
+        "EndDate": "1595",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See his biography by A. Baiocchi, in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

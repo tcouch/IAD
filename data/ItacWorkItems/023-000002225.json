@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002225",
+        "WorkId": "000289",
+        "ShortTitle": "Stephani Sanctini Corneliani",
+        "LongTitle": "Oratio pro Aethereorum Academiae initio Patavij habita Calendis Ianuarijs MDLXIIII. Illustrissimo Scipione Gonzaga Principe",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0025",
+                "RecordID": "021-000002211",
+                "Value": "Accademia degli Eterei"
+            },
+            {
+                "AcademyId": "0025",
+                "RecordID": "021-000002211",
+                "Value": "Eterei (Accademia degli)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1564",
+        "Shelfmark": "12301.d.12",
+        "Language": "Latin",
+        "Pagination": "pp. 23",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15695",
+                "RecordID": "022-000002223",
+                "Value": "Santini,Stefano,, - 1564"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5139",
+                "RecordID": "022-000000135",
+                "Value": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15696",
+                "RecordID": "022-000002226",
+                "Value": "Bevilacqua,Niccolo`,,ca.1515-1573"
+            }
+        },
+        "PrinterOrnament": "A137 - V279 - Z936",
+        "TitlePageImage": {
+            "ImageId": "55258",
+            "Value": "023-000002225_55258_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000843",
+        "WorkId": "00056",
+        "ShortTitle": "Il soldato di M. Domenico Mora Bolognese gentilhuomo Grisone et cavalliere Academico Storditi",
+        "LongTitle": "Nel qual si tratta di tutto quello che ad un vero soldato et nobil cavalliere si conviene sapere et essercitare nel mestiere dell` arme. Et questa secondo l`ordine da noi posto e la quarta Gioia congiunta all`Anella dellanostra Collana historica. All`Illustrissimo et Eccellentissimo Signor il Signor Duca di Parma Piacenza et Castro Gran Confaloniere di Santa Chiesa",
+        "ItacAcademyItem": {
+            "AcademyId": "0012",
+            "RecordID": "021-000000832",
+            "Value": "Accademia degli Storditi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1570",
+        "DedicationPlaceDate": "Venice 23 June 1569 | Venice 18 November 1569",
+        "Shelfmark": "ml.df.89.(2) | 534.e.3",
+        "Subjects": "House of Malaspina|Military literature|Military history",
+        "Language": "Italian",
+        "Illustration": "Woodctus | Marquis Malaspina; fortresses; batteries; a compass",
+        "Pagination": "First fourteen pages unnumbered; pp. 254",
+        "Marginalia": "Yes",
+        "Edition": "2nd ed.",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7100",
+                "RecordID": "022-000000833",
+                "Value": "Mora,Domenico,,1536 - ca.1600"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7100",
+                    "RecordID": "022-000000833",
+                    "Value": "Mora,Domenico,,1536 - ca.1600"
+                },
+                {
+                    "PersonId": "7102",
+                    "RecordID": "022-000000835",
+                    "Value": "Porcacchi,Thomaso,,"
+                }
+            ]
+        },
+        "Notes": "534.e.3 does not contain dedication to Fiubbi or Malaspina`s portrait; in both cases the colophon reads In Venetia per Giovan. Griffio 1569",
+        "CensorsAgreement": "Con privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7103",
+                    "RecordID": "022-000000836",
+                    "Value": "Malaspina,Lodovico,Marquis,"
+                },
+                {
+                    "PersonId": "7104",
+                    "RecordID": "022-000000837",
+                    "Value": "Farnese,Ottavio,Duke of Parma and Piacenza,1521 - 1586"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7102",
+                "RecordID": "022-000000835",
+                "Value": "Porcacchi,Thomaso,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54175",
+            "Value": "023-000000843_54175_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Dedication to Ottavio Farnese; Dedication to Marc`Antonio Fiubbi Academico Storditi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7100",
+                            "RecordID": "022-000000833",
+                            "Value": "Domenico, Mora, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dedication to Marquis Lodovico Malaspina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7102",
+                            "RecordID": "022-000000835",
+                            "Value": "Porcacchi, Thomaso, ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

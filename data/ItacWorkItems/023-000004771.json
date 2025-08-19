@@ -1,0 +1,83 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004771",
+        "WorkId": "000590",
+        "ShortTitle": "Il Nino figlio Tragedia",
+        "LongTitle": "di Gregorio Belsensi. All`altezza Serenissima del Principe di Modana, con una lettera responsiva in materia della compositione di questa Tragedia",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1655",
+        "DedicationPlaceDate": "Bologna 1st February 1655",
+        "Shelfmark": "11715.g.23",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "[18] 184",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5015",
+                "RecordID": "022-000000017",
+                "Value": "Gessi,Berlingiero (juniore),Senator,1613 - 1671"
+            }
+        },
+        "Notes": "The letter is signed with the anagram. Calore, `La biblioteca drammatica`, p. 70 suggest that the tragedy was read in the Accademia dei Gelati, but not performed. Here, the titlepage and the frontispiece are displayed.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17861",
+                    "RecordID": "022-000004772",
+                    "Value": "Simoneta,Alexander,,"
+                },
+                {
+                    "PersonId": "17862",
+                    "RecordID": "022-000004773",
+                    "Value": "Fuochi,Guglielmo,Inquisitor,"
+                },
+                {
+                    "PersonId": "19242",
+                    "RecordID": "022-000006423",
+                    "Value": "Tortus,Inventius,Poenitentiarius,"
+                }
+            ]
+        },
+        "CensorsAgreement": "V. D. Inventius Tortus Rector Poenitent. pro Illustrissimo, ac Reverendiss. D. D. Archiepisc. Bonon. & Princip.\nV. Alexander Simoneta Soc. Iesu, pro Reverendiss. P. Inquisit.\nIMPRIMATUR\nF. Gulielmus Inquisit. Bonon.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5259",
+                "RecordID": "022-000000250",
+                "Value": "Benacci,Heredi di,,1629 - ?"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54887",
+            "Value": "023-000004771_54887_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54888",
+            "Value": "023-000004771_54888_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Lettera dell`autore responsiva al sig. Co. Andrea Barbazzi Senatore di Bologna",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "5015",
+                        "RecordID": "022-000000017",
+                        "Value": "Gessi,Berlingiero (juniore),Senator,1613 - 1671"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

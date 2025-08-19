@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16662",
+        "RecordId": "022-000003390",
+        "Surname": "Delli Falconi",
+        "Forename": "Marco Antonio",
+        "AlternativeName": {
+            "AlternativeSurname": "Falconium",
+            "AlternativeForename": "Marcum Antonium"
+        },
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

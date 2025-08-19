@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008383",
+        "WorkId": "000944",
+        "ShortTitle": "Alto primo choro - Canto - Tenore - Basso - Organo - Canto secondo - Alto secondo coro - Tenore secondo coro - Basso secondo coro - Organo secondo coro - Messe brevi a otto voci",
+        "LongTitle": "Con una concertata a 4 e i suoi Ripieni a beneplacito, e una a otto da Cappella, di Mauritio Cazzati Maestro di Cappella in S. Petronio di Bologna, & Accademico Eccitato. Dedicate all`Illustrissimo et Eccellentissimo Signor Marchese Innocentio Fachinati, Marchese di Coenzo, Confaloniere di Giustitia di Bologna, e Presidente perpetuo della Reverenda Fabrica di S. Petronio Opera Vigesima Ottava con privilegio",
+        "ItacAcademyItem": {
+            "AcademyId": "0570",
+            "RecordID": "021-000008374",
+            "Value": "Eccitati (Accademia degli)"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1662",
+        "DedicationPlaceDate": "Bologna 20 Gennaio 1662",
+        "Shelfmark": "C41b",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20584",
+                "RecordID": "022-000008338",
+                "Value": "Cazzati,Maurizio,,1616-1678"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20605",
+                "RecordID": "022-000008385",
+                "Value": "Facchinetti,Innocenzo,Marquis,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20604",
+                "RecordID": "022-000008384",
+                "Value": "Pisarri,Antonio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55305",
+            "Value": "023-000008383_55305_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

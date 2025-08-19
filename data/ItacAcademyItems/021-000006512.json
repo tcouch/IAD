@@ -1,0 +1,62 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0158",
+        "RecordId": "021-000006512",
+        "Name": "Platano (Accademia del)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Plane tree",
+        "Motto": "Sub umbra",
+        "StartDate": "ca.1693",
+        "EndDate": "?",
+        "DateText": "ca.1693 - ?",
+        "Notes": "Publications related to the Academy, but not in British Library Catalogue, include: Il trionfo dell`eterno amore . Opera pastorale di Biagio Donato Astucci Academico del Platano. Da recitarsi dagl`alunni del Collegio Saluiati l`anno (Roma, Komarek, 1693).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17278",
+                "RecordId": "022-000004093",
+                "Name": "Gimma,Giacinto,,",
+                "Nickname": "Rinascente",
+                "Motto": "Trunk of a plane tree",
+                "PersonEmblemDescription": "Revocat primordia formae"
+            },
+            {
+                "PersonId": "19322",
+                "RecordId": "022-000006513",
+                "Name": "Astucci,Biagio Donato,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19315",
+                "RecordId": "022-000006505",
+                "Name": "Nardi,Isidoro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18710",
+                "RecordId": "022-000005775",
+                "Name": "Guaccimanni,Giuseppe Giusto,,1652 - 1705",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19324",
+                "RecordId": "022-000006515",
+                "Name": "Cattani da Diacceto,Rinaldo,Abbot,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

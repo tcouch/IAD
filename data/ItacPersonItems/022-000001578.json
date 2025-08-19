@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9010",
+        "RecordId": "022-000001578",
+        "Surname": "Cremonini",
+        "Forename": "Cesare",
+        "DateText": "1550-1631",
+        "StartDate": "1550",
+        "EndDate": "1631",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Bio-bibliographical study: Cesare Cremonini. Aspetti del pensiero e scritti, 2 vols (2000).",
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

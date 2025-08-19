@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18493",
+        "RecordId": "022-000005518",
+        "Surname": "Bolognini",
+        "Forename": "Filippo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Bologninus",
+            "AlternativeForename": "Philippus"
+        },
+        "DateText": "?",
+        "StartDate": "?",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Angeli Felicella, Palermo, Vol.II, p. 168 - 169 (British Library Shelfmark: 610.m.10.)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

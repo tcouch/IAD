@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20518",
+        "RecordId": "022-000008257",
+        "Surname": "Saraceni",
+        "Forename": "Francesco",
+        "AlternativeName": {
+            "AlternativeSurname": "Saracini",
+            "AlternativeForename": null
+        },
+        "DateText": "?-1620",
+        "StartDate": "?",
+        "EndDate": "1620",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Founder of the Intrepidi Academy in 1600",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

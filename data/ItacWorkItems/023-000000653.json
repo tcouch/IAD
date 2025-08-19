@@ -1,0 +1,107 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000653",
+        "WorkId": "00045",
+        "ShortTitle": "Il mondo alla roversa",
+        "LongTitle": "Dove con una minutissima ricercata sopra le attioni umane si viene a dimostrare in che stato sia ridotta la povera Virtu`. Opera morale di Giulio Cesare Della Croce",
+        "ItacAcademyItem": {
+            "AcademyId": "0007",
+            "RecordID": "021-000000433",
+            "Value": "Accademia degli Ardenti"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1605",
+        "DedicationPlaceDate": "Bologna 17 June 1605",
+        "Shelfmark": "1071.m.42 | 11429.c.59.(3.)",
+        "Subjects": "Moral poetry",
+        "Language": "Italian",
+        "Illustration": "Woodcut | Typographic ornament",
+        "Pagination": "pp. 16",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5373",
+                "RecordID": "022-000000382",
+                "Value": "Croce,Giulio Cesare,,1550-1609"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5373",
+                "RecordID": "022-000000382",
+                "Value": "Croce,Giulio Cesare,,1550-1609"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0007",
+                "RecordID": "021-000000433",
+                "Value": "Accademia degli Ardenti"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5248",
+                "RecordID": "022-000000240",
+                "Value": "Rossi,Heredi di Giovanni [Perseo],,\u20201629"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52620",
+            "Value": "023-000000653_52620_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Dedication to Academici Ardenti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5373",
+                            "RecordID": "022-000000382",
+                            "Value": "Croce , Giulio Cesare, , 1550-1609"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "List of Academici Ardenti in 1605",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5373",
+                            "RecordID": "022-000000382",
+                            "Value": "Croce , Giulio Cesare, , 1550-1609"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poem dedicated to the Academici Ardenti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5373",
+                            "RecordID": "022-000000382",
+                            "Value": "Croce , Giulio Cesare, , 1550-1609"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Author`s poem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5373",
+                            "RecordID": "022-000000382",
+                            "Value": "Croce , Giulio Cesare, , 1550-1609"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

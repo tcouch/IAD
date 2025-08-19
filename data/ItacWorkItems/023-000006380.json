@@ -1,0 +1,100 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006380",
+        "WorkId": "000768",
+        "ShortTitle": "La Vera Antichit\u00e0 di Pozzuolo",
+        "LongTitle": "Descritta Da Giulio Cesare Capaccio Secretario Dell`Inclita Citta di Napoli. Ove Con L`Istoria Di tutte le cose del contorno, si narrano la bellezza di Posilipo, l`origine della Citt\u00e0 di Pozzuolo, Baia, Miseno, Cuma, Ischia, riti, costumi, magistrati, nobilt\u00e0, statue, inscrittioni, fabbriche antiche, successi, guerre, e quanto appartiene alle cose naturali di Terme, Bagni, e di tutte le Miniere.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1652",
+        "Shelfmark": "1300.a.9.",
+        "Subjects": "History of Pozzuoli and its vicinities",
+        "Language": "Italian|Latin",
+        "Illustration": "Plates|Pozzuoli and its vicinities",
+        "Pagination": "pp. 384",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15014",
+                "RecordID": "022-000001056",
+                "Value": "Capaccio,Giulio Cesare,,1552-1634"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15005",
+                    "RecordID": "022-000001047",
+                    "Value": "De Pietri,Francesco,,1575 - 1645?"
+                },
+                {
+                    "PersonId": "5616",
+                    "RecordID": "022-000000685",
+                    "Value": "Incerto,,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19210",
+                    "RecordID": "022-000006382",
+                    "Value": "Rivaldus,A[ntonius?],,"
+                },
+                {
+                    "PersonId": "19149",
+                    "RecordID": "022-000006291",
+                    "Value": "Fanus,Vincentius,,"
+                },
+                {
+                    "PersonId": "19211",
+                    "RecordID": "022-000006383",
+                    "Value": "Candidus,Vincentius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur\nSi videbitur Reverendiss. Mag. Sac. Pal. Apost. A. Rivaldus Vicesg.\nImprimatur\nFr. Vincentius Fanus Magister, & Soc. Reverendiss. P. Fr. Vincentij Candidi S. P. A. Magist",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19212",
+                "RecordID": "022-000006384",
+                "Value": "de` Rossi,Filippo,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Di Francesco De` Pietri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15005",
+                            "RecordID": "022-000001047",
+                            "Value": "De Pietri,Francesco,,1575 - 1645?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D`incerto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15005",
+                            "RecordID": "022-000001047",
+                            "Value": "De Pietri,Francesco,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

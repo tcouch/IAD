@@ -1,0 +1,331 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007584",
+        "WorkId": "000849",
+        "ShortTitle": "Novelle amorose de` signori Academici Incogniti",
+        "LongTitle": "Publicate da Francesco Carmeni segretario dell`Accademia. All`illustrissima Signora marchesa Laura Pepoli Riari",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Accademia degli Incogniti (Venezia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1641",
+        "DedicationPlaceDate": "Venezia 26 luglio 1641",
+        "Shelfmark": "89b5",
+        "Subjects": "Amorous tales",
+        "Language": "Italian",
+        "Pagination": "287",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15135",
+                    "RecordID": "022-000001177",
+                    "Value": "Berardelli,Alessandro,,"
+                },
+                {
+                    "PersonId": "5495",
+                    "RecordID": "022-000000482",
+                    "Value": "Campeggi,Annibale,Count,1593-1630"
+                },
+                {
+                    "PersonId": "20073",
+                    "RecordID": "022-000007571",
+                    "Value": "Pona,Carlo,,"
+                },
+                {
+                    "PersonId": "20074",
+                    "RecordID": "022-000007572",
+                    "Value": "Malipiero,Federico,,1603-1642"
+                },
+                {
+                    "PersonId": "20075",
+                    "RecordID": "022-000007573",
+                    "Value": "Pallavicino,Ferrante,,1615-1644"
+                },
+                {
+                    "PersonId": "19896",
+                    "RecordID": "022-000007340",
+                    "Value": "Belli,Francesco,,1577-pre1647"
+                },
+                {
+                    "PersonId": "5017",
+                    "RecordID": "022-000000019",
+                    "Value": "Carmeni,Francesco,,fl. 1632 - 1671"
+                },
+                {
+                    "PersonId": "20076",
+                    "RecordID": "022-000007574",
+                    "Value": "Moroni,Giovanni Battista,,?-1645"
+                },
+                {
+                    "PersonId": "20077",
+                    "RecordID": "022-000007575",
+                    "Value": "Rocchi,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "20078",
+                    "RecordID": "022-000007576",
+                    "Value": "Croce Bianca ,Giovanni,,"
+                },
+                {
+                    "PersonId": "17761",
+                    "RecordID": "022-000004663",
+                    "Value": "Loredan,Gianfrancesco,,1607-1661"
+                },
+                {
+                    "PersonId": "18575",
+                    "RecordID": "022-000005621",
+                    "Value": "Brusoni,Girolamo,,1614-1686"
+                },
+                {
+                    "PersonId": "20082",
+                    "RecordID": "022-000007580",
+                    "Value": "Cialdini,Girolamo,,"
+                },
+                {
+                    "PersonId": "20079",
+                    "RecordID": "022-000007577",
+                    "Value": "Motense,Liberal,,"
+                },
+                {
+                    "PersonId": "17662",
+                    "RecordID": "022-000004556",
+                    "Value": "Bisaccioni,Maiolino,Count,1582-1663"
+                },
+                {
+                    "PersonId": "15122",
+                    "RecordID": "022-000001163",
+                    "Value": "Michiele,Pietro,,fl.1632-1647"
+                },
+                {
+                    "PersonId": "20080",
+                    "RecordID": "022-000007578",
+                    "Value": "Pomo,Pietro,,"
+                },
+                {
+                    "PersonId": "20081",
+                    "RecordID": "022-000007579",
+                    "Value": "Placido Tomasi,Tomaso,,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20084",
+                "RecordID": "022-000007583",
+                "Value": "Pepoli Riari,Laura,Marchioness,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5017",
+                "RecordID": "022-000000019",
+                "Value": "Carmeni,Francesco,,fl. 1632 - 1671"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20085",
+                "RecordID": "022-000007585",
+                "Value": "Sarzina,Heredi del,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55096",
+            "Value": "023-000007584_55096_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Novella prima: Si tratteneva nella nobilissima citta' di Bologna... -- Novella seconda: Nella citta' d'Alessandria della Paglia...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17761",
+                            "RecordID": "022-000004663",
+                            "Value": "Loredano,Giovanni Francesco,,1607 - 1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella terza: In Venetia anticamente, ...-- Novella quarta: Nella citta' di Brescia...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15122",
+                            "RecordID": "022-000001163",
+                            "Value": "Michiele,Pietro,,fl.1632-1647"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella quinta: Sdegnate l'acque del Tirreno... -- Novella sesta: Rimini citta' nota, ed un tempo assai piu' abbondante...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17662",
+                            "RecordID": "022-000004556",
+                            "Value": "Bisaccioni,Maiolino,Count,1582-1663"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella settima: Partenope, citta' fra le principali d'Italia... -- Novella ottava: Clitoneo Floriani cavaliere portoghese...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20078",
+                            "RecordID": "022-000007576",
+                            "Value": "Croce Bianca ,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella nona: In quella parte della bell'Italia, dove con pie' d'argento maestoso passeggia l'Adriatico... -- Novella decima: Svelava nella scena del giorno con la mano di luce...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20077",
+                            "RecordID": "022-000007575",
+                            "Value": "Rocchi,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella undecima: Mente, chi de gli amanti, co i sospiri... -- Novella duodecima: Che nel regno della natura non v'abbia maggior mastro d'invenzioni...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20076",
+                            "RecordID": "022-000007574",
+                            "Value": "Moroni,Giovanni Battista,,?-1645"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella decimaterza: La reale stirpe di Francia...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20081",
+                            "RecordID": "022-000007579",
+                            "Value": "Placido Tomasi,Tomaso,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella decimaquarta: Fra le citta', che con fortunata ubbidienza riconoscono... -- Novella decimaquinta: Le colline sparse con ben'inteso compartimento...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19896",
+                            "RecordID": "022-000007340",
+                            "Value": "Belli,Francesco,,1577-pre1647"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella decimasesta: Non si contano ancora trascorsi molti anni...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20079",
+                            "RecordID": "022-000007577",
+                            "Value": "Motense,Liberal,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella decimasettima: Agisulfo poeta tedesco, di nobile ma povera schiatta...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20080",
+                            "RecordID": "022-000007578",
+                            "Value": "Pomo,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella decimaottava: Anicea dama di gran conditioni...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20074",
+                            "RecordID": "022-000007572",
+                            "Value": "Malipiero,Federico,,1603-1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella decimanona: In Napoli citta' gentilissima nacquero al mondo... -- Novella ventesima: Trovavasi per sue faccende in Pisa Armidoro giovane palermitano...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18575",
+                            "RecordID": "022-000005621",
+                            "Value": "Brusoni,Girolamo,,1614-1686"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella ventesimaprima: qui capricci che sono conseguenti al genio de giovani... -- Novella ventesima seconda: Nel tempo che il re Alfonso d'Aragona...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20082",
+                            "RecordID": "022-000007580",
+                            "Value": "Cialdini,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella ventesima terzanella fruttifera Italia, sede di nobili citta'... -- Novella ventesima quarta: Si' come io vidi gia' raccontare, hebbe nelle parti di Grecia...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5495",
+                            "RecordID": "022-000000482",
+                            "Value": "Campeggi,Annibale,Count,1593-1630"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella ventesima quinta: Su le riviere di Genova habitava una dama di mediocre bellezza... -- Novella ventesima sesta: In Padoa, citta' quanto piu' anitca, tanto piu' nobile...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20075",
+                            "RecordID": "022-000007573",
+                            "Value": "Pallavicino,Ferrante,,1615-1644"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella ventesima settima: In Verona, citta' fra quelle dell'Italia principalissima...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20073",
+                            "RecordID": "022-000007571",
+                            "Value": "Pona,Carlo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella ventesima ottava: In una delle principali citta' di Lombardia...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15135",
+                            "RecordID": "022-000001177",
+                            "Value": "Berardelli,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Novella ventesima nona: In quell'isola che per esser la pou' fertile... -- Novella  trentesima: In quell'anno che i serenissimi gligli Farnesi...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5017",
+                            "RecordID": "022-000000019",
+                            "Value": "Carmeni,Francesco,,fl. 1632 - 1671"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

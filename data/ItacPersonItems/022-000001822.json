@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9653",
+        "RecordId": "022-000001822",
+        "Surname": "Gonzaga",
+        "Forename": "Ferrante",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Ferrando"
+        },
+        "PersonalTitle": "Prince of Molfetta|Duke of Guastalla",
+        "DateText": "1563-1630",
+        "StartDate": "1563",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

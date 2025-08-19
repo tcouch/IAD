@@ -1,0 +1,37 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006714",
+        "WorkId": "000795",
+        "ShortTitle": "Informattione de` Requisiti per l`Ingresso de` cavalieri",
+        "LongTitle": "Nel Collegio Clementino di Roma Sotto l`educazione de` padri della Congregazione di Somasca",
+        "ItacAcademyItem": {
+            "AcademyId": "0170",
+            "RecordID": "021-000006654",
+            "Value": "Accademia degli Stravaganti"
+        },
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1698",
+        "Shelfmark": "731e7(3)",
+        "Subjects": "Memebership regulations",
+        "Language": "Italian",
+        "Pagination": "4 leaves unnumbered",
+        "Marginalia": "No",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18330",
+                "RecordID": "022-000005344",
+                "Value": "Chracas,Luca Antonio,,ca.1659 - 1723"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54862",
+            "Value": "023-000006714_54862_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

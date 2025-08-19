@@ -1,0 +1,74 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002656",
+        "WorkId": "000327",
+        "ShortTitle": "Ant[onii] Quaerenghi Hexametri Carminis Libri Sex",
+        "LongTitle": "Rhapsodiae variorum Carminum Libri V. Ad Serenissimum Urbini Ducem Franc[escu]m Mariam II Feltrium de Ruvere",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricov(e)rati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1618",
+        "Shelfmark": "11409.aa.22|239.a.39.(2.)",
+        "Language": "Latin",
+        "Pagination": "pp. 208, plus Index",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9031",
+                "RecordID": "022-000001621",
+                "Value": "Querenghi,Antonio,,1546 - 1633"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15214",
+                    "RecordID": "022-000001256",
+                    "Value": "Donatus,Gregorius,,"
+                },
+                {
+                    "PersonId": "16073",
+                    "RecordID": "022-000002657",
+                    "Value": "Aleander,Hieronum.,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverend. Sacr. Pal. Apost. Mag.\nCaesar Fidelis Vicesgerens.\nIn his carminum libris Clarissimi, doctissimiq; viri Antonij Quaerenghi Referendarij Apostolici, quos mandante Reverendiss. P. Sacri Palatij Magistro perlegi, nihil reperi quod pias aures offendat. Quum vero singularem praeseferant eruditionem, miram facilitatem, plurissimumq; Latini sermonis nitorem, edendos quam primum censeo Reip. litteraria bono.\nHieronym. Aleander\nImprimatur Fr. Greg. Donatus Rom. Mag. Reveren. Sacr. Palatij Apost. Mag. Soc. Ord. Praed.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9243",
+                "RecordID": "022-000001539",
+                "Value": "della Rovere,Francesco Maria II,Duke of Urbino,1549-1631"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16074",
+                "RecordID": "022-000002658",
+                "Value": "Zannetti,Bartolomeo,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Ad Petrum Aldobrandinum Cardinalem Patavinae Academiae nomine",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9031",
+                        "RecordID": "022-000001621",
+                        "Value": "Querenghi,Antonio,,1546 - 1633"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

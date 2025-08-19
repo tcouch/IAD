@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20016",
+        "RecordId": "022-000007498",
+        "Surname": "Peruzzini",
+        "Forename": "Domenico",
+        "AlternativeName": {
+            "AlternativeSurname": "Pruzzinus",
+            "AlternativeForename": null
+        },
+        "DateText": "1607-1673",
+        "StartDate": "1607",
+        "EndDate": "1673",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Artist|Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

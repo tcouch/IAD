@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19418",
+        "RecordId": "022-000006629",
+        "Surname": "Carracci",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "DateText": "ca.1583-1618",
+        "StartDate": "ca.1583",
+        "EndDate": "1618",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Painter. The Illegitimate son of Agostino Carracci. See Matthiesen, Around 1610: The Onset of the Baroque (1982)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

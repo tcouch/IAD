@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16547",
+        "RecordId": "022-000003255",
+        "Surname": "Arrivabene",
+        "Forename": "Andrea",
+        "Gender": "Male",
+        "DateText": "1534-1570",
+        "StartDate": "1534",
+        "EndDate": "1570",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Role": "Editor|Publisher|Printer",
+        "TypographicReference": "CNCE 57160|U597",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

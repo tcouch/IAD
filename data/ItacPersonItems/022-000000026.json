@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5024",
+        "RecordId": "022-000000026",
+        "Surname": "Marsili",
+        "Forename": "Antonio Felice",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Marsigli"
+        },
+        "DateText": "1651-1710",
+        "StartDate": "1651",
+        "EndDate": "1710",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "In 1671 in the Umoristi Academy in Rome, he delivered the following speech: `Discorso del riaprirsi della prestigiosa Accademia degli Umoristi`. See his biography by Marta Cavazza in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

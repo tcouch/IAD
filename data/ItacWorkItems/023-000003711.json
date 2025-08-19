@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003711",
+        "WorkId": "000497",
+        "ShortTitle": "Literarium Duellum Inter Salernitanos Et Neapolitanos Medicos.",
+        "LongTitle": "Vincentii De Petrone Ociosi Academici Neapolitani, & in Salernitano Gymnasio Primi Philosophiae Interpretis. In quo de Intestinorum phlegmone controvertitur casus. Una Cum Michaelis Rocci In eodemGymnasio Theoricam profitensis Medicinam Apologia. Et Alio Eiusdem Auctoris Literario Addito De Hepatis Inflammatione Duello.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1647",
+        "Shelfmark": "775.i.8.",
+        "Subjects": "Medicine|Science",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Typographic ornament",
+        "Pagination": "pp. 144",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16930",
+                    "RecordID": "022-000003713",
+                    "Value": "De Petrone ,Vincentius ,,"
+                },
+                {
+                    "PersonId": "16931",
+                    "RecordID": "022-000003714",
+                    "Value": "Roccus,Michaelis,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Superiorum Permissu",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke ,1610-1670"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16929",
+                "RecordID": "022-000003712",
+                "Value": "Bertani ,,,"
+            }
+        },
+        "PrinterOrnament": "Mar.t.e 534",
+        "TitlePageImage": {
+            "ImageId": "53924",
+            "Value": "023-000003711_53924_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

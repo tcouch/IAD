@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003705",
+        "WorkId": "000494",
+        "ShortTitle": "Le Nove Muse Di Marcello Macedonio",
+        "LongTitle": "Raccolte e date alla stampa da Pietro Macedonio suo fratello. All`Ill.mo Et Rev.mo Sig.re Il Sig.r Cardinale Borghese",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "12 February 1614",
+        "Shelfmark": "c.47.d.16.",
+        "Subjects": "Poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Plates|Muses",
+        "Pagination": "pp. 260",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15089",
+                "RecordID": "022-000001130",
+                "Value": "Macedonio,Marcello,,"
+            }
+        },
+        "Notes": "The title page contains a few manuscript notes",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15223",
+                    "RecordID": "022-000001265",
+                    "Value": "Gallacinus,Rutilius,Canon,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Petrus Antonius Ghibertus, Vicarius Generalis.\nRutilius Gallacinus Canonicus Deputatus vidit registr. fol. 34.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15352",
+                "RecordID": "022-000001391",
+                "Value": "Borghese,Scipione,Cardinal,1576-1633"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16928",
+                "RecordID": "022-000003707",
+                "Value": "Macedonio,Pietro,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16927",
+                "RecordID": "022-000003706",
+                "Value": "Paduano,Giovanni Felice,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16653",
+                "RecordID": "022-000003378",
+                "Value": "Longo,Tarquinio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53926",
+            "Value": "023-000003705_53926_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

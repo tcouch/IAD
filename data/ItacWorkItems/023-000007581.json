@@ -1,0 +1,264 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007581",
+        "WorkId": "000848",
+        "ShortTitle": "Discorsi Academici dei Signori Incogniti",
+        "LongTitle": "havuti in Venetia nell`Accademia del Signor Gio: Francesco Loredano Nobile Veneto. All`Illustrissimo, & Eccell.mo sig. Gasparo Thuillerio Cosbigliere di Stato del Re Christianissimo, e suo ambasciatore ordinario Appresso la Serenissima Republica di Venetia",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Accademia degli Incogniti (Venezia)"
+            },
+            {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Incogniti (Accademia degli) - Venezia"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1635",
+        "DedicationPlaceDate": "Venezia 15 febraro 1635",
+        "Shelfmark": "1074h21",
+        "Subjects": "Academic Speeches",
+        "Language": "Italian",
+        "Pagination": "[14] 287",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19879",
+                    "RecordID": "022-000007321",
+                    "Value": "Casoni,Guido,,1561-1642"
+                },
+                {
+                    "PersonId": "19896",
+                    "RecordID": "022-000007340",
+                    "Value": "Belli,Francesco,,1577-pre1647"
+                },
+                {
+                    "PersonId": "15122",
+                    "RecordID": "022-000001163",
+                    "Value": "Michiele,Pietro,,fl.1632-1647"
+                },
+                {
+                    "PersonId": "20067",
+                    "RecordID": "022-000007565",
+                    "Value": "Doglioni,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "5495",
+                    "RecordID": "022-000000482",
+                    "Value": "Campeggi,Annibale,Count,1593-1630"
+                },
+                {
+                    "PersonId": "20069",
+                    "RecordID": "022-000007567",
+                    "Value": "Bellencini,Dario,Count,fl.1635-1647"
+                },
+                {
+                    "PersonId": "19205",
+                    "RecordID": "022-000006373",
+                    "Value": "Rocco,Antonio,,1576/8 - 1653"
+                },
+                {
+                    "PersonId": "20070",
+                    "RecordID": "022-000007568",
+                    "Value": "Serra,Giorgio,,"
+                },
+                {
+                    "PersonId": "19889",
+                    "RecordID": "022-000007333",
+                    "Value": "Gatti,Alessandro,,"
+                },
+                {
+                    "PersonId": "19580",
+                    "RecordID": "022-000006882",
+                    "Value": "Lampugnani,Agostino,,1586-1665?"
+                },
+                {
+                    "PersonId": "20071",
+                    "RecordID": "022-000007569",
+                    "Value": "Cocco,Tomaso,,"
+                },
+                {
+                    "PersonId": "20072",
+                    "RecordID": "022-000007570",
+                    "Value": "Dall`Angelo,Marin,,"
+                },
+                {
+                    "PersonId": "19918",
+                    "RecordID": "022-000007366",
+                    "Value": "Ciatti,Felice,,1592-1642"
+                }
+            ]
+        },
+        "Notes": "Titlepage is from the copy with shelfmark Ac8870(1).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20083",
+                "RecordID": "022-000007582",
+                "Value": "Thuillerio,Gasparo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15365",
+                "RecordID": "022-000001404",
+                "Value": "Sarzina,Giacomo,,ca.1585-1641"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15365",
+                "RecordID": "022-000001404",
+                "Value": "Sarzina,Giacomo,,ca.1585-1641"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55209",
+            "Value": "023-000007581_55209_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "La miseria humana, discorso primo -- L'humana infelicita', discorso secondo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19879",
+                            "RecordID": "022-000007321",
+                            "Value": "Casoni,Guido,,1561-1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L'amore della patria, discorso terzo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19896",
+                            "RecordID": "022-000007340",
+                            "Value": "Belli,Francesco,,1577-pre1647"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Della vecchiezza, discorso quarto -- I biasmi d'amore, discorso quinto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15122",
+                            "RecordID": "022-000001163",
+                            "Value": "Michiele,Pietro,,fl.1632-1647"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La bellezza discorso sesto -- Le meretrici discorso settimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20067",
+                            "RecordID": "022-000007565",
+                            "Value": "Doglioni,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il valore sconosciuto, discorso ottavo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5495",
+                            "RecordID": "022-000000482",
+                            "Value": "Campeggi,Annibale,Count,1593-1630"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "I danni dell'eloquenza, discorso undecimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20069",
+                            "RecordID": "022-000007567",
+                            "Value": "Bellencini,Dario,Count,fl.1635-1647"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Della bruttezza, discorso duodecimo -- Amore e' un puro interesse, discorso terzodecimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19205",
+                            "RecordID": "022-000006373",
+                            "Value": "Rocco,Antonio,,1576/8 - 1653"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Seleuco magnanimo, discorso quartodecimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20070",
+                            "RecordID": "022-000007568",
+                            "Value": "Serra,Giorgio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il formaggio biasimato, discorso quintodecimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19889",
+                            "RecordID": "022-000007333",
+                            "Value": "Gatti,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La brutezza lodata, discorso sestodecimo -- La bellezza lodata, discorso decimosettimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19580",
+                            "RecordID": "022-000006882",
+                            "Value": "Lampugnani,Agostino,,1586-1665?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Visio per extramissionem, discorso decimoottavo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20071",
+                            "RecordID": "022-000007569",
+                            "Value": "Cocco,Tomaso,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Le glorie del niente, discorso decimonono",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20072",
+                            "RecordID": "022-000007570",
+                            "Value": "Dall`Angelo,Marin,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il frate academico, discorso nono -- Il color bigio, discorso decimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19918",
+                            "RecordID": "022-000007366",
+                            "Value": "Ciatti,Felice,,1592-1642"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

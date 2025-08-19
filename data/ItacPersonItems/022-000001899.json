@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15397",
+        "RecordId": "022-000001899",
+        "Surname": "Caprara",
+        "Forename": "Francesco Carlo",
+        "Gender": "Male",
+        "PersonalTitle": "Count of Pantano",
+        "DateText": "fl.1668-1686",
+        "StartDate": "fl.1668",
+        "EndDate": "1686",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Gonfaloniere di giustizia in Bologna.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

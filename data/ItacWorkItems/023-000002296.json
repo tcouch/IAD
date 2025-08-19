@@ -1,0 +1,57 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002296",
+        "WorkId": "000303",
+        "ShortTitle": "Magno Hetruriae Duci. Possint ne Arte simplicia veraque Metalla gigni.",
+        "LongTitle": "Alexandri Carerii Nobilis Patavini Divique Andreae Praepositi Accurata disputatio",
+        "ItacAcademyItem": {
+            "AcademyId": "0026",
+            "RecordID": "021-000002259",
+            "Value": "Accademia degli Animosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1579",
+        "DedicationPlaceDate": "Padua 1579",
+        "Shelfmark": "45.e.21",
+        "Subjects": "Philosophy|Aristotelianism|Alchemy|Hermeticism",
+        "Language": "Latin",
+        "Illustration": "Engraving|Title page",
+        "Pagination": "pp. 32",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15726",
+                "RecordID": "022-000002263",
+                "Value": "Carriero,Alessandro,,1546-1626"
+            }
+        },
+        "Notes": "According to Tomasini, Elogia, Carriero delivered this lesson in the Accademia degli Animosi. See Sandra Olivieri Secchi, `Carriero, Alessandro` in DBI for a critical summary of this text.",
+        "CensorsAgreement": "Cum licentia superiorum",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15752",
+                "RecordID": "022-000002297",
+                "Value": "de` Medici,Francesco I,Grand Duke of Tuscany,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9635",
+                "RecordID": "022-000001682",
+                "Value": "Pasquati,Lorenzo,,fl. 1561-1624"
+            }
+        },
+        "PrinterOrnament": "U481",
+        "TitlePageImage": {
+            "ImageId": "52663",
+            "Value": "023-000002296_52663_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0111",
+        "RecordId": "021-000005138",
+        "Name": "Ordinati (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Salt-cellar full of salt",
+        "Motto": "A sole",
+        "StartDate": "1608",
+        "EndDate": "?",
+        "DateText": "1608-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16508",
+                "RecordId": "022-000003195",
+                "Name": "Strozzi,Giulio,,1583 - 1660",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15090",
+                "RecordId": "022-000001131",
+                "Name": "Sarrocchi,Margharita,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18169",
+                "RecordId": "022-000005137",
+                "Name": "Tronsarelli,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20027",
+                "RecordId": "022-000007518",
+                "Name": "Deti,Giovan Battista,,1578/81-1630",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

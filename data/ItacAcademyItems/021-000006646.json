@@ -1,0 +1,154 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0169",
+        "RecordId": "021-000006646",
+        "Name": "Chiari (Accademia dei)",
+        "AlternativeName": "Accademia de` Clari",
+        "City": {
+            "CityId": "105",
+            "CityItalianName": "Catania",
+            "CityEnglishName": "Catania",
+            "CityLatinName": "Catana"
+        },
+        "Motto": "Me Duce Totum",
+        "StartDate": "1621?",
+        "EndDate": "?",
+        "DateText": "1621?-?",
+        "Notes": "For a short account on the Chiari academy see Francesco Ferrara, Storia di Catania, Catania, 1829 (British Library Shelfmark: 10136.f.15.)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19432",
+                "RecordId": "022-000006648",
+                "Name": "Tedeschi e Patern\u00f2,Ignazio,,? - 1693",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19433",
+                "RecordId": "022-000006649",
+                "Name": "Guarneri,Giovanni Battista,,? - 1665",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19434",
+                "RecordId": "022-000006650",
+                "Name": "Felice,Mario,,",
+                "Nickname": "il Renato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19436",
+                "RecordId": "022-000006652",
+                "Name": "Giuffrida,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19435",
+                "RecordId": "022-000006651",
+                "Name": "Squillaci,Giuseppe,,? - 1678",
+                "Nickname": "Abbagliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20265",
+                "RecordId": "022-000007909",
+                "Name": "Catanuto,Nicola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20266",
+                "RecordId": "022-000007910",
+                "Name": "Romano,Giacomo,,?-1648",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20267",
+                "RecordId": "022-000007911",
+                "Name": "Gravina,Cesare,,?-1630ca",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20268",
+                "RecordId": "022-000007912",
+                "Name": "Nicosia,Eustachio,,?-1663",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20269",
+                "RecordId": "022-000007913",
+                "Name": "Monaco ,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20270",
+                "RecordId": "022-000007914",
+                "Name": "Mancino,Carlo,,?-1683",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20271",
+                "RecordId": "022-000007915",
+                "Name": "Squillaci,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20272",
+                "RecordId": "022-000007916",
+                "Name": "Capaci,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17379",
+                "RecordId": "022-000004219",
+                "Name": "Munebria,Giuseppe,,?-1683",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20273",
+                "RecordId": "022-000007917",
+                "Name": "Rizzo,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19431",
+                "RecordId": "022-000006647",
+                "Name": "Morabito,Francesco,,? - 1690",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55214",
+                    "Value": "022-000006647_55214_2.jpg"
+                }
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

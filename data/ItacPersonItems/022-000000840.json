@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7106",
+        "RecordId": "022-000000840",
+        "Surname": "de Tournon",
+        "Forename": "Francois",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1489-1562",
+        "StartDate": "1489",
+        "EndDate": "1562",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": "Dedicatee",
+        "TypographicReference": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

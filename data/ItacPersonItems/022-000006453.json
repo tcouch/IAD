@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19270",
+        "RecordId": "022-000006453",
+        "Surname": "Rinuccini",
+        "Forename": "Giovambattista",
+        "PersonalTitle": "Archbishop of Fermo",
+        "DateText": "1592 - 1653",
+        "StartDate": "1592",
+        "EndDate": "1653",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Galileo proposed his membership among the Lincei in 1616",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

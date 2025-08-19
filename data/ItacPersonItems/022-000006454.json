@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19271",
+        "RecordId": "022-000006454",
+        "Surname": "Rinuccini",
+        "Forename": "Tommaso",
+        "DateText": "1596 - 1682",
+        "StartDate": "1596",
+        "EndDate": "1682",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Courtier. Member of both the Crusca and Accademia Fiorentina. Galileo proposed his memebership among the Lincei in 1616",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5298",
+        "RecordId": "022-000000346",
+        "Surname": "Pesci",
+        "Forename": "Ruggiero",
+        "Gender": "Male",
+        "DateText": "fl.1590-1626",
+        "StartDate": "fl.1590",
+        "EndDate": "1626",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Contributor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

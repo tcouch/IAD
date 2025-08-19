@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0242",
+        "RecordId": "021-000006888",
+        "Name": "Indisposti (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Baytree with berries approached by a dove",
+        "Motto": "Sanabitur",
+        "StartDate": "ca1670",
+        "DateText": "ca1670",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19582",
+                "RecordId": "022-000006887",
+                "Name": "Lauro,Ignazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19643",
+                "RecordId": "022-000006995",
+                "Name": "Bellinzani,Lodovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19600",
+                "RecordId": "022-000006952",
+                "Name": "Sinibaldi,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

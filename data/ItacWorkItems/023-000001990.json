@@ -1,0 +1,65 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001990",
+        "WorkId": "000282",
+        "ShortTitle": "Canace. Tragedia del sig(nor) Sperone Speroni",
+        "LongTitle": "Alla quale sono aggiunte alcune altre sue compositioni et una Apologia et alcune Lettioni in difesa della tragedia.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0024",
+                "RecordID": "021-000001981",
+                "Value": "Accademia degli Elevati"
+            },
+            {
+                "AcademyId": "0020",
+                "RecordID": "021-000001496",
+                "Value": "Accademia degl` Infiammati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1597",
+        "DedicationPlaceDate": "Venice 28 July 1597",
+        "Shelfmark": "713.d.34.(3.)|1071.m.2.(8.)|163.g.24",
+        "Subjects": "Theatre|Literary criticism",
+        "Language": "Italian",
+        "Pagination": "pp. 253",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9230",
+                "RecordID": "022-000001527",
+                "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+            }
+        },
+        "Notes": "`Canace` was presented to the Accademia degli Infiammati, as the author was writing it. The `Lezioni` were presented at the Accademia degli Elevati. See Speroni, `Apologia`, and `Lezioni`, ed. Christina Roaf (1982), pp. 118, 221.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15470",
+                "RecordID": "022-000001992",
+                "Value": "d`Este,Alfonso II,,1533-1597"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9155",
+                "RecordID": "022-000001593",
+                "Value": "De` Conti,Ingolfo,,1565-1615"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15469",
+                "RecordID": "022-000001991",
+                "Value": "Alberti,Giovanni,,"
+            }
+        },
+        "PrinterOrnament": "V257|Z1067",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

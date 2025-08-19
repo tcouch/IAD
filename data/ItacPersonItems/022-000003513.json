@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16777",
+        "RecordId": "022-000003513",
+        "Surname": "di Goro",
+        "Forename": "Giovan Battista",
+        "Gender": "Male",
+        "DateText": "fl.1548-1552",
+        "StartDate": "fl.1548",
+        "EndDate": "1552",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Fishmonger",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

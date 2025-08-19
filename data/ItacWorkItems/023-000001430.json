@@ -1,0 +1,108 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001430",
+        "WorkId": "00158",
+        "ShortTitle": "Poesie Liriche di Don Francesco Antonio Cappone Accademico Ozioso",
+        "LongTitle": "Ristampate con aggiunta d`altri suoi componimenti. Dedicate all`illustrissimo et eccellentissimo signor Don Francesco Carafa prencipe di Belvedere marchese d`Ansi.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1675",
+        "DedicationPlaceDate": "Naples 14 June 1663",
+        "Shelfmark": "11427.de.40",
+        "Content": "Encomiastic poetry; prose",
+        "Subjects": "Poetry|Prose",
+        "Language": "Italian|Latin",
+        "Pagination": "first twelve pages unnumbered; pp. 396",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15013",
+                "RecordID": "022-000001055",
+                "Value": "Cappone,Francesco Antonio,,1620-?"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15200",
+                    "RecordID": "022-000001169",
+                    "Value": "Filomarino,Ascanio,Cardinal|Archbishop,1583-1666"
+                },
+                {
+                    "PersonId": "15128",
+                    "RecordID": "022-000001170",
+                    "Value": "Garbinatus,Paulus,General Vicar,"
+                },
+                {
+                    "PersonId": "15129",
+                    "RecordID": "022-000001171",
+                    "Value": "Renzi,Mattheus,,"
+                },
+                {
+                    "PersonId": "15130",
+                    "RecordID": "022-000001172",
+                    "Value": "De Rossis,Hilarius,,"
+                },
+                {
+                    "PersonId": "15131",
+                    "RecordID": "022-000001173",
+                    "Value": "De Rubeis,Ioannes Dominicus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "In Congregatione habita coram Eminentissimo Domino Cardinali Philamarino Archiepiscopo Neapolitano sub die 23 mensis Novembris 1662 fuit dictum quod R. P. Fr. Hilarius De Rossis revideat et inscriptis referat eidem in Congregationi. Paulus Garbinatus Vic. Gen. canonicus Mattheus Renzi S. T. D. et Consul S. Offic. Eminentissime Domine. Legi iussu eminentiae vestrae lyrica D. Francisci Antonii Capponis poemata in quibus nihil reperi dignum nota: Quippe Auctoris eruditio ita inhaeret pietati ut unus omnium utile dulci miscuerit. Dignus vir sane praeconio qui ex Pindi viretis venenorum magis hac tempestate quam salubrium herbarum feracibus abiecta pernicie saluberrima quaeque collegerit. Vere sectator Apollinis ad medendum non ad perdendum homines natus Ne[m]pe es davide didicit cythara malum fugare Spiritum non accrescere. Quae cum ita sint dignissima censeo quae praeso tradantur. Neap. 10 Dicembris 1662. Emin. Vostrae Humilissimus servus Fr. Hilarius de Rossis ord. Min. Conventualium Doctor Theologus. Stante relatione retroscripti imprimatur. Paulus Garbinauts Vic. Gen. Canonicus D. Matthaeus Renzi S. T. D. et Offic. Cons. V.I.D.I Io: Dominicus de Rubeis. Videat et in scriptis S. E. referat. Galeota regens. Ulloa regens. Navarra regens. Provisum per suam Excellentia neap. die 12 mensis Febr. 1663. Excellentissime domine. Quae mihi attribuisti recensenda D. Francisci Antonii Capponis Lyrica integrum habent candidumque parentem: sunt ad perfectum ac ad plenum canora et harmoniae civili non absona. Vale Domine vale et salve. Neap. 5 Cal. Martias 1663. Excell. vestrae Addictissimus cliens Dominicus de Rubeis. Visa retroscripta relatione imprimatur et in publicatione servetur Regia Pragmatica. Galeota regens. Ulloa regens. Navarra regens.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15000",
+                    "RecordID": "022-000001042",
+                    "Value": "Zazzera,Francesco,,"
+                },
+                {
+                    "PersonId": "15003",
+                    "RecordID": "022-000001045",
+                    "Value": "Manso,Ioannes Baptistam,Marquis of Villa,1560/70-1645"
+                },
+                {
+                    "PersonId": "15005",
+                    "RecordID": "022-000001047",
+                    "Value": "De Petris,Franciscum,,"
+                },
+                {
+                    "PersonId": "15126",
+                    "RecordID": "022-000001167",
+                    "Value": "Baldassar,Carlo,,"
+                },
+                {
+                    "PersonId": "15127",
+                    "RecordID": "022-000001168",
+                    "Value": "Ridolfi,Niccol\u00f2,,"
+                },
+                {
+                    "PersonId": "16215",
+                    "RecordID": "022-000002850",
+                    "Value": "Carafa,Francesco,Prince of Belvedere, Marquis of Anzi,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15060",
+                "RecordID": "022-000001101",
+                "Value": "Conzatti,Zaccaria,,"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

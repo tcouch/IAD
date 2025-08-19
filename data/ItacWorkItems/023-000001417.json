@@ -1,0 +1,93 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001417",
+        "WorkId": "00145",
+        "ShortTitle": "Ioannis Petri ab Alexandro I.C. Galatei Academici Ociosi. Academiae Ociosorvm. Libri III.",
+        "LongTitle": "Ad illustriss. Et excellentiss. D[omini] D[on] Petrum Ferd[inanudm] a Castro Lemnsium Comitem Regni Neap[olitani] Proregem",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1613",
+        "Shelfmark": "1568/6241",
+        "Subjects": "Description of Academy|Encomiastic verses",
+        "Language": "Latin",
+        "Pagination": "pp.72",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15004",
+                "RecordID": "022-000001046",
+                "Value": "Ab Alexandro,Iannis Petri,,1574-1647"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15005",
+                    "RecordID": "022-000001047",
+                    "Value": "De Petris,Franciscum,,"
+                },
+                {
+                    "PersonId": "15006",
+                    "RecordID": "022-000001048",
+                    "Value": "Zizzae,Prosper Antonius,,"
+                },
+                {
+                    "PersonId": "15007",
+                    "RecordID": "022-000001049",
+                    "Value": "Cardami,Ioannis Francisci,,"
+                },
+                {
+                    "PersonId": "15008",
+                    "RecordID": "022-000001050",
+                    "Value": "Scorrani,Antonii,,"
+                },
+                {
+                    "PersonId": "15009",
+                    "RecordID": "022-000001051",
+                    "Value": "De Magistris,Petri Antonii,,"
+                },
+                {
+                    "PersonId": "15054",
+                    "RecordID": "022-000001095",
+                    "Value": "Petri,Francisci,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Superiorum Permissu",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15003",
+                    "RecordID": "022-000001045",
+                    "Value": "Manso,Ioannes Baptistam,Marquis of Villa,1560/70-1645"
+                },
+                {
+                    "PersonId": "15004",
+                    "RecordID": "022-000001046",
+                    "Value": "Ab Alexandro,Iannis Petri,,1574-1647"
+                },
+                {
+                    "PersonId": "15005",
+                    "RecordID": "022-000001047",
+                    "Value": "De Petris,Franciscum,,"
+                },
+                {
+                    "PersonId": "15019",
+                    "RecordID": "022-000001061",
+                    "Value": "De Castro Andrada,Pietro Fernandez,Count | Viceroy,"
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

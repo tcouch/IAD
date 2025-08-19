@@ -1,0 +1,65 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003254",
+        "WorkId": "000433",
+        "ShortTitle": "L`amor costante comedia",
+        "LongTitle": "del signor Stordito Intronato, composta per la venuta dell`Imperatore in Siena l`anno del 36. Nella qual comedia intervengono varii Abbattimenti di diverse sorte d`armi et intrecciati, ogni cosa in tempi e misure di Morescha, cosa dilettevole quanto alcun`altra ch`oggidi sia in luce.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1550",
+        "DedicationPlaceDate": "Venice 15 November 1540",
+        "Shelfmark": "11715.a.47|163.f.6",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "78r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Notes": "Pressmark 163.f.6 has 48r-v pages, and is published in 1540.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16548",
+                "RecordID": "022-000003256",
+                "Value": "Soranzo,Giovanni di Alvise,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16547",
+                "RecordID": "022-000003255",
+                "Value": "Arrivabene,Andrea,,1534 - 1570"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16426",
+                "RecordID": "022-000003094",
+                "Value": "Bindoni,Agostino,,fl. 1549 - 1558"
+            }
+        },
+        "PrinterOrnament": "V282|Z689",
+        "TitlePageImage": {
+            "ImageId": "53849",
+            "Value": "023-000003254_53849_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53848",
+            "Value": "023-000003254_53848_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9262",
+        "RecordId": "022-000001550",
+        "Surname": "Pico",
+        "Forename": "Cristoforo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Picco",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Cristofero"
+            }
+        ],
+        "DateText": "late 16th C.-17th C.",
+        "StartDate": "late 16th C.",
+        "EndDate": "17th C.",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Pico features in Vincenzo de Conti, Notizie Storiche della Citta` di Casale del Monferrato (1840), vol. 7, in which he is described as a `gentiluomo di Casale` and a `provveditore`.",
+        "Role": "Contributor",
+        "TypographicReference": "A145 | V146 | Z1038",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

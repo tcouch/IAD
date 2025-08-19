@@ -1,0 +1,38 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008315",
+        "WorkId": "000932",
+        "ShortTitle": "Madrigali di Mutio Manfredi Il Fermo Academico Olimpico &c.",
+        "LongTitle": "Sopra molti soggetti stravaganti composti, n\u00e8 men di tre, n\u00e8 piu di cinquanta sono per ciascun soggetto.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0387",
+                "RecordID": "021-000007512",
+                "Value": "Accademia Olimpica"
+            },
+            {
+                "AcademyId": "0387",
+                "RecordID": "021-000007512",
+                "Value": "Olimpica (Accademia)"
+            }
+        ],
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1606",
+        "Shelfmark": "1070.a.18",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5602",
+                "RecordID": "022-000000659",
+                "Value": "Manfredi,Muzio,,ca.1535-1609"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

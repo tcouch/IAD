@@ -1,0 +1,44 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003743",
+        "WorkId": "000502",
+        "ShortTitle": "Liberatione d`amore",
+        "LongTitle": "comedia pastorale di Maggio. Composta per il Desioso Senese, della congrega de gl`Insipidi",
+        "ItacAcademyItem": {
+            "AcademyId": "0061",
+            "RecordID": "021-000003726",
+            "Value": "Congrega degli Insipidi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1576",
+        "Shelfmark": "162.a.50|1071.c.37",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16981",
+                "RecordID": "022-000003771",
+                "Value": "Tregiani,Domenico di Gismondo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53883",
+            "Value": "023-000003743_53883_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20670",
+        "RecordId": "022-000008470",
+        "Surname": "De` Sommi",
+        "Forename": "Leone",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Ben Yitzchak Somi Misha'ar Aryeh",
+                "AlternativeForename": "Yehuda"
+            },
+            {
+                "AlternativeSurname": "Di Portaleone"
+            }
+        ],
+        "DateText": "ca. 1525-ca. 1590",
+        "StartDate": "ca. 1525",
+        "EndDate": "ca. 1590",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "De` Sommi`s membership of the Invaghiti is disputed. Maylender states that he was refused membership for being Jewish (Maylender 1926-30, iii, p. 364). Iain Fenlon suggests that he was a member since he is described as `nostro scrittore` in payments made out to him by the academy in 1568 (Fenlon 1980, 37).",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008393",
+        "WorkId": "000947",
+        "ShortTitle": "Salmi di terza con le tre sequenze correnti dell`anno.",
+        "LongTitle": "Canto (Alto) (Tenore) (Basso) Primo Choro. (Canto (Alto) (Tenore) (Basso) Secondo Choro.) (Basso Continuo.) Dedicati al Reverendissimo padre D. Gio. Andrea Chiarini, Abbate e primo visitatore della Congregazione de` Canonici Regolari del Salvatore, da Mauritio Cazzati Maestro di Cappella in S. Petronio di Bologna, et Accademico Eccitato. Opera XXXXXIII",
+        "ItacAcademyItem": {
+            "AcademyId": "0570",
+            "RecordID": "021-000008374",
+            "Value": "Eccitati (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1669",
+        "DedicationPlaceDate": "Bologna li 16 Agosto 1669",
+        "Shelfmark": "C41c",
+        "Subjects": "Music",
+        "Language": "Italian|Latin",
+        "Pagination": "24",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20584",
+                "RecordID": "022-000008338",
+                "Value": "Cazzati,Maurizio,,1616-1678"
+            }
+        },
+        "Notes": "The printer is not specified.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20611",
+                "RecordID": "022-000008394",
+                "Value": "Chiarini,Giovanni Andrea,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55304",
+            "Value": "023-000008393_55304_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0376",
+        "RecordId": "021-000007400",
+        "Name": "Filoponi (Accademia dei)",
+        "AlternativeName": "Academia Philoponorum",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1626",
+        "EndDate": "?",
+        "DateText": "1626-?",
+        "Notes": "Publications related to the history of this Academy, but not in British Library catalogue, include: Oratio de veritate habita a Ludovico Bruzzonio in Philoponorum Academia, ... Illustrissimo D. D. Io. Baptistae Grimano...dicata (Venetijs: apud Antonium Pinellum typographum ducalem, 1626); Oratio de laudibus sapientiae habita a Iacobo Peratio Peratii f. in Philoponorum Academia. Illustrissimo atque excellentissimo domino d. Francisco Erizio ...  (Venetijs: apud Franciscum Baba, 1626); Gradenigo, Jacopo, Oratio de laudibus divi Nicolai habita a Iacobo Gradonico illustriss. D. D. Georgij filio in Philoponorum Academia, ... . Illustrissimo domino D. Io. Francisco Barbadico ... dicata (Venetijs: apud Franciscum Baba, 1627); Micheli, Francesco, Oratio de pacis praestantia habita a Francisco Michaelio in Philoponorum Academia: duce, atque auspice Io. Antonio Manasanguio theologo Forosemproniensi (Venetijs : apud Franciscum Baba, 1628)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19941",
+                "RecordId": "022-000007399",
+                "Name": "Bruzzoni,Ludovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19942",
+                "RecordId": "022-000007401",
+                "Name": "Manasangue,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

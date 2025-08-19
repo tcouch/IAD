@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18720",
+        "RecordId": "022-000005785",
+        "Surname": "Mandosio",
+        "Forename": "Prospero",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Mandosi"
+        },
+        "DateText": "1643-1724",
+        "StartDate": "1643",
+        "EndDate": "1724",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "At the end of the volume in praise of Elena Cornaro, he signs `Patritius romanus Eques S. Stephani`.  In Bibliotheca romana, vol.II (1692), p. 343, he declares to be member of Concordi (Ravenna), Ansiosi (Gubbio?), Scompositi (Fano?). For details see M. Ceresa, `Mandosio, Prospero`, in DBI.",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

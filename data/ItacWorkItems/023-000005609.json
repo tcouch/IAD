@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005609",
+        "WorkId": "000678",
+        "ShortTitle": "La carta del navegar pitoresco",
+        "LongTitle": "Dialogo tra un Senator venetian deletante, e un profesor de pitura soto nome d`Ecelenza e de Compare. Comparti` in Oto Venti. Con i quali la nave venetiana vien conduta in l`alto mar de la Pitura, come assoluta dominante de quelo a confusion de chi non intende el bossolo dela calamita. Opera de Marco Boschini. Con i argumenti del Volonteroso Academico Delfico. Consagra` Al` Altezza Imperial de Leopoldo Guglielmo Arciduca d`Austria",
+        "ItacAcademyItem": {
+            "AcademyId": "0121",
+            "RecordID": "021-000005555",
+            "Value": "Accademia dei Delfici"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1660",
+        "DedicationPlaceDate": "[Loredano`s Letter is dated 23 may 1660]",
+        "Shelfmark": "83g4",
+        "Subjects": "Art criticism",
+        "Language": "Literary Venetian",
+        "Pagination": "680 [10]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18521",
+                "RecordID": "022-000005556",
+                "Value": "Boschini,Marco,,1613 - 1678 (or1704)"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18526",
+                    "RecordID": "022-000005561",
+                    "Value": "Varotari,Dario,,"
+                },
+                {
+                    "PersonId": "17761",
+                    "RecordID": "022-000004663",
+                    "Value": "Loredano,Giovanni Francesco,,1607 - 1661"
+                }
+            ]
+        },
+        "Notes": "Here the digitization of both the titlepage and the frontispice",
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18526",
+                "RecordID": "022-000005561",
+                "Value": "Varotari,Dario,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18570",
+                "RecordID": "022-000005611",
+                "Value": "Baba Francesco,Eredi,,1657 - 1 673"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54436",
+            "Value": "023-000005609_54436_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54437",
+            "Value": "023-000005609_54437_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "[Loredano`s Letter]",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "17761",
+                        "RecordID": "022-000004663",
+                        "Value": "Loredano,Giovanni Francesco,,1607 - 1661"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

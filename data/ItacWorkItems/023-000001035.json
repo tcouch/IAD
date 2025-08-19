@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001035",
+        "WorkId": "00066",
+        "ShortTitle": "Achillis Bocchii Bonon. Symbolicarum Quaestionum",
+        "LongTitle": "De universo genere quas serio ludebat libri quinque.",
+        "ItacAcademyItem": {
+            "AcademyId": "0016",
+            "RecordID": "021-000001019",
+            "Value": "Accademia Bocchiana"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1574",
+        "DedicationPlaceDate": "6th September 1574",
+        "Shelfmark": "636.g.8",
+        "Subjects": "Emblems|Poetry",
+        "Language": "Latin|Greek",
+        "Illustration": "Engravings | Emblems",
+        "Pagination": "pp. 362",
+        "Marginalia": "No",
+        "Edition": "2 edn.",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7500",
+                "RecordID": "022-000001020",
+                "Value": "Bocchi,Achille,,1488-1562"
+            }
+        },
+        "Notes": "For full list book`s images, and related texts (1574 edition), see The Study and Digitisation of Italian Emblems, University of Glasgow (http://www.italianemblems.arts.gla.ac.uk/books.php). See also Anne Rolet, `Achille Bocchi`s Symbolicarum quaestionum`, in Mundus emblematicus. Studies in Neo-Latin Emblem Books, ed. K. Enenkel and A Visser (Brepols, 2003).",
+        "CensorsAgreement": "Curia Episc. et S. Inquisit. concessu",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7511",
+                "RecordID": "022-000001032",
+                "Value": "Bolognese,Senate,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5119",
+                    "RecordID": "022-000000115",
+                    "Value": "Carracci,Agostino,,1557-1602"
+                },
+                {
+                    "PersonId": "7502",
+                    "RecordID": "022-000001022",
+                    "Value": "Bonasoni,Giulio,,fl. 1531-1574"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7510",
+                "RecordID": "022-000001031",
+                "Value": "Societatem Typographiae,Bononiensis,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52624",
+            "Value": "023-000001035_52624_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

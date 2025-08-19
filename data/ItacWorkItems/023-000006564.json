@@ -1,0 +1,40 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006564",
+        "WorkId": "000784",
+        "ShortTitle": "Il centesimo dell`anno MDCXCV [1695]",
+        "LongTitle": "Celebrato in Roma dall`Accademia del Disegno essendo Principe il signor cavalier Carlo Fontana Architetto. descritto da Giuseppe Ghezzi pittore e segretario accademico",
+        "ItacAcademyItem": {
+            "AcademyId": "0159",
+            "RecordID": "021-000006516",
+            "Value": "Accademia di San Luca"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1696",
+        "Shelfmark": "T41*(1)",
+        "Language": "Italian|Latin",
+        "Pagination": "52",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19326",
+                "RecordID": "022-000006518",
+                "Value": "Ghezzi,Giuseppe,,1634 - 1721"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19361",
+                "RecordID": "022-000006565",
+                "Value": "Buagni,Gio. Francesco,,ca.1650 - post1724"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9640",
+        "RecordId": "022-000001688",
+        "Surname": "Ruffinelli",
+        "Forename": "Giacomo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Iacomo"
+            },
+            {
+                "AlternativeForename": "Iacopo"
+            },
+            {
+                "AlternativeSurname": "Ruffinellus",
+                "AlternativeForename": "Iacobus"
+            },
+            {
+                "AlternativeSurname": "Roffinello"
+            }
+        ],
+        "DateText": "fl. 1547-1598",
+        "StartDate": "fl. 1547",
+        "EndDate": "1598",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Printer|Contributor",
+        "TypographicReference": "A36 - V99 - Z574",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

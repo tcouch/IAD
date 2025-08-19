@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18187",
+        "RecordId": "022-000005167",
+        "Surname": "Rocchi",
+        "Forename": "Girolamo",
+        "AlternativeName": {
+            "AlternativeSurname": "Rocco"
+        },
+        "DateText": "fl.1628 - 1638",
+        "StartDate": "fl.1628",
+        "EndDate": "1638",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Also the author of the tragedy `Demetrio. Tragedia di Girolamo Rocco, Accademico Humorista detto l`Ottuso, all`Ill.mo March. Sforza Pallavicino (Rome by Corbelletti, 1628). Censor among the Umoristi in 1638",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

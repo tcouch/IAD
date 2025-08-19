@@ -1,0 +1,40 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008515",
+        "WorkId": "000963",
+        "ShortTitle": "Pareri in Materia d`Onor, e di Paci",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1611",
+        "Shelfmark": "1608/814",
+        "Language": "Italian",
+        "Pagination": "pp. 27",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18365",
+                "RecordID": "022-000005383",
+                "Value": "Guarini,Alessandro,,1563-1636"
+            }
+        },
+        "Notes": "Included in Alessandro Guarini, Prose (Ferrara: V. Baldini, 1611).",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18928",
+        "RecordId": "022-000006028",
+        "Surname": "de Lazzari",
+        "Forename": "Ignazio",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Ignatius"
+            },
+            {
+                "AlternativeSurname": "de Lazaris"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Active between 1620 and 1683. See Franchi, Impressioni sceniche, p. 378.",
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

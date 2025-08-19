@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006713",
+        "WorkId": "000794",
+        "ShortTitle": "La Ragione trionfante d`Amore",
+        "LongTitle": "Opera regicomica da recitarsi nel Collegio Clementino nel Carnevale del 1696. Dalli Signori Convittori ed Accademici Stravaganti. Dedicata all`Eminentiss. et Reverendiss. Principe il Sig. Cardinale D. Benedetto Panfilio Vigilantissimo Protettore del Collegio ed Accademia. Dall`Autore fra gli Accademici l`Accigliato",
+        "ItacAcademyItem": {
+            "AcademyId": "0170",
+            "RecordID": "021-000006654",
+            "Value": "Accademia degli Stravaganti"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1696",
+        "Shelfmark": "11715b42",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "134",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19492",
+                "RecordID": "022-000006712",
+                "Value": "Piazza,Lodovico,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18328",
+                "RecordID": "022-000005341",
+                "Value": "Pamphili,Benedetto,,1653 - 1730"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18969",
+                "RecordID": "022-000006075",
+                "Value": "Komarek,Giovanni Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54886",
+            "Value": "023-000006713_54886_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

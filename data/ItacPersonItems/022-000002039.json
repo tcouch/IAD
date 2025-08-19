@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15513",
+        "RecordId": "022-000002039",
+        "Surname": "Manara",
+        "Forename": "Giovanni Antonio",
+        "Gender": "Male",
+        "DateText": "?-1685",
+        "StartDate": "?",
+        "EndDate": "1685",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Dominican friar, joined the Accademia Filarmonica in 1666. See his biography by E. Pasquini, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

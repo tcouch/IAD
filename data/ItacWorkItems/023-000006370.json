@@ -1,0 +1,78 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006370",
+        "WorkId": "000763",
+        "ShortTitle": "Systema cosmicum, authore Galileo Galilaei",
+        "LongTitle": "Lynceo, Academiae Pisanae Mathematico extraordinario, Serenissimi Magni- Ducis Hetruriae Philosopho et Mathematico primario: in quo Quaturo Dialogis, de Duobus Maxmis Mundi Systematibus, Ptolemaico et Copernicano, utriusque rationibus Philosophicis ac Naturalibus indefinite propositis, differitur. Ex Italica Lingua latine conversum. Accessit Appendix gemina, qua SS. Scripturae dicta cum terrae mobilitate conciliantur",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "128",
+            "PublicationPlaceItalianName": "Strasburgo",
+            "PublicationPlaceEnglishName": "Strasbourg",
+            "PublicationPlaceLatinName": "Augusta Treboc."
+        },
+        "PublicationYear": "1635",
+        "Shelfmark": "1608/858",
+        "Subjects": "Astronomy",
+        "Language": "Latin",
+        "Pagination": "[14] 495 [23]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9018",
+                "RecordID": "022-000001586",
+                "Value": "Galilei,Galileo,,1564 - 1642"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19156",
+                    "RecordID": "022-000006299",
+                    "Value": "Episcopus,Antonius,,"
+                },
+                {
+                    "PersonId": "18445",
+                    "RecordID": "022-000005468",
+                    "Value": "Riccardi,Nicola,Master of the Sacred Palace,1585-1639"
+                },
+                {
+                    "PersonId": "17026",
+                    "RecordID": "022-000003831",
+                    "Value": "Niccolini,Piero,,"
+                },
+                {
+                    "PersonId": "19201",
+                    "RecordID": "022-000006367",
+                    "Value": "Egidius,Clemens,Inquisitor general of Florence,"
+                },
+                {
+                    "PersonId": "17030",
+                    "RecordID": "022-000003836",
+                    "Value": "dell`Antella,Niccolo`,,1560 - 1630"
+                }
+            ]
+        },
+        "CensorsAgreement": "This edition reports censors` agreement from the original Italian edition: `Imprimatur si videbitur Reverendiss. P. Magistro Sacri Palatii Apostolici A. Episcopus Bellicastensis Vicesgerens. Imprimatur Fr. Nicolaus Riccardius Sacri Palatii Apostolici Magister. Imprimatur Florentiae ordinibus consuetis servatis 11 Septembris 1630. Petrus Nicolinus Vic. Gener. Florentiae. Imprimatur die 11 Septembris 1630 Fr. Clemens Egidius Inqu. Gener. Florentiae. Stampisi adi 12 di Settembre 1630. Niccolo` dell`Altella.`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16520",
+                "RecordID": "022-000003216",
+                "Value": "Elzeviers,Bonaventure et Abraham,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001445",
+        "WorkId": "00173",
+        "ShortTitle": "Historiarum Cupersanensium",
+        "LongTitle": "Libri Tres",
+        "Content": "History of the town of Conversano in Apulia (Italy)",
+        "PrinterOrnament": null,
+        "PublicationYear": "1649",
+        "DedicationPlaceDate": null,
+        "Edition": null,
+        "Format": "4\u00b0",
+        "Pagination": "First 16 pages unnumbered | Last 48 pages unnumbered | pp. 188",
+        "Illustration": "Woodcut | Armorial bearing",
+        "EngraverReference": "N",
+        "Subjects": "History of Conversano",
+        "Language": "Latin",
+        "Marginalia": null,
+        "CensorsAgreement": "Censura Reverendissimi Patris Fr. Iacobi Nysseni Ord. S. Basilij in utraque Castella teritio Provincialis. Ex Praescripto Domini Doct. Ildephonsi de Castro & Andrarae huius oppidi & curiae Madritensis Generalis Vicarij vicesgerentis opus lustravi historiarum Cupersanensium inscriptum & in tres libros distributum cuius auctor D. Doctor Paullus Antonius de Tarsia Theosophicae facultatis sacra laurea donatus. Et cum attente perlegissem nihil in eo inveni orthodoxae fidei dissonum  neque quod Christianos mores dedeceret: imm\u00f2 omnia tam accurate eruditeque tractata ut in adolescenti aetate senilem iam in litterario Senatu canitiem reveveri debeamus.  Qua propter iudico tam studiosam operam & operosum studium publica luce quammaxime dignum. Quod ut testatius stabilirem propria manu subscribendum censui: in hoc Magni Basilij Caenobio die 16 Septembris  ann. 1647.  Fr. Iacobus Nyssenus.  Summa Facultatis Rev. Dom. Vicarii.  Per Rev. Dom. don Ildephonsum de Castro & Andrada  Eminentiss. Dom. Archiepiscopi Matriti eiusque districtus Vicarium  concessa est Auctori facultas libri huius imprimendi.  Dat. Matriti die 16. Septembris. 1647.  Emmanuel Lopez.  censura D. Iosephi Pellicerij de Tovar  Pelliceriae domus ac de Ossau in Iaccetanis dynastae  primarij Hispaniarum Regis cronographi.  Cupersanensium rerum Historiam  quae primordia  antiquitates ac temporale ucusque dominium  atque res Ecclesiasticas ternis libris complectitur  fidei meae \u00e0 supremo Regio Castellae Senatu commissam impense  ac sedulo perlegi  qua D. Paullus Antonius de Tarsia operis Auctor Cupersanensis Abbas  summa cum veritate Eruditioni coniuncta Patriae succesus  conversionesque posteritati dicat.  Nudum recensui stylum  qui nec natali solo  nec dominis blanditur  Hocque  anima & cor Historiae  nam antiqua nove  decenter Genealogica  Catholoca pi\u00e8  omniaque sincero  im\u00f2 incorrupto calamo exarata vidi  nec probis moribus  nec orthodoxae Religioni adversatur.  Eique  prefecto uri  utpote antiquitatis scientissimo monumenta pulvere obsita  \u00f9 temporum iniuria vindicata referant Docti.  Qua propter dignam  quae praelo mandetur censeo  ut luce donata ingeniosissimi Historici labore facilius omnes perfruantur.  Ex nostro mantua Carpetano Musaeo  die XVII.  Maij  Anno salutis MDC.XLVIII.  D. Iosephus Pellicer de Tovar  primarius regius Cronographus.  Summa Privilegii Hispaniarum Regis.  Privilegio Catholici Regis Philippi IV.  cognomento magni concessum est Auctori  ut librum hunc typis mandare possit & codem cautum est  ne quis per decennium in his Castellae Regnis eum imprimat  sub poenis in eodem privilegio expressis.  Sub dat.  Matriti die 1. mensis Iunij 1648.  Ioannes de Otalora Guevara.  Statutum item est per supremum Castellae Senatum  ut liber hic publicetur & vendatur exigendo pro singulis quibusqu\u00e8 folijs quadrantem ut videre est penes Franciscum Espadana  Regis Secretarium Sub dat. Matriti dies 26. Martij. 1649. Franciscus Espadana.",
+        "Shelfmark": "663.g.21.",
+        "Notes": "The place of publication is Mantua Carpethanorum which is the Ancient name of Madrid. According to Virgil | Madrid was founded by Ocno |the son of Manto founder of the city of Mantua.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15257",
+                "RecordID": "022-000001300",
+                "Value": "De Tarsia, Pablo Antonio , Abbot, 1619-1665"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15328",
+                    "RecordID": "022-000001367",
+                    "Value": "Nyssenus, Iacobus, Censor,"
+                },
+                {
+                    "PersonId": "15329",
+                    "RecordID": "022-000001368",
+                    "Value": "Lopez, Emmanuel, Censor,"
+                },
+                {
+                    "PersonId": "15330",
+                    "RecordID": "022-000001369",
+                    "Value": "Pellicer de Tovar , Iosephus , Censor, 1602-1679"
+                },
+                {
+                    "PersonId": "15331",
+                    "RecordID": "022-000001370",
+                    "Value": "Espadana, Franciscus, Censor,"
+                }
+            ]
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15005",
+                    "RecordID": "022-000001047",
+                    "Value": "De Petris , Franciscum , ,"
+                },
+                {
+                    "PersonId": "15326",
+                    "RecordID": "022-000001365",
+                    "Value": "Ventriglia , Flavio , ,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15287",
+                    "RecordID": "022-000001327",
+                    "Value": "Colonna, Pompeo, Marquis,"
+                },
+                {
+                    "PersonId": "15325",
+                    "RecordID": "022-000001364",
+                    "Value": "Philip IV, , King of Spain, 1605-1655"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15327",
+                "RecordID": "022-000001366",
+                "Value": "De Paredes, Iulian , ,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Ad Elegantiss. Expolitiss. Luculentissimum Auctorem.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15005",
+                            "RecordID": "022-000001047",
+                            "Value": "De Petris , Franciscum , ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad eundem Auctorem Oratorem Poetam Historicum.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15326",
+                            "RecordID": "022-000001365",
+                            "Value": "Ventriglia , Flavio , ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "City": {
+            "CityId": "52",
+            "PublicationPlaceItalianName": "Madrid",
+            "PublicationPlaceEnglishName": "Madrid",
+            "PublicationPlaceLatinName": "Matritensis",
+            "PublicationPlaceFictitiousName": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19251",
+        "RecordId": "022-000006432",
+        "Surname": "Della Porta",
+        "Forename": "Filesio Costanzo",
+        "Gender": "Male",
+        "DateText": "1594-?",
+        "StartDate": "1594",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Joined the Lincei in 1612. The grandnephew of Giovan Battista.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0040",
+        "RecordId": "021-000002723",
+        "Name": "Addormentati (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1662",
+        "EndDate": "?",
+        "DateText": "1662-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16117",
+                "RecordId": "022-000002724",
+                "Name": "de Magistris,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18450",
+                "RecordId": "022-000005473",
+                "Name": "Francavilla de Barberiis,Tommaso Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18453",
+                "RecordId": "022-000005476",
+                "Name": "Avitabile,Giacinto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18451",
+                "RecordId": "022-000005474",
+                "Name": "de Falco,Nicola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18452",
+                "RecordId": "022-000005475",
+                "Name": "Stradiotto,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18454",
+                "RecordId": "022-000005477",
+                "Name": "Badiale,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

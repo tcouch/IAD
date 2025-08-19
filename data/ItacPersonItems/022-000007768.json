@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20218",
+        "RecordId": "022-000007768",
+        "Surname": "Venier",
+        "Forename": "Maffeo",
+        "AlternativeName": {
+            "AlternativeSurname": "Veniero",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Archbishop of Corfu`",
+        "DateText": "1550-1586",
+        "StartDate": "1550",
+        "EndDate": "1586",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20716",
+        "RecordId": "022-000008536",
+        "Surname": "Gaulli",
+        "Forename": "Giovan Battista",
+        "Pseudonym": "Il Baciccia|Il Baciccio",
+        "DateText": "1639-1709",
+        "StartDate": "1639",
+        "EndDate": "1709",
+        "Nationality": {
+            "NationalityId": "100",
+            "Value": "Genoese"
+        },
+        "Notes": "See his biography by Massimo Bartoletti in DBI. Gaulli joined the Accademia di San Luca in 1662.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

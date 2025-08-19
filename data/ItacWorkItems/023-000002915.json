@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002915",
+        "WorkId": "000379",
+        "ShortTitle": "Dell`imprese di Scipion Bargagli",
+        "LongTitle": "Dove; doppo tutte l`opere cosi` a penna, come a stampa, ch`egli ha potuto vedere di coloro, che della materia dell`Imprese hanno parlato; della vera natura di quelle si ragiona. Riveduta nuovamente, e ristampata. Appresso. Orazione Delle lodi delle Accademie.",
+        "ItacAcademyItem": {
+            "AcademyId": "0049",
+            "RecordID": "021-000002895",
+            "Value": "Accademia degli Accesi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1589",
+        "Shelfmark": "89.k.22",
+        "Subjects": "Academic discourse",
+        "Language": "Italian",
+        "Pagination": "142",
+        "Marginalia": "Yes",
+        "Edition": "2nd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16248",
+                "RecordID": "022-000002896",
+                "Value": "Bargagli,Scipione,,1540-1612"
+            }
+        },
+        "Notes": "The `Orazione` was first presented orally in front of the Accademia degli Accesi in 1564, and printed by Bonetti in 1569, and dedicated to Scipione Gonzaga. According to Ricco` (1989), Bargagli signed the dedication using the printer`s name.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16267",
+                "RecordID": "022-000002916",
+                "Value": "de` Franceschi,Francesco,,ca.1530-1599"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Delle lodi delle Accademie. Orazion di Scipion Bargagli. Riformata, nuovamente, e ristampata",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16248",
+                        "RecordID": "022-000002896",
+                        "Value": "Bargagli,Scipione,,1540 - 1612"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

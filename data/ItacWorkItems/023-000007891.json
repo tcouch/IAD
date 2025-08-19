@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007891",
+        "WorkId": "000893",
+        "ShortTitle": "De montium origine",
+        "LongTitle": "Valerii Faventies ordinis praedicatorum, Dialogus",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1561",
+        "DedicationPlaceDate": "Ex Ascanianis Montegolii collibus 18 Kal. Feb[ruarii]",
+        "Shelfmark": "835e1(7)|233d7",
+        "Subjects": "Geology|Dialogue",
+        "Language": "Latin",
+        "Pagination": "[4] 16r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16954",
+                "RecordID": "022-000003744",
+                "Value": "Faenzi,Valerio,,fl.1557-1598"
+            }
+        },
+        "Notes": "Also known as `Rodulphus vel de origine montium`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16909",
+                "RecordID": "022-000003684",
+                "Value": "Campeggi,Filippo Maria,Bishop of Feltre,1518-1584"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55067",
+            "Value": "023-000007891_55067_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006022",
+        "WorkId": "000714",
+        "ShortTitle": "Heroum semita",
+        "LongTitle": "Hoc est nobile conatus ad iuris utriusque sapientiam Chsiani sideris aupicio comparandam therna charitum modulatione decantati in aula maxima romanae universitatis dum Ioannes Angelus ab Altaemps s. d. n. cubicularius intimus Academiae Intrecciatorum Princeps conclusiones ex utroque iure pro laurea suscipienda sub Alexandri VII P. M. patrocinio publice propugnabat Assistente D. Iosepho Carpano Romano I .U. D. Et in eadem Romanae Sapientiae Universitate Iuris Civilis in Prima Sede Vespertina Professore Ordinario, ac eiusdem Academiae Rectore",
+        "ItacAcademyItem": {
+            "AcademyId": "0140",
+            "RecordID": "021-000006003",
+            "Value": "Accademia degli Intrecciati"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1665",
+        "Shelfmark": "837m1(20)",
+        "Subjects": "Cantata|Music",
+        "Language": "Latin",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18926",
+                "RecordID": "022-000006025",
+                "Value": "Altemps,Giovanni Angelo,,1642 - ?"
+            }
+        },
+        "Notes": "Latin cantata performed at the Archiginnasio of the Sapienza University in Rome on the occasion of Giovanni Angelo`s degree in `utroque iure`.",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "16358",
+                "RecordID": "022-000003013",
+                "Value": "Libellus,Hyacinthus,Master of the Sacred Palace,"
+            }
+        },
+        "CensorsAgreement": "Imprimatur. Si videbitur Reverendiss. P. Mag. Sac. Pal. Apost. O Archiep. Patrac. Vicesg. Imprimatur Fr. Hyacinthus Libellus Sac. Palatij Apost. Mag.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16544",
+                "RecordID": "022-000003251",
+                "Value": "Chigi,Fabio ,Pope Alexander VII,1559-1667"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5198",
+                "RecordID": "022-000000192",
+                "Value": "Clouet,Albert,,1636 - 1679"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18928",
+                "RecordID": "022-000006028",
+                "Value": "de Lazzari,Ignazio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54543",
+            "Value": "023-000006022_54543_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

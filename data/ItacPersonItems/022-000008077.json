@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20355",
+        "RecordId": "022-000008077",
+        "Surname": "Baroccio",
+        "Forename": "Alfonso",
+        "AlternativeName": {
+            "AlternativeSurname": "Il Gatta",
+            "AlternativeForename": null
+        },
+        "DateText": "ca.1531-1609",
+        "StartDate": "ca.1531",
+        "EndDate": "1609",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Founder of the Ardenti Academy of Ferrara, he was also known as Il Gatta. See his biography by Anna Migliori, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

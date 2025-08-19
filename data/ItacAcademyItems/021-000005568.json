@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0122",
+        "RecordId": "021-000005568",
+        "Name": "Virtuosi (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1621",
+        "EndDate": "1623",
+        "DateText": "1621-1623",
+        "Notes": "This Academy met on Sundays, in summer months, to discuss passages from the Scriptures, and other themes of general interest. Here are some exsamples: exegetic themes; `Buoni e cattivi Principi` (Girolamo Preti); `Sopra la buona et cattiva fortuna in sensi morali` (Bolognetti, Servita); `Sopra l`adulatione` (De Rosis); `Sulla curiosita`; `Sulla saggezza e la battaglia tra Davide e Golia`.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5281",
+                "RecordId": "022-000000319",
+                "Name": "Lodovisi,Lodovico,Cardinal,1595 - 1632",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18532",
+                "RecordId": "022-000005570",
+                "Name": "Pasquale,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18510",
+                "RecordId": "022-000005542",
+                "Name": "Giovanetti,Marcello,,1598-1631",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

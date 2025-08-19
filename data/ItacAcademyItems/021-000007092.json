@@ -1,0 +1,34 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0306",
+        "RecordId": "021-000007092",
+        "Name": "Severoliana (Accademia)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "post1690",
+        "DateText": "post1690",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19717",
+                "RecordId": "022-000007090",
+                "Name": "Severoli,Marcello,,? - 1707",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19718",
+                "RecordId": "022-000007091",
+                "Name": "Spinola,Giovanni Battista,Cardinal,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

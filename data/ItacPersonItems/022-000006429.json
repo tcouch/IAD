@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19248",
+        "RecordId": "022-000006429",
+        "Surname": "M\u00fcller",
+        "Forename": "Teofilo",
+        "AlternativeName": {
+            "AlternativeSurname": "Molitore",
+            "AlternativeForename": null
+        },
+        "DateText": "1576 - 1618",
+        "StartDate": "1576",
+        "EndDate": "1618",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Joined the Lincei in 1611, professor of botany at Ingolstadt.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

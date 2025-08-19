@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15377",
+        "RecordId": "022-000001870",
+        "Surname": "Contarini",
+        "Forename": "Alvise",
+        "AlternativeName": {
+            "AlternativeSurname": "Contarenus",
+            "AlternativeForename": "Aloysius"
+        },
+        "PersonalTitle": "Doge",
+        "DateText": "1676-1684",
+        "StartDate": "1676",
+        "EndDate": "1684",
+        "Nationality": {
+            "NationalityId": "59"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16870",
+        "RecordId": "022-000003637",
+        "Surname": "Ferrari",
+        "Forename": "Giovanni Battista",
+        "AlternativeName": {
+            "AlternativeSurname": "Ferrarii",
+            "AlternativeForename": "Io: Baptistae"
+        },
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Jesuit",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

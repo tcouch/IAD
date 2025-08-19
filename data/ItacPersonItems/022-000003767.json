@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16977",
+        "RecordId": "022-000003767",
+        "Surname": "delle Baie",
+        "Forename": "Bartolommeo",
+        "Gender": "Male",
+        "DateText": "fl.1546-1550",
+        "StartDate": "fl.1546",
+        "EndDate": "1550",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Shoemaker, joined the Insipidi in 1550",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

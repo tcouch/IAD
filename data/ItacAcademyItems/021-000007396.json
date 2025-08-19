@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0373",
+        "RecordId": "021-000007396",
+        "Name": "Filaleti (Accademia dei)",
+        "AlternativeName": "Amici della Verita`",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1661/63",
+        "EndDate": "?",
+        "DateText": "1661/63-?",
+        "Notes": "Apparently, this Academy was founded by Battista Nani in Giudecca. The following letter was addressed to the Academy: Carlo Roberto Dati: Lettera a Filaleti di Timauro Antiate della vera storia della cicloide, e della famosissima esperienza dell`argento vivo (In Firenze: all`insegna della Stella, 1663).",
+        "ItacPersonItem": {
+            "PersonId": "19939",
+            "RecordId": "022-000007390",
+            "Name": "Nani,Giovan Battista Felice Gasparo,Procurator,1616 - 1679",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

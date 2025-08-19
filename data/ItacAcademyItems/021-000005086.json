@@ -1,0 +1,132 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0110",
+        "RecordId": "021-000005086",
+        "Name": "Abbarbicati (Accademia degli)",
+        "City": {
+            "CityId": "82",
+            "CityItalianName": "Messina",
+            "CityEnglishName": "Messina",
+            "CityLatinName": "Messana"
+        },
+        "Motto": "Ne steriles dominentur avenae",
+        "StartDate": "1636",
+        "EndDate": "1678",
+        "DateText": "1636-1678",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18127",
+                "RecordId": "022-000005088",
+                "Name": "Tuccari,Alberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18128",
+                "RecordId": "022-000005089",
+                "Name": "Cesareo,Jacopo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18129",
+                "RecordId": "022-000005091",
+                "Name": "Costante,Gregorio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18131",
+                "RecordId": "022-000005093",
+                "Name": "Fardella,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18134",
+                "RecordId": "022-000005097",
+                "Name": "Gueli ,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18135",
+                "RecordId": "022-000005098",
+                "Name": "Lips\u00f2,Nicol\u00f2,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18136",
+                "RecordId": "022-000005099",
+                "Name": "Micalizzi,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18137",
+                "RecordId": "022-000005100",
+                "Name": "Mirello Mora,Antonino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18138",
+                "RecordId": "022-000005101",
+                "Name": "Musarra,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18141",
+                "RecordId": "022-000005104",
+                "Name": "Rizzo,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18142",
+                "RecordId": "022-000005105",
+                "Name": "Samperi,Placido,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18143",
+                "RecordId": "022-000005106",
+                "Name": "Sapone,Paolo,,",
+                "Nickname": "Recido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18144",
+                "RecordId": "022-000005107",
+                "Name": "Ventimiglia,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18145",
+                "RecordId": "022-000005108",
+                "Name": "Pilaja,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

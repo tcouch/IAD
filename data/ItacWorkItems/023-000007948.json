@@ -1,0 +1,102 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007948",
+        "WorkId": "000904",
+        "ShortTitle": "La Storia Della Guerra Di Troia",
+        "LongTitle": "Tradotta in Lingua Volgare Da M. Guido Delle Colonne Messinese. data in luce Da Gli Accademici Della Fucina e dedicata All`Illustriss. Senato della Citt\u00e0 di Messina",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1665",
+        "DedicationPlaceDate": "Messina 25 Aprile 1665",
+        "Shelfmark": "1074.c.23.",
+        "Subjects": "History of the Trojan war",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 364",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20299",
+                "RecordID": "022-000007952",
+                "Value": "Delle Colonne,Guido,,1300c.-?"
+            }
+        },
+        "Notes": "This text is an Italian translation of Guido Delle Colonne`s Historia Destructionis Troiae.\nLast two pages contain a list of books published under the auspices of the Fucina academy in Messina",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "20300",
+                "RecordID": "022-000007953",
+                "Value": "Bindius,Laurentius,Canon,"
+            }
+        },
+        "CensorsAgreement": "Laurentius Bindius Canonicus de mandato, &c.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18887",
+                    "RecordID": "022-000005977",
+                    "Value": "di Gregorio,Giovanni,Senator of Messina|Knight of the Order of the Star,"
+                },
+                {
+                    "PersonId": "18884",
+                    "RecordID": "022-000005972",
+                    "Value": "di Gregorio,Tommaso,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "20296",
+                    "RecordID": "022-000007949",
+                    "Value": "Bettoni ,Antonio,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18151",
+                    "RecordID": "022-000005117",
+                    "Value": "Pisciotta,Francesco Maria,Senator of Messina,"
+                },
+                {
+                    "PersonId": "20297",
+                    "RecordID": "022-000007950",
+                    "Value": "Reitano e Furnari,Antonino,Senator of Messina,"
+                },
+                {
+                    "PersonId": "20298",
+                    "RecordID": "022-000007951",
+                    "Value": "Pellegrino ,Vincenzo,Senator of Messina,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0131",
+                "RecordID": "021-000005843",
+                "Value": "Fucina (Accademia della)"
+            },
+            "ItacPersonItem": {
+                "PersonId": "19002",
+                "RecordID": "022-000006113",
+                "Value": "Valdina,Giovanni Battista,,1644 - 1695"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16933",
+                "RecordID": "022-000003717",
+                "Value": "Longo,Egidio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55257",
+            "Value": "023-000007948_55257_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

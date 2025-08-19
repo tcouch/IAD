@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20612",
+        "RecordId": "022-000008396",
+        "Surname": "Florimi",
+        "Forename": "Giovanni Andrea",
+        "DateText": "before1646-1683",
+        "StartDate": "before1646",
+        "EndDate": "1683",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "`Accademico concertato might refer to the Accademia Filarmonica in Bologna, to which Florimi was affiliated. See his biography by Alessandro Crispolti in DBI. In 1668 fe was organist and chapel master in Budrio (near Bologna).",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16444",
+        "RecordId": "022-000003118",
+        "Surname": "Rampazetto",
+        "Forename": "Francesco I",
+        "DateText": "fl. 1540 - 1576",
+        "StartDate": "fl. 1540",
+        "EndDate": "1576",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "Z989",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

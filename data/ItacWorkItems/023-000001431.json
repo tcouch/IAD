@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001431",
+        "WorkId": "00159",
+        "ShortTitle": "Delle seconde Liriche parafrasi di D. Francesco Antonio Cappone Accademico Ozioso",
+        "LongTitle": "Sopra l`Ode contenute ne` quattro libri e ne gli Epodi di Q. Orazio Flacco. Parte prima",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1675",
+        "DedicationPlaceDate": "Naples 20 August 1674",
+        "Shelfmark": "11427.de.40",
+        "Subjects": "Translation|Paraphrase of Latin verses",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcuts | Floral ornaments | a crown |",
+        "Pagination": "pp.319",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15013",
+                "RecordID": "022-000001055",
+                "Value": "Cappone,Francesco Antonio,,1620-?"
+            }
+        },
+        "Notes": "A Latin hand-written note appears on the frontispiece",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15132",
+                    "RecordID": "022-000001174",
+                    "Value": "Contarini,Andrea,,1601-1675"
+                },
+                {
+                    "PersonId": "15133",
+                    "RecordID": "022-000001175",
+                    "Value": "Battista,Nani,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Reformatori Dello Studio di Padova. Havendo veduto per fede del padre Inquisitore nelli due libri di Poesie Liriche di Francesco Antonio Cappone non v`esser cosa contro la Santa Fede Catolica e perimente per attestato del Segretario nostro niente contro Principi e buoni costumi concedemo licenza a Zaccaria Conzatti di poterli stampare esservando gli ordini et c. Venetia 25 Gennaro 1674. Andrea Contarini Cav. Proc. Ref.  Battista Nani Cav. Proc. Ref.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15125",
+                "RecordID": "022-000001166",
+                "Value": "Carafa,Francesco,Prince | Marquis,1593-1640"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15060",
+                "RecordID": "022-000001101",
+                "Value": "Conzatti,Zaccaria,,"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

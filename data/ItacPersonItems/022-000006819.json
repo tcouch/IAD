@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19545",
+        "RecordId": "022-000006819",
+        "Surname": "Bellisomi",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Bellisomo",
+            "AlternativeForename": "Francesco"
+        },
+        "PersonalTitle": "Marquis",
+        "Nationality": {
+            "NationalityId": "161",
+            "Value": "of Pavia"
+        },
+        "Notes": "Not recorded by maylender as a member of the Affidati academy in Pavia",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

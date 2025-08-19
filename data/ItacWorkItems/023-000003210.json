@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003210",
+        "WorkId": "000418",
+        "ShortTitle": "Gli scambi Commedia",
+        "LongTitle": "dell`Aperto, Accademico Intronato, rappresentata in Siena dall`Onoratiss. Universita` de` Sig. Scolari l`Anno 1574",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1611",
+        "Shelfmark": "1071.k.13.(5.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "199 [4]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16376",
+                "RecordID": "022-000003042",
+                "Value": "Bulgarini,Belisario,,"
+            }
+        },
+        "CensorsAgreement": "Con Lic. de` Sup.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16367",
+                "RecordID": "022-000003030",
+                "Value": "Florimi,Matteo,,1580 - 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53430",
+            "Value": "023-000003210_53430_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001036",
+        "WorkId": "00067",
+        "ShortTitle": "Achillis Bocchii Bonon. Symbolicarum Quaestionum",
+        "LongTitle": "De universo genere quas serio ludebat libri quinque. Condictio attende lector optime si forte quid contra patrum decreta sanctorum pia factum vedictumve his libris infectum id indictumve sit. Sacrosanta Iuli III Pont. Max. Lege cautum est ne quis hoc poema autore inscio invitove de caetero imprimere neve venale habere uspiam audeat",
+        "ItacAcademyItem": {
+            "AcademyId": "0016",
+            "RecordID": "021-000001019",
+            "Value": "Accademia Bocchiana"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1555",
+        "Shelfmark": "672.c.20",
+        "Subjects": "Emblems|Poetry",
+        "Language": "Latin|Greek",
+        "Illustration": "Engravings | Emblems",
+        "Pagination": "pp. 347",
+        "Marginalia": "Yes",
+        "Edition": "1st edn.",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7500",
+                "RecordID": "022-000001020",
+                "Value": "Bocchi,Achille,,1488-1562"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7503",
+                    "RecordID": "022-000001024",
+                    "Value": "Longo,Alberico,,1490? - 1555"
+                },
+                {
+                    "PersonId": "7504",
+                    "RecordID": "022-000001025",
+                    "Value": "Foscararii,Tiresiae,,1485-1552"
+                },
+                {
+                    "PersonId": "7505",
+                    "RecordID": "022-000001026",
+                    "Value": "Camozzi,Giovanni Battista,,1515-1581"
+                },
+                {
+                    "PersonId": "16036",
+                    "RecordID": "022-000002605",
+                    "Value": "Vitale,Giano,,ca. 1485 - 1560"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "7517",
+                "RecordID": "022-000001034",
+                "Value": "Novae Academiae Bocchianae,,,c. 1549-c. 1560"
+            }
+        },
+        "Notes": "Illustrated Bartsch 2803.179-328. Manuscript edition of this book in British Library MS Sloane 3158.\nFor full list book`s images, and related texts (1574 edition), see The Study and Digitisation of Italian Emblems, University of Glasgow (http://www.italianemblems.arts.gla.ac.uk/books.php). See also Anne Rolet, `Achille Bocchi`s Symbolicarum quaestionum`, in Mundus emblematicus. Studies in Neo-Latin Emblem Books, ed. K. Enenkel and A Visser (Brepols, 2003).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7512",
+                "RecordID": "022-000001033",
+                "Value": "Ciocchi del Monte,Gian Maria,Pope Julius III,1487-1555"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "7502",
+                "RecordID": "022-000001022",
+                "Value": "Bonasoni,Giulio,,ca1498-1574"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7517",
+                "RecordID": "022-000001034",
+                "Value": "Novae Academiae Bocchianae,,,c. 1549-c. 1560"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

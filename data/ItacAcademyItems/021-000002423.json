@@ -1,0 +1,173 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0030",
+        "RecordId": "021-000002423",
+        "Name": "Infuriati (Napoli) (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "Motto": "Agitante Calescimus Illo",
+        "StartDate": "1617?",
+        "EndDate": "1693",
+        "DateText": "1617?-1693",
+        "Notes": "Former Sileni Academy",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15865",
+                "RecordId": "022-000002424",
+                "Name": "de Lellis,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15917",
+                "RecordId": "022-000002479",
+                "Name": "Nuctius Altamuras,Paulus Orontius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16637",
+                "RecordId": "022-000003356",
+                "Name": "Gallo,Antonio Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15322",
+                "RecordId": "022-000001361",
+                "Name": "Argentino,Ottavio,,",
+                "Nickname": "L`Ardente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16633",
+                "RecordId": "022-000003352",
+                "Name": "D`Eremita,Donato,Friar,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17356",
+                "RecordId": "022-000004190",
+                "Name": "Caloprese,Gregorio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16153",
+                "RecordId": "022-000002768",
+                "Name": "Brancaccio ,Annibale,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18079",
+                "RecordId": "022-000005028",
+                "Name": "de Vivis,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18080",
+                "RecordId": "022-000005029",
+                "Name": "Campanile ,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15125",
+                "RecordId": "022-000001166",
+                "Name": "Carafa,Francesco,Marquis of Ansi|Prince of Belvedere,1593-1640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18081",
+                "RecordId": "022-000005030",
+                "Name": "Pinelli,Cosmo,Duke of Acerenza,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17373",
+                "RecordId": "022-000004213",
+                "Name": "Rota,Mario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17357",
+                "RecordId": "022-000004192",
+                "Name": "Del Giudice,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16925",
+                "RecordId": "022-000003703",
+                "Name": "Caracciolo ,Carmine Nicol\u00f2,Duke|Prince of Santobuono,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15173",
+                "RecordId": "022-000001215",
+                "Name": "Cusano,Biagio,,\u20201683",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18209",
+                "RecordId": "022-000005189",
+                "Name": "Quaranta,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18363",
+                "RecordId": "022-000005380",
+                "Name": "Giovino,Giovanni Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18449",
+                "RecordId": "022-000005472",
+                "Name": "de Castro,Onofrio,,",
+                "Nickname": "Impatiente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19865",
+                "RecordId": "022-000007307",
+                "Name": "Roccho,Francesco Antonio,,",
+                "Nickname": "il Saturno",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

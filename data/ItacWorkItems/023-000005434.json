@@ -1,0 +1,1395 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005434",
+        "WorkId": "000666",
+        "ShortTitle": "Monumentum romanum",
+        "LongTitle": "Nicolao Claudio Fabricio Perescio Senatori Aquensi doctrine virtutisque causa factum",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1638",
+        "DedicationPlaceDate": "Romae Idibus April. 1638",
+        "Shelfmark": "G1267(1)",
+        "Subjects": "Funereal discourse",
+        "Language": "Italian|Latin|Greek|Arabic|Armenian|Castillan|Chaldean|English|French|German|Portuguese|Hebrew|Spanish|Breton / Armoric|Cantabria regional language|Irish|Saxon language|Danish|Scottish|Illyrian|Ruthenian|Russian|Polish|Sarmatic|Hungarian|Albanian|Japanese|Quichua|Old Proven\u00e7al|New Provencal",
+        "Pagination": "119",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18415",
+                    "RecordID": "022-000005436",
+                    "Value": "Bouchard,Jean Jacque,,fl. 1638 - 1651"
+                },
+                {
+                    "PersonId": "18361",
+                    "RecordID": "022-000005378",
+                    "Value": "Dormalia,Enrico,,"
+                },
+                {
+                    "PersonId": "18416",
+                    "RecordID": "022-000005437",
+                    "Value": "Pollini,Alexandri,,"
+                },
+                {
+                    "PersonId": "18417",
+                    "RecordID": "022-000005438",
+                    "Value": "Donii,Ioannis Baptistae,,"
+                },
+                {
+                    "PersonId": "18384",
+                    "RecordID": "022-000005403",
+                    "Value": "de Grammont,Scipion,,?-1638"
+                },
+                {
+                    "PersonId": "18418",
+                    "RecordID": "022-000005439",
+                    "Value": "Adimari,Alessandro,,"
+                },
+                {
+                    "PersonId": "16380",
+                    "RecordID": "022-000003046",
+                    "Value": "Colonna,Camillo,,"
+                },
+                {
+                    "PersonId": "18432",
+                    "RecordID": "022-000005455",
+                    "Value": "Accademici Umoristi,,,"
+                },
+                {
+                    "PersonId": "5015",
+                    "RecordID": "022-000000017",
+                    "Value": "Gessi,Berlingiero (juniore),Senator,1613 - 1671"
+                },
+                {
+                    "PersonId": "18423",
+                    "RecordID": "022-000005445",
+                    "Value": "Baroni,Caterina,,"
+                },
+                {
+                    "PersonId": "18424",
+                    "RecordID": "022-000005447",
+                    "Value": "Panimolle,Cesare,,"
+                },
+                {
+                    "PersonId": "18425",
+                    "RecordID": "022-000005448",
+                    "Value": "Politi,Clemente,,"
+                },
+                {
+                    "PersonId": "5107",
+                    "RecordID": "022-000000104",
+                    "Value": "Benigni,Domenico,,? - 1653"
+                },
+                {
+                    "PersonId": "5125",
+                    "RecordID": "022-000000121",
+                    "Value": "Dalla Corgna,Fabio,,fl.1638 - 1642"
+                },
+                {
+                    "PersonId": "18190",
+                    "RecordID": "022-000005170",
+                    "Value": "Fieschi,Flavio,,"
+                },
+                {
+                    "PersonId": "5105",
+                    "RecordID": "022-000000102",
+                    "Value": "Balducci,Francesco,,1579 - 1642"
+                },
+                {
+                    "PersonId": "18427",
+                    "RecordID": "022-000005450",
+                    "Value": "Bracciolini (Dell`Api),Francesco,,1566 - 1645"
+                },
+                {
+                    "PersonId": "18198",
+                    "RecordID": "022-000005178",
+                    "Value": "Guglielmi,Iacomo,,"
+                },
+                {
+                    "PersonId": "18428",
+                    "RecordID": "022-000005451",
+                    "Value": "Coppola,Giovanni Carlo,,1599 - 1651"
+                },
+                {
+                    "PersonId": "18187",
+                    "RecordID": "022-000005167",
+                    "Value": "Rocchi,Girolamo,,fl.1628 - 1638"
+                },
+                {
+                    "PersonId": "18429",
+                    "RecordID": "022-000005452",
+                    "Value": "Raggioli,Giulio Cesare,,"
+                },
+                {
+                    "PersonId": "18430",
+                    "RecordID": "022-000005453",
+                    "Value": "Bonarelli,Pietro,Count,"
+                },
+                {
+                    "PersonId": "18431",
+                    "RecordID": "022-000005454",
+                    "Value": "Santa Croce,Scipione,,"
+                },
+                {
+                    "PersonId": "17720",
+                    "RecordID": "022-000004616",
+                    "Value": "Cevoli,Tiberio,,d.1685"
+                },
+                {
+                    "PersonId": "18443",
+                    "RecordID": "022-000005466",
+                    "Value": "Lotti,Ioannis,,"
+                },
+                {
+                    "PersonId": "18436",
+                    "RecordID": "022-000005459",
+                    "Value": "Gualterii,Caroli,,"
+                },
+                {
+                    "PersonId": "18422",
+                    "RecordID": "022-000005443",
+                    "Value": "Tortoletti,Bartolomeo,,"
+                },
+                {
+                    "PersonId": "18441",
+                    "RecordID": "022-000005464",
+                    "Value": "Holstein,Lucas,,1596 - 1661"
+                },
+                {
+                    "PersonId": "18442",
+                    "RecordID": "022-000005465",
+                    "Value": "Rondanini,Pauli Aemilii,,"
+                },
+                {
+                    "PersonId": "18444",
+                    "RecordID": "022-000005467",
+                    "Value": "Guidiccioni,Lelio,,1582 - 1643"
+                },
+                {
+                    "PersonId": "5104",
+                    "RecordID": "022-000000101",
+                    "Value": "Argoli,Giovanni,,1609 - 1660"
+                },
+                {
+                    "PersonId": "18440",
+                    "RecordID": "022-000005463",
+                    "Value": "Suarez,Jose` Maria,Bishop of Vaison,fl.1638 - 1677"
+                },
+                {
+                    "PersonId": "18192",
+                    "RecordID": "022-000005172",
+                    "Value": "Camola,Giacomo Filippo,,"
+                },
+                {
+                    "PersonId": "18204",
+                    "RecordID": "022-000005184",
+                    "Value": "de Simeonibus,Gasparis,,"
+                },
+                {
+                    "PersonId": "18205",
+                    "RecordID": "022-000005185",
+                    "Value": "Portii,Gregorii,,"
+                },
+                {
+                    "PersonId": "18438",
+                    "RecordID": "022-000005461",
+                    "Value": "Sacci Riccoboni,Francisci,,"
+                },
+                {
+                    "PersonId": "18437",
+                    "RecordID": "022-000005460",
+                    "Value": "Carducci,Francesco,,1610 - 1654"
+                },
+                {
+                    "PersonId": "17757",
+                    "RecordID": "022-000004656",
+                    "Value": "Leonida,Fabio,,"
+                },
+                {
+                    "PersonId": "18375",
+                    "RecordID": "022-000005393",
+                    "Value": "de` Vecchi,Carlo,,"
+                },
+                {
+                    "PersonId": "18435",
+                    "RecordID": "022-000005458",
+                    "Value": "Ciaiae,Calanii,,"
+                },
+                {
+                    "PersonId": "18380",
+                    "RecordID": "022-000005399",
+                    "Value": "Naude`,Gabriel,,1600-1653"
+                },
+                {
+                    "PersonId": "15217",
+                    "RecordID": "022-000001259",
+                    "Value": "Allacci,Leone,,1586-1669"
+                },
+                {
+                    "PersonId": "18446",
+                    "RecordID": "022-000005469",
+                    "Value": "Arcudi,Francesco,,1590 - 1641"
+                },
+                {
+                    "PersonId": "18456",
+                    "RecordID": "022-000005480",
+                    "Value": "al-Haqilani,Ibrahim ,,1605 - 1664"
+                },
+                {
+                    "PersonId": "18457",
+                    "RecordID": "022-000005481",
+                    "Value": "Kircher,Athanasius,,1602 - 1680"
+                },
+                {
+                    "PersonId": "18160",
+                    "RecordID": "022-000005128",
+                    "Value": "Della Valle,Pietro,,1586 - 1652"
+                },
+                {
+                    "PersonId": "18459",
+                    "RecordID": "022-000005483",
+                    "Value": "Corelii Hierapolitae,Abdallae,,"
+                },
+                {
+                    "PersonId": "18460",
+                    "RecordID": "022-000005484",
+                    "Value": "Molini,Ioannis,,"
+                },
+                {
+                    "PersonId": "18461",
+                    "RecordID": "022-000005485",
+                    "Value": "Asfa-Mariae,,,"
+                },
+                {
+                    "PersonId": "18462",
+                    "RecordID": "022-000005486",
+                    "Value": "Camertis,Io. Baptistae Lilii,,"
+                },
+                {
+                    "PersonId": "18463",
+                    "RecordID": "022-000005487",
+                    "Value": "Epiphani Chii,Andreae,,"
+                },
+                {
+                    "PersonId": "18464",
+                    "RecordID": "022-000005488",
+                    "Value": "S. S. G.,,,"
+                },
+                {
+                    "PersonId": "18466",
+                    "RecordID": "022-000005490",
+                    "Value": "Buonarroti (the Younger),Michelangelo,,"
+                },
+                {
+                    "PersonId": "18467",
+                    "RecordID": "022-000005491",
+                    "Value": "Rovai,Francesco,,"
+                },
+                {
+                    "PersonId": "18468",
+                    "RecordID": "022-000005492",
+                    "Value": "Ubaldini,Federici,,"
+                },
+                {
+                    "PersonId": "18469",
+                    "RecordID": "022-000005493",
+                    "Value": "Tassis Carpetani,Sebastiani,,"
+                },
+                {
+                    "PersonId": "18470",
+                    "RecordID": "022-000005494",
+                    "Value": "De Salazar,Alfonsi,,"
+                },
+                {
+                    "PersonId": "18471",
+                    "RecordID": "022-000005495",
+                    "Value": "Farias Lusitani,Petri Garsiae,,"
+                },
+                {
+                    "PersonId": "18472",
+                    "RecordID": "022-000005496",
+                    "Value": "Kian Britonis,Francisci,,"
+                },
+                {
+                    "PersonId": "18473",
+                    "RecordID": "022-000005497",
+                    "Value": "Wadingi Hiberni,Lucae,,"
+                },
+                {
+                    "PersonId": "18474",
+                    "RecordID": "022-000005498",
+                    "Value": "De Laco Germani,Michaelis,,"
+                },
+                {
+                    "PersonId": "18475",
+                    "RecordID": "022-000005499",
+                    "Value": "S. Equitis Dani,Hannib.,,"
+                },
+                {
+                    "PersonId": "18476",
+                    "RecordID": "022-000005500",
+                    "Value": "Logani Scoti,Iacobi,,"
+                },
+                {
+                    "PersonId": "18477",
+                    "RecordID": "022-000005501",
+                    "Value": "Bossenensis,Iohannis Mihailovich,,"
+                },
+                {
+                    "PersonId": "18478",
+                    "RecordID": "022-000005502",
+                    "Value": "Kolendae Lithuani,Gabrielis,,"
+                },
+                {
+                    "PersonId": "18479",
+                    "RecordID": "022-000005503",
+                    "Value": "Floriani Wcislinski,Martini,,"
+                },
+                {
+                    "PersonId": "18480",
+                    "RecordID": "022-000005504",
+                    "Value": "Pietrowitz,Benedicti,,"
+                },
+                {
+                    "PersonId": "18481",
+                    "RecordID": "022-000005505",
+                    "Value": "Eh Lersduardaiensis,Michaelis,,"
+                },
+                {
+                    "PersonId": "18482",
+                    "RecordID": "022-000005506",
+                    "Value": "Cortesii,Danielis,,"
+                },
+                {
+                    "PersonId": "18483",
+                    "RecordID": "022-000005507",
+                    "Value": "Menesi Brachmanae,Iosephi,,"
+                },
+                {
+                    "PersonId": "18484",
+                    "RecordID": "022-000005508",
+                    "Value": "Bamueri Soc. Iesu,Roderici,,"
+                },
+                {
+                    "PersonId": "18383",
+                    "RecordID": "022-000005402",
+                    "Value": "Bouche,Honore`,,1598-1671"
+                }
+            ]
+        },
+        "Notes": "Digitized images include titlepage, and page immediately following the titlepage",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18445",
+                    "RecordID": "022-000005468",
+                    "Value": "Riccardi,Nicola,Master of the Sacred Palace,1585-1639"
+                },
+                {
+                    "PersonId": "18441",
+                    "RecordID": "022-000005464",
+                    "Value": "Holstein,Lucas,,1596 - 1661"
+                }
+            ]
+        },
+        "CensorsAgreement": "Ioannis Iacobi Buccardi laudationem funebrem, de vita et vritutibus Nicolai Claudij Fabrici Peresci, diserte et eleganter, atque ea prorsus puritate ac candore scriptam, quo summus ille et incomparabilis vir semper vixerat; Rev.mi P. Nicolai Riccardij, S. A. P. Magistri iussu legi: ut et Epicedia, a clarissimis, ac praestantissimi viris conscripta; hoc est, ipsarum Musarum lacrimas, limpido et erudito Romanae Academiae humore, in Perescij funere manantes. quae omnia, ad tanti viri memoriam posteritati consecrandam, typis excudenda censeo: cum hominis ad bonas literas, artesque iuvandas nati, exemplum sane illustre ob oculos ponant; neque quidquam in ijs offenderim, quod Catholicae religionis decretis, vel morum honestati adversetur. Romae Idib. Maii 1638 Luca Holstenius ---- Imprimatur Fr. Nicolaus Riccardius S. P. A. Magister",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5099",
+                    "RecordID": "022-000000096",
+                    "Value": "Barberini,Francesco,Cardinal,1597 - 1679"
+                },
+                {
+                    "PersonId": "18379",
+                    "RecordID": "022-000005398",
+                    "Value": "de Peiresc,Nicolas Claude Fabri,,1580 - 1637"
+                },
+                {
+                    "PersonId": "18379",
+                    "RecordID": "022-000005398",
+                    "Value": "de Peiresc,Nicolas Claude Fabri,,1580 - 1637"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18415",
+                    "RecordID": "022-000005436",
+                    "Value": "Bouchard,Jean Jacque,,fl. 1638 - 1651"
+                },
+                {
+                    "PersonId": "16380",
+                    "RecordID": "022-000003046",
+                    "Value": "Colonna,Camillo,,"
+                },
+                {
+                    "PersonId": "19647",
+                    "RecordID": "022-000007006",
+                    "Value": "de Suares,Joseph Marie,Bishop of Vaison (France),1599-1677"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18414",
+                "RecordID": "022-000005435",
+                "Value": "Typis Vaticanis,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54441",
+            "Value": "023-000005434_54441_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54442",
+            "Value": "023-000005434_54442_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "De funebri concione... academicorum romanorum habita in mortem N. C. F. Perescii epistola... ad Franciscum Olearium",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18415",
+                            "RecordID": "022-000005436",
+                            "Value": "Bouchard,Jean Jacque,,fl. 1638 - 1651"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In orationem funebrem... Io. Iac. Buccardi...Carmina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18361",
+                            "RecordID": "022-000005378",
+                            "Value": "Dormalia,Enrico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Aeternae in Urbis luce, consessu patrum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18416",
+                            "RecordID": "022-000005437",
+                            "Value": "Pollini,Alexandri,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Cuius fama viri vix tot clauditur Orbe",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18417",
+                            "RecordID": "022-000005438",
+                            "Value": "Donii,Ioannis Baptistae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Peresci ut vitam numeris Bocharde disertis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18384",
+                            "RecordID": "022-000005403",
+                            "Value": "de Grammont,Scipion,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18418",
+                            "RecordID": "022-000005439",
+                            "Value": "Adimari,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nicolai Claudii Fabricii Perescii Laudatio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18415",
+                            "RecordID": "022-000005436",
+                            "Value": "Bouchard,Jean Jacque,,fl. 1638 - 1651"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmina Academicorum Romanorum recitata in concione funebri Ad Nic. Cl. Fabricii Perescii",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18432",
+                            "RecordID": "022-000005455",
+                            "Value": "Accademici Umoristi,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Questo sprirto gentil che visse ancora",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16380",
+                            "RecordID": "022-000003046",
+                            "Value": "Colonna,Camillo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di bende tenebrose il capo avvolto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5015",
+                            "RecordID": "022-000000017",
+                            "Value": "Gessi,Berlingiero (juniore),Senator,1613 - 1671"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Tra bei cigni di Pindo e d`Hippocrene",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18423",
+                            "RecordID": "022-000005445",
+                            "Value": "Baroni,Caterina,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Quel Sol che sparse con eterno vanto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18424",
+                            "RecordID": "022-000005447",
+                            "Value": "Panimolle,Cesare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del basso mondo ogni confin lontano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18425",
+                            "RecordID": "022-000005448",
+                            "Value": "Politi,Clemente,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di bel nettare Ascreo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5107",
+                            "RecordID": "022-000000104",
+                            "Value": "Benigni,Domenico,,- 1653"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Con destra armata e polverosa chioma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5125",
+                            "RecordID": "022-000000121",
+                            "Value": "Dalla Corgna,Fabio,,fl.1638 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Quella d`eternita` fiera nemica",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18190",
+                            "RecordID": "022-000005170",
+                            "Value": "Fieschi,Flavio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "E `l ciel non hebbe un lampo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Render fama agli estinti e` quella sola",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18427",
+                            "RecordID": "022-000005450",
+                            "Value": "Bracciolini (Dell`Api),Francesco,,1566 - 1645"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Da intempestiva morte ohime` rapito",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18198",
+                            "RecordID": "022-000005178",
+                            "Value": "Guglielmi,Iacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alle Gratie alle Muse il pregio hai tolto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18428",
+                            "RecordID": "022-000005451",
+                            "Value": "Coppola,Giovanni Carlo,,1599 - 1651"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "O pellegrin se di veder ti invoglia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18187",
+                            "RecordID": "022-000005167",
+                            "Value": "Rocchi,Girolamo,,fl.1628 - 1638"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Cadde Peresio iniqua Parca hai vinto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18429",
+                            "RecordID": "022-000005452",
+                            "Value": "Raggioli,Giulio Cesare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D`atro cipresso incoronate il crine",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18430",
+                            "RecordID": "022-000005453",
+                            "Value": "Bonarelli,Pietro,Count,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sciolto di spoglia fral laccio tenace",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18431",
+                            "RecordID": "022-000005454",
+                            "Value": "Santa Croce,Scipione,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dunque rivolta e` in pianto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17720",
+                            "RecordID": "022-000004616",
+                            "Value": "Cevoli,Tiberio,,d.1685"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si fas humani lacrimari numina ritu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18416",
+                            "RecordID": "022-000005437",
+                            "Value": "Pollini,Alexandri,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Illustre latij fastus molesque superbas",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18435",
+                            "RecordID": "022-000005458",
+                            "Value": "Ciaiae,Calanii,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Quid sacros decorant cineres quid saxa coronant?",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18375",
+                            "RecordID": "022-000005393",
+                            "Value": "de` Vecchi,Carlo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Virtutum faber heu moreris FABER optime? duro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18436",
+                            "RecordID": "022-000005459",
+                            "Value": "Gualterii,Caroli,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Aeternam in terris degens sibi condidit aedem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17757",
+                            "RecordID": "022-000004656",
+                            "Value": "Leonida,Fabio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Par tibi regales undas qua Sequana voluit",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18437",
+                            "RecordID": "022-000005460",
+                            "Value": "Carducci,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Doctis apta viris PEIRESCI ut limina reddas",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18438",
+                            "RecordID": "022-000005461",
+                            "Value": "Sacci Riccoboni,Francisci,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Non tibi Pyramidum Nilotica marmora Memphis (plus seven more poems)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18205",
+                            "RecordID": "022-000005185",
+                            "Value": "Portii,Gregorii,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Et tellus quae mira tegit quaeque Aethera condunt",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18204",
+                            "RecordID": "022-000005184",
+                            "Value": "de Simeonibus,Gasparis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Aeternos vir magne tuos fose duximus annos",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18192",
+                            "RecordID": "022-000005172",
+                            "Value": "Camola,Giacomo Filippo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dum moreris Peresce sacras arescere lymphas",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18440",
+                            "RecordID": "022-000005463",
+                            "Value": "Suarez,Jose` Maria,Bishop of Vaison,fl.1638 - 1677"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Cum possessa olim Perescius iret in astra",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5104",
+                            "RecordID": "022-000000101",
+                            "Value": "Argoli,Giovanni,,1609 - 1660"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Magne Fabri longum decurrere Nestoris aevum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18417",
+                            "RecordID": "022-000005438",
+                            "Value": "Donii,Ioannis Baptistae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si qua forent Afris Arctois mira vel Indis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18444",
+                            "RecordID": "022-000005467",
+                            "Value": "Guidiccioni,Lelio,,1582 - 1643"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dum procul a curis Lybici trans aequora pontis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18441",
+                            "RecordID": "022-000005464",
+                            "Value": "Holstein,Lucas,,1596 - 1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Publica dum tractas privataque munera Praesul",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18442",
+                            "RecordID": "022-000005465",
+                            "Value": "Rondanini,Pauli Aemilii,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ut mortem est aptus Perescus inaruit urna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18384",
+                            "RecordID": "022-000005403",
+                            "Value": "de Grammont,Scipion,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "At tu ingens anima, claram caput",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18422",
+                            "RecordID": "022-000005443",
+                            "Value": "Tortoletti,Bartolomeo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Quem suis ereptum terrae tenebris obtexit mors",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18422",
+                            "RecordID": "022-000005443",
+                            "Value": "Tortoletti,Bartolomeo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nicolaus Claudius Fabricius Perescius/ animatum Musarum Museum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18443",
+                            "RecordID": "022-000005466",
+                            "Value": "Lotti,Ioannis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epistola Gabrielis Naudaei ad petrum gassendum de obitu Nicolai Fabricii Perescii",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18380",
+                            "RecordID": "022-000005399",
+                            "Value": "Naude`,Gabriel,,1600 - 1653"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmina ex Epicedio Peresciano Eryci Dormali Ad Eminentissimum Principem Franciscum Barberinum Cardinalem (poems, in Greek - authors are Dormalia, Arcudi, Portii, Allacci)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18361",
+                            "RecordID": "022-000005378",
+                            "Value": "Dormalia,Enrico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "??GG?OSS?? sive generis humani Lessus in funere delicii sui Nicolai Claudii Fabricii Perescii",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18415",
+                            "RecordID": "022-000005436",
+                            "Value": "Bouchard,Jean Jacque,,fl. 1638 - 1651"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In PANGLOSSIAM Ioannis Iacobi Buccardi ... studio ac labore collectam CARMINA (Dormali, Porcii, Pollini, de Grammont)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18361",
+                            "RecordID": "022-000005378",
+                            "Value": "Dormalia,Enrico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma Chaldaicum Stranghelum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18456",
+                            "RecordID": "022-000005480",
+                            "Value": "al-Haqilani,Ibrahim ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma Chaldaicum. Eiusdem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18456",
+                            "RecordID": "022-000005480",
+                            "Value": "al-Haqilani,Ibrahim ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma Syriacum. Eiusdem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18456",
+                            "RecordID": "022-000005480",
+                            "Value": "al-Haqilani,Ibrahim ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium Targumicum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18457",
+                            "RecordID": "022-000005481",
+                            "Value": "Kircher,Athanasius,,1602 - 1680"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Hebraicum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18458",
+                            "RecordID": "022-000005482",
+                            "Value": "Ionae Galilaei,Ioannis Baptistae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dodecastichum Samaritanum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18457",
+                            "RecordID": "022-000005481",
+                            "Value": "Kircher,Athanasius,,1602 - 1680"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma Arabicum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18456",
+                            "RecordID": "022-000005480",
+                            "Value": "al-Haqilani,Ibrahim ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Turcicum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18459",
+                            "RecordID": "022-000005483",
+                            "Value": "Corelii Hierapolitae,Abdallae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Encomium Georgianum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18457",
+                            "RecordID": "022-000005481",
+                            "Value": "Kircher,Athanasius,,1602 - 1680"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Armenium",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18460",
+                            "RecordID": "022-000005484",
+                            "Value": "Molini,Ioannis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Aethiopicum. Asfa-Mariae Aethiopis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18461",
+                            "RecordID": "022-000005485",
+                            "Value": "Asfa-Mariae,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Tristrophum Cophtum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18457",
+                            "RecordID": "022-000005481",
+                            "Value": "Kircher,Athanasius,,1602 - 1680"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epitaphium Graecum Vetus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18462",
+                            "RecordID": "022-000005486",
+                            "Value": "Camertis,Io. Baptistae Lilii,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Versus Politici Graeci Recentes",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18463",
+                            "RecordID": "022-000005487",
+                            "Value": "Epiphani Chii,Andreae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma Latinum - Quantus Io Latiam Musarum Planctus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18462",
+                            "RecordID": "022-000005486",
+                            "Value": "Camertis,Io. Baptistae Lilii,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ite sed abruptim et dempto suspiria fine",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18464",
+                            "RecordID": "022-000005488",
+                            "Value": "S. S. G.,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Distichum Chronicum - TertIa LUX qUa se CanCro faX eXtULIt",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18465",
+                            "RecordID": "022-000005489",
+                            "Value": "Bouche Provincialis,Honorati,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmina Italica [1] - O Niccola il morir prezzo e` dovuto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18418",
+                            "RecordID": "022-000005439",
+                            "Value": "Adimari,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmina Italica [2] - Seggasi incontra me c`humil mi corco",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18466",
+                            "RecordID": "022-000005490",
+                            "Value": "Buonarroti (the Younger),Michelangelo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmina Italica [3] - Tu parti o Fabri et all`empirea sfera",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18467",
+                            "RecordID": "022-000005491",
+                            "Value": "Rovai,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Provinciale Vetus - Mon mestier es qu ieu lauzar los pros",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18468",
+                            "RecordID": "022-000005492",
+                            "Value": "Ubaldini,Federici,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode Provincialis Recens",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18465",
+                            "RecordID": "022-000005489",
+                            "Value": "Bouche Provincialis,Honorati,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode Gallica - L`honeur d`Aix et de la Provence",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18384",
+                            "RecordID": "022-000005403",
+                            "Value": "de Grammont,Scipion,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode Hispanica - Si es Pyra o cuna la Llosa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18469",
+                            "RecordID": "022-000005493",
+                            "Value": "Tassis Carpetani,Sebastiani,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De la innupta Deidad fino consorte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18470",
+                            "RecordID": "022-000005494",
+                            "Value": "De Salazar,Alfonsi,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode Lusitanica - Pyramides por tumbas fabricara\u00f5",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18471",
+                            "RecordID": "022-000005495",
+                            "Value": "Farias Lusitani,Petri Garsiae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium Cantabricum - Gui\u00e7on onaen Iaube gustiz emallea",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18487",
+                            "RecordID": "022-000005512",
+                            "Value": "Without author,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode Britonica seu Armorica - O trou puidic a madalez",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18472",
+                            "RecordID": "022-000005496",
+                            "Value": "Kian Britonis,Francisci,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Hibernicum - Nicolas Claudi fial an fear",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18473",
+                            "RecordID": "022-000005497",
+                            "Value": "Wadingi Hiberni,Lucae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Rhythmus Germanicus - Ob schon der balsam wurt Zerdruckt",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18474",
+                            "RecordID": "022-000005498",
+                            "Value": "De Laco Germani,Michaelis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epitaphium Saxonicum - Worhen in hast",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18441",
+                            "RecordID": "022-000005464",
+                            "Value": "Holstein,Lucas,,1596 - 1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Belgicum - Peires die ooft en west boecken van alle taelen",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18441",
+                            "RecordID": "022-000005464",
+                            "Value": "Holstein,Lucas,,1596 - 1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Danicum - Peiresch er dod. Laerdom klager",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18475",
+                            "RecordID": "022-000005499",
+                            "Value": "S. Equitis Dani,Hannib.,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elegia Anglica Sive Britannica - Tel cruel Death (if reason be in death)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18487",
+                            "RecordID": "022-000005512",
+                            "Value": "Without author,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epitaphium Scoticum - This blissid soule inflammed with fayth hope and charite",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18476",
+                            "RecordID": "022-000005500",
+                            "Value": "Logani Scoti,Iacobi,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Slavonicum Sive Illyricum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18477",
+                            "RecordID": "022-000005501",
+                            "Value": "Bossenensis,Iohannis Mihailovich,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Rhuthenicum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18478",
+                            "RecordID": "022-000005502",
+                            "Value": "Kolendae Lithuani,Gabrielis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Moschicum - Hoi mijini hto zamer? Usih cnut druzijna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18458",
+                            "RecordID": "022-000005482",
+                            "Value": "Ionae Galilaei,Ioannis Baptistae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigr. Polonicum Sive Sarmaticum - Cialo tylko a kosci ziemi oddaiemy",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18479",
+                            "RecordID": "022-000005503",
+                            "Value": "Floriani Wcislinski,Martini,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode Hungarica Sive Hunnica - O Gioni o rusegek srep lako terhaza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18481",
+                            "RecordID": "022-000005505",
+                            "Value": "Eh Lersduardaiensis,Michaelis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen Albaniense Seu epiroticum - Scerbese himiri hiscte na ringraziome",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18482",
+                            "RecordID": "022-000005506",
+                            "Value": "Cortesii,Danielis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium Indicum Brachmanicum - Nicolava Claudiacha Fabri di Pierse/ Sagalle sisticha zanta hounu zantacha",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18483",
+                            "RecordID": "022-000005507",
+                            "Value": "Menesi Brachmanae,Iosephi,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium Iaponicum - Xvijn core uo` Coxirareio to uoxerareta nijote uo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18487",
+                            "RecordID": "022-000005512",
+                            "Value": "Without author,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium Americanum Peruanum Sive Lingua Quicha- Ancha cussi cuspallam . Apurunap . cau\u00e7aininta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18484",
+                            "RecordID": "022-000005508",
+                            "Value": "Bamueri Soc. Iesu,Roderici,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16593",
+        "RecordId": "022-000003311",
+        "Surname": "Saviolo",
+        "Forename": "Alessandro",
+        "Gender": "Male",
+        "PersonalTitle": "Count",
+        "DateText": "1670-?",
+        "StartDate": "1670",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1689.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

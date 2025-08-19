@@ -1,0 +1,278 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0028",
+        "RecordId": "021-000002358",
+        "Name": "Rinascenti (Accademia dei)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "New moon in the Taurus sign",
+        "Motto": "Con miglior corso",
+        "StartDate": "1573",
+        "EndDate": "1575?",
+        "DateText": "1573-1575?",
+        "Notes": "A list of academicians, and description of the emblem of this Academy is in Brunelli (1920), `Due Accademie padovane del Cinquecento`, p. 55",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15468",
+                "RecordId": "022-000001989",
+                "Name": "Zabarella,Giacomo,,1533-1589",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15466",
+                "RecordId": "022-000001987",
+                "Name": "Zacco,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9133",
+                "RecordId": "022-000001742",
+                "Name": "Dottori,Benedetto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9230",
+                "RecordId": "022-000001527",
+                "Name": "Speroni degli Alvarotti,Sperone,,1500-1588",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15795",
+                "RecordId": "022-000002345",
+                "Name": "Da Sole,Marco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9011",
+                "RecordId": "022-000001579",
+                "Name": "Mussato,Gianfrancesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15838",
+                "RecordId": "022-000002392",
+                "Name": "Dalle Valli,Conte,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15839",
+                "RecordId": "022-000002393",
+                "Name": "Papafava,Roberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15766",
+                "RecordId": "022-000002313",
+                "Name": "Orsato,Annibale,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15840",
+                "RecordId": "022-000002394",
+                "Name": "Buzzaccarini,Aleduse,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15841",
+                "RecordId": "022-000002395",
+                "Name": "Fiume,Giovanni Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15842",
+                "RecordId": "022-000002396",
+                "Name": "Corradino,Flavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15843",
+                "RecordId": "022-000002397",
+                "Name": "Piazzola,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15844",
+                "RecordId": "022-000002398",
+                "Name": "Pavanello,Pier Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15845",
+                "RecordId": "022-000002399",
+                "Name": "Burletti,Alvise,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15846",
+                "RecordId": "022-000002400",
+                "Name": "Frigimelica,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15847",
+                "RecordId": "022-000002401",
+                "Name": "Dottori,Ludovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15848",
+                "RecordId": "022-000002402",
+                "Name": "Rosselli,Giovanni Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15849",
+                "RecordId": "022-000002403",
+                "Name": "Bia,Cornelio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15850",
+                "RecordId": "022-000002404",
+                "Name": "Soncin,Marco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15851",
+                "RecordId": "022-000002405",
+                "Name": "Dotto,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15852",
+                "RecordId": "022-000002406",
+                "Name": "Tolemino,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15853",
+                "RecordId": "022-000002407",
+                "Name": "Monton,Valerio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15854",
+                "RecordId": "022-000002408",
+                "Name": "Zabarella ,Giulio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15855",
+                "RecordId": "022-000002409",
+                "Name": "Trevisan,Benedetto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15814",
+                "RecordId": "022-000002368",
+                "Name": "Dondi dall`Orologio,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15857",
+                "RecordId": "022-000002411",
+                "Name": "Camposampiero,Tiso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15858",
+                "RecordId": "022-000002412",
+                "Name": "Bigolini,Mainardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15860",
+                "RecordId": "022-000002414",
+                "Name": "Carpenedo,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15861",
+                "RecordId": "022-000002415",
+                "Name": "Solimani,Solimano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15862",
+                "RecordId": "022-000002416",
+                "Name": "Capodelista,Ludovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16053",
+                "RecordId": "022-000002630",
+                "Name": "Portinari,Francesco,,fl.1560 -",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

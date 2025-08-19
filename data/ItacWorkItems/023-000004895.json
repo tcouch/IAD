@@ -1,0 +1,56 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004895",
+        "WorkId": "000599",
+        "ShortTitle": "Hypotyposis philosophiae venetiis",
+        "LongTitle": "Ab Academia Suscitatorum Suscepta In Domo Professa Societatis Iesu",
+        "ItacAcademyItem": {
+            "AcademyId": "0388",
+            "RecordID": "021-000007515",
+            "Value": "Accademia dei Gesuiti"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1660",
+        "Shelfmark": "1135d18",
+        "Subjects": "Philosophy|Meteorology|Natural Philosophy",
+        "Language": "Latin",
+        "Pagination": "448 [31]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15352",
+                "RecordID": "022-000001391",
+                "Value": "Carnoli,Luigi,Jesuit,17th C."
+            }
+        },
+        "Notes": "This is the second edition of a work originally published by the same printer in 1657. A a copy of the first edition is in the Bibliotheque Nationale de France, Paris. Carnoli`s name does not appear in the 1660 edition, the authorship of which is unclear. The British Library have registered the author as `Marino Ventura`, a name that appears three times in the volume - twice in the prefatory material and once on the final page. This could be another pseudonym, in addition to the one Carnoli more frequently used (which was Vigilio Nolarci).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9000",
+                "RecordID": "022-000001572",
+                "Value": "Corner,Federico,Abbot|Cardinal,1579-1659"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18520",
+                "RecordID": "022-000005554",
+                "Value": "Piccini,Giacomo,,1619?-1660"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15366",
+                "RecordID": "022-000001405",
+                "Value": "Brigonci,Giovanni Pietro,,late 17th C."
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

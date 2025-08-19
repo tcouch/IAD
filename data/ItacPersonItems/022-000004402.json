@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17520",
+        "RecordId": "022-000004402",
+        "Surname": "Fanzino della Torre",
+        "Forename": "Sigismondo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Fangino"
+        },
+        "DateText": "fl.1541-?",
+        "StartDate": "fl.1541",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Governor of Casale Monferrato",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,1859 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0019",
+        "RecordId": "021-000001473",
+        "Name": "Filarmonica (Accademia)",
+        "AlternativeName": "Floridi (Accademia dei - 1615)|Filomusi (Accademia dei - 1622)|Filaschisi (Accademia dei 1633)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Organ",
+        "Motto": "Unitate melos",
+        "StartDate": "1615",
+        "EndDate": "still active today",
+        "DateText": "1615-still active today",
+        "Notes": "These were four Academies with a special interest for music in seventeenth century Bologna: Accademia dei Floridi was created in 1615 by Adriano Banchieri. This was followed by Accademia dei Filomusi, created by Girolamo Giacobbi in 1622 (motto: `Vocis dulcedine captant` and Pan`s pipes as an emblem). This was continued by the Accademia dei Filaschisi, created in 1633 by Domenico Brunetti and Francesco Bertacchi (motto: `Orbem demulcet attactu`, and David`s harp as an amblem). Subsequently the Accademia Filarmonica was created in 1666, and is still existing. Publications related to these Academies, but not in British Library collections, are: Alberto Bertelli, Siringa fugace, favoletta in musica; rappresentata nell`accademia de` Filomusi di Bologna da Alberto Bertelli l`inutile... (In Bologna: presso Clemente Ferroni, 1628); Amor tiranno accademia fatta in casa dell`illustrissimo sig. senator Fantuzzi composta in musica da Domenico Pellegrini accad. Filomuso all`illustrissima signora Sulpizia Orsi Grimaldi (Bologna, Dozza, 1649); \nFlorimi, Giovanni Andrea, Hymni unica voce concinendi cum instromentis ... a fratre Joanne Andrea Florimieiusdem ordinis.In Senarum metropolitana musices moderatori,et Accademico Concertato (Opus Quartum Bononiae: typis Iacobi Montii, 1673); Florimi, Giovanni Andrea, Flores melliflui in Deiparae Virginis cum octo plenis vocibus concinendi F. Io. Andreae Florimi senensis in metropolitana Senarum musices vice praefecti et accademici Concertati Io. Vincentio Luchesinio dicati: opus quintum (Bononiae : typis Iacobi Montii, 1676); Florimi, Giovanni Andrea, Versi della turba concertati a quattro voci per li Passij della domenica delle Palme e venerd\u00ec santo con alcuni brevi e devoti Motetti da cantarsi nel visitare li Santissimi Sepolcri : opera settima / Dedicati agl`illustrissimi Dignit\u00e0 e Canonici del insigni cattedrale di Pistoia del padre Gio. Andrea Florimi maestro di capella dell`istessa,et Accademico Concertato (Bologna: Giacomo Monti, 1682); \n\nIn the notes field of many academicians I have reported the date when they joined the Accademia Filarmonica, and their city of provenance (after Laura Callegari Hill). \nBibliography:\nGiuseppe Vecchi, Le Accademie musicali del primo seicento e Monteverdi a Bologna (Bologna: A.M.I.S., 1969); Nestore Morini, L`Accademia Filarmonica di Bologna, 1666-1966, vol. I, Fondazione e vicende storiche (Bologna, 1967); Laura Callegari Hill, L`Accademia Filarmonica di Bologna, 1666-1800 (Bologna, 1991).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5085",
+                "RecordId": "022-000000082",
+                "Name": "Giacobbi, Girolamo , , 1567-1628",
+                "Nickname": "Academico Filomuso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7707",
+                "RecordId": "022-000001482",
+                "Name": "Vernizzi , Ottavio , ,",
+                "Nickname": "L`Indefesso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7708",
+                "RecordId": "022-000001483",
+                "Name": "Manzoli , Domenico, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7709",
+                "RecordId": "022-000001484",
+                "Name": "Monteverdi , Claudio, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7710",
+                "RecordId": "022-000001485",
+                "Name": "Guerra, Bartolomeo, ,",
+                "Nickname": "Il Sollevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7711",
+                "RecordId": "022-000001486",
+                "Name": "Bonini, Francesco, ,",
+                "Nickname": "Il Raddolcito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7712",
+                "RecordId": "022-000001487",
+                "Name": "Bertelli, Alberto, ,",
+                "Nickname": "L`Inutile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7713",
+                "RecordId": "022-000001488",
+                "Name": "Consoni, Paolo, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7714",
+                "RecordId": "022-000001489",
+                "Name": "Milani, Francesco, ,",
+                "Nickname": "Il Solitario",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7715",
+                "RecordId": "022-000001490",
+                "Name": "Cortellini , Camillo, , 1561-1630",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9810",
+                "RecordId": "022-000001491",
+                "Name": "Carrati, Vincenzo Maria, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15390",
+                "RecordId": "022-000001889",
+                "Name": "degli Antonii,Gio. Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15392",
+                "RecordId": "022-000001892",
+                "Name": "Bassani,Gio. Battista,Chapel Master,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15385",
+                "RecordId": "022-000001880",
+                "Name": "Colonna,Giovanni  Paolo,,1637-1695",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15421",
+                "RecordId": "022-000001926",
+                "Name": "Arresti,Giulio Cesare,Maestro di Cappella,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15420",
+                "RecordId": "022-000001925",
+                "Name": "Gabrielli,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15419",
+                "RecordId": "022-000001924",
+                "Name": "Monari,Bartolomeo,Maestro di Cappella,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15418",
+                "RecordId": "022-000001923",
+                "Name": "Tosi,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15417",
+                "RecordId": "022-000001922",
+                "Name": "Frabetti,Annibale,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15416",
+                "RecordId": "022-000001921",
+                "Name": "Gherardini,Rinaldo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15415",
+                "RecordId": "022-000001920",
+                "Name": "Giovanardi,Nicolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15414",
+                "RecordId": "022-000001919",
+                "Name": "Perti,Giacomo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15479",
+                "RecordId": "022-000002005",
+                "Name": "Pagani,Alfonso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15478",
+                "RecordId": "022-000002004",
+                "Name": "Piccinini,Alessandro,,1566-ca1638",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15483",
+                "RecordId": "022-000002009",
+                "Name": "degli Antoni,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15485",
+                "RecordId": "022-000002011",
+                "Name": "Brunetti,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15486",
+                "RecordId": "022-000002012",
+                "Name": "Bertacchi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15487",
+                "RecordId": "022-000002013",
+                "Name": "Adriani,Antonio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15488",
+                "RecordId": "022-000002014",
+                "Name": "Alberti,Carlo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15489",
+                "RecordId": "022-000002015",
+                "Name": "Aresti,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15490",
+                "RecordId": "022-000002016",
+                "Name": "Argentina,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15491",
+                "RecordId": "022-000002017",
+                "Name": "Benvenuti,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15492",
+                "RecordId": "022-000002018",
+                "Name": "Bergonzoni,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15493",
+                "RecordId": "022-000002019",
+                "Name": "Borgognoni,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15494",
+                "RecordId": "022-000002020",
+                "Name": "Bosi,Geminiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15495",
+                "RecordId": "022-000002021",
+                "Name": "Cantarelli,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15496",
+                "RecordId": "022-000002022",
+                "Name": "Cavalieri ,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15497",
+                "RecordId": "022-000002023",
+                "Name": "De La Rue,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15498",
+                "RecordId": "022-000002024",
+                "Name": "Donati,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15499",
+                "RecordId": "022-000002025",
+                "Name": "Donini,Bernardino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15501",
+                "RecordId": "022-000002027",
+                "Name": "Filippi,Antonio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15482",
+                "RecordId": "022-000002008",
+                "Name": "Filipuzzi,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15502",
+                "RecordId": "022-000002028",
+                "Name": "Franceschini,Petronio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15503",
+                "RecordId": "022-000002029",
+                "Name": "Gaggiotti,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15504",
+                "RecordId": "022-000002030",
+                "Name": "Garuti,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15505",
+                "RecordId": "022-000002031",
+                "Name": "Grandi,Florido Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15506",
+                "RecordId": "022-000002032",
+                "Name": "Guidanti,Floriano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15507",
+                "RecordId": "022-000002033",
+                "Name": "Laurenti,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15508",
+                "RecordId": "022-000002034",
+                "Name": "Laurenti,Rocco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15509",
+                "RecordId": "022-000002035",
+                "Name": "Lolli,Angelo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15510",
+                "RecordId": "022-000002036",
+                "Name": "Lucchi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15511",
+                "RecordId": "022-000002037",
+                "Name": "Maccaferri,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15512",
+                "RecordId": "022-000002038",
+                "Name": "Maccarini,Francesco Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15513",
+                "RecordId": "022-000002039",
+                "Name": "Manara,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15514",
+                "RecordId": "022-000002040",
+                "Name": "Mariani,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15515",
+                "RecordId": "022-000002041",
+                "Name": "Marsilij,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15516",
+                "RecordId": "022-000002042",
+                "Name": "Masetti ,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15517",
+                "RecordId": "022-000002043",
+                "Name": "Monti,Lodovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15518",
+                "RecordId": "022-000002044",
+                "Name": "Pesci,Francesco Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15519",
+                "RecordId": "022-000002045",
+                "Name": "Pizzoni,Elzeario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15520",
+                "RecordId": "022-000002046",
+                "Name": "Porta,Orazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15521",
+                "RecordId": "022-000002047",
+                "Name": "Prandi,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15522",
+                "RecordId": "022-000002048",
+                "Name": "Predieri,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15523",
+                "RecordId": "022-000002049",
+                "Name": "Pulzoni,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15524",
+                "RecordId": "022-000002050",
+                "Name": "Ratta,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15525",
+                "RecordId": "022-000002051",
+                "Name": "Signorini,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15526",
+                "RecordId": "022-000002052",
+                "Name": "Soprani,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15527",
+                "RecordId": "022-000002053",
+                "Name": "Torelli,Gasparo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15528",
+                "RecordId": "022-000002054",
+                "Name": "Tosi,Giuseppe Felice,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15529",
+                "RecordId": "022-000002055",
+                "Name": "Tosi,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15530",
+                "RecordId": "022-000002056",
+                "Name": "Verzelotti,Clemente,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15531",
+                "RecordId": "022-000002057",
+                "Name": "Zavateri,Angelo Michele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15532",
+                "RecordId": "022-000002058",
+                "Name": "Borghesi,Guido,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15533",
+                "RecordId": "022-000002059",
+                "Name": "Ceschi,Orazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15534",
+                "RecordId": "022-000002060",
+                "Name": "Cossoni,Carlo Donato,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15535",
+                "RecordId": "022-000002061",
+                "Name": "Gitti,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15536",
+                "RecordId": "022-000002062",
+                "Name": "Zaghi,Ippolito,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15537",
+                "RecordId": "022-000002063",
+                "Name": "Elementi,Guglielmo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15538",
+                "RecordId": "022-000002064",
+                "Name": "Lama,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15539",
+                "RecordId": "022-000002065",
+                "Name": "Pasquali,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15540",
+                "RecordId": "022-000002066",
+                "Name": "Zambonini,Angelo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15541",
+                "RecordId": "022-000002067",
+                "Name": "Bononcini,Antonio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15542",
+                "RecordId": "022-000002068",
+                "Name": "Gotti,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15543",
+                "RecordId": "022-000002069",
+                "Name": "Stefani,Gasparo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15544",
+                "RecordId": "022-000002070",
+                "Name": "Torri,Giovanni Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15545",
+                "RecordId": "022-000002071",
+                "Name": "Camaldi,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15546",
+                "RecordId": "022-000002072",
+                "Name": "Corelli,Arcangelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15547",
+                "RecordId": "022-000002073",
+                "Name": "Fabbi,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15548",
+                "RecordId": "022-000002074",
+                "Name": "Giovanardi,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15549",
+                "RecordId": "022-000002075",
+                "Name": "Padovani,Giovanni Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15550",
+                "RecordId": "022-000002076",
+                "Name": "Querini,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15551",
+                "RecordId": "022-000002077",
+                "Name": "Rambaldi,Nicola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15552",
+                "RecordId": "022-000002078",
+                "Name": "Rizzoli,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15554",
+                "RecordId": "022-000002080",
+                "Name": "Visani,Arcangelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15553",
+                "RecordId": "022-000002079",
+                "Name": "Vandini,Poluzzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15555",
+                "RecordId": "022-000002081",
+                "Name": "Badiali,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15556",
+                "RecordId": "022-000002082",
+                "Name": "Bertoldi,Fabrizio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15557",
+                "RecordId": "022-000002083",
+                "Name": "Donati,Angelo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15558",
+                "RecordId": "022-000002084",
+                "Name": "Malcontenti,Leonardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7398",
+                "RecordId": "022-000000985",
+                "Name": "Martelli,Tom(m)aso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15560",
+                "RecordId": "022-000002086",
+                "Name": "Predieri,Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15561",
+                "RecordId": "022-000002087",
+                "Name": "Trincanati,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15562",
+                "RecordId": "022-000002088",
+                "Name": "Trombetti,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15563",
+                "RecordId": "022-000002089",
+                "Name": "Zavarersi,Giovanni Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15564",
+                "RecordId": "022-000002090",
+                "Name": "Bonini,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15565",
+                "RecordId": "022-000002091",
+                "Name": "Tinazzoli,Giacomo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15566",
+                "RecordId": "022-000002092",
+                "Name": "Bonfiglioli,Ludovico Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15434",
+                "RecordId": "022-000001946",
+                "Name": "Penna,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15567",
+                "RecordId": "022-000002093",
+                "Name": "Uccellini,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15568",
+                "RecordId": "022-000002094",
+                "Name": "Vastamigli,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15570",
+                "RecordId": "022-000002096",
+                "Name": "Bergamini,Giacomo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15571",
+                "RecordId": "022-000002097",
+                "Name": "Brandi,Pellegrino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15572",
+                "RecordId": "022-000002098",
+                "Name": "Gentilini,Giovanni Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15573",
+                "RecordId": "022-000002099",
+                "Name": "Stanzani,Gasparo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15574",
+                "RecordId": "022-000002100",
+                "Name": "Draghi ,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15575",
+                "RecordId": "022-000002101",
+                "Name": "Rinaldi,Antonio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15576",
+                "RecordId": "022-000002102",
+                "Name": "Marchesini,Domenico Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15577",
+                "RecordId": "022-000002103",
+                "Name": "Grandi,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15578",
+                "RecordId": "022-000002104",
+                "Name": "Marcheselli,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15579",
+                "RecordId": "022-000002105",
+                "Name": "Zanardi,Carlo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15580",
+                "RecordId": "022-000002106",
+                "Name": "Caldani,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15581",
+                "RecordId": "022-000002107",
+                "Name": "Catani,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15582",
+                "RecordId": "022-000002108",
+                "Name": "Cavana,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15583",
+                "RecordId": "022-000002109",
+                "Name": "Ghirardini,Rinaldo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15584",
+                "RecordId": "022-000002110",
+                "Name": "Alveri,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15585",
+                "RecordId": "022-000002111",
+                "Name": "Aresti,Floriano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15586",
+                "RecordId": "022-000002112",
+                "Name": "Baratta,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15587",
+                "RecordId": "022-000002113",
+                "Name": "Bonini,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15588",
+                "RecordId": "022-000002114",
+                "Name": "Brugnoli,Leonardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15589",
+                "RecordId": "022-000002115",
+                "Name": "Cavi,Angelo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15590",
+                "RecordId": "022-000002116",
+                "Name": "Checchi,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15592",
+                "RecordId": "022-000002118",
+                "Name": "Desiderati,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15593",
+                "RecordId": "022-000002119",
+                "Name": "Fagnani,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15594",
+                "RecordId": "022-000002120",
+                "Name": "Gabautti,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15595",
+                "RecordId": "022-000002121",
+                "Name": "Gasparini,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15596",
+                "RecordId": "022-000002122",
+                "Name": "Grimandi,Antonio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15597",
+                "RecordId": "022-000002123",
+                "Name": "Lama,Bernardino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15598",
+                "RecordId": "022-000002124",
+                "Name": "Laurenti,Domenico Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15599",
+                "RecordId": "022-000002125",
+                "Name": "Meloni,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15600",
+                "RecordId": "022-000002126",
+                "Name": "Micheletti,Domenico Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15601",
+                "RecordId": "022-000002127",
+                "Name": "Minelli,Pietro Maria,Maestro di Cappella,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15602",
+                "RecordId": "022-000002128",
+                "Name": "Negri,Antonio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15603",
+                "RecordId": "022-000002129",
+                "Name": "Pirotti,Angelo Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15604",
+                "RecordId": "022-000002130",
+                "Name": "Salardi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15605",
+                "RecordId": "022-000002131",
+                "Name": "Sarti,Benedetto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15606",
+                "RecordId": "022-000002132",
+                "Name": "Simoncini,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15394",
+                "RecordId": "022-000001895",
+                "Name": "Torelli,Giuseppe,,1658-1709",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15607",
+                "RecordId": "022-000002133",
+                "Name": "Trincanati,Marc`Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15608",
+                "RecordId": "022-000002134",
+                "Name": "Zanardi,Nicolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15609",
+                "RecordId": "022-000002135",
+                "Name": "Zanatti,Carlo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15610",
+                "RecordId": "022-000002136",
+                "Name": "Agatea,Mario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15611",
+                "RecordId": "022-000002137",
+                "Name": "Belisi,Filippo Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15612",
+                "RecordId": "022-000002138",
+                "Name": "Bertalotti,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15613",
+                "RecordId": "022-000002139",
+                "Name": "Canetoli,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15614",
+                "RecordId": "022-000002140",
+                "Name": "Colonna,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15615",
+                "RecordId": "022-000002141",
+                "Name": "Costa,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15616",
+                "RecordId": "022-000002142",
+                "Name": "Donati,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15617",
+                "RecordId": "022-000002143",
+                "Name": "Fontana,Pietro Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15618",
+                "RecordId": "022-000002144",
+                "Name": "Predieri,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15619",
+                "RecordId": "022-000002145",
+                "Name": "Bettini,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15620",
+                "RecordId": "022-000002146",
+                "Name": "Bononcini,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15621",
+                "RecordId": "022-000002147",
+                "Name": "Chierici,Sebastiano,Maestro di Cappella,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15622",
+                "RecordId": "022-000002148",
+                "Name": "Zani,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15623",
+                "RecordId": "022-000002149",
+                "Name": "Belli,Antonio Ascanio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15624",
+                "RecordId": "022-000002150",
+                "Name": "Bompiacini,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15625",
+                "RecordId": "022-000002151",
+                "Name": "Borra,Angelo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15626",
+                "RecordId": "022-000002152",
+                "Name": "Moggi,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15627",
+                "RecordId": "022-000002153",
+                "Name": "Pistocchi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15628",
+                "RecordId": "022-000002154",
+                "Name": "Albarelli,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15629",
+                "RecordId": "022-000002155",
+                "Name": "Ballarini,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15630",
+                "RecordId": "022-000002156",
+                "Name": "Bichi (filarmonica),Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15631",
+                "RecordId": "022-000002157",
+                "Name": "Cavaletti,Giulio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15632",
+                "RecordId": "022-000002158",
+                "Name": "Cecchi,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15633",
+                "RecordId": "022-000002159",
+                "Name": "Ferrari,Carlo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15634",
+                "RecordId": "022-000002160",
+                "Name": "Jachini,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15635",
+                "RecordId": "022-000002161",
+                "Name": "Manzolini,Carlo Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15636",
+                "RecordId": "022-000002162",
+                "Name": "Milanta,Evil Merodach,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15637",
+                "RecordId": "022-000002163",
+                "Name": "Peruzzi,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15638",
+                "RecordId": "022-000002164",
+                "Name": "Predieri,Giacomo Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15639",
+                "RecordId": "022-000002165",
+                "Name": "Segni,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15640",
+                "RecordId": "022-000002166",
+                "Name": "Segni,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15641",
+                "RecordId": "022-000002167",
+                "Name": "Vanti,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15642",
+                "RecordId": "022-000002168",
+                "Name": "Becchi,Carl`Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15384",
+                "RecordId": "022-000001878",
+                "Name": "Bernardi,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15643",
+                "RecordId": "022-000002169",
+                "Name": "Bernardi,Marc`Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15644",
+                "RecordId": "022-000002170",
+                "Name": "Martini,Giovanni Marco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15645",
+                "RecordId": "022-000002171",
+                "Name": "Rozzi,Clemente,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15646",
+                "RecordId": "022-000002172",
+                "Name": "Tosi,Pietro Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15647",
+                "RecordId": "022-000002173",
+                "Name": "Fea,Guglielmo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15648",
+                "RecordId": "022-000002174",
+                "Name": "Zagarini,Pietro Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15649",
+                "RecordId": "022-000002175",
+                "Name": "Fagnani,Carlo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15650",
+                "RecordId": "022-000002176",
+                "Name": "Muzzi,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15651",
+                "RecordId": "022-000002177",
+                "Name": "Atti,Giovanni Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15652",
+                "RecordId": "022-000002178",
+                "Name": "Cabella,Giacomo Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15653",
+                "RecordId": "022-000002179",
+                "Name": "Canavese,Giuseppe Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15654",
+                "RecordId": "022-000002180",
+                "Name": "Costa,Ferdinando,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15655",
+                "RecordId": "022-000002181",
+                "Name": "Fabbri,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15656",
+                "RecordId": "022-000002182",
+                "Name": "Sandonini,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15657",
+                "RecordId": "022-000002183",
+                "Name": "Sanmartini,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15658",
+                "RecordId": "022-000002184",
+                "Name": "Minelli,Antonio Felice,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15659",
+                "RecordId": "022-000002185",
+                "Name": "Ristori,Giovanni Alberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15660",
+                "RecordId": "022-000002186",
+                "Name": "Romagnoli,Ercole,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15661",
+                "RecordId": "022-000002187",
+                "Name": "Silvani,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15662",
+                "RecordId": "022-000002188",
+                "Name": "Grandi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15663",
+                "RecordId": "022-000002189",
+                "Name": "Marchesi,Faustino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15664",
+                "RecordId": "022-000002190",
+                "Name": "Aldrovandini,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15666",
+                "RecordId": "022-000002192",
+                "Name": "Cattivelli,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15667",
+                "RecordId": "022-000002193",
+                "Name": "Righi,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15668",
+                "RecordId": "022-000002194",
+                "Name": "Coralli,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15669",
+                "RecordId": "022-000002195",
+                "Name": "Ferrini,Antonio Romolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15670",
+                "RecordId": "022-000002196",
+                "Name": "Sassani,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15671",
+                "RecordId": "022-000002197",
+                "Name": "Alemanni,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15672",
+                "RecordId": "022-000002198",
+                "Name": "Clari,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15673",
+                "RecordId": "022-000002199",
+                "Name": "Farne`,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15674",
+                "RecordId": "022-000002200",
+                "Name": "Fiore`,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15675",
+                "RecordId": "022-000002201",
+                "Name": "Fiore`,Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15676",
+                "RecordId": "022-000002202",
+                "Name": "Moratelli,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15677",
+                "RecordId": "022-000002203",
+                "Name": "Alberti,Giovanni Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15678",
+                "RecordId": "022-000002204",
+                "Name": "Laurenti,Pietro Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15679",
+                "RecordId": "022-000002205",
+                "Name": "Mazzoni,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15680",
+                "RecordId": "022-000002206",
+                "Name": "Monteventi,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15681",
+                "RecordId": "022-000002207",
+                "Name": "Pesci,Giuseppe Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15682",
+                "RecordId": "022-000002208",
+                "Name": "Selvaggi,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15683",
+                "RecordId": "022-000002209",
+                "Name": "Laurenti,Giacomo Nicolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15422",
+                "RecordId": "022-000001928",
+                "Name": "Vitali,Gio(vanni) Battista,Maestro di Cappella,1632-1692",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15403",
+                "RecordId": "022-000001906",
+                "Name": "Buffagnotti,Carlo Antonio,,fl. 1660-1715",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7702",
+                "RecordId": "022-000001477",
+                "Name": "Banchieri,Adriano,,1568 - 1634",
+                "Nickname": "Il Dissonante",
+                "Motto": "Discordia concors",
+                "PersonEmblemDescription": null,
+                "PersonEmblemImage": {
+                    "ImageId": "54678",
+                    "Value": "022-000001477_54678_5.jpg"
+                }
+            },
+            {
+                "PersonId": "15480",
+                "RecordId": "022-000002006",
+                "Name": "Pellegrini,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20612",
+                "RecordId": "022-000008396",
+                "Name": "Florimi,Giovanni Andrea,,before1646-1683",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

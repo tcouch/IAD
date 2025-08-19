@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9209",
+        "RecordId": "022-000001506",
+        "Surname": "Dalle Fosse",
+        "Forename": "Giovanni Pietro",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Valeriano",
+                "AlternativeForename": "Pierio"
+            },
+            {
+                "AlternativeSurname": "Bolzanio",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1477-1578",
+        "StartDate": "1477",
+        "EndDate": "1578",
+        "Nationality": {
+            "NationalityId": "348",
+            "Value": "of Belluno"
+        },
+        "Notes": "He was by Achille Bocchi, after the sack of Rome. See his biography by V. Lettere in DBI",
+        "Role": null,
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

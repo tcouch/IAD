@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20454",
+        "RecordId": "022-000008182",
+        "Surname": "Cavagna",
+        "Forename": "Giovanni Battista",
+        "AlternativeName": {
+            "AlternativeSurname": "Cavazza"
+        },
+        "DateText": "?-1613",
+        "StartDate": "?",
+        "EndDate": "1613",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "It is not known where and when Cavagna was born. He worked in Naples, the Marche and Rome as both painter and architect, betweem 1569 and 1613. See his biography by Arnaldo Venditti in DBI.",
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

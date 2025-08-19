@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008648",
+        "WorkId": "000981",
+        "ShortTitle": "Elettione et obligo dei quattro nodari dell`Accademia",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "8\u00b0",
+        "Shelfmark": "John Rylands Library Aldine Collection 566",
+        "Subjects": "Notary deed",
+        "Language": "Italian",
+        "Pagination": "1 leaf",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16080",
+                    "RecordID": "022-000002665",
+                    "Value": "Badoer,Giustiniano,,fl.1557"
+                },
+                {
+                    "PersonId": "20807",
+                    "RecordID": "022-000008657",
+                    "Value": "Cigrigni,Niccolo`,,"
+                },
+                {
+                    "PersonId": "20808",
+                    "RecordID": "022-000008658",
+                    "Value": "Figolin,Zuan,,"
+                },
+                {
+                    "PersonId": "20810",
+                    "RecordID": "022-000008660",
+                    "Value": "Figolino,Marcantonio,,"
+                },
+                {
+                    "PersonId": "20809",
+                    "RecordID": "022-000008659",
+                    "Value": "Bianco,Carlo,,"
+                }
+            ]
+        },
+        "Notes": "There is no date or place of publication. The document declares that four notaries were appointed by Giustiniano Badoer. Notaries promise to be at the Academy every week on a shift rotation, and to split the charges according to this order: Nicolo` Cignigni (`nodaro dell`oratorio`), Zuan Figolin (nodaro del consiglio delle scienze`), Carlo Bianco (`nodaro del consiglio economico`), and Marcantonio Figolino (`nodaro del consiglio politico`). The notaries leave to Federico Badoer to decide with regard to their salary.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

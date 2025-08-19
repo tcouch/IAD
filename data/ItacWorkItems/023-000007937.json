@@ -1,0 +1,165 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007937",
+        "WorkId": "000903",
+        "ShortTitle": "Prima Parte Dell`Historia Siciliana",
+        "LongTitle": "Nella quale si contiene la descrtittione antica, & moderna di Sicilia, le guerre, 7 altri fatti notabili della sua origine per fino alla morte del Catolico R\u00e8 Don Filippo II. Divisa in XX Lib. et Due Parti. Raccolta per Gioseppe Buonfiglio Costanzo Cavallier messinese. Con la sua Tavola Alfabetica di tutte le cose notande contenute in essa Historia.",
+        "ItacAcademyItem": {
+            "AcademyId": "0112",
+            "RecordID": "021-000005190",
+            "Value": "Accademia della Stella"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1604",
+        "DedicationPlaceDate": "Messina 11 November 1604",
+        "Shelfmark": "1057.k.14.",
+        "Subjects": "History of Sicily",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "830",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20285",
+                "RecordID": "022-000007936",
+                "Value": "Buonfiglio Costanzo,Giuseppe,Knight,?-1620s?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20295",
+                    "RecordID": "022-000007947",
+                    "Value": "Bufalo,Annibale,,"
+                },
+                {
+                    "PersonId": "20293",
+                    "RecordID": "022-000007945",
+                    "Value": "De Angelica,Antonino,Reverend,"
+                },
+                {
+                    "PersonId": "20294",
+                    "RecordID": "022-000007946",
+                    "Value": "Maurolico,Francesco,Baron,"
+                }
+            ]
+        },
+        "Notes": "On p. 680, the author mentions the Stella academy in Messina.\nThis text was  printed by Bonifacio Ciera on behalf of the Compagnia de Librari Disuniti di Messina",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15356",
+                    "RecordID": "022-000001395",
+                    "Value": "Maraveglia,Gio[vanni],,"
+                },
+                {
+                    "PersonId": "9665",
+                    "RecordID": "022-000001834",
+                    "Value": "Ottobonus,Leonardus,Secretary of the Council of Ten (Venice),"
+                },
+                {
+                    "PersonId": "20289",
+                    "RecordID": "022-000007941",
+                    "Value": "Malipiero,Giovanni,Member of the Council of Ten (Venice),"
+                },
+                {
+                    "PersonId": "20290",
+                    "RecordID": "022-000007942",
+                    "Value": "Balbi,Santo,Member of the Council of Ten (Venice),"
+                },
+                {
+                    "PersonId": "20291",
+                    "RecordID": "022-000007943",
+                    "Value": "Falier,Martin,Member of the Council of Ten (Venice),"
+                }
+            ]
+        },
+        "CensorsAgreement": "Gli Eccellentiss. Signori Capi dell`Ilustriss. Consiglio di X. infrascritti, havuta fede dalli Signori Reformatori dello Studio di Padova, per relation delli doi \u00e0 ci\u00f2 deputati, cio\u00e8 del Reverendo Padre Inquisitor, & del Circ. Secretario del Senato Zuanne maravegia con giuramento, che nel libro intitolato Historia Siciliana raccolta per Gioseppe Buonfiglio Costanzo Cavallier messinese, non si trova cosa alcuna contra le leggi, & \u00e8 degno di stampa, concedono licentia, che possi esser stampato in questa Citt\u00e0. \nDat. Die 3. Augusti 1604.\nD. Zuanne malipieto\nD. Santo Balbi\nD. Martin Falier.\nCapi dell.mo Consi. di X.\nIllustriss. Cons. X. Secret. Leonardus Otthobonus",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18150",
+                    "RecordID": "022-000005116",
+                    "Value": "Cicala,Filippo,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19441",
+                    "RecordID": "022-000006659",
+                    "Value": "Cirino,Tommaso,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19153",
+                    "RecordID": "022-000006296",
+                    "Value": "Pellegrino,Giovanni Francesco,Senator of Messina,"
+                },
+                {
+                    "PersonId": "20286",
+                    "RecordID": "022-000007938",
+                    "Value": "Saccano,Pietro,Senator of Messina,"
+                },
+                {
+                    "PersonId": "20287",
+                    "RecordID": "022-000007939",
+                    "Value": "Porco,Maurizio,Senator of Messina,"
+                },
+                {
+                    "PersonId": "20288",
+                    "RecordID": "022-000007940",
+                    "Value": "di Cieli,Giovanni Battista,Senator of Messina,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20292",
+                "RecordID": "022-000007944",
+                "Value": "Ciera,Bonifacio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55244",
+            "Value": "023-000007937_55244_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "In Auctoris laudem Rever. Doct. D. Antonini De Angelica",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20293",
+                            "RecordID": "022-000007945",
+                            "Value": "De Angelica,Antonino,Reverend,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Francisci Maurolici Baronis Forestae",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20294",
+                            "RecordID": "022-000007946",
+                            "Value": "Maurolico,Francesco,Baron,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Doct. Annibalis Bufali Octostichon",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20295",
+                            "RecordID": "022-000007947",
+                            "Value": "Bufalo,Annibale,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

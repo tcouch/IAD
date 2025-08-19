@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15870",
+        "RecordId": "022-000002430",
+        "Surname": "Baricelli",
+        "Forename": "Giulio Cesare",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Baricellus",
+            "AlternativeForename": "Julius Caesar"
+        },
+        "DateText": "1594-?",
+        "StartDate": "1594",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "199",
+            "Value": "San Marco (dei Cavoti?), Benevento"
+        },
+        "Notes": "For a study on Giulio Cesare Baricelli, see Angelo Fuschetto, Giulio Cesare Baricelli medico e filosofo nel panorama della cultura napoletana del Seicento (Rome, 1988).",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

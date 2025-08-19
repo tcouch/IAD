@@ -1,0 +1,74 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004630",
+        "WorkId": "000582",
+        "ShortTitle": "Imprese Di Tre Academie Partenie",
+        "LongTitle": "Con Le Loro Dichiarationi fattevi sopra da tre nobili Academici. Raccolte in uno da Gio. Battista Piccaglia. Dedicate All`Illustriss. & Reverendiss. Monsig. Il Signore Cesare Spetiano Vescovo di Cremona, Con Privilegio.",
+        "ItacAcademyItem": {
+            "AcademyId": "0088",
+            "RecordID": "021-000004624",
+            "Value": "Accademia Partenia"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "38",
+            "PublicationPlaceItalianName": "Milano",
+            "PublicationPlaceEnglishName": "Milan",
+            "PublicationPlaceLatinName": "Mediolani"
+        },
+        "PublicationYear": "1603",
+        "DedicationPlaceDate": "Milan 15 January 1603",
+        "Shelfmark": "835.f.16.(9.)",
+        "Subjects": "Academic Speeches|Emblems",
+        "Language": "Italian|Greek|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 106",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17728",
+                    "RecordID": "022-000004625",
+                    "Value": "Raimondi,Girolamo,,"
+                },
+                {
+                    "PersonId": "17733",
+                    "RecordID": "022-000004631",
+                    "Value": "Visconte,Fabritio,,"
+                },
+                {
+                    "PersonId": "17315",
+                    "RecordID": "022-000004138",
+                    "Value": "Landi,Panfilo,,"
+                }
+            ]
+        },
+        "Notes": "Miscellaneous text containing speeches delivered by Girolamo Raimondi at the Partenia Academy in Naples, Panfilo Landi on the Roman Accademia Partenia, and Fabrizio Visconti on the Milanese Accademia Partenia minore. Speeches",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17732",
+                "RecordID": "022-000004629",
+                "Value": "Spetiano,Cesare,Bishop of Cremona,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17730",
+                "RecordID": "022-000004627",
+                "Value": "Piccaglia,Gio[vanni] Battista,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17734",
+                "RecordID": "022-000004632",
+                "Value": "Pontio & Piccaglia,Pacifico & Gio[vanni] Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54685",
+            "Value": "023-000004630_54685_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

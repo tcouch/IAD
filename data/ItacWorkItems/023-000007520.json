@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007520",
+        "WorkId": "000843",
+        "ShortTitle": "Discorso intorno l`impresa dell`Accademia degli Immaturi",
+        "LongTitle": "Di Francesco Contarini detto l`Ignudo. dedicato a gl`illustriss. & Eccellentiss. Sig. Francesco Contarini cavalier et procurator di San Marco, et Andrea Moresini Protettori di essa Academia",
+        "ItacAcademyItem": {
+            "AcademyId": "0389",
+            "RecordID": "021-000007517",
+            "Value": "Accademia degli Immaturi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1618",
+        "Shelfmark": "011901h6",
+        "Subjects": "Academic discourse|Academic speech|Emblems",
+        "Language": "Italian",
+        "Pagination": "Not numbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20008",
+                "RecordID": "022-000007481",
+                "Value": "Contarini,Francesco,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15749",
+                    "RecordID": "022-000002293",
+                    "Value": "Morosini,Andrea,,1558-1619"
+                },
+                {
+                    "PersonId": "20029",
+                    "RecordID": "022-000007522",
+                    "Value": "Contarini,Francesco,Procurator|Knight,1554-1624"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20028",
+                "RecordID": "022-000007521",
+                "Value": "Stamperia Salicata,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55021",
+            "Value": "023-000007520_55021_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

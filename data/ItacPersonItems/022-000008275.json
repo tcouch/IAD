@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20530",
+        "RecordId": "022-000008275",
+        "Surname": "Somasco",
+        "Forename": "Giacomo Antonio",
+        "Gender": "Male",
+        "DateText": "fl.1572-1612",
+        "StartDate": "fl.1572",
+        "EndDate": "1612",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "U746",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

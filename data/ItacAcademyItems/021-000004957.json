@@ -1,0 +1,93 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0101",
+        "RecordId": "021-000004957",
+        "Name": "Rozzi (Accademia dei)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "Motto": "Perficietur",
+        "StartDate": "1670s",
+        "EndDate": "1703",
+        "DateText": "1670s-1703",
+        "Notes": "According to Giuseppe Malatesta Garuffi, L`Italia accademica, Rimini, 1688 (British Library Shelfmark:1578/6406), the Rozzi Academy was founded in 1678. Francesco Saverio Quadrio, Storia e ragione di ogni poesia, Bologna, 1739 (British Library Shelfmark: 11825.r.23.) dates the foundation of the Rozzi Academy in 1679.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17547",
+                "RecordId": "022-000004431",
+                "Name": "Capece Zurlo,Francesco,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15173",
+                "RecordId": "022-000001215",
+                "Name": "Cusano,Biagio,,\u20201683",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15269",
+                "RecordId": "022-000001310",
+                "Name": "Domenichi,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17435",
+                "RecordId": "022-000004292",
+                "Name": "Artale,Giuseppe,,1628 - ?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18018",
+                "RecordId": "022-000004958",
+                "Name": "Frugoni,Fulvio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18020",
+                "RecordId": "022-000004960",
+                "Name": "Camardelli,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18021",
+                "RecordId": "022-000004961",
+                "Name": "Peruzzi,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19667",
+                "RecordId": "022-000007026",
+                "Name": "Guidi,Alessandro,,1650 - 1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20480",
+                "RecordId": "022-000008217",
+                "Name": "Mariani,Francesco,,",
+                "Nickname": "Appuntato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

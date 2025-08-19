@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5452",
+        "RecordId": "022-000000436",
+        "Surname": "Lambertini",
+        "Forename": "Prospero Lorenzo",
+        "PersonalTitle": "Pope Benedetto XIV",
+        "DateText": "1675-1758",
+        "StartDate": "1675",
+        "EndDate": "1758",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Joined the Accademia dei Concili in 1696, after obtaining his degree in civil and canon law.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

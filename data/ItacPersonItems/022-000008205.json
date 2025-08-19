@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20474",
+        "RecordId": "022-000008205",
+        "Surname": "Lando",
+        "Forename": "Ortensio",
+        "DateText": "1500/12-1556/59",
+        "StartDate": "1500/12",
+        "EndDate": "1556/59",
+        "Nationality": {
+            "NationalityId": "76",
+            "Value": "Milanese"
+        },
+        "Notes": "Born into a family from Piacenza. See his biography by Simonetta Adorni Braccesi and Simone Ragagli in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

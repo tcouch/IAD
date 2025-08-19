@@ -1,0 +1,571 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0097",
+        "RecordId": "021-000004786",
+        "Name": "Rinaldiana (Accademia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1550s",
+        "EndDate": "1580s",
+        "DateText": "1550s-1580s",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17869",
+                "RecordId": "022-000004785",
+                "Name": "Rinaldi,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17216",
+                "RecordId": "022-000004031",
+                "Name": "Carafa,Ferrante,Marquis of San Lucido,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17622",
+                "RecordId": "022-000004516",
+                "Name": "Loffredo,Francesco,Marquis of Trevico,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17286",
+                "RecordId": "022-000004101",
+                "Name": "Pisano,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17885",
+                "RecordId": "022-000004807",
+                "Name": "Loffredo,Ferrante,Marquis of Trevico,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17902",
+                "RecordId": "022-000004824",
+                "Name": "Olimpio,Tiberio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17886",
+                "RecordId": "022-000004808",
+                "Name": "de Curte,Giovanni Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17887",
+                "RecordId": "022-000004809",
+                "Name": "Caracciolo,Giovanni Antonio,Marquis of Bucchianico,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17279",
+                "RecordId": "022-000004094",
+                "Name": "Lombardo,Giovanni Francesco ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17888",
+                "RecordId": "022-000004810",
+                "Name": "D`Andrea,Giovanni,President of the Sacro Regio Consiglio,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17889",
+                "RecordId": "022-000004811",
+                "Name": "di Bologna,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17891",
+                "RecordId": "022-000004813",
+                "Name": "Cardines,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17903",
+                "RecordId": "022-000004825",
+                "Name": "Pignatelli,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17892",
+                "RecordId": "022-000004814",
+                "Name": "Boccapianola,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17893",
+                "RecordId": "022-000004815",
+                "Name": "Petti,Ortensio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17894",
+                "RecordId": "022-000004816",
+                "Name": "Brancaccio ,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17895",
+                "RecordId": "022-000004817",
+                "Name": "Filomarino,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17896",
+                "RecordId": "022-000004818",
+                "Name": "Rota,Alfonso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17897",
+                "RecordId": "022-000004819",
+                "Name": "Cardines, Bernardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17898",
+                "RecordId": "022-000004820",
+                "Name": "Suardo,Orazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17899",
+                "RecordId": "022-000004821",
+                "Name": "Petti,Tarquinio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17900",
+                "RecordId": "022-000004822",
+                "Name": "Lanfranco,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17901",
+                "RecordId": "022-000004823",
+                "Name": "Curzio,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16160",
+                "RecordId": "022-000002776",
+                "Name": "Di Bologna,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17904",
+                "RecordId": "022-000004826",
+                "Name": "Scorciato,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17905",
+                "RecordId": "022-000004827",
+                "Name": "Riccio,Lucio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17906",
+                "RecordId": "022-000004828",
+                "Name": "Frezzia,Decio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17907",
+                "RecordId": "022-000004829",
+                "Name": "Curzio,Marcello,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17908",
+                "RecordId": "022-000004830",
+                "Name": "Curzio,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17909",
+                "RecordId": "022-000004831",
+                "Name": "Caracciolo,Lelio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17910",
+                "RecordId": "022-000004832",
+                "Name": "Campanile,Giovanni Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17911",
+                "RecordId": "022-000004833",
+                "Name": "Gatto,Giovanni Leonardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17912",
+                "RecordId": "022-000004834",
+                "Name": "Quadra,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17913",
+                "RecordId": "022-000004835",
+                "Name": "Suardo,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17914",
+                "RecordId": "022-000004836",
+                "Name": "Sorgente,Marcantonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17915",
+                "RecordId": "022-000004837",
+                "Name": "Lepore,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17916",
+                "RecordId": "022-000004838",
+                "Name": "di Bologna,Achille,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17917",
+                "RecordId": "022-000004839",
+                "Name": "Lanfranco,Marcello,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17918",
+                "RecordId": "022-000004840",
+                "Name": "Sammarco,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17919",
+                "RecordId": "022-000004841",
+                "Name": "Fusco ,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17921",
+                "RecordId": "022-000004843",
+                "Name": "Cappasanta,Claudio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17922",
+                "RecordId": "022-000004844",
+                "Name": "Dentice,Ferdinando,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17923",
+                "RecordId": "022-000004845",
+                "Name": "Agostino,Prospero,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17924",
+                "RecordId": "022-000004846",
+                "Name": "Regio,Ferdinando,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17925",
+                "RecordId": "022-000004847",
+                "Name": "Lorenzo,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17926",
+                "RecordId": "022-000004848",
+                "Name": "Aloe,Fabio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17927",
+                "RecordId": "022-000004849",
+                "Name": "Blanco,Michele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17928",
+                "RecordId": "022-000004850",
+                "Name": "Grimaldi,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17929",
+                "RecordId": "022-000004851",
+                "Name": "Brancaccio,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17930",
+                "RecordId": "022-000004852",
+                "Name": "Laino,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17931",
+                "RecordId": "022-000004853",
+                "Name": "Blanco,Giulio Cesare Orazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17932",
+                "RecordId": "022-000004854",
+                "Name": "Sammarco,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17933",
+                "RecordId": "022-000004855",
+                "Name": "Scorziato,Fabrizio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17934",
+                "RecordId": "022-000004856",
+                "Name": "Loffredo,Fabio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17935",
+                "RecordId": "022-000004857",
+                "Name": "Carafa,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17936",
+                "RecordId": "022-000004858",
+                "Name": "Benedelli,Baldassare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17937",
+                "RecordId": "022-000004859",
+                "Name": "Carafa,Adriano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17938",
+                "RecordId": "022-000004860",
+                "Name": "Pasquale,Prospero,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17939",
+                "RecordId": "022-000004861",
+                "Name": "Sorgente,Giovanni Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17940",
+                "RecordId": "022-000004862",
+                "Name": "Galluccio,Prospero,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15115",
+                "RecordId": "022-000001156",
+                "Name": "Caracciolo,Annibale,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17941",
+                "RecordId": "022-000004863",
+                "Name": "Caracciolo,Nestore,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17942",
+                "RecordId": "022-000004864",
+                "Name": "Tancredi,Latino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17943",
+                "RecordId": "022-000004865",
+                "Name": "Massari,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17944",
+                "RecordId": "022-000004866",
+                "Name": "Zonelli,Michele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17945",
+                "RecordId": "022-000004867",
+                "Name": "Cortese,Giovanni Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17946",
+                "RecordId": "022-000004868",
+                "Name": "Fedele,Fortunato,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17947",
+                "RecordId": "022-000004869",
+                "Name": "Carluccio,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17953",
+                "RecordId": "022-000004877",
+                "Name": "Laurentius,Octavius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

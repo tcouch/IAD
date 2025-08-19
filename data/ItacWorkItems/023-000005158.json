@@ -1,0 +1,157 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005158",
+        "WorkId": "000635",
+        "ShortTitle": "Crispo",
+        "LongTitle": "Tragedia Del P. Bernardino Stefonio della compagnia di Gies\u00f9. Trasportata dal latino nel nostro volgare Da Gioseppe Caropreso Nobile Napolitano All`Illustrissimo il Signore D. Fabritio Ruffo Conte De Sinopoli e Borrello",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1615",
+        "DedicationPlaceDate": "Naples 25 August 1615",
+        "Shelfmark": "1578/4490",
+        "Subjects": "Tragedy",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 183",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18179",
+                "RecordID": "022-000005156",
+                "Value": "Stefonio,Bernardino,,1560 - 1620"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15002",
+                    "RecordID": "022-000001044",
+                    "Value": "Basile,Giovan Battista,Count of Torone,1575-1632"
+                },
+                {
+                    "PersonId": "16641",
+                    "RecordID": "022-000003362",
+                    "Value": "Pinto ,Carlo,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15222",
+                    "RecordID": "022-000001264",
+                    "Value": "Boschius,Alexander,General Vicar ,"
+                },
+                {
+                    "PersonId": "15224",
+                    "RecordID": "022-000001266",
+                    "Value": "Longus,Ioannes,Canon|Archbishop of Naples,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur.\nAlexander Boschius Vicarius Generalis. \nIoannes Longus Canonicus, & Curiae Archiepiscop. Neap. Theolog. Dep. vidit, reg. fol. 30.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18182",
+                    "RecordID": "022-000005161",
+                    "Value": "Ruffo,Fabritio,Count of Sinopoli and Borrello,"
+                },
+                {
+                    "PersonId": "18183",
+                    "RecordID": "022-000005162",
+                    "Value": "Ruffo,Vincenzo,Prince of Scilla,"
+                },
+                {
+                    "PersonId": "18181",
+                    "RecordID": "022-000005160",
+                    "Value": "Caropreso,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18179",
+                    "RecordID": "022-000005156",
+                    "Value": "Stefonio,Bernardino,,1560 - 1620"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18181",
+                "RecordID": "022-000005160",
+                "Value": "Caropreso,Giuseppe,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17469",
+                "RecordID": "022-000004338",
+                "Value": "Carlino & Vitale ,Giovanni Giacomo & Costantino,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sonetto De L`Autore Al Medesimo Illustriss. Signor Conte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18181",
+                            "RecordID": "022-000005160",
+                            "Value": "Caropreso,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ottava De L`Autore All`Illustrissimo, & Eccellentissimo Sig. Il Signor Don Vincenzo Ruffo. Principe Di Scilla, &c.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18181",
+                            "RecordID": "022-000005160",
+                            "Value": "Caropreso,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Prognostico De L`Autore Al medesimo Illustrissimo Signor Conte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18181",
+                            "RecordID": "022-000005160",
+                            "Value": "Caropreso,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Cavalier Basile, Academico Otioso. Al Signor Gioseppe Caropreso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15002",
+                            "RecordID": "022-000001044",
+                            "Value": "Basile,Giovan Battista,Count of Torone,1575-1632"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Tragaediam Crispi Italicae dialecto datam \u00e0 praeclato viro Iosepho Caropreso Neapolitano. Caroli Pinti Academici Otiosi ODE.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16641",
+                            "RecordID": "022-000003362",
+                            "Value": "Pinto ,Carlo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

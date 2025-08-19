@@ -1,0 +1,95 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005701",
+        "WorkId": "000692",
+        "ShortTitle": "Il Battillo",
+        "LongTitle": "Poema Bucolico Composto In Lingua Siciliana Da Gio: Battista Basile Palermitano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1686",
+        "DedicationPlaceDate": "Palermo 12 January 1686",
+        "Shelfmark": "239.a.16.",
+        "Subjects": "Bucolic poem",
+        "Language": "Italian|Latin|Greek|Sicilian literary language",
+        "Pagination": "pp. 444",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18631",
+                "RecordID": "022-000005685",
+                "Value": "del Giudice,Giovanni Battista,,1636 - 1686"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18645",
+                    "RecordID": "022-000005705",
+                    "Value": "Bellia,Ottavio,Baron of Camemi,"
+                },
+                {
+                    "PersonId": "18646",
+                    "RecordID": "022-000005706",
+                    "Value": "della Valle,Gutterra,Baron of Valle d`Oro,"
+                },
+                {
+                    "PersonId": "18434",
+                    "RecordID": "022-000005457",
+                    "Value": "Auria,Vincenzo,,1625 - 1710"
+                }
+            ]
+        },
+        "Notes": "This text contains references to the Fucina Academy in Messina and to members of the Riaccesi Academy in Palermo.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18648",
+                    "RecordID": "022-000005708",
+                    "Value": "Scoma,,,"
+                },
+                {
+                    "PersonId": "18647",
+                    "RecordID": "022-000005707",
+                    "Value": "Termini,,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Impr. Termini V. G. \nImpr. Scoma P.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18644",
+                "RecordID": "022-000005704",
+                "Value": "Vanni,Raffaele,Marquis of Roccabianca,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18645",
+                "RecordID": "022-000005705",
+                "Value": "Bellia,Ottavio,Baron of Camemi,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18643",
+                "RecordID": "022-000005703",
+                "Value": "Coppola,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54634",
+            "Value": "023-000005701_54634_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0595",
+        "RecordId": "021-000008621",
+        "Name": "Moderati (Accademia dei)",
+        "City": {
+            "CityId": "64",
+            "CityItalianName": "Verona",
+            "CityEnglishName": "Verona",
+            "CityLatinName": "Veronae"
+        },
+        "EmblemDescription": "A pyramid and a lyre",
+        "StartDate": "?",
+        "EndDate": "?",
+        "DateText": "? -?",
+        "Notes": "A musical academy apparently set up on opposition to the Filarmonici, given its exclusion of members who belonged to the aristocracy.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20791",
+                "RecordId": "022-000008624",
+                "Name": "Ceruti,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20790",
+                "RecordId": "022-000008623",
+                "Name": "Canobbio ,Alessandro,,1530s - 1607",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20789",
+                "RecordId": "022-000008622",
+                "Name": "Guarinone,Cristoforo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20793",
+                "RecordId": "022-000008627",
+                "Name": "Asola,Giovanni Matteo,,1530s - 1609",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19388",
+        "RecordId": "022-000006594",
+        "Surname": "Bernini",
+        "Forename": "Giovanni Lorenzo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Bernino",
+            "AlternativeForename": "Gian Lorenzo"
+        },
+        "DateText": "1598-1680",
+        "StartDate": "1598",
+        "EndDate": "1680",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

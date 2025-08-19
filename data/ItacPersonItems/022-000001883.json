@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15386",
+        "RecordId": "022-000001883",
+        "Surname": "Bertolotti",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bortolotti",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Bartolotti",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1586-1646",
+        "StartDate": "1586",
+        "EndDate": "1646",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Founder of the Accademia degli Indomiti in Bologna, according to Mazzetti, Repertorio di tutti i professori antichi e moderni etc. (Bologna, 1847).",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5082",
+        "RecordId": "022-000000079",
+        "Surname": "Malvezzi",
+        "Forename": "Virgilio",
+        "PersonalTitle": "Marquis",
+        "Anagram": "Grivilio Vezzalmi",
+        "DateText": "1595-1654",
+        "StartDate": "1595",
+        "EndDate": "1654",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "The son of Pariteo Malvezzi, governor of Siena. Portrait from `Memorie imprese e ritratti degli Accademici Gelati`.",
+        "Role": "Dedicatee|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

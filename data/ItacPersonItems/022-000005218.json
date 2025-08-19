@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18234",
+        "RecordId": "022-000005218",
+        "Surname": "Piselli",
+        "Forename": "Giuseppe",
+        "DateText": "fl.1661 - 1702",
+        "StartDate": "fl.1661",
+        "EndDate": "1702",
+        "Nationality": {
+            "NationalityId": "227",
+            "Value": "of Todi"
+        },
+        "Notes": "Nobleman. Dates gathered from his book and Franco della Rosa, Storia di Todi in un manoscritto del XVII secolo (Todi, 2000)",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

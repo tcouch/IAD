@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0344",
+        "RecordId": "021-000007153",
+        "Name": "Adorni (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "ca.1580",
+        "EndDate": "1620?",
+        "DateText": "ca.1580-1620?",
+        "ItacPersonItem": {
+            "PersonId": "19740",
+            "RecordId": "022-000007152",
+            "Name": "Pisenti,Francesco,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

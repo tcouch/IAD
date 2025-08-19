@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18299",
+        "RecordId": "022-000005306",
+        "Surname": "Degli Omodei",
+        "Forename": "Antonio Filoteo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "de Gli Homodei",
+            "AlternativeForename": "Antonio Filoteo"
+        },
+        "DateText": "1510s-1560s?",
+        "StartDate": "1510s",
+        "EndDate": "1560s?",
+        "Nationality": {
+            "NationalityId": "224",
+            "Value": "Castiglione di Sicilia (Catania)"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 66-67 (BL Shelfmark:610.m.10.)",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

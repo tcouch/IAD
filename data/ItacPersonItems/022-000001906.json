@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15403",
+        "RecordId": "022-000001906",
+        "Surname": "Buffagnotti",
+        "Forename": "Carlo Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Boffagnotti"
+        },
+        "DateText": "1660-1715",
+        "StartDate": "1660",
+        "EndDate": "1715",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "He worked in Bologna, Genova, Torino and Ferrara. For his biorgaphy see Fabia Borroni, in DBI.",
+        "Role": "Illustrator|Publisher",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

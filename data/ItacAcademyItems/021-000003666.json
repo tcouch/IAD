@@ -1,0 +1,117 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0058",
+        "RecordId": "021-000003666",
+        "Name": "Uniti-Siena (Accademia degli)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Open clock showing the clockwork",
+        "Motto": "Una moventur varie",
+        "StartDate": "1594",
+        "EndDate": "?",
+        "DateText": "1594-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16370",
+                "RecordId": "022-000003035",
+                "Name": "Lucarini,Alcibiade,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16888",
+                "RecordId": "022-000003658",
+                "Name": "Orlandini,Giovambattista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16889",
+                "RecordId": "022-000003659",
+                "Name": "Luti,Ambrogio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16890",
+                "RecordId": "022-000003660",
+                "Name": "Ghini Bandinelli,Pandolfo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16891",
+                "RecordId": "022-000003661",
+                "Name": "Savini,Savino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16892",
+                "RecordId": "022-000003662",
+                "Name": "Fani,Fabio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16893",
+                "RecordId": "022-000003663",
+                "Name": "Bassani da Castiglione,Ranuccio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16469",
+                "RecordId": "022-000003146",
+                "Name": "Marescotti,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16894",
+                "RecordId": "022-000003664",
+                "Name": "Agazzarri,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16895",
+                "RecordId": "022-000003665",
+                "Name": "Spanocchi,Pandolfo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16912",
+                "RecordId": "022-000003687",
+                "Name": "Bacci,Giovanni Maria,,",
+                "Nickname": "Accademico Unito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17992",
+                "RecordId": "022-000004927",
+                "Name": "d`Elci,Fabio,,",
+                "Nickname": "Sconosciuto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

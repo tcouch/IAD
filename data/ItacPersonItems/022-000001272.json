@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15229",
+        "RecordId": "022-000001272",
+        "Surname": "Campanile",
+        "Forename": "Giuseppe",
+        "Gender": "Male",
+        "DateText": "1620?-1674",
+        "StartDate": "1620?",
+        "EndDate": "1674",
+        "Nationality": {
+            "NationalityId": "95",
+            "Value": "of Salerno"
+        },
+        "Notes": "Giuseppe Campanile was also the President of the Concordi Academy in Naples",
+        "Role": "Author|Dedicatee",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

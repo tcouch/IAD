@@ -1,0 +1,87 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003165",
+        "WorkId": "000407",
+        "ShortTitle": "[Li Ingannati] Comedia del sacrificio de gli Intronati",
+        "LongTitle": "Celebrato ne i giuochi d`un Carnovale in Siena. Di nuovo corretta e ristampata.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1563",
+        "Shelfmark": "1071.h.20",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "69r-v [2]",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16844",
+                "RecordID": "022-000003599",
+                "Value": "Intronati,,,"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16064",
+                "RecordID": "022-000002645",
+                "Value": "Farri,Domenico,,1519 - 1604"
+            }
+        },
+        "PrinterOrnament": "V344 |Z1123",
+        "TitlePageImage": {
+            "ImageId": "53433",
+            "Value": "023-000003165_53433_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Il sacrificio de gli Intronati celebrato nei giuochi del Carnovale in Siena l`anno 1531 sotto il Sodo dignissimo archintronato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Intronati,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Li Ingannati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Intronati,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Canzone nella morte d`una civetta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Intronati,,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

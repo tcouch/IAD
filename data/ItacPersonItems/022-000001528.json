@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9231",
+        "RecordId": "022-000001528",
+        "Surname": "Aretino",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "Pseudonym": "Partenio etiro",
+        "DateText": "1492-1556",
+        "StartDate": "1492",
+        "EndDate": "1556",
+        "Nationality": {
+            "NationalityId": "129",
+            "Value": "of Arezzo"
+        },
+        "Notes": "For the pseudonym, see edit16. Aretino`s portrait is taken from Talanta comedia.",
+        "Role": "Author|Contributor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

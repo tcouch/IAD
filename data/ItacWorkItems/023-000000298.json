@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000298",
+        "WorkId": "00019",
+        "ShortTitle": "Il Tancredi tragedia",
+        "LongTitle": "di Ridolfo Campeggi nell`Academia dei Gelati Il Rugginoso all`Illustrissimo et reverendissimo signore il signor cardinale Scipione Borghese",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "Bologna 1 January 1614",
+        "Shelfmark": "T.2164.(1)",
+        "Subjects": "Tragedy",
+        "Language": "Italian",
+        "Illustration": "Engraved title page | A group of women | Woodcut | Typographic ornament",
+        "Pagination": "150",
+        "Marginalia": "No",
+        "Edition": "1st",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5039",
+                "RecordID": "022-000000041",
+                "Value": "Campeggi,Ridolfo,Count,1565-1624"
+            }
+        },
+        "Notes": "For printer ornament see Sorbelli Storia della stampa in Bologna (Bologna: Zanichelli 1929) p. 137",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7703",
+                "RecordID": "022-000001478",
+                "Value": "Borghese-Caffarelli,Scipione,Cardinal,1576 - 1633"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5278",
+                "RecordID": "022-000000267",
+                "Value": "Valesio,Giovanni,,1561-1640"
+            }
+        },
+        "EngraverReference": "Bartsch 4002.023",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5253",
+                "RecordID": "022-000000244",
+                "Value": "Cochi,Bartolomeo,,\u20201621"
+            }
+        },
+        "PrinterOrnament": "Z171",
+        "TitlePageImage": {
+            "ImageId": "52649",
+            "Value": "023-000000298_52649_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

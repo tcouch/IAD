@@ -1,0 +1,32 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0133",
+        "RecordId": "021-000005885",
+        "Name": "Arcadia",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "20614",
+                "RecordId": "022-000008399",
+                "Name": "Marchetti,Alessandro,,1633-1714",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19035",
+                "RecordId": "022-000006152",
+                "Name": "Nappini,Bartolomeo,,ca.1634-1717",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

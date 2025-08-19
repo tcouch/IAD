@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0390",
+        "RecordId": "021-000007560",
+        "Name": "Imperturbabili (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Mountain with its top flaming, on which hounds are running",
+        "Motto": "Aelent ne doleant",
+        "StartDate": "ca.1658",
+        "EndDate": "?",
+        "DateText": "ca.1658-?",
+        "Notes": "Publications, not in British Library collections, include: Il Tolomeo drama de gl` Academici Imperturbabili . Rappresentato nel theatro di S. Apollinare di Venezia, l`anno 1658. Consacrato all`illustriss.mo ... sign. Vettore Pesaro (In Venetia: appresso il Valuasense, 1658); La pazzia in trono overo Caligola delirante, opera di stile recitativo comparsa nel famoso Teatro di S. Apollinare in Venetia l`anno 1660 per virtuosa ricreatione delli Signori Academici Imperturbabili (s.n., 1660)",
+        "ItacPersonItem": {
+            "PersonId": "19759",
+            "RecordId": "022-000007178",
+            "Name": "Gisberti,Domenico,,1635 - 1677",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

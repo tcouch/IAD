@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19741",
+        "RecordId": "022-000007156",
+        "Surname": "Gronow",
+        "Forename": "Jacob",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Gronovius",
+            "AlternativeForename": null
+        },
+        "DateText": "1645-1711",
+        "StartDate": "1645",
+        "EndDate": "1711",
+        "Nationality": {
+            "NationalityId": "67",
+            "Value": "Dutch"
+        },
+        "Notes": "Philologist, professor of history and Greek language in Leyden. Joined the Ricovrati in 1678",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

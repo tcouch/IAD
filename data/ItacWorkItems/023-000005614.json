@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005614",
+        "WorkId": "000679",
+        "ShortTitle": "Vienna assediata",
+        "LongTitle": "ora gloriosamente libera. Dedicata all`Illustriss. et Eccellentiss. signor D. Marc`Antonio Borghese. ODA di Giovanni Prati Veneto. Detta dallo stesso nella publica Accademia degli Infecondi di ROMA",
+        "ItacAcademyItem": {
+            "AcademyId": "0125",
+            "RecordID": "021-000005612",
+            "Value": "Accademia degli Infecondi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1683",
+        "DedicationPlaceDate": "Rome 19 September 1683",
+        "Shelfmark": "11426f93(1)",
+        "Subjects": "Academic presentation in verses",
+        "Language": "Italian",
+        "Pagination": "8",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18571",
+                "RecordID": "022-000005613",
+                "Value": "Prati,Giovanni,,fl.1677 - 1690"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "18573",
+                "RecordID": "022-000005616",
+                "Value": "Leone,Francesco,,"
+            }
+        },
+        "Notes": "In the dedication page, is written: `In Roma. Per  Michel` Ercole 1683; Si vendono in Piazza Madama da Francesco Leone`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15451",
+                "RecordID": "022-000001968",
+                "Value": "Borghese,Marcantonio,Prince of Sulmona,1660 - 1729"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18572",
+                "RecordID": "022-000005615",
+                "Value": "Ercole,Michele,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54494",
+            "Value": "023-000005614_54494_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005154",
+        "WorkId": "000634",
+        "ShortTitle": "Sacra ac recens Psalmorum omnium Davidis interpretatio,",
+        "LongTitle": "ab eximio theologo Placido Parmensi, Ordinis Praedicatorum edita",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1559",
+        "Shelfmark": "1409k10",
+        "Subjects": "Biblical studies|Old Testament",
+        "Language": "Latin",
+        "Pagination": "335r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7343",
+                "RecordID": "022-000000930",
+                "Value": "da Parma,Placido,,?-1558"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55084",
+            "Value": "023-000005154_55084_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

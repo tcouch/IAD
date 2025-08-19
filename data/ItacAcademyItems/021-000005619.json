@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0127",
+        "RecordId": "021-000005619",
+        "Name": "Imperfetti (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Half moon",
+        "Motto": "Clariora videbis",
+        "StartDate": "1612?",
+        "EndDate": "?",
+        "DateText": "1612?-?",
+        "Notes": "It was probably created by one dottor Angiolucci in the Studio della Sapienza. Cesare Colonna`s poem in Degli Allori d`Eurota (1662), suggests that the Academy existed before 1662. Maylender  found a different `impresa`  for this Academy, representing a compass and a circle, with the motto `Fiet` ---- Verucci`s comedy, Il dispettoso marito, suggests that the Academy existed as early as 1612. --- Another publication related to this and other Roman Academies (not in British Library collections) is: Ercole Brasavola, Inquisitiones variae eruditionis in Intricatorum, Imperfectorum, et Indispositorum Academiis (1674). See Franchi, Impressioni sceniche, p. 561n",
+        "ItacPersonItem": {
+            "PersonId": "18574",
+            "RecordId": "022-000005617",
+            "Name": "Colonna,Cesare,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

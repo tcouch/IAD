@@ -1,0 +1,163 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002745",
+        "WorkId": "000349",
+        "ShortTitle": "Vite De` Gran Maestri Della Sacra Religione Di San. Giovanni Gierosolomitano",
+        "LongTitle": "Del Comendatore Fra Geromino Marulli",
+        "ItacAcademyItem": {
+            "AcademyId": "0042",
+            "RecordID": "021-000002744",
+            "Value": "Accademia degli Arcincauti"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1636",
+        "Shelfmark": "483.d.14.",
+        "Content": "Biographies of the Knights of the Order of St. John of Jerusalem",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|Jerusalem; Rhodes; Malta; emblems",
+        "Pagination": "pp. 724",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16134",
+                "RecordID": "022-000002746",
+                "Value": "Marulli,Geronimo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15018",
+                    "RecordID": "022-000001060",
+                    "Value": "Comite,Oratio,,"
+                },
+                {
+                    "PersonId": "16138",
+                    "RecordID": "022-000002750",
+                    "Value": "Capece Zurlo,F. Giovanni,,"
+                },
+                {
+                    "PersonId": "16139",
+                    "RecordID": "022-000002751",
+                    "Value": "Solduerio,Giovanni Antonio,,"
+                },
+                {
+                    "PersonId": "16141",
+                    "RecordID": "022-000002753",
+                    "Value": "de Domenici ,Franciscus,,"
+                },
+                {
+                    "PersonId": "16140",
+                    "RecordID": "022-000002752",
+                    "Value": "de Domenici,Nicolaus,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15123",
+                    "RecordID": "022-000001164",
+                    "Value": "Tamburellus,Felix,General Vicar,"
+                },
+                {
+                    "PersonId": "16136",
+                    "RecordID": "022-000002748",
+                    "Value": "de Claro,Franciscus,Canon,"
+                },
+                {
+                    "PersonId": "16137",
+                    "RecordID": "022-000002749",
+                    "Value": "de Aquino,Thomas,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Faelix Tamburellus Vic. Gen. franciscus de Claro Canonicus Deputatus vidit. D. Thomas Aquino Clericus Regul. vidit.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16135",
+                    "RecordID": "022-000002747",
+                    "Value": "Lascaris,Giovanni Paolo,Count of Castellar|Grand Master of the Knights Hospitallers of Saint John of Jerusalem,1560 - 1657"
+                },
+                {
+                    "PersonId": "16134",
+                    "RecordID": "022-000002746",
+                    "Value": "Marulli,Geronimo,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15221",
+                "RecordID": "022-000001263",
+                "Value": "Beltrano,Ottavio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53139",
+            "Value": "023-000002745_53139_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Signor Comendatore F. Geronimo Marulli Per Le Vite de` Gran Maestri della S.R. Gierosolomitana. Il Signor F. Giovanni Capece Zurlo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16138",
+                            "RecordID": "022-000002750",
+                            "Value": "Capece Zurlo,F. Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Signor Comendatore Fra Geronimo Marulli Per Le Virt\u00f9 Eroiche da lui essercitate. Horatio Comite, Arcincauto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15018",
+                            "RecordID": "022-000001060",
+                            "Value": "Comite,Oratio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Autorem. Nicolaus de Domenichi V.I.D. Echo.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16140",
+                            "RecordID": "022-000002752",
+                            "Value": "de Domenici,Nicolaus,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad eundem Franciscus De Domenici V.I.D. Tricolostetrastrophos.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16141",
+                            "RecordID": "022-000002753",
+                            "Value": "de Domenici ,Franciscus,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Comendatore Signor F. Geronimo Marulli Il Sacerdote Gierosolimitano F. Gio. Antonio Solduerio Secret. della stessa Religione nel Regno di Napoli.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16139",
+                            "RecordID": "022-000002751",
+                            "Value": "Solduerio,Giovanni Antonio,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

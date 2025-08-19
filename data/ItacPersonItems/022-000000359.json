@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5308",
+        "RecordId": "022-000000359",
+        "Surname": "Pezzana",
+        "Forename": "Nicol\u00f2",
+        "AlternativeName": {
+            "AlternativeSurname": "Pezzana",
+            "AlternativeForename": "Nicolaum"
+        },
+        "DateText": "c. 1620-c. 1750",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "The Karlsruhe Virtual Katalog lists books published by Pezzana up to 1757 but there are not precise dates regarding his life",
+        "Role": "Printer",
+        "TypographicReference": "Mar.te 1307|Mar.te 1334",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

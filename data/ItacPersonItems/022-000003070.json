@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16404",
+        "RecordId": "022-000003070",
+        "Surname": "Poletti",
+        "Forename": "Oratio",
+        "AlternativeName": {
+            "AlternativeSurname": "Poletti",
+            "AlternativeForename": "Orazio"
+        },
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "Mar.te 753",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

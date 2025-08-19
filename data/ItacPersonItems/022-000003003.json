@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16348",
+        "RecordId": "022-000003003",
+        "Surname": "Frigimelica",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "DateText": "fl.1600-1614",
+        "StartDate": "fl.1600",
+        "EndDate": "1614",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1600.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

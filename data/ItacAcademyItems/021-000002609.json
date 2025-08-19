@@ -1,0 +1,148 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0034",
+        "RecordId": "021-000002609",
+        "Name": "Erranti (Accademia degli)",
+        "AlternativeName": "Errantis",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1626",
+        "EndDate": "1700?",
+        "DateText": "1626-1700?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16040",
+                "RecordId": "022-000002610",
+                "Name": "Cacace,Gio[vanni] Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17373",
+                "RecordId": "022-000004213",
+                "Name": "Rota,Mario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17425",
+                "RecordId": "022-000004282",
+                "Name": "da Napoli,Clemente,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17424",
+                "RecordId": "022-000004281",
+                "Name": "Da Nola,Matteo,,",
+                "Nickname": "lo Stabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17426",
+                "RecordId": "022-000004283",
+                "Name": "Ampollone,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17427",
+                "RecordId": "022-000004284",
+                "Name": "Bergazzano ,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17429",
+                "RecordId": "022-000004286",
+                "Name": "Tartaglione,Gregorio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17430",
+                "RecordId": "022-000004287",
+                "Name": "de Simone di Campi,Giuseppe,,",
+                "Nickname": "l`Inquieto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17432",
+                "RecordId": "022-000004289",
+                "Name": "Guaragna Galluppi,Biagio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17433",
+                "RecordId": "022-000004290",
+                "Name": "Bernardo,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17434",
+                "RecordId": "022-000004291",
+                "Name": "Capece,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17435",
+                "RecordId": "022-000004292",
+                "Name": "Artale,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16153",
+                "RecordId": "022-000002768",
+                "Name": "Brancaccio ,Annibale,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17436",
+                "RecordId": "022-000004293",
+                "Name": "Genuzio ,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17452",
+                "RecordId": "022-000004315",
+                "Name": "Mutio,Giacinto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18285",
+                "RecordId": "022-000005286",
+                "Name": "Crisci,Giovan Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

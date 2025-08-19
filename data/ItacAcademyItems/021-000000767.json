@@ -1,0 +1,171 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0010",
+        "RecordId": "021-000000767",
+        "Name": "Indomiti (Accademia degli)",
+        "AlternativeName": "Academia Indomitorum",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Charriot of Apollo; A quadriga at full gallop",
+        "EmblemImage": {
+            "ImageId": "52619",
+            "Value": "021-000000767_52619_1.jpg"
+        },
+        "Motto": "Mox alter; Modo dexter Apollo",
+        "StartDate": "1640",
+        "EndDate": "1646",
+        "DateText": "1640-1646",
+        "Notes": "There is uncertainty about the dates of the Academy, and the sequence of is emblems and mottoes. The latest contribution is Fanti, Notizie (1983). Other publications related to the Indomiti Academy, but not in British Librabry collections, are: Montalbani, Ovidio, Drosilogia cioe Discorso di rugiada colle astrologiche predittioni dell`anno 1642. Del rugiadoso Academico della Notte, fra gl` Indomiti lo Stellato ... (In Bologna: presso Gio. Battista Ferroni, 1641); Primizie amorose de gli Accademici Indomiti (Bologna: presso Gio. Battista Ferroni, 1642); Montalbani, Ovidio, Nubilogia discorso meteorologico (Bologna: Ferroni, 1642); Echo in Indomitorum Academia attributas laudes eminentissimo protectori Iulio Sacchetto repetens. Formata a Hieronymo Bendando monacho Casinensi inter Indomitos assicuratus (Bononiae: typis Io. Baptistae Ferronij, 1642); Montalbani, Ovidio, Chiologia, cioe discorso della neue colle predittioni de` tempi, ed altri emergenti dell`anno 1645. Di Ouidio Mont`Albani il Rugiadoso Academico della Notte, e fra gl` Indomiti lo Stellato. All`illustrissimo sig. e padrone colendissimo il sig. col Francesco Maria Riarii (In Bologna: presso Gio. Battista Ferroni, 1644); Montalbani, Ovidio, Brontologia cioe discorso del tuono, dove le cagioni di lui, gl`effetti, e i piu reconditi significati fondatamente si scuoprono. ... Del Rugiadoso Academico della Notte, fra gl` Indomiti lo Stellato... (In Bologna: presso Gio. Batt. Ferroni, 1644); Languidezze academiche in morte del sig. commendatore F. Gio. Bartolotti primo prencipe, et vno de` fondatori dell`Acad.a de gl` Indomiti (In Bologna: presso Gio. Battista Ferroni, 1646); Montalbani, Ovidio, Cometoscopia ouero specolatione intorno alle comete col discorso astrologico delle commotioni, e varieta de` tempi nell`anno 1646 (Bologna: Ferroni, 1646); Montalbani, Ovidio, Selenoscopia ouero astronomicofisica (Bologna: Ferroni, 1647); Indomitorum leges (17th or 18th c.).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5012",
+                "RecordId": "022-000000014",
+                "Name": "Barbazza, Andrea, Count, 1581/82-1656",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5022",
+                "RecordId": "022-000000024",
+                "Name": "Montalbani,Ovidio, , c. 1600",
+                "Nickname": "Lo Stellato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5048",
+                "RecordId": "022-000000050",
+                "Name": "Bentivogli, Carlo, Count, 1615-1661",
+                "Nickname": "Il Favorito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15386",
+                "RecordId": "022-000001883",
+                "Name": "Bertolotti,Gio.,,fl. 1640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6051",
+                "RecordId": "022-000000776",
+                "Name": "Bendandus,Hieronymus,,fl.1642",
+                "Nickname": "L`Assicurato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5017",
+                "RecordId": "022-000000019",
+                "Name": "Carmeni,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5020",
+                "RecordId": "022-000000022",
+                "Name": "Bonomi,Giovanfrancesco,,1626-1705",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5144",
+                "RecordId": "022-000000140",
+                "Name": "De` Riccardi d`Ortona,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5080",
+                "RecordId": "022-000000077",
+                "Name": "Nanni Fantuzzi,Ippolito,,ca. 1609 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17950",
+                "RecordId": "022-000004873",
+                "Name": "Negri ,Giovanni Francesco,,fl. 1640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19580",
+                "RecordId": "022-000006882",
+                "Name": "Lampugnani,Agostino,,1586-1665?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5014",
+                "RecordId": "022-000000016",
+                "Name": "Capponi,Giovambattista,,1620-1675",
+                "Nickname": "L'Ostinato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20733",
+                "RecordId": "022-000008558",
+                "Name": "Severi,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20734",
+                "RecordId": "022-000008559",
+                "Name": "Mattioli,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20735",
+                "RecordId": "022-000008560",
+                "Name": "Marescalchi,Francesco Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20736",
+                "RecordId": "022-000008561",
+                "Name": "Fangarecci,Giovan Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5019",
+                "RecordId": "022-000000021",
+                "Name": "Ber\u00f2,Ercolagostino,Count,1623-1696",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20737",
+                "RecordId": "022-000008562",
+                "Name": "Frascaroli,Guido,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

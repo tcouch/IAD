@@ -1,0 +1,88 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008525",
+        "WorkId": "000967",
+        "ShortTitle": "Le vigilie del capricorno",
+        "LongTitle": "note tumultuarie di Paolo Genari di Scio, Accademico Incognito di Venezia, Geniale di Codogno, apatista di Firenze, ed Animoso di Gubbio, Conte Palatino, e cavaliere aurato, alle epistole eroiche, poesie del famosissimo et eruditissimo Lorenzo Crasso avvocato napoletano. Dedicate all`Illustrissimo e generosissimo signore Niccolo` Cavana Nobile Genovese",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Incogniti-Venezia (Accademia degli)"
+            },
+            {
+                "AcademyId": "0041",
+                "RecordID": "021-000002728",
+                "Value": "Apatisti (Accademia degli)"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1667",
+        "DedicationPlaceDate": "Genova 18 gennaio 1667",
+        "Shelfmark": "11431aa12",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "104",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15163",
+                "RecordID": "022-000001205",
+                "Value": "Aprosio,Angelico,,1607-1681"
+            }
+        },
+        "Notes": "The book is also dedicated to Magliabechi.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15132",
+                    "RecordID": "022-000001174",
+                    "Value": "Contarini,Andrea,,1601-1675"
+                },
+                {
+                    "PersonId": "15184",
+                    "RecordID": "022-000001226",
+                    "Value": "Sagredo,Nicol\u00f2,Cavalier Procuratore di San Marco,"
+                },
+                {
+                    "PersonId": "15185",
+                    "RecordID": "022-000001227",
+                    "Value": "Nicolosi,Angelo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Rdello studio di Padova havendo veduto per fede del padre Inquisitore nel libretto intitolato Le Vigilie del Capricorno...., non essendovi cosa alcuna contro la Santa Fede Cattolica, e parimente per attestato del Segretario nostro, niente contro Principi, e buoni costumi, concendemo licenza ai Combi e Lanou di poterlo stampare osservando gli Ordini et c. Dat. 24 Aprile 1667 Andrea Contarini Cavaliere Procuratore Ref.; Niccolo` Sagredo Cavaliere Ref.; Angelo Nicolosi Segretario",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20708",
+                    "RecordID": "022-000008526",
+                    "Value": "Cavana,Niccolo`,,"
+                },
+                {
+                    "PersonId": "17958",
+                    "RecordID": "022-000004882",
+                    "Value": "Magliabechi,Antonio,,1633-1714"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20243",
+                "RecordID": "022-000007827",
+                "Value": "Combi & La Nou`,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55313",
+            "Value": "023-000008525_55313_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

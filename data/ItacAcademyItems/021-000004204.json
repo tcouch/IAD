@@ -1,0 +1,43 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0073",
+        "RecordId": "021-000004204",
+        "Name": "Ievoliana (Accademia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1559",
+        "EndDate": "?",
+        "DateText": "1559-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17366",
+                "RecordId": "022-000004205",
+                "Name": "di Ievoli,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17368",
+                "RecordId": "022-000004207",
+                "Name": "Mongorio,Ferrante,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17367",
+                "RecordId": "022-000004206",
+                "Name": "Ammirato,Scipione,,1531 - 1601",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

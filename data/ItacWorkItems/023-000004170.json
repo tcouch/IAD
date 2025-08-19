@@ -1,0 +1,171 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004170",
+        "WorkId": "000532",
+        "ShortTitle": "Primo volume della scielta di stanze di diversi autori toscani",
+        "LongTitle": "Raccolte et nuovamente poste in luce da M. Agostino Ferentilli. Et di nuovo con ogni diligenza ricorrette.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            },
+            {
+                "AcademyId": "0049",
+                "RecordID": "021-000002895",
+                "Value": "Accademia degli Accesi"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1579",
+        "DedicationPlaceDate": "Venice 7 September 1579; 22 December 1571",
+        "Shelfmark": "1062.a.2",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "[22] 549",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16844",
+                    "RecordID": "022-000003599",
+                    "Value": "Accademici Intronati,,,"
+                },
+                {
+                    "PersonId": "16415",
+                    "RecordID": "022-000003081",
+                    "Value": "Barozzi,Antonio,,"
+                },
+                {
+                    "PersonId": "16821",
+                    "RecordID": "022-000003570",
+                    "Value": "Sozzini,Fausto,,1539 - 1604"
+                },
+                {
+                    "PersonId": "16419",
+                    "RecordID": "022-000003085",
+                    "Value": "Lapini,Giovanbattista,,"
+                },
+                {
+                    "PersonId": "16272",
+                    "RecordID": "022-000002924",
+                    "Value": "Bargagli,Girolamo,,"
+                },
+                {
+                    "PersonId": "16451",
+                    "RecordID": "022-000003128",
+                    "Value": "Cinuzzi,Marcantonio,,1503 - ca.1590"
+                },
+                {
+                    "PersonId": "16248",
+                    "RecordID": "022-000002896",
+                    "Value": "Bargagli,Scipione,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con licenza et privilegio. In Venetia ad instanzia de` Giunti di Firenze",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17342",
+                "RecordID": "022-000004169",
+                "Value": "Gentile,Francesco,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17341",
+                "RecordID": "022-000004168",
+                "Value": "Ferentilli,Agostino,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17345",
+                "RecordID": "022-000004173",
+                "Value": "Giunti,Bernardo e Filippo,,"
+            }
+        },
+        "PrinterOrnament": "V75",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Donne leggiadre a cui l`alto motore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Accademici Intronati,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "1) Voi che con gl` occhi ove ha sua stanza Amore; 2) Come al partir del caro unico figlio; 3) Qui dove gia` sol tra sospiri et pianti; 4) Togliendom` il sostegno della vita (Deserto Intronato)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16415",
+                            "RecordID": "022-000003081",
+                            "Value": "Barozzi,Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "1) Quando lunge da voi mi spinse il Cielo; 2) L`alta bellezza e la celeste grazia; 3) Che per me s`oda in ogni parte il suono (Frastagliato Intronato)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16821",
+                            "RecordID": "022-000003570",
+                            "Value": "Sozzini,Fausto,,1539 - 1604"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La `ve l`Aurora al primo albor rosseggia (Fisicoso Intronato)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16419",
+                            "RecordID": "022-000003085",
+                            "Value": "Lapini,Giovanbattista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "1) Donne fautrici all` Intronato stuolo; 2) Donne s`amor ne` bei vostri occhi al varco; 3) Se m`ascondon le selve et toglion voi; 4) Mentre gia` per il cielo errando il Sole; 5) Dunque non cura piu` dunque non regge (Materiale Intronato)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16272",
+                            "RecordID": "022-000002924",
+                            "Value": "Bargagli,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Vivo in grande e si` cocente fuoco (Scacciato Intronato)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16451",
+                            "RecordID": "022-000003128",
+                            "Value": "Cinuzzi,Marcantonio,,1503 - ca.1590"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "1) La virtu` che fa l`huom chiaro e felice; 2) Hor ch`il ciel piu` che mai lieto e sereno; 3) Chiamando il figlio con voce alta e pia (Accademico Acceso)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16248",
+                            "RecordID": "022-000002896",
+                            "Value": "Bargagli,Scipione,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

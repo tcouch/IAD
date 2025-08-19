@@ -1,0 +1,75 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0087",
+        "RecordId": "021-000004599",
+        "Name": "Confusi-Bologna (Seconda Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "1610/20",
+        "EndDate": "1640?",
+        "DateText": "1610/20-1640?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5600",
+                "RecordId": "022-000000656",
+                "Name": "Gessi,Florio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5603",
+                "RecordId": "022-000000660",
+                "Name": "Possenti,Carlo,,",
+                "Nickname": "Accademico Confuso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5103",
+                "RecordId": "022-000000100",
+                "Name": "Amadio,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5531",
+                "RecordId": "022-000000528",
+                "Name": "Fabri,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5085",
+                "RecordId": "022-000000082",
+                "Name": "Giacobbi,Girolamo,,1567 - 1628",
+                "Nickname": "l` Imperfetto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5051",
+                "RecordId": "022-000000053",
+                "Name": "Turchi,Niccol\u00f2 Zoppio,,1609-1656",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5080",
+                "RecordId": "022-000000077",
+                "Name": "Nanni Fantuzzi,Ippolito,,ca. 1609 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

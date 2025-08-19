@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19439",
+        "RecordId": "022-000006657",
+        "Surname": "Giacomo II",
+        "Forename": "Stuart",
+        "AlternativeName": {
+            "AlternativeSurname": "Stuart",
+            "AlternativeForename": "James II"
+        },
+        "PersonalTitle": "King of England",
+        "DateText": "1633-1701",
+        "StartDate": "1633",
+        "EndDate": "1701",
+        "Nationality": {
+            "NationalityId": "68",
+            "Value": "English"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

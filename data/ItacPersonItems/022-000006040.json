@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18938",
+        "RecordId": "022-000006040",
+        "Surname": "Noceto",
+        "Forename": "Bernardino Giovanni",
+        "AlternativeName": {
+            "AlternativeSurname": "Noceti",
+            "AlternativeForename": "Bernardino"
+        },
+        "PersonalTitle": "Abbot",
+        "Nationality": {
+            "NationalityId": "140",
+            "Value": "Sicilian"
+        },
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

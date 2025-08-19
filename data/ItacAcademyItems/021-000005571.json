@@ -1,0 +1,482 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0124",
+        "RecordId": "021-000005571",
+        "Name": "Fantastici (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Canvas, primed but blank, on an easel",
+        "Motto": "Quidlibet audendi",
+        "StartDate": "1625",
+        "EndDate": "1688?",
+        "DateText": "1625-1688?",
+        "Notes": "Other publications related to this Academy, not in British Library collections, include: Academia tenuta da` Fantastici a` 12 di maggio 1655. In applauso della S.ta di N.S. Alesandro 7 (Roma, Mascardi, 1655) ----- Castalidum anagrammaticus plausus in theologica laurea viginti sex academorum fantasticorum Seraphici D. Bonauenturae Romani Collegij, apud minores conuentuales Sancti Francisci fundati a summo pontifice optimo maximo Sixto 5. ex eadem religione assumpto. Auctore fr. Ioanne Ginetto de Camberio eiu dem ordinis ... S. theolg. [.] magistro ad ... Decium Azzolinum S.R.E. cardinalem, ac eiusdem collegij protectorem (1689?)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18533",
+                "RecordId": "022-000005572",
+                "Name": "Fabri,Alberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18233",
+                "RecordId": "022-000005217",
+                "Name": "Confidati,Alfonso,,1609 - 1657",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5012",
+                "RecordId": "022-000000014",
+                "Name": "Barbazza,Andrea,Count,1581/82-1656",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15035",
+                "RecordId": "022-000001077",
+                "Name": "Bruni,Antonio,,1593-1635",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18534",
+                "RecordId": "022-000005573",
+                "Name": "Tempestino,Anton Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18536",
+                "RecordId": "022-000005575",
+                "Name": "Evangelista,Bernardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18537",
+                "RecordId": "022-000005576",
+                "Name": "Malvasia,Bonaventura,,1598 - 1666",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18538",
+                "RecordId": "022-000005577",
+                "Name": "Benetti,Benedetto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18539",
+                "RecordId": "022-000005578",
+                "Name": "Rigogli,Benedetto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5624",
+                "RecordId": "022-000000694",
+                "Name": "Spada,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18565",
+                "RecordId": "022-000005604",
+                "Name": "Mazzei,Decio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18424",
+                "RecordId": "022-000005447",
+                "Name": "Panimolle,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18541",
+                "RecordId": "022-000005580",
+                "Name": "Tosi,Clemente,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18540",
+                "RecordId": "022-000005579",
+                "Name": "Scoppa,Claudio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5089",
+                "RecordId": "022-000000086",
+                "Name": "Achillini,Claudio,,1574 -1 640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5105",
+                "RecordId": "022-000000102",
+                "Name": "Balducci,Francesco,,1579 - 1642",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18542",
+                "RecordId": "022-000005581",
+                "Name": "Benetti,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18437",
+                "RecordId": "022-000005460",
+                "Name": "Carducci,Francesco,,1610 - 1654",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18544",
+                "RecordId": "022-000005583",
+                "Name": "Massucci,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18545",
+                "RecordId": "022-000005584",
+                "Name": "Marino,Gabriele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18198",
+                "RecordId": "022-000005178",
+                "Name": "Guglielmi,Iacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18546",
+                "RecordId": "022-000005585",
+                "Name": "Goffredi,Gio: Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18547",
+                "RecordId": "022-000005586",
+                "Name": "Caroli,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18548",
+                "RecordId": "022-000005587",
+                "Name": "Giobbe,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18549",
+                "RecordId": "022-000005588",
+                "Name": "Piacenza,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5149",
+                "RecordId": "022-000000145",
+                "Name": "Maia Materdona,Giovanni Francesco,,1590 - 1650",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18550",
+                "RecordId": "022-000005589",
+                "Name": "de` Rossi,Giovanni Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18551",
+                "RecordId": "022-000005590",
+                "Name": "Longo,Giovanni Martino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18552",
+                "RecordId": "022-000005591",
+                "Name": "Salzilli,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18553",
+                "RecordId": "022-000005592",
+                "Name": "Lamanna,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18554",
+                "RecordId": "022-000005593",
+                "Name": "Garopoli,Girolamo,,1605? - 1678",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18197",
+                "RecordId": "022-000005177",
+                "Name": "Valentino,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18555",
+                "RecordId": "022-000005594",
+                "Name": "Ferretti,(Father) Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18556",
+                "RecordId": "022-000005595",
+                "Name": "Prosperi,Lodovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18557",
+                "RecordId": "022-000005596",
+                "Name": "Picarelli,Marco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18558",
+                "RecordId": "022-000005597",
+                "Name": "Lunghi,Martino (The Younger),,1602 - 1660",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18535",
+                "RecordId": "022-000005574",
+                "Name": "Monterel,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18354",
+                "RecordId": "022-000005371",
+                "Name": "Ricci,Neupolione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18199",
+                "RecordId": "022-000005179",
+                "Name": "Strozzi,Niccolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18559",
+                "RecordId": "022-000005598",
+                "Name": "Cittadonio,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18200",
+                "RecordId": "022-000005180",
+                "Name": "Paoli,Pierfrancesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15122",
+                "RecordId": "022-000001163",
+                "Name": "Michiele,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18560",
+                "RecordId": "022-000005599",
+                "Name": "Pannini,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18431",
+                "RecordId": "022-000005454",
+                "Name": "Santa Croce,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16920",
+                "RecordId": "022-000003697",
+                "Name": "Marini,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17720",
+                "RecordId": "022-000004616",
+                "Name": "Cevoli,Tiberio,,d.1685",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18561",
+                "RecordId": "022-000005600",
+                "Name": "Savarelli,Vincenzo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18562",
+                "RecordId": "022-000005601",
+                "Name": "Patriarchi ,Virginio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18563",
+                "RecordId": "022-000005602",
+                "Name": "Venturelli,Vittorio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18564",
+                "RecordId": "022-000005603",
+                "Name": "Vellori,Viviano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18178",
+                "RecordId": "022-000005155",
+                "Name": "Giorgi,Urbano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18566",
+                "RecordId": "022-000005606",
+                "Name": "Cesarini,Alessandro (The Younger),Cardinal,1592 - 1644",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5183",
+                "RecordId": "022-000000178",
+                "Name": "Testi,Fulvio,Count,1593 - 1646",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54571",
+                    "Value": "022-000000178_54571_2.jpg"
+                }
+            },
+            {
+                "PersonId": "19536",
+                "RecordId": "022-000006796",
+                "Name": "Gherardelli,Giovanni Battista Filippo,,1623 - 1653",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19863",
+                "RecordId": "022-000007305",
+                "Name": "Capradosso,Agostiniano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18231",
+                "RecordId": "022-000005215",
+                "Name": "Della Manna,Girolamo ,,? - 1640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15388",
+                "RecordId": "022-000001885",
+                "Name": "Colonna,Pompeo,Prince of Gallicano|Duke of Zagarolo,early1600-1658/61",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001569",
+        "WorkId": "00111",
+        "ShortTitle": "Quattro libri della lingua thoscana",
+        "LongTitle": "di M. Bernardino Tomitano. Ove si prova la philosophia esser necessaria al perfetto Oratore et Poeta con due libri nuovamente aggionti de I precetti richiesti a lo scrivere et parlar con eloquenza",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1570",
+        "DedicationPlaceDate": "20 October 1569",
+        "Shelfmark": "73.a.17",
+        "Subjects": "Language",
+        "Language": "Italian",
+        "Pagination": "pp. 426",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9207",
+                "RecordID": "022-000001504",
+                "Value": "Tomitano,Bernardino,,1517-1576"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9254",
+                "RecordID": "022-000001549",
+                "Value": "Olmo,Marc`Antonio,,"
+            }
+        },
+        "Notes": "Revised edition of Ragionamenti",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "9260",
+                "RecordID": "022-000001556",
+                "Value": "Beniamus,Maximianus,,"
+            }
+        },
+        "CensorsAgreement": "Nos Fr. Maximianus Beniamus ordinis minorum Inquisitor Padue vidimus et legimus librum qui inscribitur Quattro libri della lingua thoscana: editum ab excellentissimo D. Bernardino Tomitano. Et quia nihil invenimus quod sit contra Fidem Principes et bonos mores ideo licentia imprimendi concessimus",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9253",
+                "RecordID": "022-000001548",
+                "Value": "Pinelli,Gioanvincenzo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9254",
+                "RecordID": "022-000001549",
+                "Value": "Olmo,Marc`Antonio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9635",
+                "RecordID": "022-000001682",
+                "Value": "Pasquati,Lorenzo,,fl. 1561-1624"
+            }
+        },
+        "PrinterOrnament": "A145 | V146 | Z1038",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

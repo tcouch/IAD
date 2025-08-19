@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0453",
+        "RecordId": "021-000007850",
+        "Name": "Stravaganti-Candia (Accademia degli)",
+        "City": {
+            "CityId": "112",
+            "CityItalianName": "Candia"
+        },
+        "EmblemDescription": "Lost dog",
+        "Motto": "Et per invia",
+        "StartDate": "1572",
+        "EndDate": "?",
+        "DateText": "1572-?",
+        "Notes": "On Academies in Candia/Crete, see Literature and society in Renaissance Crete, ed. David Holton (Cambridge: CUP, 1991), which suggests that Stravaganti Academy was founded in 1591.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15002",
+                "RecordId": "022-000001044",
+                "Name": "Basile,Giovan Battista,Count of Torone,1575-1632",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20255",
+                "RecordId": "022-000007851",
+                "Name": "Corner,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20785",
+                "RecordId": "022-000008612",
+                "Name": "Zeno ,Francesco,Bishop of Capo d`Istria,?-1680",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

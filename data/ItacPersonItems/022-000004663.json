@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17761",
+        "RecordId": "022-000004663",
+        "Surname": "Loredan",
+        "Forename": "Gianfrancesco",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Loredano",
+                "AlternativeForename": "Giovanni Francesco"
+            },
+            {
+                "AlternativeForename": "Giovanfrancesco"
+            }
+        ],
+        "Pseudonym": "Gneo Falcidio Donaloro",
+        "DateText": "1607-1661",
+        "StartDate": "1607",
+        "EndDate": "1661",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Joined the Ricovrati in 1646. Updated bibliography of Giovanni Francesco Loredano`s works and their relationship with the Academy, in Tiziana Menegatti, Bibliografia delle opere a stampa del Principe degli Incogniti (2000). Loredano`s biography by Clizia Carminati, in DBI.",
+        "Role": "Author|Contributor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

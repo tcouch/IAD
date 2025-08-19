@@ -1,0 +1,113 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001863",
+        "WorkId": "00138",
+        "ShortTitle": "Il gareggiamento poetico del Confuso academico ordito",
+        "LongTitle": "Madrigali amorosi gravi e piacevoli ne` quali si vede il bello il leggiadro et il vivace de` pi\u00f9 illustri poeti d`Italia. All`Illustrissimo et eccellentissimo signor don Giulio Cesare di Capova. Grande ammirante del Regno di Napoli principe di Conca conte di Palena",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0022",
+                "RecordID": "021-000001817",
+                "Value": "Accademia degli Orditi"
+            },
+            {
+                "AcademyId": "0022",
+                "RecordID": "021-000001817",
+                "Value": "Orditi (Accademia degli)"
+            }
+        ],
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1611",
+        "DedicationPlaceDate": "Padua 12 January 1611",
+        "Shelfmark": "1471.a.6",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Illustration": "Engraving | Title page",
+        "Pagination": "pp. 46; pp. 228; pp. 240",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9651",
+                "RecordID": "022-000001820",
+                "Value": "Fiamma,Carlo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5032",
+                    "RecordID": "022-000000034",
+                    "Value": "Zoppio,Melchiorre,,1544-1634/7"
+                },
+                {
+                    "PersonId": "5035",
+                    "RecordID": "022-000000037",
+                    "Value": "Fabretti,Vincenzo,,"
+                },
+                {
+                    "PersonId": "5036",
+                    "RecordID": "022-000000038",
+                    "Value": "Caccianemici,Francesco Maria,,1567 - ?"
+                },
+                {
+                    "PersonId": "5042",
+                    "RecordID": "022-000000044",
+                    "Value": "Severi,Severo,,"
+                },
+                {
+                    "PersonId": "5043",
+                    "RecordID": "022-000000045",
+                    "Value": "Marescotti,Agesilao,,1577 - 1618"
+                },
+                {
+                    "PersonId": "5044",
+                    "RecordID": "022-000000046",
+                    "Value": "L`Involto,L`Involto,,"
+                },
+                {
+                    "PersonId": "5193",
+                    "RecordID": "022-000000187",
+                    "Value": "Facchinetti,Filippo,Senator,?1608"
+                },
+                {
+                    "PersonId": "9650",
+                    "RecordID": "022-000001819",
+                    "Value": "Malacreta,Gio. Pietro,,c. 1600"
+                }
+            ]
+        },
+        "Notes": "The book is divided in the following sections: Bellezze | Dipendenze | Imagini | Lodi | Varii | Misti | Himenei | Scherzo | Mausoleo. It contains several poems by accademici Gelati and other poets: Torquato Tasso; Stefano Guazzo; Giovan Battista Marino; Giovan Battista Guarini; Muzio Manfredi; Ridolfo Campeggi; Francesco Maria Caccianemici; Cesare Rinaldi; Giovan Battista Mauritio (called Il Tenebroso in error); Isabella Andreini. Printer`s ornament to be verified.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9678",
+                "RecordID": "022-000001856",
+                "Value": "Di Capua,Giulio Cesare,Prince of Conca | Count of Palena,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9652",
+                "RecordID": "022-000001821",
+                "Value": "Ammassato,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9659",
+                "RecordID": "022-000001828",
+                "Value": "Barezzi,Barezzo,,c. 1560-1643/4"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52638",
+            "Value": "023-000001863_52638_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

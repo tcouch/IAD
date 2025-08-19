@@ -1,0 +1,69 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003219",
+        "WorkId": "000422",
+        "ShortTitle": "Fiori di sacra poesia",
+        "LongTitle": "dell`Irresoluto accademico Intronato raccolti da Giovan Francesco Poletti e dedicati all`Illustrissimo e Reverendissimo Sign. Card. San Giorgio.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1625",
+        "DedicationPlaceDate": "from home 29 November 1624",
+        "Shelfmark": "1062.a.35",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "[22] 228 [8]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16524",
+                "RecordID": "022-000003221",
+                "Value": "Papini,Carlo,,1586 - 1648"
+            }
+        },
+        "Notes": "A spese della libraria della Luna con licentia de` superiori",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16526",
+                    "RecordID": "022-000003223",
+                    "Value": "Martinellus,Vincentius,,"
+                },
+                {
+                    "PersonId": "16527",
+                    "RecordID": "022-000003224",
+                    "Value": "Rodulfi,Niccolai,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur reverendiss. P. Mag. Sacri Pal. A. Episc. Hieracen. Vices. Imprimatur. Fr. Vincentius Martinellus Magister, et Socius Reverendiss. P. Fr. Nicolai Rodulfii Ord. Praed. Sac. Apost. Pal. Mag.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16523",
+                "RecordID": "022-000003220",
+                "Value": "Borghese,Piermaria,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16525",
+                "RecordID": "022-000003222",
+                "Value": "Polelli,Gio. Francesco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53446",
+            "Value": "023-000003219_53446_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

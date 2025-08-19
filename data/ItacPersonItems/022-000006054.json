@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18951",
+        "RecordId": "022-000006054",
+        "Surname": "Fabretti",
+        "Forename": "Raffaele",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Fabbretti",
+            "AlternativeForename": "Raffaello"
+        },
+        "DateText": "1618-1700",
+        "StartDate": "1618",
+        "EndDate": "1700",
+        "Nationality": {
+            "NationalityId": "97",
+            "Value": "of Urbino"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

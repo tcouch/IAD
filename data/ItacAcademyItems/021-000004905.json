@@ -1,0 +1,583 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0100",
+        "RecordId": "021-000004905",
+        "Name": "Veneziana (Seconda Accademia)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Palisade of wood such as is used for foundations in Venice, with hoisting apparatus",
+        "EmblemImage": {
+            "ImageId": "55259",
+            "Value": "021-000004905_55259_1.jpg"
+        },
+        "Motto": "Hinc attollere moles",
+        "StartDate": "1594",
+        "EndDate": "1608",
+        "DateText": "1594-1608",
+        "Notes": "Main sources for this Academy is Giovanni Pellegrini, Giornale dell`italiana letteratura (1812), which reports the Academy laws and list of members. See also Michele Maylender, Storia delle Accademie d`Italia, vol. V, pp. 444-46, and Paolo Ulvioni, `Accademie e cultura in Italia dalla Controriforma all`Arcadia : Il caso veneziano`, in Libri & Documenti, 5 (1979), pp. 21-75.    Publications related to this Academy, but not in British Library collections, include: Lucii Scarani academici Veneti Ad serenissimum Marinum Grimanum Venetiarum principem. Gratulatio (Venetiis: apud Io. Battistam Ciottum, 1595);    Lucii Scarani academici Veneti Princeps, seu Laudatio Pascalis Ciconiae, olim serenissimae reipublicae Venetae principis, Academiae mandato habita (Venetiis: apud Rubertum Meiettum, 1595);    Oratione del sig. Gio. Battista Leoni presidente dell`Academia Venetiana recitata da lui nell`essequie dell`ill.mo sig. Giulio Savorgnano conte di Belgrado ..  (In Venetia: appresso Andrea Muschio, 1595). Fabio Paolini, De pace oratio Fabii Paulini habita Venetijs Id. Sept. in Veneta Academia (Venetiis: Georgius Angelerius excudebat, 1599). On other publications possibly related to this Academy, see also Palo Zaja, Marinelli Lucrezia, in DBI.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20009",
+                "RecordId": "022-000007485",
+                "Name": "Leoni,Giovanni Battista,,1542? - 1613?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16248",
+                "RecordId": "022-000002896",
+                "Name": "Bargagli,Scipione,,1540 - 1612",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15380",
+                "RecordId": "022-000001873",
+                "Name": "Porri,Alessio,,?-1609",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15424",
+                "RecordId": "022-000001931",
+                "Name": "Limpio,Pompeo,,fl.1550-ca1608",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16585",
+                "RecordId": "022-000003303",
+                "Name": "Scarano,Lucio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15808",
+                "RecordId": "022-000002359",
+                "Name": "Talipetra,Benedicto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15815",
+                "RecordId": "022-000002369",
+                "Name": "Zeno,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15816",
+                "RecordId": "022-000002370",
+                "Name": "Priuli,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16376",
+                "RecordId": "022-000003042",
+                "Name": "Bulgarini,Belisario,,1539 - 1620",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16262",
+                "RecordId": "022-000002910",
+                "Name": "Menini,Ottavio,,1545-1617",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15819",
+                "RecordId": "022-000002373",
+                "Name": "Angelucci,Teodoro,,?-ca.1600",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9661",
+                "RecordId": "022-000001830",
+                "Name": "Paolini,Fabio,,ca.1535-1605",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15817",
+                "RecordId": "022-000002371",
+                "Name": "Giliani,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15834",
+                "RecordId": "022-000002388",
+                "Name": "Gallucci,Giovanni Paolo,,1535-1621",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5252",
+                "RecordId": "022-000000243",
+                "Name": "Ciotti,Giovanni Battista,,ca.1564-ca.1635",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19879",
+                "RecordId": "022-000007321",
+                "Name": "Casoni,Guido,,1561-1642",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55290",
+                    "Value": "022-000007321_55290_2.jpg"
+                }
+            },
+            {
+                "PersonId": "20195",
+                "RecordId": "022-000007721",
+                "Name": "Tiepolo,Giovanni,Primicerio of San Marco|Patriarch of Venice,1571-1631",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9671",
+                "RecordId": "022-000001840",
+                "Name": "Diedo,Hieronimo,,1535-1615",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17694",
+                "RecordId": "022-000004589",
+                "Name": "Verdizzotti,Giovanni Mario,,1525-1600",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18006",
+                "RecordId": "022-000004943",
+                "Name": "Baldi,Cammillo,,1550-1637",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5146",
+                "RecordId": "022-000000142",
+                "Name": "Guarini,Battista,,1538-1612",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18931",
+                "RecordId": "022-000006031",
+                "Name": "Vanti,Giovanni Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5605",
+                "RecordId": "022-000000671",
+                "Name": "Marino,Giambattista,,1569-1625",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16044",
+                "RecordId": "022-000002616",
+                "Name": "Crasso,Niccolo`,,pre1586-1656",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9648",
+                "RecordId": "022-000001784",
+                "Name": "Sozomeno,Giovanni,,? - ca. 1626",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20627",
+                "RecordId": "022-000008426",
+                "Name": "Silianus,Vincentius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20628",
+                "RecordId": "022-000008427",
+                "Name": "Contarini,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20629",
+                "RecordId": "022-000008428",
+                "Name": "Carbo,Lodovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20630",
+                "RecordId": "022-000008429",
+                "Name": "Marcellinus,Petrus Ayroldus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20632",
+                "RecordId": "022-000008431",
+                "Name": "Piccolomini,Enea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20633",
+                "RecordId": "022-000008432",
+                "Name": "Zantanus,Deiphilus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20634",
+                "RecordId": "022-000008433",
+                "Name": "Savojanus,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20635",
+                "RecordId": "022-000008434",
+                "Name": "Tonialus,Giovanni Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20636",
+                "RecordId": "022-000008435",
+                "Name": "Strasoldus,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20637",
+                "RecordId": "022-000008436",
+                "Name": "Grazi,Grazio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20638",
+                "RecordId": "022-000008437",
+                "Name": "Andronicus,M. Angelus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20639",
+                "RecordId": "022-000008439",
+                "Name": "Cybo,F. Innocentius ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20640",
+                "RecordId": "022-000008440",
+                "Name": "Ferrarius,Christophorus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20641",
+                "RecordId": "022-000008441",
+                "Name": "Medices,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20642",
+                "RecordId": "022-000008442",
+                "Name": "Foxius,Federicus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20643",
+                "RecordId": "022-000008443",
+                "Name": "Ulmus,Fabius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20644",
+                "RecordId": "022-000008444",
+                "Name": "Michieli,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20645",
+                "RecordId": "022-000008445",
+                "Name": "Invitiatus,Raffaele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20646",
+                "RecordId": "022-000008446",
+                "Name": "Dulcius,Joannes Antonius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20647",
+                "RecordId": "022-000008447",
+                "Name": "Manzonus,Hercules,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20648",
+                "RecordId": "022-000008448",
+                "Name": "Castilionus,Giulio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20649",
+                "RecordId": "022-000008449",
+                "Name": "Garzoni,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20650",
+                "RecordId": "022-000008450",
+                "Name": "Boncio,Leone,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20651",
+                "RecordId": "022-000008451",
+                "Name": "Vergerius,Marius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20652",
+                "RecordId": "022-000008452",
+                "Name": "Borgarutius,Bernardino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20653",
+                "RecordId": "022-000008453",
+                "Name": "Augustinius,Augustinus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20654",
+                "RecordId": "022-000008454",
+                "Name": "Atempsius,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20655",
+                "RecordId": "022-000008455",
+                "Name": "Vianellus,Franciscus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20656",
+                "RecordId": "022-000008456",
+                "Name": "Bartolucius,F. Giudus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20657",
+                "RecordId": "022-000008457",
+                "Name": "a Fonte,Lelius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20658",
+                "RecordId": "022-000008458",
+                "Name": "Vannocius,Bonifacius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20659",
+                "RecordId": "022-000008459",
+                "Name": "Gajus,Bernardinus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20660",
+                "RecordId": "022-000008460",
+                "Name": "Peranda,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20661",
+                "RecordId": "022-000008461",
+                "Name": "Alatus,Alexander,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20662",
+                "RecordId": "022-000008462",
+                "Name": "Pola,Franciscus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20663",
+                "RecordId": "022-000008463",
+                "Name": "Polaccus,Georgius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20664",
+                "RecordId": "022-000008464",
+                "Name": "Gloriosus Geophonensis,Giovanni Camillo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20666",
+                "RecordId": "022-000008466",
+                "Name": "Victoria,Alexander,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20668",
+                "RecordId": "022-000008468",
+                "Name": "Muschio,Andrea,,ca.1540-after1623",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20667",
+                "RecordId": "022-000008467",
+                "Name": "Tintoretto,Jacopo,,1518-1594",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20669",
+                "RecordId": "022-000008469",
+                "Name": "Tintoretto,Domenico,,1560-1635",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20631",
+                "RecordId": "022-000008430",
+                "Name": "Maginus,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55324",
+                    "Value": "022-000008430_55324_2.jpg"
+                }
+            },
+            {
+                "PersonId": "16270",
+                "RecordId": "022-000002921",
+                "Name": "Bonifacio,Giovanni,,1547-1635",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55354",
+                    "Value": "022-000002921_55354_2.jpg"
+                }
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

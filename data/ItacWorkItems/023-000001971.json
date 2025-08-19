@@ -1,0 +1,154 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001971",
+        "WorkId": "000280",
+        "ShortTitle": "Sonate (Organo)",
+        "LongTitle": "A due, tre, quattro, e cinque stromenti. Di Gio. Battista Vitali. Musico di Violone da Brazzo in S. Petronio di Bologna, et Accademico Filaschise. Opera Quinta. All`illustrissimo Sig. Francesco Maria Desiderii",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "18\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1669",
+        "Shelfmark": "d.5.f",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "36",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15422",
+                "RecordID": "022-000001928",
+                "Value": "Vitali,Gio(vanni) Battista,Chapel Master,1632-1692"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "La Palavicini. A due violini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Gratiani. A due violini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`albicini. A due violini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Albicini. A due violini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Albicini. A due violini e violone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Sanvitale. A due violini, e violone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Guidoni. A due violini e violone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Rangoni.. A due violini e violone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Sassatelli. A due violini e violone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Sassatelli. A due violini, Alto Viola, e Violone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Capriccio detto il Molza. Due violini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Scalabrina. Due violini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

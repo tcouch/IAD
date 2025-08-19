@@ -1,0 +1,31 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16954",
+        "RecordId": "022-000003744",
+        "Surname": "Faenzi",
+        "Forename": "Valerio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Fauenties"
+            },
+            {
+                "AlternativeForename": "Valerii"
+            },
+            {
+                "AlternativeSurname": "Faenzi",
+                "AlternativeForename": "Camillo"
+            }
+        ],
+        "PersonalTitle": "Inquisitor of Venice",
+        "DateText": "fl.1557-1598",
+        "StartDate": "fl.1557",
+        "EndDate": "1598",
+        "Nationality": {
+            "NationalityId": "367"
+        },
+        "Notes": "Dominican theologian. After the experience with the Academia Veneziana, Faenzi would become Inquisitor of Venice.",
+        "Role": "Author|Editor|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

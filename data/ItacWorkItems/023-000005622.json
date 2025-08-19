@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005622",
+        "WorkId": "000681",
+        "ShortTitle": "Relatione Della Machina Alzata In Palermo A Di XV. Di Luglio M.DC.LX. Celebrandosi La Festa Di S. Rosalia",
+        "LongTitle": "Nobilissima Vergine Palermitana, Dal Sig. Pandolfo Malgonnelli, Nobile Fiorentino, Con il Dialogo recitato in detta Machina, composto dall`Unito Racceso, e posto in musica dal R.P.M.F. Gio. Battista Fasolo Minor Conventuale.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1660",
+        "Shelfmark": "12225.b.5.(2)",
+        "Subjects": "Religious celebrations|Religious poetry|Academic speech",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 8",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18434",
+                    "RecordID": "022-000005457",
+                    "Value": "Auria,Vincenzo,,1625 - 1710"
+                },
+                {
+                    "PersonId": "18576",
+                    "RecordID": "022-000005623",
+                    "Value": "Fasolo,Giovanni Battista,,1600c - ?"
+                },
+                {
+                    "PersonId": "18587",
+                    "RecordID": "022-000005636",
+                    "Value": "Malgonnelli,Pandolfo,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18156",
+                    "RecordID": "022-000005122",
+                    "Value": "de Denti,,,"
+                },
+                {
+                    "PersonId": "18578",
+                    "RecordID": "022-000005625",
+                    "Value": "Gelosus,,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imp. Abbas Gelosus Vic. Gen. \nImp. de Denti F. P.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18577",
+                "RecordID": "022-000005624",
+                "Value": "Bisagni,Giuseppe,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54618",
+            "Value": "023-000005622_54618_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

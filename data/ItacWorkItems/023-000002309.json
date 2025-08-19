@@ -1,0 +1,192 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002309",
+        "WorkId": "000304",
+        "ShortTitle": "Comparatione di Torquato Tasso con Homero e Virgilio:",
+        "LongTitle": "Insieme con la difesa dell`Ariosto paragonato ad Homero. Opera sommamente necessaria a chi brama Poetar regolatamente con lode. di Paolo Beni. All`Illustris(simo) et Eccellentiss(imo) Sig(nore) Don Giovanni III; Conte di Vintimiglia, Marchese di Hierace, e Prencipe di Castelbuono in Sicilia. Con indice copiosissimo nel fine. \n\n[At the bottom of the page, under the typographic ornament: `In casa et a spese dell`Autore`]",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricov(e)rati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1612",
+        "DedicationPlaceDate": "Padua 26 November 1612",
+        "Shelfmark": "1492.a.43",
+        "Subjects": "Literary criticism",
+        "Language": "Italian",
+        "Pagination": "pp. 324",
+        "Marginalia": "No",
+        "Edition": "2nd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9674",
+                "RecordID": "022-000001846",
+                "Value": "Beni,Paolo,,1553-1625"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15765",
+                    "RecordID": "022-000002312",
+                    "Value": "Stamini,Simone,,"
+                },
+                {
+                    "PersonId": "15761",
+                    "RecordID": "022-000002307",
+                    "Value": "Accademico Assetato,,,"
+                },
+                {
+                    "PersonId": "15764",
+                    "RecordID": "022-000002311",
+                    "Value": "Accademico Rinascente,,,"
+                },
+                {
+                    "PersonId": "15762",
+                    "RecordID": "022-000002308",
+                    "Value": "Accademico Traviato,,,"
+                }
+            ]
+        },
+        "Notes": "According to Gennari, Saggio storico sopra le Accademie di Padova, p. LI, Simone Stamini read Beni`s work in the Accademia dei Ricovrati on 8 April 1604. This is confirmed in L`accademia in biblioteca, p. 73. The same information in Il Cavalcanti, pp. 52-53.\n\nIn the colophon: `In Padova 1612, nella Beniana, per Gio. Battista Martini`",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15758",
+                    "RecordID": "022-000002304",
+                    "Value": "Mazzoleni,Mario,,"
+                },
+                {
+                    "PersonId": "15757",
+                    "RecordID": "022-000002303",
+                    "Value": "da Ravenna,Zaccaria,Vicar General|Inquisitor of Padua,"
+                },
+                {
+                    "PersonId": "15759",
+                    "RecordID": "022-000002305",
+                    "Value": "Terentio,Alessandro,Vice Vicar,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con licenza de` superiori.\nIo Mario Mazzoleni Padovano Dottor di Filosofia e Theologia di Commissione del molto Rev. Padre Inquisitor Generale di Padova, ho ricevuto il presente libro, che s`iscrive Comparatione di Homero, Virgilio Torquato, et c. ne vi ho veduto cosa alcuna laqual offenda punto o la Religione, o i costumi, o i Prencipi, et per tal causa, come ancho perche` m`e` parso molto vago e pieno di bella eruditione, l`ho stimato degno di stampa. \nStante la soprascritta attestatione si concede licenza che si possa stampare detto libro, concorrendovi anco il consenso di Mons. Reverendiss. Vicario Generale. Fra Zaccaria da Ravenna Inquisitore di Padova.\nAttesto ancor` io Alessandro Terentio Canonico di Padova d`haver riveduto il soprascritto libro per commissione di Mons. Reverendiss. Vicario Generale nel Vescovato di Padova, e non haver ritrovato cosa repugnante alla Religion` e costumi Christiani, o a governo di Prencipi, e pero` potersi dar` alla stampa liberamente. Ego idem Alexander Vicarius sub. imprimendi licentiam concedo",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15763",
+                "RecordID": "022-000002310",
+                "Value": "Martini,Gio(vanni) Battista,,fl.1603 - 1629"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Discorso Primo. Che Torquato Tasso nel suo Goffredo abbia rappresentato molto piu` nobile e perfetta idea di valoroso Capitano, che Homero e Virgilio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15765",
+                            "RecordID": "022-000002312",
+                            "Value": "Stamini,Simone,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Secondo. Che il Tasso nel suo Goffredo habbia conservata l`unita` della favola molto meglio di Homero e di Virgilio. E che in somma nell`Inventione debba all`uno e all`altro anteporsi.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15765",
+                            "RecordID": "022-000002312",
+                            "Value": "Stamini,Simone,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Terzo. Che Torquato assai meglio di Homero e Virgilio habbia espressa l`integrita` e debita grandezza della Favola.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15761",
+                            "RecordID": "022-000002307",
+                            "Value": "Accademico Assetato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Quarto. Per qual cagione si ricerchi ampiezza o grandezza nell`Heroico Poema: e qual` e quanta debba esser questa grandezza: e che in cio` ancora il Tasso si sia accostato al segno molto piu` di Homero, e meglio di Virgilio.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15761",
+                            "RecordID": "022-000002307",
+                            "Value": "Accademico Assetato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Quinto. Di quanti e quali Episodi debba fornirsi l`Heroico Poema: con qual ordine et arte si debban tessere e compartire: e chi ne habbia piu` convenientemente adornato il suo poema, Homero, Virgilio, o Torquato.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15762",
+                            "RecordID": "022-000002308",
+                            "Value": "Accademico Traviato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Sesto. Dove si risolvono alcuni Dubbi pertinenti all`Inventione e Disposition` Heroica, et in somma a quanto si e` stabilito fin`hora intorno all`Heroico Poema.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15762",
+                            "RecordID": "022-000002308",
+                            "Value": "Accademico Traviato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Settimo. Dove si paragona l`Orlando Furioso dell`Ariosto con l`Iliade et Odissea di Homero.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15762",
+                            "RecordID": "022-000002308",
+                            "Value": "Accademico Traviato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Ottavo. Dove si va continuando il paragone dell`Orlando Furioso con l`Iliade et Odissea: e si risponde a` dubbi contra dell`Ariosto fin dal principio addotti.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15762",
+                            "RecordID": "022-000002308",
+                            "Value": "Accademico Traviato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Nono. Che differente e varia debba formarsi l`Attion Heroica dall`Historica: et in che consista tal differenza e varieta`: e che in cio` ancora il Tasso resti ad Homero di gran lunga, a Virgilio in qualche parte, superiore. Dell`Accademico Rinascente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15762",
+                            "RecordID": "022-000002308",
+                            "Value": "Accademico Traviato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Decimo. Di alcun`altre qualita` e condittioni dell`Heroica Favola e quanto in queste ancora Torquato si mostri d`arte et industria superiore a Virgilio e molto piu` ad Homero. Dell`Accademico Rinascente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15764",
+                            "RecordID": "022-000002311",
+                            "Value": "Accademico Rinascente,,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

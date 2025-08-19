@@ -1,0 +1,107 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003606",
+        "WorkId": "000475",
+        "ShortTitle": "Parte Seconda O` vero Supplimento  A Napoli Sacra Di  D. cesare D`Engenio Caracciolo Del Signor Carlo De Lellis.",
+        "LongTitle": "Ove si aggiungono Le Fondationi Di Tutte Le Chiese, Monasteri, & altri luoghi Sacri della Citt\u00e0 di Napoli, e suoi Borghi, eretti doppo dell`Engenio, con le loro inscrittioni, et epitafii, relique, e corpi di Santi, & altre opere pie, che vi si fanno, e con altre cose notabili.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1654",
+        "DedicationPlaceDate": "Naples 1 April 1654",
+        "Shelfmark": "663.d.10.",
+        "Subjects": "Description of Naples",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|Chapel of Cardinal Ascanio Filomarino",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15865",
+                "RecordID": "022-000002424",
+                "Value": "de Lellis,Carlo,,"
+            }
+        },
+        "Notes": "On p. 77 the author mentions Giambattista Manso and the Oziosi Academy in Naples",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                },
+                {
+                    "PersonId": "15262",
+                    "RecordID": "022-000001304",
+                    "Value": "De Rubeis,Franciscus,,"
+                },
+                {
+                    "PersonId": "15200",
+                    "RecordID": "022-000001169",
+                    "Value": "Filomarino,Ascanius,Cardinal | Archbishop ,1583-1666"
+                },
+                {
+                    "PersonId": "15235",
+                    "RecordID": "022-000001278",
+                    "Value": "Zufia,,,"
+                },
+                {
+                    "PersonId": "15238",
+                    "RecordID": "022-000001281",
+                    "Value": "Capicius Latro,,,"
+                },
+                {
+                    "PersonId": "15237",
+                    "RecordID": "022-000001280",
+                    "Value": "Caracciolus,,,"
+                },
+                {
+                    "PersonId": "15922",
+                    "RecordID": "022-000002486",
+                    "Value": "Garcia,,,"
+                },
+                {
+                    "PersonId": "16849",
+                    "RecordID": "022-000003607",
+                    "Value": "Lombardus,Franciscus,,"
+                },
+                {
+                    "PersonId": "16851",
+                    "RecordID": "022-000003609",
+                    "Value": "Barrilis,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Gregorius Peccerillus Vic. Gen. Neap. M. F. Ioseph. de Rubeis Ord. Min. Conv. S.T.D. Emin. Card. Philam. Theol. & Cons. S. Officij.\nSupplementum Neapolis Sacrae, ad librum D. Caesaris de Engenio, Typis dandum per Robertum Mollum, vidi, & quoniam in eo non reperi, quod sit contra Regiam Iurisdictionem, ideo posse imprimi conseo, si videbitur Vestrae Eccell. Dominationi, quem D.O.M. diu` incolumen servet. Dat. Neap. die. 18. Maij 1651.\nD. Vestrae Illustriss. & Excellentiss. Servuus Additiss. Canon. Franciscus Lombardus.\nVidit Regius Consiliarius, & Praesidens Regiae Camera Ioannes Baptista Amendola super revisione librorum Commissarius specialiter Delegatus per S.E.l Io. Baptista Amendola.\nZufia Regens. Capicius Latro Regens. Caracciolus Regens. Garcia Regens.\nProvisium per Suam Excell. Neap die 9. Aprilis 1652. Barrilis",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16852",
+                "RecordID": "022-000003610",
+                "Value": "Caracciolo ,Giuseppe,Marquis of Brienza; Prince of Atena,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16853",
+                "RecordID": "022-000003611",
+                "Value": "Perrey,Nicolas,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16156",
+                "RecordID": "022-000002772",
+                "Value": "Mollo,Roberto,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

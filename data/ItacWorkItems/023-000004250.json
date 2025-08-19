@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004250",
+        "WorkId": "000548",
+        "ShortTitle": "Philippi Phinellae De Methoposcopia Astronomica",
+        "LongTitle": "De Duocecim Signis Coelestibus.",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "75",
+            "PublicationPlaceItalianName": "Anversa",
+            "PublicationPlaceEnglishName": "Antwerp",
+            "PublicationPlaceLatinName": "Antuerpia"
+        },
+        "PublicationYear": "1650",
+        "DedicationPlaceDate": "Naples 1 may 1650",
+        "Shelfmark": "1578/6049",
+        "Subjects": "Metoposcopy|Physiognomy|Astronomy",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 216",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17403",
+                "RecordID": "022-000004251",
+                "Value": "Doria,Ioannettino,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17398",
+                "RecordID": "022-000004241",
+                "Value": "Moretum,Balthassarem,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

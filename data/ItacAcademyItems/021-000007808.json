@@ -1,0 +1,68 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0443",
+        "RecordId": "021-000007808",
+        "Name": "Sarottiana (Accademia)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1682",
+        "EndDate": "?",
+        "DateText": "1682-?",
+        "Notes": "Relevant to the history of this Academy is also Porzio, Dissertationes, I, 1736, pp. 291-292, which reports about a discussion held in the Academy on the bad reputation of practical medicine. This volume is not in British Library collections. See Dini, Filosofia della natura, medicina, religione. Lucantonio Porzio (Milan: Franco Angeli 1985). Information about the Academy and its library, is in Martinelli, Ritratto di Venezia (1684).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16146",
+                "RecordId": "022-000002759",
+                "Name": "Porzio,Luca Antonio,,1639 - 1724",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20231",
+                "RecordId": "022-000007810",
+                "Name": "Papin,Denis,,1647-1714",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20230",
+                "RecordId": "022-000007809",
+                "Name": "Sarotti,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20239",
+                "RecordId": "022-000007819",
+                "Name": "Sarrotti,Ambrogio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16509",
+                "RecordId": "022-000003196",
+                "Name": "Spoleti,Francesco,,?-1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20242",
+                "RecordId": "022-000007825",
+                "Name": "Caramelli,Anton Francesco Lorenzo,,?-1730",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

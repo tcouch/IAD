@@ -1,0 +1,62 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0459",
+        "RecordId": "021-000007857",
+        "Name": "Uniti-Venezia (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Golden chain",
+        "Motto": "Nectuntur vicissim",
+        "StartDate": "1551",
+        "EndDate": "?",
+        "DateText": "1551-?",
+        "Notes": "On the Academy`s laws, see Gli \u00abordini\u00bb dell`Accademia veneziana degli Uniti (1551), in Ateneo Veneto, 35 (1912)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17866",
+                "RecordId": "022-000004779",
+                "Name": "Spatafora,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17871",
+                "RecordId": "022-000004789",
+                "Name": "Basadonna,Pietro,,?-1575",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17840",
+                "RecordId": "022-000004750",
+                "Name": "da Mosto,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20256",
+                "RecordId": "022-000007859",
+                "Name": "Loredan,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19374",
+                "RecordId": "022-000006579",
+                "Name": "Verdizzotti,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

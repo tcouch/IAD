@@ -1,0 +1,121 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006231",
+        "WorkId": "000733",
+        "ShortTitle": "Oratio Bononiae habita",
+        "LongTitle": "in funere Gasparis Tagliacotii. Viri in utraque medicina medicorum sua tempestatis omnium facile principis, A Mutio Placentino Foroiuliensi VII Kal. Decembris",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            },
+            {
+                "AcademyId": "0149",
+                "RecordID": "021-000006234",
+                "Value": "Accademia degli Informi"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1599",
+        "DedicationPlaceDate": "4 December 1599",
+        "Shelfmark": "1505/343",
+        "Subjects": "Funereal discourse|Poetry",
+        "Language": "Latin|Italian",
+        "Pagination": "27",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5032",
+                    "RecordID": "022-000000034",
+                    "Value": "Zoppio,Melchiorre,,1544-1634/7"
+                },
+                {
+                    "PersonId": "5035",
+                    "RecordID": "022-000000037",
+                    "Value": "Fabretti,Vincenzo,,"
+                },
+                {
+                    "PersonId": "5036",
+                    "RecordID": "022-000000038",
+                    "Value": "Caccianemici,Francesco Maria,,1567 - ?"
+                },
+                {
+                    "PersonId": "19103",
+                    "RecordID": "022-000006232",
+                    "Value": "Ordito,Accademico Informe ,,"
+                }
+            ]
+        },
+        "Notes": "All four contributors sign as members of one Academy (either Gelati, or Informi - Ravenna). Other contributors do not sign with academic affiliation",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5248",
+                "RecordID": "022-000000240",
+                "Value": "Rossi,Heredi di Giovanni [Perseo],,\u20201629"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Del Caliginoso Accademico Gelato. Non pur`un fonte o un rio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5032",
+                            "RecordID": "022-000000034",
+                            "Value": "Zoppio,Melchiorre,,1544-1634/7"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell`Incolto. Gaspar` qui giace il Tagliacoccio a cui",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5035",
+                            "RecordID": "022-000000037",
+                            "Value": "Fabretti,Vincenzo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del medesimo [Incolto] Fermati Viator se brami avviso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5035",
+                            "RecordID": "022-000000037",
+                            "Value": "Fabretti,Vincenzo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Tenebroso. Tagliacozzo moristi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5036",
+                            "RecordID": "022-000000038",
+                            "Value": "Caccianemici,Francesco Maria,,1567 - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell`Ordito Accademico Informe di Ravenna. O gran publico danno: ahi dunque priva",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19103",
+                            "RecordID": "022-000006232",
+                            "Value": "Ordito,Accademico Informe ,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18488",
+        "RecordId": "022-000005513",
+        "Surname": "Arpa",
+        "Forename": "Lorenzo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Arpa",
+            "AlternativeForename": "Laurentius"
+        },
+        "DateText": "1610-1675",
+        "StartDate": "1610",
+        "EndDate": "1675",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Felicella, Palermo, Vol.II, pp. 4 - 5 (British Library Shelfmark:610.m.10.)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

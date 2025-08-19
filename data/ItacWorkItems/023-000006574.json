@@ -1,0 +1,31 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006574",
+        "WorkId": "000785",
+        "ShortTitle": "Lettera a Prencipi, et signori amatori del dissegno",
+        "LongTitle": "Pittura e scultura: scritta dal Cavaglier Federico Zuccaro, nell`Accademia Insensata detto il Sonnachioso. con un lamento della pittura, opera dell`istesso.",
+        "ItacAcademyItem": {
+            "AcademyId": "0123",
+            "RecordID": "021-000005569",
+            "Value": "Accademia degli Insensati"
+        },
+        "City": {
+            "CityId": "67",
+            "PublicationPlaceItalianName": "Mantova",
+            "PublicationPlaceEnglishName": "Mantua",
+            "PublicationPlaceLatinName": "Mantua"
+        },
+        "PublicationYear": "1605",
+        "Shelfmark": "61d24",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19353",
+                "RecordID": "022-000006555",
+                "Value": "Zuccari,Federico,,1539/40 - 1609"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

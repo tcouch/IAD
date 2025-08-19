@@ -1,0 +1,33 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16219",
+        "RecordId": "022-000002855",
+        "Surname": "Rouill\u00e9",
+        "Forename": "Guillaume",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Rovillllium",
+                "AlternativeForename": "Gulielmum"
+            },
+            {
+                "AlternativeSurname": "Roville",
+                "AlternativeForename": "Guillaume"
+            },
+            {
+                "AlternativeSurname": "Rovillio",
+                "AlternativeForename": "Gulielmo"
+            }
+        ],
+        "DateText": "ca.1518 - 1589",
+        "StartDate": "ca.1518",
+        "EndDate": "1589",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Publisher and librarian in Lion. He was apprentice in Venice to Giolito De Ferrari.",
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

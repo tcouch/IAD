@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5045",
+        "RecordId": "022-000000047",
+        "Surname": "Gessi",
+        "Forename": "Camillo",
+        "PersonalTitle": "Senator",
+        "DateText": "1571 - 1635",
+        "StartDate": "1571",
+        "EndDate": "1635",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Among the founders of the Gelati.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

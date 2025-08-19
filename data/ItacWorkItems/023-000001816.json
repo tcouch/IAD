@@ -1,0 +1,343 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001816",
+        "WorkId": "00124",
+        "ShortTitle": "Applausi dell`Accademia de` Ricovrati",
+        "LongTitle": "Alle glorie della Serenissima Republica di Venezia. In congiuntura che si partiva dal reggimento di Padova l`eccellentissimo signor Girolamo Basadonna suo podest\u00e0. Sotto il principato di Carlo Patino",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Accademia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1679",
+        "DedicationPlaceDate": "Padua 12 March 1679",
+        "Shelfmark": "Ac.8855.(1.)",
+        "Subjects": "Encomiastic discourse|Academic discourse:  Roman and Venetian republics compared|Academic discourse on ancient Rome",
+        "Language": "Italian|Greek|Latin|German",
+        "Illustration": "Plates | academy emblem",
+        "Pagination": "pp. 136",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5028",
+                    "RecordID": "022-000000030",
+                    "Value": "Montanari,Geminiano,,1633 - 1687"
+                },
+                {
+                    "PersonId": "9148",
+                    "RecordID": "022-000001600",
+                    "Value": "Sassonia,Ercole,,1551-1607"
+                },
+                {
+                    "PersonId": "9147",
+                    "RecordID": "022-000001608",
+                    "Value": "Papafava dei Carraresi,Roberto,,1656-?"
+                },
+                {
+                    "PersonId": "9140",
+                    "RecordID": "022-000001619",
+                    "Value": "Corner,Elena Lucrezia,,1646-1684"
+                },
+                {
+                    "PersonId": "9042",
+                    "RecordID": "022-000001633",
+                    "Value": "Caimo,Giacomo,,"
+                },
+                {
+                    "PersonId": "9046",
+                    "RecordID": "022-000001637",
+                    "Value": "de` Dottori,Carlo,,1618 - 1686"
+                },
+                {
+                    "PersonId": "9053",
+                    "RecordID": "022-000001643",
+                    "Value": "Descalzi,Ubertino,,fl. 1668 - 1681"
+                },
+                {
+                    "PersonId": "9055",
+                    "RecordID": "022-000001645",
+                    "Value": "Dottori,Giovanni Battista,Count,"
+                },
+                {
+                    "PersonId": "9085",
+                    "RecordID": "022-000001691",
+                    "Value": "Patin,Charles,,1633-1693"
+                },
+                {
+                    "PersonId": "9086",
+                    "RecordID": "022-000001692",
+                    "Value": "Malacreda,Lorenzo,,"
+                },
+                {
+                    "PersonId": "9087",
+                    "RecordID": "022-000001693",
+                    "Value": "de Lazara,Alessandro,,1647-1705"
+                },
+                {
+                    "PersonId": "9088",
+                    "RecordID": "022-000001694",
+                    "Value": "Bronckhorst,Ottone,Count,"
+                },
+                {
+                    "PersonId": "9089",
+                    "RecordID": "022-000001695",
+                    "Value": "Persico,Giuseppe,,"
+                },
+                {
+                    "PersonId": "9090",
+                    "RecordID": "022-000001696",
+                    "Value": "Ferrari,Ottavio,,"
+                },
+                {
+                    "PersonId": "9091",
+                    "RecordID": "022-000001697",
+                    "Value": "Bonzanin,Giacomo,,"
+                },
+                {
+                    "PersonId": "9092",
+                    "RecordID": "022-000001698",
+                    "Value": "Conti,Horatio,,"
+                },
+                {
+                    "PersonId": "9093",
+                    "RecordID": "022-000001699",
+                    "Value": "Renaldini,Carlo,,"
+                },
+                {
+                    "PersonId": "9094",
+                    "RecordID": "022-000001700",
+                    "Value": "Ercolani,Tomaso,,"
+                },
+                {
+                    "PersonId": "9095",
+                    "RecordID": "022-000001701",
+                    "Value": "Borromeus,Alexander,,1625 - 1708"
+                },
+                {
+                    "PersonId": "9096",
+                    "RecordID": "022-000001702",
+                    "Value": "Franchini,Marco Antonio,,"
+                },
+                {
+                    "PersonId": "9097",
+                    "RecordID": "022-000001703",
+                    "Value": "Cesarotti,I. P.,,"
+                },
+                {
+                    "PersonId": "9098",
+                    "RecordID": "022-000001704",
+                    "Value": "Gradenicus,Ambrosius,,"
+                },
+                {
+                    "PersonId": "9099",
+                    "RecordID": "022-000001705",
+                    "Value": "Pochini,Firmano,,fl.1678"
+                },
+                {
+                    "PersonId": "9100",
+                    "RecordID": "022-000001706",
+                    "Value": "Capellari,Michael,Abbot,1630-1717"
+                },
+                {
+                    "PersonId": "9101",
+                    "RecordID": "022-000001707",
+                    "Value": "Viali,Felice,,1638 - 1722"
+                },
+                {
+                    "PersonId": "9102",
+                    "RecordID": "022-000001708",
+                    "Value": "Gallici,Giuseppe,,"
+                },
+                {
+                    "PersonId": "9103",
+                    "RecordID": "022-000001709",
+                    "Value": "F.T.D.T.,,,"
+                },
+                {
+                    "PersonId": "9104",
+                    "RecordID": "022-000001710",
+                    "Value": "Pighius,Iacobus,,"
+                },
+                {
+                    "PersonId": "9105",
+                    "RecordID": "022-000001711",
+                    "Value": "Gnagnotti,Gio(van) Batt(ista),,"
+                },
+                {
+                    "PersonId": "9106",
+                    "RecordID": "022-000001712",
+                    "Value": "Varano,Giuseppe,,1639 - 1699"
+                },
+                {
+                    "PersonId": "9107",
+                    "RecordID": "022-000001714",
+                    "Value": "Papafava dei Carraresi,Federicus,,"
+                },
+                {
+                    "PersonId": "9108",
+                    "RecordID": "022-000001715",
+                    "Value": "Gradenicus,Ioannes,,"
+                },
+                {
+                    "PersonId": "9109",
+                    "RecordID": "022-000001716",
+                    "Value": "Rotondi,Felice,,1630 - 1704"
+                },
+                {
+                    "PersonId": "9110",
+                    "RecordID": "022-000001717",
+                    "Value": "Cicala,Ioannes,,"
+                },
+                {
+                    "PersonId": "9111",
+                    "RecordID": "022-000001718",
+                    "Value": "Morselli,Adriano,,"
+                },
+                {
+                    "PersonId": "9112",
+                    "RecordID": "022-000001719",
+                    "Value": "Colze,Giorgio Antonio,,"
+                },
+                {
+                    "PersonId": "9114",
+                    "RecordID": "022-000001721",
+                    "Value": "Reichelt,Iulius,,1637 - 1717"
+                },
+                {
+                    "PersonId": "9115",
+                    "RecordID": "022-000001722",
+                    "Value": "Obrechtus,Ulricus,,1646-1701"
+                },
+                {
+                    "PersonId": "9116",
+                    "RecordID": "022-000001723",
+                    "Value": "Volckamer,Iohannes Georgius,,1616 - 1693"
+                },
+                {
+                    "PersonId": "9117",
+                    "RecordID": "022-000001724",
+                    "Value": "Feschius,Sebastianus,,"
+                },
+                {
+                    "PersonId": "9118",
+                    "RecordID": "022-000001725",
+                    "Value": "Sponious,Iacob,,1647 - 1685"
+                },
+                {
+                    "PersonId": "9119",
+                    "RecordID": "022-000001726",
+                    "Value": "Keckius,Iohannes Christianus,,fl.1641-1678"
+                },
+                {
+                    "PersonId": "9120",
+                    "RecordID": "022-000001727",
+                    "Value": "Schroeckius,Lucas,,1646 - 1730"
+                },
+                {
+                    "PersonId": "9121",
+                    "RecordID": "022-000001728",
+                    "Value": "Scheffer,Sebastian,,1631 - ?"
+                },
+                {
+                    "PersonId": "9122",
+                    "RecordID": "022-000001729",
+                    "Value": "Borromeo,Ferdinando Carlo,Count,"
+                },
+                {
+                    "PersonId": "9123",
+                    "RecordID": "022-000001730",
+                    "Value": "Negri,Gio. Giacomo,,"
+                },
+                {
+                    "PersonId": "9124",
+                    "RecordID": "022-000001731",
+                    "Value": "Malacreda,Benedictus,,"
+                },
+                {
+                    "PersonId": "9126",
+                    "RecordID": "022-000001733",
+                    "Value": "Arnoldus,Christophorus,,fl. 1640-1680"
+                },
+                {
+                    "PersonId": "9127",
+                    "RecordID": "022-000001734",
+                    "Value": "Porto,Francesco,,"
+                },
+                {
+                    "PersonId": "9129",
+                    "RecordID": "022-000001736",
+                    "Value": "Marsili,Luigi Ferdinando,,1658-1730"
+                },
+                {
+                    "PersonId": "9130",
+                    "RecordID": "022-000001737",
+                    "Value": "Averoldo,Giulio Ant.,,"
+                },
+                {
+                    "PersonId": "9131",
+                    "RecordID": "022-000001738",
+                    "Value": "Ebell,Heinrich Cristoph,,"
+                },
+                {
+                    "PersonId": "9132",
+                    "RecordID": "022-000001740",
+                    "Value": "Patina,Gabrielis Carola,,1665/66-?"
+                },
+                {
+                    "PersonId": "5190",
+                    "RecordID": "022-000000184",
+                    "Value": "Zabarella,Giacomo,Count (The Younger),1599 - 1679"
+                },
+                {
+                    "PersonId": "5178",
+                    "RecordID": "022-000000173",
+                    "Value": "Santinelli,Francesco Maria,Marquis,1627-1697"
+                },
+                {
+                    "PersonId": "16601",
+                    "RecordID": "022-000003319",
+                    "Value": "Santasofia,Girolamo,,? - 1685"
+                },
+                {
+                    "PersonId": "19975",
+                    "RecordID": "022-000007434",
+                    "Value": "Altani,Scipione Enrico,Count of Salvarolo,1654-1738"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18777",
+                "RecordID": "022-000005845",
+                "Value": "Basadonna,Girolamo,Senator|Podesta` in Padua,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9085",
+                "RecordID": "022-000001691",
+                "Value": "Patin,Charles,,1633-1693"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9192",
+                "RecordID": "022-000001684",
+                "Value": "Cadorino,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55000",
+            "Value": "023-000001816_55000_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

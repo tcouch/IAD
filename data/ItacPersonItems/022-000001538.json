@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9242",
+        "RecordId": "022-000001538",
+        "Surname": "Arrivabene",
+        "Forename": "Giovan Francesco",
+        "Gender": "Male",
+        "DateText": "ca. 1515-?",
+        "StartDate": "ca. 1515",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "For Arrivabene`s biography, see Simona Carando, `ARRIVABENE, Giovanni Francesco,` in Dizionario Biografico degli Italiani 4 (1962).",
+        "Role": "Contributor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

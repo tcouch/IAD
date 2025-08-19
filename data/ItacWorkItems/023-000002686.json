@@ -1,0 +1,228 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002686",
+        "WorkId": "000331",
+        "ShortTitle": "Quarte Rime",
+        "LongTitle": "della Signora Laura Terracina Detta Phebea Ne L`Academia De Gl`incogniti.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1550",
+        "DedicationPlaceDate": "Naples 18 April 1550; Naples 10 May 1550; Naples 5 June 1550",
+        "Shelfmark": "11426.aaa.36.(3.)",
+        "Illustration": "Woodcut|Portrait of Laura Terracina|Woodcut|Old female figure",
+        "Pagination": "pp. 75",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16062",
+                "RecordID": "022-000002642",
+                "Value": "Terracina,Laura,,1519-1577"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16065",
+                    "RecordID": "022-000002646",
+                    "Value": "Mantegna,Gio[vanni] Alfonso ,,"
+                },
+                {
+                    "PersonId": "16081",
+                    "RecordID": "022-000002666",
+                    "Value": "Morera,Scipione,,"
+                },
+                {
+                    "PersonId": "16100",
+                    "RecordID": "022-000002689",
+                    "Value": "Tizzone ,Giovan Battista,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "con Gratia & Privilegio",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0037",
+                "RecordID": "021-000002640",
+                "Value": "Accademia degli Incogniti"
+            },
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16065",
+                    "RecordID": "022-000002646",
+                    "Value": "Mantegna,Gio[vanni] Alfonso ,,"
+                },
+                {
+                    "PersonId": "16062",
+                    "RecordID": "022-000002642",
+                    "Value": "Terracina,Laura,,1519-1577"
+                },
+                {
+                    "PersonId": "16066",
+                    "RecordID": "022-000002647",
+                    "Value": "Sanseverino,Pietro Antonio,Prince of Bisignano,"
+                },
+                {
+                    "PersonId": "16099",
+                    "RecordID": "022-000002688",
+                    "Value": "Lega ,Giovanni Dominico,,"
+                },
+                {
+                    "PersonId": "16100",
+                    "RecordID": "022-000002689",
+                    "Value": "Tizzone ,Giovan Battista,,"
+                },
+                {
+                    "PersonId": "16101",
+                    "RecordID": "022-000002691",
+                    "Value": "Maracca,Baldassare,Reverend of Lesina,"
+                },
+                {
+                    "PersonId": "15112",
+                    "RecordID": "022-000001153",
+                    "Value": "Di Costanzo,Angelo,,1507-1591"
+                },
+                {
+                    "PersonId": "16102",
+                    "RecordID": "022-000002692",
+                    "Value": "Brancaleoni,Francesco Giovanni,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16098",
+                "RecordID": "022-000002687",
+                "Value": "Valvassorio,Giovanni Andrea,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52848",
+            "Value": "023-000002686_52848_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Vertuosissimo Giovanni Alfonso Mantegna Di Maida.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Generosa Signora Laura Terracina.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16065",
+                            "RecordID": "022-000002646",
+                            "Value": "Mantegna,Gio[vanni] Alfonso ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`Illustrissimo Et Eccellentissimo Signore Pietro Antonio Sanseverino Prencipe di Bisignano.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ai Signori Incogniti.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A M. Gio. Domenico Lega Detto Parthenio Ne La Morte Di Sua Moglie.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Signor Angelo Di Costanza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Scipione Morera Detto Astemio Incognito A La S. Laura Terracina.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16081",
+                            "RecordID": "022-000002666",
+                            "Value": "Morera,Scipione,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di M. Giovan Battista Tizzone A Parthenio De Gli Incogniti In La Morte Di M. Vincenza De Valle Sua Moglie.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16100",
+                            "RecordID": "022-000002689",
+                            "Value": "Tizzone ,Giovan Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Della Signora Laura Alla Morte Di M. Giovan Battista Tizzone Academico Ardente.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella Morte Del Reverendo Di Lesena Detto Nella Academia Degli Incogniti Museo.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Signor Francisco Brancaleoni Nuovo Museo De Gli Incogniti.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

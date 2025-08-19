@@ -1,0 +1,106 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001467",
+        "WorkId": "00091",
+        "ShortTitle": "De le lettere di M. Claudio Tolomei libri sette. Con una breve dichiaratione in fine di tutto l`ordin de l`ortografia di questa opera.",
+        "LongTitle": "Con privilegio del sommo pontefice de la Cesarea Mae[st\u00e0] del Senato Veneto e del duca di Fiorenza per anni dieci",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0018",
+                "RecordID": "021-000001454",
+                "Value": "Accademia degli Affumati"
+            },
+            {
+                "AcademyId": "0107",
+                "RecordID": "021-000005041",
+                "Value": "Accademia della Virt\u00f9"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1547",
+        "DedicationPlaceDate": "Rome 12 May 1543",
+        "Shelfmark": "88.d.22 | 1085.m.2",
+        "Subjects": "Letters",
+        "Language": "Italian|Greek",
+        "Pagination": "pp. 204r-v",
+        "Marginalia": "Yes",
+        "Edition": "1st",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7551",
+                "RecordID": "022-000001455",
+                "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "7551",
+                "RecordID": "022-000001455",
+                "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+            }
+        },
+        "Notes": "1085.m.2 copy has a printer`s ornament in the colophon as well. The copy has the following ms note: sir Henry Sidneys bouk 1553 | Mary Sidney. The letter to Agostino de` Landi is about the Accademia della virtu`",
+        "CensorsAgreement": "Con privilegio del sommo pontefice de la Cesarea Mae[st\u00e0] del Senato Veneto e del duca di Fiorenza per anni dieci",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7555",
+                    "RecordID": "022-000001459",
+                    "Value": "Grimaldi,Giovambattista,,c. 1524-c. 1612"
+                },
+                {
+                    "PersonId": "18096",
+                    "RecordID": "022-000005050",
+                    "Value": "de` Landi,Agostino,Count,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "PrinterOrnament": "Edit16 A121 | Edit16 V363 | Z534",
+        "TitlePageImage": {
+            "ImageId": "52655",
+            "Value": "023-000001467_52655_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52656",
+            "Value": "023-000001467_52656_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "A M[esser] Trifon Benzio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7551",
+                            "RecordID": "022-000001455",
+                            "Value": "Tolomei, Claudio, bishop, 1492-1555/6"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Conte Agostino de` Landi - di Roma 13 Novembre 1542",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7551",
+                            "RecordID": "022-000001455",
+                            "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

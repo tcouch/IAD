@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008705",
+        "WorkId": "001002",
+        "ShortTitle": "Excellentiss[imi] Iurisconsultorum Principis, D. Andreae Alciati mediolanensis",
+        "LongTitle": "in secundam Infortiati partem de legatis pr\u00e6clarissima Commentaria, nunc primum edita",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1559",
+        "Shelfmark": "John Rylands Library Aldine Collection 604",
+        "Language": "Latin",
+        "Pagination": "151pp.",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15996",
+                "RecordID": "022-000002565",
+                "Value": "Alciato,Andrea,,1492-1550"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18044",
+                "RecordID": "022-000004985",
+                "Value": "Philip II,,King of Spain,1556 - 1598"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

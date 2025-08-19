@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18330",
+        "RecordId": "022-000005344",
+        "Surname": "Chracas",
+        "Forename": "Luca Antonio",
+        "Gender": "Male",
+        "DateText": "ca.1659-1723",
+        "StartDate": "ca.1659",
+        "EndDate": "1723",
+        "Nationality": {
+            "NationalityId": "305",
+            "Value": "of Spinazzola (Bari)"
+        },
+        "Notes": "See Franchi, Impressioni sceniche, p. 150ff.",
+        "Role": "Printer",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0473",
+        "RecordId": "021-000007900",
+        "Name": "Oziosi-Ragusa of Dalmatia (Accademia degli)",
+        "AlternativeName": "Accademia Druscina",
+        "City": {
+            "CityId": "113",
+            "CityItalianName": "Ragusa of Dalmatia",
+            "CityEnglishName": "Ragusa",
+            "CityLatinName": "Ragusa"
+        },
+        "StartDate": "1637",
+        "EndDate": "after1718",
+        "DateText": "1637-after1718",
+        "Notes": "For information on Dalmatian literature and men of letters in the 16th and 17th c., see Fran\u00e7ois-Marie Appendini, Notizie istorico-critiche sulle antichita`, storia e letteratura de Ragusei (1802)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5124",
+                "RecordId": "022-000000120",
+                "Name": "Bona,Giovanni Jr,,1662-1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5114",
+                "RecordId": "022-000000111",
+                "Name": "Petrovich,Vincenzo,,1677-1754?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5158",
+                "RecordId": "022-000000153",
+                "Name": "Mattei,Giorgio,,1675-1753",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5206",
+                "RecordId": "022-000000200",
+                "Name": "Palmotta,Giugno,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19495",
+                "RecordId": "022-000006720",
+                "Name": "Gigli,Girolamo,,1660-1722",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20782",
+                "RecordId": "022-000008609",
+                "Name": "Gozze,Ladislao Luca,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20783",
+                "RecordId": "022-000008610",
+                "Name": "Gozze,Luca di Raffaele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20780",
+                "RecordId": "022-000008607",
+                "Name": "Menze,Ladislao,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20781",
+                "RecordId": "022-000008608",
+                "Name": "Pozza,Luciano di Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20784",
+                "RecordId": "022-000008611",
+                "Name": "De Angelis,Giancarlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

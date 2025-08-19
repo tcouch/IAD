@@ -1,0 +1,116 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006076",
+        "WorkId": "000720",
+        "ShortTitle": "Lettera del padre Francesco Eschinardi",
+        "LongTitle": "Della compagnia di Giesu`. Al Signor Francesco Redi, Nella quale si contengono alcuni Discorsi Fisicomatematici",
+        "ItacAcademyItem": {
+            "AcademyId": "0141",
+            "RecordID": "021-000006038",
+            "Value": "Accademia Fisico-matematica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1681",
+        "Shelfmark": "1570//3396",
+        "Subjects": "Science",
+        "Language": "Italian",
+        "Pagination": "44",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18940",
+                "RecordID": "022-000006042",
+                "Value": "Eschinardi,Francesco,,1623 - 1703"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18940",
+                "RecordID": "022-000006042",
+                "Value": "Eschinardi,Francesco,,1623 - 1703"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18343",
+                "RecordID": "022-000005358",
+                "Value": "Tinassi,Nicolo` Angelo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54553",
+            "Value": "023-000006076_54553_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Lettera del P. Francesco Eschinardi della Compagnia di Giesu` al signor Francesco Redi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18940",
+                            "RecordID": "022-000006042",
+                            "Value": "Eschinardi,Francesco,,1623 - 1703"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso primo sopra il Taglio dello stretto di Terra tra `l Mar Rosso et il Mediterraneo, pubblicato nel 1680",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18940",
+                            "RecordID": "022-000006042",
+                            "Value": "Eschinardi,Francesco,,1623 - 1703"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "II Continuatione del Discorso sopra la Cometa del 1680 e 1681 fatto dal padre [F. E.] e stampato sotto il Titolo d`un della Accademia Fisicomatematica di Roma nelli 5 Gennaro 1681",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18940",
+                            "RecordID": "022-000006042",
+                            "Value": "Eschinardi,Francesco,,1623 - 1703"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D`una subita declinatione della Calamita. Discorso del P. [F. E. ...] 12 Marzo 1681",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18940",
+                            "RecordID": "022-000006042",
+                            "Value": "Eschinardi,Francesco,,1623 - 1703"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Della Remora Discorso del Padre [F. E.] della Compagnia di Giesu` fatto nell`Accademia Fisicomatematica di Roma 2 Marzo 1681",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18940",
+                            "RecordID": "022-000006042",
+                            "Value": "Eschinardi,Francesco,,1623 - 1703"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poscritto nel quale si toccano brevemente varie materie",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18940",
+                            "RecordID": "022-000006042",
+                            "Value": "Eschinardi,Francesco,,1623 - 1703"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

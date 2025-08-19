@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15726",
+        "RecordId": "022-000002263",
+        "Surname": "Carriero",
+        "Forename": "Alessandro",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Carerium",
+            "AlternativeForename": "Alexander"
+        },
+        "DateText": "1546-1626",
+        "StartDate": "1546",
+        "EndDate": "1626",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Carriero received obtained a degree in canon and civil law in the University of Padua, but he was rather inclined towards literary studies. At the age of 27 he was among the founders of the Animosi Academy. In this context, he delivered two orations, one on dreams, `De somniis deque divinatione per somnia brevis consideratio`, later published in Padua; the other, `Possint ne arte simplicia veraque metalla gigni`, also published later, was about the nature of metals and the way they could be transformed. See his biography by Sandra Olivieri Secchi in DBI.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

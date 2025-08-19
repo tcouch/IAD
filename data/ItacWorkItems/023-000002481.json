@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002481",
+        "WorkId": "000313",
+        "ShortTitle": "Discorso del cavalier Ercole Cato",
+        "LongTitle": "Accademico detto lo Scompagnato. Recitato nell`Accademia degli Intrepidi",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0030",
+                "RecordID": "021-000002423",
+                "Value": "Accademia degli Infuriati"
+            },
+            {
+                "AcademyId": "0385",
+                "RecordID": "021-000007496",
+                "Value": "Intrepidi (Accademia degli)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1603",
+        "DedicationPlaceDate": "28 gennaio 1603",
+        "Shelfmark": "835f8",
+        "Subjects": "Academic discourse",
+        "Language": "Italian",
+        "Illustration": "Woodcut|",
+        "Pagination": "16",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20430",
+                "RecordID": "022-000008154",
+                "Value": "Cato,Ercole,,1538?-after1606"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15716",
+                "RecordID": "022-000002248",
+                "Value": "Aldobrandini,Pietro,Cardinal,1571-1621"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55263",
+            "Value": "023-000002481_55263_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

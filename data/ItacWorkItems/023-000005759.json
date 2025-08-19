@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005759",
+        "WorkId": "000696",
+        "ShortTitle": "Li sponsali tra nemici",
+        "LongTitle": "Avvenimento scenico di Simone Grassi Fiorentino. Accademico tra gl`Infecondi di Roma",
+        "ItacAcademyItem": {
+            "AcademyId": "0125",
+            "RecordID": "021-000005612",
+            "Value": "Accademia degli Infecondi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "n.d.",
+        "Shelfmark": "11716a17",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "82",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18692",
+                "RecordID": "022-000005756",
+                "Value": "Grassi,Simone,,1650 - ?"
+            }
+        },
+        "Notes": "It is not sure whether the printer is Giacomo Pellegrino or Giuseppe Longhi",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9700",
+                    "RecordID": "022-000000279",
+                    "Value": "Orighettus,Fulgentius,,"
+                },
+                {
+                    "PersonId": "5231",
+                    "RecordID": "022-000000223",
+                    "Value": "Musotto,Ioseph.,,"
+                },
+                {
+                    "PersonId": "18693",
+                    "RecordID": "022-000005757",
+                    "Value": "Molus,Angelus Gulielmus,Vicar General of the Holy Office in Bologna,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Fulgentius Orighettus Clericus Reg. S. Pauli in Metrop. S. Petri Bononiae Poenitentiarius, pro Illustrissimo, et Reverendissimo D. D. Ioseph Musotto Vic. Capitulari. REIMPRIMATUR  Fr. Angelus Gulielmus Molus Vicarius Generalis Sancti Officij Bonon.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18694",
+                "RecordID": "022-000005758",
+                "Value": "Longhi,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54501",
+            "Value": "023-000005759_54501_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003657",
+        "WorkId": "000486",
+        "ShortTitle": "La menzogna",
+        "LongTitle": "Commedia del cavaliere Ubaldino Malavolti Accademico Filomato. Recitata in Siena dall`Universita` de gli Scolari il Carnovale del MDCXIII. Sotto `l reggimento dell`Illustrissimo Signor Gio. Cristofaro Galler sig. di Scwamberg e Lanach, nobil sanese",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "Siena 1 May 1614",
+        "Shelfmark": "1071.k.8.(2.)|839.a.20",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "[14] 144",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16874",
+                "RecordID": "022-000003642",
+                "Value": "Malavolti,Ubaldino,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16886",
+                "RecordID": "022-000003655",
+                "Value": "Buoninsegni,Girolamo,,"
+            }
+        },
+        "Notes": "In the dedication, Galler is called `Sig. di Scwamberg e Lanach, dignissimo rettore dello studio di Siena`",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16887",
+                "RecordID": "022-000003656",
+                "Value": "Galler,Cristofano,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16804",
+                "RecordID": "022-000003548",
+                "Value": "I Florimi,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53885",
+            "Value": "023-000003657_53885_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sonetto del signor Girolamo Buoninsegni Strambo Filomato Al medesimo: O degno a cui di sottoporre hor degni",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16886",
+                            "RecordID": "022-000003655",
+                            "Value": "Buoninsegni,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto del medesimo all'autore: Come con lode si mentisce, e dove",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16886",
+                            "RecordID": "022-000003655",
+                            "Value": "Buoninsegni,Girolamo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

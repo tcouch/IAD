@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19381",
+        "RecordId": "022-000006587",
+        "Surname": "Vezzo",
+        "Forename": "Virginia",
+        "Gender": "Female",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "di Vezzo"
+            },
+            {
+                "AlternativeSurname": "Vezzi"
+            }
+        ],
+        "DateText": "1597-post1626",
+        "StartDate": "1597",
+        "EndDate": "post1626",
+        "Nationality": {
+            "NationalityId": "309",
+            "Value": "of Velletri"
+        },
+        "Notes": "Painter, wife of Simon Vouet.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

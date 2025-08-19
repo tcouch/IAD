@@ -1,0 +1,53 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0397",
+        "RecordId": "021-000007681",
+        "Name": "Industriosi (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Graft",
+        "Motto": "Fructifer ex sterili",
+        "StartDate": "17thc.",
+        "DateText": "17thc.",
+        "Notes": "Publications, not in British Library catalogue, include: Funerali accademici composizioni in morte dell`ill.mo sig. il signor co. Lazaro Ferro patr. ven. ... Raccolte da Constantino Borghesaleo. Secretario dell`Accademia degl`Industriosi (In Venetia: per Antonio Bosio, 1693)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19774",
+                "RecordId": "022-000007201",
+                "Name": "Ferro,Lazaro,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20161",
+                "RecordId": "022-000007682",
+                "Name": "Borghesaleo,Costantino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20163",
+                "RecordId": "022-000007684",
+                "Name": "Soranzo,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20162",
+                "RecordId": "022-000007683",
+                "Name": "Morosini del Giardino,Gianfrancesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

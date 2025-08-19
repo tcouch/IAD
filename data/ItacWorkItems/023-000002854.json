@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002854",
+        "WorkId": "000367",
+        "ShortTitle": "L`Ercolano",
+        "LongTitle": "Dialogo di M. Benedetto Varchi nel quale si ragiona delle lingue, ed in particolare della Toscana e della Fiorentina. Colla correzione ad esso fatta da messer Lodovico Castelvetro; e colla Varchina di Messer Girolamo Muzio",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1744",
+        "Shelfmark": "G.16872-3",
+        "Subjects": "Linguistics",
+        "Language": "Italian",
+        "Pagination": "v. I [xiii] 570; v. II 170 [10]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9206",
+                "RecordID": "022-000001503",
+                "Value": "Varchi,Benedetto,,1503 - 1565"
+            }
+        },
+        "Notes": "Mentions discussions about Italian language in the Accademia degli Infiammati",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16218",
+                "RecordID": "022-000002853",
+                "Value": "Corsini,Neri,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16217",
+                "RecordID": "022-000002852",
+                "Value": "Comino,Giuseppe,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008397",
+        "WorkId": "000949",
+        "ShortTitle": "Concerti musicali a quattro e cinque voci",
+        "LongTitle": "Dedicati all`Illustrissimo Signor Padron Colendissimo il Signor Giorgio Adamo Ignatio Del Sacro Romano Impero Conte di Martiniez. Da F. Gio Andrea Florimi Servita. Vice Maestro della Metropolitana di Siena, et Accademico Concertato. Opera Terza",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Filarmonica (Accademia - 1666)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1673",
+        "Shelfmark": "D111",
+        "Subjects": "Music",
+        "Language": "Italian|Latin",
+        "Pagination": "15",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20612",
+                "RecordID": "022-000008396",
+                "Value": "Florimi,Giovanni Andrea,,before1646-1683"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20613",
+                "RecordID": "022-000008398",
+                "Value": "Ignazio,Giorgio Adamo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55299",
+            "Value": "023-000008397_55299_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

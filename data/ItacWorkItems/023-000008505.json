@@ -1,0 +1,113 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008505",
+        "WorkId": "000958",
+        "ShortTitle": "Prose",
+        "LongTitle": "Del Signor Alessandro Guarini Gentilhuomo Ferrarese, Accademico Intrepido",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0385",
+                "RecordID": "021-000007496",
+                "Value": "Intrepidi (Accademia degli)"
+            },
+            {
+                "AcademyId": "0551",
+                "RecordID": "021-000008268",
+                "Value": "Invaghiti (Accademia degli - Mantova)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1611",
+        "DedicationPlaceDate": "1611, Ferrara",
+        "Shelfmark": "1608/814",
+        "Subjects": "Prose|Letters|Dialogue|Carnival|Oration",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18365",
+                "RecordID": "022-000005383",
+                "Value": "Guarini,Alessandro,,1563-1636"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7563",
+                    "RecordID": "022-000000275",
+                    "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+                },
+                {
+                    "PersonId": "7322",
+                    "RecordID": "022-000000909",
+                    "Value": "Orsini,Cesare,,"
+                }
+            ]
+        },
+        "Notes": "The volume is an anthology of earlier writings by the same author. They include: Il Farnetico Savio (1610); Anticupido (1610); Orazione [...] Fatta in lode di D. Alderano Cybo Marchese di Carrara (1609); Delle Lettere del Signor Alessandro Guarini (n. d.); Pareri in Materia d`Onor, e di Paci (1611); and Varie Compositioni Raccolte in diverse materie (1611). Most of these texts are published in the volume with their original title pages and prefatory material. They have been catalogued separately.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20697",
+                    "RecordID": "022-000008506",
+                    "Value": "Levaloro,Gasparo,Canon,"
+                },
+                {
+                    "PersonId": "20441",
+                    "RecordID": "022-000008165",
+                    "Value": "Camp.,D.,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Io Gasparo Levaloro Canonico Teologo della Cathedrale di Ferrara h\u00f2 letto tutto questo libro di Lettere, Pareri intorno \u00e0 paci, e ragionamenti del Mol. Illust. Sig. Alessandro Guarini, ne h\u00f2 trovato in loro cosa ripugnante alla S. Fede Catolica, \u00f2 \u00e0 buoni costumi, si che giudico, che si possano dare alle stampe.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19102",
+                "RecordID": "022-000006229",
+                "Value": "Gonzaga,Vincenzo,Duke of Mantua,1562-1612"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55345",
+            "Value": "023-000008505_55345_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Sereniss. Prencipe mio Sig. & Padron Colendis.mo Il Sig. Don Vincenzo Gonzaga Duca di Mantova e di Monferrato, & c.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7563",
+                            "RecordID": "022-000000275",
+                            "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Auttore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7322",
+                            "RecordID": "022-000000909",
+                            "Value": "Orsini,Cesare,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

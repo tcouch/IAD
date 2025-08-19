@@ -1,0 +1,104 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001803",
+        "WorkId": "00118",
+        "ShortTitle": "Gli Valerii overo origine et nobilt\u00e0 della gente valeria di Roma di Padova et di Venezia.",
+        "LongTitle": "Dove con la vita di Volusio e di Stella poeti padovani si ha vera et intiera notizia non solo delle Grandezze della gente Valeria ma anco delle cose antiche pi\u00f9 insigni della Repub. et Imperio di Roma della Citt\u00e0 di Padova et della Sereniss. Repub. di Venezia. All`Illustrissimo et eccellentissimo signor Silvestro Valerio procurator di San Marco figliuolo del Sereniss. Bertucci Valerio Doge di Venezia. del Co(nte) Giacomo Zabarella Cav(aliere) Accademico Ricovrato Apatista et Eccitato",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Academia dei Ricovrati"
+            },
+            {
+                "AcademyId": "0041",
+                "RecordID": "021-000002728",
+                "Value": "Accademia degli Apatisti"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1666",
+        "DedicationPlaceDate": "Padua 25 May 1666",
+        "Shelfmark": "9903.c.29.(2)",
+        "Subjects": "Antiquities",
+        "Language": "Italian|Latin",
+        "Illustration": "Author`s portrait|",
+        "Pagination": "pp. 151",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5190",
+                "RecordID": "022-000000184",
+                "Value": "Zabarella,Giacomo,Count (The Younger),1599 - 1679"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9194",
+                    "RecordID": "022-000001773",
+                    "Value": "Nani,Battista,,"
+                },
+                {
+                    "PersonId": "15185",
+                    "RecordID": "022-000001227",
+                    "Value": "Nicolosi,Angelo,,"
+                },
+                {
+                    "PersonId": "15321",
+                    "RecordID": "022-000001360",
+                    "Value": "Pisani,Andrea,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Riformatori dello studio di Padova. Avendo veduto per fede del padre Inquisitore di Padova nel libro intitolato Gli valerii del Conte Giacomo Zabarella non esservi cosa alcuna contro la Santa Fede Cattolica e parimente per attestato del Segretario nostro niente contro principi e buoni costumi concedemo licenza a gl`eredi di Paolo Frambotto di poterlo stampare osservando gl`ordini et c. Dat. 6 Maggio 1666. Andrea Pisani (Proc. Rif.) Battista Nani (Cav. Proc. Rif.) | Angelo Nicolosi Segret.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9646",
+                    "RecordID": "022-000001780",
+                    "Value": "Valier,Silvestro,Doge,1630 - 1700"
+                },
+                {
+                    "PersonId": "16119",
+                    "RecordID": "022-000002727",
+                    "Value": "Accademici Apatisti,,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9639",
+                "RecordID": "022-000001687",
+                "Value": "Frambotti,Paolo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9638",
+                "RecordID": "022-000001686",
+                "Value": "Frambotti,Eredi di Paolo,,"
+            }
+        },
+        "PrinterOrnament": "Mar.te 1051",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Agli Illustrissimi e Virtuosissimi signori Accademici Apatisti. L`autore aggregato spontaneamente da loro all`Accademia in questi giorni",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "5190",
+                        "RecordID": "022-000000184",
+                        "Value": "Zabarella, Giacomo, Count (The Younger),"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

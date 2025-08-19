@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16499",
+        "RecordId": "022-000003185",
+        "Surname": "Ruscelli",
+        "Forename": "Girolamo",
+        "Pseudonym": "Alessio Piemontese|Alexius Pedemontanus",
+        "DateText": "1504 - 1566",
+        "StartDate": "1504",
+        "EndDate": "1566",
+        "Nationality": {
+            "NationalityId": "104",
+            "Value": "of Viterbo"
+        },
+        "Role": "Editor|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

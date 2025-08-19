@@ -1,0 +1,246 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0043",
+        "RecordId": "021-000002758",
+        "Name": "Investiganti (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "Motto": "Vestigia Lustrat",
+        "StartDate": "1650",
+        "EndDate": "1737",
+        "DateText": "1650-1737",
+        "Notes": "On the Investiganti Academy, see Maurizio Torrini, `L`Accademia degli Investiganti. Napoli 1663-1670`, in Quaderni storici, 16 (1981), pp. 845-83.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16185",
+                "RecordId": "022-000002808",
+                "Name": "Concublet,Andrea,Marquis of Arena,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16209",
+                "RecordId": "022-000002840",
+                "Name": "Borrelli,Giovanni Alfonso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16247",
+                "RecordId": "022-000002894",
+                "Name": "Caramuel y Lobkowitz ,Juan,Bishop of Vigevano,1606 - 1682",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53488",
+                    "Value": "022-000002894_53488_2.jpg"
+                }
+            },
+            {
+                "PersonId": "16142",
+                "RecordId": "022-000002754",
+                "Name": "Di Capua,Leonardo,,1617 - 1695",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53504",
+                    "Value": "022-000002754_53504_2.jpg"
+                }
+            },
+            {
+                "PersonId": "16246",
+                "RecordId": "022-000002893",
+                "Name": "D`Andrea,Francesco,,1625 - 1698",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17195",
+                "RecordId": "022-000004005",
+                "Name": "D`Andrea,Gennaro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17196",
+                "RecordId": "022-000004006",
+                "Name": "Capucci ,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17200",
+                "RecordId": "022-000004010",
+                "Name": "Bartolo,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17202",
+                "RecordId": "022-000004013",
+                "Name": "Capucius,Ioannes Baptista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17207",
+                "RecordId": "022-000004019",
+                "Name": "Gentile,Michele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17210",
+                "RecordId": "022-000004023",
+                "Name": "Lizzaldi,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17211",
+                "RecordId": "022-000004024",
+                "Name": "Pellegrino,Camillo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17212",
+                "RecordId": "022-000004025",
+                "Name": "Scutari,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17233",
+                "RecordId": "022-000004048",
+                "Name": "Nandeo ,Gabriele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17234",
+                "RecordId": "022-000004049",
+                "Name": "Gassendi ,Pierre,,1592 - 1655",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16213",
+                "RecordId": "022-000002848",
+                "Name": "Buragna ,Carlo,,1632 - 1679?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17235",
+                "RecordId": "022-000004050",
+                "Name": "Conti,Tobia,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17236",
+                "RecordId": "022-000004051",
+                "Name": "Cioffi,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17237",
+                "RecordId": "022-000004052",
+                "Name": "Cioffi,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17238",
+                "RecordId": "022-000004053",
+                "Name": "Scaglione ,Salvatore,Bishop of Castellammare di Stabia,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17239",
+                "RecordId": "022-000004054",
+                "Name": "di Stefano,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16245",
+                "RecordId": "022-000002892",
+                "Name": "Cornelio,Tommaso,,1614 - 1684",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53927",
+                    "Value": "022-000002892_53927_2.jpg"
+                }
+            },
+            {
+                "PersonId": "16146",
+                "RecordId": "022-000002759",
+                "Name": "Porzio,Luca Antonio,,1639 - 1724",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "53960",
+                    "Value": "022-000002759_53960_2.jpg"
+                }
+            },
+            {
+                "PersonId": "18314",
+                "RecordId": "022-000005324",
+                "Name": "Caraccio,Antonio,,1630-1702",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18586",
+                "RecordId": "022-000005634",
+                "Name": "Spinola,Daniele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19815",
+                "RecordId": "022-000007252",
+                "Name": "Cornelio,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

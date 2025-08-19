@@ -1,0 +1,91 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001858",
+        "WorkId": "00133",
+        "ShortTitle": "Considerationi di Gio. Pietro Malacreta dot. Vicentino detto nell`Accademia degli Orditi di Padova L`Innaspato;",
+        "LongTitle": "sopra il Pastor Fido tragicomedia pastorale del molto illustre Sig[nor] cavalier Battista Guarini. Seconda editione. Con licenza de` superiori",
+        "ItacAcademyItem": {
+            "AcademyId": "0022",
+            "RecordID": "021-000001817",
+            "Value": "Accademia degli Orditi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1601",
+        "DedicationPlaceDate": "Vicenza 12 June 1600",
+        "Shelfmark": "240.c.47",
+        "Subjects": "Literary criticism",
+        "Language": "Italian",
+        "Pagination": "pp. 94r-v",
+        "Marginalia": "Yes",
+        "Edition": "3rd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9650",
+                "RecordID": "022-000001819",
+                "Value": "Malacreta,Gio. Pietro,,c. 1600"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9660",
+                    "RecordID": "022-000001829",
+                    "Value": "Massa,Lorenzo,,"
+                },
+                {
+                    "PersonId": "9661",
+                    "RecordID": "022-000001830",
+                    "Value": "Paulini,Fabio,,fl. 1589"
+                },
+                {
+                    "PersonId": "9662",
+                    "RecordID": "022-000001831",
+                    "Value": "Nani,Sebastian,,"
+                },
+                {
+                    "PersonId": "9663",
+                    "RecordID": "022-000001832",
+                    "Value": "Pasqualigo,Daniel,,"
+                },
+                {
+                    "PersonId": "9664",
+                    "RecordID": "022-000001833",
+                    "Value": "Renier,Ferigo,,"
+                },
+                {
+                    "PersonId": "9665",
+                    "RecordID": "022-000001834",
+                    "Value": "Ottobonus,Leonardus,,"
+                },
+                {
+                    "PersonId": "9672",
+                    "RecordID": "022-000001841",
+                    "Value": "Laured.,Antonius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "COPIA | Gli eccellentissimi signori capi dell`illustrissimo Conseglio di X. Infrascritti avuta fede dalli signori Riformatori del Studio di Padova per relatiion delli tre a ci\u00f2 deputati cio\u00e9 reverendo padre inquisitor del circonspetto secretario del Senato Lorenzo Massa et di domino Fabio Paulini dottor lettor publico che nel libro delle Considerationi di Gio. Pietro Malacreta sopra il Pastor fido del cavalier Guarino non vi \u00e8 cosa contra le leggi et \u00e8 degno di stampa concedono licentia che possi essere stampato in quesrta citt\u00e0. Dat. die 2 Augusti 1600. | D. Sebastian Nani; D. Daniel Pasqualigo; D. Federigo Renier Capi dell`Illustriss. Conseglio di X | Ilusstrissimo Cons. X Secretarius Leonardus Ottobonus | 1600 a 7 Agosto registrato in libro | Antonius Laured. officii Con. Blasph. Coad. et Secr.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9653",
+                "RecordID": "022-000001822",
+                "Value": "Gonzaga,Ferrando,Prince of Molfetta,1563-1630"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9654",
+                "RecordID": "022-000001823",
+                "Value": "Zaltieri,Antonio,,fl. 1583-1615"
+            }
+        },
+        "PrinterOrnament": "Mar.te 1212",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

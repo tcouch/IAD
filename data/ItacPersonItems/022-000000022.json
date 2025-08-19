@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5020",
+        "RecordId": "022-000000022",
+        "Surname": "Bonomi",
+        "Forename": "Giovanfrancesco",
+        "Gender": "Male",
+        "DateText": "1626-1705",
+        "StartDate": "1626",
+        "EndDate": "1705",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Also member of other academies such as Filoponi (Faenza), and Concordi (Ravenna).",
+        "Role": "Author|Contributor|Dedicatee|Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

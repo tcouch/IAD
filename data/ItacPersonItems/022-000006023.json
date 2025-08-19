@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18924",
+        "RecordId": "022-000006023",
+        "Surname": "Moleti",
+        "Forename": "Antonino",
+        "AlternativeName": {
+            "AlternativeSurname": "Antonio",
+            "AlternativeForename": null
+        },
+        "DateText": "fl.1688 - 1691",
+        "StartDate": "fl.1688",
+        "EndDate": "1691",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, p. 50 (BL Shelfmark:610.m.10.). Another publication, not in BL collections, is: Il trionfo della Giustitia... discorso accademico recitato in casa dell`Ill.mo monsignor Ciampini (1691)",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007811",
+        "WorkId": "000872",
+        "ShortTitle": "Almida Tragedia",
+        "LongTitle": "Del Signor Agostino Dolce",
+        "ItacAcademyItem": {
+            "AcademyId": "0439",
+            "RecordID": "021-000007801",
+            "Value": "Accademia dei Riuniti"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "109",
+            "PublicationPlaceItalianName": "Udine",
+            "PublicationPlaceEnglishName": "Udine",
+            "PublicationPlaceLatinName": "Utinum"
+        },
+        "PublicationYear": "1605",
+        "DedicationPlaceDate": "Di Udine il primo Maggio 1605",
+        "Shelfmark": "1485r20",
+        "Subjects": "Tragedy|Theatre",
+        "Language": "Italian",
+        "Pagination": "pages unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20227",
+                "RecordID": "022-000007802",
+                "Value": "Dolce,Agostino,,"
+            }
+        },
+        "Notes": "In the dedication, Troilo Savorgnan wrote: `E sapendo io troppo bene con quale applauso e con quale pompa ella [la tragedia] fosse gia` piu` di dodici anni or sono recitata dai virtuosissimi Academici RIUNITI in Vinegia sotto la protettione di Voi (Clarissimo Signore) e de` clarissimi signori Pietro Badoaro, Marco Barbaro, Giorgio Giustiniano, et Filippo Contarino, dandola hora in luce, ho voluto a voi dedicarla...`",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20232",
+                    "RecordID": "022-000007812",
+                    "Value": "Legge,Priamo,,"
+                },
+                {
+                    "PersonId": "20237",
+                    "RecordID": "022-000007817",
+                    "Value": "Barbaro,Marco,,"
+                },
+                {
+                    "PersonId": "20236",
+                    "RecordID": "022-000007816",
+                    "Value": "Contarini,Filippo,,"
+                },
+                {
+                    "PersonId": "20238",
+                    "RecordID": "022-000007818",
+                    "Value": "Giustinian,Giorgio,,1572-1629"
+                },
+                {
+                    "PersonId": "20235",
+                    "RecordID": "022-000007815",
+                    "Value": "Badoer,Pietro,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20234",
+                "RecordID": "022-000007814",
+                "Value": "Savorgnano,Troilo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20233",
+                "RecordID": "022-000007813",
+                "Value": "Natolini,Giovanni Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55034",
+            "Value": "023-000007811_55034_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55035",
+            "Value": "023-000007811_55035_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19204",
+        "RecordId": "022-000006371",
+        "Surname": "Berneggerius",
+        "Forename": "Matthias",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Berneggerius",
+                "AlternativeForename": "Matthias"
+            },
+            {
+                "AlternativeForename": "Matthaeus"
+            }
+        ],
+        "DateText": "1582-1640",
+        "StartDate": "1582",
+        "EndDate": "1640",
+        "Nationality": {
+            "NationalityId": "64",
+            "Value": "Austrian"
+        },
+        "Notes": "He was Kepler`s friend, and translated Galileo`s `Dialogo sopra i due massimi sistemi`. He was also member of the Academy in Strasbourg",
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

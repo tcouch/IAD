@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5146",
+        "RecordId": "022-000000142",
+        "Surname": "Guarini",
+        "Forename": "Battista",
+        "Gender": "Male",
+        "Pseudonym": "Attizzato Accademico Ferrarese | Il Verrato | Orlando Pescetti",
+        "DateText": "1538-1612",
+        "StartDate": "1538",
+        "EndDate": "1612",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Joined the Ricovrati in 1601. Principe of the Umoristi in 1611. Promoted the membership of, among others, Quarengo, Arlotti, and Stigliani.",
+        "Role": "Contributor|Author|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16939",
+        "RecordId": "022-000003727",
+        "Surname": "di Antonio",
+        "Forename": "Michelangelo",
+        "Gender": "Male",
+        "DateText": "1502-1582",
+        "StartDate": "1502",
+        "EndDate": "1582",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Also called Lo Scalabrino, painter, he was among the founders of the Insipidi.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

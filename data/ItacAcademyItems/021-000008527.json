@@ -1,0 +1,60 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0585",
+        "RecordId": "021-000008527",
+        "Name": "Zitoclei (Accademia degli)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "StartDate": "1609",
+        "EndDate": "1619",
+        "DateText": "1609-1619",
+        "Notes": "Apparently the Zitoclei replaced the Ricovrati when this Academy went through a period of crisis.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5190",
+                "RecordId": "022-000000184",
+                "Name": "Zabarella,Giacomo,Count (The Younger),1599 - 1679",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15826",
+                "RecordId": "022-000002380",
+                "Name": "Aldrighetti,Antonio Luigi,,1600-1668",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16299",
+                "RecordId": "022-000002952",
+                "Name": "Zanetti,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16562",
+                "RecordId": "022-000003280",
+                "Name": "Barbo` Soncin,Francesco,,? - 1674",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5106",
+                "RecordId": "022-000000103",
+                "Name": "Capodilista,Transalgardo,,?-1636",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

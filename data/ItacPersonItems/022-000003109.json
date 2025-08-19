@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16436",
+        "RecordId": "022-000003109",
+        "Surname": "Orsini",
+        "Forename": "Paolo Giordano",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Pavol"
+        },
+        "PersonalTitle": "Duke of Bracciano",
+        "DateText": "1541-1585",
+        "StartDate": "1541",
+        "EndDate": "1585",
+        "Nationality": {
+            "NationalityId": "367"
+        },
+        "Notes": "Patron of the Ferraiuoli Academy",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

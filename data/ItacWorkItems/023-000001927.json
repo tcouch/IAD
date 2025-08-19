@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001927",
+        "WorkId": "000268",
+        "ShortTitle": "Spinetta, o Violone. Balletti correnti",
+        "LongTitle": "alla francese, Gagliarde e Brando per Ballare. Balletti, Correnti e sinfonie da Camera a quattro Stromenti di Gio(vanni) Battista Vitali maestro di Cappella del Santissimo Rosario di Bologna, e Accademico Filaschise. Opera Terza",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1674",
+        "Shelfmark": "d.5.c",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "pp. 24",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15422",
+                "RecordID": "022-000001928",
+                "Value": "Vitali,Gio(vanni) Battista,Chapel Master,1632-1692"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "TitlePageImage": {
+            "ImageId": "52824",
+            "Value": "023-000001927_52824_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006372",
+        "WorkId": "000764",
+        "ShortTitle": "Esercitationi filosofiche",
+        "LongTitle": "di D. Antonio Rocco Filosofo peripatetico. Le quali versano in considerare le positioni et obiettioni, che si contengono nel dialogo del Signor Galileo Galilei Linceo",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1633",
+        "DedicationPlaceDate": "Venezia 7 Dicembre 1633",
+        "Shelfmark": "519c23",
+        "Subjects": "Astronomy",
+        "Language": "Italian",
+        "Pagination": "226",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19205",
+                "RecordID": "022-000006373",
+                "Value": "Rocco,Antonio,,1576/8 - 1653"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5001",
+                "RecordID": "022-000000003",
+                "Value": "Barberini,Maffeo,Pope Urban VIII,1568-1644"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18570",
+                "RecordID": "022-000005611",
+                "Value": "Baba Francesco,Eredi,,1657 - 1 673"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

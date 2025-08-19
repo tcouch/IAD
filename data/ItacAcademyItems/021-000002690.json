@@ -1,0 +1,124 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0039",
+        "RecordId": "021-000002690",
+        "Name": "Ardenti (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1546",
+        "EndDate": "1547",
+        "DateText": "1546-1547",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16100",
+                "RecordId": "022-000002689",
+                "Name": "Tizzone ,Giovan Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15083",
+                "RecordId": "022-000001124",
+                "Name": "Caracciolo,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17216",
+                "RecordId": "022-000004031",
+                "Name": "Carafa,Ferrante,Marquis of San Lucido,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17217",
+                "RecordId": "022-000004032",
+                "Name": "Belprato,Vincenzo,Count of Aversa,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17219",
+                "RecordId": "022-000004034",
+                "Name": "Rota,Bernardino ,,1508 - 1575",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17220",
+                "RecordId": "022-000004035",
+                "Name": "Ciarletta,Ascanio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17221",
+                "RecordId": "022-000004036",
+                "Name": "Sompano,Luigi Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17222",
+                "RecordId": "022-000004037",
+                "Name": "Cesario,Petronio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17223",
+                "RecordId": "022-000004038",
+                "Name": "Gricio,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17224",
+                "RecordId": "022-000004039",
+                "Name": "Rufo,Luigi,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17225",
+                "RecordId": "022-000004040",
+                "Name": "Rufo,Vernolio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17226",
+                "RecordId": "022-000004041",
+                "Name": "Ottinelli,Fabio,,",
+                "Nickname": "Il Laborioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17227",
+                "RecordId": "022-000004042",
+                "Name": "Loffredo,Luzio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

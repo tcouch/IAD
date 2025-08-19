@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16209",
+        "RecordId": "022-000002840",
+        "Surname": "Borrelli",
+        "Forename": "Giovanni Alfonso",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Borrelli",
+            "AlternativeForename": "Io[annes] Alphonsi"
+        },
+        "Pseudonym": "Mutoli Pietro Maria",
+        "DateText": "1608-1679",
+        "StartDate": "1608",
+        "EndDate": "1679",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "For a detailed biographical account see Antonio Scorsone, Giovanni Alfonso Borrelli, Palermo, 1993",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

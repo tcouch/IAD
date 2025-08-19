@@ -1,0 +1,96 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001440",
+        "WorkId": "00168",
+        "ShortTitle": "Vida De Don Francisco de Quevedo y Villegas | Cavallero del Orden de Santiago | Secretario de su Magestad | y Senor de la Villa de la Torre de Iuan Abad",
+        "LongTitle": "Escrita por Don Pablo Antonio de Tarsia | Doctor Theologo | Abad de San Antonio de la Ciudad de Conversano | y Academico ocioso de Napoles",
+        "Content": "Biography of the Spanish writer Francisco de Quevedo",
+        "PrinterOrnament": "N",
+        "PublicationYear": "1663",
+        "DedicationPlaceDate": "Madrid 20 July 1663",
+        "Edition": null,
+        "Format": "8\u00b0",
+        "Pagination": "First 14 pages unnumbered | pp. 181|  Last 25 pages unnumbered",
+        "Illustration": null,
+        "EngraverReference": "N",
+        "Subjects": "Prose | Biography",
+        "Language": "Spanish | Latin",
+        "Marginalia": null,
+        "CensorsAgreement": "Suma de las aprobaciones  licencia y privilegio.  Este libro intitulado Vida de D. Francisco de Quevedo aprobado per el P. M. Fr. Luis Tineo de Morales  Premonstrate y por el Padre Iuan Antonio Velazquez  de la Compania de Iesus  se ha impresso con licencia del se\u00f1or D. Gancia de Velasco  Vicario desta Villa de madrid y partido ante Iuan Bautista Sanz Bravo en 27. de Iulio de 1662. y co privilegio de su Magestad por diez a\u00f1os despachado en 24. de Octubre de 1662. en el Oficio del Secretario Geronimo Moreno.  Y tiene licencia del Autor para imprimerle Santiago martin Mercader de libros.  Suma de la tassa.  Est\u00e0 tassado este libro por los Se\u00f1ores del Consejo \u00e0 cinco maravedis cada pliego como contra de su tassa \u00e0 14. de Iunio de 1663.",
+        "Shelfmark": "616.d.1.(3.)",
+        "Notes": null,
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15257",
+                "RecordID": "022-000001300",
+                "Value": "De Tarsia, Pablo Antonio , Abbot, 1619-1665"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15255",
+                    "RecordID": "022-000001298",
+                    "Value": "Murcia De La Llma, Carlos, Censor,"
+                },
+                {
+                    "PersonId": "15339",
+                    "RecordID": "022-000001378",
+                    "Value": "Tineo De Morales, Luis, Friar,"
+                },
+                {
+                    "PersonId": "15340",
+                    "RecordID": "022-000001379",
+                    "Value": "Velazquez, Iuan Antonio, Jesuit,"
+                },
+                {
+                    "PersonId": "15341",
+                    "RecordID": "022-000001380",
+                    "Value": "De Velasco, Garcia, Censor,"
+                }
+            ]
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15259",
+                "RecordID": "022-000001302",
+                "Value": "Albicius, Nicolaus, ,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15258",
+                "RecordID": "022-000001301",
+                "Value": "Aldrete Carrillo Quevedo Y Villegas, Pedro, Archbishop,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15338",
+                "RecordID": "022-000001377",
+                "Value": "De Val, Pablo, Publisher,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15337",
+                "RecordID": "022-000001376",
+                "Value": "Redondo, Martin, Printer,"
+            }
+        },
+        "Essays": null,
+        "City": {
+            "CityId": "52",
+            "PublicationPlaceItalianName": "Madrid",
+            "PublicationPlaceEnglishName": "Madrid",
+            "PublicationPlaceLatinName": "Matritensis",
+            "PublicationPlaceFictitiousName": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

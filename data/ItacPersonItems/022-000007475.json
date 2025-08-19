@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20003",
+        "RecordId": "022-000007475",
+        "Surname": "Rocca",
+        "Forename": "Francesco",
+        "DateText": "1549-1576",
+        "StartDate": "1549",
+        "EndDate": "1576",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Dates refer to his activity.",
+        "Role": "Printer",
+        "TypographicReference": "U190",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

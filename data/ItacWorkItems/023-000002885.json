@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002885",
+        "WorkId": "000376",
+        "ShortTitle": "Poesie Liriche",
+        "LongTitle": "Di Federigo Meninni, Ristampate, ed accresciute in questa nuova impressione, I Sonetti, Ed I Madrigali. All`Illustrissimo Signor Marchese Giovambattista Spinelli, De` Prencipi di San Giorgio.",
+        "ItacAcademyItem": {
+            "AcademyId": "0046",
+            "RecordID": "021-000002785",
+            "Value": "Academia de gli Agitati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1677",
+        "Shelfmark": "11427.de.5.",
+        "Subjects": "Poetry|Encomiastic poetry|Madrigals",
+        "Language": "Italian",
+        "Illustration": "Mythological figures|Apollo",
+        "Pagination": "pp.336",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16168",
+                "RecordID": "022-000002788",
+                "Value": "Meninni,Federigo,,"
+            }
+        },
+        "Notes": "The author dedicates verses to various Oziosi Academicians.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15299",
+                "RecordID": "022-000001339",
+                "Value": "Spinello,Giovambattista,Marquis,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16183",
+                "RecordID": "022-000002805",
+                "Value": "Pisani,Baldassar,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16175",
+                "RecordID": "022-000002796",
+                "Value": "Piccini,Isabella,Nun,1646 - 1732"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5308",
+                "RecordID": "022-000000359",
+                "Value": "Pezzana,Nicol\u00f2,,c. 1620-c. 1750"
+            }
+        },
+        "PrinterOrnament": "Mar.te 1334",
+        "TitlePageImage": {
+            "ImageId": "52863",
+            "Value": "023-000002885_52863_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Del Sig. D. Francesco Antonio Cappone, Accademico ozioso.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15013",
+                        "RecordID": "022-000001055",
+                        "Value": "Cappone,Francesco Antonio,,1620-?"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

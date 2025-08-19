@@ -1,0 +1,283 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002827",
+        "WorkId": "000362",
+        "ShortTitle": "Museo cospiano",
+        "LongTitle": "Annesso a quello del famoso Ulisse Aldrovandi E donato alla sua patria dall`Illustrissimo Ferdinando Cospi Patrizio di Bologna e Senatore Cavaliere commendatore di S. Stefano, Bali` d`Arezzo, e March(ese) di Petriolo, fra gl`Accademici Gelati Il Fedele. E principe al presente de` medesimi. Descrizione di Lorenzo Legati cremonese dottor filosofo, medico, e pubblico professore delle lettere greche in Bologna, Accademico Apatista, e Ansioso. Al Serenissimo Ferdinando III Principe di Toscana",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1677",
+        "DedicationPlaceDate": "Bologna 6 April 1677",
+        "Shelfmark": "139.f.7|985.h.10",
+        "Subjects": "Antiquarianism|Museum|Encomiastic poetry|Collecting",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved plate|Academy emblem|Engraved plate|Author`s portrait",
+        "Pagination": "[18] 532 pp.",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15165",
+                "RecordID": "022-000001207",
+                "Value": "Legati,Lorenzo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5008",
+                    "RecordID": "022-000000010",
+                    "Value": "Barbieri,Alessandro,,"
+                },
+                {
+                    "PersonId": "5084",
+                    "RecordID": "022-000000081",
+                    "Value": "Marescalchi,Vincenzo Maria,Senator,1627 - 1670"
+                },
+                {
+                    "PersonId": "5086",
+                    "RecordID": "022-000000083",
+                    "Value": "Malvasia,Carlo Cesare,Count,1616 - 1693"
+                },
+                {
+                    "PersonId": "5154",
+                    "RecordID": "022-000000149",
+                    "Value": "Mariani,Mario,,1634 - 1709"
+                },
+                {
+                    "PersonId": "5092",
+                    "RecordID": "022-000000089",
+                    "Value": "Cospi,Ferdinando,Senator,1606-1686"
+                },
+                {
+                    "PersonId": "5090",
+                    "RecordID": "022-000000087",
+                    "Value": "Malvezzi,Floriano,,"
+                },
+                {
+                    "PersonId": "5096",
+                    "RecordID": "022-000000093",
+                    "Value": "Malvezzi,Roberto,Abbot,"
+                },
+                {
+                    "PersonId": "16203",
+                    "RecordID": "022-000002832",
+                    "Value": "Tassonus,Carolus,,"
+                },
+                {
+                    "PersonId": "5272",
+                    "RecordID": "022-000000262",
+                    "Value": "Trincherij,Andreae,,"
+                },
+                {
+                    "PersonId": "16205",
+                    "RecordID": "022-000002834",
+                    "Value": "Coccapani,Sigismundi Reguli,,"
+                },
+                {
+                    "PersonId": "16204",
+                    "RecordID": "022-000002833",
+                    "Value": "Balbi,Benedetto Giuseppe,,"
+                },
+                {
+                    "PersonId": "16202",
+                    "RecordID": "022-000002831",
+                    "Value": "Scarselli,Francesco,,"
+                }
+            ]
+        },
+        "Notes": "The `Protesta` is two pages long and deals with the ethimology of the word `Museo`.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16200",
+                    "RecordID": "022-000002829",
+                    "Value": "Gorranus,Carolus,,"
+                },
+                {
+                    "PersonId": "16201",
+                    "RecordID": "022-000002830",
+                    "Value": "Bonfiliolus,Silvester,Doctor Revisor Sancti Officii,"
+                },
+                {
+                    "PersonId": "15459",
+                    "RecordID": "022-000001979",
+                    "Value": "Cerchius,Sixtus,Inquisit. Bonon.,"
+                },
+                {
+                    "PersonId": "5191",
+                    "RecordID": "022-000000185",
+                    "Value": "Zani,Valerio,Count, - 1696"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. carolus Gorranus Rector Poenitentiariae pro eminentiss. et reverendiss. D. Hieronymo Card. Boncompagno Archiepisc. Bononiae et Principe, et c.\nD. Doctor Bonfilius Revisor Sancti Officii videat, et referat. Fr. Sixt. Cerch. Inquisit. et c.\nMusei Cospiani Libros Quatuor ad eruditissimo viro Laurentio Legato eleganter constructos, pro reverendiss. Patre Inquisitore Bonon. vidi ego Silvester Bonfiliolus Ph. et Med. D. et SS. Inquisitionis Revisor, et Impressione, et immortalitate dignos censui.\nHuiusce Musei Librum Quintum, et ultimum vidit Valerius Zanus pro Reverendiss. Patre Magistro F. Sixto Cerchio Inquisitore Generali Bononiae, et Typis imprimi posse censuit. \nImprimatur\nFr. Sixtus Cerchius Ordinis Praedicatorum Sacrae Theologiae Magist. ac Inquisitor Generalis S. Officii Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15393",
+                    "RecordID": "022-000001894",
+                    "Value": "de` Medici,Ferdinando III,,1663 - 1713"
+                },
+                {
+                    "PersonId": "5092",
+                    "RecordID": "022-000000089",
+                    "Value": "Cospi,Ferdinando,Senator,1606-1686"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5092",
+                "RecordID": "022-000000089",
+                "Value": "Cospi,Ferdinando,Senator,1606-1686"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "17881",
+                "RecordID": "022-000004802",
+                "Value": "Sustermans,Joost,,1597 - 1681"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17882",
+                    "RecordID": "022-000004803",
+                    "Value": "Haelweg ,Adriaen,,1637 - ?"
+                },
+                {
+                    "PersonId": "5195",
+                    "RecordID": "022-000000189",
+                    "Value": "Mitelli,Giuseppe Maria,,1634-1718"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53379",
+            "Value": "023-000002827_53379_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Fulgido sol d`Etruria o come poco",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5084",
+                            "RecordID": "022-000000081",
+                            "Value": "Marescalchi,Vincenzo Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A voi, Gran Sire, al cui crescente impero",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5008",
+                            "RecordID": "022-000000010",
+                            "Value": "Barbieri,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ingegni o voi, che di natura amici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5086",
+                            "RecordID": "022-000000083",
+                            "Value": "Malvasia,Carlo Cesare,Count,1616-1693"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Fatto l`huom peregrin valica i mari",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5090",
+                            "RecordID": "022-000000087",
+                            "Value": "Malvezzi,Floriano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Incliti eroi, che de l`etade a scorno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5096",
+                            "RecordID": "022-000000093",
+                            "Value": "Malvezzi,Roberto,Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Chi la pace ad Apollo e` mai che fura?",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5154",
+                            "RecordID": "022-000000149",
+                            "Value": "Mariani,Mario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Huius adorandae noctis dum miror honores",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5272",
+                            "RecordID": "022-000000262",
+                            "Value": "Trincherij,Andreae,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Famose cultor nobili ingenii",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16205",
+                            "RecordID": "022-000002834",
+                            "Value": "Coccapani,Sigismundi Reguli,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gran cose, almo signor, gran cose avete",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16204",
+                            "RecordID": "022-000002833",
+                            "Value": "Balbi,Benedetto Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Protesta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16199",
+                            "RecordID": "022-000002828",
+                            "Value": "Bondoni,Teodoro,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

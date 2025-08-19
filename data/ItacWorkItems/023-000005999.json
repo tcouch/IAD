@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005999",
+        "WorkId": "000711",
+        "ShortTitle": "I Difettosi",
+        "LongTitle": "Comedia. Di Giovanni Briccio. Detto il Circonspetto nella Congrega dei Taciturni. All`Ill.mo et Eccell.mo Sig. Il signor Duca di Vallemutia",
+        "ItacAcademyItem": {
+            "AcademyId": "0135",
+            "RecordID": "021-000005919",
+            "Value": "Congrega dei Taciturni"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1606",
+        "DedicationPlaceDate": "Di Roma il 23 Dicembre 1605",
+        "Shelfmark": "11714a31",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "187",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18842",
+                "RecordID": "022-000005918",
+                "Value": "Bricci,Giovanni,,1579 - 1645"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15469",
+                "RecordID": "022-000001991",
+                "Value": "Alberti,Giovanni,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54498",
+            "Value": "023-000005999_54498_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

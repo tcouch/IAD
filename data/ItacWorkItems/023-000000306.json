@@ -1,0 +1,78 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000306",
+        "WorkId": "00027",
+        "ShortTitle": "Le api riverite",
+        "LongTitle": "Azzione drammatica All`Illustrissimo et reverendissimo signor Cardinale Francesco Barberini. Di Bernardino Mariscotti nell`Accademia de` Gelati Il Notturno",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1628",
+        "DedicationPlaceDate": "Bologna 2 June 1628",
+        "Shelfmark": "11714.b.9",
+        "Subjects": "Celebratory theatrical representation",
+        "Language": "Italian",
+        "Pagination": "pp. 51",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5052",
+                "RecordID": "022-000000054",
+                "Value": "Marescotti,Bernardino,Count,\u20201649"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                },
+                {
+                    "PersonId": "5244",
+                    "RecordID": "022-000000236",
+                    "Value": "Vachius,Linus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Per alcuna parola posta in questo libro poeticamente non intendo pregiudicare alla santissima fede nostra per la quale io porrei la vita | D. Linus Vachius Poenitentiarius pro illustrissimo et reverendissimo cardinal. Archiepiscopo. | Imprimatur | Fr. Hieronymus Onuphrius romanus doctor collegiatus lector publicus ac sanctiss. Inquisitionis consultor pro reverendiss. P. Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            },
+            "ItacPersonItem": {
+                "PersonId": "5099",
+                "RecordID": "022-000000096",
+                "Value": "Barberini,Francesco,Cardinal ,1597-1679"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5246",
+                "RecordID": "022-000000238",
+                "Value": "Ferroni,Clemente,,1555/6-1640"
+            }
+        },
+        "PrinterOrnament": "MAR.T.E. 564",
+        "TitlePageImage": {
+            "ImageId": "52622",
+            "Value": "023-000000306_52622_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52628",
+            "Value": "023-000000306_52628_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

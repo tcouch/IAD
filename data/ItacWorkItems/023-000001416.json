@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001416",
+        "WorkId": "00143",
+        "ShortTitle": "La caduta di Lucifero",
+        "LongTitle": "Di Giovan Battista Composto Academico Otioso detto il Fisso",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1613",
+        "DedicationPlaceDate": "Naples 30 September 1613",
+        "Shelfmark": "1161.i.1.",
+        "Subjects": "Religious poetry",
+        "Language": "Italian",
+        "Illustration": "Engraved plate | Saint Michael",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15001",
+                "RecordID": "022-000001043",
+                "Value": "Composto,Giovan Battista,,"
+            }
+        },
+        "Notes": "Il Rinforzato is the author of the dedication to Viceroy Pietro De Castro Fernando Andreada, Count of Lemos.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15019",
+                "RecordID": "022-000001061",
+                "Value": "De Castro Andrada,Pietro Fernandez,Count|Viceroy,1560 - 1634"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15027",
+                "RecordID": "022-000001069",
+                "Value": "Il Rinforzato,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15058",
+                "RecordID": "022-000001099",
+                "Value": "Carlino,Gio[vanni] Giacomo,,c. 1579-c. 1615"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "TitlePageImage": {
+            "ImageId": "52686",
+            "Value": "023-000001416_52686_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

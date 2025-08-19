@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0269",
+        "RecordId": "021-000006921",
+        "Name": "Oscuri-seconda (Accademia degli)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "False sun (Parhelion)",
+        "Motto": "Ne raddoppia il giorno",
+        "StartDate": "1692",
+        "EndDate": "?",
+        "DateText": "1692-?",
+        "Notes": "Created in opposition to the Fisiocritici Academy.",
+        "ItacPersonItem": {
+            "PersonId": "19589",
+            "RecordId": "022-000006922",
+            "Name": "Capacci,Fabrizio,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

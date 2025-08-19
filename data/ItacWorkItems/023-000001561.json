@@ -1,0 +1,91 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001561",
+        "WorkId": "00103",
+        "ShortTitle": "Vincentii Madii Brixiani et Bartholomaei Lombardi veronensis in Aristotelis librum de poetica communes explanationes",
+        "LongTitle": "Madii vero in eundem librum propriae annotationes. Eiusdem de ridiculis: et in Horatii librum de arte Poetica intepretatio. In fronte praeterea operis apposita est Lombardi in Aristotelis Poeticam praefatio",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1550",
+        "DedicationPlaceDate": "Ferrara 18 cal. Sept. 1549",
+        "Shelfmark": "714.k.3",
+        "Subjects": "Philosophy",
+        "Language": "Latin|Greek",
+        "Pagination": "pp. 370",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9221",
+                    "RecordID": "022-000001518",
+                    "Value": "Maggi,Vincenzo,, - 1564"
+                },
+                {
+                    "PersonId": "9222",
+                    "RecordID": "022-000001519",
+                    "Value": "Lombardo,Bartolomeo,,"
+                }
+            ]
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9222",
+                "RecordID": "022-000001519",
+                "Value": "Lombardo,Bartolomeo,,"
+            }
+        },
+        "Notes": "On this publication see Weinberg, A History of Literary Criticism in the Italian Renaissance (Chicago, 1961)",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9225",
+                "RecordID": "022-000001522",
+                "Value": "Madruzzo,Cristoforo,Cardinal,1512-1578"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9221",
+                "RecordID": "022-000001518",
+                "Value": "Maggi,Vincenzo,, - 1564"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9224",
+                "RecordID": "022-000001521",
+                "Value": "Valgrisi,Vincenzo,,fl. 1539-1577"
+            }
+        },
+        "PrinterOrnament": "Z1035 | U517",
+        "TitlePageImage": {
+            "ImageId": "52701",
+            "Value": "023-000001561_52701_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52700",
+            "Value": "023-000001561_52700_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Bartholomaei Lombardi Veronensis in Aristotelis librum de Poetica ad Academicos Inflammatos praefatio",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9222",
+                        "RecordID": "022-000001519",
+                        "Value": "Lombardo, Bartolomeo, ,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

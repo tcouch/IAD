@@ -1,0 +1,96 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002247",
+        "WorkId": "000291",
+        "ShortTitle": "Rime del molto Illustre Signor Cavaliere Guarini.",
+        "LongTitle": "Dedicate all`Illustrissimo et Reverendissimo Signor Cardinale Pietro Aldobrandini. Sopraintendente generale dello stato Ecclesiastico per tutta Italia, et Legato a Latere et Vicario generale in Temporale et Spirituale nella Citta` et Ducato di Ferrara et c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0025",
+            "RecordID": "021-000002211",
+            "Value": "Accademia degli Eterei"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1598",
+        "DedicationPlaceDate": "Venice, 28 May 1598",
+        "Shelfmark": "82.i.30",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "pp. 137r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5146",
+                "RecordID": "022-000000142",
+                "Value": "Guarini,Battista,,1538-1612"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15716",
+                "RecordID": "022-000002248",
+                "Value": "Aldobrandini,Pietro,Cardinal,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,c. 1564-c. 1635"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,c. 1564-c. 1635"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sonnet 51 Nel cominciar a discorrer d`Amore nella Accademia Eterea",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonnet 58 Al signor Scipione Gonzaga ... che secondo le Leggi degli Accademici Eterei, havea laudato l`Autore nel Principato di lui",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonnet 59 Al Signor Luigi Gradonigo nel male del Signor Abbate Cornaro, Accademici Eterei",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonnets 88 89 In morte di Stefano Santini Accademico Etereo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

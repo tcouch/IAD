@@ -1,0 +1,32 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0543",
+        "RecordId": "021-000008150",
+        "Name": "Filarmonica-Verona (Accademia)",
+        "City": {
+            "CityId": "64",
+            "CityItalianName": "Verona",
+            "CityEnglishName": "Verona",
+            "CityLatinName": "Veronae"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "20107",
+                "RecordId": "022-000007609",
+                "Name": "Pona,Francesco,,1594-1655",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20776",
+                "RecordId": "022-000008603",
+                "Name": "Grandi,Adriano Jr,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

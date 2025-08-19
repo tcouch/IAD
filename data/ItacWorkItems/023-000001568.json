@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001568",
+        "WorkId": "00110",
+        "ShortTitle": "Ragionamenti della lingua toscana",
+        "LongTitle": "Di M. Bernardin Tomitano. I precetti della rhetorica secondo l`artificio d`Aristotile et Cicerone nel fine del scondo libro nuovamente aggionti",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1546",
+        "Shelfmark": "627.d.2",
+        "Subjects": "Language",
+        "Language": "Italian",
+        "Pagination": "pp. 495",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9207",
+                "RecordID": "022-000001504",
+                "Value": "Tomitano,Bernardino,,1517-1576"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9261",
+                "RecordID": "022-000001557",
+                "Value": "Farnese,Alessandro, Cardinal, 1520-1589"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9252",
+                "RecordID": "022-000001547",
+                "Value": "Farri,Giovanni e fratelli,,"
+            }
+        },
+        "PrinterOrnament": "Z710",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

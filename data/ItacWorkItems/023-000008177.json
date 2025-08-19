@@ -1,0 +1,63 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008177",
+        "WorkId": "000916",
+        "ShortTitle": "De gli ardori di san Francesco Xaverio",
+        "LongTitle": "il Fumo di Coralbico Tra gli academici Intrepidi L`Accinto",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "99",
+            "PublicationPlaceItalianName": "Ravenna",
+            "PublicationPlaceEnglishName": "Ravenna"
+        },
+        "PublicationYear": "1651",
+        "Shelfmark": "839k18",
+        "Subjects": "Sacred poetry",
+        "Language": "Italian",
+        "Pagination": "110",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20446",
+                "RecordID": "022-000008170",
+                "Value": "Cibo,Carlo,Marquis of Carrara|Duke of Aiello,1581-1662"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20446",
+                "RecordID": "022-000008170",
+                "Value": "Cibo,Carlo,Marquis of Carrara|Duke of Aiello,1581-1662"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20452",
+                "RecordID": "022-000008178",
+                "Value": "de` Paoli,Pietro,Stampatore camerale,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55265",
+            "Value": "023-000008177_55265_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Lo specchio discorso del medesimo autore allo stesso S.to Xaverio",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20446",
+                        "RecordID": "022-000008170",
+                        "Value": "Cibo,Carlo,Marquis of Carrara|Duke of Aiello,1581-1662"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

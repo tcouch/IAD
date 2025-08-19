@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15028",
+        "RecordId": "022-000001070",
+        "Surname": "Grillo",
+        "Forename": "Angelo",
+        "Gender": "Male",
+        "PersonalTitle": "Abbot",
+        "DateText": "1557-1629",
+        "StartDate": "1557",
+        "EndDate": "1629",
+        "Nationality": {
+            "NationalityId": "179",
+            "Value": "of Genoa"
+        },
+        "Notes": "Portrait of Angelo Grillo from Le Glorie degli Incogniti, Venice, 1647. Also member of Insensati of Perugia, Addormentati of Genova, Giustiniani of Padova, Affidati of Pavia.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

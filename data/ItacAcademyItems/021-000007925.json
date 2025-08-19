@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0480",
+        "RecordId": "021-000007925",
+        "Name": "Elevati (Accademia degli)",
+        "City": {
+            "CityId": "105",
+            "CityItalianName": "Catania",
+            "CityEnglishName": "Catania",
+            "CityLatinName": "Catana"
+        },
+        "StartDate": "?",
+        "EndDate": "?",
+        "DateText": "?-?",
+        "Notes": "According to Alessio Narbone and Francesco Saverio Quadrio the Elevati academy was founded in 1665.\nAgostino Mongitore dates the foundation of the Elevati academy to an earlier period citing Eustachio Nicosia (died in 1663) as a member of the said academy. See Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, p. 191 (British Library Shelfmark:610.m.10.).",
+        "ItacPersonItem": {
+            "PersonId": "20268",
+            "RecordId": "022-000007912",
+            "Name": "Nicosia,Eustachio,,?-1663",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

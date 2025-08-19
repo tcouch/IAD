@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002811",
+        "WorkId": "000358",
+        "ShortTitle": "I romanzi",
+        "LongTitle": "di M. Giovan Battista Pigna al S. Donno Luigi da Este Vescovo di Ferrara divisi in tre libri. Ne quali della poesia, et della vita dell`Ariosto con nuovo modo si tratta.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0016",
+                "RecordID": "021-000001019",
+                "Value": "Accademia Bocchiana"
+            },
+            {
+                "AcademyId": "0020",
+                "RecordID": "021-000001496",
+                "Value": "Accademia degl` Infiammati"
+            },
+            {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1554",
+        "Shelfmark": "713.c.1.(2.)|1074.h.4|87.f.14|G.9981",
+        "Language": "Italian",
+        "Pagination": "[6] 174 [26] pp.",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7507",
+                "RecordID": "022-000001028",
+                "Value": "Pigna,Giovanni Battista,,1529 - 1575"
+            }
+        },
+        "Notes": "Modern critical edition: Pigna, I romanzi, ed. Salvatore Ritrovato (Bologna, 1997). Accademia Bocchiana and Achille Bocchi mentioned at p. 100. Accademie degl` Infiammati and degl` Intronati are mentioned at p. 99.",
+        "CensorsAgreement": "Con gratia et privilegio dell`Illustrissimo Senato Veneto",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16187",
+                "RecordID": "022-000002812",
+                "Value": "d`Este,Luigi,Bishop of Ferrara,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9224",
+                "RecordID": "022-000001521",
+                "Value": "Valgrisi,Vincenzo,,fl. 1539-1577"
+            }
+        },
+        "PrinterOrnament": "Z1036|A130",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

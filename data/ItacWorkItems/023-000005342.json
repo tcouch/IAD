@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005342",
+        "WorkId": "000661",
+        "ShortTitle": "Il vero amore non vuol politica",
+        "LongTitle": "Favola tragicomica di Michele Brugueres Academico Umorista. consacrata all`Ill.mo et Eccell.mo Sig.re Il Sig. Principe D. Camillo Cybo",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Umoristi (Accademia degli)"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1698",
+        "DedicationPlaceDate": "Dalla mia stamperia il 17 Dicembre 1698",
+        "Shelfmark": "638c26(2)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "156",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18311",
+                "RecordID": "022-000005321",
+                "Value": "Brugueres,Michele,,1644 - 1722"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18329",
+                    "RecordID": "022-000005343",
+                    "Value": "de Bellis,Dominicus,Master of the Sacred Palace,"
+                },
+                {
+                    "PersonId": "17556",
+                    "RecordID": "022-000004442",
+                    "Value": "Selleri,Gregorio,Cardinal,"
+                },
+                {
+                    "PersonId": "16151",
+                    "RecordID": "022-000002765",
+                    "Value": "Bernardini,Paolino,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Si videbitur Reverendiss. P. Sac. Apost. Palatii Magistro. Dominicus de Bellis Episc. Melphycten. Vicesg.\nImprimatur Fr Gregorius Sellari Sac, Theol. Mag. ac Reverendiss. P. Fr. Paulini Bernardini Sac. Apost. Palatij Mag. Socius, Ordinis Praedicatorum",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18331",
+                "RecordID": "022-000005345",
+                "Value": "Cibo,Camillo,,1681 - 1743"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18330",
+                "RecordID": "022-000005344",
+                "Value": "Chracas,Luca Antonio,,ca.1659 - 1723"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54427",
+            "Value": "023-000005342_54427_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54428",
+            "Value": "023-000005342_54428_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

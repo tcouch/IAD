@@ -1,0 +1,82 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002277",
+        "WorkId": "000299",
+        "ShortTitle": "Il Cavalcanti",
+        "LongTitle": "Overo La difesa dell`Anticrusca: di Michelangelo Fonte. Al Sereniss(imo) e Generosiss(imo) Granduca di Toscana Cosimo II. Opera piacevolissima, et a studiosi di purgato e vago italiano stile utilissima. \nCon licenza de` superiori",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0026",
+                "RecordID": "021-000002259",
+                "Value": "Accademia degli Animosi"
+            },
+            {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Academia dei Ricov(e)rati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "Padua 10 July 1614",
+        "Shelfmark": "72.a.3.(2.)",
+        "Subjects": "Questione della lingua",
+        "Language": "Italian",
+        "Pagination": "pp. 198",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9674",
+                "RecordID": "022-000001846",
+                "Value": "Beni,Paolo,,1553-1625"
+            }
+        },
+        "Notes": "Mentions Accademia degli Animosi and Accademia dei Ricovrati at pp. 52ff.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15738",
+                    "RecordID": "022-000002279",
+                    "Value": "Benedetti,Benedetto,,"
+                },
+                {
+                    "PersonId": "15739",
+                    "RecordID": "022-000002280",
+                    "Value": "Gott.,Angelus,Vicar Holy Office Padua,"
+                },
+                {
+                    "PersonId": "9016",
+                    "RecordID": "022-000001584",
+                    "Value": "Livello,Ottavio,,\u20201631"
+                },
+                {
+                    "PersonId": "15740",
+                    "RecordID": "022-000002281",
+                    "Value": "Ghellinus,Aemilius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Approvationi. \nIo Benedetto Benedetti Dottor Filosofo et Theologo, ho veduta la presente Opera; nella quale non trovando cos`alcuna ne` contra la Santa Fede, ne` contra Prencipi; come vaga, gentile et utile a` studiosi dell`italiana lingua la sottoscrivo, et affermo esser degna di luce. Stante suprascritta attestatione, Imprimatur; F. Angelus Gott. Arim. Vic. Sancti Offitii Paduae, et c. Ottavio Livello per la Serenissima Republica Veneta. Paulus Aemilius Ghellinus Vicarius pro Illustrissimis Rectoribus.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15737",
+                "RecordID": "022-000002278",
+                "Value": "de` Medici,Cosimo II,Grand Duke of Tuscany,1590-1621"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9636",
+                "RecordID": "022-000001683",
+                "Value": "Bolzetta,Francesco,,1566-1653"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004130",
+        "WorkId": "000528",
+        "ShortTitle": "S?????S Eorum Quae De Balneis, aliisq; miraculis Puteolanis scripta sunt.",
+        "LongTitle": "Auctore Ioan. Francisco Lombardo Neapolitano. Adiectis Balneis Aenariarum, necnon locis obscurioribus non inutilibus Scholiis.",
+        "ItacAcademyItem": {
+            "AcademyId": "0066",
+            "RecordID": "021-000004102",
+            "Value": "Accademia degli Eubolei"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1566",
+        "DedicationPlaceDate": "Naples 8 (?) December 1565",
+        "Shelfmark": "1171.g.24.(1.)",
+        "Subjects": "Medicine",
+        "Language": "Greek|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 128",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17279",
+                "RecordID": "022-000004094",
+                "Value": "Lombardo,Giovanni Francesco ,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17291",
+                    "RecordID": "022-000004108",
+                    "Value": "Balisterius,Franciscus,,"
+                },
+                {
+                    "PersonId": "17281",
+                    "RecordID": "022-000004096",
+                    "Value": "Arcucci,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "17294",
+                    "RecordID": "022-000004111",
+                    "Value": "Cordus,Ioannes Hieronymus,,"
+                },
+                {
+                    "PersonId": "17293",
+                    "RecordID": "022-000004110",
+                    "Value": "Viridis Rosae,Donati,,"
+                },
+                {
+                    "PersonId": "17301",
+                    "RecordID": "022-000004120",
+                    "Value": "Cephalaeus Nuscanus ,Pyrrhus Antonius ,,"
+                }
+            ]
+        },
+        "Notes": "This text contains verses written by various members of the Eubolei Academy in Naples.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17290",
+                "RecordID": "022-000004107",
+                "Value": "Trivisano,Giovanni,Patriarch of Venice,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16102",
+                "RecordID": "022-000002692",
+                "Value": "Brancaleoni,Francesco Giovanni,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17296",
+                "RecordID": "022-000004113",
+                "Value": "Sanvito e Baccolo,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,1206 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006278",
+        "WorkId": "000737",
+        "ShortTitle": "Il Duello Delle Muse",
+        "LongTitle": "Overo Trattenimenti Carnovaleschi De Gli Academici Della Fucina. Trattenimento Primo dell`Anno 1667. Trattenimento Secondo dell`anno 1668.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "100",
+            "PublicationPlaceItalianName": "Monteleone"
+        },
+        "PublicationYear": "1668",
+        "DedicationPlaceDate": "Messina 20 May 1668",
+        "Shelfmark": "11422.ccc.26.",
+        "Subjects": "Academic Poetry|Carnival performances",
+        "Language": "Italian|Latin|Sicilian literary language|Greek|Spanish",
+        "Illustration": "Engraved title page||Engraved title page|Academy emblem",
+        "Pagination": "pp. 176",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18778",
+                    "RecordID": "022-000005847",
+                    "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                },
+                {
+                    "PersonId": "18838",
+                    "RecordID": "022-000005913",
+                    "Value": "Conforto,Jacopo,,"
+                },
+                {
+                    "PersonId": "18815",
+                    "RecordID": "022-000005890",
+                    "Value": "D`Ambrosio,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18858",
+                    "RecordID": "022-000005941",
+                    "Value": "Dini di Bernardo,Benedetto,,"
+                },
+                {
+                    "PersonId": "18889",
+                    "RecordID": "022-000005979",
+                    "Value": "di Carlo di Gregorio,Vincenzo,,"
+                },
+                {
+                    "PersonId": "18226",
+                    "RecordID": "022-000005209"
+                },
+                {
+                    "PersonId": "18138",
+                    "RecordID": "022-000005101",
+                    "Value": "Musarra,Carlo,,? - 1683"
+                },
+                {
+                    "PersonId": "18145",
+                    "RecordID": "022-000005108",
+                    "Value": "Pilaja,Giuseppe,,? - 1690s"
+                },
+                {
+                    "PersonId": "18131",
+                    "RecordID": "022-000005093",
+                    "Value": "Fardella,Tommaso,,? - 1690s"
+                },
+                {
+                    "PersonId": "18946",
+                    "RecordID": "022-000006048",
+                    "Value": "Pisa,Bartolomeo,,"
+                },
+                {
+                    "PersonId": "18913",
+                    "RecordID": "022-000006011",
+                    "Value": "Magnani ,Jacopo,,"
+                },
+                {
+                    "PersonId": "18862",
+                    "RecordID": "022-000005946",
+                    "Value": "Errico,Pietro,,"
+                },
+                {
+                    "PersonId": "19002",
+                    "RecordID": "022-000006113",
+                    "Value": "Valdina,Giovanni Battista,,1644 - 1695"
+                },
+                {
+                    "PersonId": "15095",
+                    "RecordID": "022-000001136",
+                    "Value": "Errico,Scipione,,1592 - 1670"
+                },
+                {
+                    "PersonId": "18139",
+                    "RecordID": "022-000005102",
+                    "Value": "di Natale,Giovanni,,1642 - ?"
+                },
+                {
+                    "PersonId": "18915",
+                    "RecordID": "022-000006013",
+                    "Value": "Margarita,Domenico,,"
+                },
+                {
+                    "PersonId": "18891",
+                    "RecordID": "022-000005981",
+                    "Value": "Guerrera,Domenico,,"
+                },
+                {
+                    "PersonId": "18128",
+                    "RecordID": "022-000005089",
+                    "Value": "Cesareo,Jacopo,,"
+                },
+                {
+                    "PersonId": "18982",
+                    "RecordID": "022-000006091",
+                    "Value": "Scordo,Antonio,,"
+                },
+                {
+                    "PersonId": "18964",
+                    "RecordID": "022-000006069",
+                    "Value": "Riaca,Pietro,,"
+                },
+                {
+                    "PersonId": "18942",
+                    "RecordID": "022-000006044",
+                    "Value": "Patti,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18871",
+                    "RecordID": "022-000005957",
+                    "Value": "Fichera,Stefano,,"
+                },
+                {
+                    "PersonId": "18971",
+                    "RecordID": "022-000006078",
+                    "Value": "Rosso,Domenico,,"
+                },
+                {
+                    "PersonId": "18856",
+                    "RecordID": "022-000005939",
+                    "Value": "Cutroni,Gaspare,,"
+                },
+                {
+                    "PersonId": "18829",
+                    "RecordID": "022-000005904",
+                    "Value": "Adonnino,Andrea,Count,"
+                },
+                {
+                    "PersonId": "18875",
+                    "RecordID": "022-000005961",
+                    "Value": "Gasdia,Antonio Francesco,,"
+                },
+                {
+                    "PersonId": "18883",
+                    "RecordID": "022-000005971",
+                    "Value": "di Gregorio ,Carlo,,"
+                },
+                {
+                    "PersonId": "18143",
+                    "RecordID": "022-000005106",
+                    "Value": "Sapone,Paolo,,"
+                },
+                {
+                    "PersonId": "18837",
+                    "RecordID": "022-000005912",
+                    "Value": "Colosi,Vito,,"
+                },
+                {
+                    "PersonId": "18972",
+                    "RecordID": "022-000006079",
+                    "Value": "Russo,Placido,,"
+                },
+                {
+                    "PersonId": "18820",
+                    "RecordID": "022-000005895",
+                    "Value": "Ardoino,Giuseppe,Knight of the Order of the Star,"
+                },
+                {
+                    "PersonId": "18141",
+                    "RecordID": "022-000005104",
+                    "Value": "Rizzo,Francesco,,"
+                },
+                {
+                    "PersonId": "18975",
+                    "RecordID": "022-000006083",
+                    "Value": "Santisi,Antonio,,"
+                },
+                {
+                    "PersonId": "19001",
+                    "RecordID": "022-000006112",
+                    "Value": "Valdibella,Antonio,,"
+                },
+                {
+                    "PersonId": "18865",
+                    "RecordID": "022-000005950",
+                    "Value": "Ferrara,Antonino,,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18148",
+                    "RecordID": "022-000005114",
+                    "Value": "Spatafora,Giuseppe,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19148",
+                    "RecordID": "022-000006290",
+                    "Value": "Hozes,Tomaso,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19150",
+                    "RecordID": "022-000006292",
+                    "Value": "Alifia,Giuseppe,Knight of the Order of the Star|Senator of Messina|Baron of Baglia,"
+                },
+                {
+                    "PersonId": "19151",
+                    "RecordID": "022-000006293",
+                    "Value": "Fenga,Silvestro,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18150",
+                    "RecordID": "022-000005116",
+                    "Value": "Cicala,Filippo,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19153",
+                    "RecordID": "022-000006296",
+                    "Value": "Pellegrino,Giovanni Francesco,Senator of Messina,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18884",
+                "RecordID": "022-000005972",
+                "Value": "di Gregorio,Tommaso,Knight of the Order of the Star|Senator of Messina,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19160",
+                "RecordID": "022-000006304",
+                "Value": "Ferro,Antonio Domenico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54668",
+            "Value": "023-000006278_54668_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Il Roco, Campione Della Virt\u00f9, A Gli Accademici Della Fucina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa del Roco",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Affaccendato, Accademico Della Fucina, Al Roco Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa dell`Affaccendato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Anelante, Accademico Della Fucina, Al Roco Campione Della Virtu. Che la Virt\u00f9, senza il Sole della Benevolenza, w protezione, dalle tenebre dell`Invidia viene oscurata",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa dell`Anelante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Ardente, Accademico della Fucina, Al Roco, Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Dell`Ardente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Desto, Accademico Della Fucina, Al Roco Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Errante, Guerriero Di Pallade, Accademico Della Fucina, Al Roco Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione dell`Impresa dell`Errante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`estinto, Accademico della Fucina, Al Roco Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa dell`Estinto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il feroce, Accademico Della Fucina, Al Roco Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Del Feroce",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Appianato, Accademico Della Fucina. Campione Del Vizio, Al Roco Campione Della Virtu, Disprezzo, maldicenza, e povert\u00e0",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Dell`Appianato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Immoto, Accademico Della Fucina, Al Roco, Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa Dell`immoto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`inculto, Accademico Della Fucina, Al Roco, Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa dell`inculto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Inerme, Accademico della Fucina, Al Roco, Campione della Virtu. Che l`ale de` grandi Ingegni siano tarpate dall`opere maligne degli oppositori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa dell`Inerme",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Instabile, Campione della Frode, Accademico della Fucina, Al Roco, Campione della Virtu, Inganno.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa dell`Instabile",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Occupato, Accademico della Fucina, Al Roco, Campione della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione dell`impresa dell`Occupato.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Sicuro, Accademico della Fucina, Al Roco, Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione dell`impresa del Sicuro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il trasformato, Accademico Della Fucina, Al Roco Campione della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa del Trasformato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Unito, Campione Della Fortuna, Accademico Della Fucina, Al Roco, Campione Della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa Dell`unito",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Tetro, Accademico Della Fucina, Al Roco, Campione della Virtu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa del Tetro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Roco, Dispregiatore Della Fortuna, E Campione Di Amore, A Gli Accademici Della Fucina.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Emblema Del Roco",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto Dell`Istesso Sopra Il Medesimo Emblema",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Affaccendato, Accademico della Fucina, Al Roco, Dispregiatore della Fortuna, E Campione Di Amore, Che la Virt\u00f9 \u00e8 scudo valevole per rintuzzare i colpi d`Amore, non per\u00f2 quelli di Sorte avversa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Dell`Affaccendato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Appianato, Campione di Bacco, Accademico della Fucina, Al Roco Dispregiatore Della Fortuna, E Campione Di Amore, Sbevazzamenti, e Capogirli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Impresa Dell`Appianato e sua Chiosa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`unito, Accademico Della Fucina, Al Roco, Dispregiatore della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Dell`unito",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lo sconcertato, Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, e Campione Di Amore.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa Dello Sconcertato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`inculto, Accademico Della Fucina, inimico Di Amore, E Campione della Fortuna, Al Roco, Dispregiatore Della Fortuna, e Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Emblema Dell`inculto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lu Ruzzu, Academicu Di La Fucina, A Lu Raucu, Disprizzatuti Di La Furtuna, E Campiuni Di Amuri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dichiarationi Di La Mprisa Di Lu Ruzzu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il trasformato, Accademico Della Fucina, Al Roco Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa Del Trasformato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Semivivo, Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, A Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Del Semivivo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Acerbus, Officinae Academicus, Ad Raucum, Fortunae Contemptorem, ac Amoris Militem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Emblematis Expositio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Ardente, Accademico Della Fucina E Campione Di Pallade, Al Roco, Dispregiatore Della Fortuna, e Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione dell`impresa Dell`Ardente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alchymista, Mamertinae Academicus Officinae, Ad Raucum, Fortunae Contemptorem, Et Cupidinis Propugnatorem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Phrenoschematis Expositio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Instabile. Partegiano della Virtu, Accademico Della Fucina, Al Roco, Dispregiatore della Fortuna, E Campione Di Amore. Avvedutezza, e Soprassenno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Impresa, E Sua Spianazione, Dell`Instabile",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Costante, Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione dell`Impresa del Costante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Angusto, Difensore della Virtu, Accademico Della Fucina, Al Roco, Dispregiatore della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione dell`Impresa dell`Angusto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "el Ansioso, Academico De La Fucina, Al Roco, Dispreciador De Fortuna, Y Campion de Amor",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Esposicion Del Emblema Del Ansioso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Ammartellato, Accademico Della Fucina, Al Roco, Dispregiatore della Fortuna, e Campione Di Amore. Esser fragile schermo la Virt\u00f9 per riparare i colpi della Fortuna, ma non gi\u00e0 quelli di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa Dell`Ammartellato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`immoto, Accademico della Fucina, Al Roco, Dispregiatore Della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Emblema",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il desto, Accademico Della Fucina, Al Roco, Dispregiatore della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Del Desto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Infiammato, Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Dell`Infiammato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Sicuro, Accademico Della Fucina, Al Roco Dispregiatore Della Fortuna, e Campione Di Amore. Che la Virt\u00f9 \u00e8 saldo schermo contro gli strali di Amore, ma non contro i colpi della contraria Fortuna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Del Sicuro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Nudo Campion Della Ragione Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Imprea del Nudo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Arido, Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa dell`Arido",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Forte, Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa Del Forte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dichiarazioni Di La `Mprisa Di Lu Faticusu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "? ? ? ? ? S ? ? S Ustrinae Faber In Raucum Amoris Propugnatorem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Virtus Debellata Vitiorum Omnium Phalange, Honoribus quibus afficitur, deprimitur. Elogium",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Insignis Expositio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Inerme, Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Inerme Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, e Campione Di Amore. Che La Rocca dell`Animo si rende inespugnabile \u00e0 gl`insulti della Fortuna, e delle passioni Amorose, quando \u00e8 presidiata dalle forze invitte della Virt\u00f9.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Emblema Dell`Inerme e Sua Espositione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Errante, Guerriero Della Fortuna, Accademico Della Fucina, Al Roco, Campione D`Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Dell`Errante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Adeguato, Guerriero Della Virtu, Accademico Della Fucina, Al Roco, Dispregiatore della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Dell`Adeguato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Misto, Accademico Della Fucina, Al Roco, Dispregiatore Della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Emblema Del Misto, E Sua Sposizione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Tedro, Academico De La Fucina, Al Ronco, Monespreciador Dela Fortuna, Y Caudillo De Cupido",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Exposicion del Emblema Del Tedro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Estinto, Accademico della Fucina, Al Roco, Dispregiatore Della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa Dell`Estinto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Anelante, Difensore della Virtu. Accademico Della Fucina, Al Roco, Dispregiatore della Fortuna, E Campione Di Amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Dell`Anelante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Inexpertus, Academicus Officiane, Rauco, Fortunae Contemptori, et Cupidinis Propugatori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Phrenoschematis Explanatio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

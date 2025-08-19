@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20503",
+        "RecordId": "022-000008242",
+        "Surname": "d`Este",
+        "Forename": "Cesare",
+        "PersonalTitle": "Duke of Modena and Reggio",
+        "DateText": "1562-1628",
+        "StartDate": "1562",
+        "EndDate": "1628",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "See his biography by Tiziano Ascari in DBI",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

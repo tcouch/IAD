@@ -1,0 +1,90 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001810",
+        "WorkId": "00126",
+        "ShortTitle": "La vittoria.",
+        "LongTitle": "Tragedia di Pomponio Torelli conte di Montechiarugolo Nell`Accademia degl`Innominati di Parma il Perduto",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Academia dei Ricovrati"
+            },
+            {
+                "AcademyId": "0106",
+                "RecordID": "021-000005036",
+                "Value": "Accademia degli Innominati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "36",
+            "PublicationPlaceItalianName": "Parma",
+            "PublicationPlaceEnglishName": "Parma",
+            "PublicationPlaceLatinName": "Parmae"
+        },
+        "PublicationYear": "1605",
+        "DedicationPlaceDate": "Montechiarugolo 28 June 1605",
+        "Shelfmark": "85.b.2.(5.)",
+        "Subjects": "Tragedy",
+        "Language": "Italian",
+        "Pagination": "104",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9144",
+                "RecordID": "022-000001615",
+                "Value": "Torelli,Pomponio,Count,1539 - 1608"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9188",
+                "RecordID": "022-000001676",
+                "Value": "Viotti,Erasmo,,"
+            }
+        },
+        "Notes": "The book is dedicated to the Ricovrati, when they accepted the author as a member.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9184",
+                    "RecordID": "022-000001769",
+                    "Value": "Ionicus,Octavianus,,"
+                },
+                {
+                    "PersonId": "9185",
+                    "RecordID": "022-000001770",
+                    "Value": "Viana,Petrus,,"
+                },
+                {
+                    "PersonId": "9186",
+                    "RecordID": "022-000001771",
+                    "Value": "Arrighi da Soncino,Giovanni Maria,Inquisitor of Parma,"
+                },
+                {
+                    "PersonId": "9187",
+                    "RecordID": "022-000001775",
+                    "Value": "Bertolacci,Gio(vanni) Filippo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Ego Octavianus Ionicus Theologus Ecclesiae Cathedralis Parmae legi Tragediam nominatam la Vittoria del perduto Academico Innominato et nihil in ea inveni contra fidem et bonos moros: unde typis mandari posse censeo | Ego Petrus Viana Societatis Iesu publicus Professor Theologiae moralis in Gymnasio Parmensi vidi hanc tragoediam inscriptam Victoriam illustrissimi Domini Comitis Pomponij Torelli nec reperi in ea quisquam quod sacrosanctae fidei nostrae aut bonis moribus adversetur sed potius iudico esse opus elegans et ingeniosum et dignum ut typis mandetur. Dat. in Parmae in Collegio Societatis Iesu ultima Maij 1605 | Essendo stata approvata la Tragedia intitolata la Vittoria del Sig. Conte Pomponio Torelli Academico Innominato (chiamato il Perduto) dal molto reverendo signor Ottaviano Ionico Theologo di questa cathedrale di Parma et dal molto rever. padre Pietro Viana della compagnia di Iesu et concessa licenza di potersi stampare dal molto reveren padre fra Gio. Maria Arrighi Domenicano da soncino inquisitore nel Sant`Officio di questa citt\u00e0 et diocesi ancor io mi sottoscrivo et concedo come sopra questo di 2 Giugno 1605. Gio. Filippo Bertolacci Vic(ario) Gen(erale) | Visa approbatione domini Octaviani theologi ecclesiae cathedralis parmae et rever p. Petri Vianae Societatis Iesu tragediae de qua supra conceditur ut typo mandari possit. Ego fr. Io. Maria de Soncino Inquisit. Parm.",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Academia dei Ricovrati"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9188",
+                "RecordID": "022-000001676",
+                "Value": "Viotti,Erasmo,,"
+            }
+        },
+        "PrinterOrnament": "Mar.t.e1403",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20326",
+        "RecordId": "022-000007988",
+        "Surname": "Gravina e Cruillas",
+        "Forename": "Geronimo",
+        "AlternativeName": {
+            "AlternativeSurname": "Gravina de Cryillas",
+            "AlternativeForename": "Geronimo"
+        },
+        "PersonalTitle": "Prince of Gravina|Marquis of Monpelieri Pretore|Senator of Palermo",
+        "Nationality": {
+            "NationalityId": "140",
+            "Value": "Sicilian"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

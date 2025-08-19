@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20194",
+        "RecordId": "022-000007720",
+        "Surname": "Donato",
+        "Forename": "Leonardo",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Donati",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Dona'",
+                "AlternativeForename": null
+            }
+        ],
+        "PersonalTitle": "Doge",
+        "DateText": "1536-1612",
+        "StartDate": "1536",
+        "EndDate": "1612",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See his biography by Gaetano Cozzi in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

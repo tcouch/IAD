@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5046",
+        "RecordId": "022-000000048",
+        "Surname": "Gessi",
+        "Forename": "Cesare",
+        "DateText": "1568 - 1595",
+        "StartDate": "1568",
+        "EndDate": "1595",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Among the founders of the Gelati.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

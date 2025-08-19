@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001436",
+        "WorkId": "00164",
+        "ShortTitle": "Le Tre Comedie Famose Del Signor D. Filippo Caetano Duca di Sermoneta.",
+        "LongTitle": "Cio\u00e8 La Schiava | L`Ortentio | Li Due Vecchi.",
+        "Content": "Plays",
+        "PrinterOrnament": "Y",
+        "PublicationYear": "1644",
+        "DedicationPlaceDate": "Naples 1 January 1644",
+        "Edition": null,
+        "Format": "4\u00b0",
+        "Pagination": "First four pages unnumbered | pp. 328",
+        "Illustration": "Woodcuts | Religious figures | Armorial bearings",
+        "EngraverReference": null,
+        "Subjects": "Prose",
+        "Language": "Italian",
+        "Marginalia": null,
+        "CensorsAgreement": null,
+        "Shelfmark": "162.g.15.",
+        "Notes": null,
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15020",
+                "RecordID": "022-000001062",
+                "Value": "Gaetano , Filippo, Duke,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15227",
+                "RecordID": "022-000001270",
+                "Value": "Di Gregorijs, Giovanni, ,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15228",
+                "RecordID": "022-000001271",
+                "Value": "Cicconio, Ettorre, ,"
+            }
+        },
+        "Essays": null,
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli",
+            "PublicationPlaceFictitiousName": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

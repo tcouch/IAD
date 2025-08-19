@@ -1,0 +1,165 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0147",
+        "RecordId": "021-000006203",
+        "Name": "Sdegnati (Accademia degli)",
+        "AlternativeName": "Accademia dello Sdegno",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1541",
+        "EndDate": "ca.1545",
+        "DateText": "1541-ca.1545",
+        "Notes": "Probably founded to replace the Accademia della Virtu`. Some information on members and initiatives are in Wardrop, Civis romanus sum. Giovanbattista palatino and his circle, in signature (1952), Premoli, Giovanni Andrea dell`Anguillara (2005), Vagenheim, `Les \"Antichita` romane\" di Pirro Ligorio et l`Accademia dello Sdegno`, in Les Academies dans l`Europe humaniste: ideaux et pratiques (2008), Braida, Libri di lettere (2009).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "7551",
+                "RecordId": "022-000001455",
+                "Name": "Tolomei,Claudio,Bishop,1492 - 1555/6",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18122",
+                "RecordId": "022-000005080",
+                "Name": "Atanagi,Dionigi,,ca.1510 - 1573",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7552",
+                "RecordId": "022-000001456",
+                "Name": "Benzio,Trifone,,fl.1530-1571",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18090",
+                "RecordId": "022-000005043",
+                "Name": "Molza,Francesco Maria,,1489 - 1544",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18119",
+                "RecordId": "022-000005077",
+                "Name": "Spica,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16499",
+                "RecordId": "022-000003185",
+                "Name": "Ruscelli,Girolamo,,1504 - 1566",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15713",
+                "RecordId": "022-000002244",
+                "Name": "dell`Anguillara,Giovan Andrea,,1517 - 1572",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18095",
+                "RecordId": "022-000005049",
+                "Name": "Cincio,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9200",
+                "RecordId": "022-000001497",
+                "Name": "Orsini,Leone,Bishop of Frejus,1512 - 1564",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19085",
+                "RecordId": "022-000006209",
+                "Name": "Orsini,Vicino,,1523 - 1585",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19084",
+                "RecordId": "022-000006208",
+                "Name": "Palatino,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9261",
+                "RecordId": "022-000001557",
+                "Name": "Farnese,Alessandro,Cardinal, 1520-1589",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19086",
+                "RecordId": "022-000006210",
+                "Name": "Clovio,Giorgio Giulio,,1498 - 1578",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19092",
+                "RecordId": "022-000006217",
+                "Name": "Dardano,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19106",
+                "RecordId": "022-000006236",
+                "Name": "Elio,Antonio,Bishop of Pola,ca.1510 - 1576",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19108",
+                "RecordId": "022-000006239",
+                "Name": "Rossi,Filippo Maria,,? - ca.1558",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19123",
+                "RecordId": "022-000006258",
+                "Name": "Ligorio,Pirro,,ca.1513 - 1583",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19105",
+                "RecordId": "022-000006235",
+                "Name": "Venuti,Alessandro,,fl.1549-1553",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

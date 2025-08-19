@@ -1,0 +1,23 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0402",
+        "RecordId": "021-000007724",
+        "Name": "Inanimiti (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "Notes": "Publications related to the Academy, but not included in British Library collections are: Bernardo/i, Michele, Nella morte del signor Gio. Battista Fuoli protomedico della sanit\u00e0 in Venetia. Al signor Giuseppe Aromatario fisico celeberrimo. Oda del sig. dottor Michele Bernardi, academico ricourato, difeso, cruscante, e fra gli signori inanimiti di Venetia, il Filotarso. 1654ca. The book was possibly published in Venice before 1660, the year when Aromatari died.",
+        "ItacPersonItem": {
+            "PersonId": "20197",
+            "RecordId": "022-000007723",
+            "Name": "Bernardi,Michele,,",
+            "Nickname": "Filoterso",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

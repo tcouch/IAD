@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15306",
+        "RecordId": "022-000001346",
+        "Surname": "Forteguerri",
+        "Forename": "Scipione",
+        "Gender": "Male",
+        "DateText": "1466-1515",
+        "StartDate": "1466",
+        "EndDate": "1515",
+        "Nationality": {
+            "NationalityId": "184",
+            "Value": "of Pistoia"
+        },
+        "Notes": "See his biography by Francesco Piovan in DBI",
+        "Role": null,
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

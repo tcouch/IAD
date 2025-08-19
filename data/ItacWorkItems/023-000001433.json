@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001433",
+        "WorkId": "00210",
+        "ShortTitle": "Dell`Historia Napoletana",
+        "LongTitle": "Scritta dal Signor Francesco De` Pietri Napoletano libri due.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "Large 4o",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1634",
+        "Shelfmark": "178.f.5",
+        "Subjects": "History of Naples",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcuts | Coins | Gothic signs |",
+        "Pagination": "pp. 216 plus unnumbered Index",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15005",
+                "RecordID": "022-000001047",
+                "Value": "De Petris,Franciscum,,"
+            }
+        },
+        "Notes": "This text contains a sonnet dedicated by the author to the Accademia degli Oziosi.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15123",
+                    "RecordID": "022-000001164",
+                    "Value": "Tamburellus,Felix,General Vicar,"
+                },
+                {
+                    "PersonId": "15124",
+                    "RecordID": "022-000001165",
+                    "Value": "De Ianuario,Felix,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur; Felix Tamburellus Vicarius Generalis; Felix de Ianuario S.T.D. Deputatus",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15179",
+                "RecordID": "022-000001221",
+                "Value": "Montanaro,Domenico,,"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15755",
+        "RecordId": "022-000002300",
+        "Surname": "Bernardoni",
+        "Forename": "Domenico",
+        "Gender": "Male",
+        "DateText": "fl. 1689-1705",
+        "StartDate": "fl. 1689",
+        "EndDate": "1705",
+        "Nationality": {
+            "NationalityId": "113",
+            "Value": "of Vignola (Modena)"
+        },
+        "Notes": "He restored the Accesi Academy in collaboration with Lucio Antonio Santamaria, in 1686. For the dates, see Bergamini, `Dai Gelati alla Renia`, p. 30",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

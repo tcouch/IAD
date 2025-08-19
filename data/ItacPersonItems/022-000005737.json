@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18673",
+        "RecordId": "022-000005737",
+        "Surname": "Gonzaga",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1538-1566",
+        "StartDate": "1538",
+        "EndDate": "1566",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "Born in Palermo, while his father was Viceroy of Sicily",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

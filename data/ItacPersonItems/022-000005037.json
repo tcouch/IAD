@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18085",
+        "RecordId": "022-000005037",
+        "Surname": "Digby",
+        "Forename": "Kenelm",
+        "Gender": "Male",
+        "PersonalTitle": "Sir",
+        "DateText": "1603-1665",
+        "StartDate": "1603",
+        "EndDate": "1665",
+        "Nationality": {
+            "NationalityId": "68",
+            "Value": "English"
+        },
+        "Notes": "Joined the Filomati Academy in 1620-1621",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

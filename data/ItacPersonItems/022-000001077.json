@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15035",
+        "RecordId": "022-000001077",
+        "Surname": "Bruni",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "DateText": "1593-1635",
+        "StartDate": "1593",
+        "EndDate": "1635",
+        "Nationality": {
+            "NationalityId": "176",
+            "Value": "of Manduria (Taranto)"
+        },
+        "Notes": "Portrait from Antonio Bruni, La Selva di Parnaso, 1615. Appointed censor of the Umoristi Academy in 1623; in 1631 he delivered the presentation `Sulle passioni dell`animo, quali siano piu` efficaci ad esprimerle o le lacrime o i sospiri`.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

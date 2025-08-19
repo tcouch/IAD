@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008395",
+        "WorkId": "000948",
+        "ShortTitle": "Motetti a otto voci con il suo basso continuo a beneplacito",
+        "LongTitle": "Canto (Alto) (Basso) Primo Choro. (Canto (Alto) (Basso) Secondo Choro.) (Basso Continuo.). Dedicati al Reverendissimo Padre Maestro Clemente Maria Felina da Bologna, Priore nel Convento di S. Martino Maggiore, Vicevicario Generale della Congregazione Carmelitana di Mantova, e pubblico lettore nell`Universita` di Bologna. Opera XXXXXII",
+        "ItacAcademyItem": {
+            "AcademyId": "0570",
+            "RecordID": "021-000008374",
+            "Value": "Eccitati (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1669",
+        "DedicationPlaceDate": "Bologna li 24 luglio 1669",
+        "Shelfmark": "C41e",
+        "Subjects": "Music",
+        "Language": "Italian|Latin",
+        "Pagination": "32",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20584",
+                "RecordID": "022-000008338",
+                "Value": "Cazzati,Maurizio,,1616-1678"
+            }
+        },
+        "Notes": "The printer is not specified",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15383",
+                "RecordID": "022-000001877",
+                "Value": "Felina,Clemente Maria,Vicar General,?-1699"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55302",
+            "Value": "023-000008395_55302_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

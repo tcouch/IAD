@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16365",
+        "RecordId": "022-000003027",
+        "Surname": "de gli Antonii",
+        "Forename": "Giovann`Antonio",
+        "Gender": "Male",
+        "DateText": "1527/31-1583",
+        "StartDate": "1527/31",
+        "EndDate": "1583",
+        "Nationality": {
+            "NationalityId": "82",
+            "Value": "of Brescia"
+        },
+        "Role": "Publisher|Printer",
+        "TypographicReference": "A33|V101|Z700",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

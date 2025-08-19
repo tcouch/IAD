@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005032",
+        "WorkId": "000617",
+        "ShortTitle": "Delle Imprese Trattato Di Giulio Cesare Capaccio. In tre Libri diviso.",
+        "LongTitle": "Ne Primo, Del Modo Di Far L`Impresa da qualsivoglia oggetto, o Naturale, o Artificioso con nuove maniere si ragiona. Nel Secondo, Tutti Ieroglifici, Simboli, e cose Mistiche in lettere Sacre, o Profanesi scuoprono; e come da quegli cavar si ponno l`Imprese. Nel Terzo, Nel Figurar Degli Emblemi di molte cose naturali per l`Imprese si tratta.",
+        "ItacAcademyItem": {
+            "AcademyId": "0103",
+            "RecordID": "021-000005009",
+            "Value": "Accademia degli Svegliati"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1592",
+        "DedicationPlaceDate": "Naples 31 May 1591",
+        "Shelfmark": "89.k.6.",
+        "Subjects": "Emblems",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 295",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15014",
+                "RecordID": "022-000001056",
+                "Value": "Capaccio,Giulio Cesare,,1552-1634"
+            }
+        },
+        "Notes": "On pp. 115-116, the author refers to the Svegliati Academy and its emblem.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17766",
+                    "RecordID": "022-000004670",
+                    "Value": "Biandr\u00e0,Ardicinus,Vicar General,"
+                },
+                {
+                    "PersonId": "17767",
+                    "RecordID": "022-000004671",
+                    "Value": "Veronensis,Cherubinus,Archbishop of Naples,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. \nArdicinus Biandr\u00e0. Vic. Gen. Neap.\nF. Cherubinus Veronensis Theologus Archiep. neap.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18083",
+                    "RecordID": "022-000005034",
+                    "Value": "Crispo,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "18084",
+                    "RecordID": "022-000005035",
+                    "Value": "Acquaviva d`Aragona,Ottavio,Cardinal,1560 - 1612"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16666",
+                "RecordID": "022-000003396",
+                "Value": "de Capua ,Thomas,Friar,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17954",
+                "RecordID": "022-000004878",
+                "Value": "Salviani,Orazio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54530",
+            "Value": "023-000005032_54530_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

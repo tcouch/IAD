@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16121",
+        "RecordId": "022-000002730",
+        "Surname": "Acciaioli",
+        "Forename": "Nicol\u00f2",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Acciajuoli;  Acciajoli"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1630-1719",
+        "StartDate": "1630",
+        "EndDate": "1719",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007872",
+        "WorkId": "000884",
+        "ShortTitle": "Oratione della grandezza dell`huomo",
+        "LongTitle": "del P.F. Isidoro Rotta Venitiano de Minori Osseruanti, da lui composta, e publicamente recitata in Vinetia nell`Academia de gli Uranici, l`ottauo giorno di Luglio l`anno 1587. All`illustrissimo, et reverendiss. Cardinal Cornaro, vescouo di Padoua.",
+        "ItacAcademyItem": {
+            "AcademyId": "0462",
+            "RecordID": "021-000007865",
+            "Value": "Accademia degli Uranici"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1587",
+        "DedicationPlaceDate": "Di Vinegia 25 Settembre 1587",
+        "Shelfmark": "11826d40",
+        "Subjects": "Academic discourse|Greatness of mankind",
+        "Language": "Italian",
+        "Pagination": "23r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17674",
+                "RecordID": "022-000004569",
+                "Value": "Rota,Isidoro,,fl.1580-?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17674",
+                    "RecordID": "022-000004569",
+                    "Value": "Rota,Isidoro,,fl.1580-?"
+                },
+                {
+                    "PersonId": "17428",
+                    "RecordID": "022-000004285",
+                    "Value": "Enrico,Girolamo,,?-1601"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17512",
+                "RecordID": "022-000004388",
+                "Value": "Corner,Federico,Bishop of Padua|Cardinal,1531-1590"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17511",
+                "RecordID": "022-000004387",
+                "Value": "Rampazetto,Giovanni Antonio,,fl.1582-1607"
+            }
+        },
+        "PrinterOrnament": "Q56|Z470|V441",
+        "TitlePageImage": {
+            "ImageId": "55040",
+            "Value": "023-000007872_55040_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sublime heroe ch'assiso in Concistoro [dedicated to Federico Corner]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17674",
+                            "RecordID": "022-000004569",
+                            "Value": "Rota,Isidoro,,fl.1580-?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Queste membra caduche un spirto regge [dedicated to Isidoro Rota]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17428",
+                            "RecordID": "022-000004285",
+                            "Value": "Enrico,Girolamo,,?-1601"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

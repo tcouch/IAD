@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7415",
+        "RecordId": "022-000001011",
+        "Surname": "Cibo Malaspina",
+        "Forename": "Alberico",
+        "Gender": "Male",
+        "PersonalTitle": "Prince of Massa and Carrara",
+        "DateText": "1534-1623",
+        "StartDate": "1534",
+        "EndDate": "1623",
+        "Nationality": {
+            "NationalityId": "100",
+            "Value": "Genoese"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

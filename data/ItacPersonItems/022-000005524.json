@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18496",
+        "RecordId": "022-000005524",
+        "Surname": "Dal Bosco",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "De Bosco",
+            "AlternativeForename": "Franciscus"
+        },
+        "DateText": "?-1668",
+        "StartDate": "?",
+        "EndDate": "1668",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "Francesco Dal Bosco became President of the Riaccesi Academy in Palermo.\nFor a biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 208-209 (BL Shelfmark: 610.m.10.)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

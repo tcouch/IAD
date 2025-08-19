@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19825",
+        "RecordId": "022-000007262",
+        "Surname": "Foscarini",
+        "Forename": "Michele",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Fuscareno"
+            },
+            {
+                "AlternativeForename": "Michael"
+            }
+        ],
+        "PersonalTitle": "Senator",
+        "DateText": "1632-1692",
+        "StartDate": "1632",
+        "EndDate": "1692",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "In the biography by Renata Targhetta in DBI, Foscarini is not mentioned as member of the Argonauti",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

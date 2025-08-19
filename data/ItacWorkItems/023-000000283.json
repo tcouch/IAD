@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000283",
+        "WorkId": "00004",
+        "ShortTitle": "Psafone",
+        "LongTitle": "Trattato d`amore del medesimo Caliginoso Gelato Melchiorre Zoppio. Nel quale secondo i poeti et filosofi platonici massimamente si discorre sopra le principali considerazioni in materia d`Amore et di bellezza",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1590",
+        "Shelfmark": "11426.a.5 | 1578/4705",
+        "Subjects": "Treatise on love|Beauty",
+        "Language": "Italian",
+        "Pagination": "pp. 264",
+        "Marginalia": "No",
+        "Edition": "1st edn",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5032",
+                "RecordID": "022-000000034",
+                "Value": "Zoppio,Melchiorre,,1544-1634/7"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5247",
+                "RecordID": "022-000000239",
+                "Value": "Rossi,Giovanni,,\u20201595"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52745",
+            "Value": "023-000000283_52745_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

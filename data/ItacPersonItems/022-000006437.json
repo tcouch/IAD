@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19256",
+        "RecordId": "022-000006437",
+        "Surname": "Antonini",
+        "Forename": "Daniello",
+        "Gender": "Male",
+        "DateText": "1588-1616",
+        "StartDate": "1588",
+        "EndDate": "1616",
+        "Nationality": {
+            "NationalityId": "193",
+            "Value": "of Udine"
+        },
+        "Notes": "Student of mathematics in Padua with Galileo, soldier, was proposed as Linceo in 1614.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

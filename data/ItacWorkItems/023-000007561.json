@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007561",
+        "WorkId": "000847",
+        "ShortTitle": "Caligula delirante",
+        "LongTitle": "Melodramma da rappresentarsi in musica nel teatro famoso Grimano di SS. Giovanni e Paolo l`anno MDCLXXII [1672]. consacrato alle Sereniss. Altezze delli Signori Duchi gio: Federico, et Ernesto Augusto di Bransuich, Luneburgo & c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0390",
+            "RecordID": "021-000007560",
+            "Value": "Accademia degli Imperturbabili"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1672",
+        "DedicationPlaceDate": "Venezia 18 dicembre 1672",
+        "Shelfmark": "11712a35",
+        "Subjects": "Theatre|Melodrama",
+        "Language": "Italian",
+        "Pagination": "65",
+        "Marginalia": "No",
+        "Notes": "Title page and frontispiece here displayed.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20064",
+                "RecordID": "022-000007562",
+                "Value": "Nicolini,Francesco,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20064",
+                "RecordID": "022-000007562",
+                "Value": "Nicolini,Francesco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55228",
+            "Value": "023-000007561_55228_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55229",
+            "Value": "023-000007561_55229_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

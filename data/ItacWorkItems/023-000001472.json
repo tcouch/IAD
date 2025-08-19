@@ -1,0 +1,77 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001472",
+        "WorkId": "00097",
+        "ShortTitle": "Libro quarto delle rime",
+        "LongTitle": "di diversi autori nella lingua volgare novamente raccolte",
+        "ItacAcademyItem": {
+            "AcademyId": "0018",
+            "RecordID": "021-000001454",
+            "Value": "Accademia degli Affumati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1551",
+        "DedicationPlaceDate": "Bologna 10 January 1551",
+        "Shelfmark": "240.d.7",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "328 [24]",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "7550",
+                "RecordID": "022-000001463",
+                "Value": "Anonymous,,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7559",
+                "RecordID": "022-000001464",
+                "Value": "Grimanni,Giulio,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7561",
+                "RecordID": "022-000000277",
+                "Value": "Bottrigari,Hercole,,1531-1612"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7560",
+                "RecordID": "022-000001465",
+                "Value": "Giaccarello,Anselmo,,fl. 1545-1565"
+            }
+        },
+        "PrinterOrnament": "T5 - Z493",
+        "TitlePageImage": {
+            "ImageId": "54171",
+            "Value": "023-000001472_54171_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54172",
+            "Value": "023-000001472_54172_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Stancar l`antico fabbro alla fucina",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "7550",
+                        "RecordID": "022-000001463",
+                        "Value": "Anonymous,,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

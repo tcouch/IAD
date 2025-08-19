@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7703",
+        "RecordId": "022-000001478",
+        "Surname": "Borghese-Caffarelli",
+        "Forename": "Scipione",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1576-1633",
+        "StartDate": "1576",
+        "EndDate": "1633",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Archbishop of Bologna between 1610 and 1611. See his biography by Valerio Castronovo in DBI",
+        "Role": "Dedicatee|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

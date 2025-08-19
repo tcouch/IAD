@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20320",
+        "RecordId": "022-000007978",
+        "Surname": "Marascia",
+        "Forename": "Giuseppe Vincenzo",
+        "AlternativeName": {
+            "AlternativeSurname": "Marascia",
+            "AlternativeForename": "Vincentius Josephus"
+        },
+        "DateText": "?-1669",
+        "StartDate": "?",
+        "EndDate": "1669",
+        "Nationality": {
+            "NationalityId": "140",
+            "Value": "Sicilian"
+        },
+        "Notes": "Not recorded by maylender as a member of the Riaccesi academy in Palermo. \nFor a biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 406-407 (BL Shelfmark:610.m.10.)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

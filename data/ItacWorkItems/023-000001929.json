@@ -1,0 +1,60 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001929",
+        "WorkId": "000269",
+        "ShortTitle": "Balletti (Violino Primo/Secondo/Violone o Spinetta)",
+        "LongTitle": "Gighe, Correnti, Alemande, e Sarabande, a Violino, e Violone, con il Secondo Violino a beneplacito. Del Signore Domenico Gabrielli Sonatore di Violoncello in San Petronio di Bologna, et Accademico Filarmonico. Opera Prima. All`Illustrissimo Signore Co(nte) Gioseppe Filippo Calderini",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1684",
+        "Shelfmark": "d.10",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "pp. 28",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15420",
+                "RecordID": "022-000001925",
+                "Value": "Gabrielli,Domenico,,"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` Superiori. Ad instanza di Marino Silvani, all`Insegna del Violino.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15423",
+                "RecordID": "022-000001930",
+                "Value": "Calderini,Gioseppe Filippo,Count,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15407",
+                "RecordID": "022-000001912",
+                "Value": "Silvani,Marino,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52823",
+            "Value": "023-000001929_52823_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

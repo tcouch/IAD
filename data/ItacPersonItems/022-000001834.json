@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9665",
+        "RecordId": "022-000001834",
+        "Surname": "Ottobonus",
+        "Forename": "Leonardus",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Otthobonus"
+        },
+        "PersonalTitle": "Secretary of the Council of Ten (Venice)",
+        "DateText": "1542?-1630",
+        "StartDate": "1542?",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "A portrait of Leonardo Ottoboni is in Tomasini, Elogia virorum (1644). For his dates, see Cicogna, Delle iscrizioni veneziane, vol. 5 (1842).",
+        "Role": "Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

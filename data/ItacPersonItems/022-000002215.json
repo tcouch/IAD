@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15687",
+        "RecordId": "022-000002215",
+        "Surname": "Valois",
+        "Forename": "Margherita",
+        "Gender": "Female",
+        "PersonalTitle": "Duchess of Savoy",
+        "DateText": "1523 - 1574",
+        "StartDate": "1523",
+        "EndDate": "1574",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

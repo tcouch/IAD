@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19999",
+        "RecordId": "022-000007469",
+        "Surname": "Frangipani",
+        "Forename": "Cornelio",
+        "AlternativeName": {
+            "AlternativeForename": "Claudio Cornelio (il Giovane)"
+        },
+        "DateText": "1553-1643",
+        "StartDate": "1553",
+        "EndDate": "1643",
+        "Nationality": {
+            "NationalityId": "343",
+            "Value": "of Tarcento (Udine)"
+        },
+        "Notes": "Frangipani studied humanitates at Udine, philosophy at Bologna, and law at Padua. See his biography by Maristella Cavazza, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

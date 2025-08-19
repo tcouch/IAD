@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005159",
+        "WorkId": "000636",
+        "ShortTitle": "Orazione funerale dell` Accademico Ardente",
+        "LongTitle": "Recitata in lode del cavalier Battista Guarini nell`accademia degli Umoristi",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1613",
+        "Shelfmark": "10631c(16)",
+        "Subjects": "Funereal discourse",
+        "Language": "Italian",
+        "Pagination": "15",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18180",
+                "RecordID": "022-000005157",
+                "Value": "Buonanni,Scipione,,? - d.1618"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5146",
+                "RecordID": "022-000000142",
+                "Value": "Guarini,Battista,,1538-1612"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17441",
+                "RecordID": "022-000004300",
+                "Value": "Mascardi,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55292",
+            "Value": "023-000005159_55292_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001935",
+        "WorkId": "000271",
+        "ShortTitle": "Litanie (Canto-Alto-Tenore-Basso Primo/Secondo Coro; Organo)",
+        "LongTitle": "Con le Quattro Antifone della B(eata) Vergine. A otto Voci piene. Dedicate Alli Molto RR. PP. della Congregazione dell`Oratorio di S. Filippo Neri Della Madonna di Galiera di Bologna Da Gio(vanni) Paolo Colonna Maestro di Cappella in San Petronio di Bologna, et Accademico Filaschise, e Filarmonico. Opera Quarta",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1682",
+        "DedicationPlaceDate": "Bologna 21 February 1682",
+        "Shelfmark": "D.40.g",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "9 pts pp. 19",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15385",
+                "RecordID": "022-000001880",
+                "Value": "Colonna,Giovanni  Paolo,,1637-1695"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7409",
+                    "RecordID": "022-000001001",
+                    "Value": "Chrisostomus,Iohannes,,"
+                },
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal,1622-1684"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Io. Chrysostomus Vicecomes Clericus Reg. Sancti Pauli, et in Metropolitana Bononiae Paenitentiarius pro Eminentissimo, et Reverendissimo D., D. Hieronymo Boncompagno Archiepiscopo, et Principe. Imprimatur. Pro Vicarius Sancti Officij Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15426",
+                "RecordID": "022-000001936",
+                "Value": "Congregazione Oratorio,San Filippo Neri,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

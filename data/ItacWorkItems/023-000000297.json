@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000297",
+        "WorkId": "00018",
+        "ShortTitle": "Il Tancredi tragedia",
+        "LongTitle": "dell`Illustrissimo Signor Conte Ridolfo Campeggi nell`Accademia dei Gelati Il Rugginoso all`Illustrissimo et reverendissimo cardinale Scipione Borghese",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "37",
+            "PublicationPlaceItalianName": "Vicenza",
+            "PublicationPlaceEnglishName": "Vicenza",
+            "PublicationPlaceLatinName": "Vicentiae"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "Bologna 1 January 1614",
+        "Shelfmark": "1063.a.11(2)",
+        "Subjects": "Tragedy",
+        "Language": "Italian",
+        "Pagination": "128",
+        "Marginalia": "No",
+        "Edition": "2nd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5039",
+                "RecordID": "022-000000041",
+                "Value": "Campeggi,Ridolfo,Count,1565-1624"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7703",
+                "RecordID": "022-000001478",
+                "Value": "Borghese-Caffarelli,Scipione,Cardinal,1576 - 1633"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5256",
+                "RecordID": "022-000000247",
+                "Value": "Grossi,Francesco,,\u20201629"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

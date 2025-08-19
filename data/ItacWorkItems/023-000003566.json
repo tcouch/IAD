@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003566",
+        "WorkId": "000465",
+        "ShortTitle": "Dialogo nobilissimo d`un cieco e d`un villano.",
+        "LongTitle": "Composto dal Falotico della Congrega de` Rozzi",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1575",
+        "Shelfmark": "162.f.41",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "16 leaves",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16737",
+                "RecordID": "022-000003473",
+                "Value": "Giovanni Battista,,,"
+            }
+        },
+        "Notes": "Date and printer are suggested by the British Library catalogue",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,fl. 1553-1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53861",
+            "Value": "023-000003566_53861_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

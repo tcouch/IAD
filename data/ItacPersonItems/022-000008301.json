@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20555",
+        "RecordId": "022-000008301",
+        "Surname": "Angeli",
+        "Forename": "Nicola",
+        "AlternativeName": {
+            "AlternativeSurname": "Angioli",
+            "AlternativeForename": null
+        },
+        "DateText": "1535-1604",
+        "StartDate": "1535",
+        "EndDate": "1604",
+        "Nationality": {
+            "NationalityId": "391",
+            "Value": "Montelupone (Marche)"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

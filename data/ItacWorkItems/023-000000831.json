@@ -1,0 +1,186 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000831",
+        "WorkId": "00201",
+        "ShortTitle": "Poesie",
+        "LongTitle": "Nel felice ingresso dell`illustrissimo Sig(nor) Rettore Il Signore Andrea Erba gentilhuomo Mantoano Nell`Almo Collegio di Mont`Alto in Bologna. Con licenza de` superiori",
+        "ItacAcademyItem": {
+            "AcademyId": "0011",
+            "RecordID": "021-000000779",
+            "Value": "Accademia dei Selvaggi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1616",
+        "DedicationPlaceDate": "Bologna 28 February 1616",
+        "Shelfmark": "11427.cc.28",
+        "Subjects": "Eulogistic poetry",
+        "Language": "Italian|Latin",
+        "Pagination": "48",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5018",
+                    "RecordID": "022-000000020",
+                    "Value": "Rabbia,Raffaele,,"
+                },
+                {
+                    "PersonId": "5100",
+                    "RecordID": "022-000000097",
+                    "Value": "Abelli,Cesare,,fl.1590?-1683"
+                },
+                {
+                    "PersonId": "5273",
+                    "RecordID": "022-000000263",
+                    "Value": "Segni,Giulio,,"
+                },
+                {
+                    "PersonId": "5278",
+                    "RecordID": "022-000000267",
+                    "Value": "Valesio,Giovanni,,1561 - 1640"
+                },
+                {
+                    "PersonId": "5279",
+                    "RecordID": "022-000000324",
+                    "Value": "Manzini,Giovanni Battista,,1599 - 1664"
+                },
+                {
+                    "PersonId": "9920",
+                    "RecordID": "022-000000811",
+                    "Value": "Zambeccari,Marc`Antonio,,"
+                },
+                {
+                    "PersonId": "9925",
+                    "RecordID": "022-000000812",
+                    "Value": "Scolari del Collegio di Montalto,,,"
+                },
+                {
+                    "PersonId": "9930",
+                    "RecordID": "022-000000813",
+                    "Value": "Cavucio,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "9935",
+                    "RecordID": "022-000000814",
+                    "Value": "Giordani,Camillo,,"
+                },
+                {
+                    "PersonId": "9940",
+                    "RecordID": "022-000000815",
+                    "Value": "Cardini,Orsino,,"
+                },
+                {
+                    "PersonId": "9945",
+                    "RecordID": "022-000000816",
+                    "Value": "Cicognini,Giacomo,,1557 - 1633"
+                },
+                {
+                    "PersonId": "9950",
+                    "RecordID": "022-000000817",
+                    "Value": "Becio,Giuliano,,"
+                },
+                {
+                    "PersonId": "9955",
+                    "RecordID": "022-000000818",
+                    "Value": "Ondedei,Zongo,,"
+                },
+                {
+                    "PersonId": "9960",
+                    "RecordID": "022-000000820",
+                    "Value": "Lugarini,Francesco,,"
+                },
+                {
+                    "PersonId": "9965",
+                    "RecordID": "022-000000821",
+                    "Value": "Sciapito,,,"
+                },
+                {
+                    "PersonId": "9970",
+                    "RecordID": "022-000000822",
+                    "Value": "P. P. B.,,Count,"
+                },
+                {
+                    "PersonId": "9975",
+                    "RecordID": "022-000000824",
+                    "Value": "Ambuni,Io(anne) Baptista,,"
+                },
+                {
+                    "PersonId": "9980",
+                    "RecordID": "022-000000825",
+                    "Value": "Incerti,,,"
+                },
+                {
+                    "PersonId": "9999",
+                    "RecordID": "022-000000827",
+                    "Value": "Zecca,Ercole,,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9985",
+                "RecordID": "022-000000826",
+                "Value": "Baroni Peretti da Montalto,Andrea,Cardinal | Bishop of Albano and Frascati,1572-1629"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5253",
+                "RecordID": "022-000000244",
+                "Value": "Cochi,Bartolomeo,,\u20201621"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Dedication to Cardinal Andrea Peretti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9925",
+                            "RecordID": "022-000000812",
+                            "Value": "Scolari del Collegio di Montalto, , ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sopra il gelsomino posto nell`Arme del Signor Rettore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9930",
+                            "RecordID": "022-000000813",
+                            "Value": "Cavucio, Giovanni Battista, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Mincio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9950",
+                            "RecordID": "022-000000817",
+                            "Value": "Becio, Giuliano, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il vaticinio di Sireno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9955",
+                            "RecordID": "022-000000818",
+                            "Value": "Ondedei, Zongo, ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008212",
+        "WorkId": "000923",
+        "ShortTitle": "Delle orationi",
+        "LongTitle": "di M. Alberto Lollio gentil`huomo ferrarese volume primo. Aggiuntavi una lettera del medesimo in laude della villa. All`illustrissimo et magnanimo principe Cosimo de` Medici Duca di Fiorenza II et di Siena I.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0512",
+                "RecordID": "021-000008044",
+                "Value": "Elevati - Ferrara (Accademia degli)"
+            },
+            {
+                "AcademyId": "0516",
+                "RecordID": "021-000008048",
+                "Value": "Filareti (Accademia dei)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1563",
+        "Shelfmark": "C82b3",
+        "Subjects": "Speeches",
+        "Language": "Italian",
+        "Pagination": "244 [21]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20471",
+                "RecordID": "022-000008201",
+                "Value": "Lollio,Alberto,,1508-1569"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20471",
+                "RecordID": "022-000008201",
+                "Value": "Lollio,Alberto,,1508-1569"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7108",
+                "RecordID": "022-000000838",
+                "Value": "de` Medici,Cosimo I,Grand Duke,1519 - 1574"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20479",
+                "RecordID": "022-000008213",
+                "Value": "Panizza,Valente,,fl.1562-1579"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55269",
+            "Value": "023-000008212_55269_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Della elettione del dittatore a signori academici elevati. Oratione VI",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20471",
+                            "RecordID": "022-000008201",
+                            "Value": "Lollio,Alberto,,1508-1569"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In laude della Concordia a signori academici filareti. Oratione XI",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20471",
+                            "RecordID": "022-000008201",
+                            "Value": "Lollio,Alberto,,1508-1569"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Della eccellenza et dignita' della lingua toschana ai signori academici filareti. Oratione XII",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20471",
+                            "RecordID": "022-000008201",
+                            "Value": "Lollio,Alberto,,1508-1569"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

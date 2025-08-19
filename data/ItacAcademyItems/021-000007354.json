@@ -1,0 +1,69 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0363",
+        "RecordId": "021-000007354",
+        "Name": "Discordanti (Accademia dei) (Venezia)",
+        "AlternativeName": "Academia Discordantium",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1618",
+        "EndDate": "after1656",
+        "DateText": "1618-after1656",
+        "Notes": "Publications related to the history of this Academy, but not in British Library collections, include: Festosi applausi di gloria all`Ill.mo Girolamo Bondumier... (Venezia, Bortoli, s.a.); Ad illustriss. et excell. d. equitem Andream Contarenum divi Marci procuratorem poeticae amoenitatis selecti flore \u2026 (Venezia, Bortoli, 1655); Clavestain, Ferdinand, Apologia in difesa d`una dottrina dell`eccellentissimo signor dottor Pietro Conti ... Raccolta, e data in luce da Ferdinando Clavestain salisburgese (In Francofurt, 1656?)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19908",
+                "RecordId": "022-000007353",
+                "Name": "Conti,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19887",
+                "RecordId": "022-000007330",
+                "Name": "Minato,Nicolo`,,ca.1628 - 1698",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19909",
+                "RecordId": "022-000007355",
+                "Name": "Contarini,Carlo,,1637 - 1721",
+                "Nickname": "Il Furibondo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15132",
+                "RecordId": "022-000001174",
+                "Name": "Contarini,Andrea,,1601-1675",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19910",
+                "RecordId": "022-000007356",
+                "Name": "Il Taciturno,,,",
+                "Nickname": "Il Taciturno",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19934",
+                "RecordId": "022-000007383",
+                "Name": "Bondumier,Girolamo,,",
+                "Nickname": "l'Intricato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

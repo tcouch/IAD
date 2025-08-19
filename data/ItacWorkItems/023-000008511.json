@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008511",
+        "WorkId": "000961",
+        "ShortTitle": "Orazione del S.r Alessandro Guarini, Accademico Intrepido, Detto il Macerato",
+        "LongTitle": "Fatta in lode di D. Alderano Cybo Marchese di Carrara. E recitata publicamente nell` Accademia",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "Shelfmark": "1608/814",
+        "Subjects": "Oration",
+        "Language": "Italian",
+        "Pagination": "pp. 38",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18365",
+                "RecordID": "022-000005383",
+                "Value": "Guarini,Alessandro,,1563-1636"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20700",
+                "RecordID": "022-000008512",
+                "Value": "Romei,Ercole,,"
+            }
+        },
+        "Notes": "Included in Alessandro Guarini, Prose (Ferrara: V. Baldini, 1611). The emblem of the Accademia degli Intrepidi, and Guarini`s personal emblem as member of this academy, are both printed on the title page.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9243",
+                    "RecordID": "022-000001539",
+                    "Value": "della Rovere,Francesco Maria II,Duke of Urbino,1549-1631"
+                },
+                {
+                    "PersonId": "20701",
+                    "RecordID": "022-000008513",
+                    "Value": "Cybo,Alderano,Marquis of Carrara,1552-1606"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,before 1567-1618"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55349",
+            "Value": "023-000008511_55349_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

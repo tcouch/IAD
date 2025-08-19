@@ -1,0 +1,91 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0091",
+        "RecordId": "021-000004688",
+        "Name": "Maiellana (Accademia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1690s?",
+        "EndDate": "1709",
+        "DateText": "1690s?-1709",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17783",
+                "RecordId": "022-000004689",
+                "Name": "Maiello ,Carlo,Archbishop of Emesena,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17784",
+                "RecordId": "022-000004690",
+                "Name": "Maiello,Gennaro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17785",
+                "RecordId": "022-000004691",
+                "Name": "Simmaco Mazzocchi,Alessio,Canon,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17786",
+                "RecordId": "022-000004692",
+                "Name": "Buonocore,Gaetano,Canon,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17521",
+                "RecordId": "022-000004404",
+                "Name": "Martorelli,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17787",
+                "RecordId": "022-000004693",
+                "Name": "della Calce,Ignazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17788",
+                "RecordId": "022-000004694",
+                "Name": "Rosini,Carlo,Bishop of Pozzuoli,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17789",
+                "RecordId": "022-000004695",
+                "Name": "Cal\u00e0,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17790",
+                "RecordId": "022-000004696",
+                "Name": "Ignarra,Nicola,Canon,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

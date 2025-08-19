@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16473",
+        "RecordId": "022-000003150",
+        "Surname": "Habsburg",
+        "Forename": "Charles V",
+        "AlternativeName": {
+            "AlternativeForename": "Charles I of Spain"
+        },
+        "PersonalTitle": "Holy Roman Emperor",
+        "DateText": "1500 - 1558",
+        "StartDate": "1500",
+        "EndDate": "1558",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

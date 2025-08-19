@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001876",
+        "WorkId": "000258",
+        "ShortTitle": "Sonate da camera (Violino primo; Violino secondo; Violoncello; Cimbalo)",
+        "LongTitle": "a tre, due violini, e violoncello col violone, o cimbalo. Dedicate al Reverendissimo padre sig. sig. e padron colendissimo Il padre Celmente Maria Felina. Vicario generale della Congregazione carmelitana di Mantova, Maestro, e dottore di Sacra Teologia, Lettor Pubblico, e diffinitore perpetuo et c. Da Bartolomeo Bernardi. Sonatore da violino, e Accademico Filarmonico. Opera prima.",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "10\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1692",
+        "DedicationPlaceDate": "20 October 1692",
+        "Shelfmark": "d.14",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "pp. 36 each section",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15384",
+                "RecordID": "022-000001878",
+                "Value": "Bernardi,Bartolomeo,,"
+            }
+        },
+        "Notes": "At the bottom of the page is written: `Si vendono da Marino Silvani, all`Insegna del Violino, con privilegio`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15383",
+                "RecordID": "022-000001877",
+                "Value": "Felina,Clemente Maria,Vicar General,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5532",
+                "RecordID": "022-000000531",
+                "Value": "Monti,Pietro Maria,,fl. 1689-1708"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52829",
+            "Value": "023-000001876_52829_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0495",
+        "RecordId": "021-000008027",
+        "Name": "Elevati-Reggio Emilia (Accademia degli)",
+        "City": {
+            "CityId": "118",
+            "CityItalianName": "Reggio Emilia",
+            "CityEnglishName": "Reggio Emilia"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "16305",
+                "RecordId": "022-000002958",
+                "Name": "Silvi,Domicilla,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16306",
+                "RecordId": "022-000002959",
+                "Name": "Silvi,Silvia,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

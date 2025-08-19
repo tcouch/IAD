@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5268",
+        "RecordId": "022-000000258",
+        "Surname": "Carli",
+        "Forename": "Ferrante",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Gianfattori",
+            "AlternativeForename": "Carlo Ferrante (Ferdinando)"
+        },
+        "Pseudonym": "Andrea dell`Arca",
+        "DateText": "1578-1641",
+        "StartDate": "1578",
+        "EndDate": "1641",
+        "Nationality": {
+            "NationalityId": "142",
+            "Value": "of Parma"
+        },
+        "Notes": "In the Accademia degli Umoristi, in 1605, he delivered the presentation `Sulle rassomiglianze poetiche`, see Russo (1979)",
+        "Role": "Contributor|Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19202",
+        "RecordId": "022-000006368",
+        "Surname": "Della Bella",
+        "Forename": "Stefano",
+        "Gender": "Male",
+        "DateText": "1610-1664",
+        "StartDate": "1610",
+        "EndDate": "1664",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "For his biography, see A. Forlani Tempesti, `Della Bella, Stefano`, in DBI.",
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008626",
+        "WorkId": "000972",
+        "ShortTitle": "Breve trattato",
+        "LongTitle": "Del Sig. Alessandro Canobbio sopra le Academie.A i Mag. Sig. Academici di Verona",
+        "ItacAcademyItem": {
+            "AcademyId": "0259",
+            "RecordID": "021-000006910",
+            "Value": "Moderati (Accademia dei)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1571",
+        "DedicationPlaceDate": "Verona 20 May 1571",
+        "Shelfmark": "011824.e.11.",
+        "Subjects": "Treatise on academies",
+        "Language": "Italian",
+        "Illustration": "Engraved titlepage|",
+        "Pagination": "ff. 16",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20790",
+                "RecordID": "022-000008623",
+                "Value": "Canobbio ,Alessandro,,1530s - 1607"
+            }
+        },
+        "Notes": "The author refers to various Veronese academies which include the Moderati and the Filarmonici.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20792",
+                "RecordID": "022-000008625",
+                "Value": "Bocchino ,Andrea & fratelli,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

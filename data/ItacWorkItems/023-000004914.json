@@ -1,0 +1,164 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004914",
+        "WorkId": "000605",
+        "ShortTitle": "I sei primi libri dell` Eneide di Vergilio,",
+        "LongTitle": "tradotti a piu` illustre et honorate donne. Et tra l`altre e` la nobilissima madonna Aurelia Tolomei de Borghesi. A cui ancho e` indirizzato tutto il presente volume",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1541",
+        "Shelfmark": "11352.aa.19",
+        "Subjects": "Translation",
+        "Language": "Italian",
+        "Pagination": "104 [i.e. 108]r-v.",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17978",
+                "RecordID": "022-000004911",
+                "Value": "Vergilius Maro,Publius ,,70 - 19 b.C."
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17987",
+                    "RecordID": "022-000004921",
+                    "Value": "di Pers,Vincenzo,,"
+                },
+                {
+                    "PersonId": "17990",
+                    "RecordID": "022-000004924",
+                    "Value": "de` Medici,Ippolito,Cardinal,1511-1535"
+                },
+                {
+                    "PersonId": "17991",
+                    "RecordID": "022-000004925",
+                    "Value": "Borghesi,Bernardin,,"
+                },
+                {
+                    "PersonId": "16500",
+                    "RecordID": "022-000003186",
+                    "Value": "Carli Piccolomini,Bartolomeo,,1503-1538/39"
+                },
+                {
+                    "PersonId": "17986",
+                    "RecordID": "022-000004920",
+                    "Value": "Cerretani,Aldobrando,,"
+                },
+                {
+                    "PersonId": "17989",
+                    "RecordID": "022-000004923",
+                    "Value": "Sansedoni,Alessandro,,"
+                }
+            ]
+        },
+        "Notes": "Another copy (1540), with woodcut illustrations but without mention of Academy, is British Library shelfmark G.9643.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17986",
+                    "RecordID": "022-000004920",
+                    "Value": "Cerretani,Aldobrando,,"
+                },
+                {
+                    "PersonId": "17981",
+                    "RecordID": "022-000004915",
+                    "Value": "Tolomei de Borghesi,Aurelia,,"
+                },
+                {
+                    "PersonId": "17982",
+                    "RecordID": "022-000004916",
+                    "Value": "Gonzaga,Giulia,,1513-1566"
+                },
+                {
+                    "PersonId": "17985",
+                    "RecordID": "022-000004919",
+                    "Value": "Petrucci,Giulia,,"
+                },
+                {
+                    "PersonId": "17983",
+                    "RecordID": "022-000004917",
+                    "Value": "Petrucci,Aurelia,,"
+                },
+                {
+                    "PersonId": "17984",
+                    "RecordID": "022-000004918",
+                    "Value": "Carli Piccolomini,Girolama,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17988",
+                "RecordID": "022-000004922",
+                "Value": "Valerio,Gio.,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Il primo libro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17989",
+                            "RecordID": "022-000004923",
+                            "Value": "Sansedoni,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il secondo libro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17990",
+                            "RecordID": "022-000004924",
+                            "Value": "de` Medici,Ippolito,Cardinal,1511 - 1535"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il terzo libro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17991",
+                            "RecordID": "022-000004925",
+                            "Value": "Borghesi,Bernardin,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il quarto libro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16500",
+                            "RecordID": "022-000003186",
+                            "Value": "Carli Piccolomini,Bartolomeo,,1503 - 1538/39"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il quinto libro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17986",
+                            "RecordID": "022-000004920",
+                            "Value": "Cerretani,Aldobrando,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

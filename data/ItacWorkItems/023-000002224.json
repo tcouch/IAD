@@ -1,0 +1,133 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002224",
+        "WorkId": "000288",
+        "ShortTitle": "Rime degli Academici Eterei",
+        "LongTitle": "Dedicate alla Serenissima Madama Margherita di Vallois duchessa di Savoia",
+        "ItacAcademyItem": {
+            "AcademyId": "0025",
+            "RecordID": "021-000002211",
+            "Value": "Accademia degli Eterei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1567",
+        "DedicationPlaceDate": "Padua, 1 January 1567",
+        "Shelfmark": "1143.ee.6",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|Mercury; Minerva; Eterei`s emblem",
+        "Pagination": "pp. 76r-v; plus 8 unnumbered",
+        "Marginalia": "No",
+        "Edition": "1st",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15688",
+                    "RecordID": "022-000002216",
+                    "Value": "Bonagente,Annibale,,"
+                },
+                {
+                    "PersonId": "15689",
+                    "RecordID": "022-000002217",
+                    "Value": "Pignatelli,Ascanio,,"
+                },
+                {
+                    "PersonId": "5146",
+                    "RecordID": "022-000000142",
+                    "Value": "Guarini,Battista,,1538-1612"
+                },
+                {
+                    "PersonId": "9012",
+                    "RecordID": "022-000001580",
+                    "Value": "Scaino,Ioachin,,1535-1600"
+                },
+                {
+                    "PersonId": "15692",
+                    "RecordID": "022-000002220",
+                    "Value": "Gradenigo,Luigi,,"
+                },
+                {
+                    "PersonId": "15693",
+                    "RecordID": "022-000002221",
+                    "Value": "Gabrielli,Pietro,,"
+                },
+                {
+                    "PersonId": "15694",
+                    "RecordID": "022-000002222",
+                    "Value": "Arlotti,Ridolfo,,-1613"
+                },
+                {
+                    "PersonId": "5139",
+                    "RecordID": "022-000000135",
+                    "Value": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593"
+                },
+                {
+                    "PersonId": "15695",
+                    "RecordID": "022-000002223",
+                    "Value": "Santini,Stefano,,"
+                },
+                {
+                    "PersonId": "15312",
+                    "RecordID": "022-000001352",
+                    "Value": "Tasso,Torquato,,1544-1595"
+                }
+            ]
+        },
+        "Notes": "In particular on Tasso`s sonnets, Antonio Daniele, `Il Tasso e l`Accademia degli Eterei`, in Capitoli tassiani (Padua, 1983 and 1998).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15687",
+                "RecordID": "022-000002215",
+                "Value": "Valois,Margherita,Duchess of Savoy,1523-1574"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "15715",
+                "RecordID": "022-000002246",
+                "Value": "Ghisi,Adamo,,ca.1530-ca.1585"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15714",
+                "RecordID": "022-000002245",
+                "Value": "da Trino,Comin ,,1539-1577"
+            }
+        },
+        "PrinterOrnament": "CNCE32",
+        "TitlePageImage": {
+            "ImageId": "52660",
+            "Value": "023-000002224_52660_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sonnets by: Annibale Bonagente; Ascanio Pignatelli; Battista Guarino; Giovanfrancesco Pusterla; Pietro Gabrielli; Ridolfo Arlotti; Scipione Gonzaga; Stefano Santini; Torquato Tasso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15688",
+                            "RecordID": "022-000002216"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dedicatory sonnet signed: `Academici Eterei`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15688",
+                            "RecordID": "022-000002216"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

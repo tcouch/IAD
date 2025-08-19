@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9244",
+        "RecordId": "022-000001540",
+        "Surname": "Cola",
+        "Forename": "Bruno",
+        "Gender": "Male",
+        "DateText": "1480-1542",
+        "StartDate": "1480",
+        "EndDate": "1542",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Role": "Contributor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

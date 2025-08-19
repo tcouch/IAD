@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0499",
+        "RecordId": "021-000008031",
+        "Name": "Renati (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1602?",
+        "EndDate": "?",
+        "DateText": "1602?-?",
+        "Notes": "One publication related to the Renati Academy, but not included in British Library collections, is: Gnavio, Caio, Forza d`amore comedia piacevole, & nuova, di Caio Gnavio di Samo dottore e cavaliere, recitata in Venetia da signori academici Renati, l`anno 1602 (In Venetia: appresso Antonio Turini, 1614) ALSO AVAILABLE AS: Appresso Giacomo Violati, with print ornament as a ship on the titlepage.",
+        "ItacPersonItem": {
+            "PersonId": "16420",
+            "RecordId": "022-000003086",
+            "Name": "Gnavio,Caio,,17thc.",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

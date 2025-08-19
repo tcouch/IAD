@@ -1,0 +1,151 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004883",
+        "WorkId": "000598",
+        "ShortTitle": "Sonetti",
+        "LongTitle": "di diversi accademici sanesi, raccolti dal molto illustre signor Gismondo Santi; e da lui dedicati All`Illustrissimo ed Eccellentissimo signor Il sig. Lorenzo Salviati Marchese di Giugliano, e Governator di Siena",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0029",
+                "RecordID": "021-000002361",
+                "Value": "Accademia Dei Filomati"
+            },
+            {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1608",
+        "Shelfmark": "11429.a.a.38",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "[10] 291 [58]",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9205",
+                    "RecordID": "022-000001502",
+                    "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+                },
+                {
+                    "PersonId": "17959",
+                    "RecordID": "022-000004884",
+                    "Value": "Beringhieri,Attilio,,"
+                },
+                {
+                    "PersonId": "16500",
+                    "RecordID": "022-000003186",
+                    "Value": "Carli Piccolomini,Bartolomeo,,1503 - 1538/39"
+                },
+                {
+                    "PersonId": "16863",
+                    "RecordID": "022-000003625",
+                    "Value": "Cittadini,Celso,,"
+                },
+                {
+                    "PersonId": "16464",
+                    "RecordID": "022-000003141",
+                    "Value": "Borghesi,Diomede,,1540 - 1598"
+                },
+                {
+                    "PersonId": "17960",
+                    "RecordID": "022-000004885",
+                    "Value": "Martini,Fortunio,,"
+                },
+                {
+                    "PersonId": "16886",
+                    "RecordID": "022-000003655",
+                    "Value": "Buoninsegni,Girolamo,,"
+                },
+                {
+                    "PersonId": "16896",
+                    "RecordID": "022-000003667",
+                    "Value": "Santi,Sigismondo,,"
+                },
+                {
+                    "PersonId": "16379",
+                    "RecordID": "022-000003045",
+                    "Value": "Ferretti,Giulio,,1480 - 1547"
+                },
+                {
+                    "PersonId": "17962",
+                    "RecordID": "022-000004887",
+                    "Value": "Benucci,Lattantio,,"
+                },
+                {
+                    "PersonId": "16387",
+                    "RecordID": "022-000003053",
+                    "Value": "Colombini,Leonardo,,"
+                },
+                {
+                    "PersonId": "17347",
+                    "RecordID": "022-000004175",
+                    "Value": "Bartolini,Marzio,,"
+                },
+                {
+                    "PersonId": "17964",
+                    "RecordID": "022-000004889",
+                    "Value": "Saracini,Sinolfo,Cavaliere Gerosolimitano,"
+                },
+                {
+                    "PersonId": "17965",
+                    "RecordID": "022-000004890",
+                    "Value": "Pinocci,Turno,,"
+                },
+                {
+                    "PersonId": "16874",
+                    "RecordID": "022-000003642",
+                    "Value": "Malavolti,Ubaldino,,"
+                },
+                {
+                    "PersonId": "17966",
+                    "RecordID": "022-000004891",
+                    "Value": "Il Venturi,,,"
+                },
+                {
+                    "PersonId": "17967",
+                    "RecordID": "022-000004892",
+                    "Value": "Grazini,Vergilio,,"
+                },
+                {
+                    "PersonId": "16252",
+                    "RecordID": "022-000002900",
+                    "Value": "Turamini,Virginio,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con licenza de` superiori.\nPROTESTA: sono sparse per questi sonetti molte maniere di parlare, che, leggendosi da chi non sappia, quali sono i Privilegi de` Poeti potrebbe agevolmente avvenire, che recassero scandolo, e molestia non lieve: il perche` dichiariamo, che nell`attribuire, a la Sorte, al Destino, al Fato, alla Fortuna, alcuna potenza; ed agli uomini la Divinita`, od altro, che solamente Dio, od all`anime beate si convenga, non si vuole intendere a sentimento, che alla santissima religione Cristiana in alcuna guisa contrasti: ma s`e` parlato per que` modi, percio` che l`uso del poetare ha ottenuta l`imitation dei poeti gentili per convenevole almeno: de` quali, a maggior chiarezza diciamo, essere stati gli autori di queste rime imitatori non del credere, ma del parlare.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17968",
+                "RecordID": "022-000004893",
+                "Value": "Salviati,Lorenzo,Marquis of Giuliano,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16896",
+                "RecordID": "022-000003667",
+                "Value": "Santi,Sigismondo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16860",
+                "RecordID": "022-000003621",
+                "Value": "Marchetti,Salvestro,,fl.1594 - 1603"
+            }
+        },
+        "PrinterOrnament": "V241 |Z1081",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

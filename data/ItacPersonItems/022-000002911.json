@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16263",
+        "RecordId": "022-000002911",
+        "Surname": "Molza",
+        "Forename": "Tarquinia",
+        "Gender": "Female",
+        "DateText": "1542-1617",
+        "StartDate": "1542",
+        "EndDate": "1617",
+        "Nationality": {
+            "NationalityId": "115",
+            "Value": "of Modena"
+        },
+        "Notes": "Member of the Innominati according to Virginia Cox, The Prodigious Muse, 2011",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

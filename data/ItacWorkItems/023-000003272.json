@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003272",
+        "WorkId": "000438",
+        "ShortTitle": "L`amor costante comedia",
+        "LongTitle": "del signor Stordito Intronato, composta per la venuta dell`Imperatore in Siena l`anno 1531. Nella qual comedia intervengono varii abbattimenti di diverse sorte d`armi et intrecciati, ogni cosa in tempi e misura di moresca, cosa bellissima.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1600",
+        "Shelfmark": "G.18120.(3.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "81r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16547",
+                "RecordID": "022-000003255",
+                "Value": "Arrivabene,Andrea,,1534 - 1570"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53427",
+            "Value": "023-000003272_53427_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

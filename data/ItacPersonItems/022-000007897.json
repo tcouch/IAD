@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20262",
+        "RecordId": "022-000007897",
+        "Surname": "Monaldi",
+        "Forename": "Michele",
+        "AlternativeName": {
+            "AlternativeForename": "Miho"
+        },
+        "DateText": "1540-1592",
+        "StartDate": "1540",
+        "EndDate": "1592",
+        "Nationality": {
+            "NationalityId": "365",
+            "Value": "of Ragusa (Dubrovnik)"
+        },
+        "Notes": "Founder of the Concordi in Ragusa",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

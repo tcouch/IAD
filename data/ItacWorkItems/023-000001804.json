@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001804",
+        "WorkId": "00119",
+        "ShortTitle": "Trasea peto overo origine della serenissima famiglia Zeno di Venetia",
+        "LongTitle": "del Conte Zabarella Nell`Academia de` Ricovrati di Padova L`Amiantato. Dove sotto brevit\u00e0 si ha cognitione di molte cose antiche et si scuopre l`origine di diverse fameglie nobili di Venetia et d`altre citt\u00e0 d`Italia. All`Illustrissimo et Eccellentissimo Sig. Renier Zeno March. Conte Cavalieret procurator de San Marco. Parte Prima",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1646",
+        "DedicationPlaceDate": "Padua 8 September 1646",
+        "Shelfmark": "9904.g.25.(2.)",
+        "Subjects": "Antiquities|Family history",
+        "Language": "Italian",
+        "Pagination": "pp. 126",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5190",
+                "RecordID": "022-000000184",
+                "Value": "Zabarella,Giacomo,Count (The Younger),1599 - 1679"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9198",
+                "RecordID": "022-000001782",
+                "Value": "Zeno,Renier,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9197",
+                "RecordID": "022-000001781",
+                "Value": "Crivellari,Giulio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53114",
+            "Value": "023-000001804_53114_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

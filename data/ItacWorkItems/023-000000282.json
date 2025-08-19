@@ -1,0 +1,338 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000282",
+        "WorkId": "00003",
+        "ShortTitle": "Prose dei sig[no]ri accademici Gelati di Bologna",
+        "LongTitle": "Distinte nei seguenti trattati. Colle loro imprese anteposte a\u2019 discorsi. Pubblicate sotto il principato accademico del sig[nor] conte Valerio Zani",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1671",
+        "DedicationPlaceDate": "Bologna 11 July 1670",
+        "Shelfmark": "Ac.8840/2",
+        "Subjects": "Science|Philosophy|Music|Astronomy|Tournament|Emblems|Coat of arms|Language|Politics|Theatre|Botany|Medicine|Astrology",
+        "Language": "Italian",
+        "Illustration": "Engraved flyleaf | Academy emblem | Engraved plates | Academicians` emblems | Woodcuts | Diagrams; illustrations of stars",
+        "Pagination": "pp. 432",
+        "Marginalia": "Yes",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5004",
+                    "RecordID": "022-000000006",
+                    "Value": "Caprara,Alberto,,1627 - 1691"
+                },
+                {
+                    "PersonId": "5014",
+                    "RecordID": "022-000000016",
+                    "Value": "Capponi,Giovambattista,,1620 - 1675"
+                },
+                {
+                    "PersonId": "5015",
+                    "RecordID": "022-000000017",
+                    "Value": "Gessi,Berlingiero (juniore),Senator,1613 - 1671"
+                },
+                {
+                    "PersonId": "5016",
+                    "RecordID": "022-000000018",
+                    "Value": "Bombaci,Gasparo,Count,1607-1676"
+                },
+                {
+                    "PersonId": "5017",
+                    "RecordID": "022-000000019",
+                    "Value": "Carmeni,Francesco,,fl. 1632 - 1671"
+                },
+                {
+                    "PersonId": "5019",
+                    "RecordID": "022-000000021",
+                    "Value": "Ber\u00f2,Ercolagostino,Count,1623-1696"
+                },
+                {
+                    "PersonId": "5020",
+                    "RecordID": "022-000000022",
+                    "Value": "Bonomi,Giovanfrancesco,,1626 - 1705"
+                },
+                {
+                    "PersonId": "5021",
+                    "RecordID": "022-000000023",
+                    "Value": "Fioravanti,Innocenzio Maria,,fl. 1665 - 1687"
+                },
+                {
+                    "PersonId": "5022",
+                    "RecordID": "022-000000024",
+                    "Value": "Montalbani,Ovidio,,1601 - 1671"
+                },
+                {
+                    "PersonId": "5024",
+                    "RecordID": "022-000000026",
+                    "Value": "Marsili,Antonio Felice,,1649 - 1710"
+                },
+                {
+                    "PersonId": "5025",
+                    "RecordID": "022-000000027",
+                    "Value": "Sanuti Pellicani,Giovan Battista,,"
+                },
+                {
+                    "PersonId": "5026",
+                    "RecordID": "022-000000028",
+                    "Value": "Desideri,Girolamo,,fl. 1655 - 1692"
+                },
+                {
+                    "PersonId": "5027",
+                    "RecordID": "022-000000029",
+                    "Value": "Guastavillani,Angelo Michele,Senator,1633 - 1701"
+                },
+                {
+                    "PersonId": "5028",
+                    "RecordID": "022-000000030",
+                    "Value": "Montanari,Geminiano,,1633 - 1687"
+                },
+                {
+                    "PersonId": "5008",
+                    "RecordID": "022-000000010",
+                    "Value": "Barbieri,Alessandro,,"
+                }
+            ]
+        },
+        "Notes": "Reviewed in the Philosophical Transactions of the Royal society the following year with particular attention to Montanari`s essay. Bombaci`s essay is a shorter version of a previously published work L`Araldo, (Bologna, Ferroni, 1645 and 1651).",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5223",
+                    "RecordID": "022-000000214",
+                    "Value": "Cribellus,Ioseph,,"
+                },
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal|Archibishop of Bologna,1622 - 1684"
+                },
+                {
+                    "PersonId": "5228",
+                    "RecordID": "022-000000220",
+                    "Value": "Terra Rubea,Vitalis,,"
+                },
+                {
+                    "PersonId": "5229",
+                    "RecordID": "022-000000221",
+                    "Value": "Gherardus de Diano,Marcellus,Vic. gener. S. Officij Bononiae,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit Ioseph Cribellus ex Clericis Regularis Cong. S. Pauli Poenitent. In Metropolitana Bononien. Pro Eminentissimo ac reuerendis[simo] D. Hieronymo Boncompagno Archiep. Bonon. & Principe | Vidit pro Reverendis[simo] P. Inquisitore Bononiae D. Vitalis Terra Rubea a Parma Prior Casaniensis S. T. D. Publicus Lector et S. Officii Consultor | Imprimatur | Fr. Marcellus Gherardus de Diano Sac. Theol. Magister Vic. Gen. S. Officii Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5191",
+                "RecordID": "022-000000185",
+                "Value": "Zani,Valerio,Count, - 1696"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5014",
+                "RecordID": "022-000000016",
+                "Value": "Capponi,Giovambattista,,1620 - 1675"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "5119",
+                "RecordID": "022-000000115",
+                "Value": "Carracci,Agostino,,1557-1602"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5194",
+                "RecordID": "022-000000188",
+                "Value": "Tintus,Lauren,,1626-1700"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5245",
+                "RecordID": "022-000000237",
+                "Value": "Manolessi,,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "53109",
+            "Value": "023-000000282_53109_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Che lo studio della filosofia morale \u00e8 bastante a purgar gl`animi humani dalle passioni et affetti disordinati et ad introdur in essi l`Amore della Virt\u00f9 e della Gloria. Introduzione alle lezioni morali da leggersi in idioma italiano sul pubblico studio dell`Universit\u00e0 di Bologna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5004",
+                            "RecordID": "022-000000006",
+                            "Value": "Caprara, Alberto, , 1627-1691"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Introduzione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5014",
+                            "RecordID": "022-000000016",
+                            "Value": "Capponi, Giovambattista , , 1620-1675"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il marmo augustale. Discorso in cui dichiarandosi un`antica iscrizione si ragiona copiosamente delle terme bagni essercizi e giuochi degli antichi romani",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5014",
+                            "RecordID": "022-000000016",
+                            "Value": "Capponi, Giovambattista , , 1620-1675"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il giuoco dei cavalieri. Discorso sopra le giostre ed i tornei",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5015",
+                            "RecordID": "022-000000017",
+                            "Value": "Gessi,Berlingiero (juniore), Senator, 1613-1671"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ristretto trattato dell`arme delle famiglie intitolato L`Araldo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5016",
+                            "RecordID": "022-000000018",
+                            "Value": "Bombaci, Gasparo, Count, 1607-1676"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell`imprese accademiche lettera discorsiva",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5017",
+                            "RecordID": "022-000000019",
+                            "Value": "Carmeni, Francesco, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Cagioni fisiche degli effetti simpatici ed antipatici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5019",
+                            "RecordID": "022-000000021",
+                            "Value": "Ber\u00f2, Ercolagostino, Count, 1623-1696"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Che ogni scrittore illustrar dee l`idioma nativo et anche arricchirlo talora con alcune forme giudiciosamente portate dal latino",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Della tragedia. Discorso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5021",
+                            "RecordID": "022-000000023",
+                            "Value": "Fioravanti, Innocenzio Maria, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell`isopo di Salomone. Discorso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5022",
+                            "RecordID": "022-000000024",
+                            "Value": "Montalbani,Ovidio, , c. 1600"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Delle sette de` filosofi e del genio di filosofare. Discorso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5024",
+                            "RecordID": "022-000000026",
+                            "Value": "Marsili , Antonio Felice, , 1649-1710"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Perch\u00e9 nella cantilene si adopri la quinta diminuita e la quarta superflua; come altres\u00ec per quale cagione si rigetti ogni sorte d`intervallo o sia superfluo o sia diminuito dall`Ottava. Pensiero accademico",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5025",
+                            "RecordID": "022-000000027",
+                            "Value": "Sanuti Pellicani, Giovan Battista, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Della musica. Discorso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5026",
+                            "RecordID": "022-000000028",
+                            "Value": "Desideri, Girolamo, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del mettere in carta opinioni cavalleresche",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5027",
+                            "RecordID": "022-000000029",
+                            "Value": "Guastavillani, Angelo Michele, Senator,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dedication to Valerio Zani followed by Sopra la sparizione d`alcune stelle et altre novit\u00e0 celesti. Discorso astronomico",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5028",
+                            "RecordID": "022-000000030",
+                            "Value": "Montanari, Geminiano, , 1633-1687"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La politica e la ragion di stato unitamente con istorici tratti abbozzate. Discorso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5008",
+                            "RecordID": "022-000000010",
+                            "Value": "Barbieri,Alessandro,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

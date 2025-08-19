@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007667",
+        "WorkId": "000863",
+        "ShortTitle": "Dell`anello fisico overo Del ristretto dell`Arte medica",
+        "LongTitle": "di Francesco Pona cav. Tradottione & Ampliatione di Carlo Pona Academico Incognito Veneto. Dedicata all`Illustriss. & Eccellentiss. Sig. Alvise Morosini Podesta` di Verona",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Accademia degli Incogniti (Venezia)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "64",
+            "PublicationPlaceItalianName": "Verona",
+            "PublicationPlaceEnglishName": "Verona",
+            "PublicationPlaceLatinName": "Veronae"
+        },
+        "PublicationYear": "1641",
+        "DedicationPlaceDate": "Verona 30 Agosto 1641",
+        "Shelfmark": "788c31",
+        "Subjects": "Medicine|Translation|Mythology",
+        "Language": "Italian",
+        "Pagination": "259 [5]",
+        "Marginalia": "No",
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "20153",
+                "RecordID": "022-000007668",
+                "Value": "de` Rossi,Francesco,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20155",
+                    "RecordID": "022-000007670",
+                    "Value": "Dulcetus,Petrus Maria,Inquisitor of Verona,"
+                },
+                {
+                    "PersonId": "20156",
+                    "RecordID": "022-000007671",
+                    "Value": "Nani,Zuanne,,"
+                },
+                {
+                    "PersonId": "20157",
+                    "RecordID": "022-000007672",
+                    "Value": "Breatto,Marco Antonio,,"
+                },
+                {
+                    "PersonId": "20158",
+                    "RecordID": "022-000007673",
+                    "Value": "Querini,Alvise,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur die 8 Octob. 1640. Fr Petrus Maria Dulcetus Magister Inquisitor Veronae.Noi Riformatori Dello studio di Padova. Havendo veduto per fede del Reverendissimo Padre Inquisitor di Verona che nel libro intitolato Dell`Anello fisico... non si trova cosa alcuna contraria alla Santa Fede Cattolica, e medesimamente per per attestation del Segretario nostro che non vi si trova cosa alcuna contra Principi, et buoni costumi, concedemo la licenza che sia stampato: dovendosi osservar quanto per legge in proposito di stampe; ne` sia venduto se prima non sara` presentato anco nella Libraria publica giusta la parte del Senato de 2 Dicembre 1622. In quor. fid. & c. Dat. a 28 Ottobre 1640 -- Zuanne Nani Cav. Proc. Ref. 1640 di 31 Ottobre -- Imprimatur Excellentiss. Magistr. contra Blasph. Secr. Marcus Antonius Breatus. Alvise Querini Segretario",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20152",
+                "RecordID": "022-000007666",
+                "Value": "Merlo,Bartolomeo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55208",
+            "Value": "023-000007667_55208_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

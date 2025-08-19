@@ -1,0 +1,90 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007830",
+        "WorkId": "000875",
+        "ShortTitle": "Lettere memorabili istoriche politiche ed erudite",
+        "LongTitle": "Scritte e raccolte da Antonio Bulifon e dedicate All`Illustrissimo et Eccellentissimo D. Marino Francesco Maria Caracciolo principe dell`Avellino, Duca dell`Attipalda e Gran Cancelliere del Regno di Napoli. Raccolta seconda",
+        "ItacAcademyItem": {
+            "AcademyId": "0443",
+            "RecordID": "021-000007808",
+            "Value": "Accademia Sarottiana"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1697",
+        "Shelfmark": "1085c15-18",
+        "Subjects": "Letters|Academic lessons",
+        "Language": "Italian",
+        "Pagination": "374",
+        "Marginalia": "No",
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "5260",
+                "RecordID": "022-000000251",
+                "Value": "Bulifon,Antonio,,1649-c. 1700"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "17672",
+                "RecordID": "022-000004567",
+                "Value": "Siliq.,Jo. And,Vicar General,"
+            }
+        },
+        "CensorsAgreement": "Reimprimatur neap. 18 Maii 1696. Io: A. Siliquinus Vic. Gen. D. Januarius de Auria Can Dep. --- Reimprimatur die 28 mensis Maii 1696 Andreas R. --- Montecorvinus",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17439",
+                "RecordID": "022-000004297",
+                "Value": "Caracciolo,Marino,Duke of Atripalda,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5260",
+                "RecordID": "022-000000251",
+                "Value": "Bulifon,Antonio,,1649-c. 1700"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Del Signor Vincenzo Santini all'ecc. signor Principe di Belvedere D. Francesco Carafa, mandandogli due Discorsi Accademici, fatti dal Signor Luc'Antonio Porzio intorno alla respirazione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16146",
+                            "RecordID": "022-000002759",
+                            "Value": "Porzio,Luca Antonio,,1639-1724"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Perche' il fanciullo appena venuto alla luce abbia necessita' di respirare aria sempre rinovata, di cui nell'utero non avea necessita'",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16146",
+                            "RecordID": "022-000002759",
+                            "Value": "Porzio,Luca Antonio,,1639-1724"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dello stesso al medesimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16146",
+                            "RecordID": "022-000002759",
+                            "Value": "Porzio,Luca Antonio,,1639-1724"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

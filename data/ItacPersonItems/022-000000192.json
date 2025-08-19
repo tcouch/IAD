@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5198",
+        "RecordId": "022-000000192",
+        "Surname": "Clouet",
+        "Forename": "Albert",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Clouwet",
+                "AlternativeForename": "A."
+            },
+            {
+                "AlternativeSurname": "Clowet"
+            }
+        ],
+        "DateText": "1636-1679",
+        "StartDate": "1636",
+        "EndDate": "1679",
+        "Nationality": {
+            "NationalityId": "67",
+            "Value": "Dutch"
+        },
+        "Notes": "Clouet is the engraver of the Intrecciati`s emblem. According to the entry dedicated to him on Wikipedia, Clouet was member of the bentvueghels, and had the `bentname` Zandzak. According to the specifcic entry on Wikipedia, `the Bentvueghels (Dutch for \"Birds of a Feather\") were a society of mostly Dutch and Flemish artists active in Rome from about 1620 to 1720. They are also known as the Schildersbent (\"painters` clique\").`",
+        "Role": "Artist|Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007222",
+        "WorkId": "000818",
+        "ShortTitle": "Historia del Regno di Negroponte",
+        "LongTitle": "e sue isole adiacenti. Dedicate all`illustrissimo et eccellentissimo Signor Girolamo Ascanio Giustiniano. Savio grande & c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0143",
+            "RecordID": "021-000006183",
+            "Value": "Accademia degli Argonauti"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1695",
+        "Shelfmark": "10125a24",
+        "Subjects": "Geography|History",
+        "Language": "Italian",
+        "Pagination": "[30] 363 [6]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19029",
+                "RecordID": "022-000006145",
+                "Value": "Coronelli,Vincenzo,,1650 - 1718"
+            }
+        },
+        "Notes": "In the dedication to the reader, the author specifies that this is the second tome of the `Arcipelago`. Also, the author discusses problems related to the transcription of Greek names of places. Here are shown the title page and one image from the volume.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19797",
+                "RecordID": "022-000007229",
+                "Value": "Giustinian,Girolamo Ascanio,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19029",
+                "RecordID": "022-000006145",
+                "Value": "Coronelli,Vincenzo,,1650 - 1718"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16237",
+                "RecordID": "022-000002881",
+                "Value": "Accademia degli Argonauti,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55051",
+            "Value": "023-000007222_55051_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55052",
+            "Value": "023-000007222_55052_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Impresa dell'Accademia Cosmografica degli Argonauti Desuna dalla Nave d'Argo, sortita dal Golfo Iolciaco, hoggi detto del Volo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19029",
+                            "RecordID": "022-000006145",
+                            "Value": "Coronelli,Vincenzo,,1650 - 1718"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Catalogo degli associati all'Accademia degli Argonauti, registrati secondo l'ordine del loro ingresso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19029",
+                            "RecordID": "022-000006145",
+                            "Value": "Coronelli,Vincenzo,,1650 - 1718"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Compromesso per la distributione dei globi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19029",
+                            "RecordID": "022-000006145",
+                            "Value": "Coronelli,Vincenzo,,1650 - 1718"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

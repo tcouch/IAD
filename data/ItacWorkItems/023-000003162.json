@@ -1,0 +1,60 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003162",
+        "WorkId": "000405",
+        "ShortTitle": "Il secondo volume delle rime scelte da diversi autori",
+        "LongTitle": "di nuovo corrette, et ristampate.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1587",
+        "Shelfmark": "11422.a.12",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "[46] 671",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16451",
+                "RecordID": "022-000003128",
+                "Value": "Cinuzzi,Marcantonio,,"
+            }
+        },
+        "Notes": "Marcantonio Cinuzzi signs a series of sonnets as Scacciato Intronato.",
+        "CensorsAgreement": "Con privilegio",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16484",
+                "RecordID": "022-000003163",
+                "Value": "I Gioliti,Giovanni and Giovanni Paolo,,fl. 1585 - 1590"
+            }
+        },
+        "PrinterOrnament": "U11",
+        "TitlePageImage": {
+            "ImageId": "53399",
+            "Value": "023-000003162_53399_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Various poems, pages 119-142",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16451",
+                        "RecordID": "022-000003128",
+                        "Value": "Cinuzzi,Marcantonio,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

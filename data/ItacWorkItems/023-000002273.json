@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002273",
+        "WorkId": "000298",
+        "ShortTitle": "Le coronationi di Polonia et di Francia",
+        "LongTitle": "del Christianiss(imo) Re Enrico III. Con le attioni, et successi de` suoi viaggi. Descritte in dieci giornate da M. Pietro Buccio. Primo volume",
+        "ItacAcademyItem": {
+            "AcademyId": "0026",
+            "RecordID": "021-000002259",
+            "Value": "Accademia degli Animosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1576",
+        "DedicationPlaceDate": "Padua 1 February 1576",
+        "Shelfmark": "9904.f.17.(1.)",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 218r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15734",
+                "RecordID": "022-000002274",
+                "Value": "Buccio,Pietro,,"
+            }
+        },
+        "Notes": "Mentions the Academy at p. 132.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15735",
+                "RecordID": "022-000002275",
+                "Value": "de` Medici,Caterina,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9635",
+                "RecordID": "022-000001682",
+                "Value": "Pasquati,Lorenzo,,fl. 1561-1624"
+            }
+        },
+        "PrinterOrnament": "CNCE11",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

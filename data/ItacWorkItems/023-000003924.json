@@ -1,0 +1,82 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003924",
+        "WorkId": "000516",
+        "ShortTitle": "Medicina ????????,",
+        "LongTitle": "Quae hacten\u00f9s advers\u00f9s Morbos adinventa sunt, luculenter & brevissim\u00e8 explicans.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0060",
+                "RecordID": "021-000003723",
+                "Value": "Accademia dei Discordanti"
+            },
+            {
+                "AcademyId": "0043",
+                "RecordID": "021-000002758",
+                "Value": "Accademia De Gli Investiganti"
+            }
+        ],
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1697",
+        "DedicationPlaceDate": "Naples 7 October 1686",
+        "Shelfmark": "545.b.21.",
+        "Subjects": "Medicine|Science",
+        "Language": "Latin|Greek",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 596",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16938",
+                "RecordID": "022-000003724",
+                "Value": "Tozzi ,Luca ,,1638 - 1717"
+            }
+        },
+        "Notes": "In the preface, the author mentions Francesco D`Andrea and the controversy over Galen`s theories aroused  between the Investiganti Academy and the Discordanti Academy in Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5399",
+                    "RecordID": "022-000000409",
+                    "Value": "Boncompagni,Giacomo,Archibishop of Bologna,1652 - 1731"
+                },
+                {
+                    "PersonId": "17158",
+                    "RecordID": "022-000003965",
+                    "Value": "Sbaraleus,Hieronymus,,"
+                },
+                {
+                    "PersonId": "17157",
+                    "RecordID": "022-000003964",
+                    "Value": "Barelli,Franciscus Aloysius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Franciscus Aloysius Barelli Cler. Reg. Cong. S. Pauli, & in Metrop. Bononien. Poenit. pro Eminentiss. & Reverendiss. Domino D. Jacobo Boncompagno Archiepiscopo, & Principe.\nDie 2. Aprilis 1697.\nDe mandato P. Reverendiss. Inquisitoris Bonomiae, vidi, & attente legi Praeclarissimi Viri Lucae Tozzi Medicinam practicam, & nihil inveni, quod impressionem de novo impediat.\nIo: Hieronymus Sbaraleus Mediciane Doctor, & Lector Publicus.\nStante praedicta attestatione\nImprimatur Iterum\nFr. P. G. Ordinis Praedicatorum Vicarius Sancti Officii Bonomiae.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17159",
+                "RecordID": "022-000003966",
+                "Value": "Bertuccio,Basilio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17156",
+                "RecordID": "022-000003963",
+                "Value": "Longi ,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53962",
+            "Value": "023-000003924_53962_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

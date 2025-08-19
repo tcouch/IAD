@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002269",
+        "WorkId": "000297",
+        "ShortTitle": "Alexandri Carerii Patavini Iuris Utriusque Doctoris Peripateticae Sacraeque Sapientiae studiosi",
+        "LongTitle": "De somnis deque Divinatione per somnia brevis Consideratio. Ad Reverendissimus Ascanium Marchesinum Episcopum Maiorensem Dominum et patronum colendiss[imum]",
+        "ItacAcademyItem": {
+            "AcademyId": "0026",
+            "RecordID": "021-000002259",
+            "Value": "Accademia degli Animosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1575",
+        "Shelfmark": "719.g.37",
+        "Subjects": "Dreams|Philosophy|Aristotelianism|Hermeticism",
+        "Language": "Latin",
+        "Pagination": "pp. 15r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15726",
+                "RecordID": "022-000002263",
+                "Value": "Carriero,Alessandro,,1546-1626"
+            }
+        },
+        "Notes": "According to Tomasini, `Elogia`, p. 363, Carriero delivered this lesson at the Accademia degli Animosi. This is confirmed in the Dedication. According to Olivieri Secchi, `Carriero, Alessandro`, in DBI, in this publication the author attempts a reconciliation between the Aristotelian interpretation of dreams, and theologians` teachings. Thus, dreams are sent to selected human beings by God, through nature. This went against Plato`s and Avicenna`s theory, according to which dreams are innate.",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "15743",
+                "RecordID": "022-000002286",
+                "Value": "Manentus Gabianus,Bonaventura,,"
+            }
+        },
+        "CensorsAgreement": "Fr. Bonaventura Manentus Gabianus Vic. Rever. P. Inquisitoris Paduae vidit et fidem facit nihil contineri contra fidem, contra principes aut contra bonos mores, et permittit impressioni dari.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15736",
+                "RecordID": "022-000002276",
+                "Value": "Marchesinus,Ascanius,Bishop,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9635",
+                "RecordID": "022-000001682",
+                "Value": "Pasquati,Lorenzo,,fl. 1561-1624"
+            }
+        },
+        "PrinterOrnament": "CNCE9514",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

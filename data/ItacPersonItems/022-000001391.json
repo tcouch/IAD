@@ -1,0 +1,26 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15352",
+        "RecordId": "022-000001391",
+        "Surname": "Carnoli",
+        "Forename": "Luigi",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Cornolo",
+            "AlternativeForename": "Aloysio"
+        },
+        "PersonalTitle": "Jesuit",
+        "Pseudonym": "Vigilio Nolarci|Marino Ventura",
+        "DateText": "17th C.",
+        "StartDate": "17th C.",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Carnoli is also known to have written an oration celebrating the foundation of the Accademia degli Accesi in Mantua titled Oratio in erectione Academiae Accensorum Mantuae (Bologna: Benatii, 1655). Mention of this publication is found in Martin Lipenius`s Biblioteca realis philosophica (Frankfort, 1682), Melzi`s Dizionario and Maylender`s Storia.",
+        "Role": "Author",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003376",
+        "WorkId": "000446",
+        "ShortTitle": "Trattato della nobilta` della pittura",
+        "LongTitle": "Composto ad instantia della venerabile compagnia di S. Luca, et nobil` Accademia delli pittori di Roma. Da Romano Alberti della citta` del Borgo S. Sepolcro.",
+        "ItacAcademyItem": {
+            "AcademyId": "0159",
+            "RecordID": "021-000006516",
+            "Value": "Accademia di San Luca"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1585",
+        "Shelfmark": "58g21",
+        "Subjects": "Painting",
+        "Language": "Italian",
+        "Pagination": "54",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15380",
+                "RecordID": "022-000001873",
+                "Value": "Alberti,Romano,,fl.1580-1604"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15387",
+                "RecordID": "022-000001884",
+                "Value": "Gesualdo,Alfonso,Cardinal,1540-1603"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15399",
+                "RecordID": "022-000001901",
+                "Value": "Zannetti,Francesco,,1530-1591"
+            }
+        },
+        "PrinterOrnament": "U135",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16786",
+        "RecordId": "022-000003522",
+        "Surname": "d`Angiolo Pasquini",
+        "Forename": "Giovan Battista",
+        "Gender": "Male",
+        "DateText": "fl.1552-1561",
+        "StartDate": "fl.1552",
+        "EndDate": "1561",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Joined the Rozzi in 1552",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

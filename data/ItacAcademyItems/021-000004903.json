@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0099",
+        "RecordId": "021-000004903",
+        "Name": "Assicurate (Accademia delle)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "The oak tree",
+        "Motto": "qui ne difende e qui ne illustra l`ombra",
+        "StartDate": "1654",
+        "EndDate": "1710/20",
+        "DateText": "1654-1710/20",
+        "ItacPersonItem": {
+            "PersonId": "20220",
+            "RecordId": "022-000007771",
+            "Name": "della Rovere Medici,Vittoria,Grand Duchess of Tuscany,1621-?",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

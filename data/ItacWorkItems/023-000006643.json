@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006643",
+        "WorkId": "000790",
+        "ShortTitle": "Discorso Accademico Sopra Un`antica Iscrizione",
+        "LongTitle": "Trovata nel Teatro della Citt\u00e0 di Catania, recitato nell`adunanza de` Pastori Etnei dal Principe di Biscari, Fondatore, e Protettore della medesima.",
+        "ItacAcademyItem": {
+            "AcademyId": "0164",
+            "RecordID": "021-000006597",
+            "Value": "Accademia degli Etnei"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "105",
+            "PublicationPlaceItalianName": "Catania",
+            "PublicationPlaceEnglishName": "Catania",
+            "PublicationPlaceLatinName": "Catana"
+        },
+        "PublicationYear": "1771",
+        "Shelfmark": "663.i.6.(3.)",
+        "Subjects": "Antiquarianism",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 112",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19411",
+                "RecordID": "022-000006618",
+                "Value": "Patern\u00f2 Castello,Ignazio ,Prince,1719 - 1786"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19429",
+                "RecordID": "022-000006644",
+                "Value": "Fogliani D`Aragona,Giovanni,Viceroy of Sicily|Marquis,1697 - 1780"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19430",
+                "RecordID": "022-000006645",
+                "Value": "Stamperia del Vescovil Seminario,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54901",
+            "Value": "023-000006643_54901_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

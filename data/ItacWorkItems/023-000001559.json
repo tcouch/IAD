@@ -1,0 +1,94 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001559",
+        "WorkId": "00101",
+        "ShortTitle": "Medici enchiridion",
+        "LongTitle": "ad quotidianam medendi exercitationem ex Galeno excerptum. Ioanne Baptista Goynoeo Pyrrhanensi Academico Inflammato authore. Ad Ioannem Antonium apollonium concivem suum",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1545",
+        "Shelfmark": "540.c.22",
+        "Subjects": "Geography|Medicine|Philosophy|Linguistics|Poetry",
+        "Language": "Latin",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9233",
+                "RecordID": "022-000001529",
+                "Value": "Goynoeo,Giovanni Battista,,ca. 1520-1582"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9234",
+                    "RecordID": "022-000001530",
+                    "Value": "Benellius,Franciscus,,"
+                },
+                {
+                    "PersonId": "9235",
+                    "RecordID": "022-000001531",
+                    "Value": "Delbinus,Cornelius,,"
+                }
+            ]
+        },
+        "Notes": "On the author and the book see S. Cavazza in DBI vol. 57 (2001). See also Varchi`s comments in Ercolano. According to Vianello published around 1541",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9233",
+                    "RecordID": "022-000001529",
+                    "Value": "Goynoeo,Giovanni Battista,,ca. 1520-1582"
+                },
+                {
+                    "PersonId": "9236",
+                    "RecordID": "022-000001532",
+                    "Value": "Apollonium,Ioanne Antonius,,"
+                },
+                {
+                    "PersonId": "9237",
+                    "RecordID": "022-000001533",
+                    "Value": "Ianuam,M. Antonium,,"
+                },
+                {
+                    "PersonId": "9238",
+                    "RecordID": "022-000001534",
+                    "Value": "Frizimelicam,Franciscum,,"
+                },
+                {
+                    "PersonId": "9239",
+                    "RecordID": "022-000001535",
+                    "Value": "Rossignalum,Nicolaum,,"
+                },
+                {
+                    "PersonId": "9240",
+                    "RecordID": "022-000001536",
+                    "Value": "Arlenium Peraxylum,Arnoldum,,"
+                }
+            ]
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "De situ istriae ad Pyrrhanensium adolescentium Academiam liber unus",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9233",
+                        "RecordID": "022-000001529",
+                        "Value": "Goynoeo , Giovanni Battista , , ca. 1520-1582"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

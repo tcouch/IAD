@@ -1,0 +1,44 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001993",
+        "WorkId": "000283",
+        "ShortTitle": "Bernardini Scardeonii canonici patavini",
+        "LongTitle": "De antiquitate urbis Patavii, et claris civibus Patavinis, libri tres, in quindecim classes distincti. Eiusdem Appendix De Sepulchris insignibus exterorum patavii iacentium",
+        "ItacAcademyItem": {
+            "AcademyId": "0024",
+            "RecordID": "021-000001981",
+            "Value": "Accademia degli Elevati"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "59",
+            "PublicationPlaceItalianName": "Basilea",
+            "PublicationPlaceEnglishName": "Basel",
+            "PublicationPlaceLatinName": "Basileae"
+        },
+        "PublicationYear": "1560",
+        "Shelfmark": "796.ff.4",
+        "Subjects": "Antiquities",
+        "Language": "Latin",
+        "Pagination": "pp. 452",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15472",
+                "RecordID": "022-000001996",
+                "Value": "Scardeone,Bernardino,,1482-1574"
+            }
+        },
+        "Notes": "At p. 260: `Audio enim nunc in nova Elevatorum Academia hic Patavii` et c.",
+        "CensorsAgreement": "Cum gratia et privilegio Caesareo ad annos sex: et Regis Galliarum, ad annos totidem.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15471",
+                "RecordID": "022-000001995",
+                "Value": "Episcopum,Nicolaum Iuniorem,,"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

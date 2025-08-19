@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001443",
+        "WorkId": "00171",
+        "ShortTitle": "I felici Infortuni",
+        "LongTitle": "Comedia Del Signor Ottavio Argentino Di Taranto.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1622",
+        "DedicationPlaceDate": "Taranto 1 January 1622.",
+        "Shelfmark": "11714.a.47.",
+        "Content": "Play",
+        "Subjects": "Play",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraving | A crown",
+        "Pagination": "pp. 189",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15322",
+                "RecordID": "022-000001361",
+                "Value": "Argentino,Ottavio,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15317",
+                "RecordID": "022-000001356",
+                "Value": "Incerto,Anonymous author,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9657",
+                "RecordID": "022-000001826",
+                "Value": "Deuchino,Evangelista,,c. 1580-c. 1630"
+            }
+        },
+        "Notes": "This book contains ms notes in Latin and Italian. On the penultimate page a ms note says `Ego Ioannes Laurentius Longo sum Dominus de hac comedia`.",
+        "CensorsAgreement": "Col Licenza de` Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15324",
+                "RecordID": "022-000001363",
+                "Value": "Caracciolo,Marc`Antonio,Marquis of Mottola,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Dell`Incolto Accademico Ozioso All`Autore.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15317",
+                            "RecordID": "022-000001356",
+                            "Value": "Incerto, Anonymous author, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dello Stesso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15317",
+                            "RecordID": "022-000001356",
+                            "Value": "Incerto, Anonymous author, ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

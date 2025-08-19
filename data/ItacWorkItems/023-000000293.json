@@ -1,0 +1,63 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000293",
+        "WorkId": "00014",
+        "ShortTitle": "Filarmindo favola pastorale",
+        "LongTitle": "del signor Conte Ridolfo Campeggi in questa quinta impressione arricchita con L`Aurora Ingannata favoletta per gli intermedii in musica",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1613",
+        "Shelfmark": "1063.a.11(3)",
+        "Subjects": "Pastoral tale",
+        "Language": "Italian",
+        "Pagination": "pp. 178",
+        "Marginalia": "No",
+        "Edition": "5th \"impressione\"",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5039",
+                "RecordID": "022-000000041",
+                "Value": "Campeggi,Ridolfo,Count,1565-1624"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "5254",
+                "RecordID": "022-000000245",
+                "Value": "Perlasca,Simone,,"
+            }
+        },
+        "Notes": "On the copy 1063.a.11.(3.): `In Bologna ad instanza di Simone Perlaschi`. In the colophon the name of the printer: `In Bologna per Bartolomeo Cochi`. No mention of Campeggi belonging to the Academy. However Aurora Ingannata was represented in Melchiorre Zoppio`s house, venue of the Academia dei Gelati, on the occasion of the wedding of Ferdinando Riario`s and Laura Pepoli. Calore, `la biblioteca drammatica`, p. 66 suggests that the poem was composed by Girolamo Campeggi (l`Imperfetto), and the music by Giacobbi. Engraver/Illustrator is a mongram in the title page: CB?",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "5401",
+                "RecordID": "022-000000222",
+                "Value": "Baldassinus,Marcellus,,"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` superiori.\nDon Marcellus Baldassinus Clericus Regularis S. Pauli pro Illustrissimo, et Reverendissimo Archiepiscopo Bonon. \nIterum imprimatur. Vicarius Inquisit. Bonon.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5253",
+                "RecordID": "022-000000244",
+                "Value": "Cochi,Bartolomeo,,\u20201621"
+            }
+        },
+        "PrinterOrnament": "Yes; in the titlepage engraved plate with monogram CB",
+        "TitlePageImage": {
+            "ImageId": "52703",
+            "Value": "023-000000293_52703_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

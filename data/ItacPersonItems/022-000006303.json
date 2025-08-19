@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19159",
+        "RecordId": "022-000006303",
+        "Surname": "Demisiani",
+        "Forename": "Ioannis",
+        "Gender": "Male",
+        "DateText": "1576-1614",
+        "StartDate": "1576",
+        "EndDate": "1614",
+        "Nationality": {
+            "NationalityId": "66",
+            "Value": "Greek"
+        },
+        "Notes": "Theologian, from Kephalonia.In 1612 joined the Lincei, where he was censor of the Academy",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

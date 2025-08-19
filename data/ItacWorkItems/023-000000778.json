@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000778",
+        "WorkId": "00051",
+        "ShortTitle": "La quadriga del Sole",
+        "LongTitle": "Impresa dell`Accademia degli Indomiti dichiarata e lodata. Discorso dello Stellato Indomito Ovidio Montalbani. Havuto publicamente nell`istessa Accademia il di 7 Dicembre 1645. All`eminentissimo et Reverendissimo Cardinal Giulio Sacchetti protettore",
+        "ItacAcademyItem": {
+            "AcademyId": "0010",
+            "RecordID": "021-000000767",
+            "Value": "Accademia degli Indomiti"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1646",
+        "DedicationPlaceDate": "11 January 1646",
+        "Shelfmark": "176.a.28",
+        "Subjects": "Emblems",
+        "Illustration": "Engraved flyleaf | Portrait of the dedicatee |  | Academy emblem/motto",
+        "Pagination": "pp. 25",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5022",
+                "RecordID": "022-000000024",
+                "Value": "Montalbanus,Ovidius,,ca. 1600"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5201",
+                "RecordID": "022-000000195",
+                "Value": "Sacchetti,Giulio Cesare,Cardinal,1586-1663"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52746",
+            "Value": "023-000000778_52746_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

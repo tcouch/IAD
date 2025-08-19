@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20260",
+        "RecordId": "022-000007888",
+        "Surname": "Cillenio",
+        "Forename": "Raffaele",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Cyllenius",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Cyllenius Angelus",
+                "AlternativeForename": "Raphael"
+            }
+        ],
+        "DateText": "?-1595",
+        "StartDate": "?",
+        "EndDate": "1595",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Professor of Greek and Latin in Vicenza, Venice, and Udine",
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

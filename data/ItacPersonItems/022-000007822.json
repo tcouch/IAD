@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20240",
+        "RecordId": "022-000007822",
+        "Surname": "Salafia",
+        "Forename": "Francesco",
+        "PersonalTitle": "Dominican friar",
+        "DateText": "1593-1662",
+        "StartDate": "1593",
+        "EndDate": "1662",
+        "Nationality": {
+            "NationalityId": "272",
+            "Value": "of Syracuse"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, p. 238 (BL Shelfmark:610.m.10.)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

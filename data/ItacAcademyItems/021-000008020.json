@@ -1,0 +1,23 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0488",
+        "RecordId": "021-000008020",
+        "Name": "Parteni (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "Notes": "Information on this Academy can be found in Gianluigi Betti`s biography of Giovambattista Capponi, in L`Archiginnasio, 2006.",
+        "ItacPersonItem": {
+            "PersonId": "5014",
+            "RecordId": "022-000000016",
+            "Name": "Capponi,Giovambattista,,1620-1675",
+            "Nickname": "Oscuro",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

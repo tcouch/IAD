@@ -1,0 +1,40 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008613",
+        "WorkId": "000971",
+        "ShortTitle": "Motetti sagri",
+        "LongTitle": "a due e tre voci, con Violini e senza. dedicati all`altezza del Serenissimo ferdinando Gran principe di Toscana da Sebastiano Cherici di Pistoia, Maestro di Cappella dell`Illustrissima Accademia dello Spririto Santo",
+        "ItacAcademyItem": {
+            "AcademyId": "0537",
+            "RecordID": "021-000008071",
+            "Value": "Spirito Santo (Accademia dello)"
+        },
+        "Format": "10\u00b0",
+        "City": {
+            "CityId": "75",
+            "PublicationPlaceItalianName": "Anversa",
+            "PublicationPlaceEnglishName": "Antwerp",
+            "PublicationPlaceLatinName": "Antuerpia"
+        },
+        "PublicationYear": "1689",
+        "Shelfmark": "B71",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15621",
+                "RecordID": "022-000002147",
+                "Value": "Chierici,Sebastiano,Chapel Master,1647-1704"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15393",
+                "RecordID": "022-000001894",
+                "Value": "de` Medici,Ferdinando III,,1663 - 1713"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

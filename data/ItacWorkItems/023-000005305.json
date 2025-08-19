@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005305",
+        "WorkId": "000656",
+        "ShortTitle": "Jani Nicii Erythraei",
+        "LongTitle": "Eudemiae. Libri VIII",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "78",
+            "PublicationPlaceItalianName": "Colonia",
+            "PublicationPlaceEnglishName": "Cologne",
+            "PublicationPlaceLatinName": "Coloniae Ubiorum"
+        },
+        "PublicationYear": "1637",
+        "Shelfmark": "721a21",
+        "Subjects": "Prose",
+        "Language": "Latin",
+        "Pagination": "311",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18167",
+                "RecordID": "022-000005135",
+                "Value": "Rossi,Giovanni Vittorio,,1577 - 1647"
+            }
+        },
+        "Notes": "Place of publication is not sure. For the relevance of this book for the history of the Accademia degli Umoristi, see Luigi Gerboni, Iano Nicio Eritreo. Un umanista nel Seicento (1899)",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16073",
+                "RecordID": "022-000002657",
+                "Value": "Aleandro,Girolamo (Il giovane),,1574 - 1629"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54401",
+            "Value": "023-000005305_54401_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

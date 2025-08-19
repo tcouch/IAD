@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5372",
+        "RecordId": "022-000000381",
+        "Surname": "Cerva",
+        "Forename": "Angelo Vincenzo",
+        "Gender": "Male",
+        "DateText": "fl.1590-1610",
+        "StartDate": "fl.1590",
+        "EndDate": "1610",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Contributor",
+        "TypographicReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

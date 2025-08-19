@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15330",
+        "RecordId": "022-000001369",
+        "Surname": "Pellicer de Tovar",
+        "Forename": "Iosephus",
+        "AlternativeName": {
+            "AlternativeSurname": "Pellicer de Ossau y Tovar",
+            "AlternativeForename": "Ios\u00e9"
+        },
+        "DateText": "1602-1679",
+        "StartDate": "1602",
+        "EndDate": "1679",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Censor",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

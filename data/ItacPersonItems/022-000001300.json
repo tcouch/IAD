@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15257",
+        "RecordId": "022-000001300",
+        "Surname": "De Tarsia",
+        "Forename": "Pablo Antonio",
+        "AlternativeName": {
+            "AlternativeForename": "Paolo Antonio"
+        },
+        "PersonalTitle": "Abbot",
+        "DateText": "1619-1665",
+        "StartDate": "1619",
+        "EndDate": "1665",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Author|Dedicatee",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

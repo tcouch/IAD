@@ -1,0 +1,255 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0009",
+        "RecordId": "021-000000721",
+        "Name": "Incamminati (Accademia degli)",
+        "AlternativeName": "Accademia dei Desiderosi|Accademia del Disegno",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Starry globe with in the centre constellation of Ursa Minor",
+        "EmblemImage": {
+            "ImageId": "49492",
+            "Value": "021-000000721_49492_1.jpg"
+        },
+        "Motto": "Contentione perfectus",
+        "StartDate": "1582",
+        "EndDate": "ca1630",
+        "DateText": "1582-ca1630",
+        "Notes": "Emblem from Malvasia, Felsina pittrice (1678), p. 321. Incamminati`s letters, also in Malvasia. \nList of names and dates are based on Claire Pace `\"Perfected through emulation\": \"Imprese\" of the Academia degl`Incamminati` in Notizie da Palazzo Albani: rivista quadrimestrale di storia dell`arte 33 (2004) pp. 99-137. On the history of the Academy, see Charles Dempsey, `The Carracci Academy`, in Academies of Art Between Renaissance and Romanticism. Leids Kunsthistorich Jaarboeck (1989); Gli scritti dei Carracci, Giovanna Perini ed. (Bologna, 1990).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5278",
+                "RecordId": "022-000000267",
+                "Name": "Valesio, Giovanni , , 1561-1640",
+                "Nickname": "L`Instabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6000",
+                "RecordId": "022-000000724",
+                "Name": "Morello,Benedetto, ,",
+                "Nickname": "Il Volubile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6035",
+                "RecordId": "022-000000742",
+                "Name": "Fogliano , Antonio, ,",
+                "Nickname": "L`oscuro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6012",
+                "RecordId": "022-000000743",
+                "Name": "Cavedone, Giacomo, , 1577-1660",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6013",
+                "RecordId": "022-000000744",
+                "Name": "Pio, Bartolomeo, ,",
+                "Nickname": "Il Contemplativo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6014",
+                "RecordId": "022-000000745",
+                "Name": "Brizio, Francesco, , c.1574-1623",
+                "Nickname": "Il Rozo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6015",
+                "RecordId": "022-000000746",
+                "Name": "Todesco , Giovanni, ,",
+                "Nickname": "L`Infecondo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6016",
+                "RecordId": "022-000000747",
+                "Name": "Albino , Alessandro, , 1580-1646",
+                "Nickname": "L`Indefesso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6017",
+                "RecordId": "022-000000748",
+                "Name": "Zanotti, Giovanni, ,",
+                "Nickname": "Il Rigido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6018",
+                "RecordId": "022-000000750",
+                "Name": "Bonavia, Dionisio, ,",
+                "Nickname": "L`Imperfetto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6019",
+                "RecordId": "022-000000751",
+                "Name": "Spada, Lionello, , 1576-1622",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6020",
+                "RecordId": "022-000000752",
+                "Name": "Massaio , Lucio, , 1563-1633",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6021",
+                "RecordId": "022-000000753",
+                "Name": "Campana, Tommaso, , fl.1604-1619",
+                "Nickname": "L`Elevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6022",
+                "RecordId": "022-000000754",
+                "Name": "Macchi, Florio, , 1588-c.1640",
+                "Nickname": "L`Ombroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6023",
+                "RecordId": "022-000000755",
+                "Name": "Duali, Giovanni Battista, ,",
+                "Nickname": "Il Congiunto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6024",
+                "RecordId": "022-000000756",
+                "Name": "Bertusi , Giambattista, , 1577-1644",
+                "Nickname": "Il Consigliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6026",
+                "RecordId": "022-000000757",
+                "Name": "Razali , Sebastiano, , c.1560-c.1622",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6027",
+                "RecordId": "022-000000758",
+                "Name": "Tiarino , Alessandro, , 1577-1668",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6028",
+                "RecordId": "022-000000759",
+                "Name": "Gatti, Oliviero, , 1579-c.1610",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6029",
+                "RecordId": "022-000000760",
+                "Name": "Matti , Giovanni, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6030",
+                "RecordId": "022-000000761",
+                "Name": "Pruoli, Orazio, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6031",
+                "RecordId": "022-000000762",
+                "Name": "Camullo, Francesco, , 1564-1650",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6032",
+                "RecordId": "022-000000763",
+                "Name": "Batistello , Pierfrancesco, , fl.1610-1624",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6033",
+                "RecordId": "022-000000764",
+                "Name": "Gessi, Francesco, , 1588-c.1649",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6034",
+                "RecordId": "022-000000765",
+                "Name": "Bonelli,Aurelio,,1569-?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6036",
+                "RecordId": "022-000000741",
+                "Name": "Carracci,Lodovico,,",
+                "Nickname": "Il Rapito",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "52716",
+                    "Value": "022-000000741_52716_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5034",
+                "RecordId": "022-000000036",
+                "Name": "Faberi,Lucio,,1550s-1610",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19385",
+                "RecordId": "022-000006591",
+                "Name": "Algardi,Alessandro,,1595 - 1654",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

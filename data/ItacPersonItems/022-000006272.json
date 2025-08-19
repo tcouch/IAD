@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19135",
+        "RecordId": "022-000006272",
+        "Surname": "Faber",
+        "Forename": "Joannes",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Fabricius",
+                "AlternativeForename": "Giovanni"
+            },
+            {
+                "AlternativeSurname": "Fabro"
+            }
+        ],
+        "DateText": "1574-1629",
+        "StartDate": "1574",
+        "EndDate": "1629",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Joined the Lincei in 1611.",
+        "Role": "Contributor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

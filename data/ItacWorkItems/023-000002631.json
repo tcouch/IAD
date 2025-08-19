@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002631",
+        "WorkId": "000322",
+        "ShortTitle": "Il quarto libro de` Madrigali a cinque voci.",
+        "LongTitle": "Canto. di Francesco Portinaro Maestro della nobile et virtuosa Academia di Padoa. Con dui Madrigali a sei, dui Dialoghi a sette et dui a otto. Nuovamente da lui composti e dati in luce.",
+        "ItacAcademyItem": {
+            "AcademyId": "0024",
+            "RecordID": "021-000001981",
+            "Value": "Accademia degli Elevati"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1560",
+        "Shelfmark": "G.46.q./24",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16053",
+                "RecordID": "022-000002630",
+                "Value": "Portinari,Francesco,,1530? - 1578"
+            }
+        },
+        "Notes": "The British Library volume is a modern edition (1991), with bio-bibliographical introduction, facsimile titlepage and dedication page.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16055",
+                "RecordID": "022-000002633",
+                "Value": "Accademici Elevati,,,1557-1559"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16054",
+                "RecordID": "022-000002632",
+                "Value": "Gardano,Antonio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

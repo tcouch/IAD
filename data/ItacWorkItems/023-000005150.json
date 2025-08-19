@@ -1,0 +1,63 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005150",
+        "WorkId": "000630",
+        "ShortTitle": "Paulii Manutii epistolae, et praefationes quae dicuntur",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "10905a17|G9247",
+        "Subjects": "Letters|Correspondence",
+        "Language": "Latin",
+        "Pagination": "149r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "Notes": "Here are displayed title pages of both copies.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7415",
+                "RecordID": "022-000001011",
+                "Value": "Cibo Malaspina,Alberico,Prince of Massa and Carrara,1534-1623"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55086",
+            "Value": "023-000005150_55086_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55094",
+            "Value": "023-000005150_55094_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

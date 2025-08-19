@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5399",
+        "RecordId": "022-000000409",
+        "Surname": "Boncompagni",
+        "Forename": "Giacomo",
+        "Gender": "Male",
+        "PersonalTitle": "Archibishop of Bologna",
+        "DateText": "1652-1731",
+        "StartDate": "1652",
+        "EndDate": "1731",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Censor",
+        "TypographicReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5163",
+        "RecordId": "022-000000158",
+        "Surname": "degli Obizzi",
+        "Forename": "Pio Enea",
+        "PersonalTitle": "Marquis",
+        "DateText": "1592-1674",
+        "StartDate": "1592",
+        "EndDate": "1674",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1609",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

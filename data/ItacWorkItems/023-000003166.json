@@ -1,0 +1,70 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003166",
+        "WorkId": "000408",
+        "ShortTitle": "Il primo (secondo) volume delle rime scelte",
+        "LongTitle": "di diversi autori, di nuovo corrette e ristampate. Aggiuntevi molti sonetti nel secondo volume",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1586/88",
+        "DedicationPlaceDate": "Venice 10 october 1586",
+        "Shelfmark": "240.b.33-34|1160.a.3",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "[46] 624; [48] 671",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16451",
+                "RecordID": "022-000003128",
+                "Value": "Cinuzzi,Marcantonio,,1503 - ca.1590"
+            }
+        },
+        "Notes": "The editor, Giovanni Giolito De Ferrari dedicates the two volumes to Diomede Borghesi, Accademico Intronato. Cinuzzi signs a series of sonnets as Scacciato Intronato. Shelfmark 1160.a.3 has only volume one.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16464",
+                "RecordID": "022-000003141",
+                "Value": "Borghesi,Diomede,,1540 - 1598"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16485",
+                "RecordID": "022-000003167",
+                "Value": "Giolito De Ferrari,Giovanni,,1554 - 1591"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16484",
+                "RecordID": "022-000003163",
+                "Value": "I Gioliti,Giovanni and Giovanni Paolo,,fl. 1585 - 1590"
+            }
+        },
+        "PrinterOrnament": "U11",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Sonnets",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16451",
+                        "RecordID": "022-000003128",
+                        "Value": "Cinuzzi,Marcantonio,,1503 - ca.1590"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

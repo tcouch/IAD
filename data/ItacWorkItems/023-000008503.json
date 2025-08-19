@@ -1,0 +1,140 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008503",
+        "WorkId": "000957",
+        "ShortTitle": "Giuoco piacevole",
+        "ItacAcademyItem": {
+            "AcademyId": "0551",
+            "RecordID": "021-000008268",
+            "Value": "Invaghiti (Accademia degli - Mantova)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "67",
+            "PublicationPlaceItalianName": "Mantova",
+            "PublicationPlaceEnglishName": "Mantua",
+            "PublicationPlaceLatinName": "Mantua"
+        },
+        "PublicationYear": "1580",
+        "DedicationPlaceDate": "20 November, 1575",
+        "Shelfmark": "1073.h.19|62.a.30|G.9928|G.9927",
+        "Subjects": "Gallantry",
+        "Language": "Italian",
+        "Pagination": "pp. 52",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20376",
+                "RecordID": "022-000008098",
+                "Value": "Mori,Ascanio Pipino de\u2019,,ca. 1532/3-1591"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20694",
+                    "RecordID": "022-000008501",
+                    "Value": "Cavallara,Giovanni Battista,,16th C.-1587"
+                },
+                {
+                    "PersonId": "9640",
+                    "RecordID": "022-000001688",
+                    "Value": "Ruffinelli,Giacomo,,fl. 1547-1598"
+                }
+            ]
+        },
+        "Notes": "Attached to the Giuoco is a `Ragionamento d`Ascanio de Mori da Ceno in lode delle donne`. Ruffinelli states in the preface of this compound volume that this essay is `in lode delle Donne il Carnevale passato in Mantova nell`Academia de`Signori Cavalieri Invaghiti`.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19102",
+                    "RecordID": "022-000006229",
+                    "Value": "Gonzaga,Vincenzo,Duke of Mantua,1562-1612"
+                },
+                {
+                    "PersonId": "20694",
+                    "RecordID": "022-000008501",
+                    "Value": "Cavallara,Giovanni Battista,,16th C.-1587"
+                },
+                {
+                    "PersonId": "20696",
+                    "RecordID": "022-000008504",
+                    "Value": "Brancaccia Castalda,Beatrice,Marchioness of Casciano,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9640",
+                "RecordID": "022-000001688",
+                "Value": "Ruffinelli,Giacomo,,fl. 1547-1598"
+            }
+        },
+        "PrinterOrnament": "V100 - Z1202",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Serenissimo signor, et padron mio sempre osservandiss. Il Sig. Vincenzo Gonzaga Principe di Mantova, et di Monferrato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20376",
+                            "RecordID": "022-000008098",
+                            "Value": "Mori,Ascanio Pipino de\u2019,,ca. 1532/3-1591"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Cortesi tettori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20694",
+                            "RecordID": "022-000008501",
+                            "Value": "Cavallara,Giovanni Battista,,16th C.-1587"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A' lettori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9640",
+                            "RecordID": "022-000001688",
+                            "Value": "Ruffinelli,Giacomo,,fl. 1547-1598"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alcune rime",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20376",
+                            "RecordID": "022-000008098",
+                            "Value": "Mori,Ascanio Pipino de\u2019,,ca. 1532/3-1591"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ragionamento [...] in lode delle donne",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20376",
+                            "RecordID": "022-000008098",
+                            "Value": "Mori,Ascanio Pipino de\u2019,,ca. 1532/3-1591"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Illustrissima Sig. mia osservandiss. la sig. Beatrice Brancaccia Castalda Marchesa di Casciano, & c.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20376",
+                            "RecordID": "022-000008098",
+                            "Value": "Mori,Ascanio Pipino de\u2019,,ca. 1532/3-1591"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

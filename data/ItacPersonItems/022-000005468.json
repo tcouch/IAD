@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18445",
+        "RecordId": "022-000005468",
+        "Surname": "Riccardi",
+        "Forename": "Nicola",
+        "AlternativeName": {
+            "AlternativeSurname": "Riccardus",
+            "AlternativeForename": "Nicolo`"
+        },
+        "PersonalTitle": "Master of the Sacred Palace",
+        "DateText": "1585-1639",
+        "StartDate": "1585",
+        "EndDate": "1639",
+        "Nationality": {
+            "NationalityId": "100",
+            "Value": "Genoese"
+        },
+        "Notes": "Became Master of the Sacred Palace in 1629",
+        "Role": "Censor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

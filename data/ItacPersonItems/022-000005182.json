@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18202",
+        "RecordId": "022-000005182",
+        "Surname": "Mascardi",
+        "Forename": "Agostino",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Augustini"
+        },
+        "DateText": "1590-1640",
+        "StartDate": "1590",
+        "EndDate": "1640",
+        "Nationality": {
+            "NationalityId": "232",
+            "Value": "of Sarzana"
+        },
+        "Notes": "In 1630 he delivered to the Umoristi Academy the presentation `Che la corte e` vera scuola non solamente della prudenza, ma delle virtu` morali`, subsequently published in Prose vulgari (1646). His portrait is in Prose (1653), and was signed by a member of the Piccini family.",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0032",
+        "RecordId": "021-000002552",
+        "Name": "Fecondi (Accademia dei)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "Mountain with trees",
+        "Motto": "Pretiosior intus",
+        "StartDate": "ca. 1600",
+        "EndDate": "?",
+        "DateText": "ca. 1600-?",
+        "Notes": "Publications related to the history of this academy, but not in British Library collections, include: \nGio. Battista Arrigoni, Madrigali Prima (seconda) parte (Padova 1602 and 1604). The author signs as `fondator degli Aveduti et Academico fecondo in Padova.` \nGio. Battista Arrigoni, Miscugli di rime (Vicenza, per Gio. Domenico Ricciardi libraro in Padova 1616)\nIdem, Rime ... all` ill.mo sig. Roberto Obizzi fu del sig. Pio Enea (Padova, appresso Gio. Dominico Rizzardi libraro et bidello degli Illustrissimi Fecondi [Nella stamperia dei Pasquati], 1604)\nIdem, Rime del Conte Gio. Battista Arrigoni... academico Fecondo... al cardinal Odoardo Farnese  [Padova, Pietro Paolo Tozzi, 1609?]; another edition, with different title page carries the printer`s name and publication date: Pietro Paolo Tozzi, 1610.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9144",
+                "RecordId": "022-000001615",
+                "Name": "Torelli,Pomponio,,1539-1608",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9741",
+                "RecordId": "022-000000450",
+                "Name": "Barb\u00f2,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16398",
+                "RecordId": "022-000003064",
+                "Name": "Rizzardi,Gio. Dominico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16399",
+                "RecordId": "022-000003065",
+                "Name": "Mosto,Paolo Emilio,,",
+                "Nickname": "L`Opportuno",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16400",
+                "RecordId": "022-000003066",
+                "Name": "Nardi,Agostino,,",
+                "Nickname": "L`Abile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16401",
+                "RecordId": "022-000003067",
+                "Name": "Vinciguerra,,Count of Collalto,",
+                "Nickname": "L`Ardente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15767",
+                "RecordId": "022-000002314",
+                "Name": "Arrigoni,Giovanni Battista,,fl. 1563 - 1604",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16270",
+                "RecordId": "022-000002921",
+                "Name": "Bonifacio,Giovanni,,1547-1635",
+                "Nickname": "Il Sofferente",
+                "Motto": "Sterilis sed fecundam",
+                "PersonEmblemDescription": "Old and sterile tree sustaining vine charged with grape"
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

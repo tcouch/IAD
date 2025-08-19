@@ -1,0 +1,74 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006085",
+        "WorkId": "000721",
+        "ShortTitle": "Cursus physicomathematicus P. Francisci Eschinardi Soc. Iesu Matheseos in Collegio Romano professoris",
+        "LongTitle": "Illustrissimo Domino Francisco Redi Patritio Aretino Dicatus. Pars prima. De cosmographia. Tomus primus continens duplicem tractatum. Primum de sphaera. Secundum de astronomia. Additur in fine, quamplurimum quaesitorum ex praecedentibus doctrinis solutio",
+        "ItacAcademyItem": {
+            "AcademyId": "0141",
+            "RecordID": "021-000006038",
+            "Value": "Accademia Fisico-matematica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1689",
+        "Shelfmark": "531h14",
+        "Subjects": "Science",
+        "Language": "Latin",
+        "Pagination": "367",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18940",
+                "RecordID": "022-000006042",
+                "Value": "Eschinardi,Francesco,,1623 - 1703"
+            }
+        },
+        "Notes": "The author explicitly mentions Ciampini`s Accademia in the dedication to the reader.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18977",
+                    "RecordID": "022-000006086",
+                    "Value": "de Noyelle,Carlo,,1615 - 1686"
+                },
+                {
+                    "PersonId": "18978",
+                    "RecordID": "022-000006087",
+                    "Value": "Ramirez,Franciscus,,"
+                },
+                {
+                    "PersonId": "16239",
+                    "RecordID": "022-000002883",
+                    "Value": "Menattus,Stephanus Ioseph,Vicar General,? - 1695"
+                },
+                {
+                    "PersonId": "18979",
+                    "RecordID": "022-000006088",
+                    "Value": "D`Alessandro,Giovanni Pietro,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "carolus de Noyelle Praepositus Generalis Societatis Iesu. Cum primama partem Cursus Physicomathematici a P. Francisco Eschinardo nostrae Societatis Sacerdote conscriptam, aliquot eiusdem Societatis Theologi recognoverint, et in lucem edi posse probaverint, facultatem facimus, ut Typis mandetur, si iis ad quos pertinet, ita videbitur. Cuius rei gratia has literas manu nostra subscriptas, et sigillo nostro munitas dedimus. Romae 25 Maij 1683. Carolus de Noyelle ---- Ex Commissione R. R. P. Sacri Palatij magistri perlegi Librum hunc, cui titulus est. Cursus Physicomathematicus, Auctore R. P. Francisco Eschinardi Societatis Iesu, et in eo nihil reperi fidei contrarium, nihil bonis moribus adversum; sed omnia consonant, omnia sanctionibus se sacris conformant. Unde censeo praelo posse committi ad publicam utilitatem. Sic sentio salvo meliori et c. In hoc Collegio S. Thomae de Urbe apud Minervam die 11 Octobris anno 1684. Fr. Franciscus Ramirez Regens Collegii manu propria. --- Imprimatur Si videbitur Reverendiss. Patri Magistro Sacri Palatij Apostolici. Stephanus Ioseph Menattus Episc. Cyrenen. Vicesregens. --- Imprimatur Fr. Io Petrus ab Alexandro ordinis Praed. S. Th. Magister Reverendiss. P. Magistri Sac. pal. Apost. Socius",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5173",
+                "RecordID": "022-000000168",
+                "Value": "Redi,Francesco,,1626-1698"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18969",
+                "RecordID": "022-000006075",
+                "Value": "Komarek,Giovanni Giacomo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

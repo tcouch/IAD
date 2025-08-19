@@ -1,0 +1,33 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18519",
+        "RecordId": "022-000005553",
+        "Surname": "Beregan",
+        "Forename": "Nicolo`",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Berengani"
+            },
+            {
+                "AlternativeSurname": "Bergani"
+            },
+            {
+                "AlternativeForename": "Nicola"
+            },
+            {
+                "AlternativeSurname": "Beregani"
+            }
+        ],
+        "DateText": "1627-1713",
+        "StartDate": "1627",
+        "EndDate": "1713",
+        "Nationality": {
+            "NationalityId": "74",
+            "Value": "of Vicenza"
+        },
+        "Notes": "Criminal and civil lawyer in Venice, historian and writer of music drama, Beregan was also member of the Concordi Academy (Ravenna). He was banned from Venice on 18 February 1656 (1655 according to the Venetian calendar), following the accusation of killing on his gondola a Flemish merchant. Beregan returned to Venice in 1660, without this having any consequences on his life. He joined the Gelati in 1671. See his biography by Giorgio Ferrari, in DBI.",
+        "Role": "Dedicatee|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20705",
+        "RecordId": "022-000008522",
+        "Surname": "Betti",
+        "Forename": "Claudio",
+        "DateText": "ca.1520-1598",
+        "StartDate": "ca.1520",
+        "EndDate": "1598",
+        "Nationality": {
+            "NationalityId": "115",
+            "Value": "of Modena"
+        },
+        "Notes": "Physician and philosopher, professor pf Philosophy at the Bolognese Studium. See his biography by Giorgio Stabile in DBI. According to Stabile, Betti was also member of the Gelati Academy.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

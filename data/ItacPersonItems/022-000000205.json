@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5213",
+        "RecordId": "022-000000205",
+        "Surname": "Orsini (de Gravina)",
+        "Forename": "Vincenzo Maria",
+        "AlternativeName": {
+            "AlternativeForename": "born Pietro Francesco"
+        },
+        "PersonalTitle": "Cardinal|Pope Benedict XI (1724-1730)",
+        "DateText": "1649-1730",
+        "StartDate": "1649",
+        "EndDate": "1730",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

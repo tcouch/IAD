@@ -1,0 +1,877 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006005",
+        "WorkId": "000713",
+        "ShortTitle": "Il Duello delle Muse",
+        "LongTitle": "Overo Trattenimenti Carnevaleschi degli Accademici della Fucina. Trattenimento Terzo dell`Anno 1669. Con la raccolta di alcune Rime Facete de` medesimi Accademici.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1670",
+        "DedicationPlaceDate": "Messina 1 June 1670",
+        "Shelfmark": "1063.l.1.",
+        "Subjects": "Academic Poetry|Carnival performances",
+        "Language": "Italian|Latin|Spanish|Sicilian literary language|Neapolitan literary language|Greek",
+        "Illustration": "Engraved title page|Academy emblem",
+        "Pagination": "pp. 196",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18778",
+                    "RecordID": "022-000005847",
+                    "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                },
+                {
+                    "PersonId": "18138",
+                    "RecordID": "022-000005101",
+                    "Value": "Musarra,Carlo,,? - 1683"
+                }
+            ]
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18888",
+                    "RecordID": "022-000005978",
+                    "Value": "di Carlo di Gregorio,Pietro,,"
+                },
+                {
+                    "PersonId": "18778",
+                    "RecordID": "022-000005847",
+                    "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                },
+                {
+                    "PersonId": "15095",
+                    "RecordID": "022-000001136",
+                    "Value": "Errico,Scipione,,1592 - 1670"
+                },
+                {
+                    "PersonId": "18836",
+                    "RecordID": "022-000005911",
+                    "Value": "Cirino,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18971",
+                    "RecordID": "022-000006078",
+                    "Value": "Rosso,Domenico,,"
+                },
+                {
+                    "PersonId": "18985",
+                    "RecordID": "022-000006094",
+                    "Value": "Spatafora,Antonio,,"
+                },
+                {
+                    "PersonId": "18815",
+                    "RecordID": "022-000005890",
+                    "Value": "D`Ambrosio,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18838",
+                    "RecordID": "022-000005913",
+                    "Value": "Conforto,Jacopo,,"
+                },
+                {
+                    "PersonId": "18858",
+                    "RecordID": "022-000005941",
+                    "Value": "Dini di Bernardo,Benedetto,,"
+                },
+                {
+                    "PersonId": "18837",
+                    "RecordID": "022-000005912",
+                    "Value": "Colosi,Vito,,"
+                },
+                {
+                    "PersonId": "18826",
+                    "RecordID": "022-000005901",
+                    "Value": "Benincasa,Vincenzo Eustachio,,"
+                },
+                {
+                    "PersonId": "18987",
+                    "RecordID": "022-000006096",
+                    "Value": "Spatafora,Tommaso,,"
+                },
+                {
+                    "PersonId": "18141",
+                    "RecordID": "022-000005104",
+                    "Value": "Rizzo,Francesco,,"
+                },
+                {
+                    "PersonId": "18928",
+                    "RecordID": "022-000006027",
+                    "Value": "Montalto,Giovanni,,"
+                },
+                {
+                    "PersonId": "18226",
+                    "RecordID": "022-000005209"
+                },
+                {
+                    "PersonId": "18138",
+                    "RecordID": "022-000005101",
+                    "Value": "Musarra,Carlo,,? - 1683"
+                },
+                {
+                    "PersonId": "18972",
+                    "RecordID": "022-000006079",
+                    "Value": "Russo,Placido,,"
+                },
+                {
+                    "PersonId": "18986",
+                    "RecordID": "022-000006095",
+                    "Value": "Spatafora,Onofrio,,"
+                },
+                {
+                    "PersonId": "18938",
+                    "RecordID": "022-000006040",
+                    "Value": "Noceto,Bernardino Giovanni,Abbot,"
+                },
+                {
+                    "PersonId": "18820",
+                    "RecordID": "022-000005895",
+                    "Value": "Ardoino,Giuseppe,Knight of the Order of the Star,"
+                },
+                {
+                    "PersonId": "18922",
+                    "RecordID": "022-000006020",
+                    "Value": "Messina,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18946",
+                    "RecordID": "022-000006048",
+                    "Value": "Pisa,Bartolomeo,,"
+                },
+                {
+                    "PersonId": "18966",
+                    "RecordID": "022-000006071",
+                    "Value": "Rizzo,Ferdinando,,"
+                },
+                {
+                    "PersonId": "18862",
+                    "RecordID": "022-000005946",
+                    "Value": "Errico,Pietro,,"
+                },
+                {
+                    "PersonId": "18897",
+                    "RecordID": "022-000005988",
+                    "Value": "Lanza ,Giuseppe ,,"
+                },
+                {
+                    "PersonId": "18913",
+                    "RecordID": "022-000006011",
+                    "Value": "Magnani ,Jacopo,,"
+                },
+                {
+                    "PersonId": "18883",
+                    "RecordID": "022-000005971",
+                    "Value": "di Gregorio ,Carlo,,"
+                },
+                {
+                    "PersonId": "18811",
+                    "RecordID": "022-000005886",
+                    "Value": "Adonnino,Antonio,,"
+                },
+                {
+                    "PersonId": "18973",
+                    "RecordID": "022-000006081",
+                    "Value": "Salvago,Benedetto,,"
+                },
+                {
+                    "PersonId": "19001",
+                    "RecordID": "022-000006112",
+                    "Value": "Valdibella,Antonio,,"
+                },
+                {
+                    "PersonId": "18143",
+                    "RecordID": "022-000005106",
+                    "Value": "Sapone,Paolo,,"
+                },
+                {
+                    "PersonId": "18818",
+                    "RecordID": "022-000005893",
+                    "Value": "Ansalone,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18964",
+                    "RecordID": "022-000006069",
+                    "Value": "Riaca,Pietro,,"
+                },
+                {
+                    "PersonId": "18139",
+                    "RecordID": "022-000005102",
+                    "Value": "di Natale,Giovanni,,1642 - ?"
+                },
+                {
+                    "PersonId": "19007",
+                    "RecordID": "022-000006118",
+                    "Value": "Tuccari,Giovanni,,"
+                },
+                {
+                    "PersonId": "18128",
+                    "RecordID": "022-000005089",
+                    "Value": "Cesareo,Jacopo,,"
+                },
+                {
+                    "PersonId": "18734",
+                    "RecordID": "022-000005801",
+                    "Value": "Solyma,Nicolo` Maria,Knight of the Order of the Star,? - 1692"
+                },
+                {
+                    "PersonId": "18891",
+                    "RecordID": "022-000005981",
+                    "Value": "Guerrera,Domenico,,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19022",
+                    "RecordID": "022-000006135",
+                    "Value": "Marquett,Baldassare,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19023",
+                    "RecordID": "022-000006136",
+                    "Value": "Gregori,Francesco,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "18157",
+                    "RecordID": "022-000005123",
+                    "Value": "Faraone,Pietro,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19024",
+                    "RecordID": "022-000006137",
+                    "Value": "Celi,Leonardo,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18220",
+                    "RecordID": "022-000005202",
+                    "Value": "Balsamo,Giuseppe,Senator of Messina|Baron of Cattafi,"
+                },
+                {
+                    "PersonId": "19025",
+                    "RecordID": "022-000006138",
+                    "Value": "Laxana,Carlo,Senator of Messina,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18888",
+                "RecordID": "022-000005978",
+                "Value": "di Carlo di Gregorio,Pietro,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18908",
+                "RecordID": "022-000006006",
+                "Value": "Colicchia,Andrea,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54669",
+            "Value": "023-000006005_54669_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Il Roco Campione Della Costanza A Gli Accademici della Fucina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Del Roco Accademico Fucinante.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Occupato Accademico Della Fucina, Al Roco, Campione Della Costanza. Spositione Dell`Impresa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Veridico, Accademico Della Fucina, Al Roco Campione Della Costanza. Spositione Dell`Impresa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alchymista, Academicus Officianae, In Raucum, Qui Se Constantiae Venditat Sectatorem.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alchymistae Phrenoschema, Eiusque Explanatio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`immoto, Accademico Della Fucina, Al Roco Campione Della Costanza. Sposizione Dell`Impresa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Liquido, Adoratore Della Virtu, Al Roco Campione Della Imaginata Costanza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Del Liquido Accademico Della Fucina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lu Faticusu, Academicu Di La Fucina, A Lu Raucu Campiuni Di La Custanza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dichiarazioni Di La `Mprisa Di Lu Faticusu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Operoso, Accademico Della Fucina, Al Roco, Campione Della Costanza. Sposizione Dell`Impresa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Nudo, Accademico Della Fucina, Campione della Fame, Al Roco Campione Della Costanza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Spositione dell`Emblema Del Nudo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Tenace, Accademico Della Fucina, Campione Dell`Amor Vicendevole, Al Roco Campione Della Costanza. Sposizione Dell`Impresa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Innestato, Accademico Della Fucina Campione Della Speranza, Al Roco, Campione Della Costanza. Spositione Dell`Impresa.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lu Ruzzu, Academicu Di La Fucina, A Lu Raucu Campiuni Di La Custanza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Esplicationi Di L`Imprisa Di Lu Ruzzu",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Forte, Accademico Della Fucina, Padrino Della Vecchiaia, Al Roco Campione Della Costanza, Che l`huomo inoltrato negli anni non soggiace ad amoroso incentivo. Spositione Dell`Impresa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Applicatione Dell`impresa.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`inculto, Accademico della Fucina, Campione Della Gelosia, Al Roco Campione Della Costanza. Spositione dell`impresa.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Arido Accademico Della Fucina, Al Roco Campione Della Costanza.Sposizione dell`Impresa.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Inerme Accademico della Fucina, Al Roco, Campione Della Costanza. Che alla dilicata complessione d`Amore ogni altro cibo mal`acconcio, e pernicioso riesce, fuorche quello, che h\u00e0 seco immista somma dilettatione, e dolcezza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Impresa Dell`inerme, E Sua Espositione.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Misto, Accademico Della Fucina, Campione Del Tempo, Al Roco Campione della Costanza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Spositione Dell`emblema.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Spositione Dell`Emblema.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`estinto, Accademico Della Fucina, Al Roco Campione della Costanza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa Dell`Estinto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "? ? ? ? ? S ? ? S Ustrinae Faber In Raucum Constantiae Propugnatorem.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Insignis Expositio.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Ardente, Accademico della Fucina, E Campione dell`Ozio, Al Roco Campione della Costanza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione dell`Impresa.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Pieghevole, Accademico della Fucina, Al Roco Campione della Costanza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`Impresa Del Pieghevole.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`errante, Accademico della Fucina, Guerriero Della luna, Al Roco Campione Della Costanza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sposizione Dell`impresa.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lu Smaghiatu, Academicu Di la Fucina, A Lu Raucu Campiuni Di La Custanza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La `Mprisa Di Lu Smaghiatu, E Sua Dichiarazioni.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "il Bizzarro, Accademico della Fucina, Guerriero Della Gelosia, Al Roco Campione Della Costanza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dichiaratione Dell`impresa del Bizzarro.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Idiota, Ustrinae Faber in raucum Constantiae Propugnatorem.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Idiota Ustrinae Faber In Raucum Constantiae Propugnatorem. Insignis Expositio.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`infiammato, Accademico Della Fucina, Al Roco Campione della Costanza. Sposizione Dell`Emblema dell`Infiammato.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Costante, Accademico  Della Fucina, Al Roco Campione della Costanza.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Emblema, Et Espositione Del Costante.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Anelante, Accademico della Fucina, Difensore Della Fatica, e distruggitore dell`Ozio, Al Roco Campione Della Costanza. Che Amore il Profano riconosca per Padre l`Ozio, e per Madre l`Incontinenza, per avverarsi l`Aforismo del Poeta. Otia si tollas, periere Cupidinis arcus.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Geroglifico, E Sua Sposizione Dell`Anelante.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Irritato, Accademico Della Fucina, Al Roco Campione Della Costanza. Sposizione dell`impresa dell`Irritato.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Sicuro, Accademico Della Fucina, Al Roco Campione della Costanza. Che un`animo Nobile non pu\u00f2 lungamente arder di amore per Donna ingrata, e crudele. Sposizione dell`impresa Del Sicuro.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Algente, Accademico della Fucina, Al Roco Campione Della Costanza. Impresa, Et Espositione Dell`Algente.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Fervido, Accademico Della Fucina, Al Roco Campione Della Costanza. Impresa, Et Espositione Del Fervido.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Affacendato, Accademico della Fucina, Al Roco Campione Della Costanza. Sposizione dell`Impresa dell`Affacendato.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Fido, Accademico Della Fucina, Capotruppa De Gli Huomini di genio allegro. Al Roco, Campione Della Costanza. Impresa Del Fido E Sua Esposizione.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Tetro, Accademico Della Fucina, Al Roco Campione Della Costanza. Sposizione Dell`Impresa del Tetro.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Traslado del Mismo A Palabras. El Tedro, Academico De la Fucina Al Ronco Caudillo De La Constancia. Exposicion Dela Empresa Del Tedro.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Raccolta Di Rime Facete. De Gli Accademici Della Fucina. La carapegna Di Amore. Capitolo. Del Dissonante.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "I Maghi Della Tessaglia. Cartello Portato In Una Maschera Dell`Istesso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Cartello Portato In Una Maschera Del Roco.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Grifonello Il Bianco, Ed Aquilante Il Nero, Zerbini Cortigiani Favoriti D`Amore. Cartello Portato In Una Maschera dell`Istesso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "I Pasticcieri, Intermezi Dramatici per musica.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "I Pasticcieri, Intermezo Secondo.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Intermezzi Drammatici per Musica. del Dissonante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Contro Il Secolo Presente, Capitolo Del Roco.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Lode Della Carapegna, Capitolo Dell`Istesso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

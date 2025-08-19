@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9225",
+        "RecordId": "022-000001522",
+        "Surname": "Madruzzo",
+        "Forename": "Cristoforo",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1512-1578",
+        "StartDate": "1512",
+        "EndDate": "1578",
+        "Nationality": {
+            "NationalityId": "59",
+            "Value": "of Madruzzo (Val di Cavedine - Trento)"
+        },
+        "Role": "Dedicatee|Contributor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

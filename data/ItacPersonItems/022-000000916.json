@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7329",
+        "RecordId": "022-000000916",
+        "Surname": "Capponi",
+        "Forename": "Annibale",
+        "Gender": "Male",
+        "DateText": "1535-1614",
+        "StartDate": "1535",
+        "EndDate": "1614",
+        "Nationality": {
+            "NationalityId": "177",
+            "Value": "of Porretta (Bologna)"
+        },
+        "Notes": "This is probably the Dominican friar, whose religious name was Serafino. See his biography by Giuliano Gliozzi in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

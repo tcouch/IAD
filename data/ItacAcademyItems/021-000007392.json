@@ -1,0 +1,51 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0369",
+        "RecordId": "021-000007392",
+        "Name": "Dubbiosi-Venezia (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1551",
+        "EndDate": "1553",
+        "DateText": "1551-1553",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9256",
+                "RecordId": "022-000001552",
+                "Name": "Martinengo,Fortunato,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20001",
+                "RecordId": "022-000007472",
+                "Name": "Ferlito,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20000",
+                "RecordId": "022-000007470",
+                "Name": "Sebastiano,Fausto,,1502-1565?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20002",
+                "RecordId": "022-000007473",
+                "Name": "Macascivola,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

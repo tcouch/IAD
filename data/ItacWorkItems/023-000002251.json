@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002251",
+        "WorkId": "000293",
+        "ShortTitle": "Delle Opere di Torquato Tasso",
+        "LongTitle": "Con le controversie sopra la Gerusalemme Liberata, e con le annotazioni intere di vari autori, notabilmente in questa impressione accresciute.",
+        "ItacAcademyItem": {
+            "AcademyId": "0025",
+            "RecordID": "021-000002211",
+            "Value": "Accademia degli Eterei"
+        },
+        "Format": "Large 4o",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1740",
+        "Shelfmark": "81.h.1-12",
+        "Subjects": "Funeral oration",
+        "Language": "Italian",
+        "Pagination": "pp. 532",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15312",
+                "RecordID": "022-000001352",
+                "Value": "Tasso,Torquato,,1544-1595"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Orazione di Torquato Tasso nella morte del Santino",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "",
+                        "RecordID": ""
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

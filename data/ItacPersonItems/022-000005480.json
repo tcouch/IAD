@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18456",
+        "RecordId": "022-000005480",
+        "Surname": "al-Haqilani",
+        "Forename": "Ibrahim",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Ecchellensis",
+            "AlternativeForename": "Abrahami"
+        },
+        "DateText": "1605-1664",
+        "StartDate": "1605",
+        "EndDate": "1664",
+        "Nationality": {
+            "NationalityId": "244",
+            "Value": "Syrian"
+        },
+        "Notes": "Maronite Catholic philospher and linguist",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0277",
+        "RecordId": "021-000006933",
+        "Name": "Potenti (Accademia dei)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "StartDate": "1570?",
+        "DateText": "1570?",
+        "Notes": "One publication related to the history of this Academy, but not included in British Library catalogue, is Francisci Barocii Oratio ad philosophiam virtutemque ipsam adhortatoria habita Patauii in Academia Potentium die 25. Nouembris 1557 (Patavii, Perchacinum, 1588)",
+        "ItacPersonItem": {
+            "PersonId": "19592",
+            "RecordId": "022-000006932",
+            "Name": "Barozzi,Francesco,,1537 - 1604",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

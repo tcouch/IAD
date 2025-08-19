@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9117",
+        "RecordId": "022-000001724",
+        "Surname": "Feschius",
+        "Forename": "Sebastianus",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Fesch",
+            "AlternativeForename": "Sebastian"
+        },
+        "Nationality": {
+            "NationalityId": "63",
+            "Value": "Swiss"
+        },
+        "Notes": "Joined the Ricovrati in 1678. One contribution of his is in the volume on the occasion of the death of Elena Cornaro Piscopia.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

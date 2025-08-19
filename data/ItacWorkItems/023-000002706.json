@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002706",
+        "WorkId": "000339",
+        "ShortTitle": "Fabii Paulini Utinensis Philosophi, et Graecas literas Venetiis profitensis, Hebdomades",
+        "LongTitle": "Sive Septem de Septenario libri, habiti in Uranicorum Academia In unius Vergilii versus explicatione. Ad Sereniss. Venetae Reip. Collegium. Cum privilegiis",
+        "ItacAcademyItem": {
+            "AcademyId": "0462",
+            "RecordID": "021-000007865",
+            "Value": "Uranici (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1589",
+        "Shelfmark": "1089m8",
+        "Language": "Latin",
+        "Pagination": "456",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9661",
+                "RecordID": "022-000001830",
+                "Value": "Paolini,Fabio,,ca.1535-1605"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16267",
+                "RecordID": "022-000002916",
+                "Value": "de` Franceschi,Francesco,,ca.1530-1599"
+            }
+        },
+        "PrinterOrnament": "Z916",
+        "TitlePageImage": {
+            "ImageId": "55286",
+            "Value": "023-000002706_55286_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

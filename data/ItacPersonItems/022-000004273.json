@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17418",
+        "RecordId": "022-000004273",
+        "Surname": "Mariani",
+        "Forename": "Nicol\u00f2",
+        "DateText": "fl.1590-1624",
+        "StartDate": "fl.1590",
+        "EndDate": "1624",
+        "Nationality": {
+            "NationalityId": "76",
+            "Value": "Milanese"
+        },
+        "Notes": "Active in Farnese, near Rome.",
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

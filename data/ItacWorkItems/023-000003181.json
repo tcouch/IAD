@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003181",
+        "WorkId": "000411",
+        "ShortTitle": "Alcune lettere amorose",
+        "LongTitle": "Una dell`Arsiccio Intronato in proverbi, l`altre di M. Alessandro Marzi Cirloso Intronato. Con le risposte e con alcuni sonetti.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1571",
+        "DedicationPlaceDate": "Siena 12 September 1571",
+        "Shelfmark": "12315.cc.41",
+        "Subjects": "Ludic love letters|Proverbs",
+        "Language": "Italian",
+        "Pagination": "23",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16496",
+                    "RecordID": "022-000003180",
+                    "Value": "Vignali,Antonio,,1501 - 1559"
+                },
+                {
+                    "PersonId": "16369",
+                    "RecordID": "022-000003034",
+                    "Value": "Marzi,Alessandro,,"
+                }
+            ]
+        },
+        "Notes": "In Siena per Luca Bonetti stampatore dell`Eccell. Collegio de S. Legisti. Con privilegio di sua Altezza Serenissima. 1571",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16497",
+                "RecordID": "022-000003182",
+                "Value": "Della Casa,Aldieri,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53391",
+            "Value": "023-000003181_53391_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

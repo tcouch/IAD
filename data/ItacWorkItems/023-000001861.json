@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001861",
+        "WorkId": "00136",
+        "ShortTitle": "Giustina reina di Padova",
+        "LongTitle": "Tragedia di Cortese Cortesi padovano Academico Ordito. Ad istanza di Francesco Bolzetta libraro in Padova. Con licenza de` superiori",
+        "ItacAcademyItem": {
+            "AcademyId": "0022",
+            "RecordID": "021-000001817",
+            "Value": "Accademia degli Orditi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "37",
+            "PublicationPlaceItalianName": "Vicenza",
+            "PublicationPlaceEnglishName": "Vicenza",
+            "PublicationPlaceLatinName": "Vicentiae"
+        },
+        "PublicationYear": "1607",
+        "Shelfmark": "1071.m.2.(3.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "pp. 272",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9642",
+                "RecordID": "022-000001746",
+                "Value": "Cortesi,Cortese,,1550-1617"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9636",
+                "RecordID": "022-000001683",
+                "Value": "Bolzetta,Francesco,,1566-1653"
+            }
+        },
+        "Notes": "The book contains a dedication to the reader plus the author`s Protesta: `Dichiaratione del medesimo authore`. Si vedr\u00e0 talvolta per l`opera essersi usato Fortuna: Sorte: Stelle: Fato: Destino: o altre simili voci. Ma oltre che come scrissero I clarissimi et dottissimi SS. Celio Magno et Orsatto Giustiniano elle sono gi\u00e0 per antico uso fatte inseparabili dalla commune favella: o almeno come soggiunse alcun altro da` componimenti poetici; avverta il prudente lettore che qui in particolare non vengono recate se non da idolatri. Osservi appresso che costoro quanto pi\u00f9 s`ingegnano d`abbassar la religion nostra et i nostri ritiet per contrario lusingando l`Imperatore essaltar lui et gl`idoli suoi; tanto pi\u00f9 ancho ne sono rinfacciati et ripresi dalla vergine Giustina: la quale non solo con Christiana piet\u00e0 manifesta gli errori loro et dichiara il vero sentimento di dette voci; ma tocca etiandio molt`altri divini misteri; et di essi ragiona conforme in tutto a` dogmi della santa Romana Chiesa.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9666",
+                    "RecordID": "022-000001835",
+                    "Value": "Martir,Petrus,,"
+                },
+                {
+                    "PersonId": "9668",
+                    "RecordID": "022-000001837",
+                    "Value": "Quirini,Nicol\u00f2,,"
+                },
+                {
+                    "PersonId": "9669",
+                    "RecordID": "022-000001838",
+                    "Value": "Peregrinus,Petrus,,"
+                },
+                {
+                    "PersonId": "9670",
+                    "RecordID": "022-000001839",
+                    "Value": "Bragadin,Marco,,"
+                },
+                {
+                    "PersonId": "9671",
+                    "RecordID": "022-000001840",
+                    "Value": "Diedo,Hieronimo,,1535-1615"
+                },
+                {
+                    "PersonId": "15356",
+                    "RecordID": "022-000001395",
+                    "Value": "Maraveglia,Gio[vanni],,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur frater Petrus Martir Theologie Lector Vicarius Sancte Inquisitionis Vicentine | COPIA | Gli eccellentissimi signori capi dell`eccelso Consiglio di X infrascritti avuta fede dalli signori Riformatori del Studio di Padova per relatione ad essi fatta delli doi a ci\u00f2 deputati cio\u00e8 del reverendo padre Inquisitor e del circospetto secretario del Senato Gio. Maravegia con giuramento che nella Tragedia intitolata Giustina Regina di Padova di Cortese Cortesi non si trova cosa contra le leggi n\u00e9 contra la religione catolica et \u00e8 degna di stampa; concedono licentia che possi esser stampata in Vicenza. Dat. die 3 Januarij 1606. D. Nicol\u00f2 Quirini; D. Hieronimo Diedo; D. Marco Bragadin Capi dell`Illustrissimo Conseglio de X. | Illustriss. Cons. X Secret. Petrus Peregrinus.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9680",
+                "RecordID": "022-000001842",
+                "Value": "Greco and Cescato,,,1607-1611ca"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

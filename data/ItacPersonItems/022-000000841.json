@@ -1,0 +1,31 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7107",
+        "RecordId": "022-000000841",
+        "Surname": "Griffio",
+        "Forename": "Giovanni",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Griffo"
+            },
+            {
+                "AlternativeSurname": "Griffi"
+            },
+            {
+                "AlternativeSurname": "Gryphe"
+            }
+        ],
+        "DateText": "ca. 1518-1576",
+        "StartDate": "ca. 1518",
+        "EndDate": "1576",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "See Paolo Tinti in DBI vol. 59",
+        "Role": "Printer",
+        "TypographicReference": "Y",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

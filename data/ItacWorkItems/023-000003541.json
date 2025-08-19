@@ -1,0 +1,38 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003541",
+        "WorkId": "000459",
+        "ShortTitle": "Pannecchio",
+        "LongTitle": "Commedia nuova di Maggio. Del Fumoso della Congrega de Rozzi",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1580",
+        "Shelfmark": "1071.c.57|163.a.3|1063.a.2",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "8 leaves",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16746",
+                "RecordID": "022-000003482",
+                "Value": "Salvestro,,,"
+            }
+        },
+        "Notes": "The British Library catalogue suggests the publication date.",
+        "TitlePageImage": {
+            "ImageId": "53890",
+            "Value": "023-000003541_53890_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

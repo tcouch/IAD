@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19260",
+        "RecordId": "022-000006441",
+        "Surname": "Buonincontri",
+        "Forename": "Lorenzo",
+        "Gender": "Male",
+        "DateText": "1578-1634",
+        "StartDate": "1578",
+        "EndDate": "1634",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Lawyer (notary?), and member of the Umoristi according to Franchi, Le impressioni sceniche, p. 787",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

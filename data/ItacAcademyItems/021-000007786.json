@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0430",
+        "RecordId": "021-000007786",
+        "Name": "Provveduti (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Exuit hinc sordes",
+        "Motto": "Bundle of beaten flax",
+        "StartDate": "post1630",
+        "DateText": "post1630",
+        "ItacPersonItem": {
+            "PersonId": "17761",
+            "RecordId": "022-000004663",
+            "Name": "Loredan,Gianfrancesco,,1607-1661",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

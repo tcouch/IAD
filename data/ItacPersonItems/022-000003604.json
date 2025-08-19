@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16847",
+        "RecordId": "022-000003604",
+        "Surname": "Carafa",
+        "Forename": "Giovanni Pietro",
+        "Gender": "Male",
+        "PersonalTitle": "Pope Paulus IV",
+        "DateText": "1476-1559",
+        "StartDate": "1476",
+        "EndDate": "1559",
+        "Nationality": {
+            "NationalityId": "131",
+            "Value": "of Capriglia Irpina"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

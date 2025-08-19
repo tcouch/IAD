@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9144",
+        "RecordId": "022-000001615",
+        "Surname": "Torelli",
+        "Forename": "Pomponio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Taurellus",
+            "AlternativeForename": "Pomponius"
+        },
+        "PersonalTitle": "Count",
+        "DateText": "1539 - 1608",
+        "StartDate": "1539",
+        "EndDate": "1608",
+        "Nationality": {
+            "NationalityId": "189",
+            "Value": "Montechiarugolo (Parma)"
+        },
+        "Notes": "According to Lohr, Latin Aristotle Commentaries, he wrote Lezioni sopra la poetica di Aristotele, and La Retorica di Aristotele, as member of the Innominati of Parma.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5626",
+        "RecordId": "022-000000696",
+        "Surname": "Pighetti",
+        "Forename": "Giacomo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Pighettus",
+            "AlternativeForename": "Iacopus"
+        },
+        "Nationality": {
+            "NationalityId": "117",
+            "Value": "of Bergamo"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

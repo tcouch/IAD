@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004870",
+        "WorkId": "000596",
+        "ShortTitle": "Academica Ioannis Bap. Rinaldi",
+        "LongTitle": "In Tres PartesDistribuita In Dialogos Quibus Literaria Resp. Militans Adversus Idoaneum Exprimitur. \nIn Lectiones Et In Oratione Academia Ab Eruditiss. Neap. Urbis Adolescentulis Recitas In Celebri Praestantium Virorum Consessu.\nSub Ioan. Andreae Curtii Sacri Senatus Neap. Praesidis Amplissimi Auspiciis.",
+        "ItacAcademyItem": {
+            "AcademyId": "0097",
+            "RecordID": "021-000004786",
+            "Value": "Accademia Rinaldiana"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1576",
+        "Shelfmark": "1575/190",
+        "Subjects": "Academic Speeches",
+        "Language": "Latin|Greek",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 62",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17869",
+                "RecordID": "022-000004785",
+                "Value": "Rinaldi,Giovanni Battista,,"
+            }
+        },
+        "Notes": "This text contains various references to the Rinaldiana Academy and its members.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17279",
+                    "RecordID": "022-000004094",
+                    "Value": "Lombardo,Giovanni Francesco ,,"
+                },
+                {
+                    "PersonId": "17281",
+                    "RecordID": "022-000004096",
+                    "Value": "Arcucci,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "17948",
+                    "RecordID": "022-000004871",
+                    "Value": "Sachus de Polla,Bartholomaeus,Friar,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Illustrissime ProRex.\nReip. litterariae Dialogos ab eruditiss. viro Io. Baptista Rinaldo elucubratos, quemad modum iussisti, studios\u00e8 legi:videnturq, digni ut in lucem ire possint.\nTibi deditissimus Io. Baptista Arcucius Theologiae Doctor.\nEgo Frater Bartholomaeus Sachus de Polla ordinis predicatorum sacrae Theologiae magister, fidem facio qualiter vidi dialogos reipublice literariae Magnifici viri Domini Ioannis Baptistae Rinaldi, et nihil in eis inveni quod fidei chatolicae repugnet & ideo typis secure committi possunt: & in fidem huius hec manu propria scripsi.\nDat. Neapoli in conventu sancti Dominici Die 13. Februarii 1576.\nReverendissime Domine.\ndialogi Reip. Literariae editi \u00e0 doctiss. & eruditiss. viro Domino Io. Bapt. Rinaldo c\u00f9m probentur \u00e0 Reverendis Theologis Arcutio, & Polla possunt imprimi. Neap. 13. Iulij 1576. Imprimatur.\nIo. Franciscus Lombardus.\nRegistrum. A B C D E F G H I K L \nOmne [s?] sunt terni",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17886",
+                "RecordID": "022-000004808",
+                "Value": "de Curte,Giovanni Andrea,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17304",
+                "RecordID": "022-000004124",
+                "Value": "Cacchi,Giuseppe,,1530s - 1593?"
+            }
+        },
+        "PrinterOrnament": "Edit16 V122 - Z150",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

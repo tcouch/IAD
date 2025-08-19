@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18179",
+        "RecordId": "022-000005156",
+        "Surname": "Stefonio",
+        "Forename": "Bernardino",
+        "AlternativeName": {
+            "AlternativeSurname": "Stephonio",
+            "AlternativeForename": "Bernardinus"
+        },
+        "DateText": "1560 - 1620",
+        "StartDate": "1560",
+        "EndDate": "1620",
+        "Nationality": {
+            "NationalityId": "218",
+            "Value": "of Sabina (Latium)"
+        },
+        "Notes": "For a short biographical account see Tarquinio Galluzzi, Difesa del Crispo tragedia, Rome, Stamparia Vaticana, 1633 (BL Shelfmark:1492.aa.3.)",
+        "Role": "Author|Dedicatee|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

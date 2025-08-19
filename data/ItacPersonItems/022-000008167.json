@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20443",
+        "RecordId": "022-000008167",
+        "Surname": "Bevilacqua",
+        "Forename": "Bonifazio",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1571-1627",
+        "StartDate": "1571",
+        "EndDate": "1627",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "See his bioography by Gaspare De Caro, in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0492",
+        "RecordId": "021-000008024",
+        "Name": "Fenici (Accademia dei)",
+        "City": {
+            "CityId": "38",
+            "CityItalianName": "Milano",
+            "CityEnglishName": "Milan",
+            "CityLatinName": "Mediolani"
+        },
+        "ItacPersonItem": {
+            "PersonId": "16253",
+            "RecordId": "022-000002901",
+            "Name": "de la Ravoire Falletti,Leonora,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

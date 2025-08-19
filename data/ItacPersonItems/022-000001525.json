@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9228",
+        "RecordId": "022-000001525",
+        "Surname": "Forteguerri",
+        "Forename": "Laudomia",
+        "Gender": "Female",
+        "DateText": "1515-1555",
+        "StartDate": "1515",
+        "EndDate": "1555",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Dedicatee",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

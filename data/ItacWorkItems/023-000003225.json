@@ -1,0 +1,41 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003225",
+        "WorkId": "000423",
+        "ShortTitle": "La sontuosissima entrata della gran Duchessa di Toscana nella citta` di Firenze",
+        "LongTitle": "Col numero de` personaggi, livree, feste et altre cose maravigliose fatte in quella Citta`. Aggiontovi gl`Intermedii della stupendissima Comedia de gli Intronati Senesi. Et il bellissimo apparato di quella. Con altri particolari degni d`esser intesi.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1589",
+        "Shelfmark": "811.g.34",
+        "Subjects": "Celebratory theatrical representation",
+        "Language": "Italian",
+        "Pagination": "[4]",
+        "Marginalia": "No",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53451",
+            "Value": "023-000003225_53451_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53452",
+            "Value": "023-000003225_53452_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

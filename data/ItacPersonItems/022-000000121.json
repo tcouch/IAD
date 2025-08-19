@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5125",
+        "RecordId": "022-000000121",
+        "Surname": "Dalla Corgna",
+        "Forename": "Fabio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "della Corgna"
+            },
+            {
+                "AlternativeSurname": "Della Cornia"
+            }
+        ],
+        "DateText": "fl.1638-1642",
+        "StartDate": "fl.1638",
+        "EndDate": "1642",
+        "Nationality": {
+            "NationalityId": "175",
+            "Value": "of Castiglione del Lago (Perugia)"
+        },
+        "Notes": "Joined the Gelati in 1642. He signs as Della Cornia in Monumentum (1638)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

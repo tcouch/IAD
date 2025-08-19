@@ -1,0 +1,1087 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0056",
+        "RecordId": "021-000003421",
+        "Name": "Rozzi (Congrega de`)",
+        "AlternativeName": "Rozza Congrega|Rozzeria|Accademia dei Rozzi",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Tree dry and infertile; rough bark; four branches two falling; from its roots sprouts a small green shoot; hole in the tree with nest of dormice",
+        "Motto": "Chi qui soggiorn` acquista quel che perde",
+        "StartDate": "1531",
+        "EndDate": "1535; 1544",
+        "DateText": "1531-1535; 1544-1552; 1561-1568; 1603-",
+        "Notes": "Reference work on the Rozzi, including details about people, is Mazzi, La Congrega de` Rozzi di Siena nel secolo 16, 2 vols (Florence, 1882). \nMore recent history of the Congrega/Accademia, and contextualisation of Rozzi`s publication is I Rozzi di Siena 1531-2001, ed. Giuliano Catoni and Mario De Gregorio (Siena 2001).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16686",
+                "RecordId": "022-000003422",
+                "Name": "d`Anselmo,Stefano,,",
+                "Nickname": "Digrossato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16687",
+                "RecordId": "022-000003423",
+                "Name": "di Donato,Alessandro,,ca. 1500 -",
+                "Nickname": "Voglioroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16688",
+                "RecordId": "022-000003424",
+                "Name": "di Cenni,Angelo,,",
+                "Nickname": "Risoluto or Resoluto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16689",
+                "RecordId": "022-000003425",
+                "Name": "Anton Maria,,,",
+                "Nickname": "Stecchito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16690",
+                "RecordId": "022-000003426",
+                "Name": "Marc`Antonio,,,",
+                "Nickname": "Avviluppato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16691",
+                "RecordId": "022-000003427",
+                "Name": "Bartolommeo,,,",
+                "Nickname": "Pronto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16692",
+                "RecordId": "022-000003428",
+                "Name": "Ventura,,,",
+                "Nickname": "Traversone",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16693",
+                "RecordId": "022-000003429",
+                "Name": "Pacchiarotti,Giacomo di Girolamo,,1474 - ca. 1540",
+                "Nickname": "Dondolone",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16694",
+                "RecordId": "022-000003430",
+                "Name": "del Milanino,Bartolommeo,,",
+                "Nickname": "Galluzza or Sgalluzza",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16695",
+                "RecordId": "022-000003431",
+                "Name": "di Giovanni,Agnoletto ,,",
+                "Nickname": "Rimena",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16696",
+                "RecordId": "022-000003432",
+                "Name": "di Gismondo,Bartolommeo,,",
+                "Nickname": "Malrimondo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16697",
+                "RecordId": "022-000003433",
+                "Name": "Scipione,,,fl. 1533",
+                "Nickname": "Maraviglioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16698",
+                "RecordId": "022-000003434",
+                "Name": "Quieto,,,",
+                "Nickname": "Quieto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16699",
+                "RecordId": "022-000003435",
+                "Name": "Ruvido,,,",
+                "Nickname": "Ruvido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16700",
+                "RecordId": "022-000003436",
+                "Name": "di Agostino,Giovanni ,,fl. 1533 - 1561",
+                "Nickname": "Stralunato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16701",
+                "RecordId": "022-000003437",
+                "Name": "di Niccolo`,Virgilio ,,",
+                "Nickname": "Arrogante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16702",
+                "RecordId": "022-000003438",
+                "Name": "di Silvio,Domenico ,,fl.1533 - 1561",
+                "Nickname": "Contento",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16703",
+                "RecordId": "022-000003439",
+                "Name": "Orlando?,,,fl. 1531 - 1561",
+                "Nickname": "Fredo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16704",
+                "RecordId": "022-000003440",
+                "Name": "Perticone,,,",
+                "Nickname": "Perticone",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16705",
+                "RecordId": "022-000003441",
+                "Name": "di Giovanni,Cesare ,,fl.1533",
+                "Nickname": "Spasimato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16706",
+                "RecordId": "022-000003442",
+                "Name": "di maestro Angiolo ,Bartolommeo ,,fl.1533",
+                "Nickname": "Tribolato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16707",
+                "RecordId": "022-000003443",
+                "Name": "di Santi,Niccolo` ,,fl.1533",
+                "Nickname": "Scomodato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16708",
+                "RecordId": "022-000003444",
+                "Name": "Amerighi,Bernardino di Santino,,",
+                "Nickname": "Bizzarro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16709",
+                "RecordId": "022-000003445",
+                "Name": "di Antonio di Michelagnolo,Michelagnolo ,,",
+                "Nickname": "Allegro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16710",
+                "RecordId": "022-000003446",
+                "Name": "Michele ,,,",
+                "Nickname": "Smarrito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16714",
+                "RecordId": "022-000003450",
+                "Name": "Bacarino,,,",
+                "Nickname": "Trastalingo or Trastalirgo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16716",
+                "RecordId": "022-000003452",
+                "Name": "Menchiaferro,Girolamo,,",
+                "Nickname": "Appontato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16717",
+                "RecordId": "022-000003453",
+                "Name": "Lorenzo,,,",
+                "Nickname": "Grossolano",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16718",
+                "RecordId": "022-000003454",
+                "Name": "di Michelangiolo,Antonio ,,",
+                "Nickname": "Avvertito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16719",
+                "RecordId": "022-000003455",
+                "Name": "di Giannello,Camillo ,,fl.1533 - 1562",
+                "Nickname": "Noioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16720",
+                "RecordId": "022-000003456",
+                "Name": "di Niccolo`,Alessandro ,,",
+                "Nickname": "Lento",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16721",
+                "RecordId": "022-000003457",
+                "Name": "di Luca,Marcantonio ,,",
+                "Nickname": "Ammoscito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16722",
+                "RecordId": "022-000003458",
+                "Name": "Fucci,maestro Lorenzo,,",
+                "Nickname": "Attento",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16723",
+                "RecordId": "022-000003459",
+                "Name": "Scipione,,,",
+                "Nickname": "Desto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16724",
+                "RecordId": "022-000003460",
+                "Name": "Unknown,,,fl.1533 - 1561",
+                "Nickname": "Frascettuzzo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16725",
+                "RecordId": "022-000003461",
+                "Name": "di Girolamo,Niccolo` ,,",
+                "Nickname": "Forzato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16726",
+                "RecordId": "022-000003462",
+                "Name": "di Panzera,Bartolommeo ,,",
+                "Nickname": "Cauto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16727",
+                "RecordId": "022-000003463",
+                "Name": "di Pietro Paolo Sciolti,Niccolo` ,,",
+                "Nickname": "Sciolto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16728",
+                "RecordId": "022-000003464",
+                "Name": "Neri ,,,",
+                "Nickname": "Puraccio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16729",
+                "RecordId": "022-000003465",
+                "Name": "Annibale,,,",
+                "Nickname": "Svegliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16730",
+                "RecordId": "022-000003466",
+                "Name": "di Bernardino Bolsi,Cesare ,,",
+                "Nickname": "Insonnito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16732",
+                "RecordId": "022-000003468",
+                "Name": "Cacciaconti,Ascanio,,",
+                "Nickname": "Strafalcione",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16733",
+                "RecordId": "022-000003469",
+                "Name": "Mengari,Ansano,,",
+                "Nickname": "Dolente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16734",
+                "RecordId": "022-000003470",
+                "Name": "Rossi,Sinolfo,,",
+                "Nickname": "Materiale",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16735",
+                "RecordId": "022-000003471",
+                "Name": "Pagano,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16736",
+                "RecordId": "022-000003472",
+                "Name": "Tiberio,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16737",
+                "RecordId": "022-000003473",
+                "Name": "Giovanni Battista,,,",
+                "Nickname": "Falotico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16738",
+                "RecordId": "022-000003474",
+                "Name": "Gori,Niccolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16739",
+                "RecordId": "022-000003475",
+                "Name": "Giovanni,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16740",
+                "RecordId": "022-000003476",
+                "Name": "Cipriano,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16741",
+                "RecordId": "022-000003477",
+                "Name": "del Cheria,Bartolommeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16742",
+                "RecordId": "022-000003478",
+                "Name": "di Girolamo,Lattanzio ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16743",
+                "RecordId": "022-000003479",
+                "Name": "Antonio,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16744",
+                "RecordId": "022-000003480",
+                "Name": "di maestro Cristofano,Lorenzo ,,",
+                "Nickname": "Cirloso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16745",
+                "RecordId": "022-000003481",
+                "Name": "Florimi,Mario,,",
+                "Nickname": "Faceto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16746",
+                "RecordId": "022-000003482",
+                "Name": "Salvestro,,,",
+                "Nickname": "Fumoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16747",
+                "RecordId": "022-000003483",
+                "Name": "Ascanio,,,",
+                "Nickname": "Balocco",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16748",
+                "RecordId": "022-000003484",
+                "Name": "Unknown,,,",
+                "Nickname": "Intendacchio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16749",
+                "RecordId": "022-000003485",
+                "Name": "Alessandro,,,fl.1544 - 1561",
+                "Nickname": "Gradito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16750",
+                "RecordId": "022-000003486",
+                "Name": "degli orioli,Giovan Battista ,,fl.1544 - 1550",
+                "Nickname": "Attuito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16751",
+                "RecordId": "022-000003487",
+                "Name": "Unknown,,,",
+                "Nickname": "Scolto or Svolto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16752",
+                "RecordId": "022-000003488",
+                "Name": "Bernardino,,,",
+                "Nickname": "Avventato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16753",
+                "RecordId": "022-000003489",
+                "Name": "Luzio,,,? - 1546",
+                "Nickname": "Accorto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16754",
+                "RecordId": "022-000003490",
+                "Name": "Unknown,,,",
+                "Nickname": "Cotaio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16755",
+                "RecordId": "022-000003491",
+                "Name": "Benedetto,,,",
+                "Nickname": "Travagliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16756",
+                "RecordId": "022-000003492",
+                "Name": "Giovanni,,,fl. 1533 - 1544",
+                "Nickname": "Schizzinoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16757",
+                "RecordId": "022-000003493",
+                "Name": "Bascione,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16759",
+                "RecordId": "022-000003495",
+                "Name": "Bartolommeo,,,",
+                "Nickname": "Scorto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16760",
+                "RecordId": "022-000003496",
+                "Name": "di Salvatore,Agostino ,,",
+                "Nickname": "Mansueto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16761",
+                "RecordId": "022-000003497",
+                "Name": "Orlando?,,,",
+                "Nickname": "Fredo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16762",
+                "RecordId": "022-000003498",
+                "Name": "Francesco,,,",
+                "Nickname": "Buonaccio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16763",
+                "RecordId": "022-000003499",
+                "Name": "Unknown,,,",
+                "Nickname": "Pesato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16764",
+                "RecordId": "022-000003500",
+                "Name": "di Girolamo,Lattanzio ,,",
+                "Nickname": "Rustico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16765",
+                "RecordId": "022-000003501",
+                "Name": "Unknown,,,",
+                "Nickname": "Confuso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16767",
+                "RecordId": "022-000003503",
+                "Name": "di Giovanni di Antonio Grasso,Matteo ,,fl.1547 - 1561",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16768",
+                "RecordId": "022-000003504",
+                "Name": "Bernardino,,,",
+                "Nickname": "Vispo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16769",
+                "RecordId": "022-000003505",
+                "Name": "Alessandro,,,",
+                "Nickname": "Lieve",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16770",
+                "RecordId": "022-000003506",
+                "Name": "Unknown,,,",
+                "Nickname": "Domestico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16771",
+                "RecordId": "022-000003507",
+                "Name": "Antonio,,,",
+                "Nickname": "Trascurato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16772",
+                "RecordId": "022-000003508",
+                "Name": "Pier Giovanni,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16773",
+                "RecordId": "022-000003509",
+                "Name": "Bernone,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16774",
+                "RecordId": "022-000003510",
+                "Name": "Unknown,,,fl. 1548 - 1550",
+                "Nickname": "Intozzato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16775",
+                "RecordId": "022-000003511",
+                "Name": "Simone,,,",
+                "Nickname": "Amorevole",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16776",
+                "RecordId": "022-000003512",
+                "Name": "Giulio,,,",
+                "Nickname": "Fastiggioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16777",
+                "RecordId": "022-000003513",
+                "Name": "di Goro,Giovan Battista ,,fl.1548 - 1552",
+                "Nickname": "Tenace",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16778",
+                "RecordId": "022-000003514",
+                "Name": "Lorenzo,,,",
+                "Nickname": "Quieto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16779",
+                "RecordId": "022-000003515",
+                "Name": "Unknown,,,",
+                "Nickname": "Sfacciatone",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16780",
+                "RecordId": "022-000003516",
+                "Name": "Girolamo,,,",
+                "Nickname": "Attonito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16781",
+                "RecordId": "022-000003517",
+                "Name": "Francesco(2),,,",
+                "Nickname": "Scialequato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16782",
+                "RecordId": "022-000003518",
+                "Name": "Unknown,,,fl.1550 - 1561",
+                "Nickname": "Accomodato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16783",
+                "RecordId": "022-000003519",
+                "Name": "Riccio,,,",
+                "Nickname": "Stolto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16784",
+                "RecordId": "022-000003520",
+                "Name": "di Giovan Pietro,Giovan Battista ,,",
+                "Nickname": "Cortese",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16785",
+                "RecordId": "022-000003521",
+                "Name": "del Tita,Michelangiolo ,,",
+                "Nickname": "Vano",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16786",
+                "RecordId": "022-000003522",
+                "Name": "d`Angiolo Pasquini,Giovan Battista ,,",
+                "Nickname": "Trascorso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16787",
+                "RecordId": "022-000003523",
+                "Name": "Francesco,,,",
+                "Nickname": "Affabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16790",
+                "RecordId": "022-000003530",
+                "Name": "di Giovan Piero,Girolamo ,,",
+                "Nickname": "Corretto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16791",
+                "RecordId": "022-000003531",
+                "Name": "del Ciciliano,Vincenzo ,,",
+                "Nickname": "Duro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16792",
+                "RecordId": "022-000003532",
+                "Name": "di Cornelio,Agnazio ,,",
+                "Nickname": "Vivo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16794",
+                "RecordId": "022-000003534",
+                "Name": "Marini,Giovan Battista di Iacomo,,",
+                "Nickname": "Affabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16795",
+                "RecordId": "022-000003535",
+                "Name": "Aurelio,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16796",
+                "RecordId": "022-000003536",
+                "Name": "di Ganone,Pietro ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16797",
+                "RecordId": "022-000003537",
+                "Name": "Viva,Maurizio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16798",
+                "RecordId": "022-000003538",
+                "Name": "Binati,Giovan Battista,,",
+                "Nickname": "Falotico?",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16799",
+                "RecordId": "022-000003539",
+                "Name": "di Maestro Iacopo,Giovan Battista ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16800",
+                "RecordId": "022-000003540",
+                "Name": "di Francesco,Savino ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16802",
+                "RecordId": "022-000003545",
+                "Name": "Flori,Benvenuto,,",
+                "Nickname": "Dilettevole",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16807",
+                "RecordId": "022-000003553",
+                "Name": "Tommaso,,,",
+                "Nickname": "Elevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16808",
+                "RecordId": "022-000003554",
+                "Name": "Unknown ,,,",
+                "Nickname": "Appostato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16809",
+                "RecordId": "022-000003555",
+                "Name": "Unknown ,,,",
+                "Nickname": "Strutto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16810",
+                "RecordId": "022-000003556",
+                "Name": "Unknown ,,,",
+                "Nickname": "Maturo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16811",
+                "RecordId": "022-000003557",
+                "Name": "Unknown ,,,",
+                "Nickname": "Ravvisto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16812",
+                "RecordId": "022-000003558",
+                "Name": "Unknown ,,,",
+                "Nickname": "Ripreso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16814",
+                "RecordId": "022-000003560",
+                "Name": "Unknown ,,,",
+                "Nickname": "Modesto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16815",
+                "RecordId": "022-000003561",
+                "Name": "del Falito(?),Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16816",
+                "RecordId": "022-000003562",
+                "Name": "Domenico pisano,,,",
+                "Nickname": "Capriccioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16817",
+                "RecordId": "022-000003563",
+                "Name": "Pacchiarotti,Ascanio di Guerriere,,",
+                "Nickname": "Spensierito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16818",
+                "RecordId": "022-000003564",
+                "Name": "di Bartolommeo,Vincenzo,,",
+                "Nickname": "Vantaggioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16819",
+                "RecordId": "022-000003565",
+                "Name": "Unknown ,,,",
+                "Nickname": "Susorgnone",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16829",
+                "RecordId": "022-000003584",
+                "Name": "Unknown,,,",
+                "Nickname": "Sicuro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16830",
+                "RecordId": "022-000003585",
+                "Name": "Unknown,,,",
+                "Nickname": "Lasso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16831",
+                "RecordId": "022-000003586",
+                "Name": "Unknown,,,",
+                "Nickname": "Acceso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16832",
+                "RecordId": "022-000003587",
+                "Name": "Unknown,,,",
+                "Nickname": "Raccolto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16833",
+                "RecordId": "022-000003588",
+                "Name": "di Iacomo,Matteo,,",
+                "Nickname": "Avvertito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16834",
+                "RecordId": "022-000003589",
+                "Name": "di Goro,Assuero di Giovan Battista,,",
+                "Nickname": "Stizoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16835",
+                "RecordId": "022-000003590",
+                "Name": "di Francesco,Girolamo,,",
+                "Nickname": "Trascorso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16836",
+                "RecordId": "022-000003591",
+                "Name": "di Giovan Francesco,Salustio,,",
+                "Nickname": "Piacevole",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16837",
+                "RecordId": "022-000003592",
+                "Name": "di Cornelio,Lepido(?),,",
+                "Nickname": "Stravagante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16838",
+                "RecordId": "022-000003593",
+                "Name": "Domenico,,,",
+                "Nickname": "Dubbioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16841",
+                "RecordId": "022-000003596",
+                "Name": "Unknown,,,",
+                "Nickname": "Leggero",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16842",
+                "RecordId": "022-000003597",
+                "Name": "Unknown,,,",
+                "Nickname": "Fervente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16843",
+                "RecordId": "022-000003598",
+                "Name": "Marco,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17353",
+                "RecordId": "022-000004185",
+                "Name": "Trinci,Francesco Mariano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16766",
+                "RecordId": "022-000003502",
+                "Name": "Unknown,TTT,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

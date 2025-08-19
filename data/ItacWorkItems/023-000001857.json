@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001857",
+        "WorkId": "00132",
+        "ShortTitle": "Considerationi di Gio. Pietro Malacreta dottor Vicentino detto nell`Accademia degli Orditi di Padova L`Innaspato;",
+        "LongTitle": "sopra il Pastor Fido tragicomedia pastorale del molto illustre Sig[nor] cavalier Battista Guarini. Seconda editione. Con licenza de` superiori",
+        "ItacAcademyItem": {
+            "AcademyId": "0022",
+            "RecordID": "021-000001817",
+            "Value": "Accademia degli Orditi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "37",
+            "PublicationPlaceItalianName": "Vicenza",
+            "PublicationPlaceEnglishName": "Vicenza",
+            "PublicationPlaceLatinName": "Vicentiae"
+        },
+        "PublicationYear": "1600",
+        "DedicationPlaceDate": "Vicenza 12 June 1600",
+        "Shelfmark": "82.a.4.(1.) | 839.g.7.(1.)",
+        "Subjects": "Literary criticism",
+        "Language": "Italian",
+        "Pagination": "pp. 92",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9650",
+                "RecordID": "022-000001819",
+                "Value": "Malacreta,Gio. Pietro,,c. 1600"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9636",
+                "RecordID": "022-000001683",
+                "Value": "Bolzetta,Francesco,,1566-1653"
+            }
+        },
+        "Notes": "Copy 839.g.7.(1.) contains marginalia",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "9656",
+                "RecordID": "022-000001825",
+                "Value": "Capugnano,Ieronimo,,"
+            }
+        },
+        "CensorsAgreement": "Noi Fra Ieronimo Capugnano dell`ordine dei predicatori Maestro in teologia et inquisitore di Vicenza abbiamo lette et approvate perch\u00e9 si possano stampare le Considerationi del signor Malacreta sopra il Pastor fido. In fede di che et c.. Dat. In Vicenza a 10 di Giugno 1600. Cos\u00ec \u00e8 F. ieronimo Capugnano Inquisitore",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9653",
+                "RecordID": "022-000001822",
+                "Value": "Gonzaga,Ferrando,Prince of Molfetta,1563-1630"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9634",
+                "RecordID": "022-000001675",
+                "Value": "Greco,Giorgio,,fl. 1580-1605"
+            }
+        },
+        "PrinterOrnament": "A150 | Z1181",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

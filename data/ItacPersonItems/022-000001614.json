@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9145",
+        "RecordId": "022-000001614",
+        "Surname": "Vedova",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "DateText": "1563-1608",
+        "StartDate": "1563",
+        "EndDate": "1608",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Jurist. Joined the Ricovrati in 1599. In 1600 he delivered a Latin oration in the Ricovrati Academy: `De disciplinis quae ad leges percipiendas aditum sternunt`. In 1601 he commented on Petrarch`s sonnet `Era il giorno che al sol si scoloraro`. In 1604 he discussed the importance of the printing press and its benefit. His portrait comes from Tomasini, Illustrium virorum elogia (1630).",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

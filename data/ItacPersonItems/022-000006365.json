@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19200",
+        "RecordId": "022-000006365",
+        "Surname": "Cobelluzzi",
+        "Forename": "Scipione",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Cobellutio"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1564-1626",
+        "StartDate": "1564",
+        "EndDate": "1626",
+        "Nationality": {
+            "NationalityId": "104",
+            "Value": "of Viterbo"
+        },
+        "Notes": "For Cobelluzzi`s responsibility as Cardinal librarian, see F. Petrucci, `Cobelluzzi, Scipione`, in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

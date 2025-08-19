@@ -1,0 +1,93 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004191",
+        "WorkId": "000537",
+        "ShortTitle": "Lettura Sopra la Concione di Marfisa a Carlo Magno, contenuta nel Furioso al Canto trentesim`ottavo,",
+        "LongTitle": "Fatta Da Gregorio Caloprese Nell`Accademia degl`Infuriati di Napoli nell`anno 1690. Nella quale, l`artificio adoperato dall`Ariosto, in detta Concione, si spone ancora quello, che si \u00e8 usato dal Tasso nell`Oratione d`Armida a Goffredo.\nDedicata All`Illustrissimo Signore D. Francesco Del Giudice.",
+        "ItacAcademyItem": {
+            "AcademyId": "0030",
+            "RecordID": "021-000002423",
+            "Value": "Accademia degli Infuriati"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1691",
+        "DedicationPlaceDate": "Naples",
+        "Shelfmark": "81.k.23.",
+        "Subjects": "Academic Speeches",
+        "Language": "Italian",
+        "Pagination": "pp. 88",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17356",
+                "RecordID": "022-000004190",
+                "Value": "Caloprese,Gregorio,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15197",
+                    "RecordID": "022-000001239",
+                    "Value": "Perissius,Sebastianus,,"
+                },
+                {
+                    "PersonId": "5242",
+                    "RecordID": "022-000000234",
+                    "Value": "Soria,,,"
+                },
+                {
+                    "PersonId": "5240",
+                    "RecordID": "022-000000232",
+                    "Value": "Carrillo,,,"
+                },
+                {
+                    "PersonId": "16131",
+                    "RecordID": "022-000002740",
+                    "Value": "Gaeta,,,"
+                },
+                {
+                    "PersonId": "15220",
+                    "RecordID": "022-000001242",
+                    "Value": "Moles,,,"
+                },
+                {
+                    "PersonId": "16132",
+                    "RecordID": "022-000002741",
+                    "Value": "Miroballus,,,"
+                },
+                {
+                    "PersonId": "16950",
+                    "RecordID": "022-000003738",
+                    "Value": "Biscardus,Seraphinus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Sebastianus Perissus Vic. Gen.\nEccellentissimo Signore. \nPer comandamento di V.E. h\u00f2 letto il libro il cui titolo \u00e8: Lettura di Gregorio Caloprese sopra la concione di Marfisa a Carlo magno, e perche non ci h\u00f2 trovato cosa, che contrasti alla Real Giurisdittione; per tanto parendo cos\u00ec all`Eccell. Vostra, si potr\u00e0 dare alle stampe. \nDi V. Eccell. \nDivotissimo Servidore \nSerafino Biscardi.\nImprimatur, verum in publicatione servetur Regia Pragmatica.\nCarrillo R. Soria R. Gaeta R. Moles R. Miroball. R. Jacca R.\nProvisum per S. E. Neap. die 6. mensis Octobris 1690. \nAthenasius.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17357",
+                "RecordID": "022-000004192",
+                "Value": "Del Giudice,Francesco,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5260",
+                "RecordID": "022-000000251",
+                "Value": "Bulifon,Antonio,,1649-c. 1700"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53943",
+            "Value": "023-000004191_53943_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

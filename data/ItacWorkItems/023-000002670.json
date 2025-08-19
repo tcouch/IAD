@@ -1,0 +1,136 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002670",
+        "WorkId": "000329",
+        "ShortTitle": "Rime Seconde",
+        "LongTitle": "della Signora Laura Terracina Di Napoli. Et di diversi a lei.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1549",
+        "DedicationPlaceDate": "Naples 1 September 1548",
+        "Shelfmark": "11426.aaa.36.(2.)",
+        "Content": "Poetry",
+        "Subjects": "Encomiastic Poetry",
+        "Language": "Italian",
+        "Illustration": "Woodcut|Portrait of Laura Terracina",
+        "Pagination": "pp. 108",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16062",
+                "RecordID": "022-000002642",
+                "Value": "Terracina,Laura,,1519-1577"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16085",
+                    "RecordID": "022-000002671",
+                    "Value": "Amici,Incogniti,,"
+                },
+                {
+                    "PersonId": "16084",
+                    "RecordID": "022-000002669",
+                    "Value": "Caetano,,,"
+                },
+                {
+                    "PersonId": "16082",
+                    "RecordID": "022-000002667",
+                    "Value": "Curz,Lionardo,,"
+                },
+                {
+                    "PersonId": "16083",
+                    "RecordID": "022-000002668",
+                    "Value": "Palombo,,,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16082",
+                    "RecordID": "022-000002667",
+                    "Value": "Curz,Lionardo,,"
+                },
+                {
+                    "PersonId": "16062",
+                    "RecordID": "022-000002642",
+                    "Value": "Terracina,Laura,,1519-1577"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0037",
+                "RecordID": "021-000002640",
+                "Value": "Accademia degli Incogniti"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Di Palombo de Gl`Incogniti;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16083",
+                            "RecordID": "022-000002668",
+                            "Value": "Palombo,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Caetano de Gl`Incogniti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16084",
+                            "RecordID": "022-000002669",
+                            "Value": "Caetano,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Magnifico Lionardo Curz, gli Amici Incogniti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16085",
+                            "RecordID": "022-000002671",
+                            "Value": "Amici,Incogniti,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al S. Lionardo Curz Alemano, Laura Terracina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16062",
+                            "RecordID": "022-000002642",
+                            "Value": "Terracina,Laura,,1519-1577"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Signora Laura Terracina, Museo de gli Incogniti.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16087",
+                            "RecordID": "022-000002673",
+                            "Value": "Academia,De gl`Incogniti,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

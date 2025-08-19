@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005924",
+        "WorkId": "000704",
+        "ShortTitle": "Il dispettoso marito",
+        "LongTitle": "Comedia nuova del signor Vergilio Verucci. Dottor di legge, et Academico Intricato di Roma: Dedicata al molto illustre Signore il signor Tiberio Alberini.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0134",
+                "RecordID": "021-000005917",
+                "Value": "Accademia degli Intricati"
+            },
+            {
+                "AcademyId": "0127",
+                "RecordID": "021-000005619",
+                "Value": "Accademia degli Imperfetti"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1612",
+        "DedicationPlaceDate": "Rome 20 August 1611",
+        "Shelfmark": "638a23(3)|1071l8(6)",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "37",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18843",
+                "RecordID": "022-000005920",
+                "Value": "Verucci,Virgilio,,"
+            }
+        },
+        "Notes": "Dedication is signed by `Il Dispettoso Accademico Imperfetto`.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18847",
+                "RecordID": "022-000005926",
+                "Value": "Alberini,Tiberio,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18848",
+                "RecordID": "022-000005927",
+                "Value": "Dispettoso Accademico Imperfetto,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18846",
+                "RecordID": "022-000005925",
+                "Value": "de` Vecchi,Alessandro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54484",
+            "Value": "023-000005924_54484_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

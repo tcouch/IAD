@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9177",
+        "RecordId": "022-000001762",
+        "Surname": "Serment",
+        "Forename": "Louise Anastasie",
+        "Gender": "Female",
+        "DateText": "1641-1692",
+        "StartDate": "1641",
+        "EndDate": "1692",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "The date of the membership is not registered, due to the secretary`s negligence. Also known as `la Filosofa`, she is listed among `les sept merveilles de la R\u00e9publique des lettres... de l`Academie des Ricovrati` (De Vertron, La nouvelle Pandore (1698), p. 432).",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9190",
+        "RecordId": "022-000001778",
+        "Surname": "Habsburg",
+        "Forename": "Leopoldo I",
+        "AlternativeName": {
+            "AlternativeSurname": "Hapsburg",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Holy Roman Emperor",
+        "DateText": "1640-1705",
+        "StartDate": "1640",
+        "EndDate": "1705",
+        "Nationality": {
+            "NationalityId": "64",
+            "Value": "Austrian"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

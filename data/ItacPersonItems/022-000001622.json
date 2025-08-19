@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9032",
+        "RecordId": "022-000001622",
+        "Surname": "Gallo",
+        "Forename": "Giacomo",
+        "Gender": "Male",
+        "DateText": "1552-1618",
+        "StartDate": "1552",
+        "EndDate": "1618",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Joined the Ricovrati in 1602, and was Prince of the same Academy in 1605-1696. His portrait is taken from Tomasini, Illustrium virorum elogia (1630).",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

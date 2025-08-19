@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16053",
+        "RecordId": "022-000002630",
+        "Surname": "Portinari",
+        "Forename": "Francesco",
+        "AlternativeName": {
+            "AlternativeSurname": "Portinaro",
+            "AlternativeForename": null
+        },
+        "DateText": "1530? - 1578",
+        "StartDate": "1530?",
+        "EndDate": "1578",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "On Portinari`s membership in the Elevati and Rinascenti Academies, see Bruno Brunelli Bonetti, `Francesco Portenari e le Cantate degli Accademici padovani`, in Atti del Reale Istituto Veneto di scienze, lettere e arti (1919-20), pp. 595-607.",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

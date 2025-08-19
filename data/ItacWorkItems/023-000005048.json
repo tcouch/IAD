@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005048",
+        "WorkId": "000618",
+        "ShortTitle": "Formaggiata di Sere Stentato",
+        "LongTitle": "al Serenissimo re della virtude [Claudio Tolomei, with a letter from the printer to the reader written by A. F. Doni?]",
+        "ItacAcademyItem": {
+            "AcademyId": "0107",
+            "RecordID": "021-000005041",
+            "Value": "Accademia della Virt\u00f9"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1542",
+        "Shelfmark": "240.f.40",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18094",
+                "RecordID": "022-000005047",
+                "Value": "Landi,Giulio,,1498 - 1579"
+            }
+        },
+        "Notes": "According to Denis Rhodes, the printer is Gabriele Giolito de` Ferrari, and the place of publication is Venice (see Rhodes, `Accertamenti`, in Bullettino storico piacentino, 80, 1985).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7551",
+                "RecordID": "022-000001455",
+                "Value": "Tolomei,Claudio,Bishop,1492 - 1555/6"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54410",
+            "Value": "023-000005048_54410_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54411",
+            "Value": "023-000005048_54411_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

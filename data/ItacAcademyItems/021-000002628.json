@@ -1,0 +1,101 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0036",
+        "RecordId": "021-000002628",
+        "Name": "Stabili (Accademia degli)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "Motto": "Natura habituque",
+        "StartDate": "ca1580",
+        "EndDate": "ca1610",
+        "DateText": "ca1580-ca1610",
+        "Notes": "See Maylender, V, pp. 252-3, and Lorenzo Pignoria`s letter to Paolo Gualdo, dated 26 September 1614. Other publications related to the Academy, but not included in the British Library catalogue, are: Il panigirico di Vincentio Bianco detto per nome dell`Accademia dei Signori Stabili all`Illustrissimo Signor Antonio Prioli capitano di Padova nella partenza di S. Signoria Ill.ma alli 7 di Aprile 1600 (Padua: Bolzetta, 1600). It contains the `insigna Academiae Stabilis`; Accademia degli Stabili, Carmina Academiorum Stabilium in discessu illustrissimi Dominici Delphini (Patauij: apud Laurentium Pasquatum, 1598)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16044",
+                "RecordId": "022-000002616",
+                "Name": "Crasso,Niccolo`,,",
+                "Nickname": "Il Pensoso",
+                "Motto": "Porriget hora",
+                "PersonEmblemDescription": "Chess board"
+            },
+            {
+                "PersonId": "15468",
+                "RecordId": "022-000001989",
+                "Name": "Zabarella,Giacomo,Count,1533-1589",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16091",
+                "RecordId": "022-000002679",
+                "Name": "Contarini,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9145",
+                "RecordId": "022-000001614",
+                "Name": "Vedova,Francesco,,1563-1608",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16092",
+                "RecordId": "022-000002680",
+                "Name": "Zorzi,Alvise,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16093",
+                "RecordId": "022-000002681",
+                "Name": "Sanguinazzo ,Niccolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16094",
+                "RecordId": "022-000002682",
+                "Name": "Olivieri,Niccolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16095",
+                "RecordId": "022-000002683",
+                "Name": "Cassiano ,Cassian da Udine,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16096",
+                "RecordId": "022-000002684",
+                "Name": "Milio Tedesco,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16097",
+                "RecordId": "022-000002685",
+                "Name": "Savio,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5101",
+        "RecordId": "022-000000098",
+        "Surname": "Agocchi",
+        "Forename": "Giovan Battista",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Agucchi"
+            },
+            {
+                "AlternativeSurname": "Agocchia"
+            }
+        ],
+        "PersonalTitle": "Archbishop",
+        "Pseudonym": "Graziadio Machati|Graziadio Maccati",
+        "DateText": "1570-1632",
+        "StartDate": "1570",
+        "EndDate": "1632",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "For his pseudonym, see Pierangelo Bellettini, `Ferroni` in DBI, vol. 47 p. 206.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

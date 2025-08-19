@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15219",
+        "RecordId": "022-000001261",
+        "Surname": "D`Engenio Caracciolo",
+        "Forename": "Cesare",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Caracciolo",
+                "AlternativeForename": "Caesaris"
+            },
+            {
+                "AlternativeSurname": "De Engenio"
+            },
+            {
+                "AlternativeSurname": "Caraccioli"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Author|Contributor|Dedicatee",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

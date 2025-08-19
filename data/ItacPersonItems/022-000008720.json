@@ -1,0 +1,32 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20854",
+        "RecordId": "022-000008720",
+        "Surname": "Bondino",
+        "Forename": "Alessandro",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bondeno"
+            },
+            {
+                "AlternativeSurname": "Agathemeros"
+            },
+            {
+                "AlternativeSurname": "Agathemon"
+            },
+            {
+                "AlternativeSurname": "Euhemeros"
+            }
+        ],
+        "DateText": "after1450-after1505",
+        "StartDate": "after1450",
+        "EndDate": "after1505",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See the short biography of Bondino, by Gianni Ballistrieri, in DBI. Bondino is not to be confused with the Ferrarese printer. Bondino`s presence and contribution to Aldo Manuzio`s Neakademia, is also asserted by Francesco Piovan, `Forteguerri, Scipione`, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20011",
+        "RecordId": "022-000007489",
+        "Surname": "Manin",
+        "Forename": "Lodovico",
+        "PersonalTitle": "Doge",
+        "DateText": "1726 - 1804",
+        "StartDate": "1726",
+        "EndDate": "1804",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

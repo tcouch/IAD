@@ -1,0 +1,119 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0359",
+        "RecordId": "021-000007302",
+        "Name": "Cacciatori (Accademia dei)",
+        "AlternativeName": "Accademia Cacciatrice|Academia Venatorum",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Hare chased by a dog",
+        "Motto": "Et cursitasse juvabit",
+        "StartDate": "1596",
+        "EndDate": "?",
+        "DateText": "1596-?",
+        "Notes": "Printed books related to the history of this Academy, not in British Library collections, include: Carmina varia Academicorum venatorum. Quae partim recitata, partim affixa parietibus fuerunt cum clarissimus Ioseph Bollanus principatum iniret (In Vinegia : presso Daniel Bisuccio, 1608 (in aedib. Sem., 1608 cal. oct.); Componimenti dell`Accademia Cacciatrice del Seminario di San Marco in morte di Vincenzo Marchetti (Venezia, 1607); Anagrammaton decades septem pro Academia Venatorum Seminarii Divi Marci (Venetiis: Bixuccius, 1611).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20181",
+                "RecordId": "022-000007706",
+                "Name": "Zeno,Jacopo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20182",
+                "RecordId": "022-000007707",
+                "Name": "Trevisano,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20183",
+                "RecordId": "022-000007708",
+                "Name": "Baroni,Jacopo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20184",
+                "RecordId": "022-000007709",
+                "Name": "Barozzi,Gian Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20185",
+                "RecordId": "022-000007710",
+                "Name": "Anguissola,Gian Alvise,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20186",
+                "RecordId": "022-000007711",
+                "Name": "Ferrari,Gianambrogio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20187",
+                "RecordId": "022-000007712",
+                "Name": "Moscheni,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20195",
+                "RecordId": "022-000007721",
+                "Name": "Tiepolo,Giovanni,Primicerio of San Marco|Patriarch of Venice,1571-1631",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20194",
+                "RecordId": "022-000007720",
+                "Name": "Donato,Leonardo,Doge,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20192",
+                "RecordId": "022-000007718",
+                "Name": "Marchetti,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20188",
+                "RecordId": "022-000007713",
+                "Name": "Lessi,Lodovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20196",
+                "RecordId": "022-000007722",
+                "Name": "Bollani,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

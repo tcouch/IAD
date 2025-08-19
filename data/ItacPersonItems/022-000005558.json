@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18523",
+        "RecordId": "022-000005558",
+        "Surname": "Bembo",
+        "Forename": "Marco",
+        "Gender": "Male",
+        "DateText": "1619-1697",
+        "StartDate": "1619",
+        "EndDate": "1697",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Patron of the Accademia Delfica",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

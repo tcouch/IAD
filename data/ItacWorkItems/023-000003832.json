@@ -1,0 +1,121 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003832",
+        "WorkId": "000515",
+        "ShortTitle": "Breve E Sustatiale Trattato Intorno Alle Figure Anathomiche",
+        "LongTitle": "Delli pi\u00f9 principali Animali terrestri, Aquatili, et Volatili, con la simpatia et Convenienza che hanno \u00f2 in parte, \u00f2 in tutto, con il corpo humano con maturi, et succinti discorsi dalle loro naturali propriet\u00e0 di Geroglifichi, et moralit\u00e0 pi\u00f9 curiosi, cavati. Composto Da F. Gio: Germano Francese Medico Chirurgico, et al presente Religioso minimo del ordine di S. Francisco di Paola et Dato alla Stampa ad istantia del Sig. Canonico D. Luigi Ricci.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            },
+            {
+                "AcademyId": "0064",
+                "RecordID": "021-000003810",
+                "Value": "Accademia degli Erculei"
+            }
+        ],
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1625",
+        "DedicationPlaceDate": "Naples 20 April 1625",
+        "Shelfmark": "548.k.8 (1.)",
+        "Subjects": "Animal anatomy",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|",
+        "Pagination": "pp. 58",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17019",
+                "RecordID": "022-000003824",
+                "Value": "Germain,Jean,Friar,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17018",
+                    "RecordID": "022-000003823",
+                    "Value": "Bernaudo,Francesco,,"
+                },
+                {
+                    "PersonId": "17022",
+                    "RecordID": "022-000003827",
+                    "Value": "Tipoldo,Giuseppe,,"
+                },
+                {
+                    "PersonId": "17023",
+                    "RecordID": "022-000003828",
+                    "Value": "Novario,Giovanni Maria,,"
+                },
+                {
+                    "PersonId": "17024",
+                    "RecordID": "022-000003829",
+                    "Value": "Severino,Marco Aurelio,,"
+                },
+                {
+                    "PersonId": "17025",
+                    "RecordID": "022-000003830",
+                    "Value": "Balzano Raimondo,,,"
+                },
+                {
+                    "PersonId": "15006",
+                    "RecordID": "022-000001048",
+                    "Value": "Zizza,Prospero Antonio,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con licenza d\u00ec superiori.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17020",
+                "RecordID": "022-000003825",
+                "Value": "Pignatelli,Fabrizio,Prince,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17021",
+                "RecordID": "022-000003826",
+                "Value": "Riccio,Luigi,Canon,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16853",
+                "RecordID": "022-000003611",
+                "Value": "Perrey,Nicolas,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19190",
+                "RecordID": "022-000006348",
+                "Value": "Maccarano,Domenico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53963",
+            "Value": "023-000003832_53963_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "A Fra Giovanni Germano Del Signor Don Francesco Bernaudo Prencipe Dell`Herculei.\nFra Giovanni Germano Anagrammatismo. Ei Forma Una Gran Gioia. Dell`Istesso.\nA Fra Giovan Germano L`Herculeo Consultore Gioseppe Tipoldo.\nA Fra Giovan Germano Di Cotesta Opera Famigerato Autore. Gio. Maria Novario dell`una, e l`altra legge Dottore.\nAd Fratrem Ioannem Germanum Minimitanum Scaletopaeum Admirabilem. Marci Aurelij Severini Anatonici Regij Lusus.\nIn Libri Laudem Fr. Ioannis Germani. P. Fr. Raymundi Balzani Minimitani, Philosophiae Lactoris, & ex Herculeorum Academia Consultoris, Errantis nomine.\nEiusdem Ad Auctorem.\nAd Librum De Animalium Anatome Fr. Ioannis Germani Ad Fratrem Iacobum A Neapoli Eiusdem Libri Conservatorem. Admodum Reverendi D. Prosperi Antonij Zizzae Artium, & Philosophiae Lic. Acad. Neapol. noncupati Pij.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "",
+                        "RecordID": ""
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

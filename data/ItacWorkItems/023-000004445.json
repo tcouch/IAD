@@ -1,0 +1,82 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004445",
+        "WorkId": "000579",
+        "ShortTitle": "In Funere Admodum R.P.M. Thomae Caraphae Ordinis Praedicatorum Oratio",
+        "LongTitle": "Publice Habita Neapoli in aedibus Sacris Divi Dominici eiusdem Ordinis. A. P. D. Laurentio Bissio Bergomensi Clerico Regulari. vij Idus Sextileis MDCXIV.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "Naples 1 September 1614",
+        "Shelfmark": "1485.d.3.(18.)",
+        "Subjects": "Funeral oration",
+        "Language": "Latin",
+        "Illustration": "Woodcut|Skull and crossbones",
+        "Pagination": "pp. 15. Unnumbered pagination",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17560",
+                "RecordID": "022-000004447",
+                "Value": "Bissio,Lorenzo,,"
+            }
+        },
+        "Notes": "On p. 13, the author refers to the Oziosi Academy in Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15223",
+                    "RecordID": "022-000001265",
+                    "Value": "Gallacinus,Rutilius,Canon,"
+                },
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Oratio haec conspersa quasi verborum, sententiarumq. floribus, public\u00e8 habita ab eruditissimo viro D. Laurentio Bissio infunere M. Thomae Caraphae eloquentia, & religione praestantissimi, digna est quae \u00e8 domesticis parietibus prodeat, typisq; excudatur, eaq; ab omnibus eloquentiae candidatis legatur, & relegatur.\nRutilius Gallacinus Canonicus deput. vidit, & perlegit regist. 35. \nPetrus Antonius Ghibertus Vic. Gen. Neap.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15125",
+                    "RecordID": "022-000001166",
+                    "Value": "Carafa,Francesco,Marquis of Ansi|Prince of Belvedere,1593-1640"
+                },
+                {
+                    "PersonId": "17559",
+                    "RecordID": "022-000004446",
+                    "Value": "Carafa,Tiberio,Prince of Bisignano,"
+                },
+                {
+                    "PersonId": "15101",
+                    "RecordID": "022-000001142",
+                    "Value": "Carafa,Tommaso,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15209",
+                "RecordID": "022-000001251",
+                "Value": "Roncagliolo,Gio. Domenico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54736",
+            "Value": "023-000004445_54736_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

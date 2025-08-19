@@ -1,0 +1,32 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19014",
+        "RecordId": "022-000006126",
+        "Surname": "Gronow",
+        "Forename": "Johann Friedrich",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Gronovio",
+                "AlternativeForename": "Giovanni Federico"
+            },
+            {
+                "AlternativeSurname": "Gronovius",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Ioannes Federicus"
+            }
+        ],
+        "DateText": "1611-1671",
+        "StartDate": "1611",
+        "EndDate": "1671",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "From Hamburg.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

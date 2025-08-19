@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006364",
+        "WorkId": "000761",
+        "ShortTitle": "Encyclopedia Pythagorea mostrata",
+        "LongTitle": "Da Nicolo` Stelliola Lynceo",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1616",
+        "DedicationPlaceDate": "Napoli 22 dicembre 1616",
+        "Shelfmark": "1038i31(9)",
+        "Subjects": "Encyclopaedia",
+        "Language": "Latin|Italian",
+        "Pagination": "[6]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19131",
+                "RecordID": "022-000006268",
+                "Value": "Stelliola,Niccolo` Antonio,,1546/7 - 1623"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19200",
+                "RecordID": "022-000006365",
+                "Value": "Cobelluzzi,Scipione,,1564 - 1626"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15032",
+                "RecordID": "022-000001074",
+                "Value": "Vitale,Costantino,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

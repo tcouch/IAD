@@ -1,0 +1,124 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0516",
+        "RecordId": "021-000008048",
+        "Name": "Filareti (Accademia dei)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "Motto": "Rectum signat",
+        "StartDate": "1554",
+        "EndDate": "?",
+        "DateText": "1554-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20471",
+                "RecordId": "022-000008201",
+                "Name": "Lollio,Alberto,,1508-1569",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20476",
+                "RecordId": "022-000008207",
+                "Name": "Bentivoglio,Ercole,,1507-1573",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20473",
+                "RecordId": "022-000008204",
+                "Name": "Antimaco,Marco Antonio,,ca.1473-1552",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15473",
+                "RecordId": "022-000001998",
+                "Name": "Giraldi Cinzio,Giambattista,,1504-1573",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16014",
+                "RecordId": "022-000002583",
+                "Name": "Giraldi,Lilio Gregorio,,1479 - 1552",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20474",
+                "RecordId": "022-000008205",
+                "Name": "Lando,Ortensio,,1500/12-1556/59",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20507",
+                "RecordId": "022-000008246",
+                "Name": "Tassoni,Ercole Estense,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9201",
+                "RecordId": "022-000001498",
+                "Name": "Gonzaga,Galeazzo,,1502-1573",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20508",
+                "RecordId": "022-000008247",
+                "Name": "Malaguzzi,Orazio,Count,1532-1583",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20509",
+                "RecordId": "022-000008248",
+                "Name": "Calcagnini,Ercole,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16006",
+                "RecordId": "022-000002575",
+                "Name": "Calcagnino,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7507",
+                "RecordId": "022-000001028",
+                "Name": "Pigna,Giovanni Battista,,1529 - 1575",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9221",
+                "RecordId": "022-000001518",
+                "Name": "Maggi,Vincenzo,, - 1564",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

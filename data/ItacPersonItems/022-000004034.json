@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17219",
+        "RecordId": "022-000004034",
+        "Surname": "Rota",
+        "Forename": "Bernardino",
+        "DateText": "1508 - 1575",
+        "StartDate": "1508",
+        "EndDate": "1575",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Bernardino Rota became President of the Sireni Academy in Naples",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

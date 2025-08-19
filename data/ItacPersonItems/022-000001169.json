@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15200",
+        "RecordId": "022-000001169",
+        "Surname": "Filomarino",
+        "Forename": "Ascanio",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Philomarino",
+                "AlternativeForename": "Ascanio"
+            },
+            {
+                "AlternativeSurname": "Filomarino",
+                "AlternativeForename": "Ascanius"
+            }
+        ],
+        "PersonalTitle": "Cardinal|Archbishop",
+        "DateText": "1583-1666",
+        "StartDate": "1583",
+        "EndDate": "1666",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Censor|Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

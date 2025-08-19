@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18989",
+        "RecordId": "022-000006099",
+        "Surname": "Biondi",
+        "Forename": "Giovan Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Biundovic",
+            "AlternativeForename": null
+        },
+        "DateText": "1572-1644",
+        "StartDate": "1572",
+        "EndDate": "1644",
+        "Nationality": {
+            "NationalityId": "347",
+            "Value": "of Lesina (Croatia)"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

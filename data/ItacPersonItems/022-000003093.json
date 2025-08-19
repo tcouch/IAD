@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16425",
+        "RecordId": "022-000003093",
+        "Surname": "Leoni",
+        "Forename": "Ottavio",
+        "Gender": "Male",
+        "DateText": "1578?-1630",
+        "StartDate": "1578?",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Joined the San Luca Academy in 1604, and the Virtuosi al Pantheon Academy in 1621, see his biography by Valentina Sapienza, in DBI.",
+        "Role": null,
+        "TypographicReference": "V282|Z689",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

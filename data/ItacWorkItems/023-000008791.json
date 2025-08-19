@@ -1,0 +1,33 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008791",
+        "WorkId": "001009",
+        "ShortTitle": "Constantii Varoli Bononiensis",
+        "LongTitle": "Adumbrati academici Ociosi Oratio habita in finere Camillii Vizanii Incerti Academici Ociosi",
+        "ItacAcademyItem": {
+            "AcademyId": "0148",
+            "RecordID": "021-000006222",
+            "Value": "Oziosi-Bologna (Accademia degli)"
+        },
+        "Shelfmark": "Harry Ransom Center Ranuzzi MSS 12853.xxxx.vii.25",
+        "Subjects": "Funeral oration",
+        "Language": "Latin",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19096",
+                "RecordID": "022-000006221",
+                "Value": "Varoli,Costanzo,,1543-1575"
+            }
+        },
+        "Notes": "The Italian translation of the title is: Orazione funebre in onore di Camillo Vezzani. Inc.: `si florentissimae Romanae Reipublicae celeberrimi illius Camilli interitus...`\nExpl.: `...duce adherere cupit quosque mortalitatem exutus, tecumque iterum coniunctus divina simul pulchritudine perfruatur.`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19093",
+                "RecordID": "022-000006218",
+                "Value": "Vizzani,Camillo,,1542-1566"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

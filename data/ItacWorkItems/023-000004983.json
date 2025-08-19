@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004983",
+        "WorkId": "000611",
+        "ShortTitle": "Ragionamento Di Luca Contile",
+        "LongTitle": "Sopra La Propriet\u00e0 Delle Imprese Con Le Particolari De Gli Academici Affidati Et Con Le Interpretationi Et Croniche. Alla Sac. Cat. M. Del Re Filippo.",
+        "ItacAcademyItem": {
+            "AcademyId": "0057",
+            "RecordID": "021-000003617",
+            "Value": "Accademia dei Sireni"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "80",
+            "PublicationPlaceItalianName": "Pavia",
+            "PublicationPlaceEnglishName": "Pavia",
+            "PublicationPlaceLatinName": "Ticinum"
+        },
+        "PublicationYear": "1574",
+        "DedicationPlaceDate": "Pavia 24 May 1574",
+        "Shelfmark": "635.l.26.",
+        "Subjects": "Academic Speeches|Emblems",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 163",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18042",
+                "RecordID": "022-000004982",
+                "Value": "Contile,Luca,,"
+            }
+        },
+        "Notes": "On p. 42 the author mentions the Sireni Academy in Naples",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18044",
+                "RecordID": "022-000004985",
+                "Value": "Philip II,,King of Spain,1556 - 1598"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18043",
+                "RecordID": "022-000004984",
+                "Value": "Bartoli,Girolamo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

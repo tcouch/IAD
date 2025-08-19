@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19268",
+        "RecordId": "022-000006451",
+        "Surname": "van Roomen",
+        "Forename": "Adrian",
+        "AlternativeName": {
+            "AlternativeSurname": "Romano",
+            "AlternativeForename": "Adriano"
+        },
+        "DateText": "1561 - 1615",
+        "StartDate": "1561",
+        "EndDate": "1615",
+        "Nationality": {
+            "NationalityId": "67",
+            "Value": "Dutch"
+        },
+        "Notes": "Mathematician. Not sure whether affiliated to the Lincei in 1615.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

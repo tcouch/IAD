@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7389",
+        "RecordId": "022-000000976",
+        "Surname": "Gatti",
+        "Forename": "Bassiano",
+        "Gender": "Male",
+        "DateText": "1562-1642",
+        "StartDate": "1562",
+        "EndDate": "1642",
+        "Nationality": {
+            "NationalityId": "171",
+            "Value": "of Piacenza"
+        },
+        "Notes": "See his biography by Lucinda Spera, in DBI.",
+        "Role": "Contributor|Author|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

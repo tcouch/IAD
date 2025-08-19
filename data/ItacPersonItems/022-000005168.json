@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18188",
+        "RecordId": "022-000005168",
+        "Surname": "Pallavicino",
+        "Forename": "Pietro Sforza",
+        "Gender": "Male",
+        "PersonalTitle": "Marquis|Cardinal|Jesuit",
+        "DateText": "1607-1667",
+        "StartDate": "1607",
+        "EndDate": "1667",
+        "Nationality": {
+            "NationalityId": "142",
+            "Value": "of Parma"
+        },
+        "Notes": "Professor of philosophy and theology at Rome.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

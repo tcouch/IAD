@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17867",
+        "RecordId": "022-000004781",
+        "Surname": "Saraceni",
+        "Forename": "Pietro Tommaso",
+        "DateText": "1562 - 1643",
+        "StartDate": "1562",
+        "EndDate": "1643",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Founder of the Accademia dei Risoluti, according to Maylender.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

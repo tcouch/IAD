@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18765",
+        "RecordId": "022-000005832",
+        "Surname": "Figari",
+        "Forename": "Pompeo",
+        "Gender": "Male",
+        "PersonalTitle": "Abbot",
+        "DateText": "ca.1650-1730",
+        "StartDate": "ca.1650",
+        "EndDate": "1730",
+        "Nationality": {
+            "NationalityId": "270",
+            "Value": "of Rapallo (Genova)"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20170",
+        "RecordId": "022-000007693",
+        "Surname": "Collurafi",
+        "Forename": "Antonino",
+        "AlternativeName": {
+            "AlternativeSurname": "Colluraffi",
+            "AlternativeForename": null
+        },
+        "DateText": "1585-1655",
+        "StartDate": "1585",
+        "EndDate": "1655",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Notes": "Founder fo the Informi. See his biography by Gino Benzoni, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

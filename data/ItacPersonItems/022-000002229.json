@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15698",
+        "RecordId": "022-000002229",
+        "Surname": "Doni",
+        "Forename": "Anton Francesco",
+        "Gender": "Male",
+        "DateText": "1513-1574",
+        "StartDate": "1513",
+        "EndDate": "1574",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Recent works on Doni include Dissonanze concordi: temi, questioni e personaggi intorno ad Anton Francesco Doni, ed. Giovanna Rizzarelli (Pisa, 2012).",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

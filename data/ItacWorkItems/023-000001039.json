@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001039",
+        "WorkId": "00064",
+        "ShortTitle": "Orthographia meridionalis",
+        "LongTitle": "Academicae Domus Bocchianae Bonon.",
+        "ItacAcademyItem": {
+            "AcademyId": "0016",
+            "RecordID": "021-000001019",
+            "Value": "Accademia Bocchiana"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1555",
+        "Shelfmark": "Maps K.Top.80.62.b.",
+        "Subjects": "Engraving|Academia Bocchiana",
+        "Language": "Latin",
+        "Marginalia": "No",
+        "Notes": "Engraving showing the south facade of the building where the Academy was based. Attributed to Giulio Bonasone, see Giulio Bonasone, Catalogue, ed. Stefania Massari (Rome, 1983), vol. I, pp. 52-3; see also Palazzo Bocchi, ed. Michele Danieli and Davide Ravaioli (Bologna, 2006).",
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "7502",
+                "RecordID": "022-000001022",
+                "Value": "Bonasoni,Giulio,,fl. 1531-1574"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7517",
+                "RecordID": "022-000001034",
+                "Value": "Novae Academiae Bocchianae,,,c. 1549-c. 1560"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "49494",
+            "Value": "023-000001039_49494_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "49495",
+            "Value": "023-000001039_49495_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

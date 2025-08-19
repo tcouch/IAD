@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002825",
+        "WorkId": "000361",
+        "ShortTitle": "La libraria del Doni fiorentino",
+        "LongTitle": "divisa in tre trattati. Nel primo sono scritti tutti gli autori volgari, con cento e piu` discorsi sopra quelli.\nNel secondo, sono dati in luce tutti i libri, che l`Autore ha veduti a penna, il nome de` componitori, dell`opere, i titoli, et le materie.\nNel terzo si legge l`inventione delle Accademie insieme con i soprannomi, i motti, le imprese, et l`opere fatte da tutti gli Accademici.\nLibro necessario e utile, a tutti coloro che della cognitione della lingua hanno bisogno, et che vogliono di tutti gli autori, libri et opere sapere scrivere, et ragionare.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0016",
+                "RecordID": "021-000001019",
+                "Value": "Accademia Bocchiana"
+            },
+            {
+                "AcademyId": "0107",
+                "RecordID": "021-000005041",
+                "Value": "Accademia della Virt\u00f9"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1557",
+        "Shelfmark": "271.a.26",
+        "Subjects": "Books",
+        "Language": "Italian",
+        "Pagination": "296 pp.",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15698",
+                "RecordID": "022-000002229",
+                "Value": "Doni,Anton Francesco,,1513 - 1574"
+            }
+        },
+        "Notes": "Comments on Accademia Bocchia at p. 284. In the second treatise, Doni comments on Annibal Caro`s `Statua di Santa Nafissa`, which was written in relation to the Accademia della Virtu`.",
+        "CensorsAgreement": "Con privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16198",
+                "RecordID": "022-000002826",
+                "Value": "Signori Anconitani,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "PrinterOrnament": "Z535",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

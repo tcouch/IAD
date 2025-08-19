@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7367",
+        "RecordId": "022-000000954",
+        "Surname": "Riccio",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Riccius",
+            "AlternativeForename": "Joannes"
+        },
+        "DateText": "?-after 1556",
+        "StartDate": "?",
+        "EndDate": "after 1556",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Doctor of law. Riccio was appointed lector of `jus pontificius` in 1553 at the University of Padua. On Riccio, see Cicogna, Inscrizioni veneziane, vol. 2, pp. 137-39.",
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

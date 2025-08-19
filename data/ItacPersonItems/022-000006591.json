@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19385",
+        "RecordId": "022-000006591",
+        "Surname": "Algardi",
+        "Forename": "Alessandro",
+        "Gender": "Male",
+        "DateText": "1595-1654",
+        "StartDate": "1595",
+        "EndDate": "1654",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Sculptor, for his affiliation to the Incamminati in Bologna, see the biographical sketch by A. Nava Cellini, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

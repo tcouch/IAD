@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15714",
+        "RecordId": "022-000002245",
+        "Surname": "da Trino",
+        "Forename": "Comin",
+        "DateText": "1539-1577",
+        "StartDate": "1539",
+        "EndDate": "1577",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "CNCE32",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

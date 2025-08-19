@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006716",
+        "WorkId": "000797",
+        "ShortTitle": "Urbis Messanae Notitia Historica In Duas Partes Distributa.",
+        "LongTitle": "Quarum prima, premissa de naturali Urbis indole ejusque primis Conditoribus tractatione, Res commemorabiles, quae ad annum mundi 4052 ei contigerunt, exponuntur. Secunda vero\nRes urbis Cum Sacrae, tum Civiles a principio salutis restitutae ad annum Christi sexcentesimum explicantur. Interpositae sunt ad majorem Historiae ellustrationem digressiones quaedam. Ex Italico nunc primum Latine vertit, recensuit, Notis passim locupletavit, Praefationem denique praemisit\n Io. Laur. Mosheim. Theol. Doct. & prof. Publ. Ordin. in Illustri Helmstad. Academia. Pars Prima",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "69",
+            "PublicationPlaceItalianName": "Leida",
+            "PublicationPlaceEnglishName": "Leiden",
+            "PublicationPlaceLatinName": "Lugduni Batavorum"
+        },
+        "PublicationYear": "1723",
+        "DedicationPlaceDate": "Kiliae Cimbrorum 1 January 1723",
+        "Shelfmark": "L.R.302.a.2.2/10.",
+        "Subjects": "History of Messina",
+        "Language": "Latin|Greek",
+        "Pagination": "pp. 570",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18954",
+                "RecordID": "022-000006057",
+                "Value": "Reina,Placido,,? - 1671"
+            }
+        },
+        "Notes": "On p. 154 (pars secunda) the author refers to the Stella academy in Messina\nOn p. 269 (pars secunda) the author refers to the Fucina academy in Messina",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19493",
+                "RecordID": "022-000006717",
+                "Value": "Von Mosheim ,Johann Lorenz ,,1693 - 1755"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19494",
+                "RecordID": "022-000006718",
+                "Value": "Van der Aa,Pieter,,1659 - 1733"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55226",
+            "Value": "023-000006716_55226_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55227",
+            "Value": "023-000006716_55227_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

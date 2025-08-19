@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5258",
+        "RecordId": "022-000000249",
+        "Surname": "Barbieri",
+        "Forename": "Domenico (Heredi di)",
+        "Gender": "Male",
+        "DateText": "fl. 1669-1685",
+        "StartDate": "fl. 1669",
+        "EndDate": "1685",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "Y|Mar.t.e 611",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

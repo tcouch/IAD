@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18420",
+        "RecordId": "022-000005441",
+        "Surname": "Verntimiglia",
+        "Forename": "Berlinghiero",
+        "AlternativeName": {
+            "AlternativeSurname": "Vigintimillius",
+            "AlternativeForename": "Berlingherius"
+        },
+        "DateText": "? - 1639",
+        "StartDate": "?",
+        "EndDate": "1639",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 103-104 (BL Shelfmark:610.m.10.)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

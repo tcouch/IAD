@@ -1,0 +1,48 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002813",
+        "WorkId": "000359",
+        "ShortTitle": "Lilii Gregorii Gyraldi Ferrariensis Dialogi duo de Poetis nostrorum temporum",
+        "LongTitle": "Ad ill. Diam Renatam Ferrariae et Carnuti Principem. Ejusdem epistula versu conscripta, in qua agitur de incommodis, quae in direptione urbana passus est, ubi item et quasi catalogus suorum amicorum poetarum, et defletur interitus Herc. Card. Rhang. ad Antonium Thebaldeum poetam Ferrariensem.\nEiusdem progymnasma adversus literas et literatos, et eiusdem quaedam carmina, et item quaedam Caelii Calcagnini",
+        "ItacAcademyItem": {
+            "AcademyId": "0016",
+            "RecordID": "021-000001019",
+            "Value": "Accademia Bocchiana"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1551",
+        "Shelfmark": "RB.23.a.1598.(1-2.)|1492.ff.94",
+        "Language": "Latin",
+        "Pagination": "187 [18]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16014",
+                "RecordID": "022-000002583",
+                "Value": "Giraldi,Lilio Gregorio,,1479 - 1552"
+            }
+        },
+        "Notes": "Refers to Achille Bocchi`s building and book of symbols, at p. 68. \nThe name of the printer is reported in the British Library catalogue",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16188",
+                "RecordID": "022-000002814",
+                "Value": "Orleans - d`Este,Renee,Duchess of Ferrara,1510 - 1575"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16189",
+                "RecordID": "022-000002815",
+                "Value": "Torrentino,Lorenzo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

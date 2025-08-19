@@ -1,0 +1,79 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008265",
+        "WorkId": "000925",
+        "ShortTitle": "Panegirici, epitalami, discorsi accademici, novelle",
+        "LongTitle": "et lettere amorose. Di Ferrante Pallavicino",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Incogniti (Accademia degli) - Venezia"
+            },
+            {
+                "AcademyId": "0150",
+                "RecordID": "021-000006242",
+                "Value": "Incogniti-Venezia (Accademia degli)"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1654",
+        "DedicationPlaceDate": "Venetia 7 marzo 1639",
+        "Shelfmark": "1080a24",
+        "Subjects": "Academic speech",
+        "Language": "Italian",
+        "Pagination": "168",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20075",
+                "RecordID": "022-000007573",
+                "Value": "Pallavicino,Ferrante,,1615-1644"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20075",
+                "RecordID": "022-000007573",
+                "Value": "Pallavicino,Ferrante,,1615-1644"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20063",
+                "RecordID": "022-000007559",
+                "Value": "Dandolo,Matteo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16428",
+                "RecordID": "022-000003098",
+                "Value": "Turrini,Antonio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55289",
+            "Value": "023-000008265_55289_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Discorso accademico all'Illustrissimo signor Mattio Dandolo - Se un amante debba eleggere un bacio, oppure una promessa ambigua d'amorosi godimenti",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20075",
+                        "RecordID": "022-000007573",
+                        "Value": "Pallavicino,Ferrante,,1615-1644"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

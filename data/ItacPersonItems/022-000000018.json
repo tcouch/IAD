@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5016",
+        "RecordId": "022-000000018",
+        "Surname": "Bombaci",
+        "Forename": "Gasparo",
+        "Gender": "Male",
+        "PersonalTitle": "Count",
+        "DateText": "1607-1676",
+        "StartDate": "1607",
+        "EndDate": "1676",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "According to Maylender he presented his poems in the Academy. He signs as `Il Tardo Ac. della Notte.` His sonnet in Cefalogia fisonomica (1630) is at p. 161.",
+        "Role": "Censor|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

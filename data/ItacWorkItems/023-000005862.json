@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005862",
+        "WorkId": "000700",
+        "ShortTitle": "La zucca del Doni",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1551",
+        "Shelfmark": "1079c7",
+        "Language": "Italian",
+        "Pagination": "61",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15698",
+                "RecordID": "022-000002229",
+                "Value": "Doni,Anton Francesco,,1513 - 1574"
+            }
+        },
+        "Notes": "It is not clear why the titlepage contains emblem and motto of the Accademia degli Intronati",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18791",
+                    "RecordID": "022-000005863",
+                    "Value": "Buonvisi,Vincenzo,,1500 - 1572?"
+                },
+                {
+                    "PersonId": "18792",
+                    "RecordID": "022-000005864",
+                    "Value": "Granza,Rocco,,"
+                },
+                {
+                    "PersonId": "18793",
+                    "RecordID": "022-000005865",
+                    "Value": "Muelichi,Christoforo,,"
+                },
+                {
+                    "PersonId": "18794",
+                    "RecordID": "022-000005866",
+                    "Value": "Rangone,Lodovico,Count,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16234",
+                "RecordID": "022-000002875",
+                "Value": "Marcolini,Francesco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54487",
+            "Value": "023-000005862_54487_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54489",
+            "Value": "023-000005862_54489_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

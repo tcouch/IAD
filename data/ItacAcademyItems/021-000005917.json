@@ -1,0 +1,39 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0134",
+        "RecordId": "021-000005917",
+        "Name": "Intricati (Accademia degli)",
+        "AlternativeName": "Accademia degli Intrigati",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "The Gordian Knot",
+        "Motto": "Tenuis non gloria",
+        "StartDate": "ca1609",
+        "EndDate": "?",
+        "DateText": "ca1609-?",
+        "Notes": "Other publications related to the history of the Academy, but not in British Library collectuions, include Verucci, La vendetta amorosa (1625), La portia (1609), and La spada fatale (1618). For more details, see Franchi, Impressioni sceniche, pp. 84, 217, 220.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18843",
+                "RecordId": "022-000005920",
+                "Name": "Verucci,Virgilio,,",
+                "Nickname": "L`Universale",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19069",
+                "RecordId": "022-000006189",
+                "Name": "Locatelli,Basilio,,1590/1 - ca.1654",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

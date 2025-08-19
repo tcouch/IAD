@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19076",
+        "RecordId": "022-000006196",
+        "Surname": "Rocci",
+        "Forename": "Bernardo",
+        "AlternativeName": {
+            "AlternativeForename": "Bernardino"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1627 - 1680",
+        "StartDate": "1627",
+        "EndDate": "1680",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "First animator of the Accademia degli Sterili.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

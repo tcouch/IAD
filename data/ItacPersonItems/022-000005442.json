@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18421",
+        "RecordId": "022-000005442",
+        "Surname": "Galeano",
+        "Forename": "Giuseppe",
+        "AlternativeName": {
+            "AlternativeSurname": "Galeanus",
+            "AlternativeForename": "Iosephus"
+        },
+        "Pseudonym": "Sanclemente Pier Giuseppe",
+        "DateText": "1605 - 1675",
+        "StartDate": "1605",
+        "EndDate": "1675",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a detailed biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 381-383 (BL Shelfmark:610.m.10.)",
+        "Role": "Editor|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

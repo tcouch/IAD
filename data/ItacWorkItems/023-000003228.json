@@ -1,0 +1,298 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003228",
+        "WorkId": "000424",
+        "ShortTitle": "L`Accademia intronata festante",
+        "LongTitle": "per l`essaltatione d`Alessandro VII al sommo pontificato.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1655",
+        "Shelfmark": "1489.aa.6",
+        "Subjects": "Celebratory prose and poems",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved flyleaf|figures with Academy`s emblem and motto",
+        "Pagination": "115",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16607",
+                    "RecordID": "022-000003326",
+                    "Value": "Ugurgieri,Ugo,,"
+                },
+                {
+                    "PersonId": "16631",
+                    "RecordID": "022-000003350",
+                    "Value": "L`Interizzito Intronato,,,"
+                },
+                {
+                    "PersonId": "16608",
+                    "RecordID": "022-000003327",
+                    "Value": "Il Docile Intronato,,,"
+                },
+                {
+                    "PersonId": "16609",
+                    "RecordID": "022-000003328",
+                    "Value": "L`Intonato Intronato,,,"
+                },
+                {
+                    "PersonId": "16610",
+                    "RecordID": "022-000003329",
+                    "Value": "L`Oculato Intronato,,,"
+                },
+                {
+                    "PersonId": "16629",
+                    "RecordID": "022-000003348",
+                    "Value": "Il Tiepido Intronato,,,"
+                },
+                {
+                    "PersonId": "16612",
+                    "RecordID": "022-000003331",
+                    "Value": "Il Generoso Intronato,,,"
+                },
+                {
+                    "PersonId": "16613",
+                    "RecordID": "022-000003332",
+                    "Value": "Il Manieroso Intronato,,,"
+                },
+                {
+                    "PersonId": "16614",
+                    "RecordID": "022-000003333",
+                    "Value": "Il Saporito Intronato,,,"
+                },
+                {
+                    "PersonId": "16615",
+                    "RecordID": "022-000003334",
+                    "Value": "Il Composto Intronato,,,"
+                },
+                {
+                    "PersonId": "16616",
+                    "RecordID": "022-000003335",
+                    "Value": "Il Rimpettito Intronato,,,"
+                },
+                {
+                    "PersonId": "16617",
+                    "RecordID": "022-000003336",
+                    "Value": "Il Pertinace Intronato,,,"
+                },
+                {
+                    "PersonId": "16618",
+                    "RecordID": "022-000003337",
+                    "Value": "Il Disinvolto Intronato,,,"
+                },
+                {
+                    "PersonId": "16619",
+                    "RecordID": "022-000003338",
+                    "Value": "Il Risoluto Intronato,,,"
+                },
+                {
+                    "PersonId": "16620",
+                    "RecordID": "022-000003339",
+                    "Value": "Il Rauco Intronato,,,"
+                },
+                {
+                    "PersonId": "16621",
+                    "RecordID": "022-000003340",
+                    "Value": "Il Rispettoso Intronato,,,"
+                },
+                {
+                    "PersonId": "16624",
+                    "RecordID": "022-000003343",
+                    "Value": "L`Arischiato Intronato,,,"
+                },
+                {
+                    "PersonId": "16625",
+                    "RecordID": "022-000003344",
+                    "Value": "L`Avanzato Intronato,,,"
+                },
+                {
+                    "PersonId": "16626",
+                    "RecordID": "022-000003345",
+                    "Value": "L`Affaccendato Intronato,,,"
+                },
+                {
+                    "PersonId": "16632",
+                    "RecordID": "022-000003351",
+                    "Value": "L`Ingegnoso Intronato,,,"
+                },
+                {
+                    "PersonId": "16627",
+                    "RecordID": "022-000003346",
+                    "Value": "Il Saturnino Intronato,,,"
+                },
+                {
+                    "PersonId": "16628",
+                    "RecordID": "022-000003347",
+                    "Value": "Il Muinardo Intronato,,,"
+                },
+                {
+                    "PersonId": "16630",
+                    "RecordID": "022-000003349",
+                    "Value": "Il Solitario Intronato,,,"
+                },
+                {
+                    "PersonId": "16370",
+                    "RecordID": "022-000003035",
+                    "Value": "Lucarini,Alcibiade,,ca.1574-after1640?"
+                }
+            ]
+        },
+        "Notes": "Here is the reproduction of the frontispiece. To be completed",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17975",
+                "RecordID": "022-000004902",
+                "Value": "Bonetti,Nella stamperia del Pubblico,,ca.1700"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53425",
+            "Value": "023-000003228_53425_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Introduzione all'Accademia del sig. archintronato detto l'Impatiente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16607",
+                            "RecordID": "022-000003326",
+                            "Value": "Ugurgieri,Ugo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Interizzito acc. Intronato: La nostra accademia che quasi fiume...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16631",
+                            "RecordID": "022-000003350",
+                            "Value": "L`Interizzito Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium I Alexander VII Pontifex ex Fabio Chisio Cardinali: Apagite profana monstra... Del Docile",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16608",
+                            "RecordID": "022-000003327",
+                            "Value": "Il Docile Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium II di Alex. VII Simulacro: Virtutum exemplar/in Alexandri simulacro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16609",
+                            "RecordID": "022-000003328",
+                            "Value": "L`Intonato Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium III Romam invitamentum: Totus effundere Romam orbis terrarum... Dell'Offitioso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16370",
+                            "RecordID": "022-000003035",
+                            "Value": "Lucarini,Alcibiade,,ca.1574-after1640?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Acclamatione Alex VII: Purpurati Senatus... Dell'Oculato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16610",
+                            "RecordID": "022-000003329",
+                            "Value": "L`Oculato Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium V [IV] In obsequium Alexandri VII: O antiqua heroum parens... Del Tiepido",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16629",
+                            "RecordID": "022-000003348",
+                            "Value": "Il Tiepido Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Vota Senarum ad Alexandrum VII. Epigramma I: Unanime in vota, patres coiere, suaque... Del Generoso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16612",
+                            "RecordID": "022-000003331",
+                            "Value": "Il Generoso Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "E stemmate Chisio cohortatio ad Senenses. Epigramma II: Aspice ut Astrifero ferientes aethere, montes... Dell'istesso [Generoso]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16612",
+                            "RecordID": "022-000003331",
+                            "Value": "Il Generoso Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alexandri Septimi Vitae decursus ad Pontificatum Epigramma III: Ingenuus recti tenor et pudor integer annos... Dell'istesso [Generoso]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16612",
+                            "RecordID": "022-000003331",
+                            "Value": "Il Generoso Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De tessera quam gentilitii stemmatis loco, sibi Fabius Chisius, pie' quondam conformavit: cor palmam inter et olivam, spinis circumdatum, et Christi crucifixi imagine impressum. Epigramma IV: Vos querane frondes montes et sidera habite... Del Manieroso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16613",
+                            "RecordID": "022-000003332",
+                            "Value": "Il Manieroso Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alexander VII. Oblato sibi Pontificatu illachrymatur. Epigramma V: Dum sibi par caelo sceptrum, et grave pondere mundi... Del Saporito",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16614",
+                            "RecordID": "022-000003333",
+                            "Value": "Il Saporito Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alexander VII Ipso sui Pontificatus initio sepulcralemsibi arcam construi iubet, quam assidue prae oculis habeat. Epigramma VI: Quae nova species offert? Num funeris urna... Del Composto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16615",
+                            "RecordID": "022-000003334",
+                            "Value": "Il Composto Intronato,,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

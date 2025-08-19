@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20636",
+        "RecordId": "022-000008438",
+        "Surname": "Domanino",
+        "Forename": "Lattanzio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Girolamo"
+        },
+        "PersonalTitle": "Vicar General",
+        "DateText": "1540-ca. 1595-96",
+        "StartDate": "1540",
+        "EndDate": "ca. 1595",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "His baptismal name was Girolamo.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

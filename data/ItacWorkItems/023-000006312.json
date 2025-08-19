@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006312",
+        "WorkId": "000745",
+        "ShortTitle": "Disputatio Unica Doctoris Ioannis Heckii Equitis Lyncaei Daventriensis.",
+        "LongTitle": "De peste et quare Praecipue grassetur tot ab hinc Annis in Belgio. Ad Ill.mum Principem Fredericum Caesium Marchionem Monti Celii & c., Baronem & Heroa Romanum Mecaenatem inclytum. Cum Descriptione Electuarii Lyncaei cuius usu Author has regiones accedens per Dei gratiam, saluus evasit, et de huius Antidoti praecipuis operationibus.",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "101",
+            "PublicationPlaceItalianName": "Deventer",
+            "PublicationPlaceEnglishName": "Deventer",
+            "PublicationPlaceLatinName": "Daventriae"
+        },
+        "PublicationYear": "1605",
+        "DedicationPlaceDate": "Kal. Octobris 1605",
+        "Shelfmark": "1185i14(3)",
+        "Language": "Latin",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19125",
+                "RecordID": "022-000006262",
+                "Value": "Heckius,Joannes,,"
+            }
+        },
+        "Notes": "Ioannes wrote the dedication to Cesi, while Wilhelm wrote the dedication to Lincei academicians.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19124",
+                    "RecordID": "022-000006260",
+                    "Value": "Cesi,Federico,Prince of  Acquasparta,1585 - 1630"
+                },
+                {
+                    "PersonId": "19146",
+                    "RecordID": "022-000006286",
+                    "Value": "Accademici Lincei,,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19164",
+                "RecordID": "022-000006313",
+                "Value": "Heckius,Wilhelm,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19165",
+                "RecordID": "022-000006314",
+                "Value": "Cloppenburch,Ioannes,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54611",
+            "Value": "023-000006312_54611_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

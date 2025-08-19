@@ -1,0 +1,34 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008680",
+        "WorkId": "000994",
+        "ShortTitle": "Concessione",
+        "LongTitle": "Dell`Eccelso Consiglio di Dieci all`Academia 1560 a di ultimo maggio",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1560",
+        "DedicationPlaceDate": "31 May 1560",
+        "Shelfmark": "John Ryalnds Library Aldine Collection 631",
+        "Language": "Italian",
+        "Pagination": "1 leaf",
+        "Marginalia": "No",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manuzio,Paolo,,1512-1574"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

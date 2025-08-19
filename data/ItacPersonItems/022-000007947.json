@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20295",
+        "RecordId": "022-000007947",
+        "Surname": "Bufalo",
+        "Forename": "Annibale",
+        "AlternativeName": {
+            "AlternativeSurname": "Bufalus",
+            "AlternativeForename": "Annibal"
+        },
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 38-39 (British Library Shelfmark:610.m.10.)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

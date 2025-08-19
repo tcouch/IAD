@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9004",
+        "RecordId": "022-000001576",
+        "Surname": "Matteazzi",
+        "Forename": "Angelo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Matteacci"
+            },
+            {
+                "AlternativeSurname": "Matteaccio"
+            },
+            {
+                "AlternativeSurname": "Mattiazzo"
+            }
+        ],
+        "DateText": "1535-1600",
+        "StartDate": "1535",
+        "EndDate": "1600",
+        "Nationality": {
+            "NationalityId": "403",
+            "Value": "of Marostica (Vicenza)"
+        },
+        "Notes": "Matteazzi joined the Ricovrati in 1599. Two orations were recited in the Academy on the occasion of his funeral, the entire Academy was covered with back drapes, and academicians` poems were hanged on the walls. See Attilio Maggiolo for more details. His portrait comes from Tomasini, Illustrium virorum elogia (1630). See also Giovanni Diquattro, `Angelo Matteacci: un giurista \"culto\" nella Repubblica di Venezia`, in Studi veneziani (1998).",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

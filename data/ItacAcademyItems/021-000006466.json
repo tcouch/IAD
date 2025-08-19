@@ -1,0 +1,173 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0156",
+        "RecordId": "021-000006466",
+        "Name": "Affumicati (Accademia degli)",
+        "City": {
+            "CityId": "102",
+            "CityItalianName": "Mesagne (Brindisi)",
+            "CityEnglishName": "Mesagne",
+            "CityLatinName": "Mesania"
+        },
+        "Motto": "Explorat Robora",
+        "StartDate": "1671",
+        "EndDate": "1751?",
+        "DateText": "1671-1751?",
+        "Notes": "For a study on the Affumicati academy see Anselmo Cosimo Leopardi, L`accademia degli affumicati, Bari, 1978.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15150",
+                "RecordId": "022-000001192",
+                "Name": "Geofilo,Giuseppe,,",
+                "Nickname": "l`Offuscato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19283",
+                "RecordId": "022-000006470",
+                "Name": "Biscosi,Donatantonio,,",
+                "Nickname": "l`Oscuro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19284",
+                "RecordId": "022-000006471",
+                "Name": "Caraglia,Tommaso,,",
+                "Nickname": "l`Irresoluto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19285",
+                "RecordId": "022-000006472",
+                "Name": "Rini,Valentino,,",
+                "Nickname": "l`Imperfetto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19286",
+                "RecordId": "022-000006473",
+                "Name": "Geofilo,Tommaso Stefano,,",
+                "Nickname": "il Volubile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19287",
+                "RecordId": "022-000006474",
+                "Name": "Noia,Giovanni,,",
+                "Nickname": "il Variabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19288",
+                "RecordId": "022-000006475",
+                "Name": "Biscosi,Francesco,,",
+                "Nickname": "il Simulato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19289",
+                "RecordId": "022-000006476",
+                "Name": "Ferdinando,Giacomo Antonio,,",
+                "Nickname": "l`Indeterminato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19290",
+                "RecordId": "022-000006477",
+                "Name": "Ferdinando,Giovanni Matteo,,",
+                "Nickname": "il Cadente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19291",
+                "RecordId": "022-000006478",
+                "Name": "Verardi,Oronzio,,",
+                "Nickname": "l`Immaturo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19292",
+                "RecordId": "022-000006479",
+                "Name": "Biscosi,Bacelliere,,",
+                "Nickname": "il Ventoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19293",
+                "RecordId": "022-000006480",
+                "Name": "Resta,Francesco,,",
+                "Nickname": "l`Inabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19294",
+                "RecordId": "022-000006481",
+                "Name": "Palmitella,Gaetano,,",
+                "Nickname": "l`Inaridito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19295",
+                "RecordId": "022-000006482",
+                "Name": "di Soleto,Orazio Therio,,",
+                "Nickname": "il Vagabondo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19296",
+                "RecordId": "022-000006483",
+                "Name": "Rini,Francesco Paolo,Dean,",
+                "Nickname": "l`Ozioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19297",
+                "RecordId": "022-000006484",
+                "Name": "Rini,Nicola Oronzio,,",
+                "Nickname": "il Tempestoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19298",
+                "RecordId": "022-000006485",
+                "Name": "Resta,Lucantonio,,",
+                "Nickname": "il Tormentato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19299",
+                "RecordId": "022-000006486",
+                "Name": "Rini,Romano,,",
+                "Nickname": "il Languido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19300",
+                "RecordId": "022-000006487",
+                "Name": "Ferdinando,Epifanio,,",
+                "Nickname": "l`Oppresso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

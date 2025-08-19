@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19082",
+        "RecordId": "022-000006206",
+        "Surname": "Firenzuola",
+        "Forename": "Angelo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Agnolo"
+        },
+        "DateText": "1493-1543",
+        "StartDate": "1493",
+        "EndDate": "1543",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Also founder of the Accademia dell`Addiaccio in Prato. See Pignatti, `Firenzuola, Agnolo`, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0191",
+        "RecordId": "021-000006756",
+        "Name": "Assetati (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Dry fountain",
+        "Motto": "Semper arescet",
+        "StartDate": "1659",
+        "EndDate": "?",
+        "DateText": "1659 - ?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19507",
+                "RecordId": "022-000006755",
+                "Name": "Capoccio Cucino,Berardo,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18574",
+                "RecordId": "022-000005617",
+                "Name": "Colonna,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5214",
+                "RecordId": "022-000000206",
+                "Name": "Azzolini,Decio (junior),Cardinal,1623-1689",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19508",
+                "RecordId": "022-000006757",
+                "Name": "Strozzi,,Duke,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

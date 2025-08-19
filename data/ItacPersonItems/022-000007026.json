@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19667",
+        "RecordId": "022-000007026",
+        "Surname": "Guidi",
+        "Forename": "Alessandro",
+        "Pseudonym": "Erilo Cleoneo",
+        "DateText": "1650 - 1712",
+        "StartDate": "1650",
+        "EndDate": "1712",
+        "Nationality": {
+            "NationalityId": "161",
+            "Value": "of Pavia"
+        },
+        "Notes": "Joined the Accademia di Cristina di Svezia in 1679. Also member of Arcadia",
+        "Role": "Author|Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

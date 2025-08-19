@@ -1,0 +1,165 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004897",
+        "WorkId": "000600",
+        "ShortTitle": "L`arte poetica d`Orazio Flacco",
+        "LongTitle": "Volgarizzata da pandolfo Spannocchj coll` aggiunta del Rapimento di Proserpina di Claudiano tradotto da Marcantonio Cinuzzi. E di nuovo ristampato.\n[Parte seconda] Il rapimento di Proserpina di Claudio Claudiano. Tradotta di Latino in volgare Toscano Senese, da M. Marcantonio Cinuzzi Scacciato Intronato",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            },
+            {
+                "AcademyId": "0099",
+                "RecordID": "021-000004903",
+                "Value": "Accademia delle Assicurate"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "79",
+            "PublicationPlaceItalianName": "Venezia e Siena",
+            "PublicationPlaceEnglishName": "Venice and Siena",
+            "PublicationPlaceLatinName": "Venetiae et Senae"
+        },
+        "PublicationYear": "1714",
+        "Shelfmark": "237.c.34|237.c.9",
+        "Subjects": "Translation",
+        "Language": "Italian|Latin",
+        "Pagination": "[16] 48; 151",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16451",
+                    "RecordID": "022-000003128",
+                    "Value": "Cinuzzi,Marcantonio,,1503 - ca.1590"
+                },
+                {
+                    "PersonId": "16895",
+                    "RecordID": "022-000003665",
+                    "Value": "Spanocchi,Pandolfo,,fl. 1550"
+                },
+                {
+                    "PersonId": "7551",
+                    "RecordID": "022-000001455",
+                    "Value": "Tolomei,Claudio,Bishop,1492-1555/6"
+                }
+            ]
+        },
+        "Notes": "The title page of `Il rapimento di Proserpina`, corresponds to shelfmark 237.c.9.",
+        "CensorsAgreement": "[In Part 2] PROTESTA Il Traduttore come vero cattolico protesta d`avere obbedito a` sentimenti dell` Autore Etnico, ed a certi sfoghi della Poesia, con la penna, ma non col cuore; onde le parole di Fato, Numi, Sante, Deita`, e simili siccome ogni altra cosa, che possa offendere le pie orecchie, vuole che s`intendano per ischerzo Poetico, e non altrimenti.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17972",
+                    "RecordID": "022-000004899",
+                    "Value": "Signore Assicurate,,,"
+                },
+                {
+                    "PersonId": "17970",
+                    "RecordID": "022-000004896",
+                    "Value": "Toscani,Isifille,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17971",
+                "RecordID": "022-000004898",
+                "Value": "Spanocchi,Pandolfo,,fl.1640"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17975",
+                "RecordID": "022-000004902",
+                "Value": "Bonetti,Nella stamperia del Pubblico,,ca.1700"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54168",
+            "Value": "023-000004897_54168_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54169",
+            "Value": "023-000004897_54169_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Alli cortesi lettori. Lo stampatore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17975",
+                            "RecordID": "022-000004902",
+                            "Value": "Bonetti,Nella stamperia del Pubblico,,ca.1700"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Illustrissime e virtuosisssime signore Assicurate",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17971",
+                            "RecordID": "022-000004898",
+                            "Value": "Spanocchi,Pandolfo,,fl.1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lettera scritta a Monsignor Arcivescovo di Siena che a quel tempo era Monsig. Ascanio Piccolomini Aragona. Padova 9 Febraro 1641",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17973",
+                            "RecordID": "022-000004900",
+                            "Value": "Solier,Guglielmo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Scritta all`autore. Roma 8 Marzo 1641",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17974",
+                            "RecordID": "022-000004901",
+                            "Value": "Parrini,Jacomo,,fl. 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "[Part 2] Alla molto virtuosa madonna Isifille Toscani. Dalla villa d`Africa il 10 Giugno 1542",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16451",
+                            "RecordID": "022-000003128",
+                            "Value": "Cinuzzi,Marcantonio,,1503 - ca.1590"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "[Part 2] Alli benigni lettori quali si dilettano di poesia. Lo stampatore.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17975",
+                            "RecordID": "022-000004902",
+                            "Value": "Bonetti,Nella stamperia del Pubblico,,ca.1700"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "[Part 2] Lettera di M. Claudio Tolomei a M. Marc` Antonio Cinuzzi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7551",
+                            "RecordID": "022-000001455",
+                            "Value": "Tolomei,Claudio,Bishop,1492-1555/6"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

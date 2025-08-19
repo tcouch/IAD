@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006149",
+        "WorkId": "000727",
+        "ShortTitle": "La visione panegirico",
+        "LongTitle": "nella creazione di N. S. Papa Alessandro VIII per avanti Il cardinale Pietro Dell`Eccellentiss. Famiglia Ottoboni, Veneta. Ottave Di Andrea Penci, cittadino, e nobile originario di Bozolo, e per Privilegio di Modena, e Reggio. Dedicate a gl`Illustriss. Reverendiss. Nobilissimi, et eruditissimi Signori Della Conversatione de` Letterati, che si raduna nella casa di Mons. Illustriss. Giovanni Ciampini, Maestro de` Brevi di Grazia di Sua Santita`.",
+        "ItacAcademyItem": {
+            "AcademyId": "0139",
+            "RecordID": "021-000005974",
+            "Value": "Accademia dei Disuniti (Roma)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1689",
+        "Shelfmark": "11431ee29(2)",
+        "Subjects": "Eulogistic poetry",
+        "Language": "Italian",
+        "Pagination": "55",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19032",
+                "RecordID": "022-000006148",
+                "Value": "Penci,Andrea,,"
+            }
+        },
+        "Notes": "The book contains the list of persons attending meetings in Ciampini`s house: `I Signori che quest`anno 1689 compongono la conversatione de` Letterati, che quasi ogni sera si raduna nella casa di Mons. Gio: Ciampini`",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16239",
+                    "RecordID": "022-000002883",
+                    "Value": "Menattus,Stephanus Ioseph,Vicar General|Master of the Sacred Palace,? - 1695"
+                },
+                {
+                    "PersonId": "18932",
+                    "RecordID": "022-000006033",
+                    "Value": "Forlani,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "18345",
+                    "RecordID": "022-000005361",
+                    "Value": "Ferrari,Thomas Maria,Cardinal,1649 - 1716"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverendiss. P. Magistro Sacri Palatii Apostolici. Stephanus Ioseph Menattus Episc. Cyrenen. Vicesg. Imprimatur, Fr. Franciscus Maria Forlani Reverendiss. P. Fr. Thomae Mariae Ferrari Sac. Palatii Apostolici Magistri Socius Ord. Praedicatorum",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16145",
+                "RecordID": "022-000002757",
+                "Value": "Ottoboni,Pietro Vito,Cardinal|Pope Alexander VIII,1610-1691"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18969",
+                "RecordID": "022-000006075",
+                "Value": "Komarek,Giovanni Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54549",
+            "Value": "023-000006149_54549_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

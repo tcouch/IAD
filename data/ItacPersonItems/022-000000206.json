@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5214",
+        "RecordId": "022-000000206",
+        "Surname": "Azzolini",
+        "Forename": "Decio (junior)",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1623-1689",
+        "StartDate": "1623",
+        "EndDate": "1689",
+        "Nationality": {
+            "NationalityId": "278",
+            "Value": "of Fermo"
+        },
+        "Notes": "Patron of the Accademia degli Assetati.",
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

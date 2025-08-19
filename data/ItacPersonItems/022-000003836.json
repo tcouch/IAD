@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17030",
+        "RecordId": "022-000003836",
+        "Surname": "dell`Antella",
+        "Forename": "Niccolo`",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "dell`Altella"
+        },
+        "DateText": "1560-1630",
+        "StartDate": "1560",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "A detailed biography by C. Vivoli, `dell`Antella, Niccolo` `, is in DBI.",
+        "Role": "Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

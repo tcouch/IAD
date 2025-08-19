@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16247",
+        "RecordId": "022-000002894",
+        "Surname": "Caramuel y Lobkowitz",
+        "Forename": "Juan",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Caramuele; Caramuel",
+            "AlternativeForename": "Joanne; Joannes"
+        },
+        "PersonalTitle": "Bishop of Vigevano",
+        "DateText": "1606-1682",
+        "StartDate": "1606",
+        "EndDate": "1682",
+        "Nationality": {
+            "NationalityId": "87",
+            "Value": "of Madrid"
+        },
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

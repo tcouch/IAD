@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20265",
+        "RecordId": "022-000007909",
+        "Surname": "Catanuto",
+        "Forename": "Nicola",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Catanutus",
+                "AlternativeForename": "Nicolaus"
+            },
+            {
+                "AlternativeForename": "Niccol\u00f2"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "239",
+            "Value": "of Catania"
+        },
+        "Notes": "Not recorded by Maylender as a member of the Chiari academy in Catania. \nFor a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Felicella, Palermo, Vol.II, p. 87 (British Library Shelfmark:610.m.10.); Francesco Ferrara, Storia di Catania, Catania, 1829, (British Library Shelfmark: General Reference Collection SFX lsidyv363f3ec8)",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

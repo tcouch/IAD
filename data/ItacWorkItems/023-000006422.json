@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006422",
+        "WorkId": "000775",
+        "ShortTitle": "Opere di Galileo Galilei Linceo",
+        "LongTitle": "Nobile fiorentino. Gia` lettore delle matematiche nelle Universita` di Pisa e di Padova, di poi Sopraordinario nello Studio di Pisa. Primario Filosofo, e Matematico del Serenissimo Gran Duca di Toscana. In questa nuova editione insieme raccolte, e di varij trattati dell`istesso Autore non piu` stampati accresciute. Al Serenissimo Ferdinando II Gran Duca di Toscana",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1656",
+        "DedicationPlaceDate": "Bologna 17 febbraio 1656",
+        "Shelfmark": "535e4",
+        "Subjects": "Science",
+        "Language": "Italian|Latin",
+        "Pagination": "Each single work paginated separately",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9018",
+                "RecordID": "022-000001586",
+                "Value": "Galilei,Galileo,,1564 - 1642"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5022",
+                    "RecordID": "022-000000024",
+                    "Value": "Montalbani,Ovidio,,1601 - 1671"
+                },
+                {
+                    "PersonId": "17862",
+                    "RecordID": "022-000004773",
+                    "Value": "Fuochi,Guglielmo,Inquisitor,"
+                },
+                {
+                    "PersonId": "19242",
+                    "RecordID": "022-000006423",
+                    "Value": "Tortus,Inventius,Poenitentiarius,"
+                },
+                {
+                    "PersonId": "5399",
+                    "RecordID": "022-000000409",
+                    "Value": "Boncompagni,Giacomo,Archibishop of Bologna,1652 - 1731"
+                }
+            ]
+        },
+        "CensorsAgreement": "V. D. Inventius Tortus C. R. S. Pauli Poenit in Metrop. Bonon. pro Illustriss. et Reverendiss. D. D. Hieron. Boncomp. Archiep. et Princ. V. Ovidius Mont`albanus Philos. Coll. et Legum Doct. et c. Pro Reverendiss. P. Inquisit. Bonon. Imprimatur Fr. Gulielmus Inquisitor Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19243",
+                "RecordID": "022-000006424",
+                "Value": "Manolessi,Carlo,,?-after1661"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7310",
+                "RecordID": "022-000000896",
+                "Value": "Dozza,Evangelista (Heredi di),,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

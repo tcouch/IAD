@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9304",
+        "RecordId": "022-000001788",
+        "Surname": "Macedo",
+        "Forename": "Francisco",
+        "DateText": "1596 - 1681",
+        "StartDate": "1596",
+        "EndDate": "1681",
+        "Nationality": {
+            "NationalityId": "69",
+            "Value": "Portuguese"
+        },
+        "Notes": "Teacher of polemical theology and ecclesiastical history in Rome, and moral philosophy in Padua.",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

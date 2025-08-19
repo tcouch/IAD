@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18164",
+        "RecordId": "022-000005132",
+        "Surname": "Tassoni",
+        "Forename": "Alessandro",
+        "Gender": "Male",
+        "Pseudonym": "Androvinci Melisone",
+        "DateText": "1565-1635",
+        "StartDate": "1565",
+        "EndDate": "1635",
+        "Nationality": {
+            "NationalityId": "115",
+            "Value": "of Modena"
+        },
+        "Notes": "Tassoni presented his `Filippiche` to the Accademia degli Umoristi, according to Russo (1979). He was Prince of the Accademia in 1606-07. According to Alemanno (1995), in this Academy he delivered two presentations: `In biasimo delle lettere`, and `Encomio sopra il Boia`. The 1st edition of his `La secchia rapita` (Paris, 1622) was signed using his pseudonym.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

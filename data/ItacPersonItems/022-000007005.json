@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19646",
+        "RecordId": "022-000007005",
+        "Surname": "della Noce",
+        "Forename": "Angelo",
+        "Gender": "Male",
+        "PersonalTitle": "Archbishop of Rossano",
+        "DateText": "1609-1691",
+        "StartDate": "1609",
+        "EndDate": "1691",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Joined the Accademia di Cristina di Svezia in 1674",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

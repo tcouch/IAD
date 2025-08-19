@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5026",
+        "RecordId": "022-000000028",
+        "Surname": "Desideri",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "DateText": "fl.1655-1692",
+        "StartDate": "fl.1655",
+        "EndDate": "1692",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "According to memorie de` signori Accademici Gelati, he was also member of the following Academies: Scomposti, Ambigui, Solleciti, Incolti, Illuminati, Anelanti, Invaghiti,",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

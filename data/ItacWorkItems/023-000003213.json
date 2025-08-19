@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003213",
+        "WorkId": "000420",
+        "ShortTitle": "L`Hortensio Comedia de gl` academici intronati",
+        "LongTitle": "Di nuovo con diligenza corretta e ristampata",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1597",
+        "Shelfmark": "638.a.5.(1.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "180",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16519",
+                "RecordID": "022-000003214",
+                "Value": "Sessa,Giovanni Battista e Giovanni Bernardo,,1592 - 1598"
+            }
+        },
+        "PrinterOrnament": "U116",
+        "TitlePageImage": {
+            "ImageId": "53370",
+            "Value": "023-000003213_53370_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

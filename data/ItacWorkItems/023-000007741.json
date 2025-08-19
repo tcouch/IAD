@@ -1,0 +1,42 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007741",
+        "WorkId": "000866",
+        "ShortTitle": "Delle Rime Scelte Di Varj illustri Poeti Napoletani",
+        "LongTitle": "Volume Primo",
+        "ItacAcademyItem": {
+            "AcademyId": "0401",
+            "RecordID": "021-000007714",
+            "Value": "Accademia del Cimento (Napoli)"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1723",
+        "Shelfmark": "11422.b.12.",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "pp. 335",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17262",
+                "RecordID": "022-000004077",
+                "Value": "Ariano,Agostino,,"
+            }
+        },
+        "Notes": "Miscellaneous text containing verses written by Agostino Ariani",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20205",
+                "RecordID": "022-000007742",
+                "Value": "Muzio,Antonio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

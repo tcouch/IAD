@@ -1,0 +1,85 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003740",
+        "WorkId": "000501",
+        "ShortTitle": "Ioannis Baptistae Masculi Neapolitani E Societate Iesu De Incendio Vesuvii",
+        "LongTitle": "Excitato xvij. Kal Ianuar. anno trigesimo primo saeculi Decimiseptimi. Libri X.  Cum Chronologia superiorum incendiorum, & Ephemeride ultimi. Ad Illustrissimum, & Reverendissimum Dominum D. Petrum Aloysium Carafam Episcopum tricaricensem, & Nuncium Coloniensem.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1633",
+        "DedicationPlaceDate": "Neapoli 30 July 1633",
+        "Shelfmark": "664.b.21.",
+        "Subjects": "Mount Vesuvius",
+        "Language": "Greek|Latin",
+        "Illustration": "Plates|Mount Vesuvius",
+        "Pagination": "pp. 349",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15226",
+                "RecordID": "022-000001269",
+                "Value": "Masculo,Giovanni Battista,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15124",
+                    "RecordID": "022-000001165",
+                    "Value": "De Ianuario,Felix,,"
+                },
+                {
+                    "PersonId": "15123",
+                    "RecordID": "022-000001164",
+                    "Value": "Tamburellus,Felix,General Vicar,"
+                },
+                {
+                    "PersonId": "16952",
+                    "RecordID": "022-000003741",
+                    "Value": "Palumbus,Marcus Antonius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "R. Adm. P. Ioannis Baptistae Masculi Vesuvius Mons deflagrans, atque in cinerem ardentissimum resolutus, stylo describitur tam eleganti, tam lepido, falsoq. ut, veluti proprio ex cinere exurgit redivivius Phoenix florentior, ille viridantior reviviscat ex incendio, nitidior ex auctoris ingenio, atque ex flammis plus illi manarit lucis, & gloriae, quam Campanis detrimenti; extinctus enim ille sibi in Campania, vivet in orbe terrarum in Masculo, non minus in soluta oratione, quam claro in lyra. Itaque imprimi, ac divulgari posse censeo, atque plus ex eius lectione hauriri iucunditatis, quam, dum deflagraret, incussit furentis aspectu formidinis, ac timoris. Datum Neap. prid. Kal. Octobris 1633.\nFelix de Ianuario Palumbus Societatis Iesu Dep. \nImprimatur\nFelix Tamburrellus Vic. Gen. Neap.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16953",
+                "RecordID": "022-000003742",
+                "Value": "Carafam ,Petrum Aloysium,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16853",
+                "RecordID": "022-000003611",
+                "Value": "Perrey,Nicolas,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16639",
+                "RecordID": "022-000003359",
+                "Value": "Roncagliolo ,Secondino,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54666",
+            "Value": "023-000003740_54666_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54667",
+            "Value": "023-000003740_54667_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

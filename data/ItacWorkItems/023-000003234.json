@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003234",
+        "WorkId": "000427",
+        "ShortTitle": "Le guidon de la langue italienne",
+        "LongTitle": "Par Nathanael Dhuez avec Trois Dialogues familiers, Italiens et Fran\u00e7ois. La comedie de la Moresse. Les compliments Italiens. et une Guirlande de Proverbes.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "70",
+            "PublicationPlaceItalianName": "Amsterdam",
+            "PublicationPlaceEnglishName": "Amsterdam",
+            "PublicationPlaceLatinName": "Amstelodami"
+        },
+        "PublicationYear": "1670",
+        "Shelfmark": "1568/3541",
+        "Subjects": "Linguistics|Proverbs",
+        "Language": "Italian|French",
+        "Pagination": "256",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16522",
+                "RecordID": "022-000003218",
+                "Value": "Dhuez,Nathana\u00ebl,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16496",
+                "RecordID": "022-000003180",
+                "Value": "Vignali,Antonio,,1501 - 1559"
+            }
+        },
+        "Notes": "Vignali signs as `Arsiccio Intronato`.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16534",
+                "RecordID": "022-000003236",
+                "Value": "Elzeviers,Daniel,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Ghirlanda di vari fioretti et proverbi italiani",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16496",
+                        "RecordID": "022-000003180",
+                        "Value": "Vignali,Antonio,,1501 - 1559"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

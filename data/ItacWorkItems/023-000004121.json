@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004121",
+        "WorkId": "000526",
+        "ShortTitle": "Ianus",
+        "LongTitle": "Fabii Iordani Ad Illustriss. Et Religiosiss. Principem Antonium Parenotum Card. Granvelanum Et Neap. Regni. Proregem, Ianus.",
+        "ItacAcademyItem": {
+            "AcademyId": "0066",
+            "RecordID": "021-000004102",
+            "Value": "Accademia degli Eubolei"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1573",
+        "Shelfmark": "RB. 23.a.4681",
+        "Subjects": "Encomiastic poetry",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 12",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17282",
+                "RecordID": "022-000004097"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17279",
+                    "RecordID": "022-000004094",
+                    "Value": "Lombardo,Giovanni Francesco ,,"
+                },
+                {
+                    "PersonId": "17303",
+                    "RecordID": "022-000004123",
+                    "Value": "Dusina,Petrus,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Petrus Dusina Vica. Gener.\nIo. Franciscus Lombardus",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17304",
+                "RecordID": "022-000004124",
+                "Value": "Cacchi,Giuseppe,,1530s - 1593?"
+            }
+        },
+        "PrinterOrnament": "Edit16 V121 - Z1022",
+        "TitlePageImage": {
+            "ImageId": "53964",
+            "Value": "023-000004121_53964_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

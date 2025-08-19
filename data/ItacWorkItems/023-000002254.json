@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002254",
+        "WorkId": "000295",
+        "ShortTitle": "De hortorum cultura",
+        "LongTitle": "Libri III. Iosephi Milii Voltolinae ad Isabellam sociam.",
+        "ItacAcademyItem": {
+            "AcademyId": "0025",
+            "RecordID": "021-000002211",
+            "Value": "Accademia degli Eterei"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "61",
+            "PublicationPlaceItalianName": "Brescia",
+            "PublicationPlaceEnglishName": "Brescia",
+            "PublicationPlaceLatinName": "Brixia"
+        },
+        "PublicationYear": "1574",
+        "DedicationPlaceDate": "Salo`, Calend. August 1574",
+        "Shelfmark": "443.d.27.(1.)",
+        "Language": "Latin",
+        "Pagination": "pp. 68",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15719",
+                "RecordID": "022-000002255",
+                "Value": "Milio ,Giuseppe Girolamo,,1536-"
+            }
+        },
+        "Notes": "The author remembers when Scaino delivered a two-days lesson on the theme of `Time` in the Accademia degli Eterei.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9012",
+                "RecordID": "022-000001580",
+                "Value": "Scaino,Ioachin,,1535-1600"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15720",
+                "RecordID": "022-000002256",
+                "Value": "Sabbio,Vincenzo,,ca.1540-ca.1603"
+            }
+        },
+        "PrinterOrnament": "Z60",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

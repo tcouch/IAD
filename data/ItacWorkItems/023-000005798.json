@@ -1,0 +1,1201 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005798",
+        "WorkId": "000698",
+        "ShortTitle": "Le pompe funebri celebrate da` signori Accademici Infecondi di Roma",
+        "LongTitle": "Per la morte dell`Illustrissima signora Elena Lucrezia Cornara Piscopia Accademica detta l`Inalterabile. Dedicate alla Sereniss. Republica di Venezia",
+        "ItacAcademyItem": {
+            "AcademyId": "0125",
+            "RecordID": "021-000005612",
+            "Value": "Accademia degli Infecondi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1686",
+        "DedicationPlaceDate": "Rome 6 January 1686",
+        "Shelfmark": "11431h2",
+        "Subjects": "funereal  poems|Funeral oration",
+        "Language": "Italian|Latin",
+        "Pagination": "188",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18732",
+                    "RecordID": "022-000005799",
+                    "Value": "Santagostini,Agostino,,"
+                },
+                {
+                    "PersonId": "18696",
+                    "RecordID": "022-000005761",
+                    "Value": "Nucci,Anton Francesco,,"
+                },
+                {
+                    "PersonId": "18735",
+                    "RecordID": "022-000005802",
+                    "Value": "Moriconi,Anton Giacomo,,"
+                },
+                {
+                    "PersonId": "18724",
+                    "RecordID": "022-000005789",
+                    "Value": "Buronti,Antonio Maria,,"
+                },
+                {
+                    "PersonId": "18736",
+                    "RecordID": "022-000005803",
+                    "Value": "Spada,Benedetto,,"
+                },
+                {
+                    "PersonId": "18737",
+                    "RecordID": "022-000005804",
+                    "Value": "Boccacio,Cammillo,,"
+                },
+                {
+                    "PersonId": "18700",
+                    "RecordID": "022-000005765",
+                    "Value": "Sinibaldi,Carlo Andrea,,"
+                },
+                {
+                    "PersonId": "17434",
+                    "RecordID": "022-000004291",
+                    "Value": "Capece,Carlo,,"
+                },
+                {
+                    "PersonId": "18738",
+                    "RecordID": "022-000005805",
+                    "Value": "di Napoli,Carlo,,"
+                },
+                {
+                    "PersonId": "18769",
+                    "RecordID": "022-000005836",
+                    "Value": "Cassanelli,Cataldo Antonio,,"
+                },
+                {
+                    "PersonId": "18739",
+                    "RecordID": "022-000005806",
+                    "Value": "Cozzardi,Crescenzio,,"
+                },
+                {
+                    "PersonId": "18740",
+                    "RecordID": "022-000005807",
+                    "Value": "Monciotti,Domenico Antonio,,"
+                },
+                {
+                    "PersonId": "18741",
+                    "RecordID": "022-000005808",
+                    "Value": "Guglielmini,Domenico,,"
+                },
+                {
+                    "PersonId": "18743",
+                    "RecordID": "022-000005810",
+                    "Value": "Leonardi,Donato Antonio,Abbot,ca.1655 - 1712"
+                },
+                {
+                    "PersonId": "18744",
+                    "RecordID": "022-000005811",
+                    "Value": "Serio,Donato Antonio,,"
+                },
+                {
+                    "PersonId": "15408",
+                    "RecordID": "022-000001913",
+                    "Value": "Conturbius,Fabricius,,"
+                },
+                {
+                    "PersonId": "18745",
+                    "RecordID": "022-000005812",
+                    "Value": "de` Conti di Campello,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "18746",
+                    "RecordID": "022-000005813",
+                    "Value": "Paglia,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "7401",
+                    "RecordID": "022-000000992",
+                    "Value": "Bianchini,Francesco,,1662 - 1729"
+                },
+                {
+                    "PersonId": "18747",
+                    "RecordID": "022-000005814",
+                    "Value": "Pitoni,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "18748",
+                    "RecordID": "022-000005815",
+                    "Value": "Baba,Gabriello,Abbot,"
+                },
+                {
+                    "PersonId": "18702",
+                    "RecordID": "022-000005767",
+                    "Value": "Monaci,Gaetano,,"
+                },
+                {
+                    "PersonId": "18695",
+                    "RecordID": "022-000005760",
+                    "Value": "Maselli,Giacinto,,1644 - 1702"
+                },
+                {
+                    "PersonId": "18749",
+                    "RecordID": "022-000005816",
+                    "Value": "Ferraguti,Giacomo,,"
+                },
+                {
+                    "PersonId": "18340",
+                    "RecordID": "022-000005355",
+                    "Value": "Cenni,Giacomo Maria,,1651 - 1692"
+                },
+                {
+                    "PersonId": "18771",
+                    "RecordID": "022-000005838",
+                    "Value": "Moraldi,Giovanni Antonio,,"
+                },
+                {
+                    "PersonId": "18703",
+                    "RecordID": "022-000005768",
+                    "Value": "Duranti,Gio Bartolomeo,,1647-1713"
+                },
+                {
+                    "PersonId": "18751",
+                    "RecordID": "022-000005818",
+                    "Value": "Bonadrati,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "18752",
+                    "RecordID": "022-000005819",
+                    "Value": "Cienciarelli,Giovanni,,"
+                },
+                {
+                    "PersonId": "18753",
+                    "RecordID": "022-000005820",
+                    "Value": "Alfonsi,Gio Filippo,,"
+                },
+                {
+                    "PersonId": "5020",
+                    "RecordID": "022-000000022",
+                    "Value": "Bonomi,Giovanfrancesco,,1626 - 1705"
+                },
+                {
+                    "PersonId": "18768",
+                    "RecordID": "022-000005835",
+                    "Value": "G. F. R.,,,"
+                },
+                {
+                    "PersonId": "18707",
+                    "RecordID": "022-000005772",
+                    "Value": "Quartieri,Gio Francesco,,"
+                },
+                {
+                    "PersonId": "18754",
+                    "RecordID": "022-000005821",
+                    "Value": "Barsanti,Gio Nicolo`,,"
+                },
+                {
+                    "PersonId": "18571",
+                    "RecordID": "022-000005613",
+                    "Value": "Prati,Giovanni,,fl.1677 - 1690"
+                },
+                {
+                    "PersonId": "18756",
+                    "RecordID": "022-000005823",
+                    "Value": "Colletti,Girolamo,,"
+                },
+                {
+                    "PersonId": "18757",
+                    "RecordID": "022-000005824",
+                    "Value": "Mari,Giulio Cesare,,"
+                },
+                {
+                    "PersonId": "18712",
+                    "RecordID": "022-000005777",
+                    "Value": "Grimaldi,Giuliano,,"
+                },
+                {
+                    "PersonId": "18709",
+                    "RecordID": "022-000005774",
+                    "Value": "Berneri,Giuseppe,,1634-?"
+                },
+                {
+                    "PersonId": "18710",
+                    "RecordID": "022-000005775",
+                    "Value": "Guaccimanni,Giuseppe Giusto,,1652-1705"
+                },
+                {
+                    "PersonId": "18341",
+                    "RecordID": "022-000005356",
+                    "Value": "Malatesta Garuffi,Giuseppe,,ca.1650 - 1727"
+                },
+                {
+                    "PersonId": "18758",
+                    "RecordID": "022-000005825",
+                    "Value": "Margalli,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18759",
+                    "RecordID": "022-000005826",
+                    "Value": "Prosperi,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18760",
+                    "RecordID": "022-000005827",
+                    "Value": "Rossi,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18761",
+                    "RecordID": "022-000005828",
+                    "Value": "Settecastelli,Giuseppe,Count,"
+                },
+                {
+                    "PersonId": "18762",
+                    "RecordID": "022-000005829",
+                    "Value": "de` Conti d`Arcano,Lucio,,"
+                },
+                {
+                    "PersonId": "18722",
+                    "RecordID": "022-000005787",
+                    "Value": "de Strinatis,Malatesta,,"
+                },
+                {
+                    "PersonId": "18716",
+                    "RecordID": "022-000005781",
+                    "Value": "Cevoli,Mario,,"
+                },
+                {
+                    "PersonId": "18733",
+                    "RecordID": "022-000005800",
+                    "Value": "Reitani Spadafora,Mario,,"
+                },
+                {
+                    "PersonId": "18311",
+                    "RecordID": "022-000005321",
+                    "Value": "Brugueres,Michele,,1644-1722"
+                },
+                {
+                    "PersonId": "18342",
+                    "RecordID": "022-000005357",
+                    "Value": "Saulini,Nicolo` Francesco,,"
+                },
+                {
+                    "PersonId": "18763",
+                    "RecordID": "022-000005830",
+                    "Value": "Madrisio,Niccolo`,,1656 - 1729"
+                },
+                {
+                    "PersonId": "18734",
+                    "RecordID": "022-000005801",
+                    "Value": "Solyma,Nicolo` Maria,Knight of the Order of the Star,? - 1692"
+                },
+                {
+                    "PersonId": "18764",
+                    "RecordID": "022-000005831",
+                    "Value": "Rosati,Ottaviano Antonio,,"
+                },
+                {
+                    "PersonId": "18773",
+                    "RecordID": "022-000005840",
+                    "Value": "Abriani,Paolo,,1607-1699"
+                },
+                {
+                    "PersonId": "18718",
+                    "RecordID": "022-000005783",
+                    "Value": "Carli,Paolo Francesco,,"
+                },
+                {
+                    "PersonId": "18719",
+                    "RecordID": "022-000005784",
+                    "Value": "Giubilei,Pietro,,"
+                },
+                {
+                    "PersonId": "18765",
+                    "RecordID": "022-000005832",
+                    "Value": "Figari,Pompeo,Abbot,ca.1650 - 1730"
+                },
+                {
+                    "PersonId": "18720",
+                    "RecordID": "022-000005785",
+                    "Value": "Mandosio,Prospero,,1643 - 1724"
+                },
+                {
+                    "PersonId": "18766",
+                    "RecordID": "022-000005833",
+                    "Value": "Merighi,Romano,,"
+                },
+                {
+                    "PersonId": "18772",
+                    "RecordID": "022-000005839",
+                    "Value": "Moraldi,Santo,,"
+                },
+                {
+                    "PersonId": "18774",
+                    "RecordID": "022-000005841",
+                    "Value": "Da San Silverio,Sigismondo,,"
+                },
+                {
+                    "PersonId": "18767",
+                    "RecordID": "022-000005834",
+                    "Value": "Farsetti,Tommaso Giuseppe,,"
+                }
+            ]
+        },
+        "Notes": "Contains a list of the Accademici Infecondi. According to Maggiolo (1983), Brugueres delivered the funereal oration, and organized the funereal apparatus.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18777",
+                    "RecordID": "022-000005845",
+                    "Value": "Basadonna,Girolamo,Senator|Podesta` in Padua,"
+                },
+                {
+                    "PersonId": "15375",
+                    "RecordID": "022-000001868",
+                    "Value": "Venier,Nicolo`,Proc. Ref.,"
+                },
+                {
+                    "PersonId": "18778",
+                    "RecordID": "022-000005846",
+                    "Value": "Gradenigo,Girolamo,,"
+                },
+                {
+                    "PersonId": "16172",
+                    "RecordID": "022-000002793",
+                    "Value": "Nicolosi,Gio[vanni] Battista,,"
+                },
+                {
+                    "PersonId": "18779",
+                    "RecordID": "022-000005848",
+                    "Value": "Tegius,Oliverius,Inquisitor of Padua,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Reformatori dello Studio di Padova. Havendo veduto per fede del Padre Inquisitor di Padova, nel libro intitolato Le Pompe Funebri celebrate da Signori Academici Infecondi di Roma, non v`esser cosa alcuna contro la Santa Fede Cattolica, e parimente per attestato del Segretario nostro niente contro Prencipi, e buoni costumi, concediamo licenza a Giacomo Cadorin di poterlo stampare, osservando gli ordini, et c. dat. li 19 Novembre 1685. GIROLAMO BASADONNA PROC. REF. NICOLO\u2019 VENIER PROC. REF. GIROLAMO GRADENIGO PROC. REF. Gio. Battista Nicolosi Segr. Imprimatur Fr. Oliverius Tegius Inquisitor Generalis Paduae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9140",
+                "RecordID": "022-000001619",
+                "Value": "Corner,Elena Lucrezia,,1646-1684"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18731",
+                "RecordID": "022-000005797",
+                "Value": "Accademici Infecondi,,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18775",
+                    "RecordID": "022-000005842",
+                    "Value": "Carddano,Tommaso,,"
+                },
+                {
+                    "PersonId": "18776",
+                    "RecordID": "022-000005844",
+                    "Value": "Cassioni,Giovanfrancesco,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9192",
+                "RecordID": "022-000001684",
+                "Value": "Cadorino,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54496",
+            "Value": "023-000005798_54496_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sonetto - Odi Dedali industri alta struttura",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18311",
+                            "RecordID": "022-000005321",
+                            "Value": "Brugueres,Michele,,1644 - 1722"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto - Formidabil Leone; a tuoi ruggiti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7358",
+                            "RecordID": "022-000000945",
+                            "Value": "Guacciamanni,Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si allude alle guerre presenti - Sonetto - Cadde il grande Ilio: in su l'Assirio soglio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18571",
+                            "RecordID": "022-000005613",
+                            "Value": "Prati,Giovanni,,fl.1677 - 1690"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Presagi felici ne' preparamenti navali apprestati da veneti campioni contro la perfidia ottomana - sonetto - su l'Adriatico Nettuno i vasti abeti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18696",
+                            "RecordID": "022-000005761",
+                            "Value": "Nucci,Anton Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alludendosi anche nell'essersi inteso, che per la tempesta si tralasciassero di celebrare i soliti sponsali nell'onde adriatiche - sonetto - Di palla a scherno in van fremi, o Nettuno,",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18696",
+                            "RecordID": "022-000005761",
+                            "Value": "Nucci,Anton Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la vittoria di Coron Piazza principale della Morea; s'invita a piu' gloriose conquiste - sonetto - La' porta il piede, o gran leone alato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18734",
+                            "RecordID": "022-000005801",
+                            "Value": "Solyma,Nicolo` Maria,Knight of the Order of the Star,? - 1692"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L'apparato dell'Accademia descritto dal signor paolo francesco Carli detto l'Impetuoso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18718",
+                            "RecordID": "022-000005783",
+                            "Value": "Carli,Paolo Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il tironfo della virtu' feminile per la morte dell'illustrissima signora elena Lucrezia Cornaro Piscopia. Orazione funebre del sig. Michele Brugueres, detto il Ribattuto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18311",
+                            "RecordID": "022-000005321",
+                            "Value": "Brugueres,Michele,,1644 - 1722"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al signor mIchele Brugueres per il suo dottissimo discorso... - sonetto del sig. ... Nucci detto lo Strepitoso - Godi o splendor dell'Adria anima bella",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18696",
+                            "RecordID": "022-000005761",
+                            "Value": "Nucci,Anton Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epitaffio al sepolcro della signora ... E. L. Cornari - sonetto - elena e' qui sepolta. Ebbe il natale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18735",
+                            "RecordID": "022-000005802",
+                            "Value": "Moriconi,Anton Giacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "per la morte della medesima - sonetto - con armonica man percossi un giorno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18736",
+                            "RecordID": "022-000005803",
+                            "Value": "Spada,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si prende felice augurio all'armi della Serenissima ... - sonetto - De la regia del mar vele guerriere",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18699",
+                            "RecordID": "022-000005764",
+                            "Value": "Capece,Carlo Sigismondo,,1652 - 1724"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la morte della medesima. Si allude alle molte scienze che possedeva - sonetto - E qual d'interno umor congiura adusta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18738",
+                            "RecordID": "022-000005805",
+                            "Value": "di Napoli,Carlo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima - sonetto - qual voce oime' l'orecchio mi ferisce?",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18700",
+                            "RecordID": "022-000005765",
+                            "Value": "Sinibaldi,Carlo Andrea,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima che fece voto di castita' ne' suoi piu' teneri anni - sonetto - Vergine gloriosa a i cui bei gesti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18700",
+                            "RecordID": "022-000005765",
+                            "Value": "Sinibaldi,Carlo Andrea,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo soggetto - sonetto - A l'urna intorno,ove il suo fral depose",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18739",
+                            "RecordID": "022-000005806",
+                            "Value": "Cozzardi,Crescenzio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima. si allude alla virtu' di detta signora e si prova che non valse la morte per privarle la vita - Oda - A le sponde di Lete",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18740",
+                            "RecordID": "022-000005807",
+                            "Value": "Monciotti,Domenico Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il volo della fama in morte della medesima - apoteosi - Non piu' penda in oblio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18741",
+                            "RecordID": "022-000005808",
+                            "Value": "Guglielmini,Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il pado supplicante - apoteosi - Su trono d'Adamanti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18741",
+                            "RecordID": "022-000005808",
+                            "Value": "Guglielmini,Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima - sonetto - Camene o voi che al margine d'argento",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18741",
+                            "RecordID": "022-000005808",
+                            "Value": "Guglielmini,Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "nel medesimo soggetto - sonetto - Da l'oscura prigione, in cui si chiude",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18743",
+                            "RecordID": "022-000005810",
+                            "Value": "Leonardi,Donato Antonio,Abbot,ca.1655 - 1712"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima. Mentre i signori accademici Infecondi celebravano i funerali dell'istessa - sonetto - Cigni voi, che sul Tebro egri, e dolenti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18744",
+                            "RecordID": "022-000005811",
+                            "Value": "Serio,Donato Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il genio dell'Adria afflitto per la morte della medesima - Oda - La' ve' l'Adriatica Reggia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18745",
+                            "RecordID": "022-000005812",
+                            "Value": "de` Conti di Campello,Francesco Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la morte della medesima - sonetto - Stava de' suoi pensieri intesa al moto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18746",
+                            "RecordID": "022-000005813",
+                            "Value": "Paglia,Francesco Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "la morte - Oda prima - Poche' torno' da le Tenarie soglie",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18747",
+                            "RecordID": "022-000005814",
+                            "Value": "Pitoni,Francesco Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L'Helena - Ode seconda - Mai l'austriaco piano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18747",
+                            "RecordID": "022-000005814",
+                            "Value": "Pitoni,Francesco Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L'ombra - Ode terza - Sferzava a i Poli intorno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18747",
+                            "RecordID": "022-000005814",
+                            "Value": "Pitoni,Francesco Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la morte della medesima - sonetto -",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18747",
+                            "RecordID": "022-000005814",
+                            "Value": "Pitoni,Francesco Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il feretro dell'Illustrissima signora E. L. Cornara - sonetto - D'Elena sciolta dal terreno velo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18748",
+                            "RecordID": "022-000005815",
+                            "Value": "Baba,Gabriello,Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "nel medesimo soggetto. Si toccano gli studi di filosofia, astrologia, e teologia professati dalla medesima - sonetto - Non cade Elena gia' s'ella qual face",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18702",
+                            "RecordID": "022-000005767",
+                            "Value": "Monaci,Gaetano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nello stesso soggetto - sonetto - egra piangeva a la grand'Urna a canto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18695",
+                            "RecordID": "022-000005760",
+                            "Value": "Maselli,Giacinto,,1644 - 1702"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la morte della mesedima - sonetto - Elena giace: a la gran salma appresti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18749",
+                            "RecordID": "022-000005816",
+                            "Value": "Ferraguti,Giacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "nel medesimo soggetto - sonetto - Non teme un core a l'onestade in seno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18750",
+                            "RecordID": "022-000005817",
+                            "Value": "Magnani,Giovanni Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. Michele Brugueres per il suo discorso funebre... sonetto - Eroe di Pindo il tuo plettro Tirreno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18703",
+                            "RecordID": "022-000005768",
+                            "Value": "Duranti,Gio Bartolomeo,,1647 - 1713"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si allude al sapere, non meno che a' suoi eruditissimi scritti et alla sua verginale modestia nell'attendere non allo specchio, ma a rendersi specchio della virtu'; s'animano le dame del lazio ad imitarla, massime lasciando la superfluita' delle pompe",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18703",
+                            "RecordID": "022-000005768",
+                            "Value": "Duranti,Gio Bartolomeo,,1647 - 1713"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si allude alle lingue che possedeva greca, francese ebraica, tedesca, e spagnola",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18751",
+                            "RecordID": "022-000005818",
+                            "Value": "Bonadrati,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima - sonetto - Impressi appena avea Lachesi ardita",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18752",
+                            "RecordID": "022-000005819",
+                            "Value": "Cienciarelli,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto - Alta citta' che de le regie mura",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18753",
+                            "RecordID": "022-000005820",
+                            "Value": "Alfonsi,Gio Filippo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto - Sia Pafo, sia Amatunta e sia Citera",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi,Giovanfrancesco,,1626 - 1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Apollo in morte della sudetta - sonetto - Lungo l'Anfriso io pascolai gli armenti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18707",
+                            "RecordID": "022-000005772",
+                            "Value": "Quartieri,Gio Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto - O grand'onor del secol nostro, o chiaro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18754",
+                            "RecordID": "022-000005821",
+                            "Value": "Barsanti,Gio Nicolo`,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima A sua Eccellenza il signor Gio. Battista Procurator Cornaro Piscopia padre della defonta - epicedio - Regio leon, che o posi, o che guerreggi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18755",
+                            "RecordID": "022-000005822",
+                            "Value": "Orazio,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Venezia gloriosa Per la morte della illustrissima signora E. C. come per la Regina Caterina - sonetto - A la donna del mar che adorna il regio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18756",
+                            "RecordID": "022-000005823",
+                            "Value": "Colletti,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella morte della medesima - sonetto - Barbaro dente, e piu' rode, e calpesta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18756",
+                            "RecordID": "022-000005823",
+                            "Value": "Colletti,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epitaffio Al marmo sepolcrale della medesima, che si figura sulal riva del Timavo, si allude alle scienze dell'istessa - sonetto -",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18757",
+                            "RecordID": "022-000005824",
+                            "Value": "Mari,Giulio Cesare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della sudetta. Si allude alle due imprese, in una delle quali vien denominata l'Umile, e nell'altra l'Inalterabile - sonetto - Le superbe del Tebro or prese, e or lente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18712",
+                            "RecordID": "022-000005777",
+                            "Value": "Grimaldi,Giuliano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella morte della medesima sonetto dialogistico del segretario dell'Accademia - Dunque o mia Clio per funestar chi vive",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18709",
+                            "RecordID": "022-000005774",
+                            "Value": "Berneri,Giuseppe,,1634-?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sepoltura della medesima - sonetto - Scarmigliato su i lidi il crin reale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18710",
+                            "RecordID": "022-000005775",
+                            "Value": "Guaccimanni,Giuseppe Giusto,,1652-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Appello disperato per la morte della medesima - sonetto - Ad un colpo fatal di cieca morte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18341",
+                            "RecordID": "022-000005356",
+                            "Value": "Malatesta Garuffi,Giuseppe,,ca.1650 - 1727"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epitaffio alla tomba della medesima - sonetto - A questo Avello, o Peregrin, che passi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18758",
+                            "RecordID": "022-000005825",
+                            "Value": "Margalli,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo soggetto - sonetto - La' dove a pie' d'un immortale alloro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18759",
+                            "RecordID": "022-000005826",
+                            "Value": "Prosperi,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nello stesso soggetto. Si allude agli studi di filosofia, ne' quali ebbe la laurea dottorale, et agli studi di poesia - sonetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18759",
+                            "RecordID": "022-000005826",
+                            "Value": "Prosperi,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nell'istesso sogegtto - sonetto - Togliete quelle imagini, che intorno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18760",
+                            "RecordID": "022-000005827",
+                            "Value": "Rossi,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella morte della medesima - sonetto - Elena a canto de gli Ascrei liquori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18760",
+                            "RecordID": "022-000005827",
+                            "Value": "Rossi,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la morte della medesima - sonetto - Qual lume stampa in su l'arena adusta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18761",
+                            "RecordID": "022-000005828",
+                            "Value": "Settecastelli,Giuseppe,Count,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla medesima Che nel piu' bel fiore degli anni trionfa delle passioni amorose eleggendosi lo stato di vergine",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18761",
+                            "RecordID": "022-000005828",
+                            "Value": "Settecastelli,Giuseppe,Count,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima - sonetto - La' dove l'increato Idea possente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18762",
+                            "RecordID": "022-000005829",
+                            "Value": "de` Conti d`Arcano,Lucio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il sepolcro- sonetto - Fermati, mira, e piangi. Oh quanto chiude",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18722",
+                            "RecordID": "022-000005787",
+                            "Value": "de Strinatis,Malatesta,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo soggetto - sonetto - Elena e' qui sepolta: aonj fiori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18722",
+                            "RecordID": "022-000005787",
+                            "Value": "de Strinatis,Malatesta,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Possedea otto lingue - sonetto - Quante lingue ha in suo regno Ascra e Ippocrene",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18722",
+                            "RecordID": "022-000005787",
+                            "Value": "de Strinatis,Malatesta,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Illustriss. et Eccellentiss. Sig. Gio. Battista Procurator Cornaro padre della sudetta - sonetto - Signor, di tristo, e lagrimoso umore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18722",
+                            "RecordID": "022-000005787",
+                            "Value": "de Strinatis,Malatesta,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "\u0397\u0384 A\u03c0\u03bf\u03b8\u03ad\u03c9\u03c3\u03b9\u03c2 - sonetto - Quando feri' morte crudele e tolse",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18722",
+                            "RecordID": "022-000005787",
+                            "Value": "de Strinatis,Malatesta,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nello stesso soggetto - sonetto Allor, che dal terren nodo disciolta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18722",
+                            "RecordID": "022-000005787",
+                            "Value": "de Strinatis,Malatesta,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ne medesimo soggetto - sonetto - Lacrimose armonie su cetra d'auro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18716",
+                            "RecordID": "022-000005781",
+                            "Value": "Cevoli,Mario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al leone alato (stemma della ser.ma Rep.ca veneta) che con una zampa tiene la bilance e coll'altra la spada esortandolo a seguitare le sue vittorie - sonetto - Mostro real, tu che poc'anzi l'auro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18716",
+                            "RecordID": "022-000005781",
+                            "Value": "Cevoli,Mario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte delle medesima - Oda - Da morso traditor d'aspe calcato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18733",
+                            "RecordID": "022-000005800",
+                            "Value": "Reitani Spadafora,Mario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Monumento sepolcrale in morte dell'istessa - sonetto - Peregrin ferma il piede. Ahi qui sepolta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18733",
+                            "RecordID": "022-000005800",
+                            "Value": "Reitani Spadafora,Mario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La luce tramonta dell'Adria nella morte dell'Illustrissima signora E. L. C. P. Seguita nel siollione - Epicedio - Canore dee tributi ormai versate",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18342",
+                            "RecordID": "022-000005357",
+                            "Value": "Saulini,Nicolo` Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte dell stessa- sonetto - Son dunque a morte ancor sudditi i Numi?",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18342",
+                            "RecordID": "022-000005357",
+                            "Value": "Saulini,Nicolo` Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la morte immatura della medesima - sonetto - Dove volo di Fama appena arriva",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18763",
+                            "RecordID": "022-000005830",
+                            "Value": "Madrisio,Niccolo`,,1656 - 1729"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alli Sig.ri Accademici Infecondi. Narra l'autore aver veduto il funerale dell'Illustrissima signora Elena nella citta' di Padova nel seguente sonetto - Aprir l'uscio quest'occhi al cor svenato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18734",
+                            "RecordID": "022-000005801",
+                            "Value": "Solyma,Nicolo` Maria,Knight of the Order of the Star,? - 1692"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Apostrofe alla medesima erudita in filosofia, poesia, astrologia, e teologia, si scherza su li doi nomi - sonetto - Anima illustre, in cui le stelle uniro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18764",
+                            "RecordID": "022-000005831",
+                            "Value": "Rosati,Ottaviano Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo soggetto - sonetto Fuma il veneto rogo in su la spoglia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18719",
+                            "RecordID": "022-000005784",
+                            "Value": "Giubilei,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la morte della medesima si allude all'aversi cagionata la morte per lo soverchio studiare - sonetto - Dolce tiranno de' piu' rari ingegni,",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18765",
+                            "RecordID": "022-000005832",
+                            "Value": "Figari,Pompeo,Abbot,ca.1650 - 1730"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nello stesso soggetto - sonetto - Morta e' Elena d'Adria. A l'alta spoglia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18765",
+                            "RecordID": "022-000005832",
+                            "Value": "Figari,Pompeo,Abbot,ca.1650 - 1730"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima - madrigale del Primo Assistente dell'Accademia - Temprisi l'aspro duolo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18720",
+                            "RecordID": "022-000005785",
+                            "Value": "Mandosio,Prospero,,1643 - 1724"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della medesima - sonetto - Lucrezia e' morta. Da l'Aonie arene",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18766",
+                            "RecordID": "022-000005833",
+                            "Value": "Merighi,Romano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Inscrizione al Leone aurato alato e coronato che con la bilancia sta dipinto in Venezia - sonetto - Questo a cui par, che fulminato ardore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18733",
+                            "RecordID": "022-000005800",
+                            "Value": "Reitani Spadafora,Mario,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002421",
+        "WorkId": "000309",
+        "ShortTitle": "Quod optimus medicus debeat esse chirurgus",
+        "LongTitle": "Oratio, habita in Archi-Lycaeo Patavino; die 19 Novembris, 1681. A Carolo Patino equite D. Marci, Doct. Medico Paris. Primario Chirurgiae Professore.",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Accademia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1681",
+        "DedicationPlaceDate": "Padua Prid. Id. Nov. 1681",
+        "Shelfmark": "Ac.8855.(2.)",
+        "Subjects": "Medicine",
+        "Language": "Latin",
+        "Pagination": "8",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9085",
+                "RecordID": "022-000001691",
+                "Value": "Patin,Charles,,1633-1693"
+            }
+        },
+        "Notes": "Mentions the Academy in the Dedication to Basadonna, also defined `Academiae Patavinae Moderatori`.",
+        "CensorsAgreement": "Super(iorum) Per(missu)",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18777",
+                "RecordID": "022-000005845",
+                "Value": "Basadonna,Girolamo,Senator|Podesta` in Padua,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15864",
+                "RecordID": "022-000002422",
+                "Value": "Pasquati,Giovanni Battista,,fl. 1627 - 1657"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55023",
+            "Value": "023-000002421_55023_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

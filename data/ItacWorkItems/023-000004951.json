@@ -1,0 +1,116 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004951",
+        "WorkId": "000610",
+        "ShortTitle": "De Lactis, Seri, & Butyri Facultatibus, & Usu, Opuscola.",
+        "LongTitle": "Cum iucunda, tum utilia, cum pleraque praeter medicorum communem multorum opinionem notatu digna examinatur. Accessit in fine de Chymico Butyro non inutilis conventus. Cum triplici Indice, Capitum nimirum, Auctorum, & rerum memorabilium. As Perillustrem D. Ioan. Baptistam Nani, Baronem Regini dicata.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1623",
+        "DedicationPlaceDate": "San Marco 1 June 1623",
+        "Shelfmark": "1038.i.4.(1.)",
+        "Subjects": "Science|Medicine",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 167",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15870",
+                "RecordID": "022-000002430",
+                "Value": "Baricelli,Giulio Cesare,,1594 - ?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18015",
+                    "RecordID": "022-000004954",
+                    "Value": "Baricelli,Marcello,,"
+                },
+                {
+                    "PersonId": "18014",
+                    "RecordID": "022-000004953",
+                    "Value": "Mazzella ,Fabio,,"
+                },
+                {
+                    "PersonId": "18009",
+                    "RecordID": "022-000004947",
+                    "Value": "Ragucius,Antonius,Abbot,"
+                },
+                {
+                    "PersonId": "18016",
+                    "RecordID": "022-000004955",
+                    "Value": "Bonelli,Giovanni Silvio ,,"
+                },
+                {
+                    "PersonId": "15006",
+                    "RecordID": "022-000001048",
+                    "Value": "Zizzae,Prosper Antonius,,"
+                }
+            ]
+        },
+        "Notes": "This text contains an epigram by Prospero Antonio Zizza.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16532",
+                    "RecordID": "022-000003233",
+                    "Value": "Caputo,Filocalo,,"
+                },
+                {
+                    "PersonId": "15189",
+                    "RecordID": "022-000001231",
+                    "Value": "Tastius,Laelius,,"
+                },
+                {
+                    "PersonId": "18017",
+                    "RecordID": "022-000004956",
+                    "Value": "Milensius ,Felix,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur.\nLaelius Tastius Vicar. Generalis.\nM. Fr. Felix Milensius Aug. Dep. \nM. Fr. Plilocalus Caputus Carmel. Theolog. Dep.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18013",
+                "RecordID": "022-000004952",
+                "Value": "Nani,Ioan[nes] Baptistae,Baron,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15137",
+                "RecordID": "022-000001179",
+                "Value": "Scoriggio,Lazzaro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54541",
+            "Value": "023-000004951_54541_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Clarissimo Viro Iulio Caesari Baricello Medico suae tempestatis egregio. In eius Opus de lacte, Sero, ac Butyro.\nAdmodum Reverendi D. Prosperi Antonii Zizzae Sacerdotis, Academici Ociosi nuncupat. Pij. Epigramma.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15006",
+                        "RecordID": "022-000001048",
+                        "Value": "Zizzae,Prosper Antonius,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0015",
+        "RecordId": "021-000000989",
+        "Name": "Traccia (Accademia della)",
+        "AlternativeName": "Accademia fisicomatematica|Accademia dei Filosofi",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "1665",
+        "EndDate": "1678/79",
+        "DateText": "1665-1678/79",
+        "Notes": "The Academy was first held at Sampieri`s house, and subsequently at Montanari`s house. After Montanari`s departure from Bologna, it was probably hosted by Cardinal Davia for a short time. Details can be found in Salvatore Rotta, `Scienza e pubblica felicit\u00e0 in Geminiano Montanari`, in Miscellanea Seicento Firenze Le Monnier 1971 pp. 97 and 165-6. This Academy was followed by the Accademia degli Inquieti, see M. Cavazza, `Dal \"Coro anatomico\" agli \"Inquieti\", in Quaderni storici (1981). See also Ivano Dal Prete`s biography of Montanari, in DBI.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "7420",
+                "RecordId": "022-000000999",
+                "Name": "Sampieri, Antonio, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7410",
+                "RecordId": "022-000001006",
+                "Name": "Pasini, Angelo, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7411",
+                "RecordId": "022-000001008",
+                "Name": "Coris, Giovanni Battista, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7413",
+                "RecordId": "022-000001009",
+                "Name": "Pepoli,Taddeo (Paolo Emilio), ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7414",
+                "RecordId": "022-000001010",
+                "Name": "Pinchiari,Agostino Sante, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7416",
+                "RecordId": "022-000001012",
+                "Name": "Zani, Ercole, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7417",
+                "RecordId": "022-000001013",
+                "Name": "Castelli, Prospero Filippo, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7418",
+                "RecordId": "022-000001014",
+                "Name": "Davia, Giovanni Antonio, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5028",
+                "RecordId": "022-000000030",
+                "Name": "Montanari,Geminiano,,1633 - 1687",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5151",
+                "RecordId": "022-000000146",
+                "Name": "Manzi,Giovanni Galeazzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5080",
+                "RecordId": "022-000000077",
+                "Name": "Nanni Fantuzzi,Ippolito,,ca. 1609 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18742",
+                "RecordId": "022-000005809",
+                "Name": "Guglielmini,Domenico (Bolognese),,1655 - 1710",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19412",
+                "RecordId": "022-000006620",
+                "Name": "Rondelli,Geminiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

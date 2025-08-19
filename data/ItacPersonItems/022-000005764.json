@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18699",
+        "RecordId": "022-000005764",
+        "Surname": "Capece",
+        "Forename": "Carlo Sigismondo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Capeci"
+        },
+        "DateText": "1652-1724",
+        "StartDate": "1652",
+        "EndDate": "1724",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Also member of the Imperfetti and Pellegrini (as Gismondo del Pincio)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

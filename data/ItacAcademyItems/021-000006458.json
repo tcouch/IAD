@@ -1,0 +1,19 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0154",
+        "RecordId": "021-000006458",
+        "Name": "Partenia minore - Milano (Accademia)",
+        "City": {
+            "CityId": "38",
+            "CityItalianName": "Milano",
+            "CityEnglishName": "Milan",
+            "CityLatinName": "Mediolani"
+        },
+        "EmblemImage": {
+            "ImageId": "54684",
+            "Value": "021-000006458_54684_1.jpg"
+        },
+        "Motto": "Dant Animos Vices",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

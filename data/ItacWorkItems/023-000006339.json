@@ -1,0 +1,122 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006339",
+        "WorkId": "000752",
+        "ShortTitle": "Il Saggiatore",
+        "LongTitle": "Nel quale con bilancia esquisita e giusta si ponderano le cose contenute nella Libra astronomica e filosofica di Lotario Sarsi Sigensano. Scritto in forma di lettera. All`Ill.mo et Rever.mo Mons.re Virginio Cesarini Acc.o Linceo M.o di Camera di N. S. dal Sig. Galileo Galilei. Acc.o Linceo Nobile Fiorentino filosofo e matematico primario del Ser.mo Gran Duca di Toscana.",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1623",
+        "DedicationPlaceDate": "Roma 20 Ottobre 1623",
+        "Shelfmark": "52e10|1609/673",
+        "Subjects": "Astronomy",
+        "Language": "Italian|Latin",
+        "Pagination": "236",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9018",
+                "RecordID": "022-000001586",
+                "Value": "Galilei,Galileo,,1564 - 1642"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19135",
+                    "RecordID": "022-000006272",
+                    "Value": "Faber,Joannes,,1574 - 1629"
+                },
+                {
+                    "PersonId": "15230",
+                    "RecordID": "022-000001273",
+                    "Value": "Stelluti,Francesco,,"
+                }
+            ]
+        },
+        "Notes": "1609/673 does not contain portrait of Galileo; 52e10 does not contain eulogistic poems by fellow Lincei.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19156",
+                    "RecordID": "022-000006299",
+                    "Value": "Episcopus,Antonius,,"
+                },
+                {
+                    "PersonId": "16527",
+                    "RecordID": "022-000003224",
+                    "Value": "Ridolfi,Niccolo`,,1558 - 1650"
+                },
+                {
+                    "PersonId": "19184",
+                    "RecordID": "022-000006340",
+                    "Value": "Paulaccius,Dominicus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverendiss. P. mag. Sac. Pal. Apost. A. Episc. Hieracen. Vicesg.. Ho letto per ordine del Reverendissimo P. Maestro del Sacro Palazzo quest`opera del Saggiatore, et oltre ch`io non ci trovo cosa veruna disdicevole a` buoni costumi, ne` che si dilunghi dalla evrita` sovrannaturale di nostra fede, ci ho avvertite tante belle considerazioni appartenenti alla filosofia nostrale, ch`io non credo che il nsotro secolo sia per gloriarsi ne` futuri di erede solamente delle fatiche de` passati filosofi, ma d`inventore di molti segreti della natura, ch`eglino non poterono scoprire merce` della sottile, e soda speculazione dell`autore, nel cui tempo mi reputo felice d`esser nato, quando non piu` con la stadera, et alla grossa, ma con saggiuoli si` delicati si bilancia l`oro della verita`. Nel collegio di San Tommaso sopra la Minerva. In Roma 2 Febraro 1623. F. Niccolo` Riccardi. Imprimatur F. Dominicus Paulaccius Mag. et socius Reverendiss. P. Fr. Nicolai Rodulfi Sac. Apost. Palatii Mag.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5001",
+                "RecordID": "022-000000003",
+                "Value": "Barberini,Maffeo,Pope Urban VIII,1568-1644"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19146",
+                "RecordID": "022-000006286",
+                "Value": "Accademici Lincei,,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "19143",
+                "RecordID": "022-000006282",
+                "Value": "Villamena,Francesco,,1564 - 1624"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17441",
+                "RecordID": "022-000004300",
+                "Value": "Mascardi,Giacomo,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Porta tenet primas, habeas Germane secundas",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19135",
+                            "RecordID": "022-000006272",
+                            "Value": "Faber,Joannes,,1574 - 1629"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Infra tutti i viventi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15230",
+                            "RecordID": "022-000001273",
+                            "Value": "Stelluti,Francesco,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

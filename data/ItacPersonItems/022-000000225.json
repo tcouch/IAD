@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5233",
+        "RecordId": "022-000000225",
+        "Surname": "De Garex",
+        "Forename": "Paulus",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "de Garrexio",
+                "AlternativeForename": "Paolo"
+            },
+            {
+                "AlternativeSurname": "Vicari del Garresio"
+            }
+        ],
+        "DateText": "?-1643",
+        "StartDate": "?",
+        "EndDate": "1643",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

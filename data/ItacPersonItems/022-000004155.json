@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17330",
+        "RecordId": "022-000004155",
+        "Surname": "Nardi",
+        "Forename": "Callisto",
+        "DateText": "fl.1533 - 1541",
+        "StartDate": "fl.1533",
+        "EndDate": "1541",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Active in Siena and Arezzo, ther son of Simone and brother of Francesco.",
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

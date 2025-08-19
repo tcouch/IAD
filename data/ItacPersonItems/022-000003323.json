@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16604",
+        "RecordId": "022-000003323",
+        "Surname": "dei Rossi",
+        "Forename": "Niccolo` di Aristotele",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Zoppino"
+        },
+        "DateText": "fl.1503-1544",
+        "StartDate": "fl.1503",
+        "EndDate": "1544",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "On Zoppino and his work in the panorama of 16th c. Italy, see Luigi Severi, Sitibondo nello stampar de` libri. Niccolo` Zoppino tra libro e volgare, letteratura cortigiana e questione della lingua, Manziana, 2009",
+        "Role": "Printer|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20676",
+        "RecordId": "022-000008481",
+        "Surname": "L`Estrange",
+        "Forename": "Roger",
+        "PersonalTitle": "Sir",
+        "DateText": "1616-1704",
+        "StartDate": "1616",
+        "EndDate": "1704",
+        "Nationality": {
+            "NationalityId": "68",
+            "Value": "English"
+        },
+        "Notes": "Author and press censor. See his biography by Harold Love, in Oxford Dictionary of National Biography.",
+        "Role": "Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

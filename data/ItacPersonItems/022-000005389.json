@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18371",
+        "RecordId": "022-000005389",
+        "Surname": "Cesarini",
+        "Forename": "Virginio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Cesarino"
+        },
+        "DateText": "1595-1624",
+        "StartDate": "1595",
+        "EndDate": "1624",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Admitted in the Accademia dei Lincei in 1618. See Gabrieli, Contributi (1989), p. 9",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004294",
+        "WorkId": "000557",
+        "ShortTitle": "Il regno di Napoli diviso in dodici provincie",
+        "LongTitle": "con un abreve descrittione delle cose piu` notabili, e de corpi santi che sono in ciascheduna di essa. I nomi delle citta`, terre, e castella, che vi sono, con la vecchia, e nuova numeratione. I Re che vi han  reagnato, et i Vicere` stativi da Bellisario in qua, i Principi, Duchi, Marchesi, e Conti, che vi sono al presente. I sette officii del regno, con i Cavalieri del Tesone, che hora vi sono. I Vescovadi e Arcivescovadi, che sono in ciascuna Provincia, li Ius patronati del Re, le Terre di Demanio, e le Camere riservate, con i pagamenti che fanno alla Regia Corte. E le famiglie nobili delle Citta` principali. Aggiontovi una breve descrittione della Citta` di napoli, con la numeratione de` fuochi, Chiese, Preti, Parocchie, Monasterij, Confraterie, e maritaggi, che da quelli si fanno ogni anno, li Corpi Santi, e Reliquie, che vi sono, con la nobilta` di Seggi, e fuor di Seggi. Raccolto per Henrico Bacco Alemanno, e dato in luce da Pietro Antonio Sofia Napolitano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1611",
+        "DedicationPlaceDate": "Naples 1 August 1611",
+        "Shelfmark": "10132.aa.2",
+        "Subjects": "Kingdom of Naples",
+        "Language": "Italian",
+        "Pagination": "[6] 151",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17440",
+                "RecordID": "022-000004298",
+                "Value": "Bacco Alemanno,Henrico ,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17437",
+                "RecordID": "022-000004295",
+                "Value": "Cataneo,Horatio,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15140",
+                    "RecordID": "022-000001182",
+                    "Value": "Tiroboscus,Cornelius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Petrus Antonius Ghibertus Locumt. M. Cornelius Tiroboscus Praedicatorum Ordinis Curiae Archiepiscopalis Theologus",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17439",
+                "RecordID": "022-000004297",
+                "Value": "Caracciolo,Marino,Duke of Atripalda,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17438",
+                "RecordID": "022-000004296",
+                "Value": "Sofia,Pietro Antonio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16653",
+                "RecordID": "022-000003378",
+                "Value": "Longo,Tarquinio,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Al medesimo [Marino Caracciolo] Il Rincorato Academico de gl`Intronati di Siena",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "17437",
+                        "RecordID": "022-000004295",
+                        "Value": "Cataneo,Horatio,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

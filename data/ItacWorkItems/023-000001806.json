@@ -1,0 +1,110 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001806",
+        "WorkId": "00121",
+        "ShortTitle": "Dubbi proposti da Ridolfo Moieschino Pio",
+        "LongTitle": "Alli signori Academici Ricovrati di Padoa per occasione dell`Impresa loro che \u00e8 l`Antro delle Ninfe Naiadi di Homero. Dedicati all`Illustrissimo et Eccellentissimo prencipe il sig[nor] Don Federico Pico prencipe della Mirandola e marchese della Concordia",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Accademia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "37",
+            "PublicationPlaceItalianName": "Vicenza",
+            "PublicationPlaceEnglishName": "Vicenza",
+            "PublicationPlaceLatinName": "Vicentiae"
+        },
+        "PublicationYear": "1601",
+        "DedicationPlaceDate": "Padua 2 June 1601",
+        "Shelfmark": "1578/2652.(2.)",
+        "Subjects": "Emblems|Academic discourse",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 31",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9320",
+                "RecordID": "022-000001677",
+                "Value": "Moieschino,Ridolfo Pio,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9320",
+                "RecordID": "022-000001677",
+                "Value": "Moieschino,Ridolfo Pio,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Accademia dei Ricovrati"
+            },
+            "ItacPersonItem": {
+                "PersonId": "9321",
+                "RecordID": "022-000001678",
+                "Value": "della Mirandola,Federico Pico,Marquis,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9634",
+                "RecordID": "022-000001675",
+                "Value": "Greco,Giorgio,,fl. 1580-1605"
+            }
+        },
+        "PrinterOrnament": "A 150 | Z 1181",
+        "TitlePageImage": {
+            "ImageId": "52635",
+            "Value": "023-000001806_52635_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Parte prima - Intorno al ragionamento delle imprese",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9320",
+                            "RecordID": "022-000001677",
+                            "Value": "Moieschino,Ridolfo Pio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Prte seconda - Circa l'antro delle Ninfe naiad di Homero in quanto e' impresa dei Signori Ricovrati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9320",
+                            "RecordID": "022-000001677",
+                            "Value": "Moieschino,Ridolfo Pio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Inorno al motto 'Bipatens animis asylum'",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9320",
+                            "RecordID": "022-000001677",
+                            "Value": "Moieschino,Ridolfo Pio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Intorno al nome Ricovrati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9320",
+                            "RecordID": "022-000001677",
+                            "Value": "Moieschino,Ridolfo Pio,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

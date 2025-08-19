@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0544",
+        "RecordId": "021-000008151",
+        "Name": "Deformati (Accademia dei)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "Motto": "Vertet in aurum",
+        "StartDate": "17thc.",
+        "DateText": "17thc.",
+        "Notes": "Publications related to the history of the Deformati Academy, but not in British Library collections, include: Scotti, Giulio Clemente, Monita philosophiae tyronibus opportuna Ferrariensis Deformatorum Academiae magistratus iussu typis vulgata (Ferrariae: Franciscum Succium, 1636).\nMaylender also mentions Poesie dell`Accademico Eterogeneo Accademico Disformato (Ferrara per Giuseppe Gironi, 1638), which I was unable to find.",
+        "ItacPersonItem": {
+            "PersonId": "20428",
+            "RecordId": "022-000008152",
+            "Name": "Scotti,Giulio Clemente,,1602-1669",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

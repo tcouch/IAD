@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20426",
+        "RecordId": "022-000008148",
+        "Surname": "Corner",
+        "Forename": "Girolamo",
+        "PersonalTitle": "Procurator",
+        "DateText": "1562-1634",
+        "StartDate": "1562",
+        "EndDate": "1634",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See his biography by Renzo Derosas in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

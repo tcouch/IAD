@@ -1,0 +1,57 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003543",
+        "WorkId": "000461",
+        "ShortTitle": "Il Travaglio",
+        "LongTitle": "Commedia Bellissima composta per il Fumoso della Congrega de Rozzi",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1580",
+        "Shelfmark": "163.a.4",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "53",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16746",
+                "RecordID": "022-000003482",
+                "Value": "Salvestro,,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16801",
+                "RecordID": "022-000003544",
+                "Value": "Bertini,Pietro,,"
+            }
+        },
+        "Notes": "Imperfect; wanting the titlepage and last three pages, which are supplied in MS. In the title page: `In Siena alla Loggia del Papa`. First edition 1552. On the history of this controversial comedy, see Roberto Alonge, `Nota al \"Travaglio\"`, in Il teatro dei Rozzi di Siena (Florence, 1967)",
+        "TitlePageImage": {
+            "ImageId": "53904",
+            "Value": "023-000003543_53904_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Sonetto di M. Pietro Bertini Aretino in lode del Fumoso",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16801",
+                        "RecordID": "022-000003544",
+                        "Value": "Bertini,Pietro,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

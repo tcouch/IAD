@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19261",
+        "RecordId": "022-000006444",
+        "Surname": "Frumenti",
+        "Forename": "Ilario",
+        "AlternativeName": {
+            "AlternativeSurname": "Frumentius",
+            "AlternativeForename": "Hilarius"
+        },
+        "Nationality": {
+            "NationalityId": "102",
+            "Value": "of Como"
+        },
+        "Notes": "His affiliation to Accademia Parthenia is in Franchi, Impressioni sceniche, p. 531.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7001",
+        "RecordId": "022-000000789",
+        "Surname": "Habsburg",
+        "Forename": "Margherita",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "d'Austria",
+            "AlternativeForename": null
+        },
+        "DateText": "1522-1586",
+        "StartDate": "1522",
+        "EndDate": "1586",
+        "Nationality": {
+            "NationalityId": "167",
+            "Value": "Flemish"
+        },
+        "Notes": "The daughter of Emperor Charles V. Appointed governor of the Low Countries in 1559.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

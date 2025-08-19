@@ -1,0 +1,111 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002425",
+        "WorkId": "000310",
+        "ShortTitle": "Della Superstitiosa Noce di Benevento",
+        "LongTitle": "Trattato Historico del Signor Pietro Piperno Beneventano. Filosofo et medico e della Gran Giurisditione di S. Sofia di essa Citt\u00e0 Protomedico. Con il trattato in lingua latina scritto gli anni passati dall`istesso Autore intorno la sudetta superstitiosa Noce.",
+        "ItacAcademyItem": {
+            "AcademyId": "0030",
+            "RecordID": "021-000002423",
+            "Value": "Accademia degli Infuriati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1640",
+        "DedicationPlaceDate": "Benevento 3 August 1639",
+        "Shelfmark": "G.19115",
+        "Content": "Encomiastic poetry; Prose",
+        "Subjects": "History of Benevento|Magic",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcut|Amphisbaena|Woodcut|Walnut tree",
+        "Pagination": "first 14 pages unnumbered; Parte prima pp. 18; Parte seconda pp. 11; Parte Terza pp. 19; Parte Quarta pp. 9; Parte Quinta pp. 48. last 5 pages unnumbered",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15866",
+                "RecordID": "022-000002426",
+                "Value": "Piperno,Pietro,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15865",
+                    "RecordID": "022-000002424",
+                    "Value": "de Lellis,Carlo,,"
+                },
+                {
+                    "PersonId": "15867",
+                    "RecordID": "022-000002427",
+                    "Value": "Piperno,Giovanni,Abbot,"
+                },
+                {
+                    "PersonId": "15869",
+                    "RecordID": "022-000002429",
+                    "Value": "Machabaei,Caesaris,,"
+                },
+                {
+                    "PersonId": "15870",
+                    "RecordID": "022-000002430",
+                    "Value": "Baricelli,Giulio Cesare,,1594 - ?"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15871",
+                "RecordID": "022-000002431",
+                "Value": "Gaffaro,Giacomo,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15872",
+                    "RecordID": "022-000002432",
+                    "Value": "Lucian[us],Alex[ander],Vicar General,"
+                },
+                {
+                    "PersonId": "15873",
+                    "RecordID": "022-000002433",
+                    "Value": "Gianettasius,Ioseph,,"
+                },
+                {
+                    "PersonId": "15874",
+                    "RecordID": "022-000002434",
+                    "Value": "Gravina,Domenico,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15875",
+                "RecordID": "022-000002435",
+                "Value": "Bilotta,Gio[vanni] Camillo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53503",
+            "Value": "023-000002425_53503_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "All`Autore, Sonetto del Signor Carlo de Lellis Academico Infuriato",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15865",
+                        "RecordID": "022-000002424",
+                        "Value": "de Lellis,Carlo,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

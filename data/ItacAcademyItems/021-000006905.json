@@ -1,0 +1,43 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0256",
+        "RecordId": "021-000006905",
+        "Name": "Mansuefatti (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "Late 17thc.",
+        "DateText": "Late 17thc.",
+        "Notes": "The source for dates and members of this Academy, is a letter dated 30 September 1692, in Lettere familiari, istoriche, & et erudite tratte dalle memorie recondite dell`abate Gio. Battista Pacichelli in occasione de` suoi studj, viaggi e ministeri: divise in due tomi ... per l`attenzione zelante verso il ben pubblico di Dom. Ant. Parrino (Napoli: appresso li socii Parrino e Mutii, 1695), vo. 1, p. 429",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19583",
+                "RecordId": "022-000006902",
+                "Name": "Pacichelli,Giambattista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19584",
+                "RecordId": "022-000006903",
+                "Name": "Morel,Domenico,Bishop,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19585",
+                "RecordId": "022-000006904",
+                "Name": "Tolomei,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

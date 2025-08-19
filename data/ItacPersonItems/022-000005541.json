@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18509",
+        "RecordId": "022-000005541",
+        "Surname": "Rospigliosi",
+        "Forename": "Giulio",
+        "Gender": "Male",
+        "PersonalTitle": "Pope Clement IX 1600-1669",
+        "DateText": "1600-1669",
+        "StartDate": "1600",
+        "EndDate": "1669",
+        "Nationality": {
+            "NationalityId": "184",
+            "Value": "of Pistoia"
+        },
+        "Notes": "For Rospigliosi`s dates and literary activity, see his biography by Luciano Osbat in DBI. His membership in the Accademia degli Infecondi with the nickname `Intatto` is mentioned by Gimma, Elogi, vol. 2 (1703), p. 26.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

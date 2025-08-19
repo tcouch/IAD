@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17812",
+        "RecordId": "022-000004720",
+        "Surname": "de la Cerda y Aragon",
+        "Forename": "Luis Francisco",
+        "Gender": "Male",
+        "PersonalTitle": "Duke of Medinaceli|viceroy of Naples",
+        "DateText": "1654-1711",
+        "StartDate": "1654",
+        "EndDate": "1711",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Notes": "Louis Francisco de la Cerda y Aragon was the founder of the Medinaceli Academy in Naples.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

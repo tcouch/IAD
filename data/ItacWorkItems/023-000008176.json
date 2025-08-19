@@ -1,0 +1,44 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008176",
+        "WorkId": "000915",
+        "ShortTitle": "Perillustriss. Galeatii Gualengui, Ferrariensis Academiae principis",
+        "LongTitle": "Ad academicos suos In Studiorum restaurationem, paraeneticum carmen",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1587",
+        "Shelfmark": "11405d22",
+        "Subjects": "Poetry",
+        "Pagination": "not numbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20431",
+                "RecordID": "022-000008155",
+                "Value": "Gualengo,Galeazzo,Marquis,?-1623"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55285",
+            "Value": "023-000008176_55285_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

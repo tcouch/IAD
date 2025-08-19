@@ -1,0 +1,88 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002703",
+        "WorkId": "000337",
+        "ShortTitle": "Antichita Di Napoli, E Del Suo Amenissimo Distretto.",
+        "LongTitle": "Scritta da Benedetto di Falco, Cittadino Napolitano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1617",
+        "Shelfmark": "1578/5384.(2.)",
+        "Subjects": "History of Naples",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcut|city of Naples",
+        "Pagination": "pp. 78",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16071",
+                "RecordID": "022-000002653",
+                "Value": "di Falco ,Benedetto,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16081",
+                "RecordID": "022-000002666",
+                "Value": "Morera,Scipione,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16108",
+                "RecordID": "022-000002704",
+                "Value": "Gargano - Nucci,Gio [vanni] Battista - Lucretio,,"
+            }
+        },
+        "Notes": "On p. 77 the author mentions the Sireni Academy, the Ardenti Academy and the Incogniti Academy of Naples",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15176",
+                    "RecordID": "022-000001218",
+                    "Value": "Riccius,Aloysius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimat. Petrus Antonius Ghibertus Vic. Gen.; Aloisius Riccius Canonicus Depitatus.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16076",
+                "RecordID": "022-000002660",
+                "Value": "G.T.,C.,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53623",
+            "Value": "023-000002703_53623_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "A Messer Benedetto di Falco, Napolitano. Astemio de gli Incogniti di Napoli.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16081",
+                        "RecordID": "022-000002666",
+                        "Value": "Morera,Scipione,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

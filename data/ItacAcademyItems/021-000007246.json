@@ -1,0 +1,36 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0356",
+        "RecordId": "021-000007246",
+        "Name": "Civetta (Accademia della)",
+        "City": {
+            "CityId": "83",
+            "CityItalianName": "Trapani",
+            "CityEnglishName": "Trapani",
+            "CityLatinName": "Drepanum"
+        },
+        "StartDate": "1686",
+        "EndDate": "1760",
+        "DateText": "1686-1760",
+        "Notes": "In 1711, the Civetta academy was renamed as Occulti academy and again as Nuova accademia della Civetta in 1760.\nSee Il Funerale Academico celebrato dalla civetta nella venerabile Chiesa della Compagnia del Giesu di Trapani. Alla famosa Serva di Dio D. Caterina Burgio e Vincenzo, Trapani, Barbera, 1686.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19808",
+                "RecordId": "022-000007244",
+                "Name": "Barlotta,Giuseppe,Jesuit,1654 - ?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19809",
+                "RecordId": "022-000007245",
+                "Name": "Staiti,Bartoloneo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

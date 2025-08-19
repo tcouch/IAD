@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003121",
+        "WorkId": "000403",
+        "ShortTitle": "Abbattimento poetico",
+        "LongTitle": "del Divino Aretino, et del Bestiale Albicante, occorso sopra la guerra di Piemonte, et la pace loro, celebrata nell` Accademia de gli Intronati a Siena",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "4\u00b0",
+        "PublicationYear": "1540?",
+        "Shelfmark": "1073.h.34.(2.)|G.10766",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9231",
+                    "RecordID": "022-000001528",
+                    "Value": "Aretino,Pietro,,1492-1556"
+                },
+                {
+                    "PersonId": "16445",
+                    "RecordID": "022-000003122",
+                    "Value": "Albicante,Giovanni Alberto,,fl.1538-1555"
+                }
+            ]
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20702",
+                "RecordID": "022-000008517",
+                "Value": "Nardi,Alessandro,,"
+            }
+        },
+        "Notes": "Place of publication and date not certain. The British Library catalogue suggests Venice, 1540.\nThe booklet finishes with a sonnet by one Alessandro Nardi celebrating the end of the quarrell, delivered in the Accademia degli Intronati. See Asor Rosa, `Albicante`, DBI (1960).\nFor a modern edition and critical introduction, see Giovanni Alberto Albicante, Occasioni aretiniane (Vita di Pietro Aretino del Berna, Abbattimento, Nuova contentione), ed. and intro. Paolo Procaccioli (Manziana [Rome]: Vecchiarelli, 1999).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16473",
+                "RecordID": "022-000003150",
+                "Value": "Habsburg,Charles V,Holy Roman Emperor,1500 - 1558"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16446",
+                "RecordID": "022-000003123",
+                "Value": "Britonio,Girolamo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53383",
+            "Value": "023-000003121_53383_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Sonnet: Da poi che Carlo e 'l Re, di tanti sdegni",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20702",
+                        "RecordID": "022-000008517",
+                        "Value": "Nardi,Alessandro,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

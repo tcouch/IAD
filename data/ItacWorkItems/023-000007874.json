@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007874",
+        "WorkId": "000885",
+        "ShortTitle": "Oratione dell`obedientia",
+        "LongTitle": "di Achille Tasca da Bergamo, fatta nell`Academia della Vigilantia",
+        "ItacAcademyItem": {
+            "AcademyId": "0464",
+            "RecordID": "021-000007873",
+            "Value": "Accademia della Vigilanza"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1587",
+        "DedicationPlaceDate": "di Venezia a 28 Giugno 1587",
+        "Shelfmark": "113b33",
+        "Subjects": "Academic discourse|Obedience",
+        "Language": "Italian",
+        "Pagination": "pages unnumbered",
+        "Marginalia": "No",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17407",
+                "RecordID": "022-000004257",
+                "Value": "di Polici,Girolamo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17515",
+                "RecordID": "022-000004392",
+                "Value": "Guerra,Domenico and Giovanni Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55028",
+            "Value": "023-000007874_55028_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

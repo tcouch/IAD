@@ -1,0 +1,22 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0493",
+        "RecordId": "021-000008025",
+        "Name": "Disegno (Accademia del)",
+        "City": {
+            "CityId": "39",
+            "CityItalianName": "Firenze",
+            "CityEnglishName": "Florence",
+            "CityLatinName": "Florentiae"
+        },
+        "ItacPersonItem": {
+            "PersonId": "16296",
+            "RecordId": "022-000002949",
+            "Name": "Gentileschi,Artemisia,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

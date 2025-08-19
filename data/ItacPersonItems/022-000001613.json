@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9030",
+        "RecordId": "022-000001613",
+        "Surname": "Valier",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "PersonalTitle": "Knight",
+        "DateText": "fl.1680s",
+        "StartDate": "fl.1680s",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Joined the Ricovrati in 1599.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0291",
+        "RecordId": "021-000007002",
+        "Name": "Ringiovaniti (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Fountain of Youth, her water flowing into a cistern, on the waters of which is an eagle shone on by ther rays of the sun",
+        "Motto": "Renovabitur",
+        "StartDate": "ca.1640",
+        "DateText": "ca.1640",
+        "Notes": "Maylender includes one publication related to this Academy: L`Aquila rinovata. Discorso per la conversione di San Agostino Protettore dell`Accademia dei Ringiovaniti (Bologna, Ferroni, 1648)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19645",
+                "RecordId": "022-000007001",
+                "Name": "Landi,Fabiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5027",
+                "RecordId": "022-000000029",
+                "Name": "Guastavillani,Angelo Michele,Senator,1633 - 1701",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17445",
+        "RecordId": "022-000004306",
+        "Surname": "di Alecci",
+        "Forename": "Sebastiano",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "D`Alecci"
+            },
+            {
+                "AlternativeSurname": "Aleccia"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Sebastiano di Alecci was the personal printer of Prince Luigi Sanseverino. See Luigi Sanseverino, Collectaneum seu Catena sanctorum patrum, et aliorum veterum auctorum in sanctum euangelium Matthaei..., Naples, 1659;\nLorenzo Giustiniani, Saggio storico-critico sulla tipografia del regno di Napoli, Napoli, 1793, p. 170, (BL shelfmark: 662.f.24.(2.) )",
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

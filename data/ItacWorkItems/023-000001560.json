@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001560",
+        "WorkId": "00102",
+        "ShortTitle": "La seconda parte delle lezzioni di M. Benedetto Varchi",
+        "LongTitle": "nella quale si contengono cinque lezzioni d`amore. Lette da lui publicamente nell`Accademia di Fiorenza e di Padova. Nuovamente stampate. Con privilegio",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1561",
+        "DedicationPlaceDate": "Florence 18 Febrary 1560",
+        "Shelfmark": "244.k.2",
+        "Subjects": "Academic lessons|Love poems",
+        "Language": "Italian",
+        "Pagination": "114 [4]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9206",
+                "RecordID": "022-000001503",
+                "Value": "Varchi,Benedetto,,1503 - 1565"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9206",
+                "RecordID": "022-000001503",
+                "Value": "Varchi,Benedetto,,1503 - 1565"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9218",
+                    "RecordID": "022-000001515",
+                    "Value": "della Stufa,Giulio,,1538/39-1564"
+                },
+                {
+                    "PersonId": "9219",
+                    "RecordID": "022-000001516",
+                    "Value": "Salviati,Lorenzo,,1492-1539"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9220",
+                "RecordID": "022-000001517",
+                "Value": "Giunti,Bernardo I - Eredi,,fl.1551 - 1591"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "TitlePageImage": {
+            "ImageId": "52645",
+            "Value": "023-000001560_52645_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Lezzione di M. Benedetto Varchi Sopra un sonetto del reverendissimo Monsignore Pietro Bembo. Letta da lui pubblicamente nell`Accademia padovana la seconda Domenica di Settembre dell`anno 1540",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9206",
+                        "RecordID": "022-000001503",
+                        "Value": "Varchi,Benedetto,,1503 - 1565"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

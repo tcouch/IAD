@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0223",
+        "RecordId": "021-000006840",
+        "Name": "Eustachiana (Accademia)",
+        "AlternativeName": "Accademia Eustachia",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1547?",
+        "EndDate": "?",
+        "DateText": "1547?-?",
+        "Notes": "On the history of this Academy, see Emanuele Conte, Accademie studentesche a Roma nel Cinquecento (Roma, 1985)",
+        "ItacPersonItem": {
+            "PersonId": "19559",
+            "RecordId": "022-000006839",
+            "Name": "de` Foschi,Tommaso,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

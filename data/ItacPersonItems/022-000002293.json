@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15749",
+        "RecordId": "022-000002293",
+        "Surname": "Morosini",
+        "Forename": "Andrea",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Moresini",
+            "AlternativeForename": null
+        },
+        "DateText": "1558-1619",
+        "StartDate": "1558",
+        "EndDate": "1619",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005359",
+        "WorkId": "000663",
+        "ShortTitle": "Poesie liriche del Barone Antonio Caraccio",
+        "LongTitle": "Dedicate all`eminentiss. e Reverendiss. Sig. Cardinale Pamphilio",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0043",
+                "RecordID": "021-000002758",
+                "Value": "Accademia De Gli Investiganti"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1689",
+        "Shelfmark": "11427df28",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "237",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18314",
+                "RecordID": "022-000005324",
+                "Value": "Caraccio,Antonio,Baron of Corano,1630-1702"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18314",
+                "RecordID": "022-000005324",
+                "Value": "Caraccio,Antonio,Baron of Corano,1630-1702"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18344",
+                    "RecordID": "022-000005360",
+                    "Value": "Calisti,Innocentio,,"
+                },
+                {
+                    "PersonId": "16239",
+                    "RecordID": "022-000002883",
+                    "Value": "Menattus,Stephanus Ioseph,Vicar General,? - 1695"
+                },
+                {
+                    "PersonId": "18345",
+                    "RecordID": "022-000005361",
+                    "Value": "Ferrari,Thomas Maria,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "In essecutione del comando, che V. P. Reverendissima si e` compiaciuta di farmi, ho non pur letto, ma accuratamente esaminato il libro trasmessomi delle poesie liriche del Sig. Barone Antonio Caraccio; ne` ho saputo trovavri cosa, che punto pregiudichi alla purita` della Fede, e all`honesta` del costume Cattolico. Il fargli pero` godere la luce della stampa parmi dovuto e all`Autore, che l`ha composto con avertenza veramente maestra, et a` professori di quest`arte, che possono facilmente perfettionarsi, conformandosi a cosi` degno esemplare. D. Innocentio calisti Abbate de` Canonici Regolari del Salvatore. Imprimatur",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18328",
+                "RecordID": "022-000005341",
+                "Value": "Pamphili,Benedetto,,1653 - 1730"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18343",
+                "RecordID": "022-000005358",
+                "Value": "Tinassi,Nicolo` Angelo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54426",
+            "Value": "023-000005359_54426_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Per un problema agitato nell`Accademia di Napoli se gli Egitij o i Romani fossero piu` grandi nelle loro fabbriche",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18314",
+                            "RecordID": "022-000005324",
+                            "Value": "Caraccio,Antonio,Baron of Corano,1630-1702"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Pel ritratto di Monsig. Natale Rondanino, che ne alzo` l`accademia degli Humoristi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18314",
+                            "RecordID": "022-000005324",
+                            "Value": "Caraccio,Antonio,Baron of Corano,1630-1702"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

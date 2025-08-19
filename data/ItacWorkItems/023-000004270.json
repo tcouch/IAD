@@ -1,0 +1,103 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004270",
+        "WorkId": "000554",
+        "ShortTitle": "Rime Et Prose Del Signor Horatio Marta.",
+        "LongTitle": "Raccolte, & poste insieme fin hora da suoi scritti, che si contengono nella pagina che siegue. All` Illustrissimo, Et Eccellentiss. Signor Conte Di Lemos Vicere Di Napoli",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1616",
+        "DedicationPlaceDate": "Naples 1 April 1616",
+        "Shelfmark": "84.c.17.",
+        "Subjects": "Poetry|Politics|Encomiastic poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved plate|",
+        "Pagination": "miscellaneous text, discontinuous pagination",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17414",
+                    "RecordID": "022-000004267",
+                    "Value": "Marta,Horatio,,"
+                },
+                {
+                    "PersonId": "16557",
+                    "RecordID": "022-000003270",
+                    "Value": "Della Casa,Giovanni,Archbishop of Benevento,1503 - 1556"
+                }
+            ]
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17415",
+                "RecordID": "022-000004268",
+                "Value": "Barbarito,Pompeo,,"
+            }
+        },
+        "Notes": "This text contains verses by Pompeo Barbarito, Ozioso Academician.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15222",
+                    "RecordID": "022-000001264",
+                    "Value": "Boschius,Alexander,General Vicar ,"
+                },
+                {
+                    "PersonId": "15224",
+                    "RecordID": "022-000001266",
+                    "Value": "Longus,Ioannes,Canon|Archbishop of Naples,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur.\nAlex. Bosch. Vicarius Generalis.\nIonnes Longus Canonicus, & Curuae Archiepisc. Neap. Theol. Deputatus vidit. Regist.fol. 32.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15019",
+                "RecordID": "022-000001061",
+                "Value": "De Castro Andrada,Pietro Fernandez,Count|Viceroy,1560 - 1634"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17416",
+                    "RecordID": "022-000004269",
+                    "Value": "Tramontano,Carlo,,"
+                },
+                {
+                    "PersonId": "17414",
+                    "RecordID": "022-000004267",
+                    "Value": "Marta,Horatio,,"
+                },
+                {
+                    "PersonId": "17417",
+                    "RecordID": "022-000004271",
+                    "Value": "Castelvetro ,Ludovico,,1505 - 1571"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15137",
+                "RecordID": "022-000001179",
+                "Value": "Scoriggio,Lazzaro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53844",
+            "Value": "023-000004270_53844_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

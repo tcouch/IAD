@@ -1,0 +1,271 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0029",
+        "RecordId": "021-000002361",
+        "Name": "Filomati (Accademia dei)",
+        "AlternativeName": "Philomates",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Trestle with a carpenter`s two saucers, one for holding the sponge of red colour, the other for the cord for drawing a line",
+        "Motto": "Adamussim",
+        "StartDate": "1577/80",
+        "EndDate": "1654",
+        "DateText": "1577/80-1654",
+        "Notes": "In the British Library manuscript collections there are four orations delivered by Kenelm Digby in the Accademia dei Filomati. See , MS 41846. MIDDLETON PAPERS. Vol. XLIV:\n(7) Four orations (the first three autograph drafts, the last a copy) by \nDigby (d. 1665), delivered to the Accademia dei Filomati at Siena; n.d. Italian. \nff. 118-141b.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16859",
+                "RecordId": "022-000003620",
+                "Name": "Benvoglienti,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16860",
+                "RecordId": "022-000003621",
+                "Name": "Marchetti,Salvestro,,fl.1603",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16865",
+                "RecordId": "022-000003629",
+                "Name": "Pannocchieschi,Arturo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16869",
+                "RecordId": "022-000003635",
+                "Name": "Sergardi,Fabio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16875",
+                "RecordId": "022-000003643",
+                "Name": "Piccolomini,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16877",
+                "RecordId": "022-000003645",
+                "Name": "Petrucci,Lorenzo,,",
+                "Nickname": "Contento Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16876",
+                "RecordId": "022-000003644",
+                "Name": "Balgarini,Iacomo,,",
+                "Nickname": "Fragile Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16878",
+                "RecordId": "022-000003646",
+                "Name": "Gallaccini,Teofilo,,",
+                "Nickname": "Difettoso Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16879",
+                "RecordId": "022-000003647",
+                "Name": "Nini,Giovanni Battista,,",
+                "Nickname": "Mesto Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16881",
+                "RecordId": "022-000003649",
+                "Name": "Finetti,Bartolomeo,,",
+                "Nickname": "Sofistico Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16882",
+                "RecordId": "022-000003650",
+                "Name": "Iacomini,Pompilio,,",
+                "Nickname": "Timoroso Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16883",
+                "RecordId": "022-000003651",
+                "Name": "Bolgarini,Alceo,,",
+                "Nickname": "Piacevole Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16874",
+                "RecordId": "022-000003642",
+                "Name": "Malavolti,Ubaldino,,",
+                "Nickname": "Lo Sbattuto Filomato",
+                "Motto": "Vis altera vetat",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16886",
+                "RecordId": "022-000003655",
+                "Name": "Buoninsegni,Girolamo,,",
+                "Nickname": "Strambo Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16880",
+                "RecordId": "022-000003648",
+                "Name": "Lomeri,Annibale,,",
+                "Nickname": "Satirico Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16896",
+                "RecordId": "022-000003667",
+                "Name": "Santi,Sigismondo,,",
+                "Nickname": "Lo Squarquarato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16897",
+                "RecordId": "022-000003668",
+                "Name": "Nini,Ettore,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16898",
+                "RecordId": "022-000003669",
+                "Name": "Benvoglienti,Attitlio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16863",
+                "RecordId": "022-000003625",
+                "Name": "Cittadini,Celso,,",
+                "Nickname": "L`Incitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16899",
+                "RecordId": "022-000003670",
+                "Name": "Piccolomini,Giulio,,",
+                "Nickname": "Il Ravviato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16900",
+                "RecordId": "022-000003671",
+                "Name": "Bulgarini,Ascanio,,",
+                "Nickname": "Lo Smarrito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16544",
+                "RecordId": "022-000003251",
+                "Name": "Chigi,Fabio ,Pope Alexander VII,1559 - 1667",
+                "Nickname": "Philomathus",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16901",
+                "RecordId": "022-000003672",
+                "Name": "Nelli,Tommaso,,",
+                "Nickname": "Lo Spennato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16911",
+                "RecordId": "022-000003686",
+                "Name": "Maccabruni,Lepido,,",
+                "Nickname": "Arido Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16915",
+                "RecordId": "022-000003690",
+                "Name": "Arrossito,Filomato,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17346",
+                "RecordId": "022-000004174",
+                "Name": "Gallaccini,Fausto,,",
+                "Nickname": "Floscio Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17347",
+                "RecordId": "022-000004175",
+                "Name": "Bartolini,Marzio,,",
+                "Nickname": "Accademico Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17580",
+                "RecordId": "022-000004473",
+                "Name": "V. M. ,,,",
+                "Nickname": "Accademico Filomato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16607",
+                "RecordId": "022-000003326",
+                "Name": "Ugurgieri,Ugo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18085",
+                "RecordId": "022-000005037",
+                "Name": "Digby,Kenelm,Sir,1603 - 1665",
+                "Nickname": "Fiorito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20775",
+                "RecordId": "022-000008602",
+                "Name": "Ripa,Cesare,,ca.1555-1622",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

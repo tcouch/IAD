@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004658",
+        "WorkId": "000583",
+        "ShortTitle": "Tractatus De Vinea, Vindemia, Et Vino",
+        "LongTitle": "Prosperi Rendellae Monopolitani. Academici Sileni Nuncupati",
+        "ItacAcademyItem": {
+            "AcademyId": "0089",
+            "RecordID": "021-000004633",
+            "Value": "Accademia dei Sileni"
+        },
+        "Format": "Fol.",
+        "Shelfmark": "439.m.13.(1.)",
+        "Subjects": "Treatise on vineyard, grape harvest and wine",
+        "Language": "Latin|Greek",
+        "Pagination": "pp. 98",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17758",
+                "RecordID": "022-000004657",
+                "Value": "Rendella,Prospero,,"
+            }
+        },
+        "Notes": "Wanting titlepage (Venice, 1629?).\nOn p. 43 the author mentions various Sileni academicians.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17759",
+                "RecordID": "022-000004659",
+                "Value": "Bona ,Hieronymo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19078",
+                "RecordID": "022-000006201",
+                "Value": "Bona,Maurizio,,ca.1578 - 1643"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19078",
+                "RecordID": "022-000006201",
+                "Value": "Bona,Maurizio,,ca.1578 - 1643"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54919",
+            "Value": "023-000004658_54919_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

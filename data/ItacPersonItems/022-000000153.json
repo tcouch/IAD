@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5158",
+        "RecordId": "022-000000153",
+        "Surname": "Mattei",
+        "Forename": "Giorgio",
+        "Gender": "Male",
+        "DateText": "1675-1753",
+        "StartDate": "1675",
+        "EndDate": "1753",
+        "Nationality": {
+            "NationalityId": "365",
+            "Value": "of Ragusa of Dalmatia"
+        },
+        "Notes": "Dates according to Appendini, Notizie istorico critiche..., p. 303",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

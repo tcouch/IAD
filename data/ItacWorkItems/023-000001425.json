@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001425",
+        "WorkId": "00153",
+        "ShortTitle": "Homeri Nepenthes seu De Abolendo Luctu Liber",
+        "LongTitle": "In quinque dividus partes quarum.  I. Parascevastica de Frugalitate. II. Historica de Medicamentis. III. Allegorica de Consolatione. IV. Anagogica de Virtute. V. Symplerotica de Avocamentis. Opus doctrina et eruditione refertum in quo et nonnulla utriusque lingua scriptorum loca illustrantur emaculantur. Auctore Petro La Seine.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "8\u00b0",
+        "PublicationYear": "1624",
+        "DedicationPlaceDate": "Naples 1621",
+        "Shelfmark": "528.c.1.",
+        "Subjects": "Dissertations",
+        "Language": "Latin",
+        "Pagination": "pp. 286  Index pagination missing",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15023",
+                "RecordID": "022-000001065",
+                "Value": "Lasena,Pietro,,1590-1636"
+            }
+        },
+        "Notes": "In the dedication to friends and readers the author implicitly refers to unnamed Neapolitan academies and mentions various Oziosi academicians such as Ioanne Baptista Manso, Ab Alexandro, Io. Baptista Masullum, Antonium Stellam, Bartholomaei Caraccioli etc.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15187",
+                    "RecordID": "022-000001229",
+                    "Value": "Ville Puget de Chaponay,Ioamnes Claudius,,"
+                },
+                {
+                    "PersonId": "15188",
+                    "RecordID": "022-000001230",
+                    "Value": "Dionysius,Simone,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Ioamnes Claudius de Ville in sacra Theologia Doctor in S. Pauli Lugdumensis Canonicus et in hac diocesi \u00e0 D. Dionysio Simone de Marquemont illustrissimo et Reverendissimo Archiepiscopo in librorum censuram incumbere iussi: fidem facimus nos hunc librum cui insciptio est De Homeri Nephente et c. vidisse nec in eo aliquid contra Catholicae Apostolicae et Romanae Ecclesiae sanam doctrinam aut bonos mores invenisse. Lugduni apud S. Paulum idib. die 17. Februarij 1624. Consensus Procuratoris Regij...Pugrt. Facultas imprimendi...De Chaponay.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15210",
+                "RecordID": "022-000001252",
+                "Value": "Prost,Ludovici,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

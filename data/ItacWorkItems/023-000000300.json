@@ -1,0 +1,237 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000300",
+        "WorkId": "00021",
+        "ShortTitle": "Il Seneca di Giovanfrancesco Bonomi",
+        "LongTitle": "fra signori Gelati di Bologna l`Affaticato con altre sue prose accademiche e poesie annesse et seria nugae",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1681",
+        "Shelfmark": "11427.df.26",
+        "Subjects": "Seneca|Epicurus|Language|Drunkenness|Mexican flower|Holy Trinity|Francesco Zapata|Academia Girellai",
+        "Language": "Italian",
+        "Illustration": "Engraved flyleaf | Various subjects | Woodcut | Typographic ornament",
+        "Pagination": "First 8 leaves unnumbered; pp. 383",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5020",
+                "RecordID": "022-000000022",
+                "Value": "Bonomi,Giovanfrancesco,,1626-1705"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5020",
+                "RecordID": "022-000000022",
+                "Value": "Bonomi,Giovanfrancesco,,1626-1705"
+            }
+        },
+        "Notes": "Printer`s ornament is the skull of an ox with the motto Bos lassus fortius figit pedem.The same symbol is in Achillis Bocchii, Symbolicarum Quaestionum, Book 5; symb. CXLVII (Bononiae: Apud societatem typographiae Bononiensis 1574). \nImages displayed are flyleaf and title page.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5020",
+                    "RecordID": "022-000000022",
+                    "Value": "Bonomi,Giovanfrancesco,,1626-1705"
+                },
+                {
+                    "PersonId": "5126",
+                    "RecordID": "022-000000122",
+                    "Value": "Crasso,Lorenzo,,1623"
+                },
+                {
+                    "PersonId": "5127",
+                    "RecordID": "022-000000123",
+                    "Value": "Facchinetti,Cesare,Cardinal,1608-1683"
+                },
+                {
+                    "PersonId": "5175",
+                    "RecordID": "022-000000170",
+                    "Value": "Rossetti,Carlo,Cardinal,1614/5-1681"
+                },
+                {
+                    "PersonId": "5191",
+                    "RecordID": "022-000000185",
+                    "Value": "Zani,Valerio,Count, - 1696"
+                },
+                {
+                    "PersonId": "5208",
+                    "RecordID": "022-000000202",
+                    "Value": "Montecuccoli,Felice,,"
+                },
+                {
+                    "PersonId": "5209",
+                    "RecordID": "022-000000203",
+                    "Value": "Loderchi Montecuccoli,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "5211",
+                    "RecordID": "022-000000204",
+                    "Value": "Graziani,Pirro,,"
+                },
+                {
+                    "PersonId": "5213",
+                    "RecordID": "022-000000205",
+                    "Value": "Orsini (de Gravina),Vincenzo Maria,Cardinal|Pope Benedict XI (1724-1730),1649-1730"
+                },
+                {
+                    "PersonId": "5214",
+                    "RecordID": "022-000000206",
+                    "Value": "Azzolini,Decio (junior),Cardinal,1623-1689"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5258",
+                "RecordID": "022-000000249",
+                "Value": "Barbieri,Domenico (Heredi di),,fl.1669-1685"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52705",
+            "Value": "023-000000300_52705_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52706",
+            "Value": "023-000000300_52706_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Il Seneca",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Patrocinio d`Epicuro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Che si dee illustrare l`idioma nativo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Le lodi dell`ubriachezza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nelle poesie serie",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Olocausti canori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Fiore messicano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dio trino et uno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ossequi di cetera",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sospiri armoniosi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gare di Muse",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetti giocoseri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5020",
+                            "RecordID": "022-000000022",
+                            "Value": "Bonomi, Giovanfrancesco, , 1626-1705"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001451",
+        "WorkId": "00179",
+        "ShortTitle": "Delle Lettere Del Reverend.mo D. Angelo Grillo",
+        "LongTitle": "Nuovamente Raccolte | sotto Capi ordinate | e di vaghi Argomenti ornate da Pietro Petracci Accademico Sventato di Udine detto il Peregrino. Prima Impressione.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1613",
+        "DedicationPlaceDate": "Venice 30 October 1612",
+        "Shelfmark": "1085.m.1213.",
+        "Content": "Author`s Correspondence",
+        "Subjects": "Correspondence|Prose",
+        "Language": "Latin|Italian",
+        "Pagination": "First 12 pages unnumbered | Last 17 pages unnumbered | pp. 736",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15028",
+                "RecordID": "022-000001070",
+                "Value": "Grillo,Angelo,Abbot,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9657",
+                "RecordID": "022-000001826",
+                "Value": "Deuchino,Evangelista,,c. 1580-c. 1630"
+            }
+        },
+        "Notes": "On pp. 266 -267 | in a letter written to Giambattista Manso | the author mentions the Oziosi Academy and thanks its members for welcoming him as a new member of the said Academy",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15356",
+                    "RecordID": "022-000001395",
+                    "Value": "Maraveglia,Gio[vanni],,"
+                },
+                {
+                    "PersonId": "15357",
+                    "RecordID": "022-000001396",
+                    "Value": "Moresini,Tomaso,,"
+                },
+                {
+                    "PersonId": "15358",
+                    "RecordID": "022-000001397",
+                    "Value": "Da Ca da Pesaro,Giac[omo],,"
+                },
+                {
+                    "PersonId": "15359",
+                    "RecordID": "022-000001398",
+                    "Value": "Venier,Dolfin,,"
+                },
+                {
+                    "PersonId": "15360",
+                    "RecordID": "022-000001399",
+                    "Value": "Cominus,Barth[olomeus],,"
+                },
+                {
+                    "PersonId": "15361",
+                    "RecordID": "022-000001400",
+                    "Value": "Breatto,Io[annes] Bapt[ista],,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Gli Eccellentiss. Sig. Capi dell`Ecc. Consiglio de` X  infrascritti havuta fede da I Sig. Riformatori dello studio Di Padova per relatione a loro fatta da I due a questo deputati; cio\u00e8 del R. P. Inquisitor & dal Circ. & fedelissimo secretario del Senato Gio. Maraveglia con giuramento che nel libro intitolato la Seconda parte di lettere D. Angelo Grillo non si truova cosa contra le leggi | & \u00e8 degno di Stampa concedono licenza che possa essere stampato in questa Citt\u00e0. Datum die 22. Settem. 1612. D. Tomaso Moresini D. Giac. da Ca da Pesaro D. Dolfin Venier Illustriss. Cons. X. Secr. Barth. Cominus 1612. adi. 26. Settembre Registrato in libro a carte 113. a tergo. Io. Bapt. Breatto Offic. cont. Blasph.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15354",
+                "RecordID": "022-000001393",
+                "Value": "Zuffo,Luigi,Abbot,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15355",
+                "RecordID": "022-000001394",
+                "Value": "Petracci,Pietro,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

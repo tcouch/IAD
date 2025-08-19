@@ -1,0 +1,37 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003576",
+        "WorkId": "000472",
+        "ShortTitle": "Il Romito Negromante",
+        "LongTitle": "Comedia pastorale",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1547",
+        "Shelfmark": "162.e.48",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "19 leaves",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16688",
+                "RecordID": "022-000003424",
+                "Value": "di Cenni,Angelo,,fl.1531-1575"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53886",
+            "Value": "023-000003576_53886_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

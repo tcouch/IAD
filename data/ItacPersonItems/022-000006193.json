@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19073",
+        "RecordId": "022-000006193",
+        "Surname": "Prescimone",
+        "Forename": "Giuseppe",
+        "AlternativeName": {
+            "AlternativeSurname": "Prescimonio"
+        },
+        "Anagram": "Pompeo Genino de Crispis",
+        "DateText": "1669-1732",
+        "StartDate": "1669",
+        "EndDate": "1732",
+        "Nationality": {
+            "NationalityId": "283",
+            "Value": "of Francavilla (Sicily)"
+        },
+        "Notes": "Publications as Accademico Infecondo, not in BL collections, include Gli Angeli Salmisti per la concezione di maria, dialogo a 5 voci (1696). See Franchi, vol. I, p. 361.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

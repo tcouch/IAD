@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19174",
+        "RecordId": "022-000006323",
+        "Surname": "Lobellio",
+        "Forename": "Matthia",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Lobelius",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "de l`Obel",
+                "AlternativeForename": "Mattia"
+            }
+        ],
+        "DateText": "1538 - 1616",
+        "StartDate": "1538",
+        "EndDate": "1616",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "King James I`s physician. Invited to correspond with the Lince in 1604 (Gabrieli, 1989, p. 436)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

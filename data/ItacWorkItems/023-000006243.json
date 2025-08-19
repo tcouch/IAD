@@ -1,0 +1,82 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006243",
+        "WorkId": "000735",
+        "ShortTitle": "La visiera alzata",
+        "LongTitle": "Hecatoste di scrittori, che vaghi d`andare in Maschera fuor del tempo di Carnovale sono scoperti da Gio: Pietro Giacomo Villani Senese Accademico Humorista infecondo, e Geniale & c. Passatempo Canicolare Inviato All`illustrissimo, e Sapientissimo Signor Antonio Magliabechi. Museo Spirante e Bibliotecario del Serenissimo Cosmo III G. D. di Toscana",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0125",
+                "RecordID": "021-000005612",
+                "Value": "Accademia degli Infecondi"
+            }
+        ],
+        "City": {
+            "CityId": "36",
+            "PublicationPlaceItalianName": "Parma",
+            "PublicationPlaceEnglishName": "Parma",
+            "PublicationPlaceLatinName": "Parmae"
+        },
+        "PublicationYear": "1689",
+        "DedicationPlaceDate": "Nicea ad Varum (Nizza) XI Kal. Octob. 1678",
+        "Shelfmark": "11900a18",
+        "Subjects": "Bibliography",
+        "Language": "Italian|Latin",
+        "Pagination": "135",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15163",
+                "RecordID": "022-000001205",
+                "Value": "Aprosio,Angelico,,1607-1681"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5272",
+                "RecordID": "022-000000262",
+                "Value": "Trincherij,Andreae,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19111",
+                    "RecordID": "022-000006245",
+                    "Value": "Bacchini,Benedetto,,1651 - 1721"
+                },
+                {
+                    "PersonId": "19112",
+                    "RecordID": "022-000006246",
+                    "Value": "Dalla Rosa,Giulio,Vicar General,"
+                },
+                {
+                    "PersonId": "19113",
+                    "RecordID": "022-000006247",
+                    "Value": "Nicellus,Joannes Paulus(?),,"
+                }
+            ]
+        },
+        "CensorsAgreement": "di comando del reverendissimo Padre Inquisitore del S. Officio di Parma, ho letto due opuscoli, de quali uno e` intitolato La Visiera alzata [...], ne` trovando in essa cosa, che ripugni alla s. fede, overo a` buoni costumi, e per altro pieni essendo di amena eruditione, li stimo degni della Stampa. cosi` giudico io infrascritto questo di` 4 Maggio 1689. D. benedetto Bacchini Cassinese. Attenta supradicta attestatione [I]mprimatur Inquisitor S. Offitii Parmae. Imprimatur Iulius dalla Rosa Vicarius Generalis. Vidit Nicellus Praeses Camerae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17958",
+                "RecordID": "022-000004882",
+                "Value": "Magliabechi,Antonio,,1633 - 1714"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19110",
+                "RecordID": "022-000006244",
+                "Value": "Vigna,Heredi del,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

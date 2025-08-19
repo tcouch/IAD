@@ -1,0 +1,111 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0051",
+        "RecordId": "021-000003209",
+        "Name": "Partenia (Accademia)",
+        "AlternativeName": "Academiae Partheniae",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Hen on a mulberry tree shaking the fruit off for their chicks",
+        "Motto": "Et memor ab alto",
+        "StartDate": "1560?",
+        "DateText": "1560?-",
+        "Notes": "Emblem description and motto of this Academy are in Maylender. Main source for the history of this Academy is Mazzi, vol. 2, p. 406",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17309",
+                "RecordId": "022-000004132",
+                "Name": "Petrucci,Alessandro,,",
+                "Nickname": "Impastoiato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17318",
+                "RecordId": "022-000004141",
+                "Name": "Ricci,Gianfilippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17310",
+                "RecordId": "022-000004133",
+                "Name": "Primaticci,Antonio,,",
+                "Nickname": "Disposto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17311",
+                "RecordId": "022-000004134",
+                "Name": "Ugurgieri,Bandino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17313",
+                "RecordId": "022-000004136",
+                "Name": "Cerratti,Iacomo,,",
+                "Nickname": "Elevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17314",
+                "RecordId": "022-000004137",
+                "Name": "Forteguerri,Giulio,,",
+                "Nickname": "Puro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17315",
+                "RecordId": "022-000004138",
+                "Name": "Landi,Panfilo,,",
+                "Nickname": "Apprensivo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17316",
+                "RecordId": "022-000004139",
+                "Name": "Cotoni,Riccardo,,",
+                "Nickname": "Formante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17317",
+                "RecordId": "022-000004140",
+                "Name": "Petrucci,Teodoro,,",
+                "Nickname": "Nuovo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16433",
+                "RecordId": "022-000003106",
+                "Name": "Accarigi,Fabio,,",
+                "Nickname": "Il Coraggioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19302",
+                "RecordId": "022-000006489",
+                "Name": "Buschovus,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003618",
+        "WorkId": "000477",
+        "ShortTitle": "Thomae Cornelii Physiologia",
+        "LongTitle": "Novis atque alios, hactenus inauditis, post alios, quae ad perspiciendam cognoscendamque hominis naturam examussim conducere videntur, Rationum Ponderibus atque Momentis Illustrata; Opusculum Ob rerum varietatem non illepidam, observationumque de Sanguificatione, Nutricatione, chyli cursu, Usu fellis, Vasorum lymphaticorum natura &c. reconditam politioris literaturae copiam, Curiosissim\u00e8 rimandum",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "68",
+            "PublicationPlaceItalianName": "Lipsia & Iena",
+            "PublicationPlaceEnglishName": "Liepzig & Jena",
+            "PublicationPlaceLatinName": "Lipsia & Iena"
+        },
+        "PublicationYear": "1683",
+        "DedicationPlaceDate": "Naples October 1663",
+        "Shelfmark": "784.a.28.",
+        "Subjects": "Science|speeches",
+        "Language": "Latin",
+        "Illustration": "A plate on the title page|",
+        "Pagination": "pp. 499",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16245",
+                "RecordID": "022-000002892",
+                "Value": "Cornelio,Tommaso,,1614 - 1684"
+            }
+        },
+        "Notes": "The author and the contributor mention the Investiganti Academy",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15031",
+                "RecordID": "022-000001073",
+                "Value": "Caracciolo,Francesco Marino,Prince  ,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16362",
+                "RecordID": "022-000003018",
+                "Value": "Oehrlingij,Tobi\u00e6,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

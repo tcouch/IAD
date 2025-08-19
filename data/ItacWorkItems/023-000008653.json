@@ -1,0 +1,76 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008653",
+        "WorkId": "000986",
+        "ShortTitle": "Mandati",
+        "LongTitle": "Incipit: `Magnifica ditta dell`Accademia date al signor Bernardo Tasso cancelliere della prefatta Accademia scudi d`oro sedici...`",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "PublicationYear": "1559",
+        "DedicationPlaceDate": "20 November; 17 December; 8 January; 16, 22, 23 January",
+        "Shelfmark": "John Rylands Library Aldine Collection 610",
+        "Language": "Italian",
+        "Pagination": "2 leaves not numbered",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20811",
+                    "RecordID": "022-000008661",
+                    "Value": "Ubaldini,Petruccio,,ca.1524-ca.1600"
+                },
+                {
+                    "PersonId": "5625",
+                    "RecordID": "022-000000695",
+                    "Value": "Tasso,Bernardo,,1493-1569"
+                },
+                {
+                    "PersonId": "15993",
+                    "RecordID": "022-000002562",
+                    "Value": "Gradenigo,Thadio,,fl.1557"
+                },
+                {
+                    "PersonId": "16154",
+                    "RecordID": "022-000002769",
+                    "Value": "Gradenigo,Marin,,fl.1557"
+                },
+                {
+                    "PersonId": "16080",
+                    "RecordID": "022-000002665",
+                    "Value": "Badoer,Giustiniano,,fl.1557"
+                },
+                {
+                    "PersonId": "20815",
+                    "RecordID": "022-000008665",
+                    "Value": "Tiepolo,Giacomo,,fl.1559"
+                },
+                {
+                    "PersonId": "20812",
+                    "RecordID": "022-000008662",
+                    "Value": "Michiel,Francesco,,fl.1559"
+                },
+                {
+                    "PersonId": "20814",
+                    "RecordID": "022-000008664",
+                    "Value": "Oratori,Francesco,,fl.1559"
+                },
+                {
+                    "PersonId": "20816",
+                    "RecordID": "022-000008666",
+                    "Value": "Colombina ,Girolamo,,fl.1559"
+                },
+                {
+                    "PersonId": "20817",
+                    "RecordID": "022-000008667",
+                    "Value": "Tiepolo,Francesco,,fl.1559"
+                }
+            ]
+        },
+        "Notes": "Names appearing in the document: Bernardo Tasso `cancelliero`; Francesco Michiel, Francesco Tiepolo, Thadio Gradenigo, and Marin Gradenigo as members of the `consiglio politico`; Petruccio Ubaldino `secretario economico`; Francesco Oratori `secretario del consiglio politico`. On request of the `Consiglio politico`, Giacomo Tiepolo should be paid `per compimento della provisione di due mesi`. Giustiniano Badoer. Girolamo Colombina, `segretario economico`.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

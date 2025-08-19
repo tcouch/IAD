@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008655",
+        "WorkId": "000988",
+        "ShortTitle": "Procura del Mag. M. Giovanni Badoaro all`Abate Morlupino, et Vincentio Alessandri",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "PublicationYear": "1559",
+        "DedicationPlaceDate": "9 January",
+        "Shelfmark": "John Rylands Library Aldine Collection",
+        "Language": "Latin",
+        "Pagination": "2 leaves",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16085",
+                    "RecordID": "022-000002671",
+                    "Value": "Badoer,Giovanni,,fl.1557"
+                },
+                {
+                    "PersonId": "16179",
+                    "RecordID": "022-000002801",
+                    "Value": "Marlupini,Marlupino,Abbot,"
+                },
+                {
+                    "PersonId": "20806",
+                    "RecordID": "022-000008656",
+                    "Value": "Alessandri,Vincenzo,,fl.1557"
+                },
+                {
+                    "PersonId": "20807",
+                    "RecordID": "022-000008657",
+                    "Value": "Cigrigni,Niccolo`,,"
+                },
+                {
+                    "PersonId": "20809",
+                    "RecordID": "022-000008659",
+                    "Value": "Bianco,Carlo,,"
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

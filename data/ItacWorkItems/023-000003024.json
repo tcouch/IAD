@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003024",
+        "WorkId": "000388",
+        "ShortTitle": "Gli costumi lodevoli che a nobili donne si convengono;",
+        "LongTitle": "descritti dal virtuoso Signor Alessandro Piccolomini Academico Intronato sanese. Con una bellissima orazione in lode delle donne dello stesso autore",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1622",
+        "Shelfmark": "721.c.36|1031.e.1",
+        "Subjects": "Women - Social condition",
+        "Language": "Italian",
+        "Pagination": "233 - 276",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Notes": "Piccolomini`s contribution is part of a collection of writings on women. Complete title of the book is:\nLe bellezze, le lodi, gli amori, et i costumi delle donne; con lo discacciamento delle lettere, di Agnolo Firenzuola Fiorentino, et di Alessandro Piccolomini Sanese. Giuntovi appresso i saggi ammaestramenti che appartengono alla honorevole e virtuosa vita virginale, maritale e vedovile, di Ludovico Dolce. Ove con vaghezze di nobile dottrina si leggono conversazioni civili, ragionamenti dotti, discorsi curiosi, avenimenti piacevoli, essempi singolari, detti e fatti notabili: et avisi a ciascuno di molto profitto. Con copiosissime tavole delle cose piu` memorabili. \nPiccolomini`s dedication is the same as it appears in `Dialogo della bella creanza` (1540).",
+        "CensorsAgreement": "Con licenza de` superiori, et privilegi",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9659",
+                "RecordID": "022-000001828",
+                "Value": "Barezzi,Barezzo,,c. 1560-1643/4"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Oratione in lode delle donne detta in Siena nell`Accademia degl`Intronati. Dal Signor Alessandro Piccolomini",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9205",
+                        "RecordID": "022-000001502",
+                        "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

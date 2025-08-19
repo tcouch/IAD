@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19069",
+        "RecordId": "022-000006189",
+        "Surname": "Locatelli",
+        "Forename": "Basilio",
+        "DateText": "1590/1 - ca.1654",
+        "StartDate": "1590/1",
+        "EndDate": "ca.1654",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "His membership among the Intricati, as well as other Roman Academies, is not entirely sure. See T. Megale, `Locatelli (Loccatello), Basilio), in DBI.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

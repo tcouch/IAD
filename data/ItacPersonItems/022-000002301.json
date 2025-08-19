@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15756",
+        "RecordId": "022-000002301",
+        "Surname": "Santamaria",
+        "Forename": "Lucio Antonio",
+        "Gender": "Male",
+        "DateText": "1667-1693",
+        "StartDate": "1667",
+        "EndDate": "1693",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "He restored the Accesi Academy in 1686, in collaboration with Domenico Bernardoni. For a short biography of Santamaria, see Bergamini, `Dai Gelati alla Renia`, p. 32.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

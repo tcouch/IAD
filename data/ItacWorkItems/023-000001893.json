@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001893",
+        "WorkId": "000263",
+        "ShortTitle": "Sinfonie (Violino Primo; Alto Viola)",
+        "LongTitle": "A` 2. 3. e 4. Istromenti consecrate all`Altezza Serenissima di Ferdinando III Gran Prencipe di Toscana da Giuseppe Torelli Veronese Musico sonatore nella Perinsigne Collegiata di S. Petronio di Bologna, et Accademico Filarmonico. Opera Terza",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1687",
+        "DedicationPlaceDate": "Bologna 20 November 1687",
+        "Shelfmark": "d.31",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "pp. 55",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15394",
+                "RecordID": "022-000001895",
+                "Value": "Torelli,Giuseppe,,1658-1709"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5398",
+                    "RecordID": "022-000000408",
+                    "Value": "Carminatus,Paulus,,"
+                },
+                {
+                    "PersonId": "5231",
+                    "RecordID": "022-000000223",
+                    "Value": "Musotto,Ioseph.,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "In capo alla Piazza del Pavaglione. Con licenza de` Superiori.\nV. D. Paulus Carminatus Cler. Reg. S. Pauli Penit. in Metrop. Bononiae pro Illustrissimo, et Reverendissimo DD. Iosepho Musotto Vicario Capitul. Imprimatur. Vicarius S. Officii Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15393",
+                "RecordID": "022-000001894",
+                "Value": "de` Medici,Ferdinando III,Grand Duke of Tuscany,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15395",
+                "RecordID": "022-000001896",
+                "Value": "Micheletti,Gioseffo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53113",
+            "Value": "023-000001893_53113_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

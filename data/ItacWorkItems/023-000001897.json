@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001897",
+        "WorkId": "000264",
+        "ShortTitle": "Il secondo libro de` Salmi brevi a otto voci (Canto Primo/Secondo Coro; Alto Primo/Secondo Coro; Tenore primo/Secondo Coro; Basso Primo/secondo Coro; Organo Primo/Secondo)",
+        "LongTitle": "con uno o due Organi se piace, con il Tedeum  Dedicati a gl`Illustrissimi Signori Presidente de` Fabbricieri della Perinsigne Collegiata di San Petronio di Bologna. Da Gio. Paolo Colonna. maestro di Cappella di detta Chiesa, et Accademico Filaschise, e Filarmonico. Opera settima.",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1686",
+        "Shelfmark": "D.40.c",
+        "Subjects": "Music",
+        "Language": "Latin",
+        "Pagination": "20",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15385",
+                "RecordID": "022-000001880",
+                "Value": "Colonna,Giovanni  Paolo,,1637-1695"
+            }
+        },
+        "Notes": "The dedicatees are called `Senatori e Fabricieri dignissimi`",
+        "CensorsAgreement": "Con licenza de` Superiori. Si vendono da Marino Silvani, all`Insegna del Violino, con Privilegio.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15398",
+                    "RecordID": "022-000001900",
+                    "Value": "Vass\u00e9 Pietramellara,Giovanni Antonio,,fl. 1686"
+                },
+                {
+                    "PersonId": "15400",
+                    "RecordID": "022-000001902",
+                    "Value": "Ghisilieri,Francesco,,fl. 1686"
+                },
+                {
+                    "PersonId": "15401",
+                    "RecordID": "022-000001903",
+                    "Value": "Orsi,Alessio,Count,fl. 1686"
+                },
+                {
+                    "PersonId": "15402",
+                    "RecordID": "022-000001905",
+                    "Value": "Malvasia,Cesare Giuseppe,Count,fl. 1686"
+                },
+                {
+                    "PersonId": "15396",
+                    "RecordID": "022-000001898",
+                    "Value": "Albergati,Girolamo,Marquis,fl. 1686-?"
+                },
+                {
+                    "PersonId": "15397",
+                    "RecordID": "022-000001899",
+                    "Value": "Caprara,Francesco Carlo,Count,fl. 1686-?"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52828",
+            "Value": "023-000001897_52828_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

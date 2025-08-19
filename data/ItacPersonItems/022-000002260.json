@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15723",
+        "RecordId": "022-000002260",
+        "Surname": "Martinengo Cesaresco",
+        "Forename": "Ascanio",
+        "Gender": "Male",
+        "PersonalTitle": "Abbot",
+        "DateText": "1555-1583",
+        "StartDate": "1555",
+        "EndDate": "1583",
+        "Nationality": {
+            "NationalityId": "82",
+            "Value": "of Brescia"
+        },
+        "Notes": "Founder of the Accademia degli Animosi, together with his brother Camillo. See Maylender, vol. 1, p. 197.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

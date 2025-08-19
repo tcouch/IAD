@@ -1,0 +1,44 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002874",
+        "WorkId": "000372",
+        "ShortTitle": "Difesa de gli illustri Signori, Nicolo`, Tristano, e Federico Savorgnani,",
+        "LongTitle": "dalle false imputationi date loro, et all`honorata sua famiglia, dal Signor Martio Colloredo",
+        "ItacAcademyItem": {
+            "AcademyId": "0012",
+            "RecordID": "021-000000832",
+            "Value": "Accademia degli Storditi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1566",
+        "DedicationPlaceDate": "Ferrara 30 April 1566",
+        "Shelfmark": "1201.f.34",
+        "Subjects": "Honour|Criminal charges|Vendetta",
+        "Language": "Italian",
+        "Pagination": "66",
+        "Marginalia": "No",
+        "Notes": "On the title page: `Deffense des seigneurs...`. On page 1: `Ex Bibliotheca Lus[tre?]vina`.\nManuscript text in British Library, Add. MS 8596. The colophon image corresponds to the f. Aii, where the Academy is mentioned.",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0012",
+                "RecordID": "021-000000832",
+                "Value": "Storditi (Accademia degli)"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54179",
+            "Value": "023-000002874_54179_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54180",
+            "Value": "023-000002874_54180_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

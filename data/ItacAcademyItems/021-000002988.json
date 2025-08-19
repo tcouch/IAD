@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0050",
+        "RecordId": "021-000002988",
+        "Name": "Altomareana (Accademia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1540s?",
+        "EndDate": "1562",
+        "DateText": "1540s?-1562",
+        "ItacPersonItem": {
+            "PersonId": "16335",
+            "RecordId": "022-000002989",
+            "Name": "Altomare ,Donato Antonio ,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

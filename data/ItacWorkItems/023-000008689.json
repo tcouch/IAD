@@ -1,0 +1,92 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008689",
+        "WorkId": "000999",
+        "ShortTitle": "Lettere di cambio",
+        "LongTitle": "di diverse rmesse al Mag. M. Giovanni Badoaro, e fratelli Ditta de l`Acad[emia] Ven[eta]",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "PublicationYear": "1560",
+        "DedicationPlaceDate": "Antwerp, Various dates, between February and June 1560",
+        "Shelfmark": "John Rylands Library Aldine Collection 638",
+        "Subjects": "Bill of exchange",
+        "Language": "Italian",
+        "Pagination": "6 leaves",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20829",
+                    "RecordID": "022-000008690",
+                    "Value": "Fiescho,Tomaso,,"
+                },
+                {
+                    "PersonId": "20830",
+                    "RecordID": "022-000008691",
+                    "Value": "De Franchi,Gregorio,,"
+                },
+                {
+                    "PersonId": "20831",
+                    "RecordID": "022-000008692",
+                    "Value": "Spinola,Heredi di Messer Nicolo` e Luigi,,"
+                },
+                {
+                    "PersonId": "20832",
+                    "RecordID": "022-000008693",
+                    "Value": "Spinola,Franco,,"
+                },
+                {
+                    "PersonId": "20833",
+                    "RecordID": "022-000008694",
+                    "Value": "Spinola ,Francesco,,"
+                },
+                {
+                    "PersonId": "20834",
+                    "RecordID": "022-000008695",
+                    "Value": "Guido Boni,Valerio ,,"
+                },
+                {
+                    "PersonId": "20835",
+                    "RecordID": "022-000008696",
+                    "Value": "Cattaneis,Iesus Filippo,,"
+                },
+                {
+                    "PersonId": "20836",
+                    "RecordID": "022-000008697",
+                    "Value": "Doria ,Nicolo`,,"
+                },
+                {
+                    "PersonId": "20837",
+                    "RecordID": "022-000008698",
+                    "Value": "Fornari,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "20838",
+                    "RecordID": "022-000008699",
+                    "Value": "Giacomini,Iacomo,,"
+                },
+                {
+                    "PersonId": "20839",
+                    "RecordID": "022-000008700",
+                    "Value": "Piperaro,Hieronimo,,"
+                },
+                {
+                    "PersonId": "20840",
+                    "RecordID": "022-000008701",
+                    "Value": "Van der Hayden,Lorenzo,,"
+                },
+                {
+                    "PersonId": "20841",
+                    "RecordID": "022-000008702",
+                    "Value": "Van den Bogharde,Gilis,,"
+                }
+            ]
+        },
+        "Notes": "Contributors are subscribers of the letters.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

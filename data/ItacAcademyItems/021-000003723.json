@@ -1,0 +1,36 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0060",
+        "RecordId": "021-000003723",
+        "Name": "Discordanti (Accademia dei)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "Motto": "Discordia Concors",
+        "StartDate": "1666",
+        "EndDate": "1668",
+        "DateText": "1666-1668",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16938",
+                "RecordId": "022-000003724",
+                "Name": "Tozzi ,Luca ,,1638 - 1717",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17228",
+                "RecordId": "022-000004043",
+                "Name": "Pignataro,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

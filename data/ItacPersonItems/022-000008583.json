@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20757",
+        "RecordId": "022-000008583",
+        "Surname": "Giova",
+        "Forename": "Giuseppe",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Jova"
+            },
+            {
+                "AlternativeSurname": "Giovio Da Lucca",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1506-after1569",
+        "StartDate": "1506",
+        "EndDate": "after1569",
+        "Nationality": {
+            "NationalityId": "158",
+            "Value": "of Lucca"
+        },
+        "Notes": "Giova is also called `Giovio` hence the confusion with the famous Paolo Giovio. See Giova`s biography by Stefano Tabacchi, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

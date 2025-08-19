@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15365",
+        "RecordId": "022-000001404",
+        "Surname": "Sarzina",
+        "Forename": "Giacomo",
+        "Gender": "Male",
+        "DateText": "ca.1585-1641",
+        "StartDate": "ca.1585",
+        "EndDate": "1641",
+        "Nationality": {
+            "NationalityId": "380",
+            "Value": "of Soprazocco (Brescia)"
+        },
+        "Notes": "Printer of Accademia degli Incogniti, see Mario Infelise, \"`ex ignoto notus`. Note sul tipografo Sarzina e l`Accademia degli Incogniti`, in Libri, tipografi e biblioteche, ed. A. Ganda and E. Grignani, Florence, Olschki, 1998, pp. 207-223. Clizia Carminati, `Loredan, Giovanfrancesco`, in DBI.",
+        "Role": "Printer|Publisher|Editor",
+        "TypographicReference": "Y",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

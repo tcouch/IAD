@@ -1,0 +1,70 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004244",
+        "WorkId": "000545",
+        "ShortTitle": "De Quatuor Signis",
+        "LongTitle": "quae apparent in unguibus manuum. Auctore Philippo Finella.",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1649",
+        "DedicationPlaceDate": "Naples 15 May 1649?",
+        "Shelfmark": "1651/231.(3.)",
+        "Subjects": "Anatomy|Study of hands and nails|Medicine|Physiognomy",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|Floral ornaments",
+        "Pagination": "pp. 68",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15262",
+                    "RecordID": "022-000001304",
+                    "Value": "De Rubeis,Franciscus Josephum,,"
+                },
+                {
+                    "PersonId": "15200",
+                    "RecordID": "022-000001169",
+                    "Value": "Filomarino,Ascanius,Cardinal | Archbishop ,1583-1666"
+                },
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Potest imprimi.\nFr. Iosephi de Rubeis Ord. Min. Conu. Emin. Card. Philam. Theol. & Consult. S. Offic.\nImprimatur.\nGregor. Peccer. Vic. Ven.\nReg. fol. 47.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17400",
+                "RecordID": "022-000004245",
+                "Value": "Caracciolo,Hieronymo Mariae,Prince,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15871",
+                "RecordID": "022-000002431",
+                "Value": "Gaffaro,Giacomo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

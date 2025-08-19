@@ -1,0 +1,104 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0468",
+        "RecordId": "021-000007878",
+        "Name": "Vigilanti - Murano (Accademia dei)",
+        "AlternativeName": "Accademia dei Vigilanti Purificati (from 1675)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Crane holding a stone in its raised foot to keep itself awake",
+        "Motto": "Sapientiam invenit",
+        "StartDate": "1602",
+        "EndDate": "after 1675",
+        "DateText": "1602-after 1675",
+        "Notes": "Publications related to the Academy, but not in British Library collections, include: Tommaso Buoni, Intertenimento illustre del senso & della ragione in forma di dialogo con gli suoi intermedij apparenti del r.d. Tomaso Buoni cittadino lucchese.....  (In Venetia: appresso Marco Guarisco, 1604);     Sommario degl`ordini che s`osservano nell`Accademia de` Vigilanti Purificati in Murano (Venezia, 1675); Maylender records also this title: Polyhymnia in Vigilantium purificatorum Lyceo D. Johannis Baptistae Eusebii Rhetorices prof. Alumnos excitat ad applausum dum Joannes Doglionum et Laurentius Stropparius.... (Venetiis Valvasensi, 1677).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17282",
+                "RecordId": "022-000004097",
+                "Name": "Tasca,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17280",
+                "RecordId": "022-000004095",
+                "Name": "Emanuele,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17337",
+                "RecordId": "022-000004163",
+                "Name": "Cabianca,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17312",
+                "RecordId": "022-000004135",
+                "Name": "Martinengo,Piero,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17390",
+                "RecordId": "022-000004230",
+                "Name": "Buoni,Tomaso,,16th c.-17th c.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20344",
+                "RecordId": "022-000008007",
+                "Name": "Gozzi,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20345",
+                "RecordId": "022-000008008",
+                "Name": "Statio,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20346",
+                "RecordId": "022-000008009",
+                "Name": "Piatti,Claudio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15754",
+                "RecordId": "022-000002299",
+                "Name": "Stroppari,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15760",
+                "RecordId": "022-000002306",
+                "Name": "Doglioni,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

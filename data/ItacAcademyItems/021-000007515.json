@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0388",
+        "RecordId": "021-000007515",
+        "Name": "Gesuiti (Accademia dei)",
+        "AlternativeName": "Accademia dei Suscitati",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "Motto": "Sopitos Suscitat Ignes",
+        "StartDate": "1657?",
+        "EndDate": "1693?",
+        "DateText": "1657?-1693?",
+        "Notes": "One publication, not in British Library catalogue, is related to this Academy: Philosophia quadripartita seu Assertiones selectae ex logica physica, metaphysica, & morali, quas ex academia Veneta Societatis Jesu sub faustissimis auspiciis ... Georgi Cornelii ... publice propugnandas exhibet Joseph sementjus ...(Venetiis : ex typographia Hieronymi Albritii, 1693)",
+        "ItacPersonItem": {
+            "PersonId": "20026",
+            "RecordId": "022-000007514",
+            "Name": "Lombardelli,Annibale,Jesuit,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20337",
+        "RecordId": "022-000007999",
+        "Surname": "Gaulli",
+        "Forename": "Alessandro",
+        "DateText": "1666?-after1723/4",
+        "StartDate": "1666?",
+        "EndDate": "after1723/4",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "The son of Giovan Battista Gaulli (Il Baciccio). See his biography by Tommaso Manfredi in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

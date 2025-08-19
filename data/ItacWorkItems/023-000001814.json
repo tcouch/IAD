@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001814",
+        "WorkId": "00130",
+        "ShortTitle": "Ouvres completes de  Fl\u00e9chier.",
+        "LongTitle": "Avec une notice ou discours pr\u00e9liminaire sur la vie et les ouvrages de ce c\u00e9l\u00e8bre orateurs par A.-V. Fabre de Narbonne. Tome dixi\u00e8me. Lettres et pi\u00e8ces diverses",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "City": {
+            "CityId": "57",
+            "PublicationPlaceItalianName": "Parigi",
+            "PublicationPlaceEnglishName": "Paris",
+            "PublicationPlaceLatinName": "Parisium"
+        },
+        "PublicationYear": "1828",
+        "DedicationPlaceDate": "N\u00eemes 12 December 1693",
+        "Shelfmark": "1223.h.4-13",
+        "Subjects": "Letters",
+        "Language": "French",
+        "Pagination": "pp. 496",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9311",
+                "RecordID": "022-000001794",
+                "Value": "Flechier,Velentin-Esprit,Bishop of N\u00eemes,1632-1710"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9314",
+                "RecordID": "022-000001797",
+                "Value": "Boist fils Ain\u00e9; Berquet; Dufour et C.ie,,,"
+            }
+        },
+        "Notes": "This is a letter thanking the Ricoverati for admitting the author as member of the Academy in 1693. The date of the letter (1663) is incorrect. See L`Accademia in biblioteca p. 143.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9314",
+                "RecordID": "022-000001797",
+                "Value": "Boist fils Ain\u00e9; Berquet; Dufour et C.ie,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

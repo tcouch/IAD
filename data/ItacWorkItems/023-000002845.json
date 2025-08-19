@@ -1,0 +1,63 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002845",
+        "WorkId": "000366",
+        "ShortTitle": "Erasistratus Sive De Sanguinis Missione.",
+        "LongTitle": "Auctore Luca Antonio Portio, Medico Romano, Cum Dialogorum & Rerum notabilium indice refertissimo.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1683",
+        "Shelfmark": "783.b.26.",
+        "Subjects": "Science",
+        "Language": "Latin",
+        "Illustration": "Woodctus|",
+        "Pagination": "pp. 398",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16146",
+                "RecordID": "022-000002759",
+                "Value": "Porzio,Luca Antonio,,1639 - 1724"
+            }
+        },
+        "Notes": "In the preface the author mentions some members of the Investiganti Academy",
+        "CensorsAgreement": "Superiorum permissu & Privilegio.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16193",
+                "RecordID": "022-000002820",
+                "Value": "Vasa,Christine ,Queen of Sweden,1626 - 1689"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16212",
+                "RecordID": "022-000002847",
+                "Value": "Roscius,Gregorius,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5308",
+                "RecordID": "022-000000359",
+                "Value": "Pezzana,Nicol\u00f2,,c. 1620-c. 1750"
+            }
+        },
+        "PrinterOrnament": "Mar.te 1307",
+        "TitlePageImage": {
+            "ImageId": "53502",
+            "Value": "023-000002845_53502_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

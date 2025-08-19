@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16000",
+        "RecordId": "022-000002569",
+        "Surname": "Bernardi",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "PersonalTitle": "Bishop of Caserta",
+        "DateText": "1502-1565",
+        "StartDate": "1502",
+        "EndDate": "1565",
+        "Nationality": {
+            "NationalityId": "172",
+            "Value": "of Mirandola (Modena)"
+        },
+        "Notes": "Bernardi was the author of a treatise on duel, Monomachia (1562). According to Tiraboschi, Biblioteca modenese, vol. I (Modena, 1781), when he died the Accademici Storditi of Bologna organized his funeral in San Petronio. See his biography by Paola Zambelli in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

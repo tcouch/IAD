@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19125",
+        "RecordId": "022-000006262",
+        "Surname": "Heckius",
+        "Forename": "Joannes",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Heck"
+            },
+            {
+                "AlternativeSurname": "Eckio"
+            },
+            {
+                "AlternativeSurname": "Heeck"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "67",
+            "Value": "Dutch"
+        },
+        "Notes": "Co-founder of the Accademia dei Lincei",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

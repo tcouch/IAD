@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20050",
+        "RecordId": "022-000007546",
+        "Surname": "Paleologa",
+        "Forename": "Margherita",
+        "Gender": "Male",
+        "PersonalTitle": "Marchioness of Monferrato|Duchess of Mantua",
+        "DateText": "1510-1566",
+        "StartDate": "1510",
+        "EndDate": "1566",
+        "Nationality": {
+            "NationalityId": "370",
+            "Value": "of Casale Monferrato"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

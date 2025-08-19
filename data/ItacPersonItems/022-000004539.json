@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17645",
+        "RecordId": "022-000004539",
+        "Surname": "Bratteolo",
+        "Forename": "Iacopo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Iacomo"
+        },
+        "DateText": "mid16th c.-after 1622",
+        "StartDate": "mid16th c.",
+        "EndDate": "after 1622",
+        "Nationality": {
+            "NationalityId": "193",
+            "Value": "of Udine"
+        },
+        "Notes": "He is probably the same person as Iacopo Bratteolo, see C. De Michelis`s biography in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

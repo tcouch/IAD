@@ -1,0 +1,60 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0218",
+        "RecordId": "021-000006832",
+        "Name": "Teologica (Accademia)",
+        "AlternativeName": "Accademia di Teologia",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "ca.1695",
+        "DateText": "ca.1695-",
+        "Notes": "On the history of this Academy, and its developement after 1700, see Donato (2000)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19554",
+                "RecordId": "022-000006829",
+                "Name": "Girolami,Raffaele Cosimo,,1670 - 1748",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19555",
+                "RecordId": "022-000006830",
+                "Name": "Veronesi,Sante,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19556",
+                "RecordId": "022-000006831",
+                "Name": "Borgia,Alessandro,,1682 - 1764",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19557",
+                "RecordId": "022-000006833",
+                "Name": "Tolomei,G. B.,Jesuit|Cardinal,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19558",
+                "RecordId": "022-000006834",
+                "Name": "Tomasi,Giuseppe Maria,Cardinal,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0383",
+        "RecordId": "021-000007491",
+        "Name": "Canonisti (Accademia dei)",
+        "City": {
+            "CityId": "86",
+            "CityItalianName": "Palermo",
+            "CityEnglishName": "Palermo",
+            "CityLatinName": "Panormus"
+        },
+        "StartDate": "1687",
+        "DateText": "1687-",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20013",
+                "RecordId": "022-000007492",
+                "Name": "Bazan de Benavides,Ferdinando,Archbishop of Palermo,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20014",
+                "RecordId": "022-000007493",
+                "Name": "Marchese,Francesco,Canon,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

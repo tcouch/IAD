@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9168",
+        "RecordId": "022-000001753",
+        "Surname": "Salvan de Saliez",
+        "Forename": "Antoinette",
+        "Gender": "Female",
+        "DateText": "1638 - 1730",
+        "StartDate": "1638",
+        "EndDate": "1730",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Joined the Ricovrati in 1689.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16146",
+        "RecordId": "022-000002759",
+        "Surname": "Porzio",
+        "Forename": "Luca Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Portii",
+            "AlternativeForename": "Lucae Antonii"
+        },
+        "DateText": "1639-1724",
+        "StartDate": "1639",
+        "EndDate": "1724",
+        "Nationality": {
+            "NationalityId": "360",
+            "Value": "of Positano (Salerno)"
+        },
+        "Notes": "Portrait from Luca Antonio Porzio, Fragmenta Varia (Naples, 1701).\nFor a study of Luca Antonio Porzio`s work see Alessandro Dini, Filosofia della natura, medicina, religione, Franco Angeli, Milan, 1985 (BL Shelfmark: X.629/26986). In 1697 he published his Discourses on `breathing`, which had been previously delivered in the Accademia Sarottiana.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20347",
+        "RecordId": "022-000008010",
+        "Surname": "Schoppe",
+        "Forename": "Caspar",
+        "AlternativeName": {
+            "AlternativeSurname": "Scioppio",
+            "AlternativeForename": "Gaspare"
+        },
+        "DateText": "1576-1649",
+        "StartDate": "1576",
+        "EndDate": "1649",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "On his involvement among the Incogniti, see Pietro Messina, `Gli storici italiani`, in Storie inglesi (2011), p. 120.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

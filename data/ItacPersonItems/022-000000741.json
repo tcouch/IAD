@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "6036",
+        "RecordId": "022-000000741",
+        "Surname": "Carracci",
+        "Forename": "Lodovico",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Carraccio"
+        },
+        "DateText": "1555-1619",
+        "StartDate": "1555",
+        "EndDate": "1619",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Portrait from Malvasia, Felsina pittrice, I, p. 354.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

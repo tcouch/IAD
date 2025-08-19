@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008479",
+        "WorkId": "000955",
+        "ShortTitle": "Accademical discourses",
+        "LongTitle": "Upon several choice and pleasant subjects. Written originally in Italian, by the learned and famous Loredano. englished by J. B. Gent.",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Incogniti-Venezia (Accademia degli)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "71",
+            "PublicationPlaceItalianName": "Londra",
+            "PublicationPlaceEnglishName": "London",
+            "PublicationPlaceLatinName": "Londinium"
+        },
+        "PublicationYear": "1664",
+        "Shelfmark": "12301aa7",
+        "Subjects": "Academic discourse|Translation",
+        "Language": "English",
+        "Pagination": "[14] 114",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17761",
+                "RecordID": "022-000004663",
+                "Value": "Loredan,Gianfrancesco,,1607-1661"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20679",
+                "RecordID": "022-000008484",
+                "Value": "Bulteel,John,,bapt.1627-in or before1692"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "20678",
+                "RecordID": "022-000008483",
+                "Value": "Playfere,John,,fl.1664-1668"
+            }
+        },
+        "Notes": "In the Letter to the Reader, Bulteel affirmed: `[these discourses] are as rare as new to us, there being nothing of this kind, that I know extant in our language.` Gent. is abbreviation for gentleman.",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "20676",
+                "RecordID": "022-000008481",
+                "Value": "L`Estrange,Roger,Sir,1616-1704"
+            }
+        },
+        "CensorsAgreement": "Imprimatur Oct. 22 1663. Roger L`Estrang.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20675",
+                "RecordID": "022-000008480",
+                "Value": "Mabb and Shears,Thomas and Margaret,,fl.1609-1665"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55312",
+            "Value": "023-000008479_55312_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

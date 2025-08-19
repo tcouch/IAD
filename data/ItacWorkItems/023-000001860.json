@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001860",
+        "WorkId": "00135",
+        "ShortTitle": "Risposta alle considerationi o dubbi dell` Ecc[ellentissi]mo Sig[nor] Dottor Malacreta Academico Ordito.",
+        "LongTitle": "Sopra il Pastor Fido con altre varie dubitationi tanto contra detti dubbi e considerationi quanto contra l`istesso Pastor fido. Con un discorso nel fine per componimento di tutta l`opera. Di Paolo Beni",
+        "ItacAcademyItem": {
+            "AcademyId": "0022",
+            "RecordID": "021-000001817",
+            "Value": "Accademia degli Orditi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1600",
+        "DedicationPlaceDate": "Padua 31 August 1600",
+        "Shelfmark": "839.g.7.(2.) | 82.a.4.(2.)",
+        "Subjects": "Literary criticism",
+        "Language": "Italian",
+        "Pagination": "pp. 144",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9674",
+                "RecordID": "022-000001846",
+                "Value": "Beni,Paolo,,1553-1625"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9636",
+                "RecordID": "022-000001683",
+                "Value": "Bolzetta,Francesco,,1566-1653"
+            }
+        },
+        "Notes": "The copy 839.g.7 does not contain the Discorso nel qual si dichiarano e stabiliscono molte cose pertinenti alla risposta data a` dubbi e considerationi dell` eccellentissimo sig[nor] dottor Malacreta sopra il Pastor fido et alle dubitationi mosse tanto contro le dette considerationi quanto contro l`istesso Pastor fido. Di Paolo Beni (Venice: Ugolino 1600)",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9673",
+                "RecordID": "022-000001845",
+                "Value": "Bernardi,Giovanni Battista,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9635",
+                "RecordID": "022-000001682",
+                "Value": "Pasquati,Lorenzo,,fl. 1561-1624"
+            }
+        },
+        "PrinterOrnament": "U159",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

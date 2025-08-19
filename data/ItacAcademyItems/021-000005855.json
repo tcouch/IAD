@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0132",
+        "RecordId": "021-000005855",
+        "Name": "Pellegrini (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "Notes": "According to Giorgio Masi, Coreografie doniane: L`Accademia Pellegrina, in `Cinquecento capriccioso e irregolare. Eresie letterarie nell`Italia del classicismo`, ed. Paolo Procaccioli e Angelo Romano (1999), this Academy was Doni`s own invention, and never existed in reality.",
+        "ItacPersonItem": {
+            "PersonId": "15698",
+            "RecordId": "022-000002229",
+            "Name": "Doni,Anton Francesco,,1513 - 1574",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null,
+            "PersonPortraitImage": {
+                "ImageId": "54857",
+                "Value": "022-000002229_54857_2.jpg"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

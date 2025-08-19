@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008240",
+        "WorkId": "000924",
+        "ShortTitle": "Orazione del cavalier Lionardo Salviati",
+        "LongTitle": "Delle lodi di Donno Alfonso d`Este, recitata nell`Accademia di Ferrara per la morte di quel signore",
+        "ItacAcademyItem": {
+            "AcademyId": "0515",
+            "RecordID": "021-000008047",
+            "Value": "Ferrarese (Accademia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1587",
+        "DedicationPlaceDate": "Ferrara, 22 Dicembre, 1587",
+        "Shelfmark": "10631c46(13)",
+        "Subjects": "Funeral oration",
+        "Language": "Italian|Latin",
+        "Pagination": "[16]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20502",
+                "RecordID": "022-000008241",
+                "Value": "Salviati,Leonardo,,1540-1589"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20431",
+                "RecordID": "022-000008155",
+                "Value": "Gualengo,Galeazzo,Marquis,?-1623"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20503",
+                "RecordID": "022-000008242",
+                "Value": "d`Este,Cesare,Duke of Modena and Reggio,1562-1628"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55294",
+            "Value": "023-000008240_55294_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Galeatii Gualengui Ferrar. Academiae Principis In obitum Illustrissimi et Eccellentissimi Alfonsi Estensis",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20431",
+                        "RecordID": "022-000008155",
+                        "Value": "Gualengo,Galeazzo,Marquis,?-1623"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

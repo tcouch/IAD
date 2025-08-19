@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16123",
+        "RecordId": "022-000002732",
+        "Surname": "Dolfin",
+        "Forename": "Hierolamo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Girolamo"
+        },
+        "DateText": "fl.1557",
+        "StartDate": "fl.1557",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "The son of `Iacomo`, See Rose, The Academia Venetiana, in Studi Veneziani (1969)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

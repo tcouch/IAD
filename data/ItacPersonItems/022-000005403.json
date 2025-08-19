@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18384",
+        "RecordId": "022-000005403",
+        "Surname": "de Grammont",
+        "Forename": "Scipion",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Grandimonti",
+            "AlternativeForename": "Scipionis"
+        },
+        "DateText": "?-1638",
+        "StartDate": "?",
+        "EndDate": "1638",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Numistatist, secretary in Louis XIII`s cabinet, joined the Umoristi around 1637. See Gravit (1934).",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

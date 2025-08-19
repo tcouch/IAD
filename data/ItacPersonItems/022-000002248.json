@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15716",
+        "RecordId": "022-000002248",
+        "Surname": "Aldobrandini",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1571-1621",
+        "StartDate": "1571",
+        "EndDate": "1621",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Papal legate to Ferrara. See his biography by Elena Fasano Guarini in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

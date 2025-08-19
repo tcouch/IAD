@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20502",
+        "RecordId": "022-000008241",
+        "Surname": "Salviati",
+        "Forename": "Leonardo",
+        "Pseudonym": "Infarinato Accademico della Crusca|Panico Granacci|Ormanozzo Rigogoli",
+        "DateText": "1540-1589",
+        "StartDate": "1540",
+        "EndDate": "1589",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

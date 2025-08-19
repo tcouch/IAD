@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006350",
+        "WorkId": "000756",
+        "ShortTitle": "Aristotelis De Physico Auditu Liber primus",
+        "LongTitle": "Ludovici Buccaferreae Bononiensis Philosophi excellentissimi praelectionibus, ex Graecorum simul et Latinorum interpretum sententia, explicatus. Accessere sub finem singularum lectionum Argumenta, et Catalogus quaestionum, quae in iis excutiuntur. Ad D.D. Christophorum Wettingensis Collegii apud Helvetios nobilis. Praesulem dignis",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "59",
+            "PublicationPlaceItalianName": "Basilea",
+            "PublicationPlaceEnglishName": "Basel",
+            "PublicationPlaceLatinName": "Basileae"
+        },
+        "PublicationYear": "1577",
+        "DedicationPlaceDate": "Basileae ex nostro Musaeo Calendis Aprilib. Anno Dom. 1577",
+        "Shelfmark": "C73d10",
+        "Language": "Latin",
+        "Pagination": "[4] 133r-v [6]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7506",
+                "RecordID": "022-000001027",
+                "Value": "Boccadiferro,Lodovico,,1482-1545"
+            }
+        },
+        "Notes": "The British Library integrated Catalogue reports: `The sheets of ff. 1-132 of the Venice edition, with different preliminary pages and with the matter of ff. 133 and 134 reprinted on one leaf and followed by the \u201cargumenta.\u201d `",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15073",
+                "RecordID": "022-000001114",
+                "Value": "Stupanus,Johannes Nicolaus,,1542-1621"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15099",
+                "RecordID": "022-000001140",
+                "Value": "Perna,Pietro,,1522-1582"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55090",
+            "Value": "023-000006350_55090_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20255",
+        "RecordId": "022-000007851",
+        "Surname": "Corner",
+        "Forename": "Andrea",
+        "AlternativeName": {
+            "AlternativeSurname": "Cornaro"
+        },
+        "DateText": "1547-1617",
+        "StartDate": "1547",
+        "EndDate": "1617",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Founder of the Stravaganti in Candia. For the dates, see Gian Carlo Persio, La nobilissima barriera della Canea. Poema cretese del 1594, Intr.,, testo critico e commento a cura di Cristiano Luciani, Venezia, 1994.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

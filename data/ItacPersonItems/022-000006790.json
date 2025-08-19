@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19530",
+        "RecordId": "022-000006790",
+        "Surname": "Maffei",
+        "Forename": "Paolo Alessandro",
+        "Gender": "Male",
+        "PersonalTitle": "Canon",
+        "DateText": "1653-1716",
+        "StartDate": "1653",
+        "EndDate": "1716",
+        "Nationality": {
+            "NationalityId": "295",
+            "Value": "of Volterra"
+        },
+        "Notes": "Archeologist, Knight of Santo Stefano, moved to Rome in 1665 and studied at the Collegio Romano, he joined the Arcadia and the Accademia del Tamburo (18th c.). For more details, see Corrado Viola, `Echi comacchiesi nel carteggio col Marmi`, in Corte buon governo e pubblica felicita`. Politica e coscienza civile nel Muratori. Atti della III giornata di studi muratoriani (Florence: Olschki, 1996)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18867",
+        "RecordId": "022-000005952",
+        "Surname": "Ferrara",
+        "Forename": "Marco Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Ferrari"
+        },
+        "DateText": "?-1662",
+        "StartDate": "?",
+        "EndDate": "1662",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Angeli Felicella, Palermo, Vol.II, p. 34 (BL Shelfmark:610.m.10.)",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

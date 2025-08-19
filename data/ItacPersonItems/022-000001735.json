@@ -1,0 +1,45 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9128",
+        "RecordId": "022-000001735",
+        "Surname": "Bottazzo",
+        "Forename": "Gioan Iacopo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Giovan Jacopo"
+            },
+            {
+                "AlternativeForename": "Giovanni Iacopo"
+            },
+            {
+                "AlternativeSurname": "Bottazzi"
+            },
+            {
+                "AlternativeSurname": "Bottacio"
+            },
+            {
+                "AlternativeSurname": "Boccacio"
+            },
+            {
+                "AlternativeSurname": "Bottaccio"
+            },
+            {
+                "AlternativeForename": "Giovanni Giacomo"
+            },
+            {
+                "AlternativeSurname": "Bottatti",
+                "AlternativeForename": "Io. Iacobi"
+            }
+        ],
+        "DateText": "Early 16th C.",
+        "StartDate": "Early 16th C.",
+        "Nationality": {
+            "NationalityId": "369",
+            "Value": "of Montecastello (Alessandria)"
+        },
+        "Notes": "Bottazzo features as a main character in book 4 of Stefano Guazzo`s Civil conversatione (1574) referred to as `Cavalier Bottazzo`. For his biography, see Piero Floriani, `BOTTAZZO, Giovanni Iacopo,` Dizionario Biografico degli Italiani 13 (1974). There are 6 letters by Bottazzo in Stefano Guazzo`s Lettere Volgari di Diversi Gentilhuomini del Monferrato (1566).",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

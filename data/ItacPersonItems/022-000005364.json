@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18348",
+        "RecordId": "022-000005364",
+        "Surname": "Chiabrera",
+        "Forename": "Gabriello",
+        "Gender": "Male",
+        "DateText": "1552-1638",
+        "StartDate": "1552",
+        "EndDate": "1638",
+        "Nationality": {
+            "NationalityId": "163",
+            "Value": "of Savona"
+        },
+        "Notes": "Member of the Umoristi according to Russo (1979)",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

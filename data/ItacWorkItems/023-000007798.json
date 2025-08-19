@@ -1,0 +1,115 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007798",
+        "WorkId": "000871",
+        "ShortTitle": "Trattenimenti poetici serii e geniali",
+        "LongTitle": "Di Don Giacomo Zopelli Arcidiacono Patriarcale di Venetia, ed Accademico  fra` Raccolti. All`Illustriss. & Eccellentiss. Sig il Sig. Giovanni Morosini Cavaliere, ed ambasciatore veneto alla Sacra Maesta` Cesarea di Leopoldo Primo",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0433",
+                "RecordID": "021-000007790",
+                "Value": "Accademia dei Raccolti"
+            },
+            {
+                "AcademyId": "0433",
+                "RecordID": "021-000007790",
+                "Value": "Accademia dei Raccolti (Venezia)"
+            },
+            {
+                "AcademyId": "0358",
+                "RecordID": "021-000007296",
+                "Value": "Accademia degli Assicurati (Venezia)"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1673",
+        "DedicationPlaceDate": "di Venezia il 18 settembre 1673",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "259",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20223",
+                "RecordID": "022-000007789",
+                "Value": "Zopelli,Giacomo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20223",
+                "RecordID": "022-000007789",
+                "Value": "Zopelli,Giacomo,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20225",
+                "RecordID": "022-000007799",
+                "Value": "Morosini,Giovanni,Cavaliere,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20226",
+                "RecordID": "022-000007800",
+                "Value": "Bosio,Antonio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55041",
+            "Value": "023-000007798_55041_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Le Gare delle muse all`istesso [Giovanfrancesco Morosini Patriarca di Venezia] per l`Accademia aperta in casa sua",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20223",
+                            "RecordID": "022-000007789",
+                            "Value": "Zopelli,Giacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "perche lasciato l'accademia il titolo di Assicurati, prenda quello de Raccolti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20223",
+                            "RecordID": "022-000007789",
+                            "Value": "Zopelli,Giacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L'autore nell'ultimo Venerdi' di carnevale nell'Accademia contro l'uso de' cappellini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20223",
+                            "RecordID": "022-000007789",
+                            "Value": "Zopelli,Giacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Havendo un accademico recitato nell'Accademia un componimento, e sentendosi dire da certo tale che nel recitare havea avuito poca voce, risponde cosi'",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20223",
+                            "RecordID": "022-000007789",
+                            "Value": "Zopelli,Giacomo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

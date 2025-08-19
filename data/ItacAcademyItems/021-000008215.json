@@ -1,0 +1,38 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0547",
+        "RecordId": "021-000008215",
+        "Name": "Infiammati-Bologna (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Lower part of sub-lunar world",
+        "Motto": "Et lumine",
+        "StartDate": "1650",
+        "EndDate": "1653?",
+        "DateText": "1650-1653?",
+        "Notes": "Publications related to the history of the Infiammati Academy, but not in British Library collections, include: Bagnoli, Mauro, Paulus apostolus Academiae Inflammatorum, praeses electus, ex spada, duplici elogio celebratur, D. Mauro Bagnolo dicente (Bononiae: typis HH. de Duciae, 1651); Gessi, Berlingero, Amor vendicato, torneo a piedi rappresentato in Bologna da signori Cavalieri Infiammati nel Teatro dell`Accademia loro in occasione delle felicissime nozze dell`illustrissima signora contessa D. Anna Maria Borromei Pepoli. / [Inventione e Poesia del sig. Gregorio Belsensi] (In Bologna: per gli HH. del Dozza, 1653).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5015",
+                "RecordId": "022-000000017",
+                "Name": "Gessi,Berlingiero (juniore),Senator,1613 - 1671",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7201",
+                "RecordId": "022-000000853",
+                "Name": "Orsi,Astorre,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

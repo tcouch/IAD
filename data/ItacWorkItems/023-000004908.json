@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004908",
+        "WorkId": "000603",
+        "ShortTitle": "Lo schiavo. Comedia",
+        "LongTitle": "Di Assuero Rettori Academico Travagliato. Rappresentata in Siena l` Anno 1577 ne` giorni del Carnevale.",
+        "ItacAcademyItem": {
+            "AcademyId": "0085",
+            "RecordID": "021-000004461",
+            "Value": "Accademia dei Travagliati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1578",
+        "DedicationPlaceDate": "Siena 1 January 1577",
+        "Shelfmark": "11715.aa.45",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "120",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17976",
+                "RecordID": "022-000004907",
+                "Value": "Rettori,Assuero,,"
+            }
+        },
+        "Notes": "On this comedy, see Seragnoli, `Annotazioni sul \u00abmodello\u00bb drammatirgico senese: Assuero Rettori e la commedia \"Lo schiavo\"`, in Bullettino senese di storia patria, LXXXIX (1982), pp. 196-220.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17977",
+                "RecordID": "022-000004909",
+                "Value": "Agostini,Ippolito,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1620"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54181",
+            "Value": "023-000004908_54181_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

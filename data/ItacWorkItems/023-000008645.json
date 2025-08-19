@@ -1,0 +1,27 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008645",
+        "WorkId": "000978",
+        "ShortTitle": "Mandatum Academiae Venetae Ab. Marlup",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "DedicationPlaceDate": "Document dated 23 February 1558",
+        "Shelfmark": "John Rylands Library Aldine Collection 547",
+        "Content": "Instructions given to Abbot Marlupino to take care of the Academy`s commercial interests in Francfort and other parts of Germany",
+        "Language": "Latin",
+        "Pagination": "4 leaves not numbered",
+        "Marginalia": "No",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

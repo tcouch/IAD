@@ -1,0 +1,181 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007920",
+        "WorkId": "000900",
+        "ShortTitle": "Isagogicon",
+        "LongTitle": "Sive Facilis Introductio ad Universam Pharmaceuticae Artis Praxim Qua Tyrones imbuti nedumSeplafiaria facultatis rudimenta, ver\u00f9m & caeteras operosae huius disciplinae institutiones Instructionesq; edoceri valent; si velint",
+        "ItacAcademyItem": {
+            "AcademyId": "0169",
+            "RecordID": "021-000006646",
+            "Value": "Accademia dei Chiari"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "105",
+            "PublicationPlaceItalianName": "Catania",
+            "PublicationPlaceEnglishName": "Catania",
+            "PublicationPlaceLatinName": "Catana"
+        },
+        "PublicationYear": "1650",
+        "Shelfmark": "546.f.9.",
+        "Subjects": "Medicine|apothecary guide",
+        "Language": "Latin",
+        "Pagination": "pp. 197",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20265",
+                "RecordID": "022-000007909",
+                "Value": "Catanuto,Nicola,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15317",
+                    "RecordID": "022-000001356",
+                    "Value": "Incerto,Anonymous author,,"
+                },
+                {
+                    "PersonId": "20274",
+                    "RecordID": "022-000007918",
+                    "Value": "d`Urso,Giuseppe,,"
+                },
+                {
+                    "PersonId": "17379",
+                    "RecordID": "022-000004219",
+                    "Value": "Munebria,Giuseppe,,?-1683"
+                },
+                {
+                    "PersonId": "19433",
+                    "RecordID": "022-000006649",
+                    "Value": "Guarneri,Giovanni Battista,,? - 1665"
+                },
+                {
+                    "PersonId": "20270",
+                    "RecordID": "022-000007914",
+                    "Value": "Mancino,Carlo,,?-1683"
+                },
+                {
+                    "PersonId": "20265",
+                    "RecordID": "022-000007909",
+                    "Value": "Catanuto,Nicola,,"
+                }
+            ]
+        },
+        "Notes": "This text contains verses written by members of the Chiari academy in Catania",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20276",
+                    "RecordID": "022-000007921",
+                    "Value": "Manfr\u00e8,Francesco,,"
+                },
+                {
+                    "PersonId": "20277",
+                    "RecordID": "022-000007922",
+                    "Value": "Amicus,Franciscus,General Vicar,"
+                },
+                {
+                    "PersonId": "20278",
+                    "RecordID": "022-000007923",
+                    "Value": "Amicus,Ignatius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Opusculum, cui titulus est Isagogicon, seu facilis introductio pro Tyronibus ad universam pharmaceuticae Artis praxim, \u00e0 Nicolao Catanuto nostro Catanensi pharmacopaeo compositum vidi, & qua potui diligentiaexaminavi, ac proinde non solum Tyronibus, verum etiam provectis pharmacopaeis utile & valde necessarium arbitratus sum, ita ut lucem aspicere pro communi utilitate mereatur.\nFranciscus Manfr\u00e8 Ar. & Med. Doctor & huius Almi Studij publicus lector.\nImprimatur Catanae.\nIll. D. Franciscus Amicus Vicarius Generalis S. V.\nD. Ignatius Amicus pro Spect. F. P.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20275",
+                "RecordID": "022-000007919",
+                "Value": "Lucca,Andrea,Prior,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20279",
+                "RecordID": "022-000007924",
+                "Value": "Rossi,Giovanni (Sicilian),,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55236",
+            "Value": "023-000007920_55236_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Nicolao Catanuto Eiusdem Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20265",
+                            "RecordID": "022-000007909",
+                            "Value": "Catanuto,Nicola,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Incerti Auctoris\nDisticon Incerti Auctori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18327",
+                            "RecordID": "022-000005339",
+                            "Value": "Incerti Auctoris,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto del Dottor Don Giuseppe d'Urso in lode dell'Autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20274",
+                            "RecordID": "022-000007918",
+                            "Value": "d`Urso,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto di Don Giuseppe Munebria per l'Opera dell'Autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17379",
+                            "RecordID": "022-000004219",
+                            "Value": "Munebria,Giuseppe,,?-1683"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Canzone del Signor Gio. Battista Guarnieri in lode dell'Autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19433",
+                            "RecordID": "022-000006649",
+                            "Value": "Guarneri,Giovanni Battista,,? - 1665"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In lode dell'Istesso l'Autore Istesso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19433",
+                            "RecordID": "022-000006649",
+                            "Value": "Guarneri,Giovanni Battista,,? - 1665"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto del Signor Carlo Mancino in lode dell'Autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20270",
+                            "RecordID": "022-000007914",
+                            "Value": "Mancino,Carlo,,?-1683"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

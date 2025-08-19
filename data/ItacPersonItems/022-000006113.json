@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19002",
+        "RecordId": "022-000006113",
+        "Surname": "Valdina",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "DateText": "1644 - 1695",
+        "StartDate": "1644",
+        "EndDate": "1695",
+        "Nationality": {
+            "NationalityId": "279",
+            "Value": "of Rocca (Messina)"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, p. 337 (BL Shelfmark:610.m.10.)\nGiovanni Battista Valdina was the secretary of the Fucina academy in 1665. See Guido Delle Colonne, La Storia della guerra di Troia tradotta in lingua volgare da M. Guido Delle Colonne Messinese, Naples 1665 (BL Shelfmark: 1074.c.23.)",
+        "Role": "Contributor|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003207",
+        "WorkId": "000416",
+        "ShortTitle": "L`Hortensio Comedia",
+        "LongTitle": "de gl` Academici Intronati di Siena",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1574",
+        "Shelfmark": "638.a.4",
+        "Language": "Italian",
+        "Pagination": "pp.82",
+        "Marginalia": "Yes",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16064",
+                "RecordID": "022-000002645",
+                "Value": "Farri,Domenico,,1519 - 1604"
+            }
+        },
+        "PrinterOrnament": "V43",
+        "TitlePageImage": {
+            "ImageId": "53369",
+            "Value": "023-000003207_53369_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

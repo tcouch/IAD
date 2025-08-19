@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007028",
+        "WorkId": "000810",
+        "ShortTitle": "Discorso detto nella reale Accademia della Maesta` di Cristina Regina di Svezia",
+        "LongTitle": "In lode di Giacomo II re della Gran Bretagna da Monsignore Gio: Francesco Albani Accademico Reale Innanzi al festoso, e solenne applauso Musicale fatto nella medesima accademia su l`istesso argomento",
+        "ItacAcademyItem": {
+            "AcademyId": "0286",
+            "RecordID": "021-000006942",
+            "Value": "Accademia Reale di Cristina di Svezia"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1687",
+        "Shelfmark": "837l41",
+        "Subjects": "Academic discourse",
+        "Language": "Italian",
+        "Pagination": "24",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17681",
+                "RecordID": "022-000004576",
+                "Value": "Albani,Giovanni Francesco,Pope Clement XI,1649 - 1721"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16193",
+                "RecordID": "022-000002820",
+                "Value": "Vasa,Christine ,Queen of Sweden,1626 - 1689"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18343",
+                "RecordID": "022-000005358",
+                "Value": "Tinassi,Nicolo` Angelo,,1622 - 1699"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54863",
+            "Value": "023-000007028_54863_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

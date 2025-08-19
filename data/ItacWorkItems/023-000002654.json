@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002654",
+        "WorkId": "000326",
+        "ShortTitle": "Antichita Di Napoli E Del Suo amenissimo Distretto.",
+        "LongTitle": "Descritta da Benedetto di Falco, Cittadino Napoletano. Di nuovo in questa sesta impressione corretta, et posta in luce.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1679",
+        "Shelfmark": "174.c.1.",
+        "Content": "Description of Naples and its vicinity",
+        "Subjects": "History of Naples",
+        "Language": "Italian|Latin",
+        "Illustration": "Engravings|",
+        "Pagination": "pp. 64",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16071",
+                "RecordID": "022-000002653",
+                "Value": "di Falco ,Benedetto,,"
+            }
+        },
+        "Notes": "On p. 64 the author mentions the Sireni Academy, the Ardenti Academy and the Incogniti Academy of Naples.",
+        "CensorsAgreement": "Con Licenza de` Superiori",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16076",
+                "RecordID": "022-000002660",
+                "Value": "G.T.,C.,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16075",
+                "RecordID": "022-000002659",
+                "Value": "Porsile,Carlo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53619",
+            "Value": "023-000002654_53619_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53916",
+            "Value": "023-000002654_53916_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Sonetto A Messer Benedetto de Falco Napolitano. Astemio de Gli Incogniti da Napoli.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "",
+                        "RecordID": ""
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

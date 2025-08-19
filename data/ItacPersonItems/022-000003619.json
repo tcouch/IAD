@@ -1,0 +1,25 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16858",
+        "RecordId": "022-000003619",
+        "Surname": "Piccini",
+        "Forename": "Pietro",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Piccinus",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Petrus"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "The son of Jacopo Piccini.",
+        "Role": "Illustrator",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

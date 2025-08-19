@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0437",
+        "RecordId": "021-000007794",
+        "Name": "Afflati (Accademia degli)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "ca.1550",
+        "DateText": "ca.1550",
+        "Notes": "On this Academy, see Maylender, vol. 1.",
+        "ItacPersonItem": {
+            "PersonId": "20465",
+            "RecordId": "022-000008195",
+            "Name": "Cortile,Alfonso,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

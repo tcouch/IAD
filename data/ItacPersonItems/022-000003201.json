@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16513",
+        "RecordId": "022-000003201",
+        "Surname": "Soranzo",
+        "Forename": "Lorenzo",
+        "PersonalTitle": "Captain of Padua 1681 - 1682",
+        "DateText": "1639 - ?",
+        "StartDate": "1639",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

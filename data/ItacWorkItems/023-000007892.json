@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007892",
+        "WorkId": "000894",
+        "ShortTitle": "Somma delle opere che in tutte le scienze",
+        "LongTitle": "et arti piu` nobili, et in varie lingue ha da mandare in luce l`Academia Venetiana, Parte nuove et non piu` stampate, parte con fedelissime tradottioni giudiciose correttioni, et utilissime annotationi riformate",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "Ac112",
+        "Subjects": "Bibliography",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Notes": "Dedicated to the Doge (at the time Lorenzo Priuli) and to the Venetian nobility. Full text available online at the John Rylands Library, Manchester, in the LUNA Database: http://enriqueta.man.ac.uk/luna/servlet/detail/Manchester~91~1~90319~104971",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16907",
+                "RecordID": "022-000003681",
+                "Value": "Priuli,Lorenzo,Doge,"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Veneziana (Academia)"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55088",
+            "Value": "023-000007892_55088_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

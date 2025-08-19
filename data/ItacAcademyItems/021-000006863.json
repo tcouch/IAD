@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0235",
+        "RecordId": "021-000006863",
+        "Name": "Inaspettati (Accademia degli)",
+        "AlternativeName": "Accademia de` Segretari",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "Motto": "Alta mente repostum",
+        "StartDate": "1596",
+        "EndDate": "?",
+        "DateText": "1596-?",
+        "Notes": "Based in the sacristy of San Carlo al Corso, patron and promoter was San Carlo Borromeo.",
+        "ItacPersonItem": {
+            "PersonId": "19570",
+            "RecordId": "022-000006862",
+            "Name": "Galesini,Pietro,,ca1520 - ca1590",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003527",
+        "WorkId": "000456",
+        "ShortTitle": "Calzagallina",
+        "LongTitle": "Commedia rusticale. composta per lo Strafalcione della Congrega dei Rozzi",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1575",
+        "Shelfmark": "163.f.51|11715.a.69",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16732",
+                "RecordID": "022-000003468",
+                "Value": "Cacciaconti,Ascanio,,"
+            }
+        },
+        "Notes": "Publication date according to British the Library Catalogue. The title page of the editions is reproduced here.",
+        "TitlePageImage": {
+            "ImageId": "53854",
+            "Value": "023-000003527_53854_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53855",
+            "Value": "023-000003527_53855_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

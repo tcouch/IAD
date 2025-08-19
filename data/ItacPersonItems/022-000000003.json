@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5001",
+        "RecordId": "022-000000003",
+        "Surname": "Barberini",
+        "Forename": "Maffeo",
+        "Gender": "Male",
+        "PersonalTitle": "Pope Urban VIII",
+        "DateText": "1568-1644",
+        "StartDate": "1568",
+        "EndDate": "1644",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

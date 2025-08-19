@@ -1,0 +1,211 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001957",
+        "WorkId": "000274",
+        "ShortTitle": "Il primo libro delle cantate da camera",
+        "LongTitle": "A voce sola di Gio. Battista Mazzaferrata. Maestro di Cappella dell`Illustrissima Accademia della Morte di Ferrara. Opera Quarta. Al Molto Illustre, e Molto Reverendo Padre Lorenzo Penna Carmelitano. Maestro di Sacra Teologia, Dottore Collegiato, fra gli Accademici Filaschisi, e Resoluti, L`Indefesso",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0019",
+                "RecordID": "021-000001473",
+                "Value": "Accademia dei Floridi 1615; dei Filomusi 1622; dei Filaschisi 1633; Filarmonica 1666"
+            },
+            {
+                "AcademyId": "0096",
+                "RecordID": "021-000004782",
+                "Value": "Accademia dei Risoluti (Bologna)"
+            },
+            {
+                "AcademyId": "0095",
+                "RecordID": "021-000004780",
+                "Value": "Accademia della Morte"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1677",
+        "Shelfmark": "B.316",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "131",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15445",
+                "RecordID": "022-000001958",
+                "Value": "Mazzaferrata,Giovanni Battista,Chapel Master,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15434",
+                "RecordID": "022-000001946",
+                "Value": "Penna,Lorenzo,,ca. 1613 - 1693"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15661",
+                "RecordID": "022-000002187",
+                "Value": "Silvani,Giuseppe,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "TitlePageImage": {
+            "ImageId": "54891",
+            "Value": "023-000001957_54891_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "CANTO O TENORE",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "No no non ti doler",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De la Donna che adora",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Doppo un lungo servire",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Presto presto io m`inamoro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "ALTO",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Tanto amor dove fini`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel bel seno di Dori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Fulminatemi o Cieli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Insegnatemi vecchiarelle il mestier di far l`amor",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "BASSO",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ove con pie` d`argento",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Su le forche vanne amor",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sconsigliato mio core ove t`aggiri",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nell`Atlantico Mar",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

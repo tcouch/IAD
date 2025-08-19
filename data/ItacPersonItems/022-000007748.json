@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20207",
+        "RecordId": "022-000007748",
+        "Surname": "Corner",
+        "Forename": "Giovanni",
+        "AlternativeName": {
+            "AlternativeSurname": "Cornaro",
+            "AlternativeForename": null
+        },
+        "DateText": "1551-1629",
+        "StartDate": "1551",
+        "EndDate": "1629",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "For his biography, see C. Povolo, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

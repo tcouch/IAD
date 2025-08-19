@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19562",
+        "RecordId": "022-000006844",
+        "Surname": "de` Medici",
+        "Forename": "Francesco Maria",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1660-1711",
+        "StartDate": "1660",
+        "EndDate": "1711",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Patron of the Accademia dei Fisiocritici",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

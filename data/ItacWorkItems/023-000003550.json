@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003550",
+        "WorkId": "000464",
+        "ShortTitle": "Discordia d`amore",
+        "LongTitle": "Commedia nuova Rusticale Composta per il Pellegrino Ingegno del Fumoso de la Congrega de Rozzi nuovamente stampate",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1550",
+        "DedicationPlaceDate": "In the colophon: `In Siena per Francescho di Simeone ad instantia di Giovanni d`Alisandro il di` 31 di Maggio 1550`",
+        "Shelfmark": "163.a.1",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "12 leaves",
+        "Marginalia": "No",
+        "Edition": "1st",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16746",
+                "RecordID": "022-000003482",
+                "Value": "Salvestro,,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16806",
+                "RecordID": "022-000003552",
+                "Value": "Landi,Giovanni,,fl.1510 - 1551"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16805",
+                "RecordID": "022-000003551",
+                "Value": "Nardi,Francescho,,fl.1542 - 1551"
+            }
+        },
+        "PrinterOrnament": "T27|Z1086",
+        "TitlePageImage": {
+            "ImageId": "53865",
+            "Value": "023-000003550_53865_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53866",
+            "Value": "023-000003550_53866_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

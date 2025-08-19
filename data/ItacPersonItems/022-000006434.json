@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19253",
+        "RecordId": "022-000006434",
+        "Surname": "Caraffa",
+        "Forename": "Tommaso",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Carlo"
+        },
+        "DateText": "?-1614",
+        "StartDate": "?",
+        "EndDate": "1614",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Dominican, teacher of theology, could not join the Lincei (on Della Porta`s proposal) due to his membership to a religious monastic order.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

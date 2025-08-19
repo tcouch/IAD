@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5123",
+        "RecordId": "022-000000119",
+        "Surname": "Ciampoli",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "DateText": "1590-1643",
+        "StartDate": "1590",
+        "EndDate": "1643",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Admitted among the Lincei in 1618, see Gabrieli, Contributi... (1989), p. 11",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

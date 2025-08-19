@@ -1,0 +1,31 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008630",
+        "WorkId": "000974",
+        "ShortTitle": "Qu\u00e6 hoc volumine continentur.",
+        "LongTitle": "Ad Marinum Sannutum Epistola: qui apud Gr\u00e6cos scripserint \u03bc\u03b5\u03c4\u03b1\u03bc\u03bf\u03c1\u03c6\u03c9\u03c3\u03b5\u03b9\u03c2. ... Vita Ovidii ex ipsius operib. Index fabularum et c\u00e6terorum ... Ovidii Metamorphose\u03c9\u03bd libri quindecim. [vol. 2:] (Publii Ovidii Nasonis Heroidum Epistolae. Auli Sabini. Epistol\u00e6 tres. P. Ovidii Nasonis Elegiarum. Libri tres. De Arte Amandi. Libri tres. De Remedio Amoris. Libri duo. In Ibin. Liber unus. Ad Liviam Epistola de morte Drusi. De nuce. De Medicamine Faciei. [vol. 3:] Publii Ovidii Nasonis qu\u00e6 hoc in libello continentur Fastorum. Libri. VI. De Tristibus. Libri. V. De Ponto. Libri. IIII.).",
+        "ItacAcademyItem": {
+            "AcademyId": "0347",
+            "RecordID": "021-000007158",
+            "Value": "Aldina (Accademia)"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1502-03",
+        "Shelfmark": "1068g31",
+        "Language": "Latin",
+        "Marginalia": "No",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19742",
+                "RecordID": "022-000007157",
+                "Value": "Manuzio,Aldo Pio,,1449-1515"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

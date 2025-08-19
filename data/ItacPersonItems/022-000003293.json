@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16575",
+        "RecordId": "022-000003293",
+        "Surname": "Secco",
+        "Forename": "Ogniben",
+        "PersonalTitle": "Count",
+        "DateText": "fl. 1675 - 1684",
+        "StartDate": "fl. 1675",
+        "EndDate": "1684",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1675, where he was consigliere, principe, and censor. One if his sonnets in Componimenti per la morte di Elena Cornaro Piscopia (1684)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

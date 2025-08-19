@@ -1,0 +1,26 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18415",
+        "RecordId": "022-000005436",
+        "Surname": "Bouchard",
+        "Forename": "Jean Jacque",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Buccardus"
+            },
+            {
+                "AlternativeForename": "Io. Iacobus"
+            }
+        ],
+        "DateText": "fl. 1638-1651",
+        "StartDate": "fl. 1638",
+        "EndDate": "1651",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": "Editor|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

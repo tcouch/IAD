@@ -1,0 +1,146 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003632",
+        "WorkId": "000481",
+        "ShortTitle": "Delle lettere facete et piacevoli",
+        "LongTitle": "di diversi grandi huomini et chiari ingegni, scritte sopra diverse materie, raccolte per M. Francesco Turchi, Libro secondo",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            },
+            {
+                "AcademyId": "0107",
+                "RecordID": "021-000005041",
+                "Value": "Accademia della Virt\u00f9"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1575",
+        "DedicationPlaceDate": "Venice 1 October 1575",
+        "Shelfmark": "010910.aa.6.(2.)",
+        "Subjects": "Ludic letters",
+        "Language": "Italian",
+        "Pagination": "[14] 575",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16496",
+                    "RecordID": "022-000003180",
+                    "Value": "Vignali,Antonio,,1500 - 1559"
+                },
+                {
+                    "PersonId": "18100",
+                    "RecordID": "022-000005057",
+                    "Value": "Blado,Antonio,,1490 - 1567"
+                },
+                {
+                    "PersonId": "18123",
+                    "RecordID": "022-000005082",
+                    "Value": "Martirano,Coriolano,Bishop,1503 - 1557?"
+                },
+                {
+                    "PersonId": "18104",
+                    "RecordID": "022-000005062",
+                    "Value": "Gualtieri,Pietro Paolo,,1501 - 1572"
+                },
+                {
+                    "PersonId": "18094",
+                    "RecordID": "022-000005047",
+                    "Value": "Landi,Giulio,,1498 - 1579"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18248",
+                "RecordID": "022-000005240",
+                "Value": "Fino,Matteo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16868",
+                "RecordID": "022-000003634",
+                "Value": "Turchi,Francesco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53882",
+            "Value": "023-000003632_53882_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Arsiccio Intronato a M. Luca Contile (26 November 1557)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16496",
+                            "RecordID": "022-000003180",
+                            "Value": "Vignali,Antonio,,1500 - 1559"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Barbagigia stampatore: Al sesto re della virtu` detto Nasone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18100",
+                            "RecordID": "022-000005057",
+                            "Value": "Blado,Antonio,,1490 - 1567"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lettera scritta al medesimo privato in Francia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18100",
+                            "RecordID": "022-000005057",
+                            "Value": "Blado,Antonio,,1490 - 1567"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al signor Claudio Tolomei, Principe del Regno della Virtu`; Al medesimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18104",
+                            "RecordID": "022-000005062",
+                            "Value": "Gualtieri,Pietro Paolo,,1501 - 1572"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al medesimo [Signor Claudio Tolomei Pirncipe del Regno della Virtu`]",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18123",
+                            "RecordID": "022-000005082",
+                            "Value": "Martirano,Coriolano,Bishop,1503 - 1557?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Formaggiata di Sere Stentato. Al serenissimo Re della Virtu`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18094",
+                            "RecordID": "022-000005047",
+                            "Value": "Landi,Giulio,,1498 - 1579"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

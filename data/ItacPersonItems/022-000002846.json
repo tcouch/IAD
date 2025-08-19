@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16211",
+        "RecordId": "022-000002846",
+        "Surname": "Manfredi",
+        "Forename": "Eustachio",
+        "Gender": "Male",
+        "DateText": "1674-1739",
+        "StartDate": "1674",
+        "EndDate": "1739",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "See his biography by Ugo Baldini, in DBI",
+        "Role": null,
+        "TypographicReference": "Mar.te 1307",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

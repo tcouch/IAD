@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9155",
+        "RecordId": "022-000001593",
+        "Surname": "De` Conti",
+        "Forename": "Ingolfo",
+        "Gender": "Male",
+        "DateText": "1565-1615",
+        "StartDate": "1565",
+        "EndDate": "1615",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "The nephew of Sperone Speroni, he was lector of moral philosophy in Milan (`scuole canobiane`), then lector of mathematics in the Accademia degli Inquieti, and subsequently in the Accademia Delia in Padua. See his biography by Augusto de Ferrari in DBI.",
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

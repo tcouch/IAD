@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15963",
+        "RecordId": "022-000002527",
+        "Surname": "Cappello",
+        "Forename": "Bernardo",
+        "Gender": "Male",
+        "DateText": "1498-1565",
+        "StartDate": "1498",
+        "EndDate": "1565",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "For the dates see his biography by Francesco Fasulo and C. Mutini, in Dizionario Biografico degli Italiani (1975)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

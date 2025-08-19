@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000284",
+        "WorkId": "00005",
+        "ShortTitle": "Psafone",
+        "LongTitle": "Trattato d`amore del Caliginoso Gelato il signor Melchiorre Zoppio. Nel quale secondo i poeti et filosofi ethnici e profani scrittori platonici e altri si discorre sopra le principali considerazioni occorrenti nella materia dell`amore humano ragionevole e civile. [Under the ornament is written] Il libro non fui fatto da vecchio n\u00e9 per vecchi.",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1617",
+        "DedicationPlaceDate": "Bologna 28 January 1617",
+        "Shelfmark": "11426.a.5 | 1578/4705",
+        "Subjects": "Treatise on love",
+        "Language": "Italian",
+        "Pagination": "pp. 632 plus Tavola argomenti unnumbered",
+        "Marginalia": "No",
+        "Edition": "2nd edn",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5032",
+                "RecordID": "022-000000034",
+                "Value": "Zoppio,Melchiorre,,1544-1634/7"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                },
+                {
+                    "PersonId": "5233",
+                    "RecordID": "022-000000225",
+                    "Value": "de Garex,Paulus,,\u20201643"
+                },
+                {
+                    "PersonId": "5271",
+                    "RecordID": "022-000000261",
+                    "Value": "Besignatus,Bernardus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Ego Bernardus Besignatus Sacrae Theolog. Doctor a reverendiss. Vic. Gener. Illustriss. Et Reverendiss. Card. Archiepisc. Nostri Bonon. deputatus vidi et approbavi hunc librum Psaphonem nuncupatum typisq. Excudendum censui | Tractatum hunc inscriptum Psaphone conscriptum vero Italico idiomate ab eccellentiss. Dom. Melchiore Zopio in Academia Gelatorum Caliginoso vidi ac perlegi: cumque nihil in ipso perlegerim quod aut repugnet Sacr. Canonibus aut offendat pias aures ut typis daretur censui. Imprimitur igitur Fr. Hyeron. Onuphr. Lector publicus ac Sanctiss. Inquisit. consultor pro reverendiss. P. Mag. Paulo de Garexio Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5001",
+                "RecordID": "022-000000003",
+                "Value": "Barberini,Maffeo,Pope Urban VIII,1568-1644"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5257",
+                "RecordID": "022-000000248",
+                "Value": "Bonomi,Sebastiano,,fl.1613-1623"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52664",
+            "Value": "023-000000284_52664_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

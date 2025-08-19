@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20361",
+        "RecordId": "022-000008083",
+        "Surname": "Borgogni",
+        "Forename": "Gherardo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Borgogna",
+            "AlternativeForename": null
+        },
+        "DateText": "1526-ca.1608",
+        "StartDate": "1526",
+        "EndDate": "ca.1608",
+        "Nationality": {
+            "NationalityId": "385",
+            "Value": "of Monferrato"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

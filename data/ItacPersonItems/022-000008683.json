@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20825",
+        "RecordId": "022-000008683",
+        "Surname": "Farnese",
+        "Forename": "Ranuccio",
+        "PersonalTitle": "Cardinal of Naples",
+        "DateText": "1530-1565",
+        "StartDate": "1530",
+        "EndDate": "1565",
+        "Nationality": {
+            "NationalityId": "104",
+            "Value": "of Viterbo"
+        },
+        "Notes": "See his biographical sketch by Gigliola Fragnito in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

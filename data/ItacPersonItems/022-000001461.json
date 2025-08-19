@@ -1,0 +1,25 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7557",
+        "RecordId": "022-000001461",
+        "Surname": "Giolito De Ferrari e fratelli",
+        "Forename": "Gabriele",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Giovanni Francesco"
+            },
+            {
+                "AlternativeForename": "Facino"
+            }
+        ],
+        "DateText": "fl.1550-1556",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "Z535 | Z539 | A116 | A121 | A118 | V363|U89",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

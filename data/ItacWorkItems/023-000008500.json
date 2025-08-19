@@ -1,0 +1,75 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008500",
+        "WorkId": "000956",
+        "ShortTitle": "Prima parte delle novelle",
+        "ItacAcademyItem": {
+            "AcademyId": "0551",
+            "RecordID": "021-000008268",
+            "Value": "Invaghiti (Accademia degli - Mantova)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "67",
+            "PublicationPlaceItalianName": "Mantova",
+            "PublicationPlaceEnglishName": "Mantua",
+            "PublicationPlaceLatinName": "Mantua"
+        },
+        "PublicationYear": "1585",
+        "DedicationPlaceDate": "Mantua",
+        "Shelfmark": "12470.d.27",
+        "Content": "Novelle; short stories",
+        "Subjects": "Short story (Novella)",
+        "Language": "Italian",
+        "Pagination": "pp. 139",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20376",
+                "RecordID": "022-000008098",
+                "Value": "Mori,Ascanio Pipino de\u2019,,ca. 1532/3-1591"
+            }
+        },
+        "Notes": "The volume includes an essay by De` Mori `A gli illustri signori liei i signori cavalieri invaghiti` (pp. 123-24).",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0551",
+                "RecordID": "021-000008268",
+                "Value": "Invaghiti (Accademia degli - Mantova)"
+            },
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19102",
+                    "RecordID": "022-000006229",
+                    "Value": "Gonzaga,Vincenzo,Duke of Mantua,1562-1612"
+                },
+                {
+                    "PersonId": "20694",
+                    "RecordID": "022-000008501",
+                    "Value": "Cavallara,Giovanni Battista,,16th C.-1587"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20695",
+                "RecordID": "022-000008502",
+                "Value": "Osanna,Francesco,,fl. 1573-1608"
+            }
+        },
+        "PrinterOrnament": "A37 - V96 - Z511",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "A gli illustri signori miei i signori cavalieri invaghiti",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20376",
+                        "RecordID": "022-000008098",
+                        "Value": "Mori,Ascanio Pipino de\u2019,,ca. 1532/3-1591"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15018",
+        "RecordId": "022-000001060",
+        "Surname": "Comite",
+        "Forename": "Orazio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Horatio"
+            },
+            {
+                "AlternativeForename": "Orazio"
+            },
+            {
+                "AlternativeSurname": "Oratio",
+                "AlternativeForename": null
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "112",
+            "Value": "of Benevento"
+        },
+        "Notes": "Oratio Comite was the President of the Incauti Academy in Naples.",
+        "Role": "Author|Contributor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

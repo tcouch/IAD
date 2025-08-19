@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9036",
+        "RecordId": "022-000001626",
+        "Surname": "Leoni",
+        "Forename": "Francesco",
+        "DateText": "1595 - 1681",
+        "StartDate": "1595",
+        "EndDate": "1681",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1619, and was Principe of the Academy in 1633. See Maggiolo (1983)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

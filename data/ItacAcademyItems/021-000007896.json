@@ -1,0 +1,107 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0472",
+        "RecordId": "021-000007896",
+        "Name": "Concordi-Ragusa of Dalmatia (Accademia dei)",
+        "City": {
+            "CityId": "113",
+            "CityItalianName": "Ragusa of Dalmatia",
+            "CityEnglishName": "Ragusa",
+            "CityLatinName": "Ragusa"
+        },
+        "StartDate": "mid16th c.",
+        "DateText": "mid16th c.",
+        "Notes": "On the history and members of this Academy, see Maylender, ad vocem, and Baroni-Bellio, Letteratura dalmata italiana, in Rivista di letteratura italiana, 24, 1, 2006.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18683",
+                "RecordId": "022-000005747",
+                "Name": "Amalteo,Giovanni Battista,,1525-1603",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5112",
+                "RecordId": "022-000000109",
+                "Name": "Tudisi,Natale,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20264",
+                "RecordId": "022-000007899",
+                "Name": "Caboga,Mario,Archdeacon,fl.1540",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5110",
+                "RecordId": "022-000000107",
+                "Name": "Ghetaldi,Luciano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20262",
+                "RecordId": "022-000007897",
+                "Name": "Monaldi,Michele,,1540-1592",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20263",
+                "RecordId": "022-000007898",
+                "Name": "Gu\u010deti\u0107 ,Nikola Vitov,,1549-1610",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5219",
+                "RecordId": "022-000000210",
+                "Name": "Zuzzeri,Flora,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5238",
+                "RecordId": "022-000000230",
+                "Name": "Bona,Giulia,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5277",
+                "RecordId": "022-000000268",
+                "Name": "de Bobali Sordo,Savino,,1530-1585",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9189",
+                "RecordId": "022-000001777",
+                "Name": "Darsa,Marino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5242",
+                "RecordId": "022-000000234",
+                "Name": "Ragnina,Domenico,,1536-1607",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

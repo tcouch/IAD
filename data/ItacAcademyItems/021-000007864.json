@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0461",
+        "RecordId": "021-000007864",
+        "Name": "Uniti Seconda - Venezia (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "before1697",
+        "EndDate": "?",
+        "DateText": "before1697-?",
+        "ItacPersonItem": {
+            "PersonId": "17839",
+            "RecordId": "022-000004749",
+            "Name": "Capello,Paolo,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

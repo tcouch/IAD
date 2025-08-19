@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7377",
+        "RecordId": "022-000000964",
+        "Surname": "Accoramboni",
+        "Forename": "Ottavio",
+        "Gender": "Male",
+        "PersonalTitle": "Bishop of Fossombrone",
+        "DateText": "1539-1625",
+        "StartDate": "1539",
+        "EndDate": "1625",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

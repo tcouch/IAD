@@ -1,0 +1,102 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0350",
+        "RecordId": "021-000007177",
+        "Name": "Angustiati di Murano (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Thermometer",
+        "Motto": "Rigore crescit",
+        "StartDate": "1659",
+        "EndDate": "?; 1664",
+        "DateText": "1659-?; 1664-?",
+        "Notes": "Publications related to the Academy, but not in British Library collections, are: La barbarie del caso, tragedia di Domenico Gisberti. Consacrata a... Cornaro Agostino, Morosini Federico e dall`Academia delli signori angustiati rappresentata in Murano nel 1664 / Musica di Pietro Molinara (In Venetia: Per Francesco Valvasense, 1664); I trionfi di virtuosa bellezza. Giostra triplicata di slitte ordinata, e corsa dalla serenissima Adelaide serenissima principessa real di Sauoia. Elettrice duchessa di Baviera, &c. Descritta, e dedicata all` altezza ... Carlo Emanuele 2. ... da D.G. degl`Angustiati l`Acad. Liberato - [Monaco]: per Giouanni Jaecklino stampatore elettorale, 1668.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19759",
+                "RecordId": "022-000007178",
+                "Name": "Gisberti,Domenico,,1635 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19760",
+                "RecordId": "022-000007179",
+                "Name": "Rota,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19761",
+                "RecordId": "022-000007180",
+                "Name": "Trevisan,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19762",
+                "RecordId": "022-000007181",
+                "Name": "Baris,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19763",
+                "RecordId": "022-000007182",
+                "Name": "Bigaja,Ettore,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19764",
+                "RecordId": "022-000007183",
+                "Name": "Carro,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19765",
+                "RecordId": "022-000007184",
+                "Name": "Giuliani,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19766",
+                "RecordId": "022-000007185",
+                "Name": "Gatteschi,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19767",
+                "RecordId": "022-000007186",
+                "Name": "Schiaonetto,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19768",
+                "RecordId": "022-000007187",
+                "Name": "Vianello,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

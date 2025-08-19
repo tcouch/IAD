@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16193",
+        "RecordId": "022-000002820",
+        "Surname": "Vasa",
+        "Forename": "Christine",
+        "Gender": "Female",
+        "AlternativeName": {
+            "AlternativeSurname": "Vasa",
+            "AlternativeForename": "Cristina"
+        },
+        "PersonalTitle": "Queen of Sweden",
+        "DateText": "1626 - 1689",
+        "StartDate": "1626",
+        "EndDate": "1689",
+        "Nationality": {
+            "NationalityId": "71",
+            "Value": "Swedish"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

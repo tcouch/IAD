@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006051",
+        "WorkId": "000716",
+        "ShortTitle": "De incombustibili lino",
+        "LongTitle": "sive lapide amianto Deque illius filandi moduo Epistolaribus dissertatio ad Reverendissimum Patrem Fr. Bernardum Iosephum A Iesu Maria Commissarium Procuratoremque generalem totius Franciscanae familiae, Terrae Sanctae, in Romana Curia. Ioannis Ciampini Romani Magistri Breviium Gratiae, A C In utraque signatura Referendarij",
+        "ItacAcademyItem": {
+            "AcademyId": "0141",
+            "RecordID": "021-000006038",
+            "Value": "Accademia Fisico-matematica"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1691",
+        "Shelfmark": "B385(3)",
+        "Subjects": "Science",
+        "Language": "Latin",
+        "Pagination": "15",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18936",
+                "RecordID": "022-000006037",
+                "Value": "Ciampini,Giovanni Giustino,,1633 - 1698"
+            }
+        },
+        "Notes": "The book was reviewed in Acta eruditorum 1691 (Lipsiae 1691), p. 401",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16239",
+                    "RecordID": "022-000002883",
+                    "Value": "Menattus,Stephanus Ioseph,Vicar General|Master of the Sacred Palace,? - 1695"
+                },
+                {
+                    "PersonId": "18932",
+                    "RecordID": "022-000006033",
+                    "Value": "Forlani,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "18345",
+                    "RecordID": "022-000005361",
+                    "Value": "Ferrari,Thomas Maria,Cardinal,1649 - 1716"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur Reverendiss. P. Mag. Sac. Apost. pal. S. I. Menattus Episc. Cyren. Vicesg. Imprimatur Fr. Franciscus Maria Forlani Reverendiss. P. Fr. Thomae Mariae Ferrari Sac. Ap. pal. Mag. Soc. Ord. Praed.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18343",
+                "RecordID": "022-000005358",
+                "Value": "Tinassi,Nicolo` Angelo,,1622 - 1699"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54547",
+            "Value": "023-000006051_54547_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

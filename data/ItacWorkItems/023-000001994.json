@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001994",
+        "WorkId": "000284",
+        "ShortTitle": "Academia eroica di cavalieri e dame",
+        "LongTitle": "Del dott. Alfonso Fiornovelli Ferrarese. Segretario dell`Illustrissimo et Reverendissimo Signor Cardinale Bevilacqua et Academico Humorista. Dedicata al Serenissimo signore D Alfonso d`Este Prencipe di Modena",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Umoristi (Accademia degli)"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1626",
+        "Shelfmark": "141ddd14(2)",
+        "Subjects": "Tournament",
+        "Language": "Italian",
+        "Pagination": "71",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20433",
+                "RecordID": "022-000008157",
+                "Value": "Fiornovelli,Alfonso,,17thc."
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20434",
+                "RecordID": "022-000008158",
+                "Value": "d`Este,Alfonso,Duke of Modena,1591-1644"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9657",
+                "RecordID": "022-000001826",
+                "Value": "Deuchino,Evangelista,,c. 1580-c. 1630"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55277",
+            "Value": "023-000001994_55277_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

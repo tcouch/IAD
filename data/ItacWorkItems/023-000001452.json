@@ -1,0 +1,78 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001452",
+        "WorkId": "00180",
+        "ShortTitle": "La Sampogna del Cav. Marino. Parte Seconda.",
+        "LongTitle": "Divisa In Rime Boscareccie.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1643",
+        "DedicationPlaceDate": "Venice 27 September 1626",
+        "Shelfmark": "1063.a.31.",
+        "Content": "Pastoral Poetry | Eclogues",
+        "Subjects": "Poetry",
+        "Language": "Latin|Italian",
+        "Pagination": "Pp. 120",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5605",
+                "RecordID": "022-000000671",
+                "Value": "Marino,Giambattista,,1569-1625"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15006",
+                "RecordID": "022-000001048",
+                "Value": "Zizzae,Prosper Antonius,,"
+            }
+        },
+        "CensorsAgreement": "Con Licenza de` Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15363",
+                "RecordID": "022-000001402",
+                "Value": "Baglioni,Camillo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15362",
+                "RecordID": "022-000001401",
+                "Value": "Scaglia,Giacomo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15364",
+                "RecordID": "022-000001403",
+                "Value": "Tomasini,Christoforo,,"
+            }
+        },
+        "PrinterOrnament": "Mar.te 694",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Per Illustri Equiti. Viroq. Omnigena Sapientia exculto",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15006",
+                        "RecordID": "022-000001048",
+                        "Value": "Zizzae , Prosper Antonius , ,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

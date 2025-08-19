@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19035",
+        "RecordId": "022-000006152",
+        "Surname": "Nappini",
+        "Forename": "Bartolomeo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Napini",
+            "AlternativeForename": null
+        },
+        "DateText": "ca.1634-1717",
+        "StartDate": "ca.1634",
+        "EndDate": "1717",
+        "Nationality": {
+            "NationalityId": "398",
+            "Value": "Petrizzi (Catanzaro)"
+        },
+        "Notes": "See his biography by Saverio Franchi, in DBI",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

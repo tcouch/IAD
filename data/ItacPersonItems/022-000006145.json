@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19029",
+        "RecordId": "022-000006145",
+        "Surname": "Coronelli",
+        "Forename": "Vincenzo",
+        "Gender": "Male",
+        "DateText": "1650-1718",
+        "StartDate": "1650",
+        "EndDate": "1718",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Founder of the Accademia degli Argonauti. See A. De Ferrari, `Coronelli, Vincenzo`, in DBI. On Coronelli`s contribution as an illustrator, see Antonio Sartori, `Vincenzo Coronelli e gli artisti che lavorarono per lui`, in Miscellanea francescana, 51 (1951), p. 376.",
+        "Role": "Author|Editor|Contributor|Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

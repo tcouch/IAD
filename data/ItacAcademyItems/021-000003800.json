@@ -1,0 +1,45 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0062",
+        "RecordId": "021-000003800",
+        "Name": "Incitati (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Horse, unharnessed, with iron balls hanging to beat against its flanks, racing",
+        "Motto": "Dant animos plagae",
+        "StartDate": "c.1581",
+        "EndDate": "1586; 1615",
+        "DateText": "c.1581-1586; 1615-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17000",
+                "RecordId": "022-000003798",
+                "Name": "Rabasco,Ottaviano,,",
+                "Nickname": "L` Assicurato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16316",
+                "RecordId": "022-000002969",
+                "Name": "Frachetta,Girolamo,,1558-1619",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16187",
+                "RecordId": "022-000002812",
+                "Name": "d`Este,Luigi,Bishop of Ferrara,1538 - 1586",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

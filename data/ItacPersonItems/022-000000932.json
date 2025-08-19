@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7345",
+        "RecordId": "022-000000932",
+        "Surname": "Correr",
+        "Forename": "Gregorio",
+        "Gender": "Male",
+        "DateText": "1409-1464",
+        "StartDate": "1409",
+        "EndDate": "1464",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "A pupil of Vittorino da Feltre. Wrote the tragedy `Progne` when he was 18 years old. See his biography by Paolo Preto in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

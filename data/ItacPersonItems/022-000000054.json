@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5052",
+        "RecordId": "022-000000054",
+        "Surname": "Marescotti",
+        "Forename": "Bernardino",
+        "AlternativeName": {
+            "AlternativeSurname": "Mariscotti"
+        },
+        "PersonalTitle": "Count",
+        "DateText": "fl. 1632 - \u20201649",
+        "StartDate": "fl. 1632",
+        "EndDate": "\u20201649",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

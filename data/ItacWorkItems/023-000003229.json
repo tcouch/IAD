@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003229",
+        "WorkId": "000425",
+        "ShortTitle": "Il Turamino",
+        "LongTitle": "ovvero del parlare, e dello scrivere sanese. Del cavaliere Scipion Bargagli",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1602",
+        "Shelfmark": "72.c.15",
+        "Subjects": "Language",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16248",
+                "RecordID": "022-000002896",
+                "Value": "Bargagli,Scipione,,"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16367",
+                "RecordID": "022-000003030",
+                "Value": "Florimi,Matteo,,1580 - 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53357",
+            "Value": "023-000003229_53357_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53360",
+            "Value": "023-000003229_53360_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

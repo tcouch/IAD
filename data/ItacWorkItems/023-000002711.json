@@ -1,0 +1,123 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002711",
+        "WorkId": "000344",
+        "ShortTitle": "Descrittione Dei Luoghi Antiqui Di Napoli E Del Suo Amenissimo Distretto.",
+        "LongTitle": "Per Benedetto Di Falco Napolitano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1568",
+        "DedicationPlaceDate": "1 April 1568",
+        "Shelfmark": "574.a.5.",
+        "Subjects": "History of Naples",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Woodcuts|Emblem of Naples",
+        "Pagination": "Unnumbered pages",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16071",
+                "RecordID": "022-000002653",
+                "Value": "di Falco ,Benedetto,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16081",
+                    "RecordID": "022-000002666",
+                    "Value": "Morera,Scipione,,"
+                },
+                {
+                    "PersonId": "16112",
+                    "RecordID": "022-000002715",
+                    "Value": "Lantoni,Matteo,,"
+                }
+            ]
+        },
+        "Notes": "On the penultimate page the author mentions the the Sireni Academy, the Ardenti Academy and the Incogniti Academy of Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16109",
+                    "RecordID": "022-000002712",
+                    "Value": "Caracciolo,Teofilo,,"
+                },
+                {
+                    "PersonId": "16110",
+                    "RecordID": "022-000002713",
+                    "Value": "Vitalianus,Prosper,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Di nuovo revisto per me Fra Teofilo Caracciolo Ordinis Praedicatorum. Imprimatur. Prosper Vitalianus Vicarius Generalis.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16111",
+                    "RecordID": "022-000002714",
+                    "Value": "Poggiolo,Raimondo ,,"
+                },
+                {
+                    "PersonId": "16071",
+                    "RecordID": "022-000002653",
+                    "Value": "di Falco ,Benedetto,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16112",
+                "RecordID": "022-000002715",
+                "Value": "Lantoni,Matteo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16113",
+                "RecordID": "022-000002716",
+                "Value": "Cancer,Mattio,,"
+            }
+        },
+        "PrinterOrnament": "Edit16 CNCE 17173",
+        "TitlePageImage": {
+            "ImageId": "53508",
+            "Value": "023-000002711_53508_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "A Messer Benedetto de Falco. Napolitano. Astemio de gli Incogniti. Da Napoli.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16081",
+                            "RecordID": "022-000002666",
+                            "Value": "Morera,Scipione,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Molto Magnifico Raimondo Poggiolo.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16112",
+                            "RecordID": "022-000002715",
+                            "Value": "Lantoni,Matteo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

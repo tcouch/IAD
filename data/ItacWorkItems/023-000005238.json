@@ -1,0 +1,92 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005238",
+        "WorkId": "000645",
+        "ShortTitle": "Delle rime piacevoli del Berni, Casa, Mauro, Varchi, Dolce, et altri autori",
+        "LongTitle": "Li quali sopra vari soggetti capricciosi hanno mostrato la bellezza de gl`ingegni loro. Parte prima. Nuovamente stampate con l`aggiunta della quarta parte, et dedicate al Molto Illustre, e virtuosissimo signore Roberto Canonici gentiluomo ferrarese",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0108",
+                "RecordID": "021-000005055",
+                "Value": "Accademia dei Vignaiuoli"
+            },
+            {
+                "AcademyId": "0107",
+                "RecordID": "021-000005041",
+                "Value": "Accademia della Virt\u00f9"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1627",
+        "DedicationPlaceDate": "27 March 1627",
+        "Shelfmark": "239a26",
+        "Subjects": "Burlesque poetry",
+        "Language": "Italian",
+        "Pagination": "180r-v",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18128",
+                "RecordID": "022-000005090",
+                "Value": "Bini,Giovan Francesco,,1480s - 1556"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15134",
+                "RecordID": "022-000001176",
+                "Value": "Baba,Francesco,,"
+            }
+        },
+        "Notes": "In Bini`s biography (Dizionario Biografico degli Italiani) Ballistreri puts `Capitolo primo del Horto` in relation with the Accademia dei Vignaiuoli, and dates it 1535. According to Ballistrieri, Bini addressed the composition to Giulia Gonzaga`s secretary, Gandolfo Porrino. `Capitolo in lode del bicchiere` should be seen in relation with Accademia della Virtu`, and addressed to Giuseppe Cincio.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18247",
+                "RecordID": "022-000005239",
+                "Value": "Canonici,Roberto,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15134",
+                "RecordID": "022-000001176",
+                "Value": "Baba,Francesco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54403",
+            "Value": "023-000005238_54403_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Capitolo primo del `Horto di Tunici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18128",
+                            "RecordID": "022-000005090",
+                            "Value": "Bini,Giovan Francesco,,1480s - 1556"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Capitolo in lode del bicchiere",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18128",
+                            "RecordID": "022-000005090",
+                            "Value": "Bini,Giovan Francesco,,1480s - 1556"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

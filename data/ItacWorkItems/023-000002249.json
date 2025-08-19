@@ -1,0 +1,43 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002249",
+        "WorkId": "000292",
+        "ShortTitle": "Scipionis Gonzagae Cardinalis Commentarium Rerum Suarum",
+        "LongTitle": "Libri Tres. Accessit Liber Quartus paraleipomenon Auctore Josepho marotto Quos Aloisius valentius Gonzaga Card. primum edit et Cajetano fratri inscripsit",
+        "ItacAcademyItem": {
+            "AcademyId": "0025",
+            "RecordID": "021-000002211",
+            "Value": "Accademia degli Eterei"
+        },
+        "Format": "Large 4o",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1791",
+        "Shelfmark": "660.l.20",
+        "Subjects": "Author`s biography",
+        "Language": "Latin",
+        "Illustration": "Engraved plate|Author`s portrait",
+        "Pagination": "pp. 430",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5139",
+                "RecordID": "022-000000135",
+                "Value": "Gonzaga,Scipione,Cardinal,1542-1593"
+            }
+        },
+        "Notes": "The author tells about his decision to create the Accademia degli Eterei, its laws, etc. He also comments on Accademia dei Gelati.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15717",
+                "RecordID": "022-000002250",
+                "Value": "Salomonium,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

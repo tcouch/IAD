@@ -1,0 +1,373 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002888",
+        "WorkId": "000378",
+        "ShortTitle": "Le Lagrime de gl`Illustrati Academici di Casale",
+        "LongTitle": "in Morte dell`Illustrissima et Eccellentissima Madama Margherita Paleologa Duchesse di Mantova, et Marchesana del Monferrato",
+        "ItacAcademyItem": {
+            "AcademyId": "0478",
+            "RecordID": "021-000007907",
+            "Value": "Illustrati (Accademia degli)"
+        },
+        "Format": "Small 4\u00b0",
+        "City": {
+            "CityId": "122",
+            "PublicationPlaceItalianName": "Trino"
+        },
+        "PublicationYear": "1567",
+        "Shelfmark": "1568/6231",
+        "Subjects": "Funeral oration|Funeral poems|Funereal Sonnets|Funereal discourse",
+        "Language": "Italian|Latin|Spanish",
+        "Pagination": "N/A",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9194",
+                    "RecordID": "022-000001773",
+                    "Value": "Guazzo,Stefano,,1530-1593"
+                },
+                {
+                    "PersonId": "16872",
+                    "RecordID": "022-000003639",
+                    "Value": "Magnocavallo,Annibale,,1543-1596"
+                },
+                {
+                    "PersonId": "16521",
+                    "RecordID": "022-000003217",
+                    "Value": "Guasco,Annibale,,1540-1619"
+                },
+                {
+                    "PersonId": "20068",
+                    "RecordID": "022-000007566",
+                    "Value": "Morra,Anselmo,,"
+                },
+                {
+                    "PersonId": "16583",
+                    "RecordID": "022-000003301",
+                    "Value": "De Londo\u00f1o,Sancho,,ca.1515-1569"
+                },
+                {
+                    "PersonId": "16546",
+                    "RecordID": "022-000003253",
+                    "Value": "Sordi,Filiberto,,"
+                },
+                {
+                    "PersonId": "16611",
+                    "RecordID": "022-000003330",
+                    "Value": "Becio,Francesco,,"
+                },
+                {
+                    "PersonId": "16622",
+                    "RecordID": "022-000003341",
+                    "Value": "Pugiella,Francesco,,"
+                },
+                {
+                    "PersonId": "16623",
+                    "RecordID": "022-000003342",
+                    "Value": "Gambara,Gianfrancesco,Cardinal,1533-1587"
+                },
+                {
+                    "PersonId": "16659",
+                    "RecordID": "022-000003387",
+                    "Value": "Pappalardo,Gianfrancesco,,"
+                },
+                {
+                    "PersonId": "9128",
+                    "RecordID": "022-000001735",
+                    "Value": "Bottazzo,Gioan Iacopo,,Early 16th C.-?"
+                },
+                {
+                    "PersonId": "9645",
+                    "RecordID": "022-000001776",
+                    "Value": "Volpe,Giovanni Mattheo,,16th C."
+                },
+                {
+                    "PersonId": "16660",
+                    "RecordID": "022-000003388",
+                    "Value": "Carretto,Giorgio,,"
+                },
+                {
+                    "PersonId": "16731",
+                    "RecordID": "022-000003467",
+                    "Value": "Cavagliate,Giovanni Guglielmo,,"
+                },
+                {
+                    "PersonId": "16823",
+                    "RecordID": "022-000003577",
+                    "Value": "Crova,Teodoro,,"
+                },
+                {
+                    "PersonId": "16820",
+                    "RecordID": "022-000003569",
+                    "Value": "Delli R\u00e8,Stefano,,"
+                },
+                {
+                    "PersonId": "16793",
+                    "RecordID": "022-000003533",
+                    "Value": "Calandra,Silvio,,ca. 1540-1590"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0478",
+                "RecordID": "021-000007907",
+                "Value": "Illustrati (Accademia degli)"
+            },
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20050",
+                    "RecordID": "022-000007546",
+                    "Value": "Paleologa,Margherita,Marchioness of Monferrato|Duchess of Mantua,1510-1566"
+                },
+                {
+                    "PersonId": "6008",
+                    "RecordID": "022-000000739",
+                    "Value": "Gonzaga d`Avalos,Isabella,Marchioness of Pescara,1537-1579"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20354",
+                "RecordID": "022-000008068",
+                "Value": "Giolito De Ferrari,Giovanni Francesco,,fl. 1560 - 1578"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Oratione in morte di Madama Margherita Paleologa, Duchessa di Mantova et Marchesana del Monferrato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9194",
+                            "RecordID": "022-000001773",
+                            "Value": "Guazzo,Stefano,,1530-1593"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Ilustriss. et Eccellentiss. Sig. Donna Isabella Gonzaga d'Avalos, Marchesana di Pescara / Gli Academici Illustrati.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9194",
+                            "RecordID": "022-000001773"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Stefano Guazzo, Elevato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9194",
+                            "RecordID": "022-000001773",
+                            "Value": "Guazzo,Stefano,,1530-1593"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Sig. Marchesana di Pescara",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9194",
+                            "RecordID": "022-000001773",
+                            "Value": "Guazzo,Stefano,,1530-1593"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Guglielmo Cavagliate, Affannato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16731",
+                            "RecordID": "022-000003467",
+                            "Value": "Cavagliate,Giovanni Guglielmo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gio. Francesca Gambera, Temperato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16623",
+                            "RecordID": "022-000003342",
+                            "Value": "Gambara,Gianfrancesco,Cardinal,1533-1587"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Anselmo Morra, Percosso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20068",
+                            "RecordID": "022-000007566",
+                            "Value": "Morra,Anselmo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Annibal Magnocavalli, Acceso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16872",
+                            "RecordID": "022-000003639",
+                            "Value": "Magnocavallo,Annibale,,1543-1596"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Stefano delli R\u00e8, Svegliato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16820",
+                            "RecordID": "022-000003569",
+                            "Value": "Delli R\u00e8,Stefano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gio. Franceso Papalardi, Lieto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16659",
+                            "RecordID": "022-000003387",
+                            "Value": "Pappalardo,Gianfrancesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Cavalier Gio. Giacomo Bottazzo, Pensoso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9128",
+                            "RecordID": "022-000001735",
+                            "Value": "Bottazzo,Gioan Iacopo,,Early 16th C.-?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode Diclos Distrophos ad Illustriss. Isabellam Gonzagam, Piscariae Marchio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9128",
+                            "RecordID": "022-000001735",
+                            "Value": "Bottazzo,Gioan Iacopo,,Early 16th C.-?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Academicos Illustratos",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9128",
+                            "RecordID": "022-000001735",
+                            "Value": "Bottazzo,Gioan Iacopo,,Early 16th C.-?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Theodoro Crova, Assetato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16823",
+                            "RecordID": "022-000003577",
+                            "Value": "Crova,Teodoro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Annibal Guasco, Tenebroso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16521",
+                            "RecordID": "022-000003217",
+                            "Value": "Guasco,Annibale,,1540-1619"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Francesco Becio, Luminoso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16611",
+                            "RecordID": "022-000003330",
+                            "Value": "Becio,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Silvio Calandra, Sollecito",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16793",
+                            "RecordID": "022-000003533",
+                            "Value": "Calandra,Silvio,,ca. 1540-1590"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Don Sanchio di Londogno, Confiado",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16583",
+                            "RecordID": "022-000003301",
+                            "Value": "De Londo\u00f1o,Sancho,,ca.1515-1569"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gio. Matheo Volpe, Aveduto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9645",
+                            "RecordID": "022-000001776",
+                            "Value": "Volpe,Giovanni Mattheo,,16th C."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Giorgio Carretto, Errante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16660",
+                            "RecordID": "022-000003388",
+                            "Value": "Carretto,Giorgio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Filiberto Sordi, Attratto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16546",
+                            "RecordID": "022-000003253",
+                            "Value": "Sordi,Filiberto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Francesco Pugiella, Invaghito",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16622",
+                            "RecordID": "022-000003341",
+                            "Value": "Pugiella,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Consolatorio del Medesimo Pugiella alla Illustriss. et Eccellentiss. Sig. Donna Isabella Gonzaga d'Avalos Marchesana di Pescara",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16622",
+                            "RecordID": "022-000003341",
+                            "Value": "Pugiella,Francesco,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

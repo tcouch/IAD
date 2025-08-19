@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19595",
+        "RecordId": "022-000006947",
+        "Surname": "Mei",
+        "Forename": "Bernardino",
+        "DateText": "1612 - 1676",
+        "StartDate": "1612",
+        "EndDate": "1676",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Joined the Accademia di San Luca in 1658, see A. Pezzo, `Mei, Bernardino`, in DBI.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

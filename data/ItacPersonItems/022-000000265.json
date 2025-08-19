@@ -1,0 +1,31 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5275",
+        "RecordId": "022-000000265",
+        "Surname": "Maccio",
+        "Forename": "Paolo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Macci"
+            },
+            {
+                "AlternativeSurname": "Maccio"
+            },
+            {
+                "AlternativeSurname": "Mazza",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "ca.1570-ca.1638",
+        "StartDate": "ca.1570",
+        "EndDate": "ca.1638",
+        "Nationality": {
+            "NationalityId": "115",
+            "Value": "of Modena"
+        },
+        "Notes": "For his nickname see Colantuono, Guido Reni`s Abduction of Helen (1997) p. 132. For his membership among the Gelati, see Encomia iurisprudentiae solemnia Paulus Maccius Acad. Gelat. In Archigymnasio Bononiae dicebat. Et Illustrissimo D. Augustino Marsilio Senat. dicabat, Cuius aetas Aprilem dediscens in Autumnum praematuruit, Qui acutissimis impulsis aureae nobilitatis, gemmaeq. virtutis calcaribus, Portentorum vtriusq. stadium percurrit, Exindeq. auspicatissimo, anheloq. volatu ad triumphalem non inanis gloriae metam contendit (Bononiae: Typis Clementis Ferronij, 1633)",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

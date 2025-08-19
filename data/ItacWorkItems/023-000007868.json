@@ -1,0 +1,86 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007868",
+        "WorkId": "000880",
+        "ShortTitle": "Almeone Tragedia nova",
+        "LongTitle": "di Vincenzo Giusti da Udine Academico Uranico",
+        "ItacAcademyItem": {
+            "AcademyId": "0462",
+            "RecordID": "021-000007865",
+            "Value": "Accademia degli Uranici"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1588",
+        "DedicationPlaceDate": "De l`Academia nostra Uranica di Venetia il di 21 di Agosto 1588",
+        "Shelfmark": "163a7",
+        "Subjects": "Theatre|Tragedy",
+        "Language": "Italian|Latin",
+        "Pagination": "48r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5023",
+                "RecordID": "022-000000025",
+                "Value": "Giusti,Vincenzo,,1532-1619"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17645",
+                "RecordID": "022-000004539",
+                "Value": "Bratteolo,Iacopo,,mid16th c.-after 1622"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17656",
+                    "RecordID": "022-000004550",
+                    "Value": "Barbaro,Francesco,Archbishop of Tiro|Patriarch of Aquileia,1546-1616"
+                },
+                {
+                    "PersonId": "17640",
+                    "RecordID": "022-000004534",
+                    "Value": "Da Mula,Francesco,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0462",
+                "RecordID": "021-000007865",
+                "Value": "Accademia degli Uranici"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17610",
+                "RecordID": "022-000004504",
+                "Value": "Somasco,Giovanni Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55030",
+            "Value": "023-000007868_55030_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Come l'alma rinchiusa in carnal velo",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "17645",
+                        "RecordID": "022-000004539",
+                        "Value": "Bratteolo,Iacopo,,mid16th c.-after 1622"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

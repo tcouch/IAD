@@ -1,0 +1,75 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0421",
+        "RecordId": "021-000007766",
+        "Name": "Parutiana (Accademia)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1561",
+        "EndDate": "1598",
+        "DateText": "1561-1598",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15749",
+                "RecordId": "022-000002293",
+                "Name": "Morosini,Andrea,,1558-1619",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20216",
+                "RecordId": "022-000007765",
+                "Name": "Paruta,Paolo,,1540-1598",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20217",
+                "RecordId": "022-000007767",
+                "Name": "Mocenigo,Marcantonio,Bishop of Ceneda,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20218",
+                "RecordId": "022-000007768",
+                "Name": "Venier,Maffeo,Archbishop of Corfu`,1550-1586",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9673",
+                "RecordId": "022-000001845",
+                "Name": "Bernardi,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20219",
+                "RecordId": "022-000007769",
+                "Name": "Loredan,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19960",
+                "RecordId": "022-000007419",
+                "Name": "Bembo,Dardi,,?-1633?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

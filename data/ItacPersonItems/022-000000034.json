@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5032",
+        "RecordId": "022-000000034",
+        "Surname": "Zoppio",
+        "Forename": "Melchiorre",
+        "DateText": "1544-1634/7",
+        "StartDate": "1544",
+        "EndDate": "1634",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Founder of the Accademia dei Gelati",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

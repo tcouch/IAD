@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001494",
+        "WorkId": "00115",
+        "ShortTitle": "Vivezze di Flora e Primavera (Canto; Basso; Alto; Basso continuo; Quinto; Tenore)",
+        "LongTitle": "Cantate recitate e concertate con cinque voci nello spinetto o chittarone. Opera XLIV. Di Adriano Banchieri abbate olivetano e capo de concerti nella Florida Accademia di S. Michele in Bosco. Dedicata all`Illustrissimo et rev[erendissi]mo signore il Cardinale Borghese.",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia dei Floridi 1615; dei Filomusi 1622; dei Filaschisi 1633; Filarmonica 1666"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1622",
+        "DedicationPlaceDate": "Venice 1st June 1622",
+        "Shelfmark": "K.8.d.13",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "pp. 21",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7702",
+                "RecordID": "022-000001477",
+                "Value": "Banchieri,Adriano,,1568 - 1634"
+            }
+        },
+        "Notes": "Dedication place is from Venice but a note follows: `San Michele in Bosco dalla Florida Academia`",
+        "CensorsAgreement": "Con privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7703",
+                "RecordID": "022-000001478",
+                "Value": "Borghese-Caffarelli,Scipione,Cardinal,1576 - 1633"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7705",
+                "RecordID": "022-000001480",
+                "Value": "Magni,Bartholomeo,,fl. 1613-43"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

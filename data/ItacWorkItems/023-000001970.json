@@ -1,0 +1,63 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001970",
+        "WorkId": "000279",
+        "ShortTitle": "L`Alceo Favola Pescatoria d`Antonio Ongaro",
+        "LongTitle": "Fatta recitare in Ferrara dall`Illustrissimo S. Enzo Bentivogli mentre la seconda volta era principe dell`Accademia degl` Intrepidi, Con gl`Intramezzi del Sig. Cavalier Batista Guarini. Descritti e dichiarati dall`Arsiccio Accademico Ricreduto. aggiuntici appresso alcuni discorsi del medesimo Arsiccio sopra ciascheduno Intramezzo",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "Ferrara 27 febbraio 1614",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19568",
+                "RecordID": "022-000006856",
+                "Value": "Ongaro,Antonio,,1569 - 1599"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20432",
+                    "RecordID": "022-000008156",
+                    "Value": "Magnanini,Ottavio,,1574-1652"
+                },
+                {
+                    "PersonId": "5146",
+                    "RecordID": "022-000000142",
+                    "Value": "Guarini,Battista,,1538-1612"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20435",
+                "RecordID": "022-000008159",
+                "Value": "Serra,Giacomo,Cardinal,1570-1623"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55271",
+            "Value": "023-000001970_55271_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

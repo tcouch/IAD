@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16872",
+        "RecordId": "022-000003639",
+        "Surname": "Magnocavallo",
+        "Forename": "Annibale",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Magnocaballi"
+            },
+            {
+                "AlternativeSurname": "Magnocavalli"
+            },
+            {
+                "AlternativeForename": "Annibalis"
+            }
+        ],
+        "DateText": "1543-1596",
+        "StartDate": "1543",
+        "EndDate": "1596",
+        "Nationality": {
+            "NationalityId": "370",
+            "Value": "of Casale Monferrato"
+        },
+        "Notes": "For nationality and dates, see Gustavo Mola di Nomaglio, Feudi e nobilt\u00e0 negli stati dei Savoia: materiali, spunti, spigolature bibliografiche per una storia (Turin: Lanzo, 2006), p. 267.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5531",
+        "RecordId": "022-000000528",
+        "Surname": "Fabri",
+        "Forename": "Agostino",
+        "Gender": "Male",
+        "DateText": "fl.1671-1677",
+        "StartDate": "fl.1671",
+        "EndDate": "1677",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "According to Eschinardi, Fabri was the secretary of the Accademia Fisicomatematica, after Toschi.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

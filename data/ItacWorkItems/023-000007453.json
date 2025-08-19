@@ -1,0 +1,37 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007453",
+        "WorkId": "000826",
+        "ShortTitle": "Lettera ai Filaleti",
+        "LongTitle": "Di Timauro Antiate. Della vera storia della Cicloide e della famosissima esperienza dell`argento vivo",
+        "ItacAcademyItem": {
+            "AcademyId": "0373",
+            "RecordID": "021-000007396",
+            "Value": "Accademia dei Filaleti"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1663",
+        "Shelfmark": "538k6(5)",
+        "Language": "Italian",
+        "Pagination": "27",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19993",
+                "RecordID": "022-000007454",
+                "Value": "Dati,Carlo Roberto,,1619 - 1676"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55002",
+            "Value": "023-000007453_55002_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

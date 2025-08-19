@@ -1,0 +1,76 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0439",
+        "RecordId": "021-000007801",
+        "Name": "Riuniti (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "ca.1590",
+        "EndDate": "post1623?",
+        "DateText": "ca.1590-post1623?",
+        "Notes": "According to Maylender, Bonifacio was the founder of the Riuniti Academy. There is no information on this Academy in Gino Benzoni`s biography of Bonifacio, in DBI.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16270",
+                "RecordId": "022-000002921",
+                "Name": "Bonifacio,Giovanni,,1547-1635",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20227",
+                "RecordId": "022-000007802",
+                "Name": "Dolce,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20237",
+                "RecordId": "022-000007817",
+                "Name": "Barbaro,Marco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20236",
+                "RecordId": "022-000007816",
+                "Name": "Contarini,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20235",
+                "RecordId": "022-000007815",
+                "Name": "Badoer,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20232",
+                "RecordId": "022-000007812",
+                "Name": "Legge,Priamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20238",
+                "RecordId": "022-000007818",
+                "Name": "Giustinian,Giorgio,,1572-1629",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

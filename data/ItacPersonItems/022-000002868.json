@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16228",
+        "RecordId": "022-000002868",
+        "Surname": "Barbaro",
+        "Forename": "Daniele Matteo Alvise",
+        "Gender": "Male",
+        "PersonalTitle": "Patriarch of Aquileia",
+        "DateText": "1514-1570",
+        "StartDate": "1514",
+        "EndDate": "1570",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "According to Giuseppe Alberigo, `Barbaro, Daniele`, in DBI, Barbaro played some part in the Accademia della Fama. He was at the centre of an important intellectual network, which included Pietro Aretino. In 1548 he was appointed as ambassador to England.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

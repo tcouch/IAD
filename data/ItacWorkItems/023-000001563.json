@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001563",
+        "WorkId": "00105",
+        "ShortTitle": "Il secondo libro de le lettere di M. Pietro Aretino.",
+        "LongTitle": "Al sacratissimo Re d`Inghilterra",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "57",
+            "PublicationPlaceItalianName": "Parigi",
+            "PublicationPlaceEnglishName": "Paris",
+            "PublicationPlaceLatinName": "Parisium"
+        },
+        "PublicationYear": "1609",
+        "DedicationPlaceDate": "Venice 1 August 1542",
+        "Shelfmark": "677.a.20",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "pp. 326",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9231",
+                "RecordID": "022-000001528",
+                "Value": "Aretino,Pietro,,1492-1556"
+            }
+        },
+        "Notes": "Aretino Congratulates with Orsini for the foundation of the Academy.\nAs for the printer, Bertolo proposes that the books was printed by English typographers who used Wolfe`s material, after his death. See Bertolo, `John Wolfe`, in Rinascimento Italiano davanti alla Riforma (Vecchiarelli, 2004).",
+        "CensorsAgreement": "Con privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9248",
+                "RecordID": "022-000001544",
+                "Value": "Tudor,Henry VIII,King of England,1491-1547"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20254",
+                "RecordID": "022-000007844",
+                "Value": "Wolfe,John,,1548?-1601"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

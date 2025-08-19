@@ -1,0 +1,105 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000288",
+        "WorkId": "00009",
+        "ShortTitle": "Parere di Hercole Mariscotti patricio bolognese",
+        "LongTitle": "se i concetti favolosi si debbano ammettere ne i corpi dell`Imprese problema posto nell`Academia de` Gelati all`istessa illustrissima Academia",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1613",
+        "Shelfmark": "89.k.20",
+        "Subjects": "Emblems|Proverbs",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved plate | Author`s emblem",
+        "Pagination": "First 6 leaves unnumbered; pp. 76; last seven leaves unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5047",
+                "RecordID": "022-000000049",
+                "Value": "Marescotti,Ercole,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5039",
+                    "RecordID": "022-000000041",
+                    "Value": "Campeggi,Ridolfo,Count,1565-1624"
+                },
+                {
+                    "PersonId": "5047",
+                    "RecordID": "022-000000049",
+                    "Value": "Marescotti,Ercole,,"
+                },
+                {
+                    "PersonId": "5063",
+                    "RecordID": "022-000000061",
+                    "Value": "Guardini,Alessandro,,"
+                },
+                {
+                    "PersonId": "5100",
+                    "RecordID": "022-000000097",
+                    "Value": "Abelli,Cesare,,"
+                },
+                {
+                    "PersonId": "5268",
+                    "RecordID": "022-000000258",
+                    "Value": "Carli,Ferrante,,"
+                },
+                {
+                    "PersonId": "5269",
+                    "RecordID": "022-000000259",
+                    "Value": "Crescimbenius,Franciscus,,"
+                },
+                {
+                    "PersonId": "5270",
+                    "RecordID": "022-000000260",
+                    "Value": "de Ranghis,Ioannes Petrus,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "5401",
+                "RecordID": "022-000000222",
+                "Value": "Baldassinus,Marcellus,,"
+            }
+        },
+        "CensorsAgreement": "Don Marcellus Baldass. Pro Illustriss. et Reverendiss. Archiepisc. Bonon. Imprimatur F. Pet. Flor. Vic. S. Off. Bonon.",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            },
+            "ItacPersonItem": {
+                "PersonId": "5047",
+                "RecordID": "022-000000049",
+                "Value": "Marescotti,Ercole,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5248",
+                "RecordID": "022-000000240",
+                "Value": "Rossi,Heredi di Giovanni [Perseo],,\u20201629"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52632",
+            "Value": "023-000000288_52632_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

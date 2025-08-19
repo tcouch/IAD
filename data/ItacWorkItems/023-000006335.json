@@ -1,0 +1,112 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006335",
+        "WorkId": "000749",
+        "ShortTitle": "La Vana Speculazione Disingannata Dal Senso",
+        "LongTitle": "Lettera Risponsiva Circa i Corpi Marini, che Pietrificati si trovano in varij luoghi terrestri. Di Agostino Scilla Pittore Accademico della Fucina, Detto lo Scolorito. Dedicata All`Illustrissimo Signore, il Signor D. Carlo Gregori Marchese di Poggio Gregorio, Cavaliero della Stella",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1670",
+        "DedicationPlaceDate": "Messina 2 June 1670",
+        "Shelfmark": "457.c.29.",
+        "Subjects": "Palentology",
+        "Language": "Italian|Latin",
+        "Illustration": "Plates|Fossils|Plates|Marine fossils",
+        "Pagination": "pp. 216",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18980",
+                "RecordID": "022-000006089",
+                "Value": "Scilla,Agostino,,1629 - 1700"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18131",
+                    "RecordID": "022-000005093",
+                    "Value": "Fardella,Tommaso,,? - 1690s"
+                },
+                {
+                    "PersonId": "18862",
+                    "RecordID": "022-000005946",
+                    "Value": "Errico,Pietro,,"
+                },
+                {
+                    "PersonId": "18139",
+                    "RecordID": "022-000005102",
+                    "Value": "di Natale,Giovanni,,1642 - ?"
+                }
+            ]
+        },
+        "Notes": "For a Latin translation of Agostino Scilla`s La vana speculazione see De Corporibus Marinis Lapidiscentibus Quae defossa Reperiuntur Auctore Augustino Scilla Addita Dissertatione Fabii Columnae De Glossopetris Editio Altera Emendatior, Rome, 1752, (BL Shelfmark: 547.d.3.). \nFor a modern edition of Agostino Scilla`s La vana speculazione see Nicoletta Morello, La nascita della paleontologia nel Seicento. Colonna, Stenone e Scilla, Milan, 1979, (BL Shelfmark: X.329/14906)",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18778",
+                "RecordID": "022-000005847",
+                "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18908",
+                "RecordID": "022-000006006",
+                "Value": "Colicchia,Andrea,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54673",
+            "Value": "023-000006335_54673_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54674",
+            "Value": "023-000006335_54674_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Elogiaca operis Censura, qua Felicitatem Nominis Auspicatur Authori D. Thomasi Fardella V.I.D. Literarius Mamertinae Officinae Faber, ac in Almo Messan. Gymnasio Ordinarius Eloquentiae Professor",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18131",
+                            "RecordID": "022-000005093",
+                            "Value": "Fardella,Tommaso,,? - 1690s"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Petri Henrici Siculi Mamertini Ad Operis Detractores Hexastichon",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18862",
+                            "RecordID": "022-000005946",
+                            "Value": "Errico,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto Del Sig. Dott. Giovanni Di Natale, Accademico della Fucina, detto il Sicuro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18139",
+                            "RecordID": "022-000005102",
+                            "Value": "di Natale,Giovanni,,1642 - ?"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

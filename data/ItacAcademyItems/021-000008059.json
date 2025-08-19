@@ -1,0 +1,38 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0527",
+        "RecordId": "021-000008059",
+        "Name": "Partenia (Accademia)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "EmblemDescription": "Bees sucking pollen from flowers in a garden",
+        "Motto": "Labor omnibus uno",
+        "StartDate": "1588",
+        "EndDate": "?",
+        "DateText": "1588-?",
+        "Notes": "Publications related to the history of this Academy, but not in British Library collections, include: \nIn obitu Fabricii Gentinii, & Ioannis Prampolini e` congregatione Ferrariensi Beatissimae Virginis Dei Matris Annunciatae, et academicorum Partheniorum, in gymnasio societatis Iesu: Academiae Partheniae carmina (Ferrariae: apud Benedictum Mamarellum, 1590)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20586",
+                "RecordId": "022-000008340",
+                "Name": "Gentini,Fabricius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20587",
+                "RecordId": "022-000008341",
+                "Name": "Prampolini,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

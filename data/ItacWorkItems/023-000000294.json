@@ -1,0 +1,133 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000294",
+        "WorkId": "00015",
+        "ShortTitle": "Filarmindo favola pastorale",
+        "LongTitle": "del conte Ridolfo Campeggi",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            },
+            {
+                "AcademyId": "0011",
+                "RecordID": "021-000000779",
+                "Value": "Accademia dei Selvaggi"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1607",
+        "Shelfmark": "839.a.14 | 638.a.29",
+        "Subjects": "Pastoral tale",
+        "Language": "Italian",
+        "Illustration": "Engraved plates | Scenes from the tale",
+        "Pagination": "189",
+        "Marginalia": "No",
+        "Edition": "4th printing",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5039",
+                "RecordID": "022-000000041",
+                "Value": "Campeggi,Ridolfo,Count,1565 - 1624"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5018",
+                    "RecordID": "022-000000020",
+                    "Value": "Rabbia,Raffaele,,"
+                },
+                {
+                    "PersonId": "5030",
+                    "RecordID": "022-000000032",
+                    "Value": "Maurizzi,Giovanni Battista,,1550? - 1635"
+                },
+                {
+                    "PersonId": "5032",
+                    "RecordID": "022-000000034",
+                    "Value": "Zoppio,Melchiorre,,1544-1634/7"
+                },
+                {
+                    "PersonId": "5034",
+                    "RecordID": "022-000000036",
+                    "Value": "Faberi,Lucio,,1550s - 1610"
+                },
+                {
+                    "PersonId": "5036",
+                    "RecordID": "022-000000038",
+                    "Value": "Caccianemici,Francesco Maria,,1567 - ?"
+                },
+                {
+                    "PersonId": "5089",
+                    "RecordID": "022-000000086",
+                    "Value": "Achillini,Claudio,,1574 -1 640"
+                },
+                {
+                    "PersonId": "5100",
+                    "RecordID": "022-000000097",
+                    "Value": "Abelli,Cesare,,fl. 1590? - \u20201683"
+                },
+                {
+                    "PersonId": "5116",
+                    "RecordID": "022-000000113",
+                    "Value": "Capponi,Giovanni,,1586 - 1629"
+                },
+                {
+                    "PersonId": "5263",
+                    "RecordID": "022-000000253",
+                    "Value": "Rinaldi,Cesare,,1559 - 1636"
+                },
+                {
+                    "PersonId": "5264",
+                    "RecordID": "022-000000254",
+                    "Value": "Calderoni,Alessandro,,1560-1618"
+                },
+                {
+                    "PersonId": "5265",
+                    "RecordID": "022-000000255",
+                    "Value": "De Monti,Gregorio,,"
+                },
+                {
+                    "PersonId": "5266",
+                    "RecordID": "022-000000256",
+                    "Value": "Arrighi,Lorenzo,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "5254",
+                "RecordID": "022-000000245",
+                "Value": "Perlasca,Simone,,"
+            }
+        },
+        "Notes": "Capponi, Rabbia, and Abelli sign with their nicknames as Selvaggi. Faberio, Mauritio, Caccianemici, and Zoppio sign with their nicknames as Gelati.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5002",
+                "RecordID": "022-000000004",
+                "Value": "Facchinetti,Giovanni Antonio (Jr.),Cardinal,1575 - 1606"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5278",
+                "RecordID": "022-000000267",
+                "Value": "Valesio,Giovanni,,1561 - 1640"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54864",
+            "Value": "023-000000294_54864_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000370",
+        "WorkId": "00032",
+        "ShortTitle": "La selva poetica",
+        "LongTitle": "Sonetti di Giovanni Leone Sempronio Urbinate nella Notte di Bologna il Vigilante e negli Assorditi di Urbino Il Fuggitivo. Aggiuntovi in questa nuova editione la seconda parte. All`Illustrissimo signore il Signor Carlo Francesco Marsili",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0002",
+                "RecordID": "021-000000312",
+                "Value": "Accademia della Notte"
+            },
+            {
+                "AcademyId": "0003",
+                "RecordID": "021-000000313",
+                "Value": "Academia degli Assorditi di Urbino"
+            },
+            {
+                "AcademyId": "0004",
+                "RecordID": "021-000000314",
+                "Value": "Academia degli Agiati di Rimini"
+            },
+            {
+                "AcademyId": "0115",
+                "RecordID": "021-000005287",
+                "Value": "Accademia I Desiosi"
+            }
+        ],
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1648",
+        "DedicationPlaceDate": "Bologna 12 March 1648",
+        "Shelfmark": "11429.aa.44.(2)",
+        "Subjects": "Love sonnets|Heroic sonnets|Sacred sonnets|Funereal Sonnets",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page | The poet in a wood",
+        "Pagination": "429",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5285",
+                "RecordID": "022-000000333",
+                "Value": "Sempronio,Giovanni Leone,,ca. 1603-1646"
+            }
+        },
+        "Notes": "In the dedication to the reader: `Disoccupato lettore. Furono composti dall`autore nella sua giovent\u00f9 questi pochi sonetti pi\u00f9 per ricreatione che per istudio; pi\u00f9 per passatempo che per professione; pi\u00f9 per servir altri che per lusingar s\u00e9 medesimo. Tu ancora se ti giungono giammai alle mani non v`impiegar l`ingegno ma l`occhio; non vi spender il tempo ma l`otio; non vi coglier la spina ma la rosa. Spine forse ti potrebbon parere a prima vista le voci Fato Destino Sorte Fortuna Dea Paradiso Idolo Adorare Consacrare Nume Gloria Semideo Beato e simili; ma se le riguarderai con occhio sincero elle ti riusciranno anzi Rose di Poesia che spine d`infedelt\u00e0. Usolle l`Autore per adornar le compositioni poetiche non per offender l`orecchie cattoliche. Cos\u00ec si dichiara cos\u00ec si afferma cos\u00ec si protesta. Che per\u00f2 per Beato intenderai Huomo fortunato e felice; per Semideo Persona nobile e valorosa; per Gloria contentezza inesplicabile e smisurata; per Nume Maest\u00e0 venerabile ed horrevole; per consacrare dedicar con prontezza e con affetto; per adorare honorar con riverenza e con tenerezza; per Idolo cosa amata con ossequio e con humilt\u00e0; per Paradiso luogo delitioso ed ameno; per Dea donna bellissima e gentile e per Sorte Fortuna Fato e Destino la serie delle seconde cagioni ministre della divina Provvidenza. Egli si gloria vie pi\u00f9 molto di salir` il Calvario che `l Parnaso e professa senz`alcun paragone d`esser molto pi\u00f9 spirituale Christiano che spiritoso Poeta. Credilo e vivi felice.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5016",
+                    "RecordID": "022-000000018",
+                    "Value": "Bombaci,Gasparo,Count,1607-1676"
+                },
+                {
+                    "PersonId": "5303",
+                    "RecordID": "022-000000351",
+                    "Value": "Ledesma,Alexius,,"
+                },
+                {
+                    "PersonId": "5304",
+                    "RecordID": "022-000000352",
+                    "Value": "de Manfredis,Dominicus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Gasparo Bombaci d`ordine dell`Eminentissimo signor cardinale Arcivescovo. Vidit D. Alexius Ledesma Penit. Pro eminentiss. Et reverendiss. Card. Archiep. Vidit Dominicus de Manfredis pro Reverendissimo P. Inq. Bonon. Imprimatur Vicarius S. Officii Bonon.",
+        "Dedicatees": {
+            "ItacAcademyItem": [
+                {
+                    "AcademyId": "0002",
+                    "RecordID": "021-000000312",
+                    "Value": "Accademia della Notte"
+                },
+                {
+                    "AcademyId": "0004",
+                    "RecordID": "021-000000314",
+                    "Value": "Academia degli Agiati di Rimini"
+                },
+                {
+                    "AcademyId": "0115",
+                    "RecordID": "021-000005287",
+                    "Value": "Accademia I Desiosi"
+                }
+            ],
+            "ItacPersonItem": {
+                "PersonId": "5302",
+                "RecordID": "022-000000350",
+                "Value": "Marsili,Carlo Francesco,,"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0003",
+                "RecordID": "021-000000313",
+                "Value": "Academia degli Assorditi di Urbino"
+            },
+            "ItacPersonItem": {
+                "PersonId": "5312",
+                "RecordID": "022-000000365",
+                "Value": "Zenero,Carlo,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5276",
+                "RecordID": "022-000000266",
+                "Value": "Coriolano,Giovanni Battista,,c. 1579-1649"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5312",
+                "RecordID": "022-000000365",
+                "Value": "Zenero,Carlo,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52695",
+            "Value": "023-000000370_52695_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

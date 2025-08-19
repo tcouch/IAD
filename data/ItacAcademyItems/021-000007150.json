@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0343",
+        "RecordId": "021-000007150",
+        "Name": "Acuti (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Sun on which are fixed the eyes of two eagles",
+        "StartDate": "1620",
+        "EndDate": "?",
+        "DateText": "1620-?",
+        "Notes": "Patrons of the Acuti Academy were Procuratori di San Marco d`Ultra. the Academy used to meet in the convent of Niccolo` de` Frari. See Michele Battigia, Delle Accademie veneziane (1826).",
+        "ItacPersonItem": {
+            "PersonId": "19739",
+            "RecordId": "022-000007151",
+            "Name": "Ferrari,Antonio,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5092",
+        "RecordId": "022-000000089",
+        "Surname": "Cospi",
+        "Forename": "Ferdinando",
+        "Gender": "Male",
+        "PersonalTitle": "Senator",
+        "DateText": "1606-1686",
+        "StartDate": "1606",
+        "EndDate": "1686",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Antique and curiosities collector. Before dying, he bequeathed his collection to the Bolognese Senate, and it now forms part of the Museo Civico. During his life, Cospi worked as the agent for Florentine authorities in Bologna. For more details, see his biography by Franca Petrucci in DBI.",
+        "Role": "Editor|Contributor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005031",
+        "WorkId": "000616",
+        "ShortTitle": "Avviso Dell`Incendio Del Vesuvio.",
+        "LongTitle": "Composto Dal P. Giulio Cesare Recupito Napolitano Della Compagnia di Gies\u00f9. Tradotto Dalla Lingua Latina all`Italiana Ad istanza Dell`Ill.mi Principe & Academici Otiosi.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1635",
+        "DedicationPlaceDate": "Naples 7 April 1635",
+        "Shelfmark": "662.a.20.",
+        "Subjects": "Mount Vesuvius",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 268",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17642",
+                "RecordID": "022-000004536",
+                "Value": "Recupito,Giulio Cesare,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "15123",
+                "RecordID": "022-000001164",
+                "Value": "Tamburellus,Felix,General Vicar,"
+            }
+        },
+        "CensorsAgreement": "Imprimatur\nFelix Tamburel. Vicar. Gener.\nIo. Vinc. Iuvenis Cimiliareha Canon. dep.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5099",
+                "RecordID": "022-000000096",
+                "Value": "Barberini,Francesco,Cardinal,1597-1679"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16933",
+                "RecordID": "022-000003717",
+                "Value": "Longo,Egidio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54529",
+            "Value": "023-000005031_54529_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

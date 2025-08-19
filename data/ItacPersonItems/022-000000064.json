@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5067",
+        "RecordId": "022-000000064",
+        "Surname": "Lando",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "PersonalTitle": "Archbishop of Candia",
+        "DateText": "1548?-1576?",
+        "StartDate": "1548?",
+        "EndDate": "1576?",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000304",
+        "WorkId": "00025",
+        "ShortTitle": "Epistole familiari. Poesie",
+        "LongTitle": "di Don Antonio Muscettola dedicate all`Illustrissima et eccellentissima signora donna Leonora Loffredi principessa di Valle",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1678",
+        "Shelfmark": "RB.23.a.16747",
+        "Subjects": "Epistles in poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved flyleaf | | Woodcut typographic ornament | A siren",
+        "Pagination": "First 4 pages unnumbered; 22 pages numbered from 277 to 284. Then pp. 295",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5162",
+                "RecordID": "022-000000157",
+                "Value": "Muscettola,Antonio,,1628 - 1679"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5272",
+                "RecordID": "022-000000262",
+                "Value": "Trincherij,Andreae,,"
+            }
+        },
+        "Notes": "Typographic ornament has the motto Non sempre nuoce. See Zappella vol. I p. 346 for interpretation. Dedication signed by the editor as Floriano Apolide.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5236",
+                    "RecordID": "022-000000228",
+                    "Value": "Iameus,Dominicus,,"
+                },
+                {
+                    "PersonId": "5237",
+                    "RecordID": "022-000000229",
+                    "Value": "Imperialis,Ioseph.,,"
+                },
+                {
+                    "PersonId": "5238",
+                    "RecordID": "022-000000230",
+                    "Value": "Buragna,Carolus,,"
+                },
+                {
+                    "PersonId": "5239",
+                    "RecordID": "022-000000231",
+                    "Value": "Galeota,,,"
+                },
+                {
+                    "PersonId": "5240",
+                    "RecordID": "022-000000232",
+                    "Value": "Carrillo,,,"
+                },
+                {
+                    "PersonId": "5241",
+                    "RecordID": "022-000000233",
+                    "Value": "Cala,,,"
+                },
+                {
+                    "PersonId": "5243",
+                    "RecordID": "022-000000235",
+                    "Value": "Villanus,,,"
+                },
+                {
+                    "PersonId": "5267",
+                    "RecordID": "022-000000257",
+                    "Value": "Scanegata,Fr.,,"
+                },
+                {
+                    "PersonId": "15199",
+                    "RecordID": "022-000001241",
+                    "Value": "Soria,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "In congregatione habita. De mandato eminentissimi Domini Cardinalis Caraccioli Archiepiscopi Neapolitani sub 18. Ianuarii 1677 fuit dictum quod Rev. P. Dominicus Iameo Soc. Ies. Revideat et in scriptis referat eidem Congregationi. Fr. Scanegata Vic. Gen. Ioseph Imperialis S. I. Theol. emin. Eminentiss. Princeps Librum qui inscribitur Epistolae Familiari Poesie di D. Antonio Muscettola; Iussu Emin. tuae perlegi; neque in eo quicquam offendi quod aut bonis moribus aut Orthodoxae fidei refragetur. Quo circa vim acrem ingenii Eruditionis specimen ac Poeseos elegantiam in eo commendans Typis non fine laude mandari posse existimo si ita Emin. Tuae videbitur. Neap. 16 Nov. 1677. Emin. Tuae. Addict et omni offcio devinctiss. Famulus. Dominicus Iamanus e Soc. Iesu. In Congregatione habita coram Eminentissimo Cardinali Caracciolo Archiepiscopo Neapolitano sub die 2 Mensis Decembris 1677 fuit dictum quod stante relatione P. Dominici Iamaei Soc. Ies. Revisoris Imprimatur. Fr. Scanegata Vic. Gen. Ioseph Imperialis Soc. Iesu Theolog. Emin. ECCELLENTISSIMO SIGNORE. Antonio Bulifon supplicante espone a V. E. come desidera dar a le stampe un libro intitolato Epistole Familiari Poesie del signor D. Antonio Muscettola percio` supplica V. E. per le solite Regie licenze. Ut Deus et c. Die Ianuarii 1677 Mag. I.V.D. Don Carolus Buragna videat et referat in scriptis S. E. Galeota Reg. Carrillo Reg. Cala Reg. Soria Reg. Provisum per S. Exc. Neap. die 18 Ian. 1677 Villanus. ECCELLENTISSIMO SIGNORE Ho lette d`ordine di V. E. l`Epistole Familiari Poesie di D. Antonio Muscettola e non solamente non ritrovo in quelle nulla di repugnante alla R. giurisdittione ma non v`ha cosa che non sia per riuscire d`utile e di diletto et particolarmente agl`Intendenti della Poesia Italiana e pero` le reputo da esser date alle stampe; ove cosi` piaccia all`Ecc. V. alla quale fo la dovuta iverenza. Nap. a 15 Novembre 1677. Divotiss. Serv. Carlo Buragna. Ulsa retroscripta relazione Imprimatur verum tempore publicationis servetur regia Pragmatica. Galeota Reg. Varrillo Reg. Valero Reg. Cala` Reg. Soria Reg. Provisum per S. E. Neapoli die 15 Februari 1677. Villanus",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5162",
+                    "RecordID": "022-000000157",
+                    "Value": "Muscettola,Antonio,,1628 - 1679"
+                },
+                {
+                    "PersonId": "5220",
+                    "RecordID": "022-000000211",
+                    "Value": "Loffredi,Leonora,Princess,"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5200",
+                "RecordID": "022-000000194",
+                "Value": "Portio,Aniello,,fl. 1686-1707"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5260",
+                "RecordID": "022-000000251",
+                "Value": "Bulifon,Antonio,,1649-c. 1700"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "54536",
+            "Value": "023-000000304_54536_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Illustrissimo domino don Antonio Muscettolae. In responsionem suae epistolae italico sermone conscripta. Petri Andreae Trincherij I. C. et lectoris Varo-Niceni; Academici Gelati",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "5272",
+                        "RecordID": "022-000000262",
+                        "Value": "Trincherij, Andreae, ,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001997",
+        "WorkId": "000285",
+        "ShortTitle": "Giuditio sopra la tragedia Canace",
+        "LongTitle": "Giuditio sopra la tragedia di Canace et Macareo, con molte utili considerationi circa l`arte tragica et di altri poemi con la Tragedia appresso. Tragedia di Messer Sperone Speroni, nobile padovano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "60",
+            "PublicationPlaceItalianName": "Lucca",
+            "PublicationPlaceEnglishName": "Lucca",
+            "PublicationPlaceLatinName": "Luccae"
+        },
+        "PublicationYear": "1550",
+        "DedicationPlaceDate": "`Giuditio` 1 July 1543",
+        "Shelfmark": "11715.aa.51",
+        "Subjects": "Literary criticism|Theatre",
+        "Language": "Italian",
+        "Pagination": "pp. 96",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15473",
+                    "RecordID": "022-000001998",
+                    "Value": "Giraldi Cinzio,Giambattista,,1504-1573"
+                },
+                {
+                    "PersonId": "9230",
+                    "RecordID": "022-000001527",
+                    "Value": "Speroni degli Alvarotti,Sperone,,1500-1588"
+                }
+            ]
+        },
+        "Notes": "Christina Roaf proposed Giambattista Giraldi Cinzio as the author of `Giuditio`. See `Sperone Speroni, Canace e scritti in sua difesa. Giambattista Giraldi Cinzio, Scritti contro la Canace. Giudizio ed Epistola latina`, ed. Christina Roaf (Bologna, 1982). Other catalogues attribute the `Giuditio` to Bartolomeo Cavalcanti.\n\nAs the author completed his work, `Canace` was presented to the judgement of the Infiammati. See Speroni, `Apologia`, and `Lezioni`, ed. Christina Roaf (1982), pp. 118, 221.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15474",
+                "RecordID": "022-000001999",
+                "Value": "Busdrago,Vincentio,,1516-1601"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15474",
+                "RecordID": "022-000001999",
+                "Value": "Busdrago,Vincentio,,1516-1601"
+            }
+        },
+        "PrinterOrnament": "U665",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9001",
+        "RecordId": "022-000001573",
+        "Surname": "Oddo (o Degli Oddi)",
+        "Forename": "Sforza",
+        "Gender": "Male",
+        "DateText": "1540-1611",
+        "StartDate": "1540",
+        "EndDate": "1611",
+        "Nationality": {
+            "NationalityId": "221",
+            "Value": "of Perugia"
+        },
+        "Notes": "Sforza obtained a degree in law and taught in the Universities of Perugia, Macerata, Pisa, Pavia, Padova and Parma. He wrote several comedies in his youth. Joined the Ricovrati in 1599. In the Academy, he improvised `un`attione` between one concert and the next. See Giornale A for more details.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

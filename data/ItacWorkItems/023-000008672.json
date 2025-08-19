@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008672",
+        "WorkId": "000992",
+        "ShortTitle": "Procura  D. Ioannis Baduarii in D. Iustinianum Baduarium",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "DedicationPlaceDate": "30 March 1560",
+        "Shelfmark": "John Rylands Lirbary Aldine Collection 629",
+        "Language": "Latin",
+        "Pagination": "3 leaves",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20809",
+                    "RecordID": "022-000008659",
+                    "Value": "Bianco,Carlo,,"
+                },
+                {
+                    "PersonId": "20821",
+                    "RecordID": "022-000008675",
+                    "Value": "Celega,Io. Maria,,"
+                },
+                {
+                    "PersonId": "20819",
+                    "RecordID": "022-000008673",
+                    "Value": "Pomerano,Francesco,,"
+                },
+                {
+                    "PersonId": "20820",
+                    "RecordID": "022-000008674",
+                    "Value": "van Lare,Petrus,,"
+                },
+                {
+                    "PersonId": "20822",
+                    "RecordID": "022-000008676",
+                    "Value": "Vermaideu,Io Iob.,,"
+                },
+                {
+                    "PersonId": "20823",
+                    "RecordID": "022-000008677",
+                    "Value": "de Vechiis,Victor,,"
+                }
+            ]
+        },
+        "Notes": "Details of people`s names and activities: `Petrus van Lare alias de Lovanio publicus sacra Apostolica et Imperiali auctoritatibus notarius admissus Antuerpiae residens...; Io Iob Vermaideu merchadante fiamengo fazo fede qualmente so[prascritto?] P. Van Lare notarius imperialis. 1560 Die 30 Martii. Victor de Vechiis Duc. Not. et Capsa cancell. recognovit. praditto [sic!] Pietro Van Lare e` nodaro in Anversa. Io Francesco Pomerano merchante fiamengo fo fede come il sopra ditto M. Pietro Van Lare e` nodaro publico in Anversa`. 1560 Die 30 mensis Martii recepte penes notarium banchi de Pisanis, et Theupoli. Io Maria Celega not. recepta in bancho Dolfin v. i. recepta in Bancho Fuscareno insieme con il ponto dell`instromento de la compagnia dela ditta Academia, che il Magn M. Zuanne e ditta e cassa de ditta Academia. Caro Blan. Not.`",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

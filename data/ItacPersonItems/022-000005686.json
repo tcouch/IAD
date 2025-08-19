@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18632",
+        "RecordId": "022-000005686",
+        "Surname": "lo Scavuzzo",
+        "Forename": "Luigi",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Lu Scavuzzu Luisi"
+            },
+            {
+                "AlternativeSurname": "lo Scavuzzo",
+                "AlternativeForename": "Aloysius"
+            }
+        ],
+        "DateText": "? - 1688",
+        "StartDate": "?",
+        "EndDate": "1688",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "Not recorded by Maylender as a member of the Riaccesi Academy in Palermo and the Oziosi Academy in Naples.\nFor a biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 20-21 (BL Shelfmark:610.m.10.)",
+        "Role": "Contributor|Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

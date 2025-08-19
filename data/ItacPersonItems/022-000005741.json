@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18677",
+        "RecordId": "022-000005741",
+        "Surname": "Dolfin",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Delfino"
+        },
+        "PersonalTitle": "Bishop of Torcello",
+        "DateText": "1529-1584",
+        "StartDate": "1529",
+        "EndDate": "1584",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

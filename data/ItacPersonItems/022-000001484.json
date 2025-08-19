@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7709",
+        "RecordId": "022-000001484",
+        "Surname": "Monteverdi",
+        "Forename": "Claudio Gian Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Monteverde"
+        },
+        "DateText": "1567-1643",
+        "StartDate": "1567",
+        "EndDate": "1643",
+        "Nationality": {
+            "NationalityId": "99",
+            "Value": "of Cremona"
+        },
+        "Notes": "For his association with the Filomusi see Vecchi `Una seduta dei Filomusi a Bologna e Il ``Virtuoso ritrovo academico`` di A. Banchieri` in Chigiana n. s. 5 vol. 25 (1968). In 1602, the Bolognese Floridi Academy honoured Monteverdi`s presence in town with a special meeting. See his biography by Paolo Fabbri in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

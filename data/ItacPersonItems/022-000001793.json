@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9309",
+        "RecordId": "022-000001793",
+        "Surname": "Lambeck",
+        "Forename": "Peter",
+        "AlternativeName": {
+            "AlternativeSurname": "Lambecio",
+            "AlternativeForename": null
+        },
+        "DateText": "1628 - 1680",
+        "StartDate": "1628",
+        "EndDate": "1680",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Joined the Ricovrati in 1678. Historiographer and librarian to the Emperor.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

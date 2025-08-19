@@ -1,0 +1,97 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002705",
+        "WorkId": "000338",
+        "ShortTitle": "Descrittione De I luoghi Antichi Di Napoli E Del Suo Distretto",
+        "LongTitle": "Per Benedetto Di Falco Napolitano",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "Shelfmark": "662.a.12.",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Woodcut|Emblem of Naples",
+        "Pagination": "unnumbered pages",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16071",
+                "RecordID": "022-000002653",
+                "Value": "di Falco ,Benedetto,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16099",
+                    "RecordID": "022-000002688",
+                    "Value": "Lega ,Giovanni Dominico,,"
+                },
+                {
+                    "PersonId": "16081",
+                    "RecordID": "022-000002666",
+                    "Value": "Morera,Scipione,,"
+                }
+            ]
+        },
+        "Notes": "On the last three pages the author mentions the Sireni Academy, the Ardenti Academy and the Incogniti Academy of Naples\nThe colophon contains MS notes in Latin and Italian",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16082",
+                "RecordID": "022-000002667",
+                "Value": "Curz,Lionardo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16107",
+                "RecordID": "022-000002702",
+                "Value": "Suganappo,Giovanni Paolo,,"
+            }
+        },
+        "PrinterOrnament": "A3 - V135 - Z410",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Molto Magnifico E Virtuoso Giovane Il S. Leonardo Curz Alemano. Benedetto de Falco da Napoli. S.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16071",
+                            "RecordID": "022-000002653",
+                            "Value": "di Falco ,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto. Al Signor Leonardo Curz Alemano. Parthenio de gli Incogniti. Da Napoli.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16099",
+                            "RecordID": "022-000002688",
+                            "Value": "Lega ,Giovanni Dominico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto. A Messer Benedetto de Falco. Napolitano. Astemio de gli Incogniti. Da Napoli.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16081",
+                            "RecordID": "022-000002666",
+                            "Value": "Morera,Scipione,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

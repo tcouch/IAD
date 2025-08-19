@@ -1,0 +1,37 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0094",
+        "RecordId": "021-000004774",
+        "Name": "Spensierati (Accademia degli)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "EmblemDescription": "Young man dressed as a woman and a pyramid on his head",
+        "Motto": "Quid ad me",
+        "StartDate": "ca1598",
+        "EndDate": "post1650?",
+        "DateText": "ca1598-post1650?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5263",
+                "RecordId": "022-000000253",
+                "Name": "Rinaldi,Cesare,,",
+                "Nickname": "il Neghittoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5037",
+                "RecordId": "022-000000039",
+                "Name": "Coradino,Nicol\u00f2,,1573 - 1624",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

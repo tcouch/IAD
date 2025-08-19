@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15381",
+        "RecordId": "022-000001874",
+        "Surname": "Ximenez Samaniego",
+        "Forename": "Ioseph",
+        "AlternativeName": {
+            "AlternativeSurname": "Jimenez",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Bishop of Placentia",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Censor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19233",
+        "RecordId": "022-000006411",
+        "Surname": "Salusbury",
+        "Forename": "Thomas",
+        "DateText": "?-1665/6",
+        "StartDate": "?",
+        "EndDate": "1665/6",
+        "Nationality": {
+            "NationalityId": "68",
+            "Value": "English"
+        },
+        "Notes": "On Salusbury, see Nick Wilding, `The return of Thomas Salusbury`s Life of Galileo (1664)`, in The British Journal for the History of Science, vol.41 (2008), 241-265.",
+        "Role": "Editor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

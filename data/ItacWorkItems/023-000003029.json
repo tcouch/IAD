@@ -1,0 +1,60 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003029",
+        "WorkId": "000391",
+        "ShortTitle": "La pellegrina",
+        "LongTitle": "Commedia di M. Girolamo Bargagli Materiale Intronato: rappresentata nelle felicissime nozze del Sereniss. Don Ferdinando de` Medici Granduca di Toscana, e della Serenissima madama Cristiana di Loreno sua consorte. Nuovamente dal suo vero originale con ogni maggior diligentia ristampata.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1605",
+        "DedicationPlaceDate": "Siena, 18 September 1589",
+        "Shelfmark": "638.a.20",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Illustration": "Woodcut|Academy emblem",
+        "Pagination": "156",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16272",
+                "RecordID": "022-000002924",
+                "Value": "Bargagli,Girolamo,,"
+            }
+        },
+        "Notes": "Lo Stampatore a` lettori. La mancanza in tutto, non e` oggi, ch\u2019avviene delle copie stampate della Commedia PELLEGRINA dell`Eccel. Sig. Materiale Intronato; e le richieste d`essa fatte ad ognora da diverse bande con efficaciss. instanza a` Librari di questa citta` siccome gia` in quella comparita in luce, hanno potuto agevolmente persuadermi a metterla sotto `l mio novello Torchio, perch`ella venga tuttavia piu` a rilucere, e participarsi a coloro che ne son bramosi, rendendomi non poco sicuro, ch`ella debba pervenire cara, e gratiosa nelle mani de` belli spiriti vaghi ed intendenti di cosi` fatte Poesie. Essendo stata a quest`ora, oltr`al suo primo Reale rappresentamento, non pur letta da molti con particolar gusto, e piacere; ma rappresentata con general diletto, e speciale splendore in Orvieto, in Mantova, ed in altre citta` d`Italia. Ammi ancora (nol debbo tacere) non poco piu` riscaldato a tal`opera, il nuovo riaprimento fatto dell`ACCADEMIA INTRONATA, con applauso universale di questa lor onoratiss. Patria; e `l nobil coltivamento, che si vede de` suoi digniss. studi: da sperarne simili, ed altri frutti; si come i presenti Accademici sono per doversi rendere non dissomiglianti a` si chiari e famosi loro antecessori.\nRicevete per tanto la prontezza mia a` desiderii, et a` commodi vostri, nella maniera, che ridotta ho la cosa con breve, e ben leggibile carattero, nella breve, e ben adatta forma, ch`io di tutto buon cuore la vi presento.",
+        "CensorsAgreement": "Con Licenza de` Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16273",
+                "RecordID": "022-000002925",
+                "Value": "de` Medici,Ferdinando I,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16248",
+                "RecordID": "022-000002896",
+                "Value": "Bargagli,Scipione,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16367",
+                "RecordID": "022-000003030",
+                "Value": "Florimi,Matteo,,1580 - 1612"
+            }
+        },
+        "PrinterOrnament": "MAR.T.E 146",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

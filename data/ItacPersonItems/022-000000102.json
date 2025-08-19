@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5105",
+        "RecordId": "022-000000102",
+        "Surname": "Balducci",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Balduccius",
+            "AlternativeForename": "Franciscus"
+        },
+        "DateText": "1579-1642",
+        "StartDate": "1579",
+        "EndDate": "1642",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "Member of the  Riaccesi Academy in Palermo from 1622. Joined the Gelati in 1642. See his biography by Enzo No\u00e8 Girardi in DBI, by Antonino Mongitore, in Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 203-204 (British Library Shelfmark:610.m.10.)",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

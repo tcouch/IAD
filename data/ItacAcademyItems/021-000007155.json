@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0346",
+        "RecordId": "021-000007155",
+        "Name": "Affilati (Accademia degli)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Two knives sharpening each other",
+        "Motto": "Acuimus acuimur",
+        "StartDate": "after1580",
+        "EndDate": "?",
+        "DateText": "after1580-?",
+        "Notes": "Founded by Francesco Accarigi, a jurist, for his students.",
+        "ItacPersonItem": {
+            "PersonId": "16382",
+            "RecordId": "022-000003048",
+            "Name": "Accarigi,Francesco,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

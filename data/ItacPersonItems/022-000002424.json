@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15865",
+        "RecordId": "022-000002424",
+        "Surname": "de Lellis",
+        "Forename": "Carlo",
+        "AlternativeName": {
+            "AlternativeSurname": "de Lellis",
+            "AlternativeForename": "Carolus"
+        },
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Contributor|Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

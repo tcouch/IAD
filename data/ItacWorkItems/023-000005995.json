@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005995",
+        "WorkId": "000710",
+        "ShortTitle": "Il Meo Patacca",
+        "LongTitle": "overo Roma in feste nei trionfi di Vienna. Poema giocoso nel linguaggio romanesco, di Giuseppe Berneri romano Accademico Infecondo. Dedicato all`Illustriss. et Eccellentiss. sig. il Sig. D. Clemente Domenico Rospigliosi",
+        "ItacAcademyItem": {
+            "AcademyId": "0125",
+            "RecordID": "021-000005612",
+            "Value": "Accademia degli Infecondi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1695",
+        "DedicationPlaceDate": "Di Casa l` 8 Luglio 1695",
+        "Shelfmark": "11431b6",
+        "Subjects": "Heroi-comic",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18709",
+                "RecordID": "022-000005774",
+                "Value": "Berneri,Giuseppe,,1634 - ?"
+            }
+        },
+        "Notes": "The book contains an introduction by the author explaining the rules of the Roman dialect.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18902",
+                    "RecordID": "022-000005996",
+                    "Value": "Campione,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "18345",
+                    "RecordID": "022-000005361",
+                    "Value": "Ferrari,Thomas Maria,Cardinal,1649 - 1716"
+                },
+                {
+                    "PersonId": "18904",
+                    "RecordID": "022-000005998",
+                    "Value": "Sperellus,Alexander,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con gran sodisfattione ho letta l`opera intitolata Il meo Patacca, overo Roma in festa ne i trionfi di Vienna poema giocoso et c. Niente in essa ho trovato contrario alla Santa Fede, o buoni Costumi, anzi una somma modestia, e vivezza, Dote propria dell`Autore, per cio`, e` per le altre parti assai celebre; Onde giudico possa permetetrsene la Stampa. Nella Casa di S. Maria in Portico in Campitelli. Questo di` 6 Dicembre 1695. Francesco Maria Campione della Congregazione della Madre di Dio. Imprimatur. Si videbitur Reverendiss. P. Magist. Sac. Pal. Apost. Sperellus Episcopus Interamnen. Vicesger. Imprimatur, Fr. Thomas Maria Ferrari Ord. Praed. Sac. Apost. Pal. Magist.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18898",
+                "RecordID": "022-000005991",
+                "Value": "Rospigliosi,Clemente Domenico,Prince,1674 - 1752"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18900",
+                "RecordID": "022-000005993",
+                "Value": "Leone,Pietro,,1665 - 1746"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54495",
+            "Value": "023-000005995_54495_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

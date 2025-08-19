@@ -1,0 +1,90 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004776",
+        "WorkId": "000591",
+        "ShortTitle": "Lettere di Cesare Rinaldi",
+        "LongTitle": "Il Neghittoso Accademico Spensierato. all`Illustrissimo Cardinal d`Este.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0094",
+                "RecordID": "021-000004774",
+                "Value": "Accademia degli Spensierati (Ferrara)"
+            },
+            {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1617",
+        "DedicationPlaceDate": "Bologna, 16 April 1616; 14 September 1616; 25 October 1616",
+        "Shelfmark": "1085.m.16",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "[12] 256",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5263",
+                "RecordID": "022-000000253",
+                "Value": "Rinaldi,Cesare,,1559 - 1636"
+            }
+        },
+        "Notes": "The book contains a letter dated 16 April 1616 addressed to the printer Tommaso Baglioni. On the previous page one reads; `Girolamo Canini correggeva le stampe portategli a casa`. The first letter comments on the staging of Campeggi`s `Filarmindo`, while the second describes the staging of Campeggi`s `L`Aurora ingannata` on the occasion of the Riario-Pepoli wedding. The date of the second letter is fake.",
+        "CensorsAgreement": "Con privilegio e licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17864",
+                    "RecordID": "022-000004777",
+                    "Value": "d`Este,Alessandro,Cardinal,1568 - 1624"
+                },
+                {
+                    "PersonId": "17865",
+                    "RecordID": "022-000004778",
+                    "Value": "Trissino,Gio. Giorgio,Count,1478 - 1550"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17863",
+                "RecordID": "022-000004775",
+                "Value": "Baglioni,Tomaso,,"
+            }
+        },
+        "PrinterOrnament": "Mar.T.E 308",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Signor Conte Ridolfo Campeggi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5263",
+                            "RecordID": "022-000000253",
+                            "Value": "Rinaldi,Cesare,,1559 - 1636"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Signor Roberto Fontana a Modena",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5263",
+                            "RecordID": "022-000000253",
+                            "Value": "Rinaldi,Cesare,,1559 - 1636"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

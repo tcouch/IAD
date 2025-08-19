@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5307",
+        "RecordId": "022-000000358",
+        "Surname": "Roffeni",
+        "Forename": "Giovanni Antonio",
+        "DateText": "ca. 1588 - \u20201643",
+        "StartDate": "ca. 1588",
+        "EndDate": "\u20201643",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "See Betti for details regarding his book (dedicated to a prince of  an Academy).",
+        "Role": null,
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

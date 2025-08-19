@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007903",
+        "WorkId": "000899",
+        "ShortTitle": "Orationes clarorum hominum,",
+        "LongTitle": "vel honoris officiique causa ad principes vel in funere de virtutibus eorum habit\u00e6. Nuper in Academia Veneta primum in lucem edit\u00e6 & nunc diligentius multo quam ante typis excus\u00e6. Adjectis novis aliquot disertissimis eiusdem argumenti orationibus, quarum catalogum sequens pagella indicabit",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "78",
+            "PublicationPlaceItalianName": "Colonia",
+            "PublicationPlaceEnglishName": "Cologne",
+            "PublicationPlaceLatinName": "Coloniae Ubiorum"
+        },
+        "PublicationYear": "1560",
+        "Shelfmark": "12301aaa22",
+        "Language": "Latin",
+        "Pagination": "[8] 253",
+        "Marginalia": "No",
+        "Notes": "The editors sign as `Rhetores Academiae Venetae`. Gerwinum Calenium appears as second printer of this volume.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16955",
+                "RecordID": "022-000003745",
+                "Value": "Carafa,Alfonso,Cardinal,1540-1565"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Academia Veneta"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5507",
+                "RecordID": "022-000000494",
+                "Value": "Quentel,Ioannis (Heredes),,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55087",
+            "Value": "023-000007903_55087_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

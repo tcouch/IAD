@@ -1,0 +1,103 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005628",
+        "WorkId": "000682",
+        "ShortTitle": "Vita Beati Augustini Novelli",
+        "LongTitle": "Nobilis Panormitani, Ex Familia De Thermes Ordinis Eremitarum Sancti Augustini. Auctore Bernardo Riera I. C. Siculo Drepanense. Cum Annotationibus V.I.D. Don Vincentii Auria Siculi Panormitani. Ad Illustrissimum Senatum Panormitanum.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1664",
+        "DedicationPlaceDate": "Palermo 15 May 1664",
+        "Shelfmark": "12225.b.5.(4)",
+        "Subjects": "Biography",
+        "Language": "Latin",
+        "Illustration": "Plate|Portrait of Blessed Agostino Novello|A plate on the title page|",
+        "Pagination": "pp. 66",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18581",
+                "RecordID": "022-000005629",
+                "Value": "Riera,Bernardus,,"
+            }
+        },
+        "Notes": "Portrait of Blessed Agostino Novello by Joseph Lentini",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18579",
+                    "RecordID": "022-000005626",
+                    "Value": "de Augustino,Octavio,,"
+                },
+                {
+                    "PersonId": "18580",
+                    "RecordID": "022-000005627",
+                    "Value": "de Domin.,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Impr. Mart. Rub. Gub. & V. G. \nImpr. Abbas D Octavius de Augustino pro Spect. de Domin. F. P.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18434",
+                "RecordID": "022-000005457",
+                "Value": "Auria,Vincenzo,,1625 - 1710"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18583",
+                "RecordID": "022-000005631",
+                "Value": "Lentini,Joseph,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18582",
+                "RecordID": "022-000005630",
+                "Value": "de Isola,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54622",
+            "Value": "023-000005628_54622_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54623",
+            "Value": "023-000005628_54623_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Incerti Auctoris Epigrammata",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Expergefacti Academici Reaccensi Pro Beati Augustini Novelli Panormitani Vita Elogium",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

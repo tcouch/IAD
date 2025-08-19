@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9000",
+        "RecordId": "022-000001572",
+        "Surname": "Corner",
+        "Forename": "Federico",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Cornaro",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Abbot|Cardinal",
+        "DateText": "1579-1659",
+        "StartDate": "1579",
+        "EndDate": "1659",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Founder of the Accademia dei Ricovrati. See Laura Megna, `Federico Cornaro e l`Accademia padovana dei Ricovrati`, in Studi Veneziani, 43 (2002), pp. 331-48. His biography by G. Gullino in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

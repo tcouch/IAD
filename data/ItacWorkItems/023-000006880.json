@@ -1,0 +1,92 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006880",
+        "WorkId": "000806",
+        "ShortTitle": "Rime d`Antonio Ongaro,",
+        "LongTitle": "detto l`Affidato Accademico Illuminato. Di nuovo corrette, et accresciute, e divise in Prima, Seconda e terza Parte. Dedicate all`Illustriss. sig[nor]. Padron colendissimo Il sig[nor] Lodovico Magalotti, Cap[itano] di Corazze nel Reggimento di Guardia del Sig[nor] Card[inale] Antonio Barberino",
+        "ItacAcademyItem": {
+            "AcademyId": "0231",
+            "RecordID": "021-000006857",
+            "Value": "Accademia degli Illuminati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1644",
+        "DedicationPlaceDate": "Bologna 28 luglio 1644",
+        "Shelfmark": "1481ddd24",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "187",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19568",
+                "RecordID": "022-000006856",
+                "Value": "Ongaro,Antonio,,1569 - 1599"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18255",
+                    "RecordID": "022-000005252",
+                    "Value": "Finatius,Octavianus,,"
+                },
+                {
+                    "PersonId": "6050",
+                    "RecordID": "022-000000771",
+                    "Value": "Colonna,Girolamo,Cardinal,1604-1666"
+                },
+                {
+                    "PersonId": "19580",
+                    "RecordID": "022-000006882",
+                    "Value": "Lampugnani,Agostino,,1586 - 1665?"
+                }
+            ]
+        },
+        "CensorsAgreement": "Octavianus Finatius Poenitentiarius in Metropolitana pro Eminentissimo ac Reverendissimo D. Card. Columna Archiepisc. - Imprimatur - D. Augustinus Lampugnanus Monachus Casinensis Prior Sancti Proculi pro Reverendissimo P. Inquisit. Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19579",
+                "RecordID": "022-000006881",
+                "Value": "Magalotti,Lodovico,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19243",
+                "RecordID": "022-000006424",
+                "Value": "Manolessi,Carlo,,?-after1661"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5409",
+                "RecordID": "022-000000419",
+                "Value": "Tebaldini,Nicol\u00f2,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54876",
+            "Value": "023-000006880_54876_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Il Cavalier Mariano Insegna detto l`Opaco all`Authore - Sonetto - Quando lo spirto tuo resto` disciolto",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19578",
+                        "RecordID": "022-000006878",
+                        "Value": "Insegna,Mariano,Cavalier,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

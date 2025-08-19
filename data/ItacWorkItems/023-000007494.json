@@ -1,0 +1,115 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007494",
+        "WorkId": "000837",
+        "ShortTitle": "Lettere in varij generi",
+        "LongTitle": "a prencipi e ad altri del s. Co: Prospero Bonarelli della Rovere. Con alcune discorsiue intorno al primo libro de gl\u2019An[nali]. di Cor[nelio]. Tac[ito]., all\u2019ellezione degl\u2019Ambasciadori, al modo di viuere in corte, et altre.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0385",
+                "RecordID": "021-000007496",
+                "Value": "Accademia degli Intrepidi"
+            },
+            {
+                "AcademyId": "0384",
+                "RecordID": "021-000007495",
+                "Value": "Accademia degli Immobili"
+            }
+        ],
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1636",
+        "DedicationPlaceDate": "Bologna 13 agosto 1636",
+        "Shelfmark": "C82c10",
+        "Subjects": "Theatre criticism|Letters",
+        "Language": "Italian",
+        "Pagination": "268",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5111",
+                "RecordID": "022-000000108",
+                "Value": "Bonarelli della Rovere,Prospero,Count,1580 - 1659"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5111",
+                "RecordID": "022-000000108",
+                "Value": "Bonarelli della Rovere,Prospero,Count,1580 - 1659"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "7310",
+                "RecordID": "022-000000896",
+                "Value": "Dozza,Evangelista (Heredi di),,active1630-1670s"
+            }
+        },
+        "Notes": "One letter is addressed to the Caliginosi Academy in Ancona. Letters to the Imperfetti in Venice comment on the author`s play Solimano.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20017",
+                    "RecordID": "022-000007499",
+                    "Value": "Moneta,Io Petrus,,"
+                },
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Io Petrus Moneta pro Eminentiss. Card. Archiepiscop. Imprimatur Fr. Hieron. Onuphr. pro Reverendiss. P. Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20015",
+                "RecordID": "022-000007497",
+                "Value": "Casali Pierizzi,Ginevra,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19243",
+                "RecordID": "022-000006424",
+                "Value": "Manolessi,Carlo,,?-after1661"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "20016",
+                "RecordID": "022-000007498",
+                "Value": "Peruzzini,Domenico,,1607-1673"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "20016",
+                "RecordID": "022-000007498",
+                "Value": "Peruzzini,Domenico,,1607-1673"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5409",
+                "RecordID": "022-000000419",
+                "Value": "Tebaldini,Nicol\u00f2,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55024",
+            "Value": "023-000007494_55024_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

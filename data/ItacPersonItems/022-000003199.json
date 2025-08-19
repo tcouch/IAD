@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16512",
+        "RecordId": "022-000003199",
+        "Surname": "Sorbait",
+        "Forename": "Paul de",
+        "Gender": "Male",
+        "DateText": "1624-1691",
+        "StartDate": "1624",
+        "EndDate": "1691",
+        "Nationality": {
+            "NationalityId": "64",
+            "Value": "Austrian"
+        },
+        "Notes": "Member of the Accademia dei Curiosi della natura",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

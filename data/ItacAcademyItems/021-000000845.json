@@ -1,0 +1,230 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0013",
+        "RecordId": "021-000000845",
+        "Name": "Torbidi (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Two pointed bags for straining the must",
+        "Motto": "Ut defecata promant",
+        "StartDate": "ca.1628",
+        "EndDate": "?",
+        "DateText": "ca.1628-?",
+        "Notes": "The text related to this Academy contains the description of mottoes and emblems of each academician.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5155",
+                "RecordId": "022-000000150",
+                "Name": "Marsili, Cesare, ,",
+                "Nickname": "Il Fervido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5284",
+                "RecordId": "022-000000331",
+                "Name": "Lodi, Giacinto, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7200",
+                "RecordId": "022-000000852",
+                "Name": "Balduini, Giuseppe, ,",
+                "Nickname": "Il Risentito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7201",
+                "RecordId": "022-000000853",
+                "Name": "Orsi, Astorre, Count,",
+                "Nickname": "L`Aspro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7203",
+                "RecordId": "022-000000854",
+                "Name": "Paleotti, Camillo, Senator,",
+                "Nickname": "L`Acerbo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7204",
+                "RecordId": "022-000000855",
+                "Name": "Sampieri, Alessandro, ,",
+                "Nickname": "L`Eccitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7205",
+                "RecordId": "022-000000856",
+                "Name": "Orsi, Pompilio, ,",
+                "Nickname": "Il Vivace",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7206",
+                "RecordId": "022-000000858",
+                "Name": "Ghiselieri, Andrea, ,",
+                "Nickname": "L`Avvalorato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7207",
+                "RecordId": "022-000000859",
+                "Name": "Bentivogli, Costante, ,",
+                "Nickname": "L`Indomito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7208",
+                "RecordId": "022-000000860",
+                "Name": "Malvezzi, Carlo Filippo, ,",
+                "Nickname": "L`Acceso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7209",
+                "RecordId": "022-000000861",
+                "Name": "Ruini, Carlo, Marquis | Senator,",
+                "Nickname": "L`Ardente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7210",
+                "RecordId": "022-000000862",
+                "Name": "Fantuzzi, Ottaviano Gioseffe, ,",
+                "Nickname": "L`Ardito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7211",
+                "RecordId": "022-000000863",
+                "Name": "Grassi, Girolamo, ,",
+                "Nickname": "L`Animoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7212",
+                "RecordId": "022-000000864",
+                "Name": "Bolognetti, Girolamo, ,",
+                "Nickname": "Il Deliberato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7213",
+                "RecordId": "022-000000865",
+                "Name": "Ercolani, Francesco Aurelio, Count,",
+                "Nickname": "L`Invigorito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7215",
+                "RecordId": "022-000000867",
+                "Name": "Orsi, Mario, ,",
+                "Nickname": "L`Acuto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7216",
+                "RecordId": "022-000000868",
+                "Name": "Capacelli Albergati, Girolamo, Marquis | Senator,",
+                "Nickname": "Il Coraggioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7217",
+                "RecordId": "022-000000869",
+                "Name": "Ranuzzi, Girolamo, Count,",
+                "Nickname": "L`Intrepido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7218",
+                "RecordId": "022-000000870",
+                "Name": "Ruini, Ottavio, Count,",
+                "Nickname": "Il Fermo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7219",
+                "RecordId": "022-000000871",
+                "Name": "Ghisilieri, Antonio, ,",
+                "Nickname": "L`Assetato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7220",
+                "RecordId": "022-000000872",
+                "Name": "Musotti, Filippo, ,",
+                "Nickname": "L`Inquieto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7221",
+                "RecordId": "022-000000873",
+                "Name": "Sampieri, Ludovico, ,",
+                "Nickname": "L`Industrioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7222",
+                "RecordId": "022-000000874",
+                "Name": "Fibbia, Alessandro, Count,",
+                "Nickname": "L`Assicurato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7223",
+                "RecordId": "022-000000875",
+                "Name": "Angelelli, Angelo Maria, ,",
+                "Nickname": "L`Affidato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7224",
+                "RecordId": "022-000000876",
+                "Name": "Grassi, Paris Maria, ,",
+                "Nickname": "Il Rigido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9709",
+                "RecordId": "022-000000561",
+                "Name": "Angelelli,Andrea,Senator,fl. 1628",
+                "Nickname": "L`Esercitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

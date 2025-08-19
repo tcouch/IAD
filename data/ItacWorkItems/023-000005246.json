@@ -1,0 +1,41 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005246",
+        "WorkId": "000647",
+        "ShortTitle": "Gl`Inganni villaneschi",
+        "ItacAcademyItem": {
+            "AcademyId": "0061",
+            "RecordID": "021-000003726",
+            "Value": "Congrega degli Insipidi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "[1580]",
+        "Shelfmark": "162b27(2)",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "[13]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16981",
+                "RecordID": "022-000003771",
+                "Value": "Tregiani,Domenico di Gismondo,,"
+            }
+        },
+        "Notes": "edit16 identifies this as printed in Siena by Luca Bonetti in 1576. The British Library catalogue suggests 1580 as the date of publication.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,fl. 1553-1612"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

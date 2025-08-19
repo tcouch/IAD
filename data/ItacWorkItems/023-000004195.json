@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004195",
+        "WorkId": "000538",
+        "ShortTitle": "Elogio di Celestino Galiano scritto Da Appiano Buonafede",
+        "LongTitle": "Elogi di Italiani Illustri Scritti Da Varj",
+        "ItacAcademyItem": {
+            "AcademyId": "0079",
+            "RecordID": "021-000004352",
+            "Value": "Accademia delle Scienze"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1829",
+        "Shelfmark": "10630.a.14.",
+        "Subjects": "Biography",
+        "Language": "Italian",
+        "Pagination": "pp. 23",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17359",
+                "RecordID": "022-000004194",
+                "Value": "Buonafede,Appiano,,1716 - 1793"
+            }
+        },
+        "Notes": "On pp. 61-62 the author mentions the Academy founded by Celestino Galiani.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17360",
+                "RecordID": "022-000004196",
+                "Value": "Gamba,Bartolomeo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17361",
+                "RecordID": "022-000004197",
+                "Value": "Alvisopoli,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

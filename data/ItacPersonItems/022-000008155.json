@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20431",
+        "RecordId": "022-000008155",
+        "Surname": "Gualengo",
+        "Forename": "Galeazzo",
+        "AlternativeName": {
+            "AlternativeSurname": "Gualenguo",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Marquis",
+        "DateText": "?-1623",
+        "StartDate": "?",
+        "EndDate": "1623",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Galeazzo Gualengo was among the founders of the Intrepidi Academy. A short note dedicated to Galeazzo is in his father`s biography, Camillo Gualengo, by Laura Turchi, in DBI",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

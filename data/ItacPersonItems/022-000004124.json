@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17304",
+        "RecordId": "022-000004124",
+        "Surname": "Cacchi",
+        "Forename": "Giuseppe",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Cacchium",
+            "AlternativeForename": "Iosephum"
+        },
+        "DateText": "1530s-1593?",
+        "StartDate": "1530s",
+        "EndDate": "1593?",
+        "Nationality": {
+            "NationalityId": "111",
+            "Value": "of L`Aquila"
+        },
+        "Role": "Printer",
+        "TypographicReference": "Edit16 V121 - Z1022|Edit16 V122 - Z150",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007642",
+        "WorkId": "000855",
+        "ShortTitle": "Choice novels and amarous tales",
+        "LongTitle": "written by the most refined wits of Italy. newly translated into English",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Accademia degli Incogniti (Venezia)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "71",
+            "PublicationPlaceItalianName": "Londra",
+            "PublicationPlaceEnglishName": "London",
+            "PublicationPlaceLatinName": "Londinium"
+        },
+        "PublicationYear": "1652",
+        "Shelfmark": "C71bb9",
+        "Subjects": "Love stories|Translation",
+        "Language": "English",
+        "Pagination": "247",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20078",
+                    "RecordID": "022-000007576",
+                    "Value": "Croce Bianca ,Giovanni,,"
+                },
+                {
+                    "PersonId": "17761",
+                    "RecordID": "022-000004663",
+                    "Value": "Loredan,Gianfrancesco,,1607-1661"
+                },
+                {
+                    "PersonId": "20080",
+                    "RecordID": "022-000007578",
+                    "Value": "Pomo,Pietro,,"
+                },
+                {
+                    "PersonId": "18575",
+                    "RecordID": "022-000005621",
+                    "Value": "Brusoni,Girolamo,,1614-1686"
+                },
+                {
+                    "PersonId": "20075",
+                    "RecordID": "022-000007573",
+                    "Value": "Pallavicino,Ferrante,,1615-1644"
+                },
+                {
+                    "PersonId": "20092",
+                    "RecordID": "022-000007592",
+                    "Value": "Fusconi,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "20093",
+                    "RecordID": "022-000007593",
+                    "Value": "Settimo,Giovanni Battista,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "20136",
+                "RecordID": "022-000007643",
+                "Value": "Moseley,Humphrey,,?-1661"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20137",
+                "RecordID": "022-000007644",
+                "Value": "N.,T.,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55210",
+            "Value": "023-000007642_55210_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Octavio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20078",
+                            "RecordID": "022-000007576",
+                            "Value": "Croce Bianca ,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Aleria",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17761",
+                            "RecordID": "022-000004663",
+                            "Value": "Loredano,Giovanni Francesco,,1607-1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Amasia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17761",
+                            "RecordID": "022-000004663",
+                            "Value": "Loredano,Giovanni Francesco,,1607-1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Leonora",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20080",
+                            "RecordID": "022-000007578",
+                            "Value": "Pomo,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Armidoro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18575",
+                            "RecordID": "022-000005621",
+                            "Value": "Brusoni,Girolamo,,1614-1686"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Aurelia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17761",
+                            "RecordID": "022-000004663",
+                            "Value": "Loredano,Giovanni Francesco,,1607-1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Niarpe",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20075",
+                            "RecordID": "022-000007573",
+                            "Value": "Pallavicino,Ferrante,,1615-1644"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Deadora",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17761",
+                            "RecordID": "022-000004663",
+                            "Value": "Loredano,Giovanni Francesco,,1607-1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Emilio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20092",
+                            "RecordID": "022-000007592",
+                            "Value": "Fusconi,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Limisinda",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20093",
+                            "RecordID": "022-000007593",
+                            "Value": "Settimo,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Irlando",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20075",
+                            "RecordID": "022-000007573",
+                            "Value": "Pallavicino,Ferrante,,1615-1644"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epidoro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17761",
+                            "RecordID": "022-000004663",
+                            "Value": "Loredano,Giovanni Francesco,,1607-1661"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

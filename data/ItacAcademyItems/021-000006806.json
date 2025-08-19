@@ -1,0 +1,24 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0205",
+        "RecordId": "021-000006806",
+        "Name": "Cortesiana (Accademia)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "Late 15th c.",
+        "DateText": "Late 15th c.",
+        "ItacPersonItem": {
+            "PersonId": "19543",
+            "RecordId": "022-000006805",
+            "Name": "Cortesi,Paolo,,1465 - before1510",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

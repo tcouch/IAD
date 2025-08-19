@@ -1,0 +1,51 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0515",
+        "RecordId": "021-000008047",
+        "Name": "Ferrarese (Accademia)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1570",
+        "EndDate": "post1587",
+        "DateText": "1570-post1587",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20431",
+                "RecordId": "022-000008155",
+                "Name": "Gualengo,Galeazzo,Marquis,?-1623",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15312",
+                "RecordId": "022-000001352",
+                "Name": "Tasso,Torquato,,1544-1595",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20504",
+                "RecordId": "022-000008243",
+                "Name": "Mazzoni,Jacopo,,1548-1598",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19123",
+                "RecordId": "022-000006258",
+                "Name": "Ligorio,Pirro,,ca.1513 - 1583",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

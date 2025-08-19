@@ -1,0 +1,96 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001866",
+        "WorkId": "000257",
+        "ShortTitle": "Elogia poetica in Serenissimam Rempublicam venetam",
+        "LongTitle": "eiusque augustum Senatum tribunalia, pontifices, duces, sive principes a primo Paulutio Anafesto usque ad praesentem Aloysium Contarenum, serenissimum et felicissimum principem. Composita a patre fratre Francisco a Sancto Augustino Macedo Ord. Min. Observantiae Lusitano, Magistro Conimbricensii, Lectore Publico Patavino, Veneto Cive. Nuncupata Eidem Serenissimae Reipublicae",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1680",
+        "DedicationPlaceDate": "9 May 1680",
+        "Shelfmark": "11405.i.13",
+        "Subjects": "Celebratory poems",
+        "Language": "Latin",
+        "Illustration": "Engraved plates|Portraits",
+        "Pagination": "pp. 145",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9304",
+                "RecordID": "022-000001788",
+                "Value": "Macedo,Francisco,,1596 - 1681"
+            }
+        },
+        "Notes": "At p. 105v is the portrait of Antonio Priuli, patron of the Academy. At p. 112v is the portrait of Francesco Cornaro, L`Inquieto. For further details, see L`accademia in biblioteca, p. 135.\nUnder the portrait at p. 28v is written 1663 Petrus filius Iacobi Piccini sculpsit",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15374",
+                    "RecordID": "022-000001867",
+                    "Value": "Priuli,Alvise,,"
+                },
+                {
+                    "PersonId": "15375",
+                    "RecordID": "022-000001868",
+                    "Value": "Venier,Nicolo`,Proc. Ref.,"
+                },
+                {
+                    "PersonId": "15376",
+                    "RecordID": "022-000001869",
+                    "Value": "Franceschi,Lodovico,,"
+                },
+                {
+                    "PersonId": "15381",
+                    "RecordID": "022-000001874",
+                    "Value": "Ximenez Samaniego,Ioseph,,"
+                },
+                {
+                    "PersonId": "15382",
+                    "RecordID": "022-000001875",
+                    "Value": "Crassus a Canturio,Petrus,Sec. Gen. Ordinis,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Reformatori dello studio di Padova. Havendo veduto per fede del Padre Inquisitore nel libro intitolato Elogia poetica (...) non esser cosa alcuna contra la S. Fede Cattolica come parimente per attestato del Secretario nostro, niente contro a` principi e buoni costumi, concediamo licenza a Giacomo Cadorino di poterlo stampare osservando gli ordini, et c.\nFACULTAS REVERENDISSIMI P. GENERALIS \nIoseph Ximenez Samaniego totius Ordinis Seraphici plurimum in Christo R.P.Pr Francisco a Sant`Augustino macedo provincie nostrae Portugallie Regularis observantiae Alumno, Lectori Iubilato, Magistro Conimbricensi, et Universitatis Patavinaepublico professori, salutem in Domino sempiternam. \nConcedimus tibi solitam facultatem ad imprimendum, et evulgandum opus hoc tuum inscriptum Elogia Poeticain Serenissimam Rempublicam Venetam, et cum ea simul tibi benedictionem nostram impartimur. Precamurque  a Deo ut vitam, et incolumitatem praestare tibi dignetur, ut plura valeas opera componere ad communem utilitatem, qui tuus est animus, comparata. D. Romae ex nostro Conventu Aracaelitano die 6 Ianuarii 1680. Fr. Ioseph. Min. Gen.; De Mand. Reverendiss. Paternitatis; Fr. Petrus Crassus a Canturio Sec. Gen. Ordinis",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15377",
+                "RecordID": "022-000001870",
+                "Value": "Contarini,Alvise,Doge,1676-1684"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15378",
+                    "RecordID": "022-000001871",
+                    "Value": "Ruschi,F.,,"
+                },
+                {
+                    "PersonId": "16858",
+                    "RecordID": "022-000003619",
+                    "Value": "Piccini,Pietro,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9192",
+                "RecordID": "022-000001684",
+                "Value": "Cadorino,,,"
+            }
+        },
+        "PrinterOrnament": "MAR.T.E.670",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

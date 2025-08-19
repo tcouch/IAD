@@ -1,0 +1,139 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003041",
+        "WorkId": "000394",
+        "ShortTitle": "Delle Commedie degl` Accademici Intronati. La Seconda parte",
+        "LongTitle": "Appresso il riaprimento dell`Accademia Intronata, et c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1611",
+        "Shelfmark": "162.b.40|Ac.8865",
+        "Subjects": "Theatre|Emblems",
+        "Language": "Italian|Latin",
+        "Pagination": "[2] 616 [4]",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16376",
+                    "RecordID": "022-000003042",
+                    "Value": "Bulgarini,Belisario,,1539 - 1620"
+                },
+                {
+                    "PersonId": "16272",
+                    "RecordID": "022-000002924",
+                    "Value": "Bargagli,Girolamo,,"
+                },
+                {
+                    "PersonId": "16248",
+                    "RecordID": "022-000002896",
+                    "Value": "Bargagli,Scipione,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16375",
+                "RecordID": "022-000003040",
+                "Value": "Franceschi,Bartolomeo,,"
+            }
+        },
+        "Notes": "The edition Ac.8865 does not contain comedies, but contains the other essays.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16367",
+                "RecordID": "022-000003030",
+                "Value": "Florimi,Matteo,,1580 - 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53366",
+            "Value": "023-000003041_53366_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53365",
+            "Value": "023-000003041_53365_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Gli Scambi. Commedia dell` Aperto Intronato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16376",
+                            "RecordID": "022-000003042",
+                            "Value": "Bulgarini,Belisario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Pellegrina.Commedia del Materiale Intronato, rappresentata etc.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16272",
+                            "RecordID": "022-000002924",
+                            "Value": "Bargagli,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La descrittione del nuovo riaprimento dell`Accademia Intronata",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16272",
+                            "RecordID": "022-000002924"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione in lode dell`Accademia degli Intronati dello Schietto Intronato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16248",
+                            "RecordID": "022-000002896",
+                            "Value": "Bargagli,Scipione,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De origine salis Intronati. Armonici Intronati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16248",
+                            "RecordID": "022-000002896"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Imprese degl` Accademici Intronati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16248",
+                            "RecordID": "022-000002896"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "I soprannomi co` nomi propri e cognomi degli Accademici Intronati menzionati nelle presenti carte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16248",
+                            "RecordID": "022-000002896"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

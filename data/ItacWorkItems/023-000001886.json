@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001886",
+        "WorkId": "000260",
+        "ShortTitle": "Sacre lamentationi",
+        "LongTitle": "della settimana santa a voce sola. Dedicate all`illustrissimo signore Marchese Odoardo Serafini da Piacenza da Gio. Paolo Colonna",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "10\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1689",
+        "Shelfmark": "A.190",
+        "Subjects": "Music",
+        "Language": "Latin",
+        "Pagination": "96",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15385",
+                "RecordID": "022-000001880",
+                "Value": "Colonna,Giovanni  Paolo,,1637-1695"
+            }
+        },
+        "Notes": "Lettore amorevole. Eccoti un componimento, che altro non ha di buono, che le sagre parole. Abbondano le stampe di simili compositioni, onde se fra queste con altre troverai qualche uniformita`, massime nel principio di esse, sappi, che non e` biasimevole ancora l`imitare qualche particella di Canto fermo nel figurato, e altretanto e` facile l`incontro di due Professori nello stesso soggetto. Rimetto alla tua gentilezza di considerare le mie note non a misura delle mie insufficienze, ma della tua benignita` con gradimento cortese, e favorevole compatimento. E vivi felice.",
+        "CensorsAgreement": "Con licenza de` superiori. Si vendono da Marino Silvani, all`Insegna del Violino. Con privilegio.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15389",
+                "RecordID": "022-000001887",
+                "Value": "Serafini,Odoardo,Marquis,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5532",
+                "RecordID": "022-000000531",
+                "Value": "Monti,Pietro Maria,,fl. 1689-1708"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52827",
+            "Value": "023-000001886_52827_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008189",
+        "WorkId": "000920",
+        "ShortTitle": "Il torneo a piedi, e l`inuenzione, ed allegoria, colla quale il signor Borso Bonacossi compari a mantenerlo:",
+        "LongTitle": "e l`Alcina maga favola pescatoria fatta rappresentare da sudetto signore nella sala detta de` Giganti in Ferrara, alla presenza di tre altezze serenissime di Mantova e de i due eminentissimi cardinali Sacchetti e Spada, nel carnovale dell`anno 1631. Descritti dall`Aggirato Accademico Fileno. Evvi aggiunto il Tebro Epitalamio, che fu dispensato nella sera, e nel teatro, in cui si fece il Torneo.",
+        "ItacAcademyItem": {
+            "AcademyId": "0517",
+            "RecordID": "021-000008049",
+            "Value": "Fileni (Accademia dei)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1631",
+        "DedicationPlaceDate": "Ferrara 8 Novembre 1631",
+        "Shelfmark": "9930f74",
+        "Subjects": "Tournament",
+        "Language": "Italian",
+        "Pagination": "[14] 107",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20460",
+                "RecordID": "022-000008190",
+                "Value": "Berni,Francesco,,1610-1673"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20462",
+                    "RecordID": "022-000008192",
+                    "Value": "Visdomini,Ippolito,,"
+                },
+                {
+                    "PersonId": "20433",
+                    "RecordID": "022-000008157",
+                    "Value": "Fiornovelli,Alfonso,,17thc."
+                }
+            ]
+        },
+        "Notes": "One image from inside the book is reproduced instead of the colophon.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20442",
+                    "RecordID": "022-000008166",
+                    "Value": "Bazanius,Hippolytus,,"
+                },
+                {
+                    "PersonId": "20439",
+                    "RecordID": "022-000008163",
+                    "Value": "de Francis ,Paulus,,fl.1600-1625"
+                },
+                {
+                    "PersonId": "20463",
+                    "RecordID": "022-000008193",
+                    "Value": "Archilegius,Ursinus,,"
+                },
+                {
+                    "PersonId": "20464",
+                    "RecordID": "022-000008194",
+                    "Value": "Bonafides,Ioannes,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidi pro Adm. Illustrissimo ac Reverendissimo Vicario Generali Episcopi Ferrariensi, fictae pugnae descriptionem, nihilque in ea inveni contra fidem, ac bonos mores. Ego Ursinus Archilegius. Imprimatur si placet V. R. P. Inquisitori. Pater Ioannes Bonafides Vicarius Generalis \nVidit Frater Hippolytus Bazanius de Ferraria ordo Servorum, de mandato Reverendissimi Adm. Patris Inquisitoris Generalis Ferrariae, et cum nihil a catholica fide dissonum, aut bonis moribus contrarium offenderis, quod posit typis mandari, censuit, et c. Ego Fr. Hippolytus qui supra. Imprimatur. Frater Paulus de Francis Neapolitanus Inquisitor Ferrariae",
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "20461",
+                "RecordID": "022-000008191",
+                "Value": "Rivarola,Alfonso,,1591-1640"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20617",
+                "RecordID": "022-000008410",
+                "Value": "Gironi & Gherardi,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55267",
+            "Value": "023-000008189_55267_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55268",
+            "Value": "023-000008189_55268_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al serenissimo Carlo Gonzaga Duca di Mantova (sonnet): Gia' di barbara man preda non vile",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20433",
+                            "RecordID": "022-000008157",
+                            "Value": "Fiornovelli,Alfonso,,17thc."
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del sig. dottor Ippolito Visdomini, tra Fileni il Fosco (sonnet): Berni descrivi con mirabil arte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20462",
+                            "RecordID": "022-000008192",
+                            "Value": "Visdomini,Ippolito,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

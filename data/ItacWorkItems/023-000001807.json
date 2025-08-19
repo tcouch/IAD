@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001807",
+        "WorkId": "00122",
+        "ShortTitle": "Aula heroum sive fasti romanorum ab urbe condita usque ad Ann. Dom. 1674.",
+        "LongTitle": "In quibus omnes roman\u00e6 histori\u00e6 continentur hic enim romanorum reges consules magistri equitum et imperatores cum eorundem triumphis et ovationibus principes senatus pontifices maximi et S. R. E. cardinales urbisque praesides qui sub nomine senatoris Romae nunc resident dignoscuntur. Ac demum Monumenta quae sub heroum imaginibus Patavii in dicta Aula in qua modo bibliotheca et Academia Ricoveratorum florent; Ioan. Cavacius Nob. Patav. olim erexit nuperque Thomas Hercolanus  Phil. et Theol. Patav. Canonicus Aquilei\u00e6 et bibliotheca praefectus vetustate consumpta restituit clarioraque urbi et orbis fascinora recensentur. Libri quatuor Ferdinando Mariae S.R.I. Electori Archidapifero duci utriusque Bavari\u00e6 et Palatinatus Superioris comiti Palatino Rheni Landgravio in Liectemberg et c. Sacr\u00e6 militi\u00e6 Augusta Angelica Aureata Constantiniana S. Georgii Protectori Supremo. Comite Iacobo Zabarella Magn\u00e6 crucis equite S. Georgii magnoque priore Hyerosolim\u00e6 et ordinis consule. Editio secunda",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1674",
+        "DedicationPlaceDate": "Padua 2 July 1673 | Padua Pridie Idus January 1674 (13 January)",
+        "Shelfmark": "658.e.22 | 602.e.25",
+        "Subjects": "Antiquities",
+        "Language": "Latin",
+        "Pagination": "pp. 391 plus Index",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5190",
+                "RecordID": "022-000000184",
+                "Value": "Zabarella,Giacomo,Count (The Younger),fl.1646 - 1674"
+            }
+        },
+        "Notes": "The author declares himself `Academicus Zitocleus et Ricoveratus Patavii; Incognitus et Delphicus Venetiis; Apatista Florentiae; Gelatus Bononiae`. Dedicatee to be confirmed",
+        "CensorsAgreement": "Superiorum permissu",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9637",
+                "RecordID": "022-000001685",
+                "Value": "Frambotti,Pietro Maria,,"
+            }
+        },
+        "PrinterOrnament": "Mar.te 741",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

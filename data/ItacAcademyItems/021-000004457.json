@@ -1,0 +1,302 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0083",
+        "RecordId": "021-000004457",
+        "Name": "Accesi-Bologna (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Burning logs blown on by a wind",
+        "Motto": "augmina sunt",
+        "StartDate": "1686",
+        "EndDate": "1699",
+        "DateText": "1686-1699",
+        "Notes": "Founded by Domenico Bernardoni and Lucio Antonio Santamaria. For a history of the Accademia degli Accesi, see Bergamini, `Dai Gelati alla Renia (1670-1698). Appunti per una storia delle accademie letterarie bolognesi`, in La Colonia Renia: profilo documentario e critico dell\u2019Arcadia bolognese, ed. Mario Saccenti 2 vols (Modena: 1988).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17564",
+                "RecordId": "022-000004453",
+                "Name": "Tommasini,Vincenzo Carlo,,1668 - 1698",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5394",
+                "RecordId": "022-000000403",
+                "Name": "Bernardoni,Pietro Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17567",
+                "RecordId": "022-000004456",
+                "Name": "Orsi,Gian Gioseffo,,1652 - 1733",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15755",
+                "RecordId": "022-000002300",
+                "Name": "Bernardoni,Domenico,,fl.1689 - 1705",
+                "Nickname": "L` Eccitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17561",
+                "RecordId": "022-000004448",
+                "Name": "Muratori,Ludovico Antonio,,1672 - 1750",
+                "Nickname": "L` Affumicato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5084",
+                "RecordId": "022-000000081",
+                "Name": "Marescalchi,Vincenzo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5021",
+                "RecordId": "022-000000023",
+                "Name": "Fioravanti,Innocenzio Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17562",
+                "RecordId": "022-000004451",
+                "Name": "Gabrielli,Carlo Maria,,fl.1686 - 1694",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17563",
+                "RecordId": "022-000004452",
+                "Name": "Guinigi,Vincenzo Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17700",
+                "RecordId": "022-000004595",
+                "Name": "Sacchi,Angelo Antonio,,1650 - 1723",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17566",
+                "RecordId": "022-000004455",
+                "Name": "Maggi,Carlo Maria,,1630 - 1699",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15756",
+                "RecordId": "022-000002301",
+                "Name": "Santamaria,Lucio Antonio,,1667 - 1693",
+                "Nickname": "il Seminino",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17843",
+                "RecordId": "022-000004753",
+                "Name": "Mazzoni,Giacomo,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17844",
+                "RecordId": "022-000004754",
+                "Name": "Marcolini,Ottavio,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17845",
+                "RecordId": "022-000004755",
+                "Name": "Battaglini,Marco Antonio,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17846",
+                "RecordId": "022-000004756",
+                "Name": "Argelati,Francesco Nicola,,Among the founders of the Accesi",
+                "Nickname": "il Tiepido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17847",
+                "RecordId": "022-000004757",
+                "Name": "Pistorini,Giacomo,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17848",
+                "RecordId": "022-000004758",
+                "Name": "Sega,Giacomo,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17849",
+                "RecordId": "022-000004759",
+                "Name": "Guicciardini,Nicolo`,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17850",
+                "RecordId": "022-000004760",
+                "Name": "Bricci,Marco Antonio,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17851",
+                "RecordId": "022-000004761",
+                "Name": "Martelli,Pier Giacomo,,fl. 1686",
+                "Nickname": "l`Indugiato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17852",
+                "RecordId": "022-000004762",
+                "Name": "Bulbarini,Lazzaro,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17853",
+                "RecordId": "022-000004763",
+                "Name": "Buzzichelli,Jacopo Antonio,,fl. 1686",
+                "Nickname": "l`Odoroso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17565",
+                "RecordId": "022-000004454",
+                "Name": "Fava,Niccolo` Maria Valeriano,Count,1670 - 1736",
+                "Nickname": "il Gelato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17854",
+                "RecordId": "022-000004764",
+                "Name": "Scarlattini,Ottavio,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17855",
+                "RecordId": "022-000004765",
+                "Name": "Zannini,Angelo,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17856",
+                "RecordId": "022-000004766",
+                "Name": "Guidazzoli,Gioseffo,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17857",
+                "RecordId": "022-000004767",
+                "Name": "Guastarobbi,Gio. Maria,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17858",
+                "RecordId": "022-000004768",
+                "Name": "Piantini,Giovanni M.,,fl. 1686",
+                "Nickname": "l`Ascoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17859",
+                "RecordId": "022-000004769",
+                "Name": "Piccinini,Lodovico,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17860",
+                "RecordId": "022-000004770",
+                "Name": "Lambertini,Antonio,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5606",
+                "RecordId": "022-000000672",
+                "Name": "Ferrari,Francesco,,fl. 1686",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19495",
+                "RecordId": "022-000006720",
+                "Name": "Gigli,Girolamo,,1660-1722",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16149",
+                "RecordId": "022-000002763",
+                "Name": "Martello,Pieriacopo,,1665-1727",
+                "Nickname": "Indugiato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20779",
+                "RecordId": "022-000008606",
+                "Name": "De Lemene,Francesco,Count,1634-1704",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

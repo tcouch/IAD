@@ -1,0 +1,106 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007826",
+        "WorkId": "000874",
+        "ShortTitle": "Lucae Antonii Portii Dissertationes varia",
+        "ItacAcademyItem": {
+            "AcademyId": "0443",
+            "RecordID": "021-000007808",
+            "Value": "Accademia Sarottiana"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1684",
+        "Shelfmark": "1169c16",
+        "Subjects": "Experimental science",
+        "Language": "Latin",
+        "Pagination": "152",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16146",
+                "RecordID": "022-000002759",
+                "Value": "Porzio,Luca Antonio,,1639-1724"
+            }
+        },
+        "Notes": "The relevance of these discourses within the Accademia Sarottiana, were already known to Gimma, Elogi (1703), and are highlighted by Dini (1985).",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19797",
+                    "RecordID": "022-000007229",
+                    "Value": "Giustinian,Girolamo Ascanio,,"
+                },
+                {
+                    "PersonId": "16407",
+                    "RecordID": "022-000003073",
+                    "Value": "Marcello,Ferigo,,"
+                },
+                {
+                    "PersonId": "16172",
+                    "RecordID": "022-000002793",
+                    "Value": "Nicolosi,Gio[vanni] Battista,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Reformatori dello Studio di Padova. Havendo veduto per fede del Padre Inquisitore nel libro intitolato, Luca Antonii Portii Dissertationes variae non v`esser cosa alcuna contra la Santa Fede cattolica e parimente per attestato del Segretario nostro, niente contro prencipi e buoni costumi, concediamo licenza, a Combi e Lanou` di poterlo stampare, osservando gl`ordini e c.Data li 5 Febraro 1683. Gerolamo Ascanio Zustinian Reff. -- Ferigo Marcello Reff. -- Gio. Battista Nicolosi Segr.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20244",
+                "RecordID": "022-000007828",
+                "Value": "Giustinian,Marcantonio,,1619-1688"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20243",
+                "RecordID": "022-000007827",
+                "Value": "Combi & La Nou`,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55033",
+            "Value": "023-000007826_55033_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Cur medicina practica non satis aestimetur: assentatoresque facilius admitti ad medicinae exercitium",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16146",
+                            "RecordID": "022-000002759",
+                            "Value": "Porzio,Luca Antonio,,1639-1724"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De aere artificialis flammae et animalibus mortifero",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16146",
+                            "RecordID": "022-000002759",
+                            "Value": "Porzio,Luca Antonio,,1639-1724"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De rarefactionum natura",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16146",
+                            "RecordID": "022-000002759",
+                            "Value": "Porzio,Luca Antonio,,1639-1724"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

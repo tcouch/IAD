@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9248",
+        "RecordId": "022-000001544",
+        "Surname": "Tudor",
+        "Forename": "Henry VIII",
+        "PersonalTitle": "King of England",
+        "DateText": "1491-1547",
+        "StartDate": "1491",
+        "EndDate": "1547",
+        "Nationality": {
+            "NationalityId": "68",
+            "Value": "English"
+        },
+        "Role": "Dedicatee",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

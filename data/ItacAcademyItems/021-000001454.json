@@ -1,0 +1,52 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0018",
+        "RecordId": "021-000001454",
+        "Name": "Affumati (Accademia degli)",
+        "AlternativeName": "Academia Afumatorum",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "c.1530",
+        "DateText": "c.1530-",
+        "Notes": "Description of Academy can be found in Paolo Prodi Il cardinale Gabriele Paleotti vol. 1 (Rome 1959) pp. 58-9",
+        "ItacPersonItem": [
+            {
+                "PersonId": "7552",
+                "RecordId": "022-000001456",
+                "Name": "Benzio , Trifone, , fl.1530-1571",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7553",
+                "RecordId": "022-000001457",
+                "Name": "Paleotti, Gabriele, Cardinal, 1522-1597",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7554",
+                "RecordId": "022-000001458",
+                "Name": "Thiene , Marco, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7550",
+                "RecordId": "022-000001463",
+                "Name": "Anonymous, , ,",
+                "Nickname": "Offuscato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

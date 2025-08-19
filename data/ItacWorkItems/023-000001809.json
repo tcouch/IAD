@@ -1,0 +1,117 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001809",
+        "WorkId": "00125",
+        "ShortTitle": "Discorsi poetici dell`eccell(entissimo) sig(nor) Faustino Summo padovano.",
+        "LongTitle": "Ne` quali si discorreno le pi\u00f9 principali questioni di poesia et si dichiarano molti luoghi dubi et difficili intorno all`arte del poetare. Secondo la mente di Aristotile di Platone e di altri buoni autori.",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1600",
+        "Shelfmark": "638.g.2.(3.) | 82.a.6.(2.) | 75.c.31",
+        "Subjects": "Poetics",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 95",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9137",
+                "RecordID": "022-000001747",
+                "Value": "Summo,Faustino,,? - 1611"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9320",
+                "RecordID": "022-000001677",
+                "Value": "Moieschino,Ridolfo Pio,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9636",
+                "RecordID": "022-000001683",
+                "Value": "Bolzetta,Francesco,,1566-1653"
+            }
+        },
+        "Notes": "The author expresses gratitude to the founder of the Academy for being admitted as a member.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9000",
+                    "RecordID": "022-000001572",
+                    "Value": "Cornaro,Federico,Abbot,1579 - 1659"
+                },
+                {
+                    "PersonId": "9002",
+                    "RecordID": "022-000001574",
+                    "Value": "Pigna,Francesco,,ca. 1582-?"
+                },
+                {
+                    "PersonId": "9010",
+                    "RecordID": "022-000001578",
+                    "Value": "Cremonini,Cesare,,1550-1631"
+                },
+                {
+                    "PersonId": "9011",
+                    "RecordID": "022-000001579",
+                    "Value": "Mussato,Gianfrancesco,,1533 - 1613"
+                },
+                {
+                    "PersonId": "9031",
+                    "RecordID": "022-000001621",
+                    "Value": "Querenghi,Antonio,,1546 - 1633"
+                },
+                {
+                    "PersonId": "9133",
+                    "RecordID": "022-000001742",
+                    "Value": "Dottori,Benedetto,,"
+                },
+                {
+                    "PersonId": "9134",
+                    "RecordID": "022-000001743",
+                    "Value": "Zacco,Hieronimo,,"
+                },
+                {
+                    "PersonId": "9135",
+                    "RecordID": "022-000001744",
+                    "Value": "Moresini,Donato,,"
+                },
+                {
+                    "PersonId": "9136",
+                    "RecordID": "022-000001745",
+                    "Value": "Moresini,Andrea,,"
+                },
+                {
+                    "PersonId": "9642",
+                    "RecordID": "022-000001746",
+                    "Value": "Cortesi,Cortese,,1550-1617"
+                },
+                {
+                    "PersonId": "9137",
+                    "RecordID": "022-000001747",
+                    "Value": "Summo,Faustino,,? - 1611"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9635",
+                "RecordID": "022-000001682",
+                "Value": "Pasquati,Lorenzo,,fl. 1561-1624"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

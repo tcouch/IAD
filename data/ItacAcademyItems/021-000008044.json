@@ -1,0 +1,78 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0512",
+        "RecordId": "021-000008044",
+        "Name": "Elevati-Ferrara (Accademia degli)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "EmblemDescription": "Hercules lifting and suffocating Antaeus",
+        "Motto": "Supera tellus sidera donat",
+        "StartDate": "1540",
+        "EndDate": "1541",
+        "DateText": "1540-1541",
+        "Notes": "Publications related to the history of the Elevati Academy, but not in British Library collections, include: \nCanzone e tre sonetti inediti recitati nell`Accademia ferarese degli elevati istituita nel 1540 da Alberto Lollio; con annotazioni del canonico Giuseppe Antonelli (Ferrara: Taddei & figli, 192?);",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20471",
+                "RecordId": "022-000008201",
+                "Name": "Lollio,Alberto,,1508-1569",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20472",
+                "RecordId": "022-000008203",
+                "Name": "Calcagnini,Celio,,1479-1541",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20473",
+                "RecordId": "022-000008204",
+                "Name": "Antimaco,Marco Antonio,,ca.1473-1552",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20474",
+                "RecordId": "022-000008205",
+                "Name": "Lando,Ortensio,,1500/12-1556/59",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15473",
+                "RecordId": "022-000001998",
+                "Name": "Giraldi Cinzio,Giambattista,,1504-1573",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16014",
+                "RecordId": "022-000002583",
+                "Name": "Giraldi,Lilio Gregorio,,1479 - 1552",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20476",
+                "RecordId": "022-000008207",
+                "Name": "Bentivoglio,Ercole,,1507-1573",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

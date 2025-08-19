@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001432",
+        "WorkId": "00200",
+        "ShortTitle": "Echinadum Naumachia",
+        "LongTitle": "In qua B. Virginis Precibus de innumera Turcarum classe insignis divinitus est reportata victoria. Auctore R. P. F. Petro Villaroele Stylitano theologo min. strict. Observanti\u00e6 provinti\u00e6 neapolitan\u00e6 Academico Otioso. Cum indice rerum notabilium",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1614",
+        "DedicationPlaceDate": "Naples 3 November 1613 | Naples October 1613 | Naples 13 November 1611 |",
+        "Shelfmark": "Rb.23.a.16245",
+        "Subjects": "Religious poetry|Encomiastic poetry",
+        "Language": "Latin",
+        "Illustration": "Woodcuts | Religious figures",
+        "Pagination": "pp. 696",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15744",
+                "RecordID": "022-000002287",
+                "Value": "Villaroele,Pietro,,"
+            }
+        },
+        "Notes": "This text contains three dedications written in three different dates.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15140",
+                    "RecordID": "022-000001182",
+                    "Value": "Tiroboscus,Cornelius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Petrus. Anton. Ghibertus Vicarius Gener. Merit\u00f2 Typis hoc opus insigne promulgari debet usqye ad saeculi finem egregi\u00e8 memorabile. Magister Cornel. Tirob. Pr\u00e6d. Ordinis Curiae Neap. Theologus.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15138",
+                "RecordID": "022-000001180",
+                "Value": "Philip III,,King of Spain,1578 - 1621"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15137",
+                "RecordID": "022-000001179",
+                "Value": "Scoriggio,Lazzaro,,"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "TitlePageImage": {
+            "ImageId": "54731",
+            "Value": "023-000001432_54731_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9130",
+        "RecordId": "022-000001737",
+        "Surname": "Averoldo",
+        "Forename": "Giulio Antonio",
+        "Gender": "Male",
+        "DateText": "1651-1717",
+        "StartDate": "1651",
+        "EndDate": "1717",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Man of letters and archaeologist, he received a degree in law at the University of Padua, but he did not practice law. He recited various poems in the Ricovrati Academy, which he joined in 1679.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

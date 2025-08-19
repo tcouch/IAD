@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "6050",
+        "RecordId": "022-000000771",
+        "Surname": "Colonna",
+        "Forename": "Girolamo",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1604-1666",
+        "StartDate": "1604",
+        "EndDate": "1666",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Archbishop of Bologna from 1631 to 1645",
+        "Role": "Censor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

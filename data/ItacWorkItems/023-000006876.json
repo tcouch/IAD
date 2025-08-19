@@ -1,0 +1,78 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006876",
+        "WorkId": "000804",
+        "ShortTitle": "Rime d`Antonio Ongaro,",
+        "LongTitle": "detto l`Affidato Accademico Illuminato. all`Illustrissima signora Isabella Marchesa Pallavicina",
+        "ItacAcademyItem": {
+            "AcademyId": "0231",
+            "RecordID": "021-000006857",
+            "Value": "Accademia degli Illuminati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1602",
+        "DedicationPlaceDate": "Valentano 2 dicembre 1599",
+        "Shelfmark": "11429a41",
+        "Language": "Italian",
+        "Pagination": "126 [6]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19568",
+                "RecordID": "022-000006856",
+                "Value": "Ongaro,Antonio,,1569 - 1599"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19578",
+                "RecordID": "022-000006878",
+                "Value": "Insegna,Mariano,Cavalier,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19569",
+                "RecordID": "022-000006858",
+                "Value": "Pallavicino,Isabella,Marchioness,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19577",
+                "RecordID": "022-000006877",
+                "Value": "Palella,Tiberio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,c. 1564-c. 1635"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54880",
+            "Value": "023-000006876_54880_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Il Cavalier Mariano Insegna detto l`Opaco all`Authore - Sonetto - Quando lo spirto tuo resto` disciolto",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19578",
+                        "RecordID": "022-000006878",
+                        "Value": "Insegna,Mariano,Cavalier,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

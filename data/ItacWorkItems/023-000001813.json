@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001813",
+        "WorkId": "00129",
+        "ShortTitle": "Lettres",
+        "LongTitle": "des mesdames de Scud\u00e9ry de Silvan de Saliez et de mademoiselle Descartes",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "City": {
+            "CityId": "57",
+            "PublicationPlaceItalianName": "Parigi",
+            "PublicationPlaceEnglishName": "Paris",
+            "PublicationPlaceLatinName": "Parisium"
+        },
+        "PublicationYear": "1806",
+        "DedicationPlaceDate": "Paris 1689",
+        "Shelfmark": "1085.h.14",
+        "Subjects": "Letters",
+        "Language": "French",
+        "Pagination": "293",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9168",
+                "RecordID": "022-000001753",
+                "Value": "Salvan de Saliez,Antoinette,,1638 - 1730"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9313",
+                "RecordID": "022-000001796",
+                "Value": "Collin,Leopold,,fl. 1804-1809"
+            }
+        },
+        "Notes": "In this letter the author thanks the Ricoverati for admitting her as member of the Academy, and deals with the role of women in society.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9313",
+                "RecordID": "022-000001796",
+                "Value": "Collin,Leopold,,fl. 1804-1809"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

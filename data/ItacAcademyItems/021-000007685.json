@@ -1,0 +1,60 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0398",
+        "RecordId": "021-000007685",
+        "Name": "Infaticabili (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1656",
+        "EndDate": "post1704",
+        "DateText": "1656-post1704",
+        "Notes": "Publications not in British Library collections, include: Applausi nella elettione del... C. espressi dall`Acc. degli Infaticabili..., Venetia (1656?); Il Mercurio de` trivii richiamato alle case de` grandi da gli Academici Infaticabili, nelle scuole publiche de` Padri Somaschi, .. (In Venetia: per il Valvasense, 1663); Le nazioni in Arsenale esercizio accademico. Dedicato all`illustriss. & eccellentiss. sig. Giovanni Sagredo ... da gli Accademici Infaticabili nelle scuole della Salute sotto la disciplina del p. Leonardo Bonetti .. (In Venezia: appresso Andrea Poletti, 1679); Maylender also mentions the following publications, but they are not included in the Italian national Catalogue OPAC: Ragionamenti politici sopra la conversione della repubblica romana in Monarchia... esposti dagli Infaticabili... sotto la direzione del p. Felice Donati (Venezia: Valvasense, 1664); Capo del Principato di Nerone... (Venezia: Valvasense, 1666); Applausi di giubilo nella elettione del serenissimo principe di Venezia Domenico Contarini... sotto la direzione del p. Gio. Battista Doni (Venezia: Zaccaria Conzati,1666).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20164",
+                "RecordId": "022-000007686",
+                "Name": "Contarini,Domenico,,1585-1675",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20167",
+                "RecordId": "022-000007689",
+                "Name": "Donati,Felice,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20166",
+                "RecordId": "022-000007688",
+                "Name": "Baffo,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20168",
+                "RecordId": "022-000007690",
+                "Name": "Bonetti,Leonardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20169",
+                "RecordId": "022-000007691",
+                "Name": "Doni,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

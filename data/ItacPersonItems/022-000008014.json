@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20350",
+        "RecordId": "022-000008014",
+        "Surname": "Molin",
+        "Forename": "Girolamo",
+        "AlternativeName": {
+            "AlternativeSurname": "Molino"
+        },
+        "DateText": "1500-1569",
+        "StartDate": "1500",
+        "EndDate": "1569",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Molin was never formally affiliated to Badoer`s Accademia Veneziana, but he played an important role at the early stage of the Academy life. In 1558 he offered Bernardo Tasso to publish his `Amadigi` with the funds  of the Academy. See his biography by Franco Tomasi in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

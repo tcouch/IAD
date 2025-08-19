@@ -1,0 +1,132 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007956",
+        "WorkId": "000905",
+        "ShortTitle": "Martiriu Di S. Agata Virgini, E Martiri Palermitana",
+        "LongTitle": "Poema Epicu Di Franciscu Baruni Nell`antica Academia di li Raccesi di Palermu dittu lu Sulitariu.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1692",
+        "Shelfmark": "241.e.38.",
+        "Subjects": "Sacred poetry",
+        "Language": "Italian|Latin|Sicilian literary language",
+        "Illustration": "Engraved page|Saint Agata",
+        "Pagination": "pp. 150",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18491",
+                "RecordID": "022-000005516",
+                "Value": "Barone,Francesco,,1622-1705"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18491",
+                    "RecordID": "022-000005516",
+                    "Value": "Barone,Francesco,,1622-1705"
+                },
+                {
+                    "PersonId": "20306",
+                    "RecordID": "022-000007960",
+                    "Value": "Olivares,Dominicus,,1630s-1698"
+                },
+                {
+                    "PersonId": "20307",
+                    "RecordID": "022-000007961",
+                    "Value": "Carini,Mamiliano,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18647",
+                    "RecordID": "022-000005707",
+                    "Value": "Termini,,Vicar General,"
+                },
+                {
+                    "PersonId": "18648",
+                    "RecordID": "022-000005708",
+                    "Value": "Scoma,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Impr. Termini V. G.\nImpr. Scoma P.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20302",
+                    "RecordID": "022-000007955",
+                    "Value": "Filingeri,Girolamo,Marquis of Lucca,"
+                },
+                {
+                    "PersonId": "18491",
+                    "RecordID": "022-000005516",
+                    "Value": "Barone,Francesco,,1622-1705"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20305",
+                "RecordID": "022-000007959",
+                "Value": "Inglese e Leone,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55251",
+            "Value": "023-000007956_55251_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55252",
+            "Value": "023-000007956_55252_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Alla Grandezza del Signor Don Girolamo Filingeri. Sonetto dell'Autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18491",
+                            "RecordID": "022-000005516",
+                            "Value": "Barone,Francesco,,1622-1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "S.T.D. Don Dominici Olivares Motycani Francisco Baronio Martyrium Divae Agathae Siculo Carmine concinenti.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20306",
+                            "RecordID": "022-000007960",
+                            "Value": "Olivares,Dominicus,,1630s-1698"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Don Mamiliani Carini In Francisci Baronis Laudem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20307",
+                            "RecordID": "022-000007961",
+                            "Value": "Carini,Mamiliano,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

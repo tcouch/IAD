@@ -1,0 +1,99 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000371",
+        "WorkId": "00033",
+        "ShortTitle": "Corona di rose poetiche et altre rime e versi",
+        "LongTitle": "de gli Academici notturni di Bologna nel felicissimo ingresso al Rettorato del molto illustre signor Rosato Rosati nel nobilissimo Collegio di Mont`alto in Bologna il 1 di Maggio MDXC.",
+        "ItacAcademyItem": {
+            "AcademyId": "0002",
+            "RecordID": "021-000000312",
+            "Value": "Accademia della Notte"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1590",
+        "Shelfmark": "11427.cc.28.(4)",
+        "Subjects": "Celebrating poems",
+        "Language": "Italian|Latin",
+        "Pagination": "Leaves unnumbered",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5285",
+                    "RecordID": "022-000000333",
+                    "Value": "Sempronio,Giovanni Leone,,ca. 1603-1646"
+                },
+                {
+                    "PersonId": "5286",
+                    "RecordID": "022-000000334",
+                    "Value": "L`Ombroso,,,"
+                },
+                {
+                    "PersonId": "5287",
+                    "RecordID": "022-000000335",
+                    "Value": "L`Oscuro,,,"
+                },
+                {
+                    "PersonId": "5288",
+                    "RecordID": "022-000000336",
+                    "Value": "Il Timoroso,,,"
+                },
+                {
+                    "PersonId": "5289",
+                    "RecordID": "022-000000337",
+                    "Value": "Il Tenebroso,,,"
+                },
+                {
+                    "PersonId": "5290",
+                    "RecordID": "022-000000338",
+                    "Value": "Bianci,Stephani,,"
+                },
+                {
+                    "PersonId": "5291",
+                    "RecordID": "022-000000339",
+                    "Value": "Academicus Fessus,,,"
+                },
+                {
+                    "PersonId": "5292",
+                    "RecordID": "022-000000340",
+                    "Value": "de` Rossi dei Conti di Pontecchio,Giovanni Galeazzo,Count,"
+                },
+                {
+                    "PersonId": "5293",
+                    "RecordID": "022-000000341",
+                    "Value": "Norii,Marino,,"
+                },
+                {
+                    "PersonId": "5298",
+                    "RecordID": "022-000000346",
+                    "Value": "Pesci,Ruggiero,,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5301",
+                "RecordID": "022-000000349",
+                "Value": "Peretti,Camilla,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5253",
+                "RecordID": "022-000000244",
+                "Value": "Cochi,Bartolomeo,,\u20201621"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52631",
+            "Value": "023-000000371_52631_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

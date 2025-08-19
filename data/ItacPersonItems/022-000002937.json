@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16284",
+        "RecordId": "022-000002937",
+        "Surname": "Aignan",
+        "Forename": "Francois",
+        "Gender": "Male",
+        "PersonalTitle": "Abbot",
+        "DateText": "1644-1709",
+        "StartDate": "1644",
+        "EndDate": "1709",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Also known as Father `Tranquillo d`Orleans`",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

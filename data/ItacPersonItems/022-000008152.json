@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20428",
+        "RecordId": "022-000008152",
+        "Surname": "Scotti",
+        "Forename": "Giulio Clemente",
+        "PersonalTitle": "Jesuit",
+        "Pseudonym": "Lucius Cornelius Europaeus",
+        "DateText": "1602-1669",
+        "StartDate": "1602",
+        "EndDate": "1669",
+        "Nationality": {
+            "NationalityId": "171",
+            "Value": "of Piacenza"
+        },
+        "Notes": "For his pseudonym, see the Italian OPAC. Founder of the Deformati Academy.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

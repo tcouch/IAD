@@ -1,0 +1,115 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007821",
+        "WorkId": "000873",
+        "ShortTitle": "A continuation of the new digester of bones:",
+        "LongTitle": "It`s improvements and new uses it hath been applyed to, both for Sea and Land. Together with some Improvements and new Uses of the air-pump tryed both in England and in Italy",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0443",
+                "RecordID": "021-000007808",
+                "Value": "Accademia Sarottiana"
+            },
+            {
+                "AcademyId": "0443",
+                "RecordID": "021-000007808",
+                "Value": "Sarottiana (Accademia)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "71",
+            "PublicationPlaceItalianName": "Londra",
+            "PublicationPlaceEnglishName": "London",
+            "PublicationPlaceLatinName": "Londinium"
+        },
+        "PublicationYear": "1687",
+        "Shelfmark": "1651/813(2)",
+        "Subjects": "Science|Experimental science",
+        "Language": "English",
+        "Pagination": "124",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20231",
+                "RecordID": "022-000007810",
+                "Value": "Papin,Denis,,1647-1714"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20239",
+                    "RecordID": "022-000007819",
+                    "Value": "Sarrotti,Ambrogio,,"
+                },
+                {
+                    "PersonId": "20231",
+                    "RecordID": "022-000007810",
+                    "Value": "Papin,Denis,,1647-1714"
+                }
+            ]
+        },
+        "Notes": "Instead of the colophon, one of the engravings contained in the book is shown here.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20241",
+                "RecordID": "022-000007824",
+                "Value": "Streater,Joseph,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55036",
+            "Value": "023-000007821_55036_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55037",
+            "Value": "023-000007821_55037_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Section the third. Experiments tried in Mr Sarotti's Academy at Venice",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20231",
+                            "RecordID": "022-000007810",
+                            "Value": "Papin,Denis,,1647-1714"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discourse of Mr Ambroise Sarrotti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20239",
+                            "RecordID": "022-000007819",
+                            "Value": "Sarrotti,Ambrogio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Conjectures propounded by Mr Ambroise Sarrotti upon the causes of the phenomena observed in one of the meetings",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20239",
+                            "RecordID": "022-000007819",
+                            "Value": "Sarrotti,Ambrogio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Mr Ambroise Sarrotti. His Discourse",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20239",
+                            "RecordID": "022-000007819",
+                            "Value": "Sarrotti,Ambrogio,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

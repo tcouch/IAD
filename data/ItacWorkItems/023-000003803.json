@@ -1,0 +1,103 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003803",
+        "WorkId": "000512",
+        "ShortTitle": "Le Due Sorelle Rivali, Comedia Nova.",
+        "LongTitle": "Di Eusebio Luchetti da Civitanova, detto l`Ostinato de disuniti. Dedicata Al Clariss. Sig. Valerio Michieli Nobile Venetiano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0063",
+            "RecordID": "021-000003801",
+            "Value": "Accademia dei Disuniti"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1609",
+        "DedicationPlaceDate": "Venice 21 May 1609",
+        "Shelfmark": "638.a.23.(2.)",
+        "Subjects": "Play",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 93",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17001",
+                "RecordID": "022-000003802",
+                "Value": "Luchetti ,Eusebio,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9665",
+                    "RecordID": "022-000001834",
+                    "Value": "Ottobonus,Leonardus,,"
+                },
+                {
+                    "PersonId": "15361",
+                    "RecordID": "022-000001400",
+                    "Value": "Breatto,Io[annes] Bapt[ista],,"
+                },
+                {
+                    "PersonId": "17004",
+                    "RecordID": "022-000003806",
+                    "Value": "Erizzo,Marc`Antonio,,"
+                },
+                {
+                    "PersonId": "17005",
+                    "RecordID": "022-000003807",
+                    "Value": "Contarini,Andrea,,"
+                },
+                {
+                    "PersonId": "17006",
+                    "RecordID": "022-000003808",
+                    "Value": "Corner,Hieronimo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Gli Eccellentiss. Sig. Capi dell`Illustriss. Cons. X. havuta fede dalli Sign. Riformatori del Studio di Padova, per relatione delli doi a ci\u00f2 deputati, cio\u00e8, del R. P. Inquisitor, & del Circ. Secretario del Senato Zuanne Maravegia, con giuramento che nella Comedia intitolata le Due Sorelle Rivali, di Eusebio Luchetti da Civitanova, non si trova cosa contra le leggi, & \u00e8 degna di stampa, concedono licenza che possi esser stampata in questa Citt\u00e0.\nDat. die 18. Novemb. 1608.\nD. Marc`Anto. Erizzo, D. Andrea Contarini, D. Hieronimo Corner, Capi dell`Illustriss. Cons. d. X.\nIllustriss. Cons. X. Sec.\nLeonardus Otthobonus.\n1608  \u00e0 19. novemb. Reg. in lib. \u00e0 carte 8. tergo. Io. Bapt. Breattus Off. cont. blasph.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17002",
+                    "RecordID": "022-000003804",
+                    "Value": "Michieli,Valerio,,"
+                },
+                {
+                    "PersonId": "17003",
+                    "RecordID": "022-000003805",
+                    "Value": "Secinarij,Fulvio,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17007",
+                "RecordID": "022-000003809",
+                "Value": "Salicato,Altobello (eredi),,"
+            }
+        },
+        "PrinterOrnament": "Mar.te 289",
+        "TitlePageImage": {
+            "ImageId": "53965",
+            "Value": "023-000003803_53965_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Dell`Ostinato. Al Molto illustre E Sig. & Padron mio colendiss. il Signor Colonnello Fulvio Secinarij da Riete.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "",
+                        "RecordID": ""
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

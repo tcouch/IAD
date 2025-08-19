@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9095",
+        "RecordId": "022-000001701",
+        "Surname": "Borromeus",
+        "Forename": "Alexander",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Borromeo",
+            "AlternativeForename": "Alessandro"
+        },
+        "DateText": "1625-1708",
+        "StartDate": "1625",
+        "EndDate": "1708",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Physician, Professor of `Teorica medica straordinaria` at the University of Padua, in 1668 Borromeo joined the Ricovrati, where he was elected Principe for the years 1688 and 1696-1700.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

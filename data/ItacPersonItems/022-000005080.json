@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18122",
+        "RecordId": "022-000005080",
+        "Surname": "Atanagi",
+        "Forename": "Dionigi",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Athanasius",
+            "AlternativeForename": "Dionysius"
+        },
+        "DateText": "ca.1510-1573",
+        "StartDate": "ca.1510",
+        "EndDate": "1573",
+        "Nationality": {
+            "NationalityId": "209",
+            "Value": "of Cagli"
+        },
+        "Role": "Contributor|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

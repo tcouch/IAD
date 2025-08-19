@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18123",
+        "RecordId": "022-000005082",
+        "Surname": "Martirano",
+        "Forename": "Coriolano",
+        "PersonalTitle": "Bishop",
+        "DateText": "1503 - 1557?",
+        "StartDate": "1503",
+        "EndDate": "1557?",
+        "Nationality": {
+            "NationalityId": "88",
+            "Value": "of Cosenza"
+        },
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0372",
+        "RecordId": "021-000007395",
+        "Name": "Filadelfici (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1690",
+        "EndDate": "?",
+        "DateText": "1690-?",
+        "Notes": "Supposedly founded by Giovanni Badoer, Patriarch of Venice.",
+        "ItacPersonItem": {
+            "PersonId": "19820",
+            "RecordId": "022-000007257",
+            "Name": "Badoer,Giovanni Alberto,Patriarch of Venice,1649 - 1714",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

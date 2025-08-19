@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15451",
+        "RecordId": "022-000001968",
+        "Surname": "Borghese",
+        "Forename": "Marcantonio",
+        "Gender": "Male",
+        "PersonalTitle": "Prince of Sulmona",
+        "DateText": "1660-1729",
+        "StartDate": "1660",
+        "EndDate": "1729",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

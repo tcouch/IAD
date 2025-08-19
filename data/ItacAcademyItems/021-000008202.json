@@ -1,0 +1,23 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0545",
+        "RecordId": "021-000008202",
+        "Name": "Occulti (Accademia degli)",
+        "City": {
+            "CityId": "61",
+            "CityItalianName": "Brescia",
+            "CityEnglishName": "Brescia",
+            "CityLatinName": "Brixia"
+        },
+        "Notes": "Publications related to the history of the Occulti Academy, but not in British Library collections, include: Oratione del sig. Alberto Lollio gentil`huomo ferrarese academico occulto chiamato l`Arcano in biasimo dell`otio ai signori Academici occulti di Brescia (1567).",
+        "ItacPersonItem": {
+            "PersonId": "20471",
+            "RecordId": "022-000008201",
+            "Name": "Lollio,Alberto,,1508-1569",
+            "Nickname": "Arcano",
+            "Motto": "Taciturnior",
+            "PersonEmblemDescription": "Thrush"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

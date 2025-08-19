@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16036",
+        "RecordId": "022-000002605",
+        "Surname": "Vitale",
+        "Forename": "Giano",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Vitalis",
+                "AlternativeForename": "Janus Franciscus"
+            },
+            {
+                "AlternativeForename": "Giovanni"
+            }
+        ],
+        "DateText": "ca. 1485 - 1560",
+        "StartDate": "ca. 1485",
+        "EndDate": "1560",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "On his life, Girolamo Tumminello, `Un umanista del secolo XVI`, in Archivio storico siciliano 8 (1883)",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

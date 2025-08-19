@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001908",
+        "WorkId": "000266",
+        "ShortTitle": "Messe piene a otto voci. Canto, Alto, Tenore, Basso, Organo (Primo, Secondo)",
+        "LongTitle": "Con uno o due organi se piace. Dedicate all`Illustrissimo Signore Co(nte) Alessandro San Vitali da Gio. Paolo Colonna. Maestro di Cappella in S(an) Petronio di Bologna, & Accademico Filaschise, e Filarmonico. Opera Quinta",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1684",
+        "Shelfmark": "D.40.a",
+        "Content": "Music",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 28",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15385",
+                "RecordID": "022-000001880",
+                "Value": "Colonna,Giovanni  Paolo,,1637-1695"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` Superiori. \nAd instanza di Marino Silvani, all`Insegna del Violino",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15406",
+                "RecordID": "022-000001910",
+                "Value": "San Vitali,Alessandro,Count,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52825",
+            "Value": "023-000001908_52825_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

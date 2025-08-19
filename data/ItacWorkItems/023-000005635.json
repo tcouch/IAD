@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005635",
+        "WorkId": "000683",
+        "ShortTitle": "Relatione Della Machina Alzata In Palermo A Di XV. Di Luglio M.DC.LX. Celebrandosi La Festa Di S. Rosalia",
+        "LongTitle": "Nobilissima Vergine Palermitana, Dal Sig. Pandolfo Malgonnelli, Nobile Fiorentino, Con il Dialogo recitato in detta Machina, composto dall`Unito Racceso, e posto in musica dal R.P.M.F. Gio. Battista Fasolo Minor Conventuale.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "96",
+            "PublicationPlaceItalianName": "Palermo & Firenze",
+            "PublicationPlaceEnglishName": "Palermo & Florence",
+            "PublicationPlaceLatinName": "Panormus & Florentia"
+        },
+        "PublicationYear": "1660",
+        "Shelfmark": "1323.h.1.(11.)",
+        "Subjects": "Religious celebrations|Religious poetry|Academic speech",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 8",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18434",
+                    "RecordID": "022-000005457",
+                    "Value": "Auria,Vincenzo,,1625 - 1710"
+                },
+                {
+                    "PersonId": "18576",
+                    "RecordID": "022-000005623",
+                    "Value": "Fasolo,Giovanni Battista,,1600c - ?"
+                },
+                {
+                    "PersonId": "18587",
+                    "RecordID": "022-000005636",
+                    "Value": "Malgonnelli,Pandolfo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con Licenza de` Superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18588",
+                "RecordID": "022-000005637",
+                "Value": "Vangelisti,Vincenzo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54626",
+            "Value": "023-000005635_54626_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

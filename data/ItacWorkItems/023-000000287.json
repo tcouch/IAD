@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000287",
+        "WorkId": "00008",
+        "ShortTitle": "I dolori della partenza dalla patria",
+        "LongTitle": "Discorso academico di Francesco Carmeni Il Sollevato. Recitato da lui nell`Accademia de Gelati e dedicato all`Illustrissimo Sig. Gio[vanni] Vincenzo Imperiali L`Attempato. Nel principato dell`illustrissimo Signor Conte Carlo Antonio Fibbia L` Impatiente.",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1637",
+        "Shelfmark": "113.b.8",
+        "Subjects": "Academic discourse|Patria",
+        "Language": "Italian",
+        "Pagination": "pp. 18",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5017",
+                "RecordID": "022-000000019",
+                "Value": "Carmeni,Francesco,,fl.1632-1671"
+            }
+        },
+        "Notes": "The author informs us that a debate took place in the Gelati Academy on whether it was more painful for a man having to abandon his beloved woman, or his beloved Patria. In his `discorso` Carmeni argued that leaving one`s Patria is worse than leaving the beloved woman, against the opinion of many academicians.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5147",
+                "RecordID": "022-000000143",
+                "Value": "Imperiale,Gian Vincenzo,,1582-1648"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52743",
+            "Value": "023-000000287_52743_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

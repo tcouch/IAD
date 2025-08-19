@@ -1,0 +1,32 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003571",
+        "WorkId": "000468",
+        "ShortTitle": "Tognia",
+        "LongTitle": "Comedia, overo tragedia rusticale, e soldatescha. Et un capitolo delle monache di San Martino. Composte per il Resoluto Sanese de` Rozzi.\nAND\nStanze rusticali. \nDe` Rozi vestiti alla Martorella.\nDelle fanciulle da maritarsi.\nDelle fantesche pregne",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1546",
+        "Shelfmark": "YF.2005a.14383",
+        "Subjects": "Comedy|Poetry",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16688",
+                "RecordID": "022-000003424",
+                "Value": "di Cenni,Angelo,,ca.1490-1575"
+            }
+        },
+        "Notes": "These are two separated works, brought together in the modern critical edition, ed. Menotti Stanghellini (Monteriggioni, 2002), which is in the British Library.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

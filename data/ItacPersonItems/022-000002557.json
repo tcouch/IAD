@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15989",
+        "RecordId": "022-000002557",
+        "Surname": "Bertanni",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bertano"
+            },
+            {
+                "AlternativeSurname": "Bertani"
+            }
+        ],
+        "DateText": "late1500-after1645",
+        "StartDate": "late1500",
+        "EndDate": "after1645",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Founder of the Disuniti. His biography by N. De Blasi in DBI.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

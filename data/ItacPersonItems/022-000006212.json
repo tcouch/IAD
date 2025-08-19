@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19088",
+        "RecordId": "022-000006212",
+        "Surname": "Bonarelli",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "PersonalTitle": "Count of Orciano",
+        "DateText": "fl. 1565-1574",
+        "StartDate": "fl. 1565",
+        "EndDate": "1574",
+        "Nationality": {
+            "NationalityId": "205",
+            "Value": "of Ancona"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

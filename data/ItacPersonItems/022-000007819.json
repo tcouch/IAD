@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20239",
+        "RecordId": "022-000007819",
+        "Surname": "Sarrotti",
+        "Forename": "Ambrogio",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Ambroise"
+            },
+            {
+                "AlternativeSurname": "Sarotti",
+                "AlternativeForename": null
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "The son of Paolo Sarotti",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

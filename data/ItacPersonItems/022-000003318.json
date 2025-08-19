@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16600",
+        "RecordId": "022-000003318",
+        "Surname": "Sanudo",
+        "Forename": "Giovanni Battista",
+        "AlternativeName": {
+            "AlternativeSurname": "Sanuto",
+            "AlternativeForename": null
+        },
+        "DateText": "1642 - 1709",
+        "StartDate": "1642",
+        "EndDate": "1709",
+        "Nationality": {
+            "NationalityId": "59"
+        },
+        "Notes": "Joined the Ricovrati in 1668.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18440",
+        "RecordId": "022-000005463",
+        "Surname": "Suarez",
+        "Forename": "Jose` Maria",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Suaresius"
+            },
+            {
+                "AlternativeForename": "Giuseppe Maria"
+            }
+        ],
+        "PersonalTitle": "Bishop of Vaison",
+        "DateText": "fl.1638 - 1677",
+        "StartDate": "fl.1638",
+        "EndDate": "1677",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Notes": "The librarian of Cardinal Francesco Barberini",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

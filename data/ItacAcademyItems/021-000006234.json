@@ -1,0 +1,55 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0149",
+        "RecordId": "021-000006234",
+        "Name": "Informi-Ravenna (Accademia degli)",
+        "City": {
+            "CityId": "99",
+            "CityItalianName": "Ravenna",
+            "CityEnglishName": "Ravenna"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "16597",
+                "RecordId": "022-000003315",
+                "Name": "Sasso,Giacomo,,1573 - 1610",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19103",
+                "RecordId": "022-000006232",
+                "Name": "Ordito,Accademico Informe ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19466",
+                "RecordId": "022-000006685",
+                "Name": "Lolli,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16293",
+                "RecordId": "022-000002946",
+                "Name": "Benigni Manfredi,Ippolita,,",
+                "Nickname": "la Riposata",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5602",
+                "RecordId": "022-000000659",
+                "Name": "Manfredi,Muzio,,ca.1535-1609",
+                "Nickname": "Fermo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9224",
+        "RecordId": "022-000001521",
+        "Surname": "Valgrisi",
+        "Forename": "Vincenzo",
+        "DateText": "fl. 1539-1577",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "See edit 16 for more information about alternative names",
+        "Role": "Printer",
+        "TypographicReference": "Z1035 | U517|A130|Z1036",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

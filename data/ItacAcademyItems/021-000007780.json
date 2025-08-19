@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0424",
+        "RecordId": "021-000007780",
+        "Name": "Peripatetici (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1630",
+        "EndDate": "?",
+        "DateText": "1630-?",
+        "Notes": "A publication related to this Academy, but not held in British Library collections, is Gabriele Lazari, tesi di naturale filosofia sostenuta publicamente a nove marzo 1630.",
+        "ItacPersonItem": {
+            "PersonId": "20222",
+            "RecordId": "022-000007779",
+            "Name": "Lazari,Gabriele,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

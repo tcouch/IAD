@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19675",
+        "RecordId": "022-000007037",
+        "Surname": "Farinacci",
+        "Forename": "Prospero",
+        "Gender": "Male",
+        "DateText": "1544-1618",
+        "StartDate": "1544",
+        "EndDate": "1618",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Joined Academia Eustathia in 1561. He was a well known criminal lawyer in Rome,with a turbulent life. Farinacci defended the Cenci brothers, accused of killing their father. See his biography by Aldo Mazzacane in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

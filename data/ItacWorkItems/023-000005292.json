@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005292",
+        "WorkId": "000653",
+        "ShortTitle": "Secolo d`oro falsamente felice",
+        "LongTitle": "Discorso di Maurizio Piccardi e da lui recitato nell`Accademia de` Signori Humoristi",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1643",
+        "Shelfmark": "1031g5(5)",
+        "Subjects": "Academic discourse",
+        "Language": "Italian",
+        "Pagination": "32",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18288",
+                "RecordID": "022-000005291",
+                "Value": "Piccardi,Maurizio,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5099",
+                "RecordID": "022-000000096",
+                "Value": "Barberini,Francesco,Cardinal,1597-1679"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18289",
+                "RecordID": "022-000005293",
+                "Value": "Grignani,Ludovico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54407",
+            "Value": "023-000005292_54407_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

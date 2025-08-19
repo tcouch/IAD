@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18558",
+        "RecordId": "022-000005597",
+        "Surname": "Lunghi",
+        "Forename": "Martino (The Younger)",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Longhi",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Lungo",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1602 - 1660",
+        "StartDate": "1602",
+        "EndDate": "1660",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Member of a Lombard family of architects, the nephew of Martino Longhi the Elder.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

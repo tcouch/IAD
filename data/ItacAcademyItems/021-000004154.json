@@ -1,0 +1,63 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0069",
+        "RecordId": "021-000004154",
+        "Name": "Sborrati (Accademia degli)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Rakes in the centre of a shperical figure joined by two snakes who bite a sort of star above the impresa from which star pours blood",
+        "Motto": "Graviora prudentes scrutantur",
+        "StartDate": "1530ca.",
+        "EndDate": "?",
+        "DateText": "1530ca.-?",
+        "Notes": "On the Sborrati, see Mazzi, vol. 2, pp. 414-5",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17330",
+                "RecordId": "022-000004155",
+                "Name": "Nardi,Callisto,,",
+                "Nickname": "Dubbioso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17333",
+                "RecordId": "022-000004158",
+                "Name": "Insipido,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17334",
+                "RecordId": "022-000004159",
+                "Name": "Curioso,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17332",
+                "RecordId": "022-000004157",
+                "Name": "Cimotto,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17336",
+                "RecordId": "022-000004162",
+                "Name": "Archisborrato,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

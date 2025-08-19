@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17187",
+        "RecordId": "022-000003994",
+        "Surname": "Ghislieri",
+        "Forename": "Michele",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal Alessandrino|Pope Pius V",
+        "DateText": "1504-1572",
+        "StartDate": "1504",
+        "EndDate": "1572",
+        "Nationality": {
+            "NationalityId": "363",
+            "Value": "of Bosco (Alessandria)"
+        },
+        "Notes": "Patron of the Accademia Veneziana",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

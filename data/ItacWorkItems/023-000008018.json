@@ -1,0 +1,64 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008018",
+        "WorkId": "000913",
+        "ShortTitle": "Quinto libro delle rime",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1560",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5625",
+                "RecordID": "022-000000695",
+                "Value": "Tasso,Bernardo,,1493-1569"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Sonnet dedcated to Academici Venetiani - Sacri intelletti a cui da Giove e' dato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5625",
+                            "RecordID": "022-000000695",
+                            "Value": "Tasso,Bernardo,,1493-1569"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonnet in honour of Federico Badoer - Piana e sicura via, da piede humano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5625",
+                            "RecordID": "022-000000695",
+                            "Value": "Tasso,Bernardo,,1493-1569"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dedicated to Abbot Marloppino - Marloppin mio tu per giovar a questo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5625",
+                            "RecordID": "022-000000695",
+                            "Value": "Tasso,Bernardo,,1493-1569"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

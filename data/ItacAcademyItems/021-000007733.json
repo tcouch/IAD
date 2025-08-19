@@ -1,0 +1,62 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0410",
+        "RecordId": "021-000007733",
+        "Name": "Laboriosi (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Swarm of bees entering a cylindrical hive by two small apertures",
+        "Motto": "Ignavum fucos pecum",
+        "StartDate": "1620",
+        "EndDate": "?; 1628",
+        "DateText": "1620-?; 1628-1629",
+        "Notes": "Maylender mentions a couple of publications, not in British Library Catalogue, related to this Academy: Giovanni Dolce, Paralello delle Republiche e delle Academie... G. Dolce fra Laboriosi l`Affanato, nell`aprirsi dell`accademia in casa del sig. Raimondo (Venezia, Antonio Pinelli, 1629); Corona pel dottorato di Gio. Battista Millani (Venezia, 1628).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20570",
+                "RecordId": "022-000008324",
+                "Name": "Sala,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20569",
+                "RecordId": "022-000008323",
+                "Name": "Rosetini,Luca,,16th-17th c.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20571",
+                "RecordId": "022-000008325",
+                "Name": "Lusi,Todero,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20572",
+                "RecordId": "022-000008326",
+                "Name": "Cattaneo,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20573",
+                "RecordId": "022-000008327",
+                "Name": "Dolce,Giovanni,,",
+                "Nickname": "l' Affanato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

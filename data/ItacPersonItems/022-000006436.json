@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19255",
+        "RecordId": "022-000006436",
+        "Surname": "Mirabella",
+        "Forename": "Vincenzo",
+        "Gender": "Male",
+        "DateText": "1570-1641",
+        "StartDate": "1570",
+        "EndDate": "1641",
+        "Nationality": {
+            "NationalityId": "271",
+            "Value": "of Siracusa"
+        },
+        "Notes": "Mathematician, musicologist, numismatist, as well as interested in history and archeology, joined the Lincei in 1614 on Della Porta`s proposal.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

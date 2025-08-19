@@ -1,0 +1,33 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5030",
+        "RecordId": "022-000000032",
+        "Surname": "Maurizzi",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Maurizio"
+            },
+            {
+                "AlternativeSurname": "Mauriccio"
+            },
+            {
+                "AlternativeSurname": "Mauritio",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Io. Baptista"
+            }
+        ],
+        "DateText": "1550? - 1635",
+        "StartDate": "1550?",
+        "EndDate": "1635",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

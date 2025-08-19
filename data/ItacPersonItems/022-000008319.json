@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20567",
+        "RecordId": "022-000008319",
+        "Surname": "Striggio",
+        "Forename": "Alessandro",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Striggi",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Count",
+        "DateText": "ca.1573-1630",
+        "StartDate": "ca.1573",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "Striggio wrote the libretto for Monteverdi`s opera, L`Orfeo (1607). He is not to be confused with his father, a librettist also called Alessandro Striggio.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19106",
+        "RecordId": "022-000006236",
+        "Surname": "Elio",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "PersonalTitle": "Bishop of Pola",
+        "DateText": "ca.1510-1576",
+        "StartDate": "ca.1510",
+        "EndDate": "1576",
+        "Nationality": {
+            "NationalityId": "289",
+            "Value": "of Capodistria"
+        },
+        "Notes": "According to Wardrop (1952), Elio was a member of the Sdegnati Academy.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

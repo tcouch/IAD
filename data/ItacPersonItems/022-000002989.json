@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16335",
+        "RecordId": "022-000002989",
+        "Surname": "Altomare",
+        "Forename": "Donato Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Ab Altomari",
+            "AlternativeForename": "Donatus Antonius"
+        },
+        "DateText": "1566?-1630s?",
+        "StartDate": "1566?",
+        "EndDate": "1630s?",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "For a reference to Donato Antonio Altomare see Petri Salii Diversi, Annotationes in Librum Donati Antonii Ab Altomare, Bononiae, 1584 (British Library Shelfmark: 1167.h.6.)",
+        "Role": "Author|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

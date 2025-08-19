@@ -1,0 +1,51 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0401",
+        "RecordId": "021-000007714",
+        "Name": "Cimento (Napoli) (Accademia del)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1680",
+        "EndDate": "?",
+        "DateText": "1680-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17262",
+                "RecordId": "022-000004077",
+                "Name": "Ariano,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20190",
+                "RecordId": "022-000007716",
+                "Name": "Ippolito,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20191",
+                "RecordId": "022-000007717",
+                "Name": "Angrisani,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17239",
+                "RecordId": "022-000004054",
+                "Name": "di Stefano,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

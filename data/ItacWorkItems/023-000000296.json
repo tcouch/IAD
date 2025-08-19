@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000296",
+        "WorkId": "00017",
+        "ShortTitle": "Rime",
+        "LongTitle": "del conte Ridolfo Campeggi  Nell`Accademia dei Gelati Il Rugginoso. All`Illustrissimo et Reverendissimo Signor Cardinale Ferdinando Gonzaga",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "36",
+            "PublicationPlaceItalianName": "Parma",
+            "PublicationPlaceEnglishName": "Parma",
+            "PublicationPlaceLatinName": "Parmae"
+        },
+        "PublicationYear": "1608",
+        "DedicationPlaceDate": "Bologna 25 June 1608",
+        "Shelfmark": "1063.a.11(1) | C.128.e.10",
+        "Subjects": "Love Poems|Funereal poems|Celebratory poems",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|",
+        "Pagination": "177 [15]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5039",
+                "RecordID": "022-000000041",
+                "Value": "Campeggi,Ridolfo,Count,1565-1624"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "5254",
+                "RecordID": "022-000000245",
+                "Value": "Perlasca,Simone,,"
+            }
+        },
+        "Notes": "Title page ornament signed with monogram. See Filarmindo 1607 and others. The book contains the Idyll on the occasion of the death of Filippo Facchinetti, with some academicians` nicknames that I did not find in other books.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5193",
+                    "RecordID": "022-000000187",
+                    "Value": "Facchinetti,Filippo,Senator,?1608"
+                },
+                {
+                    "PersonId": "5205",
+                    "RecordID": "022-000000199",
+                    "Value": "Gonzaga,Ferdinando,Cardinal,"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5278",
+                "RecordID": "022-000000267",
+                "Value": "Valesio,Giovanni,,1561-1640"
+            }
+        },
+        "EngraverReference": "Bartsch 4002.018",
+        "TitlePageImage": {
+            "ImageId": "52693",
+            "Value": "023-000000296_52693_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

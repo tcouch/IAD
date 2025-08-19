@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5297",
+        "RecordId": "022-000000345",
+        "Surname": "Gaudefroy",
+        "Forename": "Jacques",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Gaufridus",
+                "AlternativeForename": "Iacobus"
+            },
+            {
+                "AlternativeSurname": "De Gaufridi",
+                "AlternativeForename": "Jacopo"
+            },
+            {
+                "AlternativeSurname": "Gaufrido"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Something about his identity and life is in Angelo Colombo, I riposi di Pindo (Florence, 1988).",
+        "Role": null,
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

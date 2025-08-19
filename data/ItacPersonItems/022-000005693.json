@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18637",
+        "RecordId": "022-000005693",
+        "Surname": "Emmanueli",
+        "Forename": "Piero",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Emmanuel",
+            "AlternativeForename": "Petrus"
+        },
+        "DateText": "?-1669",
+        "StartDate": "?",
+        "EndDate": "1669",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a biographical account see Antonino Mongitore, Bibliotheca Sicula, Felicella, Palermo, Vol.II, p. 138 (BL Shelfmark:610.m.10.)",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

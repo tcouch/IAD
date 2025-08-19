@@ -1,0 +1,83 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008366",
+        "WorkId": "000938",
+        "ShortTitle": "Organo. Harmonia di devoti concerti",
+        "LongTitle": "A due, e tre voci, con Violini e senza. Consacrati All`Eminentissimo e Reverendissimo Signore Il sig, Cardinale Nicolo` Acciaioli Legato di Ferrara Da Sebastiano Cherici. Maestro di Cappella dell`Illustrissima Accademia della Venerabile Compagnia dello Spirito Santo di Ferrara. Opera seconda",
+        "ItacAcademyItem": {
+            "AcademyId": "0537",
+            "RecordID": "021-000008071",
+            "Value": "Spirito Santo (Accademia dello)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1681",
+        "Shelfmark": "C175",
+        "Subjects": "Music",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 62",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15621",
+                "RecordID": "022-000002147",
+                "Value": "Chierici,Sebastiano,Chapel Master,1647-1704"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7409",
+                    "RecordID": "022-000001001",
+                    "Value": "Chrisostomus,Iohannes,,"
+                },
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal|Archibishop of Bologna,1622 - 1684"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Io. Chrysostomus Vicecomes Clericus Reg. Sancti Pauli, et in Metropolitana Bononiae Paenitentiarius pro Eminentissimo, et Reverendissimo D. D. Hieronymo Boncompagno Archiepiscopo, et Principe",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16121",
+                "RecordID": "022-000002730",
+                "Value": "Acciaioli,Nicol\u00f2 ,Cardinal,1630-1719"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55300",
+            "Value": "023-000008366_55300_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55301",
+            "Value": "023-000008366_55301_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Caelorum lumina \u00a6 Ennarate Vos Caeli \u00a6 Alma Redemptoris \u00a6 O decus canorum \u00a6 O dilectissimi \u00a6 Recedite \u00a6 Cantate mortales \u00a6 Ad citharas dulces \u00a6 Heu in faelix Peccator \u00a6 Regina Caeli \u00a6 Venite gentes \u00a6 Deplorandus",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15621",
+                        "RecordID": "022-000002147",
+                        "Value": "Chierici,Sebastiano,Chapel Master,1647-1704"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

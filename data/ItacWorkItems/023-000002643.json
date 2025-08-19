@@ -1,0 +1,109 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002643",
+        "WorkId": "000324",
+        "ShortTitle": "Quarte Rime",
+        "LongTitle": "Della Signora Laura Terracina Detta Phebea Nell`Academia De Gl`Incogniti",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1560",
+        "DedicationPlaceDate": "Naples 18 April 1550; Naples 5 June 1550; Naples 10 May 1550",
+        "Shelfmark": "11427.df.5.",
+        "Content": "Encomiatic poetry; poems dedicated to the author",
+        "Subjects": "Encomiastic Poetry",
+        "Language": "Italian",
+        "Illustration": "Woodcut|Portrait of Laura Terracina",
+        "Pagination": "pp. 75",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16062",
+                "RecordID": "022-000002642",
+                "Value": "Terracina,Laura,,1519-1577"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16065",
+                    "RecordID": "022-000002646",
+                    "Value": "Mantegna,Gio[vanni] Alfonso ,,1535? - 1577?"
+                },
+                {
+                    "PersonId": "16081",
+                    "RecordID": "022-000002666",
+                    "Value": "Morera,Scipione,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16064",
+                "RecordID": "022-000002645",
+                "Value": "Farri,Domenico,,1519 - 1604"
+            }
+        },
+        "CensorsAgreement": "The colophon contains a manuscript note on censorship and ownership.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16066",
+                    "RecordID": "022-000002647",
+                    "Value": "Sanseverino,Pietro Antonio,Prince of Bisignano,"
+                },
+                {
+                    "PersonId": "16065",
+                    "RecordID": "022-000002646",
+                    "Value": "Mantegna,Gio[vanni] Alfonso ,,1535? - 1577?"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16064",
+                "RecordID": "022-000002645",
+                "Value": "Farri,Domenico,,1519 - 1604"
+            }
+        },
+        "PrinterOrnament": "MAR.T.E. 1347",
+        "TitlePageImage": {
+            "ImageId": "52849",
+            "Value": "023-000002643_52849_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Alla Generosa Signora Laura Terracina, Giovanni Alfonso Mantegna;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16065",
+                            "RecordID": "022-000002646",
+                            "Value": "Mantegna,Gio[vanni] Alfonso ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Scipione Morera detto Astemio Incognito a la Laura Terracina.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16081",
+                            "RecordID": "022-000002666",
+                            "Value": "Morera,Scipione,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

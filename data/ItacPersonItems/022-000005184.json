@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18204",
+        "RecordId": "022-000005184",
+        "Surname": "de Simeonibus",
+        "Forename": "Gasparis",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "De Simone"
+            },
+            {
+                "AlternativeForename": "Gaspare"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "59"
+        },
+        "Notes": "Signed the 1608 `Vincolo` document for the Umoristi. The author of: In morte di Girolamo Aleandro. Orazione... nell`Accademia degli Umoristi (Parigi, Cremoisy, 1636). Secretary of the Epistolae ad principes up to 1653 (Pastor). Censor among the Umoristi in 1638.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

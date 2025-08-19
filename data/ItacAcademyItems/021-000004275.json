@@ -1,0 +1,310 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0074",
+        "RecordId": "021-000004275",
+        "Name": "Rozzi minori (Congrega dei)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Propped up cork tree",
+        "Motto": "Tosto risorge l`un se l`altro cade",
+        "StartDate": "?",
+        "EndDate": "1665",
+        "DateText": "?-1665",
+        "Notes": "Details of academicians` mottoes and emblems are in Mazzi, vol. 2, p. 410.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17419",
+                "RecordId": "022-000004276",
+                "Name": "Neri,Ranieri,,",
+                "Nickname": "Lo Zelante",
+                "Motto": "Divenuta cosi` per zel d`amore",
+                "PersonEmblemDescription": "Broken spear"
+            },
+            {
+                "PersonId": "17420",
+                "RecordId": "022-000004277",
+                "Name": "Franceschini,Lattanzio,,",
+                "Nickname": "L` Aggiustato",
+                "Motto": "Al centro l`un l`altra al rigiro attende",
+                "PersonEmblemDescription": "A compass"
+            },
+            {
+                "PersonId": "17421",
+                "RecordId": "022-000004278",
+                "Name": "Cimboni,Iacinto,,",
+                "Nickname": "L` Ardente",
+                "Motto": "Ai rai dei meriti altrui ardo e sfavillo",
+                "PersonEmblemDescription": "Sun rays - jar - tinderbox"
+            },
+            {
+                "PersonId": "17480",
+                "RecordId": "022-000004351",
+                "Name": "Capezzi,Giuseppe,,",
+                "Nickname": "Il Curioso",
+                "Motto": "Se presto e` `l fior il frutto tarda e dura",
+                "PersonEmblemDescription": "Almond tree in blossom"
+            },
+            {
+                "PersonId": "17482",
+                "RecordId": "022-000004355",
+                "Name": "Bartalini,Carlo,,",
+                "Nickname": "Il Desioso",
+                "Motto": "Giunger all` alta cima ancora aspiro",
+                "PersonEmblemDescription": "Pruned vine"
+            },
+            {
+                "PersonId": "17483",
+                "RecordId": "022-000004356",
+                "Name": "Neri,Austino,,",
+                "Nickname": "Il Geloso",
+                "Motto": "M` armo per gelosia di man rapace",
+                "PersonEmblemDescription": "Gooseberry with fruit"
+            },
+            {
+                "PersonId": "17487",
+                "RecordId": "022-000004360",
+                "Name": "Catini,Muzio,,",
+                "Nickname": "Il Rifatto",
+                "Motto": "Per non perir cosi` rifassi e frutta",
+                "PersonEmblemDescription": "Shoot of vine re-planted"
+            },
+            {
+                "PersonId": "17488",
+                "RecordId": "022-000004361",
+                "Name": "Ciuoli,Bernardino,,",
+                "Nickname": "Lo Sbattuto",
+                "Motto": "Con le spesse percosse piu` m` affino",
+                "PersonEmblemDescription": "Linen"
+            },
+            {
+                "PersonId": "17498",
+                "RecordId": "022-000004372",
+                "Name": "Urbani,Mariotto,,",
+                "Nickname": "Il Quieto",
+                "Motto": "Dopo molto scorrir qui trovo posa",
+                "PersonEmblemDescription": "Spring water forming a paddle"
+            },
+            {
+                "PersonId": "17499",
+                "RecordId": "022-000004373",
+                "Name": "Miniati,Ferdinando,,",
+                "Nickname": "L` Agevole",
+                "Motto": "Per vincer cedo e col mio ceder vinco",
+                "PersonEmblemDescription": "Plant to be tied"
+            },
+            {
+                "PersonId": "17500",
+                "RecordId": "022-000004374",
+                "Name": "Franciroli,Giovanni,,",
+                "Nickname": "Il Diviato",
+                "Motto": "ancor che traviato al centro giungo",
+                "PersonEmblemDescription": "River flows out of its bed and reaches the sea"
+            },
+            {
+                "PersonId": "17501",
+                "RecordId": "022-000004375",
+                "Name": "Massaini,Austino,,",
+                "Nickname": "Il Dilettevole",
+                "Motto": "Da tal diletto e fiori e frutti cavansi",
+                "PersonEmblemDescription": "Garden with flowers and fruits"
+            },
+            {
+                "PersonId": "17502",
+                "RecordId": "022-000004376",
+                "Name": "Umoroni,Mattia,,",
+                "Nickname": "Forzato",
+                "Motto": "Per occulta virtu` tirata accostasi",
+                "PersonEmblemDescription": "Iron chain attracted by magnet"
+            },
+            {
+                "PersonId": "17503",
+                "RecordId": "022-000004377",
+                "Name": "Brunelli,Modesto,,",
+                "Nickname": "L`Intronato",
+                "Motto": "M` introno sol per far perfetto altrui",
+                "PersonEmblemDescription": "Anvil and hammer"
+            },
+            {
+                "PersonId": "17504",
+                "RecordId": "022-000004378",
+                "Name": "Bernardi,Silvio,,",
+                "Nickname": "Il Sollevato",
+                "Motto": "Con sollevarsi al centro suo s`accosta",
+                "PersonEmblemDescription": "Ascending flame"
+            },
+            {
+                "PersonId": "17505",
+                "RecordId": "022-000004379",
+                "Name": "Erasmi,Giovanni,,",
+                "Nickname": "L` Accarezzato",
+                "Motto": "Dall` alte fronti accarezzato io sono",
+                "PersonEmblemDescription": "Bay plant"
+            },
+            {
+                "PersonId": "17506",
+                "RecordId": "022-000004380",
+                "Name": "Mugnaini,Andrea,,",
+                "Nickname": "Il Seguace",
+                "Motto": "Seguo per obedir a chi m` impera",
+                "PersonEmblemDescription": "Boat tied to a galley"
+            },
+            {
+                "PersonId": "17531",
+                "RecordId": "022-000004414",
+                "Name": "Borzacchini,Mattia,,",
+                "Nickname": "L` Amoroso",
+                "Motto": "Egli il sostegno ed ella il frutto porge",
+                "PersonEmblemDescription": "Elm with vine and its fruit"
+            },
+            {
+                "PersonId": "17532",
+                "RecordId": "022-000004415",
+                "Name": "Mascarpini,Alfonso,,",
+                "Nickname": "Il Guardengo",
+                "Motto": "Si` mirando i bei rai vita ricevo",
+                "PersonEmblemDescription": "Sunflower"
+            },
+            {
+                "PersonId": "17479",
+                "RecordId": "022-000004350",
+                "Name": "Virgili,Ignazio,,",
+                "Nickname": "Il Disuguale",
+                "Motto": "Con esser disugual son piu` sonoro",
+                "PersonEmblemDescription": "Organ with pipes"
+            },
+            {
+                "PersonId": "17536",
+                "RecordId": "022-000004419",
+                "Name": "Carducci,Enea,,",
+                "Nickname": "Il Volontario",
+                "Motto": "M`accosto volontaria agli altri rai",
+                "PersonEmblemDescription": "Ascending cloud"
+            },
+            {
+                "PersonId": "17535",
+                "RecordId": "022-000004418",
+                "Name": "Conti,Ippolito,,",
+                "Nickname": "L` Amabile",
+                "Motto": "Per color e per odor amabil sono",
+                "PersonEmblemDescription": "A plant of roses"
+            },
+            {
+                "PersonId": "17534",
+                "RecordId": "022-000004417",
+                "Name": "R[...]rdini,Bernardino,,",
+                "Nickname": "L` Ambizioso",
+                "Motto": "Se piu` si puo` piu` sublimarmi aspiro",
+                "PersonEmblemDescription": "A piramid"
+            },
+            {
+                "PersonId": "17533",
+                "RecordId": "022-000004416",
+                "Name": "Marchetti,Pietro,,",
+                "Nickname": "Il vario",
+                "Motto": "Porgon col variar piu` vario odore",
+                "PersonEmblemDescription": "Flowerpot full of flowers"
+            },
+            {
+                "PersonId": "17537",
+                "RecordId": "022-000004420",
+                "Name": "Pianigiani,Domenico,,",
+                "Nickname": "Il Vigilante",
+                "Motto": "Benche` minore io sia io son sempre il primo",
+                "PersonEmblemDescription": "The first flower in the fields"
+            },
+            {
+                "PersonId": "17538",
+                "RecordId": "022-000004421",
+                "Name": "Ricci,Domenico,,",
+                "Nickname": "Il Benigno",
+                "Motto": "Benignitade e non asprezza io porto",
+                "PersonEmblemDescription": "Plant of fennel"
+            },
+            {
+                "PersonId": "17539",
+                "RecordId": "022-000004422",
+                "Name": "Ciuoli,Carlo,,",
+                "Nickname": "Il Costante",
+                "Motto": "si piega si ma non giamai si rompe",
+                "PersonEmblemDescription": "Palm tree"
+            },
+            {
+                "PersonId": "17540",
+                "RecordId": "022-000004423",
+                "Name": "Tanini,Mariano,,",
+                "Nickname": "L` Ameno",
+                "Motto": "Amenitade speme e frutto porgo",
+                "PersonEmblemDescription": "Field of green earwheat"
+            },
+            {
+                "PersonId": "17541",
+                "RecordId": "022-000004424",
+                "Name": "Brazzi,Giulio,,",
+                "Nickname": "Il Conversevole",
+                "Motto": "Vago fior grato odor porge e s`accosta",
+                "PersonEmblemDescription": "Plant of blossomed genista"
+            },
+            {
+                "PersonId": "17542",
+                "RecordId": "022-000004425",
+                "Name": "Livi,Giuseppe,,",
+                "Nickname": "L` Agitato",
+                "Motto": "Con l`agitar si perfeziona ogn` opra",
+                "PersonEmblemDescription": "Lathe"
+            },
+            {
+                "PersonId": "17543",
+                "RecordId": "022-000004426",
+                "Name": "Guidi,Giuseppe,,",
+                "Nickname": "Il Veloce",
+                "Motto": "Piu` veloce ne giunge al degno scopo",
+                "PersonEmblemDescription": "Arrow shot from the bow"
+            },
+            {
+                "PersonId": "17545",
+                "RecordId": "022-000004428",
+                "Name": "Neri,Rinaldo,,",
+                "Nickname": "Il Mutabile",
+                "Motto": "Il suo spesso mutar virtude infonde",
+                "PersonEmblemDescription": "Waxing and waining half moon"
+            },
+            {
+                "PersonId": "17546",
+                "RecordId": "022-000004429",
+                "Name": "Cenni,Giovambattista,,",
+                "Nickname": "Il Fermo",
+                "Motto": "Frange chi lo percote ne` gia` mutasi",
+                "PersonEmblemDescription": "Wave-struck rock"
+            },
+            {
+                "PersonId": "17544",
+                "RecordId": "022-000004427",
+                "Name": "Cappellini,Piermaria,,",
+                "Nickname": "L` Avventato",
+                "Motto": "S` inoltra piu` quanto piu` forte avventasi",
+                "PersonEmblemDescription": "Arrow hurled by manual force"
+            },
+            {
+                "PersonId": "17423",
+                "RecordId": "022-000004280",
+                "Name": "Giusti,Girolamo,,",
+                "Nickname": "Lo Sconsertato",
+                "Motto": "Ben tosto qui riconsertarmi spero",
+                "PersonEmblemDescription": "A Clock"
+            },
+            {
+                "PersonId": "17481",
+                "RecordId": "022-000004353",
+                "Name": "Magini,Carlo,,",
+                "Nickname": "L` Affettuoso",
+                "Motto": "Si fan di due divisi un tronco solo",
+                "PersonEmblemDescription": "Grafted branch"
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

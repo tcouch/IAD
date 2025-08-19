@@ -1,0 +1,102 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005299",
+        "WorkId": "000655",
+        "ShortTitle": "Il Giorgio. Poema Sacro Et Heroico Del Sig. Matteo Donia Palermitano.",
+        "LongTitle": "Donato da lui \u00e0 Giovan Battista suo figliuolo. Con un breve Discorso del R. Sig. D. Leonardo Orlandini Et Greco, Dottore & Regio Canonico della Chiesa Maggior di Palermo, Et con gli Argomenti \u00e0 ciascun Canto del Sig. Gieromino Spucces Fisico della stessa Citt\u00e0.",
+        "ItacAcademyItem": {
+            "AcademyId": "0114",
+            "RecordID": "021-000005234",
+            "Value": "Accademia degli Accesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1600",
+        "Shelfmark": "11429.c.58.(1.)",
+        "Subjects": "Sacred poetry",
+        "Language": "Italian|Greek|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 64",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18290",
+                "RecordID": "022-000005294",
+                "Value": "Donia,Matteo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18256",
+                    "RecordID": "022-000005253",
+                    "Value": "Orlandini,Leonardo,,1552 - 1618"
+                },
+                {
+                    "PersonId": "18294",
+                    "RecordID": "022-000005300",
+                    "Value": "Spucces,Gieronimo,,"
+                },
+                {
+                    "PersonId": "18297",
+                    "RecordID": "022-000005303",
+                    "Value": "Blasi,Andrea,Theologian,"
+                },
+                {
+                    "PersonId": "18296",
+                    "RecordID": "022-000005302",
+                    "Value": "Brandi,Giovanni Antonio,Theologian,"
+                }
+            ]
+        },
+        "Notes": "This text contains a speech by Leonardo Orlandini",
+        "CensorsAgreement": "In Palermo, Con Licenza de` Superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18298",
+                "RecordID": "022-000005304",
+                "Value": "Maringo,Giovanni Battista,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Del R.P.F. Andrea Blasi Fiorentino, Theologo dell`Ordine Erem. di Santo Agostino, & Reggente in Santo Spirito di Fiorenza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18297",
+                            "RecordID": "022-000005303",
+                            "Value": "Blasi,Andrea,Theologian,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del R. P. F. Gio. Antonio Brandi, Theologo dell`Ordine de gli Scalzi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18296",
+                            "RecordID": "022-000005302",
+                            "Value": "Brandi,Giovanni Antonio,Theologian,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Canonico Orlandini A I Lettori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18256",
+                            "RecordID": "022-000005253",
+                            "Value": "Orlandini,Leonardo,,1552 - 1618"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

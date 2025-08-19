@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008317",
+        "WorkId": "000934",
+        "ShortTitle": "La Semiramis Boscareccia di Mutio Manfredi Il Fermo Academico Innominato, Invaghito, et Olimpico.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0551",
+                "RecordID": "021-000008268",
+                "Value": "Invaghiti (Mantova) (Accademia degli)"
+            },
+            {
+                "AcademyId": "0387",
+                "RecordID": "021-000007512",
+                "Value": "Accademia Olimpica"
+            },
+            {
+                "AcademyId": "0106",
+                "RecordID": "021-000005036",
+                "Value": "Innominati (Parma) (Accademia degli)"
+            },
+            {
+                "AcademyId": "0387",
+                "RecordID": "021-000007512",
+                "Value": "Olimpica (Accademia)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "125",
+            "PublicationPlaceItalianName": "Bergamo",
+            "PublicationPlaceLatinName": "Bergomum"
+        },
+        "PublicationYear": "1593",
+        "DedicationPlaceDate": "1 June 1593, Nancy",
+        "Shelfmark": "638.d.20|162.g.47",
+        "Content": "Drama in five acts and in verse",
+        "Subjects": "Theatre|Pastoral drama",
+        "Language": "Italian",
+        "Pagination": "pp. 67",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5602",
+                "RecordID": "022-000000659",
+                "Value": "Manfredi,Muzio,,ca.1535-1609"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16072",
+                "RecordID": "022-000002655",
+                "Value": "Farnese,Ranuccio I,Duke of Parma,1569 - 1622"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20566",
+                "RecordID": "022-000008318",
+                "Value": "Ventura,Comino,,fl.1578-1617"
+            }
+        },
+        "PrinterOrnament": "V3 - Z572",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19254",
+        "RecordId": "022-000006435",
+        "Surname": "von Aschhausen",
+        "Forename": "Johann Gottfried",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Goffredo"
+            },
+            {
+                "AlternativeForename": "Giovanni Gottifredo"
+            }
+        ],
+        "DateText": "1575-1622",
+        "StartDate": "1575",
+        "EndDate": "1622",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Von Aschhausen was in Rome between 1612 and 1613 as Emperor Matthias` ambassador to Pope Paul V. He was a great admirer and patron of the Lincei.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

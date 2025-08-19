@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003679",
+        "WorkId": "000489",
+        "ShortTitle": "Philomathi musae iuveniles",
+        "LongTitle": "Editio novissima prioribus auctior et emendatior",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "70",
+            "PublicationPlaceItalianName": "Amsterdam",
+            "PublicationPlaceEnglishName": "Amsterdam",
+            "PublicationPlaceLatinName": "Amstelodami"
+        },
+        "PublicationYear": "1660",
+        "DedicationPlaceDate": "Coloniae Agrippinae (Cologne, Germany) April 1645",
+        "Shelfmark": "1213.c.22",
+        "Subjects": "Poetry",
+        "Language": "Latin",
+        "Pagination": "225",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16544",
+                "RecordID": "022-000003251",
+                "Value": "Chigi,Fabio ,Pope Alexander VII,1559 - 1667"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "17841",
+                "RecordID": "022-000004751",
+                "Value": "Sierstopffius,Henricus Francken ,,"
+            }
+        },
+        "CensorsAgreement": "Poemata haec, omnium praeconiis exornari, et sic praelum quoque subire, dignissima sunt. IV Kal. Septembr. 1645\n\n\nHenricus Franken Sierstopffius SS. Theol. Doctor; Metropolitana Colon. Presbyter Canonicus; Gymnasii Laurent. Regens; librorum Censor.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16904",
+                "RecordID": "022-000003677",
+                "Value": "Chigi,Flavio,,1631 - 1693"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16903",
+                "RecordID": "022-000003675",
+                "Value": "Furstenberg,Wilhelmus,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16906",
+                "RecordID": "022-000003680",
+                "Value": "Blaen,Ioan,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53893",
+            "Value": "023-000003679_53893_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

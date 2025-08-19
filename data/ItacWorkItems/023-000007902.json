@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007902",
+        "WorkId": "000898",
+        "ShortTitle": "Governo della famiglia",
+        "LongTitle": "di M. Nicolo` Vito di Gozze, Gentilhuomo Raguseo, Accademico Occulto: nel quale brevemente, trattando la vera economia, s`insegna, non meno con facilit\u00e0, che dottamente, il gouerno, non pure della casa tanto di citt\u00e0, quanto di contado; ma ancora il vero modo di accrescere, & conservare le ricchezze. Con una tavola delle cose piu notabili.",
+        "ItacAcademyItem": {
+            "AcademyId": "0474",
+            "RecordID": "021-000007901",
+            "Value": "Accademia degli Occulti - Murano"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1589",
+        "DedicationPlaceDate": "1 gennaio 1589",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20263",
+                "RecordID": "022-000007898",
+                "Value": "Gu\u010deti\u0107 ,Nikola Vitov,,1549-1610"
+            }
+        },
+        "Notes": "It is not clear whether `Occulto` is Gozze`s academic nickname, or whether it indicates his affiliation to the Occulti Academy.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7599",
+                "RecordID": "022-000000278",
+                "Value": "Di Gozze,Nicolo` Alovis,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17510",
+                "RecordID": "022-000004385",
+                "Value": "Manuzio,Aldo Jr,,1547-1597"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55091",
+            "Value": "023-000007902_55091_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

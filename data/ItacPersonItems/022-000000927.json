@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7340",
+        "RecordId": "022-000000927",
+        "Surname": "Amadino",
+        "Forename": "Ricciardo",
+        "Gender": "Male",
+        "DateText": "fl.1583-1621",
+        "StartDate": "fl.1583",
+        "EndDate": "1621",
+        "Nationality": {
+            "NationalityId": "82",
+            "Value": "of Brescia"
+        },
+        "Notes": "Amadino was mostly active in Venice, see edit16 for more details",
+        "Role": "Printer",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18444",
+        "RecordId": "022-000005467",
+        "Surname": "Guidiccioni",
+        "Forename": "Lelio",
+        "AlternativeName": {
+            "AlternativeForename": "Laelii"
+        },
+        "DateText": "1582 - 1643",
+        "StartDate": "1582",
+        "EndDate": "1643",
+        "Nationality": {
+            "NationalityId": "158",
+            "Value": "of Lucca"
+        },
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

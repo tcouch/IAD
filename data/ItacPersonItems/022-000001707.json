@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9101",
+        "RecordId": "022-000001707",
+        "Surname": "Viali",
+        "Forename": "Felice",
+        "Gender": "Male",
+        "DateText": "1638 - 1722",
+        "StartDate": "1638",
+        "EndDate": "1722",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1671. Professor of botanic in Padua.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

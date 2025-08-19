@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15003",
+        "RecordId": "022-000001045",
+        "Surname": "Manso",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Ioannes Baptistam"
+        },
+        "PersonalTitle": "Marquis of Villa",
+        "DateText": "1569 -1645",
+        "StartDate": "1569",
+        "EndDate": "1645",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Protrait from Manso, Poesie Nomiche, Venice, 1635. Giovanni Battista Manso was the first President of the Oziosi Academy in Naples.",
+        "Role": "Author|Contributor|Dedicatee|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

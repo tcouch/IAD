@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15019",
+        "RecordId": "022-000001061",
+        "Surname": "De Castro Andrada",
+        "Forename": "Pietro Fernandez",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "A Castro",
+            "AlternativeForename": "Petrum Ferd."
+        },
+        "PersonalTitle": "Count|Viceroy",
+        "DateText": "1560-1634",
+        "StartDate": "1560",
+        "EndDate": "1634",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

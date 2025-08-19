@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16524",
+        "RecordId": "022-000003221",
+        "Surname": "Papini",
+        "Forename": "Carlo",
+        "DateText": "1586 - 1648",
+        "StartDate": "1586",
+        "EndDate": "1648",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Roman Jesuit, signs as Irresoluto Intronato. See Melzi, II, p. 43, and Autori italiani del Seicento, n. 2560.",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

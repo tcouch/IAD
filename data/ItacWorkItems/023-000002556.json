@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002556",
+        "WorkId": "000315",
+        "ShortTitle": "La Gerusalemme Assicurata",
+        "LongTitle": "del Cavalier Gio. Battista Bertanni Tragedia rappresentata in Padova per gli Accademici Disuniti l`anno 1642. Alla presenza dell`Illustriss. et Eccellentiss. Sig. capitano Giorgio Contarini et allo stesso dedicata.",
+        "ItacAcademyItem": {
+            "AcademyId": "0033",
+            "RecordID": "021-000002555",
+            "Value": "Accademia dei Disuniti"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1642",
+        "DedicationPlaceDate": "4 April 1642",
+        "Shelfmark": "638.a.34.(1.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Illustration": "Engraved titlepage|",
+        "Pagination": "pp. 144",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15989",
+                "RecordID": "022-000002557",
+                "Value": "Bertanni,Gio. Battista,,"
+            }
+        },
+        "Notes": "Printer`s name has been erased. According to Maylender, Giulio Crivellari is the printer.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15990",
+                "RecordID": "022-000002558",
+                "Value": "Contarini,Giorgio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9197",
+                "RecordID": "022-000001781",
+                "Value": "Crivellari,Giulio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53098",
+            "Value": "023-000002556_53098_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17080",
+        "RecordId": "022-000003886",
+        "Surname": "Scala",
+        "Forename": "Federigo",
+        "DateText": "1575 - 1645",
+        "StartDate": "1575",
+        "EndDate": "1645",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Joined the Insipidi in 1596, Founder of the Seminario della Scala",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15702",
+        "RecordId": "022-000002233",
+        "Surname": "Beccatelli",
+        "Forename": "Pomponio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Beccadelli"
+            },
+            {
+                "AlternativeSurname": "Becatelli"
+            }
+        ],
+        "DateText": "1540-?",
+        "StartDate": "1540",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "See Zaccaria (1996)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

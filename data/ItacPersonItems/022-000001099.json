@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15058",
+        "RecordId": "022-000001099",
+        "Surname": "Carlino",
+        "Forename": "Gio[vanni] Giacomo",
+        "AlternativeName": {
+            "AlternativeSurname": "Carlinum",
+            "AlternativeForename": "Ioannem Iacobum"
+        },
+        "DateText": "c. 1579-c. 1615",
+        "StartDate": "c. 1579",
+        "EndDate": "c. 1615",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Printer|Publisher",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

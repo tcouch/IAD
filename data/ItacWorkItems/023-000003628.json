@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003628",
+        "WorkId": "000480",
+        "ShortTitle": "Orazione del Morato Accademico Filomato",
+        "LongTitle": "Nella venuta del Gran Duca di Toscana all`Accademia. Dedicata alla Serenissima Madama Christiana Principessa di Loreno Granduchessa di Toscana",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1613",
+        "DedicationPlaceDate": "Siena 12 Ottobre 1613",
+        "Shelfmark": "1570/1011",
+        "Subjects": "Celebratory oration",
+        "Language": "Italian",
+        "Pagination": "23",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16865",
+                "RecordID": "022-000003629",
+                "Value": "Pannocchieschi,Arturo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16866",
+                "RecordID": "022-000003630",
+                "Value": "Florimi,Heredi di Matteo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53887",
+            "Value": "023-000003628_53887_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

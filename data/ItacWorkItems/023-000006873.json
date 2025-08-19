@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006873",
+        "WorkId": "000803",
+        "ShortTitle": "Iosephii Lanzoni Medici Ferrariensis",
+        "LongTitle": "Et Academiae Curiosorum Germaniae, Recuperatorum Patavii, Incitatorum Faventiae, et Colleg. Dissertatio de Iatro=Physicis Ferrariensibus, qui Medicinam Scriptis suis exornaverunt.",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Accademia dei Ricovrati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1691",
+        "Shelfmark": "1185k2(15)",
+        "Subjects": "Medicine",
+        "Language": "Latin",
+        "Pagination": "14",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19560",
+                "RecordID": "022-000006841",
+                "Value": "Lanzoni,Giuseppe,,1663 - 1730"
+            }
+        },
+        "Notes": "A short bibliographical essay on Ferrarese physician writers.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19575",
+                "RecordID": "022-000006874",
+                "Value": "Terzago,Paolo Maria ,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19576",
+                "RecordID": "022-000006875",
+                "Value": "De Longhi,Giuseppe,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54874",
+            "Value": "023-000006873_54874_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

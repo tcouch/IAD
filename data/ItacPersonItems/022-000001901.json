@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15399",
+        "RecordId": "022-000001901",
+        "Surname": "Zannetti",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Zanettus; Zannetus; Zannettus; Zannetti; Zanetti; Zannetto; Zanetos",
+            "AlternativeForename": "Franciscus; Phrankiskos;"
+        },
+        "DateText": "1530-1591",
+        "StartDate": "1530",
+        "EndDate": "1591",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See edit16 for more information.",
+        "Role": "Printer",
+        "TypographicReference": "U135",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

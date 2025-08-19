@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007890",
+        "WorkId": "000892",
+        "ShortTitle": "De legato pontificio",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "835e1(5)",
+        "Subjects": "Conduct|Etiquette|Diplomacy",
+        "Language": "Latin",
+        "Pagination": "[4] 21r-v",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20261",
+                "RecordID": "022-000007889",
+                "Value": "Alberti,Leon Battista,,1404-1472"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16956",
+                "RecordID": "022-000003746",
+                "Value": "Perrenot de Granvelle ,Antoine ,Cardinal|Bishop of Arras (Atrebatensis),1517-1586"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20260",
+                "RecordID": "022-000007888",
+                "Value": "Cillenio,Raffaele,,?-1595"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "PrinterOrnament": "U226",
+        "TitlePageImage": {
+            "ImageId": "55079",
+            "Value": "023-000007890_55079_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Trivia Senatoria",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20261",
+                        "RecordID": "022-000007889",
+                        "Value": "Alberti,Leon Battista,,1404-1472"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

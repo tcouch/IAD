@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008668",
+        "WorkId": "000989",
+        "ShortTitle": "Ob[l]igo dei Reggenti",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1559",
+        "DedicationPlaceDate": "21 June",
+        "Shelfmark": "John Rylands Library Aldine Collection 609",
+        "Language": "Italian",
+        "Pagination": "1 leaf",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18042",
+                    "RecordID": "022-000004982",
+                    "Value": "Contile,Luca,,1505-1574"
+                },
+                {
+                    "PersonId": "16954",
+                    "RecordID": "022-000003744",
+                    "Value": "Faenzi,Valerio,Inquisitor of Venice,fl.1557-1598"
+                },
+                {
+                    "PersonId": "17213",
+                    "RecordID": "022-000004026",
+                    "Value": "Girardi,Antonio,,16th c."
+                },
+                {
+                    "PersonId": "16013",
+                    "RecordID": "022-000002582",
+                    "Value": "Fenaroli,Girolamo,,fl.1557"
+                },
+                {
+                    "PersonId": "16085",
+                    "RecordID": "022-000002671",
+                    "Value": "Badoer,Giovanni,,fl. 1557"
+                },
+                {
+                    "PersonId": "5625",
+                    "RecordID": "022-000000695",
+                    "Value": "Tasso,Bernardo,,1493-1569"
+                },
+                {
+                    "PersonId": "16046",
+                    "RecordID": "022-000002618",
+                    "Value": "Silvio,Marc`Antonio,,fl.1557"
+                },
+                {
+                    "PersonId": "16171",
+                    "RecordID": "022-000002792",
+                    "Value": "Bello Buono,Decio,,fl. 1557"
+                },
+                {
+                    "PersonId": "5639",
+                    "RecordID": "022-000000714",
+                    "Value": "Patrizi,Francesco,,1529-1597"
+                },
+                {
+                    "PersonId": "16080",
+                    "RecordID": "022-000002665",
+                    "Value": "Badoer,Giustiniano,,fl. 1557"
+                }
+            ]
+        },
+        "Notes": "Secretaries of the various `consigli` of the Academy (consiglio politico, economico, oratorio, etc.) swear their commitment to enhancing the Academy and its publications.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

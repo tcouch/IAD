@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0203",
+        "RecordId": "021-000006802",
+        "Name": "Concili (Prima Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1682",
+        "EndDate": "1690",
+        "DateText": "1682-1690",
+        "Notes": "the Academy was based in SS. Cosma e Damiano in Campo Vaccino. The Academy ceased to exist due to Garini`s departure. See Donato, Accademie romane (2000).",
+        "ItacPersonItem": {
+            "PersonId": "19541",
+            "RecordId": "022-000006801",
+            "Name": "Garini,Angelo,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

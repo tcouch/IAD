@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19580",
+        "RecordId": "022-000006882",
+        "Surname": "Lampugnani",
+        "Forename": "Agostino",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Lampugnano"
+        },
+        "Pseudonym": "Giovanni Tanso Mognalpina",
+        "DateText": "1586-1665?",
+        "StartDate": "1586",
+        "EndDate": "1665?",
+        "Nationality": {
+            "NationalityId": "76",
+            "Value": "Milanese"
+        },
+        "Notes": "For his biography, see F. Cirilli, in DBI.",
+        "Role": "Censor|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

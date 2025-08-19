@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7370",
+        "RecordId": "022-000000957",
+        "Surname": "Benamati",
+        "Forename": "Guidobaldo",
+        "Gender": "Male",
+        "DateText": "1598-1653",
+        "StartDate": "1598",
+        "EndDate": "1653",
+        "Nationality": {
+            "NationalityId": "275",
+            "Value": "of Gubbio"
+        },
+        "Notes": "For a biographical sketch, see N. De Blasi, `Benamati, Guidobaldo`, in DBI. Benamati was also member of the Disinvolti in Pesaro, and founder of the Addormentati in Gubbio. See Luca Tosin, `\"Li stampatori sono buggiardi al paro de` sartori\". Ovvero: il rapporto tra scrittori e tipografi del XVII secolo`, in Seicento e Settecento, 5 (2010), pp. 57-72.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

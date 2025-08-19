@@ -1,0 +1,116 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006684",
+        "WorkId": "000792",
+        "ShortTitle": "Il pennello lacrimato",
+        "LongTitle": "Orazione fuinebre del signor Gio. Luigi Piccinardi disgnissimo Priore de` Signori Leggisti nello Studio di Bologna, con varie poesie in Morte della Signora Elisabetta Sirani Pittrice famosissima",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0149",
+                "RecordID": "021-000006234",
+                "Value": "Accademia degli Informi"
+            },
+            {
+                "AcademyId": "0041",
+                "RecordID": "021-000002728",
+                "Value": "Accademia degli Apatisti"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1665",
+        "Shelfmark": "72i16",
+        "Subjects": "Funeral oration|funereal  poems",
+        "Language": "Italian",
+        "Pagination": "64",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15170",
+                "RecordID": "022-000001212",
+                "Value": "Picinardi,Giovan Luigi,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19466",
+                "RecordID": "022-000006685",
+                "Value": "Lolli,Francesco,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5233",
+                    "RecordID": "022-000000225",
+                    "Value": "de Garex,Paulus,,\u20201643"
+                },
+                {
+                    "PersonId": "15425",
+                    "RecordID": "022-000001933",
+                    "Value": "Chrysostomus ,Io. ,,"
+                },
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal|Archibishop of Bologna,1622 - 1684"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Io. Chrysostomus Vicecomes Cleric. Regul. S. Pauli, & in Metrop. Bonon. Poenit. pro Eminentiss. & Reverendiss. D. D. Hyeronimo Card. Boncompagno Archiep. Bonon. & Princ. - Imprimatur - Fr. Paulus Hyeronimus Giacconus de Garrexio mag. Ord. Praedicat. & Vic. Gen. S. Officij Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19365",
+                "RecordID": "022-000006569",
+                "Value": "Sirani,Elisabetta,,1638-1665"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15170",
+                "RecordID": "022-000001212",
+                "Value": "Picinardi,Giovan Luigi,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5194",
+                "RecordID": "022-000000188",
+                "Value": "Tintus,Lauren,,1626-1700"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54852",
+            "Value": "023-000006684_54852_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54853",
+            "Value": "023-000006684_54853_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Del Sig. Francesco Lolli Accademico Apatista, Offuscato, ed Informe - Oda - Piange `l Reno, e fra l`onde",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19466",
+                        "RecordID": "022-000006685",
+                        "Value": "Lolli,Francesco,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

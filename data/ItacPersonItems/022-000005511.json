@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18486",
+        "RecordId": "022-000005511",
+        "Surname": "Mellan Gallus",
+        "Forename": "Claude",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "C.M.G.",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "CMG",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1598 - 1688",
+        "StartDate": "1598",
+        "EndDate": "1688",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": "Illustrator",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

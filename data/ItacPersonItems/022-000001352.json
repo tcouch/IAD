@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15312",
+        "RecordId": "022-000001352",
+        "Surname": "Tasso",
+        "Forename": "Torquato",
+        "Gender": "Male",
+        "DateText": "1544-1595",
+        "StartDate": "1544",
+        "EndDate": "1595",
+        "Nationality": {
+            "NationalityId": "392",
+            "Value": "of Sorrento"
+        },
+        "Notes": "Tasso`s portrait as accademico Etereo is taken from Lorenzo Crasso, Elogii d`huomini letterati (1666), and his protrait as accademico animoso is taken from Tomasini, Illustrium virorum elogia (1630).",
+        "Role": "Author|Contributor",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

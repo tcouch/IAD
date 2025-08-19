@@ -1,0 +1,40 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0135",
+        "RecordId": "021-000005919",
+        "Name": "Congrega dei Taciturni",
+        "AlternativeName": "Accademia dei Taciturni",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "ca.1600",
+        "EndDate": "?",
+        "DateText": "ca.1600 - ?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19067",
+                "RecordId": "022-000006186",
+                "Name": "de Nobili,Giovanni,,fl. 1609",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18842",
+                "RecordId": "022-000005918",
+                "Name": "Bricci,Giovanni,,1579 - 1645",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54497",
+                    "Value": "022-000005918_54497_2.jpg"
+                }
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

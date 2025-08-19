@@ -1,0 +1,76 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007649",
+        "WorkId": "000857",
+        "ShortTitle": "Delle Notizie Istoriche Della Citta Di Messina. Prima Parte.",
+        "LongTitle": "Nella quale si ragiona primieramente delle qualit\u00e0 naturali, dipoi de` primi fondatori di essa Citt\u00e0, accennandosi finalmente le cose pi\u00f9 degne di memoria, che di tempo in tempo sono intervenute infino a gli anni del Mondo 4052. Di Placido Reina nell`Accademia della Fucina l`Offuscato",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1658",
+        "Shelfmark": "574.k.7.",
+        "Subjects": "History of Messina",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Armorial bearing",
+        "Pagination": "pp. 398",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18954",
+                "RecordID": "022-000006057",
+                "Value": "Reina,Placido,,? - 1671"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18222",
+                    "RecordID": "022-000005204",
+                    "Value": "Marquett,Thomaso,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19441",
+                    "RecordID": "022-000006659",
+                    "Value": "Cirino,Tommaso,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19178",
+                    "RecordID": "022-000006328",
+                    "Value": "Gotho,Raffaello,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19417",
+                    "RecordID": "022-000006628",
+                    "Value": "Lipezzi,Lorenzo,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19387",
+                    "RecordID": "022-000006593",
+                    "Value": "Gregori ,Carlo,Senator of Messina|Knight of the Order of the Star,"
+                },
+                {
+                    "PersonId": "19340",
+                    "RecordID": "022-000006535",
+                    "Value": "Zuccarato,Francesco,Senator of Messina,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18152",
+                "RecordID": "022-000005118",
+                "Value": "Brea,Pietro - Heredi,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18494",
+        "RecordId": "022-000005520",
+        "Surname": "Bella",
+        "Forename": "Ottavio",
+        "Gender": "Male",
+        "DateText": "1661-1693",
+        "StartDate": "1661",
+        "EndDate": "1693",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a biographical account see Antonino Mongitore, Bibliotheca Sicula, Angeli Felicella, Palermo, Vol.II, pp. 108 - 109 (British Library Shelfmark: 610.m.10.)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7508",
+        "RecordId": "022-000001029",
+        "Surname": "Manuzio",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Manutium",
+            "AlternativeForename": "Antonium"
+        },
+        "DateText": "1511-before March 1559",
+        "StartDate": "1511",
+        "EndDate": "before March 1559",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Active in Bologna in the period 1555-1557. The dates have been taken from edit16. A biograpical sketch through his letters can be found in Ester Pastrorello, L`epistolario manuziano. Inventario cronologico-analitico 1483-1597 (1957)",
+        "Role": "Printer",
+        "TypographicReference": "Z35-50",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

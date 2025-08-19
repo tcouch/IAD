@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000429",
+        "WorkId": "00251",
+        "ShortTitle": "Il Guiscardo",
+        "LongTitle": "Tragedia di Silvestro Branchi. All`Illustrissimo e reverendissimo signor Giulio Cardinal Sacchetti legato di Ferrara",
+        "ItacAcademyItem": {
+            "AcademyId": "0006",
+            "RecordID": "021-000000002",
+            "Value": "Accademia dei Riaccesi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1627",
+        "DedicationPlaceDate": "Bologna 20 November 1627",
+        "Shelfmark": "11714.b.8",
+        "Subjects": "Tragedy",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|",
+        "Pagination": "151",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5370",
+                "RecordID": "022-000000376",
+                "Value": "Branchi,Silvestro,,c. 1550-c. 1650"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5033",
+                "RecordID": "022-000000035",
+                "Value": "Buonvalori,Cristoforo,,fl. 1600 - 1628"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5150",
+                    "RecordID": "022-000000215",
+                    "Value": "De Bonis,Homobonus,,"
+                },
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Homobonus de Bonis Poenitentiarius pro Illustriss. Et reverendiss. Card. Archiepiscopo | Imprimatur | Fr. Hieronymus Onuphrius doctor collegiatus lector publicus ac sanctiss. Inquisitionis consultor pro reverendiss. P. Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5201",
+                "RecordID": "022-000000195",
+                "Value": "Sacchetti,Giulio Cesare,Cardinal,1586-1663"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "17838",
+                "RecordID": "022-000004748",
+                "Value": "Lodi,Giacomo,,fl. 1618 - 1660"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5246",
+                "RecordID": "022-000000238",
+                "Value": "Ferroni,Clemente,,1555/6-1640"
+            }
+        },
+        "PrinterOrnament": "Engraved titlepage | Academician`s emblem",
+        "TitlePageImage": {
+            "ImageId": "52653",
+            "Value": "023-000000429_52653_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

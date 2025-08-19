@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008416",
+        "WorkId": "000953",
+        "ShortTitle": "Salmi da cappella per tutto l`anno - Tenore - Basso - Canto - Alto",
+        "LongTitle": "A quattro voci, col suo basso continuo a beneplacito. Dedicati al Molt`Illustre e Reverendissimo Signore Il Sig. Giulio Prati Dottore dell`una e l`altra legge, e Canonico della perinsigne Collegiata di San Petronio da Mauritio Cazzati Maestro di Cappella in detta chiesa et Accademico Eccitato",
+        "ItacAcademyItem": {
+            "AcademyId": "0570",
+            "RecordID": "021-000008374",
+            "Value": "Eccitati (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1663",
+        "DedicationPlaceDate": "Bologna 6 Luglio 1663",
+        "Shelfmark": "C41d",
+        "Subjects": "Music",
+        "Language": "Italian|Latin",
+        "Marginalia": "No",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20621",
+                "RecordID": "022-000008417",
+                "Value": "Prati,Giulio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7310",
+                "RecordID": "022-000000896",
+                "Value": "Dozza,Evangelista (Heredi di),,active1630-1670s"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55303",
+            "Value": "023-000008416_55303_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

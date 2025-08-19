@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007488",
+        "WorkId": "000836",
+        "ShortTitle": "Orazioni elogi e vite",
+        "LongTitle": "scritte da letterati veneti patrizi in lode di Dogi, ed altri illustri soggetti, compresavi alcuna inedita, e tutte per la prima volta volgarizzate [2 vols]",
+        "ItacAcademyItem": {
+            "AcademyId": "0367",
+            "RecordID": "021-000007385",
+            "Value": "Accademia dei Dodonei"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1795",
+        "Subjects": "Funeral oration",
+        "Language": "Italian|Latin",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19978",
+                "RecordID": "022-000007437",
+                "Value": "Querini,Giovanni,,1639 - 1687"
+            }
+        },
+        "Notes": "The oration was first published in the collection of poems on the occasion of Nani`s death.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20012",
+                "RecordID": "022-000007490",
+                "Value": "Molin,Girolamo Ascanio,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Orazione recitata in morte di Gio: Battista Nani cavaliere e procuratore da Giovanni Quirini Accademico Dodoneo",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19978",
+                        "RecordID": "022-000007437",
+                        "Value": "Querini,Giovanni,,1639 - 1687"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

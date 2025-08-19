@@ -1,0 +1,154 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004794",
+        "WorkId": "000594",
+        "ShortTitle": "Il Barbiere Di Tiberio Malfi",
+        "LongTitle": "Da Monte Sarchio Barbiere, e consule dell`arte in Napoli. Libri Tre. Ne` quali si ragiona dell`eccellenza dell`Arte, e de` suoi precetti. Delle Vene, e regole d`aprirle. Dell`Applicatione de` remedi chirurgici appartenenti al mestiere. Con figure anathomiche e di nuovi strumenti.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1626",
+        "DedicationPlaceDate": "Naples 9 October 1626",
+        "Shelfmark": "549.k.7.",
+        "Subjects": "Work on barbers|Medicine|Surgery",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 194",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17873",
+                "RecordID": "022-000004792",
+                "Value": "Malfi,Tiberio,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15045",
+                    "RecordID": "022-000001087",
+                    "Value": "Faciuti,Donato,,"
+                },
+                {
+                    "PersonId": "16932",
+                    "RecordID": "022-000003715",
+                    "Value": "Giuliani,Gianbernardino,,"
+                },
+                {
+                    "PersonId": "17427",
+                    "RecordID": "022-000004284",
+                    "Value": "Bergazzano ,Giovanni Battista,,1576 - 1640s"
+                },
+                {
+                    "PersonId": "15014",
+                    "RecordID": "022-000001056",
+                    "Value": "Capaccio,Giulio Cesare,,1552-1634"
+                },
+                {
+                    "PersonId": "17024",
+                    "RecordID": "022-000003829",
+                    "Value": "Severino,Marco Aurelio,,"
+                },
+                {
+                    "PersonId": "17875",
+                    "RecordID": "022-000004795",
+                    "Value": "Capialbo,Muzio,,"
+                }
+            ]
+        },
+        "Notes": "This text contains verses written by Oziosi academicians.",
+        "CensorsAgreement": "Imprimatur.\nLaelius Tastius Vicarius Generalis.\nAndreas Letteresius Canonicus Deput. vidit.\nMag. Fr. Dominicus Gravina Ord. Praed. Cur. Archiep. Theologus vidit.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17874",
+                "RecordID": "022-000004793",
+                "Value": "D`Ocampo,Francesco,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15221",
+                "RecordID": "022-000001263",
+                "Value": "Beltrano,Ottavio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54538",
+            "Value": "023-000004794_54538_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Del Signor Donato Faciuti, Academico Otioso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15045",
+                            "RecordID": "022-000001087",
+                            "Value": "Faciuti,Donato,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di N. Gio. Bernardino Di Giuliano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16932",
+                            "RecordID": "022-000003715",
+                            "Value": "Giuliani,Gianbernardino,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Gio. Battista Bergazzano Barbiero.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17427",
+                            "RecordID": "022-000004284",
+                            "Value": "Bergazzano ,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Iulii Caesaris Capacii. Ad Auctorem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15014",
+                            "RecordID": "022-000001056",
+                            "Value": "Capaccio,Giulio Cesare,,1552-1634"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Marci Aurelii Severini. Medici, Regij professoris in Schola Neapolitana",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17024",
+                            "RecordID": "022-000003829",
+                            "Value": "Severino,Marco Aurelio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Mutii Capialbi Bisinianensis Philosophi, & Medici.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17875",
+                            "RecordID": "022-000004795",
+                            "Value": "Capialbo,Muzio,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

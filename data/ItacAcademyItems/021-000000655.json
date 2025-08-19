@@ -1,0 +1,126 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0008",
+        "RecordId": "021-000000655",
+        "Name": "Confusi-Bologna (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Chaos",
+        "Motto": "Ante",
+        "StartDate": "1570",
+        "EndDate": "?",
+        "DateText": "1570-?",
+        "Notes": "Dates of this Academy, and names of members are in Maylender, vol. II, p. 75.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5292",
+                "RecordId": "022-000000340",
+                "Name": "de` Rossi dei Conti di Pontecchio,Giovanni Galeazzo, Count,",
+                "Nickname": "Il Disposto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5602",
+                "RecordId": "022-000000659",
+                "Name": "Manfredi, Muzio , ,",
+                "Nickname": "Il Vinto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5640",
+                "RecordId": "022-000000715",
+                "Name": "Peruzzini, Ippolito , ,",
+                "Nickname": "Lo Stanco",
+                "Motto": "Haec meta laborum",
+                "PersonEmblemDescription": "An olive tree and a dove"
+            },
+            {
+                "PersonId": "17704",
+                "RecordId": "022-000004600",
+                "Name": "Guidiccioni,Cristoforo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17705",
+                "RecordId": "022-000004601",
+                "Name": "Boncompagni,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17706",
+                "RecordId": "022-000004602",
+                "Name": "Campeggi,Giambattista,Bishop of Mallorca,1507 - 1583",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17707",
+                "RecordId": "022-000004603",
+                "Name": "Legnani,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17708",
+                "RecordId": "022-000004604",
+                "Name": "Grassi,Fulvio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17709",
+                "RecordId": "022-000004605",
+                "Name": "Grimaldi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17710",
+                "RecordId": "022-000004606",
+                "Name": "Visconte,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17711",
+                "RecordId": "022-000004607",
+                "Name": "Fiorenza,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5601",
+                "RecordId": "022-000000657",
+                "Name": "Colonna,Giulio Cesare,Prince of Palestrina,fl. 1571",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5639",
+                "RecordId": "022-000000714",
+                "Name": "Simonetti,Cesare,,",
+                "Nickname": "L` Assordato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002760",
+        "WorkId": "000350",
+        "ShortTitle": "Vita Di Lionardo Di Capua Napolitano",
+        "LongTitle": "Detto Alcesto Cilleneo",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1710",
+        "Shelfmark": "132.b.7.",
+        "Subjects": "Collection of biographies",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|Mythological figures",
+        "Pagination": "pp. 296",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16143",
+                "RecordID": "022-000002755",
+                "Value": "Amenta,Niccola,,"
+            }
+        },
+        "Notes": "The biography of Lionardo Di Capua is in Le Vite Degli Illustri Arcadi Scritte da diversi Autori, e pubblicate d`ordine Della Generale Adunanza Da Giovan Mario Crescimbeni Canonico di S. Maria in Cosmedin, e Custode d`Arcadia. Parte Seconda, pp. 1 - 27.\nOn p. 9 the author (Niccol\u00f2 Amenta) mentions Di Capua`s affiliation to the Investiganti Academy in Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16148",
+                    "RecordID": "022-000002762",
+                    "Value": "de Zaulis,Dominicus,Archbishop,"
+                },
+                {
+                    "PersonId": "16149",
+                    "RecordID": "022-000002763",
+                    "Value": "Martello,Pier Jacopo,,1665-1727"
+                },
+                {
+                    "PersonId": "16150",
+                    "RecordID": "022-000002764",
+                    "Value": "Carus,Joannes Baptista,,"
+                },
+                {
+                    "PersonId": "16151",
+                    "RecordID": "022-000002765",
+                    "Value": "Bernardini,Paolino,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Si videbitur Reverendissimo P. Mag. Sac. Pal. Apost. Dominicus de Zaulis Archiep. Theodosiae Vicesg.\nDi commessione del Reverendissimo Padre Paolino Bernardini Maestro del Sacro palazzo Apostolico, ho riveduto il presente Libro intitolato Vite degli Arcadi Illustri & c. e non solamente non vi ho trovata cosa, ma anzi vi ho osservato una continuazione d`insegnamento a chi con virtuose fatiche desidera acquistar gloria a Dio, alla Patria, ed a se stesso: cos\u00ec animandosi i Letterati a far cose, delle quali si debba tener conto da` Posteri dopo la loro morte; e spiccando in questa carit\u00e0 dell`Arcadia verso i suoi famosi defonti, che siano elegantemente scritte le vite di quelli da Uomini non meno chiari di loro, e che per merito possono aspettare la stessa onorificenza a suo tempo da chi verr\u00e0 dopo di essi. onde se cos\u00ec piacer\u00e0 a sua Paternit\u00e0 Reverendissima, stiamo il presente Volume degnissimo di uscire alla pubblica luce. Questo d\u00ec I. Marzo 1710. Pieriacopo Martello.\nImprimatur. Fr. Joannes Baptista Carus Sacr. Theol. Magister, & Reverendissimi Patris Paulini Bernardinii Casr. Apost. Palatii Magistri Socius Ord. Praed.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19784",
+                "RecordID": "022-000007214",
+                "Value": "Ottoboni,Pietro,Cardinal,1667-1740"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16144",
+                "RecordID": "022-000002756",
+                "Value": "Crescimbeni,Giovan Mario,Canon,1663 - 1728"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16147",
+                "RecordID": "022-000002761",
+                "Value": "de Rossi,Antonio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

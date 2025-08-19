@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0208",
+        "RecordId": "021-000006810",
+        "Name": "Deboli (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Garden",
+        "Motto": "Firmat",
+        "StartDate": "1696",
+        "EndDate": "?",
+        "DateText": "1696-?",
+        "Notes": "The Deboli Academy was created by Monanni at the Collegio de` Padri Ministri degl`Infermi alle Fontane di Trevi",
+        "ItacPersonItem": {
+            "PersonId": "19544",
+            "RecordId": "022-000006809",
+            "Name": "Monanni,Claudio,Abbot,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

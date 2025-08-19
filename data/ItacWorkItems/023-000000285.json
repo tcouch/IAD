@@ -1,0 +1,156 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000285",
+        "WorkId": "00006",
+        "ShortTitle": "Rime",
+        "LongTitle": "degli accademici Gelati di Bologna",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1597",
+        "Shelfmark": "1063.a.8.(2) | 11427.b.12.",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Illustration": "Engraved plate | Academy emblem; Academy motto | Engraved plates | Authors` emblems",
+        "Pagination": "185",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5029",
+                    "RecordID": "022-000000031",
+                    "Value": "Contenti,Giorgio,,"
+                },
+                {
+                    "PersonId": "5030",
+                    "RecordID": "022-000000032",
+                    "Value": "Maurizzi,Giovanni Battista,,1550? - 1635"
+                },
+                {
+                    "PersonId": "5031",
+                    "RecordID": "022-000000033",
+                    "Value": "Balzani,Paolo Emilio,,"
+                },
+                {
+                    "PersonId": "5032",
+                    "RecordID": "022-000000034",
+                    "Value": "Zoppio,Melchiorre,,1544-1634/7"
+                },
+                {
+                    "PersonId": "5035",
+                    "RecordID": "022-000000037",
+                    "Value": "Fabretti,Vincenzo,,"
+                },
+                {
+                    "PersonId": "5036",
+                    "RecordID": "022-000000038",
+                    "Value": "Caccianemici,Francesco Maria,,1567 - ?"
+                },
+                {
+                    "PersonId": "5037",
+                    "RecordID": "022-000000039",
+                    "Value": "Coradino,Nicol\u00f2,,1573 - 1624"
+                },
+                {
+                    "PersonId": "5038",
+                    "RecordID": "022-000000040",
+                    "Value": "Pepoli,Romeo,,"
+                },
+                {
+                    "PersonId": "5039",
+                    "RecordID": "022-000000041",
+                    "Value": "Campeggi,Ridolfo,Count,1565 - 1624"
+                },
+                {
+                    "PersonId": "5040",
+                    "RecordID": "022-000000042",
+                    "Value": "Facchinetti,Lodovico,Marquis of Vianino,"
+                },
+                {
+                    "PersonId": "5041",
+                    "RecordID": "022-000000043",
+                    "Value": "Facchinetti,Giovanni Antonio,Pope Innocent IX,1519 - 1591"
+                },
+                {
+                    "PersonId": "5042",
+                    "RecordID": "022-000000044",
+                    "Value": "Severi,Severo,,"
+                },
+                {
+                    "PersonId": "5043",
+                    "RecordID": "022-000000045",
+                    "Value": "Marescotti,Agesilao,,1577 - 1618"
+                },
+                {
+                    "PersonId": "5044",
+                    "RecordID": "022-000000046",
+                    "Value": "L`Involto,L`Involto,,"
+                },
+                {
+                    "PersonId": "5045",
+                    "RecordID": "022-000000047",
+                    "Value": "Gessi,Camillo,Senator,1571 - 1635"
+                },
+                {
+                    "PersonId": "5046",
+                    "RecordID": "022-000000048",
+                    "Value": "Gessi,Cesare,,1568 - 1595"
+                },
+                {
+                    "PersonId": "5053",
+                    "RecordID": "022-000000055",
+                    "Value": "Cattanei,Ippolito,,"
+                }
+            ]
+        },
+        "Notes": "11427.b.12 contains one leave more with a table of errors on the recto and printer`s ornament date place of publication and censors` agreement on the verso. DeGrazia is against the attribution of the emblems to Agostino Carracci and suggests the name of Oliviero Gatti see DeGrazia Le stampe pp. 163-64. Here the frontispiece is displayed as title-page.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5002",
+                "RecordID": "022-000000004",
+                "Value": "Facchinetti,Giovanni Antonio (Jr.),Cardinal,1575 - 1606"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5119",
+                    "RecordID": "022-000000115",
+                    "Value": "Carracci,Agostino,,1557-1602"
+                },
+                {
+                    "PersonId": "6028",
+                    "RecordID": "022-000000759",
+                    "Value": "Gatti,Oliviero,,1579 - 1648"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5248",
+                "RecordID": "022-000000240",
+                "Value": "Rossi,Heredi di Giovanni [Perseo],,\u20201629"
+            }
+        },
+        "PrinterOrnament": "Z834",
+        "TitlePageImage": {
+            "ImageId": "54877",
+            "Value": "023-000000285_54877_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54878",
+            "Value": "023-000000285_54878_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

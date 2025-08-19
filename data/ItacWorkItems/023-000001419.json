@@ -1,0 +1,94 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001419",
+        "WorkId": "00147",
+        "ShortTitle": "Liriche Parafrasi di D. Francesco Cappone Accademico Ozioso.",
+        "LongTitle": "Sopra tutte l` Ode d`Anacreonte e sopra alcune altre poesie di diversi lirici poeti greci. Secondo la preposta version latina de` lor pi\u00f9 celebri traduttori",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1670",
+        "DedicationPlaceDate": "Naples November 1668",
+        "Shelfmark": "11335.a.13.",
+        "Subjects": "Verses|Odes|Epigrams|Commentary on classic poetry",
+        "Language": "Latin|Italian",
+        "Pagination": "pp. 347",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15013",
+                "RecordID": "022-000001055",
+                "Value": "Cappone,Francesco Antonio,,1620-?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15154",
+                    "RecordID": "022-000001196",
+                    "Value": "Di Tura,Niccol\u00f2 Antonio,,"
+                },
+                {
+                    "PersonId": "15161",
+                    "RecordID": "022-000001203",
+                    "Value": "Acerbo,Francesco,,"
+                },
+                {
+                    "PersonId": "15173",
+                    "RecordID": "022-000001215",
+                    "Value": "Cusano,Biagio,,\u20201683"
+                },
+                {
+                    "PersonId": "17801",
+                    "RecordID": "022-000004709",
+                    "Value": "Giannone,Francesco Antonio,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con Licenza e Privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15013",
+                    "RecordID": "022-000001055",
+                    "Value": "Cappone,Francesco Antonio,,1620-?"
+                },
+                {
+                    "PersonId": "15059",
+                    "RecordID": "022-000001100",
+                    "Value": "Gianone,Francesco Antonio,,"
+                },
+                {
+                    "PersonId": "15061",
+                    "RecordID": "022-000001102",
+                    "Value": "Orsini,Domenico,Prince ,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15059",
+                "RecordID": "022-000001100",
+                "Value": "Gianone,Francesco Antonio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15060",
+                "RecordID": "022-000001101",
+                "Value": "Conzatti,Zaccaria,,"
+            }
+        },
+        "PrinterOrnament": "Mar.te 848",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

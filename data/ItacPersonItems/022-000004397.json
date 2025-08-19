@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17518",
+        "RecordId": "022-000004397",
+        "Surname": "Da Correggio",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1511-1572",
+        "StartDate": "1511",
+        "EndDate": "1572",
+        "Nationality": {
+            "NationalityId": "153",
+            "Value": "of Correggio"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

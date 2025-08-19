@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19139",
+        "RecordId": "022-000006276",
+        "Surname": "Guiducci",
+        "Forename": "Mario",
+        "DateText": "1584 - 1646",
+        "StartDate": "1584",
+        "EndDate": "1646",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Galileo`s pupil and friend, was admitted among the Lincei in 1625.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

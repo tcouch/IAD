@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19719",
+        "RecordId": "022-000007094",
+        "Surname": "Giordani",
+        "Forename": "Vitale",
+        "AlternativeName": {
+            "AlternativeSurname": "Giordano",
+            "AlternativeForename": null
+        },
+        "DateText": "1633 - 1711",
+        "StartDate": "1633",
+        "EndDate": "1711",
+        "Nationality": {
+            "NationalityId": "257",
+            "Value": "of Bitonto (Bari)"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

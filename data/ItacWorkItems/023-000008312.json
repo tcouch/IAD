@@ -1,0 +1,35 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008312",
+        "WorkId": "000929",
+        "ShortTitle": "Lettere brevissime di Mutio Manfredi, Il Fermo Academico Olimpico, &c.",
+        "LongTitle": "Scritte tutte in un`Anno, cio\u00e8 una per giorno, & ad ogni condition di persone, & in ogni usitata materia. Utili, e necessarie, per poco, \u00e0 chiunque habbia dilettatione, \u00f2 bisogno di brievemente, e puramente scriverne.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0387",
+                "RecordID": "021-000007512",
+                "Value": "Accademia Olimpica"
+            },
+            {
+                "AcademyId": "0387",
+                "RecordID": "021-000007512",
+                "Value": "Olimpica (Accademia)"
+            }
+        ],
+        "Format": "12\u00b0",
+        "PublicationYear": "1606",
+        "Shelfmark": "1084.f.22",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "pp. 303",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5602",
+                "RecordID": "022-000000659",
+                "Value": "Manfredi,Muzio,,ca.1535-1609"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

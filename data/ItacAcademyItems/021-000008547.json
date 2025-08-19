@@ -1,0 +1,45 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0586",
+        "RecordId": "021-000008547",
+        "Name": "Indefessi-Bologna (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Plough furrowing the soil [with a pot of coins]",
+        "Motto": "O`tonos Thesauros",
+        "StartDate": "fl.1634",
+        "DateText": "fl.1634",
+        "Notes": "Publications related to the history of the Indefessi Academy, but not in British Library collections, include: Arnaldi, Costanzo, Preces ad sacratiss. B. Mariae Virg. effigiem a D. Luca depictam. Costantius Arnaldus Vicent. Acad. Indefess. princeps pectore suppliciter tristis fundebat ab imo (Bononiae: ex typographia Clementis Ferronij, 1630); Cenotaphium Ludovici Scapinelli ab incunabulis coeci in Archigymnasio Felsineo humaniores litteras ab eminentiori suggestu profitensis. Academia Indefessorum erexit. Auspice Philiberto Vizanio principe (Bononiae: ex calcographia Clementis Ferronij, 1634); Precox laborum messis a cultoribus indefessis fausto sub sydere Galeatii poetae bononiensis Academiae principis collecta (Bononiae: typis Clementis Ferronij, 1633)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20727",
+                "RecordId": "022-000008548",
+                "Name": "Scapinelli,Ludovico,,ca.1590-1633",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15432",
+                "RecordId": "022-000001943",
+                "Name": "Vizani,Filiberto,Count|Senator,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20159",
+                "RecordId": "022-000007678",
+                "Name": "Arnaldi,Costanzo,,17th c.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

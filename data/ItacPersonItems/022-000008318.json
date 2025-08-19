@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20566",
+        "RecordId": "022-000008318",
+        "Surname": "Ventura",
+        "Forename": "Comino",
+        "Gender": "Male",
+        "DateText": "fl.1578-1617",
+        "StartDate": "fl.1578",
+        "EndDate": "1617",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "V3 - Z572|U484",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

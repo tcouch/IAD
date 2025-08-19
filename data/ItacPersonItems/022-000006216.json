@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19091",
+        "RecordId": "022-000006216",
+        "Surname": "Porcia",
+        "Forename": "Bartolomeo",
+        "AlternativeName": {
+            "AlternativeSurname": "Portia",
+            "AlternativeForename": null
+        },
+        "DateText": "1540(?) - 1578",
+        "StartDate": "1540(?)",
+        "EndDate": "1578",
+        "Nationality": {
+            "NationalityId": "193",
+            "Value": "of Udine"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

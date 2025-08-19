@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16909",
+        "RecordId": "022-000003684",
+        "Surname": "Campeggi",
+        "Forename": "Filippo Maria",
+        "Gender": "Male",
+        "PersonalTitle": "Bishop of Feltre",
+        "DateText": "1518-1584",
+        "StartDate": "1518",
+        "EndDate": "1584",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "See his biography by Gian Paolo Brizzi in DBI.",
+        "Role": "Dedicatee|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006120",
+        "WorkId": "000724",
+        "ShortTitle": "Bibliotheca romana",
+        "LongTitle": "Bibliotheca romana, seu Romanorum scriptorum centuriae authore Prospero Mandosio Nobili Romano Ordinis Sancto Stephani equite",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            },
+            {
+                "AcademyId": "0125",
+                "RecordID": "021-000005612",
+                "Value": "Accademia degli Infecondi"
+            },
+            {
+                "AcademyId": "0041",
+                "RecordID": "021-000002728",
+                "Value": "Accademia degli Apatisti"
+            },
+            {
+                "AcademyId": "0140",
+                "RecordID": "021-000006003",
+                "Value": "Accademia degli Intrecciati"
+            },
+            {
+                "AcademyId": "0124",
+                "RecordID": "021-000005571",
+                "Value": "Accademia dei Fantastici"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1682",
+        "Shelfmark": "819g13(2)",
+        "Subjects": "Bibliography",
+        "Language": "Latin",
+        "Pagination": "360",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18720",
+                "RecordID": "022-000005785",
+                "Value": "Mandosio,Prospero,,1643 - 1724"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5272",
+                "RecordID": "022-000000262",
+                "Value": "Trincherij,Andreae,,"
+            }
+        },
+        "Notes": "Contains entries on Infecondi and Intrecciati. Trincheri signs a celebratory poem as `Petri Andreae Trincherii I. V. C. & Lectoris Varo Nicaeni Academici Apatistae, Anxii, Gelati, & Infoecundi`",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19012",
+                    "RecordID": "022-000006124",
+                    "Value": "Bovius,Carolus,,"
+                },
+                {
+                    "PersonId": "17879",
+                    "RecordID": "022-000004800",
+                    "Value": "de Angelis,Giacomo,Cardinal|Archbishop of Urbino,1610 - 1695"
+                },
+                {
+                    "PersonId": "19013",
+                    "RecordID": "022-000006125",
+                    "Value": "Alferius,Reginaldus,,"
+                },
+                {
+                    "PersonId": "18345",
+                    "RecordID": "022-000005361",
+                    "Value": "Ferrari,Thomas Maria,Cardinal,1649 - 1716"
+                },
+                {
+                    "PersonId": "19026",
+                    "RecordID": "022-000006139",
+                    "Value": "de Zaccagnis,Laurentius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Romanam Bibliothecam Prosperi Mandosii Patritii Romani, & ordinis Sancti Stephani Equitis solerti cura comparatam, studioque pari digestam, publicam in lucem tam profecto iuste proferendam existimo, quam par est, ut, qui seorsum tam varia, multiplicique universi generis literatura, privatis scriptis, publicisque monumentis testata, Urbem terrarum principem exornarunt; iidem, coniunctis in unum opus nominibus, luminibusque, Romanae Sapientiae Caelum, coeuntibus veluti Astrorum Choris, pulchre, ac luculenter irradient. Quo fiat, ut eorum splendore, ipse vicissim, a quo sapientissimi viri perquisiti, exornatique sunt, navus eruditusque illorum civis merito collustretur. Ita censeo. Carolus Bonius Societatis Iesu --- Imprimatur, si videbitur Reverendiss. Patri Sacri Palatii Apost. Magist. Io. de Ang. Arch. Urb. Vicesg. --- Imrimatur Fr. Reginaldus Alferius Ord. Praed. Reverendiss. P. Sac. Pal. Apost. Mag. Soc. ---- VOL. II Legi iussu Reverendissimi Patris Fr. Thomae Ferrari Sac. Palatii Apostolici Magistri Centuriam Sextam cum sequentibus usque ad decimam Scriptorum Almae Urbis, a Clarissimo Equite Prospero Mandosio diligenter pro suo erga Patriam amore collectas, nihilque in iis reperi, quod fidei bonisque moribus adversetur; quare dignas censeo, quae ad conciliandam erudito Scriptori laudem, & commendandam ulterius posteris toto Doctorum virorum memoriam typis mandetur. In quorum fidem & c. romae Pridie Cal. Iulii 1692 -Laurentius de Zaccagnis --- Imprimatur Si videbitur reverendissimo Patri Magistro Sacri Palatii Apostolici. H. Episcopus Neritonen. Vicesg. Imprimatur Fr. Thomas maria Ferrari Sacri Apostolici Palatii Magister, Ord. Praed. ---- PROTESTATIO AUTHORIS Dum S. M. Urbani VIII Pont. Su,=m. & S. R. nec non Universalis Inquisitionis Decreta, emanata die 13. Martii 1625. 5 Iulii 1631 & 5 Iulii 1634 religiosissime observo, persuasum omnibus velim, si in hac mea Bibliotheca Romana de aliquorum Scriptorum actionibus, factisque aliquid dixerim, quod humanae naturae vires excedere videatur, me non alio sensu accipere, aut accipi ab ullo velle, quam quo ea solent, quae humana dumtaxat authoritate fulciuntur, neque eorum cuilibet aliquam Caelestis Sanctimoniae exstimationem tribuere.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18906",
+                    "RecordID": "022-000006001",
+                    "Value": "Cartari,Carlo,,1614 - 1697"
+                },
+                {
+                    "PersonId": "19015",
+                    "RecordID": "022-000006127",
+                    "Value": "Muto,Filippo,,"
+                },
+                {
+                    "PersonId": "19016",
+                    "RecordID": "022-000006128",
+                    "Value": "Marabottino,Filidio,Marquis,"
+                },
+                {
+                    "PersonId": "19020",
+                    "RecordID": "022-000006132",
+                    "Value": "A Puteo,Carolo Antonio,Knight of Saint Stephen,"
+                },
+                {
+                    "PersonId": "19021",
+                    "RecordID": "022-000006133",
+                    "Value": "Roccio,Urbano,Baron,"
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

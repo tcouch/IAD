@@ -1,0 +1,99 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002624",
+        "WorkId": "000318",
+        "ShortTitle": "Prose e rime",
+        "LongTitle": "del Signor Ciro Anselmo. All`Illustrissimo Signore Signor et Padron Colendissimo Il Signor Giovanni Pindemonte. Giulio Crivellari D. D.",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricovrati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1647",
+        "DedicationPlaceDate": "Padua 13 April 1647",
+        "Shelfmark": "11427.df.20",
+        "Subjects": "Ethics|Politics|Love",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. [68]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9051",
+                "RecordID": "022-000001641",
+                "Value": "Anselmi,Ciro,,1622 - 1668"
+            }
+        },
+        "CensorsAgreement": "Lo Stampatore a chi legge.\nLe parole Fato, Beare, Idolo, Adorare, et simili, protesta che le scrisse, con penna Poetica, ma che le interpreta, con mente catolica.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16052",
+                "RecordID": "022-000002625",
+                "Value": "Pindemonte,Giovanni,Marquis,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9197",
+                "RecordID": "022-000001781",
+                "Value": "Crivellari,Giulio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53396",
+            "Value": "023-000002624_53396_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Se sia meglio che il Principe castighi o pur dissimuli l`offese di Maesta`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9051",
+                            "RecordID": "022-000001641",
+                            "Value": "Anselmi,Ciro,,1622 - 1668"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Accusato Trasea, et havendo egli determinato di andare in Senato, a discolparsi, un Amico li suade l`Esilio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9051",
+                            "RecordID": "022-000001641",
+                            "Value": "Anselmi,Ciro,,1622 - 1668"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella morte del Signor Antonio Gasparini Academico Rinovato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9051",
+                            "RecordID": "022-000001641",
+                            "Value": "Anselmi,Ciro,,1622 - 1668"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Se piu` goda il senso ne i diletti d`Amore, o pur nelle vendette degl`inimici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9051",
+                            "RecordID": "022-000001641",
+                            "Value": "Anselmi,Ciro,,1622 - 1668"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5003",
+        "RecordId": "022-000000005",
+        "Surname": "Mariani",
+        "Forename": "Andrea",
+        "Gender": "Male",
+        "DateText": "1593-1661",
+        "StartDate": "1593",
+        "EndDate": "1661",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Lector of Logic and professor of Philosophy, and then Medicine. Hosted the Coro anatomico for a short while, after Massari`s death in 1655. See his biography by R. De Tata, in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0300",
+        "RecordId": "021-000007078",
+        "Name": "San Salvatore (Accademia di)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "ca.1640",
+        "DateText": "ca.1640",
+        "Notes": "According to Maylender, there is one publication related to this Academy, but it is not possible to find it on OPAC SBN: Triumphalis Corona R. P. D. Thomae Mentio Romano ad generale Praefectorum sui Ordinis canon. Reg. Cong. Salvatoris evecto, ab Academicis S. Salvat. Bonon. contexta, atque dicata (Bononiae, typis Jacobi Montii et Caroli Zeneri, 1640)",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000311",
+        "WorkId": "00098",
+        "ShortTitle": "Il melone",
+        "LongTitle": "discorso armonico del M(olto) Ill(ustre) Sig(nor) Cavaliere Hercole Bottrigaro et Il Melone secondo considerationi musicali del medesimo sopra un discorso di M. Gandolfo Sigonio intorno a` Madrigali et a` libri dell`antica musica ridutta alla moderna prattica di D. Nicola Vicentino. E nel fine esso discorso del Sigonio",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1602",
+        "DedicationPlaceDate": "Bologna 8 October 1602",
+        "Shelfmark": "557.c.18.(4.)",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Illustration": "Engraved plate | Portrait of Bottrigari",
+        "Pagination": "45; 42",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7561",
+                "RecordID": "022-000000277",
+                "Value": "Bottrigari,Hercole,,1531-1612"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5032",
+                "RecordID": "022-000000034",
+                "Value": "Zoppio,Melchiorre,,1544-1634/7"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7564",
+                    "RecordID": "022-000000276",
+                    "Value": "Gambara,Francesco,Count,\u2020ca. 1564"
+                },
+                {
+                    "PersonId": "7561",
+                    "RecordID": "022-000000277",
+                    "Value": "Bottrigari,Hercole,,1531-1612"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7562",
+                "RecordID": "022-000000274",
+                "Value": "Righetti,Lorenzo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "PrinterOrnament": "V51 - Z191",
+        "TitlePageImage": {
+            "ImageId": "52657",
+            "Value": "023-000000311_52657_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52658",
+            "Value": "023-000000311_52658_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "L`eccellentissimo signore il dottore Melchiore Zoppio tra gli Accademici Gelati Il Caliginoso al lettore prega felice e lunga vita",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "5032",
+                        "RecordID": "022-000000034",
+                        "Value": "Zoppio, Melchiorre, , 1544-1634/7"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

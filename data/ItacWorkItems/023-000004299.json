@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004299",
+        "WorkId": "000558",
+        "ShortTitle": "Il Pomo d`Oro",
+        "LongTitle": "Proposte et risposte",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1632",
+        "DedicationPlaceDate": "Rome 1st December 1632",
+        "Shelfmark": "1063.d.11",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "98 [10]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15035",
+                "RecordID": "022-000001077",
+                "Value": "Bruni,Antonio,,1593-1635"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16874",
+                "RecordID": "022-000003642",
+                "Value": "Malavolti,Ubaldino,,"
+            }
+        },
+        "Notes": "`Pomo d`oro` is part of a collection of poems entitled `Le Veneri. Poesie`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17442",
+                "RecordID": "022-000004301",
+                "Value": "Colonna,Francesco,Prince of Carbognano,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17441",
+                "RecordID": "022-000004300",
+                "Value": "Mascardi,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54916",
+            "Value": "023-000004299_54916_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Ubaldino Malavolti tra i Filomati di Siena Lo Sbattuto loda le poesie del Sig. Bruni",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16874",
+                        "RecordID": "022-000003642",
+                        "Value": "Malavolti,Ubaldino,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

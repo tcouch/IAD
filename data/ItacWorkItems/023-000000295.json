@@ -1,0 +1,44 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000295",
+        "WorkId": "00016",
+        "ShortTitle": "Filarmindo favola pastorale",
+        "LongTitle": "del signor conte Ridolfo Campeggi in questa sesta impressione arricchita con L`Aurora Ingannata. Favoletta per gli intermedi in musica",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1624",
+        "Shelfmark": "1071.l.3.(8)",
+        "Subjects": "Pastoral tale",
+        "Language": "Italian",
+        "Pagination": "pp. 178",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5039",
+                "RecordID": "022-000000041",
+                "Value": "Campeggi,Ridolfo,Count,1565-1624"
+            }
+        },
+        "Notes": "No mention of Campeggi belonging to the Academia dei Gelati",
+        "CensorsAgreement": "Con licenza e privilegio",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5255",
+                "RecordID": "022-000000246",
+                "Value": "Valentini,Giorgio,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

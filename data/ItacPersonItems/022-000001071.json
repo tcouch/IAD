@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15029",
+        "RecordId": "022-000001071",
+        "Surname": "Gramigna",
+        "Forename": "Vincenzo",
+        "DateText": "1580-1627",
+        "StartDate": "1580",
+        "EndDate": "1627",
+        "Nationality": {
+            "NationalityId": "228",
+            "Value": "of Riccia (Campobasso)"
+        },
+        "Notes": "Delivered the presentation `Sul fine della Poesia`, in the Accademia degli Umoristi, according to Russo (1979)",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

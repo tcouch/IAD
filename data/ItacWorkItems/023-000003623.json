@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003623",
+        "WorkId": "000478",
+        "ShortTitle": "Delle feste del carnevale",
+        "LongTitle": "Fatte da` Filomati. Lettera scritta dal sig. N.N. al signor N. N.",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1618",
+        "DedicationPlaceDate": "Siena 24 April 1618 and 16 March 1603",
+        "Shelfmark": "1560/3106",
+        "Subjects": "Carnival",
+        "Language": "Italian",
+        "Pagination": "12ff.",
+        "Marginalia": "No",
+        "Notes": "There are several ms notes in the margins, revealing real names of members of the Academy.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16861",
+                "RecordID": "022-000003622",
+                "Value": "Academici Filomati,,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16860",
+                    "RecordID": "022-000003621",
+                    "Value": "Marchetti,Salvestro,,fl.1594 - 1603"
+                },
+                {
+                    "PersonId": "16862",
+                    "RecordID": "022-000003624",
+                    "Value": "Ferretti,Bernardino,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16804",
+                "RecordID": "022-000003548",
+                "Value": "I Florimi,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53869",
+            "Value": "023-000003623_53869_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

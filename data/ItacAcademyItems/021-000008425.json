@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0579",
+        "RecordId": "021-000008425",
+        "Name": "Felici (Accademia dei)",
+        "City": {
+            "CityId": "67",
+            "CityItalianName": "Mantova",
+            "CityEnglishName": "Mantua",
+            "CityLatinName": "Mantua"
+        },
+        "StartDate": "1587",
+        "EndDate": "ca. 1595",
+        "DateText": "1587-ca. 1595",
+        "Notes": "Founded by Lattanzio Domanino in the convent of the Carmelite Order in Mantua. Domanino obtained official permission to found the academy from Pope Sixtus V on 5 May, 1587. See Sonia Pellizzer, `Domanino, Lattanzio,` in DBI 40 (1991).",
+        "ItacPersonItem": {
+            "PersonId": "20636",
+            "RecordId": "022-000008438",
+            "Name": "Domanino,Lattanzio,Vicar General,1540-ca. 1595-96",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

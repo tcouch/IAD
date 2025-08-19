@@ -1,0 +1,427 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005546",
+        "WorkId": "000674",
+        "ShortTitle": "Prose vulgari di Monsignor Agostino Mascardi",
+        "LongTitle": "Cameriere d`Honore di N.S. Urbano VIII --- Delle prose vulgari di Monsignor Agostino Mascardi cameriere d`honore di N. Sig. Urbano VIII Parte Seconda. Continente l`Orationi. All`Illustrissimo Signor Gio. Giacomo Lomellino  [containing in one continuous pagination] Le pompe del campidoglio per la santita` di Nostro Signore Urbano VIII. quando piglio` il possesso. Descritte da Agostino Mascardi.\n-----------\nSaggi Accademici dati in Roma nell`Accademia del Serenissimo Prencipe Cardinal di Savoia da diversi Nobilissimi ingengi raccolti e pubblicati da Mons. Agostino Mascardi cameriere d`honore di N. S. Urbano VIII. Dedicato al molto illsutre et Reverendissimo signore Don Valeriano Zanucca Scaglia Abbate di Santa Francesca in Brescia. Con licenze de` superiori e privilegio",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0115",
+                "RecordID": "021-000005287",
+                "Value": "Accademia I Desiosi"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1630",
+        "Shelfmark": "716d39(1-2)",
+        "Subjects": "Academic discourse|Academic Speeches",
+        "Language": "Italian",
+        "Pagination": "140; 243; [8] 196",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18202",
+                "RecordID": "022-000005182",
+                "Value": "Mascardi,Agostino,,1590 - 1640"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18202",
+                    "RecordID": "022-000005182",
+                    "Value": "Mascardi,Agostino,,1590 - 1640"
+                },
+                {
+                    "PersonId": "16073",
+                    "RecordID": "022-000002657",
+                    "Value": "Aleandro,Girolamo (Il giovane),,1574 - 1629"
+                },
+                {
+                    "PersonId": "5082",
+                    "RecordID": "022-000000079",
+                    "Value": "Malvezzi,Virgilio,Marquis,1595-1654"
+                },
+                {
+                    "PersonId": "18507",
+                    "RecordID": "022-000005539",
+                    "Value": "degli Oddi,Galeotto,,"
+                },
+                {
+                    "PersonId": "18188",
+                    "RecordID": "022-000005168",
+                    "Value": "Pallavicino,Sforza ,Marquis|Cardinal,1607 - 1667"
+                },
+                {
+                    "PersonId": "18508",
+                    "RecordID": "022-000005540",
+                    "Value": "Fabrici,Giuliano,,"
+                },
+                {
+                    "PersonId": "18509",
+                    "RecordID": "022-000005541",
+                    "Value": "Rospigliosi,Giulio,,"
+                },
+                {
+                    "PersonId": "18369",
+                    "RecordID": "022-000005387",
+                    "Value": "di Somma,Agazio,,1591 - 1671"
+                },
+                {
+                    "PersonId": "18200",
+                    "RecordID": "022-000005180",
+                    "Value": "Paoli,Pierfrancesco,,"
+                },
+                {
+                    "PersonId": "18187",
+                    "RecordID": "022-000005167",
+                    "Value": "Rocchi,Girolamo,,fl.1628 - 1638"
+                },
+                {
+                    "PersonId": "18513",
+                    "RecordID": "022-000005545",
+                    "Value": "Pandolfi,Alfonso,,"
+                },
+                {
+                    "PersonId": "5280",
+                    "RecordID": "022-000000318",
+                    "Value": "Pellegrini,Matteo,,1595 - 1652"
+                },
+                {
+                    "PersonId": "18510",
+                    "RecordID": "022-000005542",
+                    "Value": "Giovanetti,Marcello,,1598-1631"
+                },
+                {
+                    "PersonId": "18511",
+                    "RecordID": "022-000005543",
+                    "Value": "Buoninsegni,Francesco,,ca.1600-after1647"
+                },
+                {
+                    "PersonId": "18512",
+                    "RecordID": "022-000005544",
+                    "Value": "Cardi,Agnolo,,"
+                }
+            ]
+        },
+        "Notes": "The book contains: Prose vulgari Part One and Two and Le Pompe del Campidoglio in one continuous pagination; The second part, contains Saggi accademici dati in Roma. ---- Another edition was printed in Venice by Curti (1676). See Merolla (1995) for details about various editions ---- Giovanetti`s Speech might be connected with an engraving of the period showing `the anamorphic reflection of an elephant in a columnar mirrror` (See William Crelly, Marcello Giovanetti. A Poet of the Early Roman Baroque, 1989; also with an English translation of Giovanetti`s speech).",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "16527",
+                "RecordID": "022-000003224",
+                "Value": "Ridolfi,Niccolo`,,1558 - 1650"
+            }
+        },
+        "CensorsAgreement": "Imprimatur si videbitur reverendiss. P. Magistro Sacri Palatii Apostolici. A. Episc. Hieracen. Vicesg. Imprimatur Fr. Nicolaus Rodulfius ord. Praedic. Sacri Apostolici Palatii Magister",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18515",
+                    "RecordID": "022-000005548",
+                    "Value": "Lomellini,Gio: Giacomo,,"
+                },
+                {
+                    "PersonId": "18394",
+                    "RecordID": "022-000005414",
+                    "Value": "di Savoia,Maurizio,Cardinal,1593-1657"
+                },
+                {
+                    "PersonId": "18516",
+                    "RecordID": "022-000005549",
+                    "Value": "Zanucca Scaglia,Valeriano,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18514",
+                "RecordID": "022-000005547",
+                "Value": "Fontana,Bartolomeo,,"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "18517",
+                "RecordID": "022-000005550",
+                "Value": "Stella,Jacques,,1596 - 1657"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "7313",
+                "RecordID": "022-000000899",
+                "Value": "David,Hieronymus,,1605-1670"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18514",
+                "RecordID": "022-000005547",
+                "Value": "Fontana,Bartolomeo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54433",
+            "Value": "023-000005546_54433_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54434",
+            "Value": "023-000005546_54434_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Discorso Primo. Che gli essercitii di lettere sono in corte non pur dicevoli ma necessarii. Nell`aprirsi dell`accademia del  ser.mo Principe Cardinale di Savoia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Terzo. Che la Corte e` vera scuola non solamente della prudenza, ma delle virtu` morali. recitato nell`acacdemia degli Humoristi di Roma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discrso Quinto. Delle contese de gli Angioli cosi` buoni come rei: e del genio predominante nomato recitato nell`Accademia del Palazzo Apostolico",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Ottavo. Lettione fatta sopra un testo del quinto libro della Politica di Aristotele. fatta in Roma nell`aprirsi dell` Accademia. In casa del Signor Conte Alfonso Gonzaga, hora arcivescovo di Rhodi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione quarta. Per le Esequie del Signor D. Virginio Cesarino, celebrate nell`Accademia dei signori Humoristi di Roma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione Ottava. Delle lodi di Sant`Ignatio, fondatore della compagnia di Giesu`. recitata nell`Accademia per la Canonizatione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione Nona. Delle lodi di San San Francesco Xaverio della Compagnia di Giesu` Apstolo delle Indie. recitata nell`Accademia per la Canonizazione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione Decima. Delle lodi di Santa Elisabetta Reina di Portogallo, recitata nell`Accademia del Ser.mo Principe Cardinal di Savoia per la canonizatione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione Undecima. Discorso o Invettiva fatta in una Accademia, intorno alla iniquita` della Fortuna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oratione XV. Per l`Elettione del Re de` Romani Ferdinando d`Austria Re d`Ungheria e di Boemia. Recitata nell`Accademia del Ser.mo Prencipe Cardinal di Savoia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Tavola de\u2019 discorsi de\u2019 saggi accademici dati in roma nell\u2019Accademia del Serenissimo cardinale di Savoia:",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18202",
+                            "RecordID": "022-000005182",
+                            "Value": "Mascardi,Agostino,,1590 - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso primo. Del modo che tener devono i saggi e i letterati cortegiani per non essere dalla corte (quasi da novella Circe) in sembianze di brutti animali trasformati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16073",
+                            "RecordID": "022-000002657",
+                            "Value": "Aleandro,Girolamo (Il giovane),,1574 - 1629"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ragioni per le quaili i letterati credono non poter avvantaggiarsi della corte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5082",
+                            "RecordID": "022-000000079",
+                            "Value": "Malvezzi,Virgilio,Marquis,1595-1654"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Che ciascuno \u00e8 fabbro a se medesimo delle proprie venture",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18507",
+                            "RecordID": "022-000005539",
+                            "Value": "degli Oddi,Galeotto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Se sia pi\u00f9 nobile l\u2019intelletto o la volont\u00e0",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18188",
+                            "RecordID": "022-000005168",
+                            "Value": "Pallavicino,Sforza ,Marquis|Cardinal,1607 - 1667"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell\u2019ambitione del letterato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18508",
+                            "RecordID": "022-000005540",
+                            "Value": "Fabrici,Giuliano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dello scorruccio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18509",
+                            "RecordID": "022-000005541",
+                            "Value": "Rospigliosi,Giulio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell`origine dell`anno santo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18369",
+                            "RecordID": "022-000005387",
+                            "Value": "di Somma,Agazio,,1591 - 1671"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Della cognitione di se medesimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18187",
+                            "RecordID": "022-000005167",
+                            "Value": "Rocchi,Girolamo,,fl.1628 - 1638"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Che nella Divina Scrittura si contengono tutte le scienze",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18513",
+                            "RecordID": "022-000005545",
+                            "Value": "Pandolfi,Alfonso,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Che il dir male non e` in tutto male",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5280",
+                            "RecordID": "022-000000318",
+                            "Value": "Pellegrini,Matteo,,1595 - 1652"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dello specchio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18510",
+                            "RecordID": "022-000005542",
+                            "Value": "Giovanetti,Marcello,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Donde nacque l`odio di Saulle contra Davide",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18511",
+                            "RecordID": "022-000005543",
+                            "Value": "Buoninsegni,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La Calamita della Corte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18512",
+                            "RecordID": "022-000005544",
+                            "Value": "Cardi,Agnolo,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

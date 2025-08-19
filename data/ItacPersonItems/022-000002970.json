@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16317",
+        "RecordId": "022-000002970",
+        "Surname": "Vitali",
+        "Forename": "Pietro",
+        "AlternativeName": {
+            "AlternativeSurname": "Vitale",
+            "AlternativeForename": null
+        },
+        "DateText": "1646 - 1728",
+        "StartDate": "1646",
+        "EndDate": "1728",
+        "Nationality": {
+            "NationalityId": "92",
+            "Value": "of Enna (Sicily)"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

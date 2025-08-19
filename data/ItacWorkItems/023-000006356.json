@@ -1,0 +1,98 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006356",
+        "WorkId": "000758",
+        "ShortTitle": "Descrittione Della Citt\u00e0 Di Napoli, e del suo amenissimo distretto.",
+        "LongTitle": "Et Dell`Antichita Della Citt\u00e0 Di Pozzuolo. Con la narratione di tutti i luoghi notabili, e degni di memoria di Cuma, di Baia, di Miseno, & de gli altri luoghi convicini. Postovi medesimamente tutti i bagni, che son`hoggi in essere con le loro propriet\u00e0, & \u00e0 qual`infirmit\u00e0 giovino. Con le figure de gli Edificij, e con gli Epitaffi, che vi sono. Di D. Gioseppe Mormile Nap. Et in questa seconda impressione dall`istesso Autore accresciuta di molte cose non meno curiose, che utili.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            },
+            {
+                "AcademyId": "0035",
+                "RecordID": "021-000002615",
+                "Value": "Accademia degli Incauti"
+            },
+            {
+                "AcademyId": "0030",
+                "RecordID": "021-000002423",
+                "Value": "Accademia degli Infuriati"
+            }
+        ],
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1625",
+        "DedicationPlaceDate": "Naples 1 January 1626(?)",
+        "Shelfmark": "574.a.10.",
+        "Subjects": "Description of Naples|Description of Pozzuoli and its vicinities",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodctus|Naples|Woodctus|Pozzuoli and its vicinities|Woodctus|Armorial bearings",
+        "Pagination": "pp. 348",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19194",
+                "RecordID": "022-000006355",
+                "Value": "Mormile,Giuseppe,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15045",
+                "RecordID": "022-000001087",
+                "Value": "Faciuti,Donato,,"
+            }
+        },
+        "Notes": "On p. 5, the author mentions various Neapolitan academies. \nThe first edition of Giuseppe Mormile`s Descrittione (Naples, Tarquinio Longo, 1617) contains verses written by Prospero Antonio Zizza Accademico Ozioso.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15189",
+                    "RecordID": "022-000001231",
+                    "Value": "Tastius,Laelius,,"
+                },
+                {
+                    "PersonId": "15176",
+                    "RecordID": "022-000001218",
+                    "Value": "Riccius,Aloysius,,"
+                },
+                {
+                    "PersonId": "19195",
+                    "RecordID": "022-000006357",
+                    "Value": "Pizzella,,Canon,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Laelius tastius Vicarius Gener. \nCanonicus Pizzella Deputatus.\nAloysius Ricc. Canonicus Dep.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19196",
+                "RecordID": "022-000006358",
+                "Value": "Del Balzo,Scipione,Baron of Pomigliano d`Arco & delli Schiavi,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16933",
+                "RecordID": "022-000003717",
+                "Value": "Longo,Egidio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54923",
+            "Value": "023-000006356_54923_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54925",
+            "Value": "023-000006356_54925_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002771",
+        "WorkId": "000351",
+        "ShortTitle": "Nove Cieli",
+        "LongTitle": "Poesie Del Signor Girolamo Fontanella Dedicate All`Altezza Serenissima di Ferdinando II. Gran Duca di Toscana.",
+        "ItacAcademyItem": {
+            "AcademyId": "0030",
+            "RecordID": "021-000002423",
+            "Value": "Accademia degli Infuriati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1640",
+        "DedicationPlaceDate": "Naples 1 December 1640; Naples 15 March 1640; Naples 3 May 1640; Naples 1 May 1640; Naples 30 June 1640; Naples 20 October 1640; Naples 19 September 1640; Naples 2 November 1640; Naples 19 October 1640;",
+        "Shelfmark": "11429.df.24.(2.)",
+        "Subjects": "Poetry|Encomiastic poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraving|",
+        "Pagination": "pp. 152",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16152",
+                "RecordID": "022-000002766",
+                "Value": "Fontanella ,Girolamo,,1612 - 1644"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16157",
+                "RecordID": "022-000002773",
+                "Value": "Montanaro,Giovanni Domenico,,"
+            }
+        },
+        "Notes": "On p. 249, the author dedicates verses to Annibale Brancaccio, President of the Infuriati Academy in Naples",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15872",
+                    "RecordID": "022-000002432",
+                    "Value": "Lucian[us],Alex[ander],Vicar General,"
+                },
+                {
+                    "PersonId": "15873",
+                    "RecordID": "022-000002433",
+                    "Value": "Gianettasius,Ioseph,,"
+                },
+                {
+                    "PersonId": "16165",
+                    "RecordID": "022-000002781",
+                    "Value": "Aulisius,Io[annes] Dominicus,Canon,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Alexander Lucianus Vicar Generalis. Ioseph Giannettasius Can. Deputatis vid. Io: Dominicus Ausilius Can. Deputatus vid.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5300",
+                    "RecordID": "022-000000348",
+                    "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+                },
+                {
+                    "PersonId": "16155",
+                    "RecordID": "022-000002770",
+                    "Value": "Zantiglies Di Borgia,Melchior,,"
+                },
+                {
+                    "PersonId": "16158",
+                    "RecordID": "022-000002774",
+                    "Value": "Carafa ,Carlo,,"
+                },
+                {
+                    "PersonId": "16159",
+                    "RecordID": "022-000002775",
+                    "Value": "Carafa,Anna,Princess of Stigliano|Duchess of Sabbioneta and Medina de las Torres|Vicereine of Naples,"
+                },
+                {
+                    "PersonId": "16160",
+                    "RecordID": "022-000002776",
+                    "Value": "Di Bologna,Carlo,,"
+                },
+                {
+                    "PersonId": "15056",
+                    "RecordID": "022-000001097",
+                    "Value": "Carafa,Francesco Maria,Duke of Nocera,"
+                },
+                {
+                    "PersonId": "16161",
+                    "RecordID": "022-000002777",
+                    "Value": "Caracciolo ,Giuseppe,Prince della Torella,"
+                },
+                {
+                    "PersonId": "16162",
+                    "RecordID": "022-000002778",
+                    "Value": "Ferrao,Cesare,Prince of Sant`Agata,"
+                },
+                {
+                    "PersonId": "16163",
+                    "RecordID": "022-000002779",
+                    "Value": "Caracciolo,Tommaso,Archbishop of Taranto,"
+                },
+                {
+                    "PersonId": "16164",
+                    "RecordID": "022-000002780",
+                    "Value": "De Rossi e Bavosa,Hilario,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16156",
+                "RecordID": "022-000002772",
+                "Value": "Mollo,Roberto,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Al Signor Annibale Brancaccio. Principe nell`Acc. de gl`Infuriati",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "",
+                        "RecordID": ""
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

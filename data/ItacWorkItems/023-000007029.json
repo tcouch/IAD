@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007029",
+        "WorkId": "000811",
+        "ShortTitle": "Accademia per musica",
+        "LongTitle": "fatta nel Real Palazzo della Maesta` della Regina Christina per festeggiare l`Assonzione al Trono di Giacomo II Re d`Inghilterra In occasione della solenne Ambasciata mandata da sua Maesta` britanica alla Santita` di Nostro Signore Innocenzo XI. Versi d`Alessandro Guidi Accademico Reale.",
+        "ItacAcademyItem": {
+            "AcademyId": "0286",
+            "RecordID": "021-000006942",
+            "Value": "Accademia Reale di Cristina di Svezia"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1687",
+        "Shelfmark": "1062g29",
+        "Subjects": "Academic musical performance",
+        "Pagination": "16",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19667",
+                "RecordID": "022-000007026",
+                "Value": "Guidi,Alessandro,,1650 - 1712"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15546",
+                    "RecordID": "022-000002072",
+                    "Value": "Corelli,Arcangelo,,1653 - 1713"
+                },
+                {
+                    "PersonId": "19669",
+                    "RecordID": "022-000007030",
+                    "Value": "Pasquini,Bernardo,,1637 - 1710"
+                },
+                {
+                    "PersonId": "19670",
+                    "RecordID": "022-000007031",
+                    "Value": "Fede,Giuseppe,,1639/40 - 1700"
+                },
+                {
+                    "PersonId": "19671",
+                    "RecordID": "022-000007032",
+                    "Value": "Verdone,Francesco,,"
+                },
+                {
+                    "PersonId": "19672",
+                    "RecordID": "022-000007033",
+                    "Value": "Ceccarelli,Giuseppe,,"
+                },
+                {
+                    "PersonId": "19673",
+                    "RecordID": "022-000007034",
+                    "Value": "Anato`,Gio: Carlo,,"
+                },
+                {
+                    "PersonId": "19674",
+                    "RecordID": "022-000007035",
+                    "Value": "Raffaelli,Raffaele,,"
+                }
+            ]
+        },
+        "Notes": "The book contains the list of contributors and their roles:\n`Personaggi, e Nomi de Musici, Virtuosi della Regina, che formano l`Accademia. Londra: Giuseppe Fede; Tamigi: Francesco Verdone; Fama: Giuseppe Ceccarelli; Genio Dominante: Raffaelle Raffaelli; Genio Rubelle: Gio: Carlo Anato`; Chori di cento Musici; Bernardo Pasquini Compositore della Musica; Arcangelo Corelli Capo dell`Istromenti d`arco in numero di centocinquanta`",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18343",
+                "RecordID": "022-000005358",
+                "Value": "Tinassi,Nicolo` Angelo,,1622 - 1699"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54871",
+            "Value": "023-000007029_54871_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

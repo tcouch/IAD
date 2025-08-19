@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19813",
+        "RecordId": "022-000007250",
+        "Surname": "Farnese",
+        "Forename": "Francesco",
+        "PersonalTitle": "Duke of Parma and Piacenza",
+        "DateText": "1678-1727",
+        "StartDate": "1678",
+        "EndDate": "1727",
+        "Nationality": {
+            "NationalityId": "142",
+            "Value": "of Parma"
+        },
+        "Notes": "Seventh Duke of Parma and Piacenza.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

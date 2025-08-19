@@ -1,0 +1,188 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0108",
+        "RecordId": "021-000005055",
+        "Name": "Vignaiuoli (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "1527/30",
+        "EndDate": "1538?",
+        "DateText": "1527/30-1538?",
+        "Notes": "Sources for the list of members of this Academy, are the following documents: the letter by Berni to Bini (Florence 12 April 1534), in Lettere facete et piacevoli ... raccolte da m. Dionigi Atanagi, libro primo (Venice: B. Zaltieri, 1561), p. 48; the dedication of Equicola Institutioni by Marco Sabino to Uberto Strozzi;  another letter by Mauro D`Arcano to Gandolfo Porrino (16 dic. 1531), in Lettere facete et piacevoli... (Venice: B. Zaltieri, 1561), pp. 319-323, See also Gianni Ballistreri, `Bini, Giovan Francesco`, in DBI, Paola Cosentino, `L`Accademia della Virtu`, dicerie e cicalate di Annibal Caro e di altri virtuosi`, in Cum notibusse et commentaribusse..., ed. Paolo Procaccioli, Manziana 2001, and Franco Pignatti, `Molza, Francesco Maria`, in DBI. Cosentino disagrees that Mauro`s letter to Porrino should be seen as a source related to this Academy.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18170",
+                "RecordId": "022-000005139",
+                "Name": "Berni,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18128",
+                "RecordId": "022-000005090",
+                "Name": "Bini,Giovan Francesco,,1480s - 1556",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18090",
+                "RecordId": "022-000005043",
+                "Name": "Molza,Francesco Maria,,1489 - 1544",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15057",
+                "RecordId": "022-000001098",
+                "Name": "Mauro,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16557",
+                "RecordId": "022-000003270",
+                "Name": "Della Casa,Giovanni,Archbishop of Benevento,1503 - 1556",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19081",
+                "RecordId": "022-000006205",
+                "Name": "Sabino,Marco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19082",
+                "RecordId": "022-000006206",
+                "Name": "Firenzuola,Angelo,,1493 - 1543",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17990",
+                "RecordId": "022-000004924",
+                "Name": "de` Medici,Ippolito,Cardinal,1511 - 1535",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20756",
+                "RecordId": "022-000008582",
+                "Name": "Strozzi,Uberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20757",
+                "RecordId": "022-000008583",
+                "Name": "Giova,Giuseppe,,1506-after1569",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20758",
+                "RecordId": "022-000008584",
+                "Name": "D`Arcano,Mauro,,before1496-1536",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20759",
+                "RecordId": "022-000008585",
+                "Name": "Franciotti,Nicolao,,1493-1575",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19083",
+                "RecordId": "022-000006207",
+                "Name": "Capilupi,Lelio,,1497-1560",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18131",
+                "RecordId": "022-000005094",
+                "Name": "Porrino,Gandolfo,,? - 1552",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20760",
+                "RecordId": "022-000008586",
+                "Name": "Gelido,Pietro,,1495/96-before1570",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20761",
+                "RecordId": "022-000008587",
+                "Name": "Fondulo,Girolamo,,ca.1480-1540",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20769",
+                "RecordId": "022-000008596",
+                "Name": "Ghinucci,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20770",
+                "RecordId": "022-000008597",
+                "Name": "Paltroni,Federigo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20771",
+                "RecordId": "022-000008598",
+                "Name": "Pini,Giovan Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20772",
+                "RecordId": "022-000008599",
+                "Name": "Strozzi,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20773",
+                "RecordId": "022-000008600",
+                "Name": "da Fano,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

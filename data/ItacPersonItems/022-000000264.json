@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5274",
+        "RecordId": "022-000000264",
+        "Surname": "Benacci",
+        "Forename": "Vittorio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Benazzi"
+        },
+        "DateText": "1571-1629",
+        "StartDate": "1571",
+        "EndDate": "1629",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "`Stampatore camerale` 1587-1629 and `Stampatore Archiepiscopale`",
+        "Role": "Printer",
+        "TypographicReference": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

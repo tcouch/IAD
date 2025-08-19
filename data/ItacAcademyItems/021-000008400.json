@@ -1,0 +1,22 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0571",
+        "RecordId": "021-000008400",
+        "Name": "Disuniti-Pisa (Accademia dei)",
+        "City": {
+            "CityId": "126",
+            "CityItalianName": "Pisa",
+            "CityEnglishName": "Pisa",
+            "CityLatinName": "Pisae"
+        },
+        "ItacPersonItem": {
+            "PersonId": "20614",
+            "RecordId": "022-000008399",
+            "Name": "Marchetti,Alessandro,,1633-1714",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

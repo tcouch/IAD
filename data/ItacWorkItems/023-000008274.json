@@ -1,0 +1,92 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008274",
+        "WorkId": "000927",
+        "ShortTitle": "Il Contrasto Amoroso, pastorale",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0551",
+                "RecordID": "021-000008268",
+                "Value": "Invaghiti (Mantova) (Accademia degli)"
+            },
+            {
+                "AcademyId": "0551",
+                "RecordID": "021-000008268",
+                "Value": "Invaghiti (Accademia degli - Mantova)"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1602",
+        "DedicationPlaceDate": "1 October, 1601, Ravenna",
+        "Shelfmark": "163.a.26",
+        "Content": "Pastoral drama in five acts and in verse",
+        "Subjects": "Theatre|Pastoral drama",
+        "Language": "Italian",
+        "Pagination": "pp. 144",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5602",
+                "RecordID": "022-000000659",
+                "Value": "Manfredi,Muzio,,ca.1535-1609"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9660",
+                    "RecordID": "022-000001829",
+                    "Value": "Massa,Lorenzo,,"
+                },
+                {
+                    "PersonId": "9661",
+                    "RecordID": "022-000001830",
+                    "Value": "Paolini,Fabio,,ca.1535-1605"
+                },
+                {
+                    "PersonId": "9665",
+                    "RecordID": "022-000001834",
+                    "Value": "Ottobonus,Leonardus,Secretary of the Council of Ten (Venice),"
+                },
+                {
+                    "PersonId": "20531",
+                    "RecordID": "022-000008276",
+                    "Value": "Malipiero,Francesco,,"
+                },
+                {
+                    "PersonId": "20532",
+                    "RecordID": "022-000008277",
+                    "Value": "Dolfin,Benedetto,,"
+                },
+                {
+                    "PersonId": "20533",
+                    "RecordID": "022-000008278",
+                    "Value": "Lando,Antonio,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Gli Eccellentissimi Signori Capi dell`Illustriss. Consiglio di X. Infrascritti havuta fede dalli signori Riformatori del studio di Padova per relation delli a ci\u00f2 deputati, ci\u00f2 \u00e8 del Reverendo Padre Inquisitor, del Circ. Secretario del Senato Lorenzo Massa, & di Domino Fabio Paulini Dottore lettor publico, che nel contrasto amoroso pastorale, scritto a mano dal Sig. Mutio Manfredi, non vi\u00e8 cosa contra le leggi, & \u00e8 degno di stampa, concedeno licentia, che possi esser stampato in questa Citt\u00e0.\nDat. Die 10. Septembris 1601.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20534",
+                "RecordID": "022-000008279",
+                "Value": "Gonzaga,Vittoria Doria,Signora di Guastalla|Princess of Molfetta,1569-1618"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20530",
+                "RecordID": "022-000008275",
+                "Value": "Somasco,Giacomo Antonio,,fl.1572-1612"
+            }
+        },
+        "PrinterOrnament": "U746",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

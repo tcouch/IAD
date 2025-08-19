@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15038",
+        "RecordId": "022-000001080",
+        "Surname": "Gonzaga",
+        "Forename": "Ercole",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1505-1563",
+        "StartDate": "1505",
+        "EndDate": "1563",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Role": "Dedicatee|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

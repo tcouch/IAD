@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18652",
+        "RecordId": "022-000005714",
+        "Surname": "Mele",
+        "Forename": "Francesco",
+        "AlternativeName": {
+            "AlternativeSurname": "Mele",
+            "AlternativeForename": "Franciscus"
+        },
+        "Anagram": "In Celorum Faces",
+        "DateText": "1613? - ?",
+        "StartDate": "1613?",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "257",
+            "Value": "of Bitonto (Bari)"
+        },
+        "Role": "Author|Dedicatee|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9676",
+        "RecordId": "022-000001849",
+        "Surname": "Bozzola",
+        "Forename": "Tommaso",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Tomaso"
+        },
+        "DateText": "fl. 1566-1600",
+        "StartDate": "fl. 1566",
+        "EndDate": "1600",
+        "Nationality": {
+            "NationalityId": "82",
+            "Value": "of Brescia"
+        },
+        "Role": "Printer",
+        "TypographicReference": "V22 - Z702|V21 - Z701",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

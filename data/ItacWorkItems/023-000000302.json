@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000302",
+        "WorkId": "00023",
+        "ShortTitle": "Taborre",
+        "LongTitle": "di Giovanni Battista Mauriccio al nostro signore Urbano VIII",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1629",
+        "DedicationPlaceDate": "Bologna 6 August 1629",
+        "Shelfmark": "11427.de.31",
+        "Subjects": "Theology|Politics|Morality|Jesus Christ`s transfiguration",
+        "Language": "Italian",
+        "Illustration": "Engraved title page | Portrait; Landscape",
+        "Pagination": "392",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5030",
+                "RecordID": "022-000000032",
+                "Value": "Mauritio,Giovanni Battista,,?1635"
+            }
+        },
+        "Notes": "The Academia de` Gelati is mentioned in both the dedication to the Pope and dedication to the reader. For the identification of this printer see Alfredo Cioni `Benacci Giovan Battista` in DBI vol. 8 (1966) p. 158.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5001",
+                "RecordID": "022-000000003",
+                "Value": "Barberini,Maffeo,Pope Urban VIII,1568-1644"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5199",
+                "RecordID": "022-000000193",
+                "Value": "Ma(u)ri.ci,Her(co)le,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5259",
+                "RecordID": "022-000000250",
+                "Value": "Benacci,Heredi di,,1629-?"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52696",
+            "Value": "023-000000302_52696_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007660",
+        "WorkId": "000860",
+        "ShortTitle": "Il Giuseppe",
+        "LongTitle": "Di Ferrante Pallavicini. Tra gl`Incogniti di Venetia Academico occulto. Libri quattro",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Accademia degli Incogniti (Venezia)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1637",
+        "DedicationPlaceDate": "Padoa 6 Aprile 1637",
+        "Shelfmark": "4806b29",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20075",
+                "RecordID": "022-000007573",
+                "Value": "Pallavicino,Ferrante,,1615-1644"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19323",
+                "RecordID": "022-000006514",
+                "Value": "Erizzo,Benedetto,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15364",
+                "RecordID": "022-000001403",
+                "Value": "Tomasini,Christoforo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55207",
+            "Value": "023-000007660_55207_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

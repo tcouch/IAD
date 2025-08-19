@@ -1,0 +1,85 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005673",
+        "WorkId": "000687",
+        "ShortTitle": "Piazza Citta Di Sicilia Antica, Nuova, Sacra E Nobile,",
+        "LongTitle": "Del Padre Gio. Paolo Chiarand\u00e0 Della Compagnia di Gies\u00f9",
+        "ItacAcademyItem": {
+            "AcademyId": "0128",
+            "RecordID": "021-000005670",
+            "Value": "Accademia dei Piazzesi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1654",
+        "Shelfmark": "795.e.29.(3*.)",
+        "Subjects": "History of Piazza Armerina (Enna)",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|",
+        "Pagination": "pp. 284",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18612",
+                "RecordID": "022-000005663",
+                "Value": "Chiarand\u00e0,Giovan Paolo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18621",
+                "RecordID": "022-000005675",
+                "Value": "Balsamo,Ignatio,,? - 1659"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18623",
+                    "RecordID": "022-000005677",
+                    "Value": "Fortunatus,,General Vicar,"
+                },
+                {
+                    "PersonId": "18624",
+                    "RecordID": "022-000005678",
+                    "Value": "de Gregorio,Petrus,,"
+                },
+                {
+                    "PersonId": "18620",
+                    "RecordID": "022-000005674",
+                    "Value": "Ventimiglia,Carlo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Facultas R. P. Provincialis Soc. Iesu Provinciae Siculae.\nEgo Carolus Ventimiglia in Provincia Sicula Praepositus Provincialis potestate ad id mihi facta \u00e0 Reverendo admodum P. nostro Gosuvino Nickel Praepositio Generali; facultatem facio, ut liber inscriptus Piazza Citt\u00e0 di Sicilia Antica, Nuova, Sacra, e Nobile, &c. Autore P. Ioanne Paulo Chiarand\u00e0 Nostrae Societatis;eiusdemque Societatis gravium Doctorum hominum iuditio approbatus, typis mandetur: in quorum fidem, has literas, manu nostra subscriptas, & sigillo nostro munitas, dedimus. Panhormi. die 20. Octobris 1652. \nCarolus Ventimiglia\nImprimatur\nD. Fortunatus Vic. Gen.\nImprimatur\nR. D. Petrus de Gregorio Prael.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18622",
+                "RecordID": "022-000005676",
+                "Value": "Eredi di Brea ,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54629",
+            "Value": "023-000005673_54629_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Del M. R. P. Ignatio Balsamo della Compagnia di Gies\u00f9.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "18621",
+                        "RecordID": "022-000005675",
+                        "Value": "Balsamo,Ignatio,,? - 1659"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

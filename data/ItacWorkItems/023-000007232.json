@@ -1,0 +1,70 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007232",
+        "WorkId": "000820",
+        "ShortTitle": "Viaggi del P. Coronelli Parte Prima",
+        "LongTitle": "Consecrati all`Illustriss. ed Eccellentiss. Signore Conte Lazzaro Ferro di gloriosa memoria, e presentati all`illustriss. ed eccellentiss. signore Conte Giovanni di lui fratello patritij veneti",
+        "ItacAcademyItem": {
+            "AcademyId": "0143",
+            "RecordID": "021-000006183",
+            "Value": "Accademia degli Argonauti"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1697",
+        "Shelfmark": "1049f6",
+        "Subjects": "Geography",
+        "Language": "Italian",
+        "Pagination": "[7] 216 [1]",
+        "Marginalia": "No",
+        "Notes": "Here, the title page, and one plate from the book are shown.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19801",
+                    "RecordID": "022-000007235",
+                    "Value": "Leoni,F,Inquisitor,"
+                },
+                {
+                    "PersonId": "19797",
+                    "RecordID": "022-000007229",
+                    "Value": "Giustinian,Girolamo Ascanio,,"
+                },
+                {
+                    "PersonId": "19802",
+                    "RecordID": "022-000007236",
+                    "Value": "Cornaro,Francesco,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi riformatori dello studio di Padova - Havendo veduto per la fede di revisione et approbatione del Padre F. Leoni Inquisitore il libro intitolato `Viaggi del Padre Coronelli` non esservi cosa alcuna contro la Santa Fede cattolica e parimenti per attestato del Segretario nostro niente contra Principi, ne` buoni costumi, concediamo licenza che possa essere stampato, osservando gl`ordini in materia di stampe, e presentando le solite copie alle pubbliche Librerie di Venetia e di Padova. Data 30 Gennaio 1697 - Ascanio Giustiniano Cavalier, Riformatore; Francesco Cornaro, Procuratore, Riformatore",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19774",
+                "RecordID": "022-000007201",
+                "Value": "Ferro,Lazaro,Count,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19799",
+                "RecordID": "022-000007231",
+                "Value": "Tramontino,Giovanni Battista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55058",
+            "Value": "023-000007232_55058_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55059",
+            "Value": "023-000007232_55059_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

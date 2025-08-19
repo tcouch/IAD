@@ -1,0 +1,30 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0055",
+        "RecordId": "021-000003393",
+        "Name": "Segreti (Accademia dei)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1560?",
+        "EndDate": "?",
+        "DateText": "1560?-?",
+        "Notes": "For more information on the Segreti see Lorenzo Giustiniani, Breve contezza delle accademie istituite nel regno di Napoli, Napoli, 1801.",
+        "ItacPersonItem": {
+            "PersonId": "16280",
+            "RecordId": "022-000002933",
+            "Name": "Della Porta,Giambattista,,1535? - 1615",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null,
+            "PersonPortraitImage": {
+                "ImageId": "54606",
+                "Value": "022-000002933_54606_2.jpg"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

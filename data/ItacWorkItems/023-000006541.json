@@ -1,0 +1,79 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006541",
+        "WorkId": "000782",
+        "ShortTitle": "Apes Urbanae sive De Viris Illustribus",
+        "LongTitle": "Qui ab Anno MDCXXX per totum MDCXXXII Roame adfuerunt, as Typis aliquid evulgarunt.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1633",
+        "Shelfmark": "616.b.3.",
+        "Subjects": "Bibliography",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Engraved titlepage|Y",
+        "Pagination": "pp. 376",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15217",
+                "RecordID": "022-000001259",
+                "Value": "Allacci,Leone,,1586-1669"
+            }
+        },
+        "Notes": "This text contains a reference to Annibale Brancaccio as one of the Presidents of the Oziosi academy in Naples",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18568",
+                    "RecordID": "022-000005608",
+                    "Value": "Torniellus,A. ,,"
+                },
+                {
+                    "PersonId": "19344",
+                    "RecordID": "022-000006542",
+                    "Value": "Pilo,Nicolaus,Dean,"
+                },
+                {
+                    "PersonId": "18445",
+                    "RecordID": "022-000005468",
+                    "Value": "Riccardi,Nicola,Master of the Sacred Palace,1585-1639"
+                },
+                {
+                    "PersonId": "19345",
+                    "RecordID": "022-000006543",
+                    "Value": "Cellius,Antoninus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur,\nSi videbitur Reverendiss. P. Magistro Sacri Palatij Apostolici. A. torniellus Vicesg.\nEgo Doctor Nicolaus Pilo, Decanus Ecclesiae Primatialis Turritanae, Promotor, & Examinator in Universitate Turritana; ex commissione Reverendissimi P. Fr. Nicolai Riccardij Sacri Palatij Apostolici Magistri perlegi Librum D. Leonis Allatii, qui inscribitur, Apes Urbanae, se\u00f9 De Viris Illustribus; & in eo nihil reperi, quod Viri, ab obluvione vindicati, immortalitati donantur. Opus profecto ingeniosum, & elegans, laboris, atque acuminis plenum: ideoq; dignum indico, quod Typis mandetur. Datum Romae die 13. Februarij 1633.\nDoctor Nicolaus Pilo, Decanus Turritanus.\nImprimatur,\nFr. Antoninus Cellius Mag. Socius Reverendiss. P. Fr. Nicolai Riccardij Ord. Praed. Sacri Palatij Apostolici Magistri.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15218",
+                "RecordID": "022-000001260",
+                "Value": "Barberini,Antonio,Cardinal,1607-1671"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18289",
+                "RecordID": "022-000005293",
+                "Value": "Grignani,Ludovico,,1586 - 1651"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54897",
+            "Value": "023-000006541_54897_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

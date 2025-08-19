@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7555",
+        "RecordId": "022-000001459",
+        "Surname": "Grimaldi",
+        "Forename": "Giovambattista",
+        "Gender": "Male",
+        "DateText": "c.1524-c.1612",
+        "StartDate": "c.1524",
+        "EndDate": "c.1612",
+        "Nationality": {
+            "NationalityId": "100",
+            "Value": "Genoese"
+        },
+        "Notes": "See his biography by Monica Cerroni, in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

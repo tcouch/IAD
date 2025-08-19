@@ -1,0 +1,36 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0102",
+        "RecordId": "021-000004992",
+        "Name": "Vari (Accademia dei)",
+        "AlternativeName": "Academia di Varij",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1650?",
+        "EndDate": "?",
+        "DateText": "1650?-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18049",
+                "RecordId": "022-000004993",
+                "Name": "Salerno,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18051",
+                "RecordId": "022-000004995",
+                "Name": "de Dura,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

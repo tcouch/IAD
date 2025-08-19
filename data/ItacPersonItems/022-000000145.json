@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5149",
+        "RecordId": "022-000000145",
+        "Surname": "Maia Materdona",
+        "Forename": "Giovanni Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Gian Francesco"
+        },
+        "DateText": "1590 - 1650",
+        "StartDate": "1590",
+        "EndDate": "1650",
+        "Nationality": {
+            "NationalityId": "141",
+            "Value": "of Mesagne"
+        },
+        "Notes": "Giovanni Francesco Maia Materdona was the President of the Solitari Academy in Naples",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0003",
+        "RecordId": "021-000000313",
+        "Name": "Assorditi (Accademia degli)",
+        "City": {
+            "CityId": "43",
+            "CityItalianName": "Urbino",
+            "CityEnglishName": "Urbino",
+            "CityLatinName": "Urbini"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "5026",
+                "RecordId": "022-000000028",
+                "Name": "Desideri,Girolamo,,fl. 1655 - 1692",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5263",
+                "RecordId": "022-000000253",
+                "Name": "Rinaldi,Cesare,,1559 - 1636",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18951",
+                "RecordId": "022-000006054",
+                "Name": "Fabretti,Raffaele,,1618 - 1700",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

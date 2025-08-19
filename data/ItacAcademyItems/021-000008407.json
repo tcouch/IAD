@@ -1,0 +1,21 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0575",
+        "RecordId": "021-000008407",
+        "Name": "Coraggiosi (Accademia dei)",
+        "City": {
+            "CityId": "127",
+            "CityItalianName": "Bari",
+            "CityEnglishName": "Bari"
+        },
+        "ItacPersonItem": {
+            "PersonId": "20610",
+            "RecordId": "022-000008392",
+            "Name": "Astorini,Elia,,1651-1702",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

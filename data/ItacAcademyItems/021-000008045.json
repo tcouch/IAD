@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0513",
+        "RecordId": "021-000008045",
+        "Name": "Eroica (Accademia)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "?",
+        "EndDate": "1617",
+        "DateText": "?-1617",
+        "Notes": "According to Maylender, who quotes Baruffaldi` Notizie istoriche delle accademie ferraresi (Ferrara, 1787), the Accademia Eroica was a literary academy, where members of the Ferrarese nobility gathered. The meetings used to take place in the house of Marquis Ercole Turchi. However, the Academy was suspended when on 25 December 1617, Ercole Pepoli was murdered in Turchi`s house. Still quoting Baruffaldi, Maylender mentions one publication related to this Academy: Alfonso Fiornovelli, Accademia eroica di dame e cavalieri (Venezia: Evangelista Deuchino, 1626), but this publication seems to be related to the Accademia degli Umoristi. See the relevant entry in this Database.",
+        "ItacPersonItem": {
+            "PersonId": "20475",
+            "RecordId": "022-000008206",
+            "Name": "Turchi,Ercole,Marquis,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

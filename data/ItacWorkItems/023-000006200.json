@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006200",
+        "WorkId": "000729",
+        "ShortTitle": "Li tre amanti burlati",
+        "LongTitle": "Comedia nova del Sig. Carlo Tiberi romano Il Disprezzato Accademico Nascosto",
+        "ItacAcademyItem": {
+            "AcademyId": "0146",
+            "RecordID": "021-000006199",
+            "Value": "Accademia dei Nascosti"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "98",
+            "PublicationPlaceItalianName": "Terni",
+            "PublicationPlaceEnglishName": "Terni",
+            "PublicationPlaceLatinName": "Interamnae"
+        },
+        "PublicationYear": "1637",
+        "DedicationPlaceDate": "Roma, 20 January 1637",
+        "Shelfmark": "Voyn64",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "102",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19077",
+                "RecordID": "022-000006198",
+                "Value": "Tiberi,Carlo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19078",
+                "RecordID": "022-000006201",
+                "Value": "Bona,Maurizio,,ca.1578 - 1643"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54610",
+            "Value": "023-000006200_54610_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

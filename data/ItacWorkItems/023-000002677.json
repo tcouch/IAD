@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002677",
+        "WorkId": "000330",
+        "ShortTitle": "Panegirico della cicala di Anacreonte",
+        "LongTitle": "overo il ritratto del savio stoico del Marchese Giovanni Pindemonte consacrato all`Altezza Serenissima Elettorale di Ferdinando Maria Duca dell`una e l`altra Baviera, e del Superiore Palatinato, Elettore del Sacro Romano Imperio et c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0038",
+            "RecordID": "021-000002675",
+            "Value": "Accademia degli Spensierati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "64",
+            "PublicationPlaceItalianName": "Verona",
+            "PublicationPlaceEnglishName": "Verona",
+            "PublicationPlaceLatinName": "Veronae"
+        },
+        "PublicationYear": "n.d.",
+        "DedicationPlaceDate": "Verona 4 January 1673",
+        "Shelfmark": "1570/1572",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 440",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16052",
+                "RecordID": "022-000002625",
+                "Value": "Pindemonte,Giovanni,Marquis,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16089",
+                "RecordID": "022-000002676",
+                "Value": "Marconi,Damian,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16090",
+                "RecordID": "022-000002678",
+                "Value": "Michieli,Petrus,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52641",
+            "Value": "023-000002677_52641_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

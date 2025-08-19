@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18521",
+        "RecordId": "022-000005556",
+        "Surname": "Boschini",
+        "Forename": "Marco",
+        "Gender": "Male",
+        "DateText": "1613-1678 (or1704)",
+        "StartDate": "1613",
+        "EndDate": "1678 (or1704)",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "The engraving of Boschini`s portrait is taken from Pietro Bellotto`s drawing, and appears on La carta del navegar pitoresco. See Boschini`s biography by Michelangelo Muraro, in DBI.",
+        "Role": "Author|Artist|Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

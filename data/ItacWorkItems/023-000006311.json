@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006311",
+        "WorkId": "000744",
+        "ShortTitle": "Horarum fallax Mors in certissima rerum.",
+        "LongTitle": "Attamen Horarum cur tibi cura datur",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "8\u00b0",
+        "PublicationYear": "1620/21",
+        "Shelfmark": "554b9|461k5",
+        "Content": "Animals` skeletons",
+        "Subjects": "Zoology",
+        "Language": "Italian|Latin",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19163",
+                "RecordID": "022-000006310",
+                "Value": "di Liano (Liagno),Teodoro Filippo,,1589 - 1629"
+            }
+        },
+        "Notes": "The book contains a series of engravings, each one with Latin comments. There is neither a title, or a printer. For the story of the collection of engraving, see Marco Charini, Filippo Napoletano. Guida alla mostra (2007).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19135",
+                "RecordID": "022-000006272",
+                "Value": "Faber,Joannes,,1574 - 1629"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "19163",
+                "RecordID": "022-000006310",
+                "Value": "di Liano (Liagno),Teodoro Filippo,,1589 - 1629"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54619",
+            "Value": "023-000006311_54619_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54620",
+            "Value": "023-000006311_54620_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

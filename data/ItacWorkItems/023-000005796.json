@@ -1,0 +1,816 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005796",
+        "WorkId": "000697",
+        "ShortTitle": "Applausi Accademici alla laurea Filosofica dell`Illustrissima Signora",
+        "LongTitle": "Elena Lucrezia Cornara Piscopia Accademica Infeconda",
+        "ItacAcademyItem": {
+            "AcademyId": "0125",
+            "RecordID": "021-000005612",
+            "Value": "Accademia degli Infecondi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1679",
+        "DedicationPlaceDate": "Rome 10 March 1679",
+        "Shelfmark": "1073.i.47",
+        "Subjects": "Encomiastic Speech|Encomiastic poetry",
+        "Language": "Italian|Latin",
+        "Pagination": "112",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18695",
+                    "RecordID": "022-000005760",
+                    "Value": "Maselli,Giacinto,,1644 - 1702"
+                },
+                {
+                    "PersonId": "18696",
+                    "RecordID": "022-000005761",
+                    "Value": "Nucci,Anton Francesco,,"
+                },
+                {
+                    "PersonId": "18697",
+                    "RecordID": "022-000005762",
+                    "Value": "Ciappini,Camillo,,"
+                },
+                {
+                    "PersonId": "18698",
+                    "RecordID": "022-000005763",
+                    "Value": "Sanmartino,Carlo Enrico,Count,"
+                },
+                {
+                    "PersonId": "18699",
+                    "RecordID": "022-000005764",
+                    "Value": "Capece,Carlo Sigismondo,,1652 - 1724"
+                },
+                {
+                    "PersonId": "18700",
+                    "RecordID": "022-000005765",
+                    "Value": "Sinibaldi,Carlo Andrea,,"
+                },
+                {
+                    "PersonId": "18702",
+                    "RecordID": "022-000005767",
+                    "Value": "Monaci,Gaetano,,"
+                },
+                {
+                    "PersonId": "18340",
+                    "RecordID": "022-000005355",
+                    "Value": "Cenni,Giacomo Maria,,"
+                },
+                {
+                    "PersonId": "18703",
+                    "RecordID": "022-000005768",
+                    "Value": "Duranti,Gio Bartolomeo,,1647 - 1713"
+                },
+                {
+                    "PersonId": "18704",
+                    "RecordID": "022-000005769",
+                    "Value": "Cardani,Gio Battista,,"
+                },
+                {
+                    "PersonId": "18705",
+                    "RecordID": "022-000005770",
+                    "Value": "Anconi de Madori,Gio Battista,,"
+                },
+                {
+                    "PersonId": "18706",
+                    "RecordID": "022-000005771",
+                    "Value": "Passeri,Gio Battista,,"
+                },
+                {
+                    "PersonId": "18707",
+                    "RecordID": "022-000005772",
+                    "Value": "Quartieri,Gio Francesco,,"
+                },
+                {
+                    "PersonId": "18443",
+                    "RecordID": "022-000005466",
+                    "Value": "Lotti,Ioannis,,"
+                },
+                {
+                    "PersonId": "18708",
+                    "RecordID": "022-000005773",
+                    "Value": "Savini,Giovanni,,"
+                },
+                {
+                    "PersonId": "18709",
+                    "RecordID": "022-000005774",
+                    "Value": "Berneri,Giuseppe,,1634 - ?"
+                },
+                {
+                    "PersonId": "18234",
+                    "RecordID": "022-000005218",
+                    "Value": "Piselli,Giuseppe,,fl.1661 - 1702"
+                },
+                {
+                    "PersonId": "18710",
+                    "RecordID": "022-000005775",
+                    "Value": "Guaccimanni,Giuseppe Giusto,,1652 - 1705"
+                },
+                {
+                    "PersonId": "18711",
+                    "RecordID": "022-000005776",
+                    "Value": "Monesio,Gio Pietro,,"
+                },
+                {
+                    "PersonId": "18712",
+                    "RecordID": "022-000005777",
+                    "Value": "Grimaldi,Giuliano,,"
+                },
+                {
+                    "PersonId": "18713",
+                    "RecordID": "022-000005778",
+                    "Value": "Cecchinelli,Ippolito,,"
+                },
+                {
+                    "PersonId": "18714",
+                    "RecordID": "022-000005779",
+                    "Value": "Gerardi,Leonardo,,"
+                },
+                {
+                    "PersonId": "18715",
+                    "RecordID": "022-000005780",
+                    "Value": "Gozze,Marcantonio,,"
+                },
+                {
+                    "PersonId": "18716",
+                    "RecordID": "022-000005781",
+                    "Value": "Cevoli,Mario,,"
+                },
+                {
+                    "PersonId": "18311",
+                    "RecordID": "022-000005321",
+                    "Value": "Brugueres,Michele,,1644 - 1722"
+                },
+                {
+                    "PersonId": "18342",
+                    "RecordID": "022-000005357",
+                    "Value": "Saulini,Nicolo` Francesco,,"
+                },
+                {
+                    "PersonId": "18717",
+                    "RecordID": "022-000005782",
+                    "Value": "Quaranta,Orazio,,"
+                },
+                {
+                    "PersonId": "18718",
+                    "RecordID": "022-000005783",
+                    "Value": "Carli,Paolo Francesco,,"
+                },
+                {
+                    "PersonId": "18719",
+                    "RecordID": "022-000005784",
+                    "Value": "Giubilei,Pietro,,"
+                },
+                {
+                    "PersonId": "18720",
+                    "RecordID": "022-000005785",
+                    "Value": "Mandosio,Prospero,,1643 - 1724"
+                },
+                {
+                    "PersonId": "18721",
+                    "RecordID": "022-000005786",
+                    "Value": "Infecondo ,,,"
+                },
+                {
+                    "PersonId": "18722",
+                    "RecordID": "022-000005787",
+                    "Value": "de Strinatis,Malatesta,,"
+                },
+                {
+                    "PersonId": "18723",
+                    "RecordID": "022-000005788",
+                    "Value": "de Actis,Alexandri,Abbot,"
+                },
+                {
+                    "PersonId": "18724",
+                    "RecordID": "022-000005789",
+                    "Value": "Buronti,Antonio Maria,,"
+                },
+                {
+                    "PersonId": "18725",
+                    "RecordID": "022-000005790",
+                    "Value": "Cartari,Antonio Stefano,,1651 - 1685"
+                },
+                {
+                    "PersonId": "18338",
+                    "RecordID": "022-000005353",
+                    "Value": "Tanucci,Curtio,,"
+                },
+                {
+                    "PersonId": "18727",
+                    "RecordID": "022-000005792",
+                    "Value": "Grisendi,Francisci,,"
+                },
+                {
+                    "PersonId": "15146",
+                    "RecordID": "022-000001188",
+                    "Value": "Marini,Francesco,Abbot,"
+                },
+                {
+                    "PersonId": "18728",
+                    "RecordID": "022-000005793",
+                    "Value": "Petralia Tusculano,Francesco,,"
+                },
+                {
+                    "PersonId": "18729",
+                    "RecordID": "022-000005794",
+                    "Value": "Boulboul Eburonis,Laurentius,,"
+                },
+                {
+                    "PersonId": "9100",
+                    "RecordID": "022-000001706",
+                    "Value": "Capellari,Michael,Abbot,1630 - 1717"
+                },
+                {
+                    "PersonId": "18701",
+                    "RecordID": "022-000005766",
+                    "Value": "Meloncelli,Gabriel Maria,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17879",
+                    "RecordID": "022-000004800",
+                    "Value": "de Angelis,Giacomo,Cardinal|Archbishop of Urbino,1610 - 1695"
+                },
+                {
+                    "PersonId": "17880",
+                    "RecordID": "022-000004801",
+                    "Value": "Capizucchi,Raimondo,Cardinal,1615 - 1691"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverendiss. Patri Magistro Sacri Palatii Apostolici I. De Angelis Archiepiscopus Urbin. Vicesregens. Imprimatur Fr. Raymundus Capisuccus Sac. pal. Ap. Magister",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9140",
+                "RecordID": "022-000001619",
+                "Value": "Cornaro\u00a0Piscopia,Helena Lucrezia,,1646 - 1684"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18731",
+                "RecordID": "022-000005797",
+                "Value": "Accademici Infecondi,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18730",
+                "RecordID": "022-000005795",
+                "Value": "Dragondelli,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54486",
+            "Value": "023-000005796_54486_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Nella laurea di Filosofia conseguita [...] nello Studio di Padova. Discorso Del Signor Giacinto Maselli detto l`Imperfetto, Recitato nell`Accademia degli Infecondi di Roma A 25 Dicembre 1678",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18695",
+                            "RecordID": "022-000005760",
+                            "Value": "Maselli,Giacinto,,1644 - 1702"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Anton Francesco Nucci detto lo Strepitoso. Al Sig. Maselli per lo discorso in lode della medesima. Sonetto - Chi mi chiama a gioir de l`Adria a i liti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18696",
+                            "RecordID": "022-000005761",
+                            "Value": "Nucci,Anton Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Annibale Ciappini. Alla Fama: S`allude all`Arme gentilizia alle sue molte scienze et alle conclusioni teologiche anco da essa difese. Sonetto - Fama quai porti a la gran tromba appese",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18697",
+                            "RecordID": "022-000005762",
+                            "Value": "Ciappini,Camillo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Conte Carlo Enrico Sanmartino. Madrigale - Se gia` la dea di Cnido",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18698",
+                            "RecordID": "022-000005763",
+                            "Value": "Sanmartino,Carlo Enrico,Count,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Carlo Sigismondo Capece Al medesimo soggetto. Apostrofe a Nettuno. sonetto - Cedi o Rettor de l`onde: il Salso Regno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18699",
+                            "RecordID": "022-000005764",
+                            "Value": "Capece,Carlo Sigismondo,,1652 - 1724"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Cavalier D. Carlo Andrea Sinibaldi Dell`ordine di S. Iago Patrizio Fiorentino. Canzone - D`elene due si gloria e si da vanto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18700",
+                            "RecordID": "022-000005765",
+                            "Value": "Sinibaldi,Carlo Andrea,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Francesco Maria de Luco Sereni detto il Ritenuto, s`allude alle dotte poesie et alla pudica bellezza della signora Elena Lucrezia. Sonetto - Tu che soglio canoro ergi in permesso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18232",
+                            "RecordID": "022-000005216",
+                            "Value": "De Luco Sereni,Francesco Maria,,1632 - 1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del P. Gabriel Maria Meloncelli Barnabita. Sonetto - O qual saggia donzella ardita movi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18701",
+                            "RecordID": "022-000005766",
+                            "Value": "Meloncelli,Gabriel Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Gaetano Monaci nel medesimo soggetto. celebra il giorno ch`ebbe la Laurea filosofica nello Studio di Padova. Sonetto - Chi tuona su i rostri al cui gran lume",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18702",
+                            "RecordID": "022-000005767",
+                            "Value": "Monaci,Gaetano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Dottor Giacomo Maria Cenni detto il Taciturno. S`allude al ritratto d`Elena dipinto in Crotone da Zeusi. Sonetto - Zeusi gia` per ritrar d`Elena il volto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18340",
+                            "RecordID": "022-000005355",
+                            "Value": "Cenni,Giacomo Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del sig. Gio. Bartolomeo Duranti detto  l`Animoso. Per la laurea dottorale conseguita in Padoa dalla medesima",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18703",
+                            "RecordID": "022-000005768",
+                            "Value": "Duranti,Gio Bartolomeo,,1647 - 1713"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Gio. Battista Cardani detto l`Inaridito. Alla medesima Nettuno a Giove cosi` parla. Sonetto - Ch`io t`invidii quel trono ove regnante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18704",
+                            "RecordID": "022-000005769",
+                            "Value": "Cardani,Gio Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Gio. Battista Anconi de` Madori detto il Sollevato. Che alle sue nobilissime doti siano vile paragone quelle dell`antiche Elene e Lucrezie o d`ogn` altra piu` famosa in bellezza o in Virtu`. Sonetto - Greche trombe tacete e voi latine",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18705",
+                            "RecordID": "022-000005770",
+                            "Value": "Anconi de Madori,Gio Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Gio: Battista Passeri detto il Gelato. alla medesima in occasione di havere essa fatto un discorso nel quale abbasso` le lettere ed inalzo` le armi. Sonetto - Bella bandite il plettro e di Bellona",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18706",
+                            "RecordID": "022-000005771",
+                            "Value": "Passeri,Gio Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del sig. Francesco Quartieri. Ch`e` gloria, e non stupore, che la donna apprenda le Scienze. Oda - Cade tal`hor da l`invecchiata balza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18707",
+                            "RecordID": "022-000005772",
+                            "Value": "Quartieri,Gio Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Giovanni Lotti. Si allude alla lingua greca e latina et ad ogni altra scienza della medesima. Madrigale - Inchiostri ch`illustrate Athene e Roma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18443",
+                            "RecordID": "022-000005466",
+                            "Value": "Lotti,Ioannis,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del sig. Giovanni Savini. S`allude alla contesa del pomo d`oro, al nome d`Elena ad Elena greca, ed alla stella fissa di questo nome. Sonetto - Del pomo d`or le gia` sopite risse",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18708",
+                            "RecordID": "022-000005773",
+                            "Value": "Savini,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Giuseppe Bernieri detto il Geniale. Sonetto - Se d`Ilio gia` ne` secoli vestuti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18709",
+                            "RecordID": "022-000005774",
+                            "Value": "Berneri,Giuseppe,,1634 - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Giuseppe Piselli, detto lo Sconosciuto, La priamide eretta in Parnaso alle glorie immortali della medesima. Oda - Meraviglie sassose",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18234",
+                            "RecordID": "022-000005218",
+                            "Value": "Piselli,Giuseppe,,fl.1661 - 1702"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Giuseppe Giusto Guaccimanni detto l`Irresoluto. Sonetto - Tutta l`ira sveglio` nel cor feroce",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18710",
+                            "RecordID": "022-000005775",
+                            "Value": "Guaccimanni,Giuseppe Giusto,,1652 - 1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Gio. Pietro Monesio. Per le conclusioni di filosofia gloriosamente sostenute in Venezia dalla medesima. sonetto - Catedere egizie e portici d`Athene",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18711",
+                            "RecordID": "022-000005776",
+                            "Value": "Monesio,Gio Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Giuliano Grimaldi. Nel medesimo soggetto. Sonetto - Da gale di smeraldo a gale ostili",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18712",
+                            "RecordID": "022-000005777",
+                            "Value": "Grimaldi,Giuliano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del sig. Ippolito Cecchinelli. Madrigale - Quando fra le tre dive",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18713",
+                            "RecordID": "022-000005778",
+                            "Value": "Cecchinelli,Ippolito,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del sig. Leonardo Gerardi. S`allude alla varieta` delle lingue di detta Signora. sonetto - Chi su`l vento suol con saggi inganni",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18714",
+                            "RecordID": "022-000005779",
+                            "Value": "Gerardi,Leonardo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Marc`Antonio Gozze. Sonetto - Scioglie i dotti suoi carmi Elena appena",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18715",
+                            "RecordID": "022-000005780",
+                            "Value": "Gozze,Marcantonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per diverse lingue e scienze ch`essa possiede. Sonetto - Ceda a l`Adria i trionfi il saggio Acheo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18716",
+                            "RecordID": "022-000005781",
+                            "Value": "Cevoli,Mario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Brugueres detto il Ribattuto. Sonetto - Su` l`Adriatico Nettun, Vergine altera,",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18311",
+                            "RecordID": "022-000005321",
+                            "Value": "Brugueres,Michele,,1644 - 1722"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si allude infine al Leone di Venezia. Sonetto - Chi l`Adria non dira` novella Atene",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18342",
+                            "RecordID": "022-000005357",
+                            "Value": "Saulini,Nicolo` Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto - Si pregi haver per la virtu` regnante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18342",
+                            "RecordID": "022-000005357",
+                            "Value": "Saulini,Nicolo` Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Su quelle parole Iam redit Virgo. Sonetto - Questo solo o de l`Adria alta Reina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18717",
+                            "RecordID": "022-000005782",
+                            "Value": "Quaranta,Orazio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si allude all`infaticabile studio dell`istessa. Sonetto - Da quei Morti Immortali e da quei vivi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18717",
+                            "RecordID": "022-000005782",
+                            "Value": "Quaranta,Orazio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alle doti e doni d`una Pandora benefica. Sonetto - Dunque un`Elena ancor con dubbio vanto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18717",
+                            "RecordID": "022-000005782",
+                            "Value": "Quaranta,Orazio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode - Del Selvoso Iampeo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18718",
+                            "RecordID": "022-000005783",
+                            "Value": "Carli,Paolo Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto  - Chi mi chiama a gli applausi? e quale hor sento",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18719",
+                            "RecordID": "022-000005784",
+                            "Value": "Giubilei,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al signor Giacinto Mastelli per il suo discorso. Madrigale - Dottissimo Giacinto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18720",
+                            "RecordID": "022-000005785",
+                            "Value": "Mandosio,Prospero,,1643 - 1724"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto - Su` l`acque ove a salvar da fiamme argive",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18721",
+                            "RecordID": "022-000005786",
+                            "Value": "Infecondo ,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto - Su l`acque ove a salvar da fiamme Argive",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18721",
+                            "RecordID": "022-000005786",
+                            "Value": "Infecondo ,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Illustrissimam Helenam Lucretiam Corneliam Piscopiam Infaecundorum Accademiae Plausus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18722",
+                            "RecordID": "022-000005787",
+                            "Value": "de Strinatis,Malatesta,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Disparitas inter Helenam Troianam et Helenam Corneliam Venetam. Distichon - Illa Helena olim rapta fuit prae lumine vultus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18723",
+                            "RecordID": "022-000005788",
+                            "Value": "de Actis,Alexandri,Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Parafrasi. Madrigale - Elena fu rapita Ilio tocconne",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18723",
+                            "RecordID": "022-000005788",
+                            "Value": "de Actis,Alexandri,Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Programma. Anagramma purum. Epigramma - Et poscit laudes et poscit praemia virtus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18724",
+                            "RecordID": "022-000005789",
+                            "Value": "Buronti,Antonio Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Comparatio Helenae Corneliae Piscopiae cum Helena Graeca. Epigramma - Argivas Helenam celebravit fama per oras",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18725",
+                            "RecordID": "022-000005790",
+                            "Value": "Cartari,Antonio Stefano,,1651 - 1685"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Distichon Extemporaneum - Hadriace haec Helena est Sparte. Quis raptor?",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18338",
+                            "RecordID": "022-000005353",
+                            "Value": "Tanucci,Curtio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carmen - Eia age, Musa, novam cantu venerare sororem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18727",
+                            "RecordID": "022-000005792",
+                            "Value": "Grisendi,Francisci,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma. Ob Philosophiae Lauream, omnibus suffragiis comparatam - Forma, Genus, Virtus, haec Virginis aurea dos est",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15146",
+                            "RecordID": "022-000001188",
+                            "Value": "Marini,Francesco,Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma - Terrarum status, thalamos calcare iugales",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18728",
+                            "RecordID": "022-000005793",
+                            "Value": "Petralia Tusculano,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Pro Laurea Doctoratus Patavii suscepta. Carmen familiare - Erubuit virtus a nomine dicta virili",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18709",
+                            "RecordID": "022-000005774",
+                            "Value": "Berneri,Giuseppe,,1634 - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma - Eloquium Latii doctae facundia linguae",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18729",
+                            "RecordID": "022-000005794",
+                            "Value": "Boulboul Eburonis,Laurentius,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad eadem omni litterarum genere excellentissimam et Accademiae Infaecundorum adscriptam dum publicas Theses propugnat. Epigramma - Nobilis heroici Veneti Catharina Senatus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18729",
+                            "RecordID": "022-000005794",
+                            "Value": "Boulboul Eburonis,Laurentius,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De Forma, Nobilitate, atque Sapientia eiusdem. Epigramma - Foemineus nuper Sexus cessisse virili",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9100",
+                            "RecordID": "022-000001706",
+                            "Value": "Capellari,Michael,Abbot,1630 - 1717"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium - Mirabere Lector",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18722",
+                            "RecordID": "022-000005787",
+                            "Value": "de Strinatis,Malatesta,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epigramma - Dum sapiens helene vicit Virtute Minervam",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18342",
+                            "RecordID": "022-000005357",
+                            "Value": "Saulini,Nicolo` Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium - Gratulor tibi / Doctissime Hyacinthe Maselli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18720",
+                            "RecordID": "022-000005785",
+                            "Value": "Mandosio,Prospero,,1643 - 1724"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

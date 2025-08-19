@@ -1,0 +1,112 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000303",
+        "WorkId": "00024",
+        "ShortTitle": "Delle rime di Gianfrancesco Maia Materdona",
+        "LongTitle": "Parte prima e seconda",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1629",
+        "DedicationPlaceDate": "Venice 1st July 1629",
+        "Shelfmark": "11427.df.16",
+        "Subjects": "Celebratory poems",
+        "Language": "Italian",
+        "Pagination": "Parte Prima pp. 114 | Parte Seconda pp. 76 | Parte Terza pp. 45",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5149",
+                "RecordID": "022-000000145",
+                "Value": "Maia Materdona,Giovanni Francesco,,1590 - 1650"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5149",
+                "RecordID": "022-000000145",
+                "Value": "Maia Materdona,Giovanni Francesco,,1590 - 1650"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5234",
+                    "RecordID": "022-000000226",
+                    "Value": "Polus,Aegidius,,"
+                },
+                {
+                    "PersonId": "5235",
+                    "RecordID": "022-000000227",
+                    "Value": "Bassus,Vincentius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Aegidus Polus pro Illustrissimi et Reverendissimi D. Cardinali Archiepiscopo Bononiae Imprimatur Fr. Vincentius Bassus Sacrae Theologiae Lector Ordinis Predicatorum Vic[arius] Sanctae Inquisit[ionis] Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5217",
+                    "RecordID": "022-000000208",
+                    "Value": "Savoia,Carlo Emanuele I,,1562-1630"
+                },
+                {
+                    "PersonId": "5218",
+                    "RecordID": "022-000000209",
+                    "Value": "Ubaldino,Roberto,Cardinal,1581 - 1635"
+                },
+                {
+                    "PersonId": "5113",
+                    "RecordID": "022-000000110",
+                    "Value": "Boncompagni,Francesco,Cardinal,1592-1641"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5248",
+                "RecordID": "022-000000240",
+                "Value": "Rossi,Heredi di Giovanni [Perseo],,\u20201629"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "54894",
+            "Value": "023-000000303_54894_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Per monsignor Francesco Paleotti eletto Principe dell`Accademia dei Gelati. Allude ai monti arma di Monsignor ed alla selva arma dell`Accademia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5149",
+                            "RecordID": "022-000000145",
+                            "Value": "Maia Materdona,Giovanni Francesco, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per l`Accademia dei Gelati di Bologna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5149",
+                            "RecordID": "022-000000145",
+                            "Value": "Maia Materdona,Giovanni Francesco, ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

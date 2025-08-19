@@ -1,0 +1,231 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0026",
+        "RecordId": "021-000002259",
+        "Name": "Animosi-Padova (Accademia degli)",
+        "AlternativeName": "Academia Animosorum",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "Ram of the golden fleece, with Phryxus and Helle",
+        "Motto": "Facilis jactura",
+        "StartDate": "1573",
+        "EndDate": "1576",
+        "DateText": "1573-1576",
+        "Notes": "A recent interpretation of this Academy in Sandra Olivieri Secchi, `Laici ed ecclesiastici tra sonno e ragione in un accademia padovana del `500: gli Animosi`, Archivio Veneto (1988);  Uberto Motta, Antonio Querenghi (1546-1633): un letterato padovano nella Roma del tardo Rinascimento (Milan:  Vita e pensiero, 1997). Publications not included in British Library catalogue are: Camillo Carga`s discussion about the `rain of blood` (1573), Camilli Cargae, De Sanguine, qui 17 Kal. jun. 1573 pluere visus est, disputatio, habita in nobiliss. Animosorum academia (Pasquatum, 1573), Panegirico nel felice dottorato dell`illustre, et eccell.mo sig. Gioseppe Spinelli, digniss. rettor de legisti, ... Raccolto da Giovanni Fratta gentiluomo veronese ed Accademico Animoso (Padoa: per Lorenzo  Pasquati, 1575).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15723",
+                "RecordId": "022-000002260",
+                "Name": "Martinengo,Ascanio,,1555-1583",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15729",
+                "RecordId": "022-000002266",
+                "Name": "Carga,Camillo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15728",
+                "RecordId": "022-000002265",
+                "Name": "Fratta,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15726",
+                "RecordId": "022-000002263",
+                "Name": "Cariero,Alessandro,,1546-1626",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15741",
+                "RecordId": "022-000002282",
+                "Name": "Cappello,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9148",
+                "RecordId": "022-000001600",
+                "Name": "Sassonia,Ercole,,fl.1575",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15730",
+                "RecordId": "022-000002267",
+                "Name": "Arnigio,Bartolom(m)eo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9674",
+                "RecordId": "022-000001846",
+                "Name": "Beni,Paolo,,1553-1625",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15724",
+                "RecordId": "022-000002261",
+                "Name": "Riccobono,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9137",
+                "RecordId": "022-000001747",
+                "Name": "Summo,Faustino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9207",
+                "RecordId": "022-000001504",
+                "Name": "Tomitano,Bernardino,,1517-1576",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9230",
+                "RecordId": "022-000001527",
+                "Name": "Speroni degli Alvarotti,Sperone,,1500-1588",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5500",
+                "RecordId": "022-000000487",
+                "Name": "della Torre,Sigismondo,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15750",
+                "RecordId": "022-000002294",
+                "Name": "Lollino,Luigi,Bishop of Belluno,1552-1625",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15747",
+                "RecordId": "022-000002291",
+                "Name": "Contarini,Niccolo` ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15749",
+                "RecordId": "022-000002293",
+                "Name": "Morosini,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15745",
+                "RecordId": "022-000002289",
+                "Name": "Diedo,Giovanni Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9019",
+                "RecordId": "022-000001592",
+                "Name": "Giustiniani,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15748",
+                "RecordId": "022-000002292",
+                "Name": "Tiepolo,Stefano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15753",
+                "RecordId": "022-000002298",
+                "Name": "Mussato,Luigi,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15765",
+                "RecordId": "022-000002312",
+                "Name": "Stamini,Simone,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15312",
+                "RecordId": "022-000001352",
+                "Name": "Tasso,Torquato,,1544-1595",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54567",
+                    "Value": "022-000001352_54567_2.jpg"
+                }
+            },
+            {
+                "PersonId": "9031",
+                "RecordId": "022-000001621",
+                "Name": "Querenghi,Antonio,,1546 - 1633",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15725",
+                "RecordId": "022-000002262",
+                "Name": "Piccolomini,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55330",
+                    "Value": "022-000002262_55330_2.jpg"
+                }
+            },
+            {
+                "PersonId": "20857",
+                "RecordId": "022-000008724",
+                "Name": "Macigni,Matteo,,ca.1510\u2013ca.1582",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

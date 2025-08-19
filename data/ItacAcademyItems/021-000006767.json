@@ -1,0 +1,23 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0201",
+        "RecordId": "021-000006767",
+        "Name": "Cavalieri dell`Iride (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "Notes": "One publication is related to this Academy, but it is not held in British Library collections: Li cavalieri dell`Iride (Roma, Angelo Bernabo`, 1684)",
+        "ItacPersonItem": {
+            "PersonId": "18710",
+            "RecordId": "022-000005775",
+            "Name": "Guaccimanni,Giuseppe Giusto,,1652 - 1705",
+            "Nickname": "Cavaliere della Costanza",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

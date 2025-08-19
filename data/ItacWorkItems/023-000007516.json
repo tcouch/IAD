@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007516",
+        "WorkId": "000841",
+        "ShortTitle": "Placidi Reynae In publico messanensi Gymnasio Naturalis Philosophiae E Prima Sede Professoris Proloquium",
+        "LongTitle": "In exornando Philosophiae, & Medicinae Laurea Ioanne petro Corvino Petri Castelli Romani Nepote.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0035",
+                "RecordID": "021-000002615",
+                "Value": "Accademia degli Incauti (Napoli)"
+            },
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1650",
+        "Shelfmark": "1179.d.(7.)",
+        "Subjects": "Natural Philosophy|Medicine",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Armorial bearing",
+        "Pagination": "pp. 9",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18954",
+                "RecordID": "022-000006057",
+                "Value": "Reina,Placido,,? - 1671"
+            }
+        },
+        "Notes": "The author mentions various members of Neapolitan academies",
+        "CensorsAgreement": "Superiorum Permissu",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18152",
+                "RecordID": "022-000005118",
+                "Value": "Brea,Pietro - Heredi,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55245",
+            "Value": "023-000007516_55245_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

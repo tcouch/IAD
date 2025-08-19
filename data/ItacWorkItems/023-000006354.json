@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006354",
+        "WorkId": "000757",
+        "ShortTitle": "An Examination of Dr. Woodward`s Account of the Deluge, &c.",
+        "LongTitle": "With a Comparison between Steno`s Philosophy and the Doctor`s, in the Case of Marine Bodies dug out of the Earth. By J. A. M.D. With A Letter to the Author Concerning An Abstract of Agostino Scilla`s Book on the same subject, Printed in the Philosophical transactions. By W.W. F.R.S.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "71",
+            "PublicationPlaceItalianName": "Londra",
+            "PublicationPlaceEnglishName": "London",
+            "PublicationPlaceLatinName": "Londinium"
+        },
+        "PublicationYear": "1697",
+        "Shelfmark": "B.668.(3.)",
+        "Subjects": "Palentology",
+        "Language": "Italian|English",
+        "Pagination": "pp. 84",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19191",
+                    "RecordID": "022-000006351",
+                    "Value": "Wotton,William,,1666-1727"
+                },
+                {
+                    "PersonId": "19192",
+                    "RecordID": "022-000006352",
+                    "Value": "Arbuthnot,John,,1667-1735"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "19193",
+                "RecordID": "022-000006353",
+                "Value": "Bateman,Christopher,,"
+            }
+        },
+        "Notes": "The Letter written by William Wotton, a commentary on Agostino Scilla`s work on marine fossils, is titled: A Vindication of an Abstract of an Italian Book concerning Marine Bodies which are found petrified in several Places at and, Written by Agostino Scilla, and abridged in the Philosophical Transactions for the months of January and Febr. 1695/6. William Wotton`s letter to John Arbuthnot is dated  [London]1 December 1697.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

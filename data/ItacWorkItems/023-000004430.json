@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004430",
+        "WorkId": "000577",
+        "ShortTitle": "Tribunale di San Lorenzo, Napoli",
+        "LongTitle": "Agl`Illustriss. ed Eccellentiss. Signori Eletti della Fedeliss. Citt\u00e0 di Napoli, i Signori\nSig. D. Francesco Capece Zurlo De Conti di S. Angelo, & cet. Per la Piazza di Capuana\nSig. D. Nicol\u00f2 Rosso De Conti di Simari, & cet. e\nSig. D. Orazio Muscettola De Duchi di melito, & cet. per Montagna\nSig. D. Carlo Spinelli Principe di Tarsia, & cet. per Nido\nSig. Girolamo Strambone Duca di Salza, & cet. per Porto.\nSig. D. Carlo Capuano De Conti di prata, & cet. per Portanova.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0080",
+                "RecordID": "021-000004394",
+                "Value": "Accademia degli Oscuri"
+            },
+            {
+                "AcademyId": "0081",
+                "RecordID": "021-000004437",
+                "Value": "Accademia dei Sicuri"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1706",
+        "DedicationPlaceDate": "Naples 20 october 1706",
+        "Shelfmark": "1485.d.3.(7.)",
+        "Subjects": "Speeches",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved copper plate|",
+        "Pagination": "unnumbered pages; pp. 28",
+        "Marginalia": "No",
+        "Notes": "Cropped. The author\u2019s signature at the foot of p. 28 has been cut away.\nThis text contains various references to Padovano Guasco and the Oscuri Academy in Naples.\nOn p.1, the author also mentions Biagio Adimari and the Sicuri Academy in Naples.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17547",
+                    "RecordID": "022-000004431",
+                    "Value": "Capece Zurlo,Francesco,Count,"
+                },
+                {
+                    "PersonId": "17548",
+                    "RecordID": "022-000004432",
+                    "Value": "Rosso,Nicol\u00f2,Count,"
+                },
+                {
+                    "PersonId": "17549",
+                    "RecordID": "022-000004433",
+                    "Value": "Muscettola,Orazio,Duke,"
+                },
+                {
+                    "PersonId": "17550",
+                    "RecordID": "022-000004434",
+                    "Value": "Spinelli,Carlo,Prince of Tarsia,"
+                },
+                {
+                    "PersonId": "17551",
+                    "RecordID": "022-000004435",
+                    "Value": "Strambone,Girolamo,Duke di Salza,"
+                },
+                {
+                    "PersonId": "17552",
+                    "RecordID": "022-000004436",
+                    "Value": "Capuano,Carlo,Count,"
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

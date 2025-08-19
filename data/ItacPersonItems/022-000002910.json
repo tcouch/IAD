@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16262",
+        "RecordId": "022-000002910",
+        "Surname": "Menini",
+        "Forename": "Ottavio",
+        "Gender": "Male",
+        "DateText": "1545-1617",
+        "StartDate": "1545",
+        "EndDate": "1617",
+        "Nationality": {
+            "NationalityId": "378",
+            "Value": "San Vito al Tagliamento (Pordenone)"
+        },
+        "Notes": "Obtained a degree `in utroque iure` in Padua (1566) See his biography by Franco Tomasi, in DBI. Joined the Ricovrati in 1601",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

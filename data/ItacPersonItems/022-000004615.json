@@ -1,0 +1,35 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17719",
+        "RecordId": "022-000004615",
+        "Surname": "Stensen",
+        "Forename": "Niels",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Stenone",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Nicolo`"
+            },
+            {
+                "AlternativeForename": "Nicola"
+            },
+            {
+                "AlternativeSurname": "Steno",
+                "AlternativeForename": "Nicolaus"
+            }
+        ],
+        "PersonalTitle": "Bishop",
+        "DateText": "1638-1686",
+        "StartDate": "1638",
+        "EndDate": "1686",
+        "Nationality": {
+            "NationalityId": "65",
+            "Value": "Danish"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

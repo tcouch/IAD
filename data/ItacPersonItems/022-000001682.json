@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9635",
+        "RecordId": "022-000001682",
+        "Surname": "Pasquati",
+        "Forename": "Lorenzo",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Pasquato"
+            },
+            {
+                "AlternativeSurname": "Pasquatus",
+                "AlternativeForename": "Laurentius"
+            }
+        ],
+        "DateText": "fl. 1561-1624",
+        "StartDate": "fl. 1561",
+        "EndDate": "1624",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "CNCE11|CNCE9514|U481|CNCM1511|U427",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000309",
+        "WorkId": "00030",
+        "ShortTitle": "Rime di Francesco Maria Caccianimici",
+        "LongTitle": "nell`Accademia dei Gelati il Tenebroso. Dedicate al serenissimo signor Don Francesco Gonzaga principe di Mantova e di Monferrato",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1608",
+        "Shelfmark": "c.107.e.4.(2)",
+        "Subjects": "Love poems|Ovid|Horace|Virgin Mary|Mary of San Luca",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page | Animals; human beings; landscape",
+        "Pagination": "pp. 95",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5036",
+                "RecordID": "022-000000038",
+                "Value": "Caccianemici,Francesco Maria,,"
+            }
+        },
+        "CensorsAgreement": "Imprimatur Frater Petrus a Florentia Vicarius Inquisitionis | Imprimatur D.Tobias Corona clericus regularis S. Pauli pro illustrissimo Archiepiscopo",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5134",
+                "RecordID": "022-000000130",
+                "Value": "Gonzaga,Francesco,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5278",
+                "RecordID": "022-000000267",
+                "Value": "Valesio,Giovanni,,1561-1640"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5253",
+                "RecordID": "022-000000244",
+                "Value": "Cochi,Bartolomeo,,\u20201621"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "46393",
+            "Value": "023-000000309_46393_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

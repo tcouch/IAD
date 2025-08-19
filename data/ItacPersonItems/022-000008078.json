@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20356",
+        "RecordId": "022-000008078",
+        "Surname": "Canani",
+        "Forename": "Tommaso",
+        "AlternativeName": {
+            "AlternativeSurname": "Cananus",
+            "AlternativeForename": "Thomas"
+        },
+        "PersonalTitle": "Bishop of Adria",
+        "DateText": "?-1590",
+        "StartDate": "?",
+        "EndDate": "1590",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Tommaso Canani was a jusrist, and the founder of the Concordi Academy in Ferrara. For his dates, see Giuliano Gliozzi`s biography of Giovanni Battista Canani, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

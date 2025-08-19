@@ -1,0 +1,31 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0038",
+        "RecordId": "021-000002675",
+        "Name": "Spensierati (Accademia degli)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "Sun - Tree - cicada",
+        "EmblemImage": {
+            "ImageId": "49491",
+            "Value": "021-000002675_49491_1.jpg"
+        },
+        "Motto": "Nec torqueor aestu",
+        "StartDate": "pre1673",
+        "DateText": "pre1673",
+        "Notes": "Nothing is known about this Academy, apart from what is reported by Maylender, vol. V, p. 239.",
+        "ItacPersonItem": {
+            "PersonId": "16052",
+            "RecordId": "022-000002625",
+            "Name": "Pindemonte,Giovanni,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

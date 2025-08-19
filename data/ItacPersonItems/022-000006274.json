@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19137",
+        "RecordId": "022-000006274",
+        "Surname": "Colonna",
+        "Forename": "Fabio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Columna",
+            "AlternativeForename": "Fabius"
+        },
+        "DateText": "1566/7-1640",
+        "StartDate": "1566/7",
+        "EndDate": "1640",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Joined the Lincei in 1612. Prince of the Neapolitan Lincei in 1615. Interested in botany, zoology, geology.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

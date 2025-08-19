@@ -1,0 +1,56 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007843",
+        "WorkId": "000877",
+        "ShortTitle": "Quattro comedie del divino Pietro Aretino",
+        "LongTitle": "cioe` Il Marescalco; La Cortegiana; La Talanta; L`Hipocrito",
+        "ItacAcademyItem": {
+            "AcademyId": "0447",
+            "RecordID": "021-000007841",
+            "Value": "Accademia dei Sempiterni - Compagnia della Calza"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "71",
+            "PublicationPlaceItalianName": "Londra",
+            "PublicationPlaceEnglishName": "London",
+            "PublicationPlaceLatinName": "Londinium"
+        },
+        "PublicationYear": "1588",
+        "Language": "Italian",
+        "Pagination": "285r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9231",
+                "RecordID": "022-000001528",
+                "Value": "Aretino,Pietro,,1492-1556"
+            }
+        },
+        "Notes": "No name of either place or printer, but it is London, and the printer was John Wolfe. At the end of the volume is a letter from the `correttore` explaining which texts were available to him and why there were so many mistakes. --- At the end of La Talanta, after the letter to Piccolomini (see the 1542 edition), the printer added the following note: Lo stampatore a chi legge: Deh, Cortese lettore, se appo te, od appo alcuno amico tuo si ritruova la tragedia di Cristo, di cui e` qui di sopra fatta mentione, degna farmela havere; accioche`, per mezo della mia stampa, a te, et al mondo tutto la possa, a guisa della rinasciuta [sic!] Fenice, ridonare. Et vivi felice. ------- Dedicatee of La Talanta is still Cosimo de` Medici as in the 1542 edition.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20254",
+                "RecordID": "022-000007844",
+                "Value": "Wolfe,John,,1548?-1601"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55042",
+            "Value": "023-000007843_55042_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "La Talanta Comedia di messer Pietro Aretino. Composta a petitione de i magnanimi Signori Sempiterni. E recitata da le lor proprie Magnificentie, con mirabile superbia di apparato.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9231",
+                        "RecordID": "022-000001528",
+                        "Value": "Aretino,Pietro,,1492-1556"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

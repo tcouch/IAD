@@ -1,0 +1,96 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0046",
+        "RecordId": "021-000002785",
+        "Name": "Agitati (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "Motto": "Immota putrescit",
+        "StartDate": "1665",
+        "EndDate": "?",
+        "DateText": "1665-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16167",
+                "RecordId": "022-000002787",
+                "Name": "Plantamuro Filingieri,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16168",
+                "RecordId": "022-000002788",
+                "Name": "Meninni,Federigo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "52911",
+                    "Value": "022-000002788_52911_2.jpg"
+                }
+            },
+            {
+                "PersonId": "19236",
+                "RecordId": "022-000006414",
+                "Name": "Boni ,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19237",
+                "RecordId": "022-000006415",
+                "Name": "Barberio,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19238",
+                "RecordId": "022-000006416",
+                "Name": "de Malpica,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15173",
+                "RecordId": "022-000001215",
+                "Name": "Cusano,Biagio,,\u20201683",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19239",
+                "RecordId": "022-000006417",
+                "Name": "de Nobili,Pietro Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19240",
+                "RecordId": "022-000006418",
+                "Name": "Maiorano,Ignazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19241",
+                "RecordId": "022-000006419",
+                "Name": "Nuzzi,Leonardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

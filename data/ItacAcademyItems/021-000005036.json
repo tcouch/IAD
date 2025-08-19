@@ -1,0 +1,105 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0106",
+        "RecordId": "021-000005036",
+        "Name": "Innominati-Parma (Accademia degli)",
+        "City": {
+            "CityId": "36",
+            "CityItalianName": "Parma",
+            "CityEnglishName": "Parma",
+            "CityLatinName": "Parmae"
+        },
+        "Notes": "Publications related to this Academy include:  Porro, Alessio, Vaso di verita nel quale si contengono dodeci resolutioni uere, a dodeci importanti, dubbi, fatti intorno all`origine, nascita, vita, opere, e morte dell`Antichristo. Del m.r.p.m. Alessio Porri carmelitano. Dottore, predicatore, padre grauissimo, e nell`Academia delli sig.ri Innominati detto l`Academico Stabile. All`ill.mo e r.mo mons.or il sig.or cardinal Priuli, patriarca di Venetia, e primate della Dalmatia (In Venetia: appresso Pietro Dusinelli e Girolamo Porri, 1597); Porro, Alessio, Discorso sopra `l settimo sonetto del Petrarca: composto dal M. R. ... Alessio Porri Carmelitano ... fra gli Academici Innominati, detto l`Academico Stabile\n(In Venetia : appresso Domenico Nicolini, 1596); ID. Lettione spirituale sopra`l sonetto 48. del Petrarca, fatta, & recitata nell`Academia delli signori Innominati nella citta di Parma, il 27. di genaio 1594. dal molto r. maestro Alessio Porri, ..(In Parma : appresso Erasmo Viotti, 1594); ID. Discorso in lode della rosa porpora dei prati, occhio de gli horti, pompa de i giardini, & gemma della giouent\u00f9. Fatto dal m.r.p. maestro Alessio Porri carmelitano academico veneto et Innominato, in gratia dell`una et l`altra academia (In Roma : appresso Guglielmo Facciotto, 1599);",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9144",
+                "RecordId": "022-000001615",
+                "Name": "Torelli,Pomponio,Count,1539 - 1608",
+                "Nickname": "Il Perduto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5146",
+                "RecordId": "022-000000142",
+                "Name": "Guarini,Battista,,1538 - 1612",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16263",
+                "RecordId": "022-000002911",
+                "Name": "Molza,Tarquinia,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20421",
+                "RecordId": "022-000008143",
+                "Name": "Massarengo,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5602",
+                "RecordId": "022-000000659",
+                "Name": "Manfredi,Muzio,,ca.1535-1609",
+                "Nickname": "Fermo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20375",
+                "RecordId": "022-000008097",
+                "Name": "Beffa Negrini,Antonio,,1532-1602",
+                "Nickname": "Affumicato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5089",
+                "RecordId": "022-000000086",
+                "Name": "Achillini,Claudio,,1574-1640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5017",
+                "RecordId": "022-000000019",
+                "Name": "Carmeni,Francesco,,fl.1632-1671",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18365",
+                "RecordId": "022-000005383",
+                "Name": "Guarini,Alessandro,,1563-1636",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15312",
+                "RecordId": "022-000001352",
+                "Name": "Tasso,Torquato,,1544-1595",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15380",
+                "RecordId": "022-000001873",
+                "Name": "Porri,Alessio,,?-1609",
+                "Nickname": "Accademico Stabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

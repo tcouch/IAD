@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9245",
+        "RecordId": "022-000001541",
+        "Surname": "Manuzio",
+        "Forename": "Paolo",
+        "Gender": "Male",
+        "DateText": "1512-1574",
+        "StartDate": "1512",
+        "EndDate": "1574",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "The son of Aldo Manuzio, Paolo was the printer of the Accademia della Fama in Venice. See his biography by Tiziana Sterza in DBI.",
+        "Role": "Editor|Printer|Author",
+        "TypographicReference": "Z43|V256|Z507|U226|U227",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

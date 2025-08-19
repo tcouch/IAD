@@ -1,0 +1,236 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001808",
+        "WorkId": "00123",
+        "ShortTitle": "Compositioni delli signori Academici Ricovrati",
+        "LongTitle": "per la nascita del serenissimo principe Gioseppe Giacomo Ignatio Antonio Giovanni Eustachio Archiduca d`Austria et c. procurate et raccolte da Carlo Patino medico di Parigi publico professore in Padoa et principe dell`Academia. Dedicate alle S. C. R. Maest\u00e0 di Leopoldo Cesare et Leonora Maddalena Teresa; augustissimi genitori",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Accademia dei Ricovrati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1678",
+        "DedicationPlaceDate": "Padua 25 September 1678",
+        "Shelfmark": "1054.e.29|Ac.8855.(2.)",
+        "Subjects": "Academic discourse on Fatherhood|Anti-Turks propaganda|Encomiastic poetry|Astrology|Encomiastic prophecy",
+        "Language": "Italian|Latin|German|Greek",
+        "Illustration": "Plates | academy emblem",
+        "Pagination": "pp. 86",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9148",
+                    "RecordID": "022-000001600",
+                    "Value": "Sassonia,Ercole,,1551-1607"
+                },
+                {
+                    "PersonId": "9140",
+                    "RecordID": "022-000001619",
+                    "Value": "Corner,Elena Lucrezia,,1646-1684"
+                },
+                {
+                    "PersonId": "9042",
+                    "RecordID": "022-000001633",
+                    "Value": "Caimo,Giacomo,,"
+                },
+                {
+                    "PersonId": "9046",
+                    "RecordID": "022-000001637",
+                    "Value": "de` Dottori,Carlo,,1618 - 1686"
+                },
+                {
+                    "PersonId": "9055",
+                    "RecordID": "022-000001645",
+                    "Value": "Dottori,Giovanni Battista,Count,"
+                },
+                {
+                    "PersonId": "9085",
+                    "RecordID": "022-000001691",
+                    "Value": "Patin,Charles,,1633-1693"
+                },
+                {
+                    "PersonId": "9086",
+                    "RecordID": "022-000001692",
+                    "Value": "Malacreda,Lorenzo,,"
+                },
+                {
+                    "PersonId": "9087",
+                    "RecordID": "022-000001693",
+                    "Value": "de Lazara,Alessandro,,1647-1705"
+                },
+                {
+                    "PersonId": "9088",
+                    "RecordID": "022-000001694",
+                    "Value": "Bronckhorst,Ottone,Count,"
+                },
+                {
+                    "PersonId": "9089",
+                    "RecordID": "022-000001695",
+                    "Value": "Persico,Giuseppe,,"
+                },
+                {
+                    "PersonId": "9090",
+                    "RecordID": "022-000001696",
+                    "Value": "Ferrari,Ottavio,,"
+                },
+                {
+                    "PersonId": "9091",
+                    "RecordID": "022-000001697",
+                    "Value": "Bonzanin,Giacomo,,"
+                },
+                {
+                    "PersonId": "9092",
+                    "RecordID": "022-000001698",
+                    "Value": "Conti,Horatio,,"
+                },
+                {
+                    "PersonId": "9093",
+                    "RecordID": "022-000001699",
+                    "Value": "Renaldini,Carlo,,"
+                },
+                {
+                    "PersonId": "9094",
+                    "RecordID": "022-000001700",
+                    "Value": "Ercolani,Tomaso,,"
+                },
+                {
+                    "PersonId": "9095",
+                    "RecordID": "022-000001701",
+                    "Value": "Borromeus,Alexander,,1625 - 1708"
+                },
+                {
+                    "PersonId": "9096",
+                    "RecordID": "022-000001702",
+                    "Value": "Franchini,Marco Antonio,,"
+                },
+                {
+                    "PersonId": "9097",
+                    "RecordID": "022-000001703",
+                    "Value": "Cesarotti,I. P.,,"
+                },
+                {
+                    "PersonId": "9098",
+                    "RecordID": "022-000001704",
+                    "Value": "Gradenicus,Ambrosius,,"
+                },
+                {
+                    "PersonId": "9099",
+                    "RecordID": "022-000001705",
+                    "Value": "Pochini,Firmano,,fl.1678"
+                },
+                {
+                    "PersonId": "9100",
+                    "RecordID": "022-000001706",
+                    "Value": "Capellari,Michael,Abbot,1630-1717"
+                },
+                {
+                    "PersonId": "9101",
+                    "RecordID": "022-000001707",
+                    "Value": "Viali,Felice,,1638 - 1722"
+                },
+                {
+                    "PersonId": "9102",
+                    "RecordID": "022-000001708",
+                    "Value": "Gallici,Giuseppe,,"
+                },
+                {
+                    "PersonId": "9103",
+                    "RecordID": "022-000001709",
+                    "Value": "F.T.D.T.,,,"
+                },
+                {
+                    "PersonId": "9104",
+                    "RecordID": "022-000001710",
+                    "Value": "Pighius,Iacobus,,"
+                },
+                {
+                    "PersonId": "9105",
+                    "RecordID": "022-000001711",
+                    "Value": "Gnagnotti,Gio(van) Batt(ista),,"
+                },
+                {
+                    "PersonId": "9106",
+                    "RecordID": "022-000001712",
+                    "Value": "Varano,Giuseppe,,1639 - 1699"
+                },
+                {
+                    "PersonId": "9107",
+                    "RecordID": "022-000001714",
+                    "Value": "Papafava dei Carraresi,Federicus,,"
+                },
+                {
+                    "PersonId": "9108",
+                    "RecordID": "022-000001715",
+                    "Value": "Gradenicus,Ioannes,,"
+                },
+                {
+                    "PersonId": "9109",
+                    "RecordID": "022-000001716",
+                    "Value": "Rotondi,Felice,,1630 - 1704"
+                },
+                {
+                    "PersonId": "9110",
+                    "RecordID": "022-000001717",
+                    "Value": "Cicala,Ioannes,,"
+                },
+                {
+                    "PersonId": "9111",
+                    "RecordID": "022-000001718",
+                    "Value": "Morselli,Adriano,,"
+                },
+                {
+                    "PersonId": "9112",
+                    "RecordID": "022-000001719",
+                    "Value": "Colze,Giorgio Antonio,,"
+                },
+                {
+                    "PersonId": "5190",
+                    "RecordID": "022-000000184",
+                    "Value": "Zabarella,Giacomo,Count (The Younger),1599 - 1679"
+                }
+            ]
+        },
+        "Notes": "Dekesel, p. 53: `Originating from his well-known sympathy for the German Race, [Patin] motivated the members of the Accademia to write a series of poems to honour the birth of the son of Emperor Leopold of Austria.`",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9190",
+                    "RecordID": "022-000001778",
+                    "Value": "Habsburg,Leopoldo I,Holy Roman Emperor,1640-1705"
+                },
+                {
+                    "PersonId": "9191",
+                    "RecordID": "022-000001779",
+                    "Value": "Pfalz-Neuburg,Eleonora,Empress,1655 - 1720"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9085",
+                "RecordID": "022-000001691",
+                "Value": "Patin,Charles,,1633-1693"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9637",
+                "RecordID": "022-000001685",
+                "Value": "Frambotti,Pietro Maria,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55022",
+            "Value": "023-000001808_55022_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

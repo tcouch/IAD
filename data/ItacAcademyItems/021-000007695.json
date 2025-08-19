@@ -1,0 +1,38 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0400",
+        "RecordId": "021-000007695",
+        "Name": "Informi-Venezia (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Bear licking its cubs into shape",
+        "Motto": "Dum mobilis aetas",
+        "StartDate": "1627",
+        "EndDate": "?",
+        "DateText": "1627-?",
+        "Notes": "Founded by Antonino Colluraffi in Da Mosto`s family home. Publications related to the creation of the Academy, but not held in British Library collections, are: Alvise Da Mosto, L`accademia. Oratione dell`illustrissimo sig. Alvise Da Mosto recitata nell`aprirsi dell`accademia de gli Informi in casa propria. Fondatore e rettore Antonino Colluraffi (Venezia, Sarzina, 1627); Declamatione contro la morte di Catone Uticense dell`illustrissimo sig. Alvise da Mosto, havuta nell`Accademia de gli Informi di Venetia. Rettore Antonino Collurassi [sic!]. Alle illustrissime signore Camilla, e Cecilia da Mosto \n(In Venetia: appresso Marco Ginammi, 1627)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20170",
+                "RecordId": "022-000007693",
+                "Name": "Collurafi,Antonino,,1585-1655",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20171",
+                "RecordId": "022-000007694",
+                "Name": "da Mosto,Alvise,,1612-?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

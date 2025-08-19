@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20439",
+        "RecordId": "022-000008163",
+        "Surname": "de Francis",
+        "Forename": "Paulus",
+        "DateText": "fl.1600-1625",
+        "StartDate": "fl.1600",
+        "EndDate": "1625",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "See Grnignani and Mazzoleni, Edizioni pavesi del Seicento (2000), for more details",
+        "Role": "Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

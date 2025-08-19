@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16028",
+        "RecordId": "022-000002597",
+        "Surname": "Sambucus",
+        "Forename": "Johannes",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Samboky",
+                "AlternativeForename": "Janos"
+            },
+            {
+                "AlternativeSurname": "Zsamboky"
+            }
+        ],
+        "DateText": "1531 - 1584",
+        "StartDate": "1531",
+        "EndDate": "1584",
+        "Nationality": {
+            "NationalityId": "70",
+            "Value": "Hungarian"
+        },
+        "Notes": "Dedicated an emblem to Bocchi in his Emblemata (Antwerp, 1564), pp. 76-7.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005191",
+        "WorkId": "000638",
+        "ShortTitle": "Iconologia Della Gloriosa Vergine Madre Di Dio Maria Protettrice Di Messina",
+        "LongTitle": "Divisa in cinque Libri, Ove si ragiona delle imagini di Nostra Signora, che si riveriscono ne` tempij, e Cappelle pi\u00f9 famose della Citt\u00e0 di Messina; delle loro Origini, Fondationi, e singolari avvenimenti. Con Alcune Digressioni Delle Persone Segnalate nelle virtu appartenenti a quel luogo, di cui si f\u00e0 mentione. Del Rev. Padre Placido Samperi Messinense Della Compagnia di Gies\u00f9",
+        "ItacAcademyItem": {
+            "AcademyId": "0112",
+            "RecordID": "021-000005190",
+            "Value": "Accademia della Stella"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1644",
+        "DedicationPlaceDate": "Messina 26 September 1641",
+        "Shelfmark": "664.e.8.",
+        "Subjects": "Sacred Iconology",
+        "Language": "Italian|Latin|Greek|Arabic",
+        "Illustration": "Plates|Religious figures",
+        "Pagination": "pp. 691",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18142",
+                "RecordID": "022-000005105",
+                "Value": "Samperi,Placido,,? - 1654?"
+            }
+        },
+        "Notes": "On pp. 133-137 the author mentions the Stella Academy in Messina.\n\nEngraving representing the emblem of the Stella Academy (p. 137)",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18215",
+                    "RecordID": "022-000005197",
+                    "Value": "Vitellescus,Mutius,,"
+                },
+                {
+                    "PersonId": "18216",
+                    "RecordID": "022-000005198",
+                    "Value": "Calvarius,Placidus,,"
+                },
+                {
+                    "PersonId": "18217",
+                    "RecordID": "022-000005199",
+                    "Value": "Stagnus,Ioseph,Vicar General,"
+                },
+                {
+                    "PersonId": "18218",
+                    "RecordID": "022-000005200",
+                    "Value": "De Rao,,,"
+                },
+                {
+                    "PersonId": "18156",
+                    "RecordID": "022-000005122",
+                    "Value": "de Denti,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Facultas Rev. P.\nPraepositi Generalis Cosietatis Iesu.\nCum opus Italico idiomate \u00e0 P. Placido Samperi nostrae Societatis Sacerdote conscriptum,cui titulus ICONOLOGIA DELLA GLORIOSA VERGINE MADRE DI DIO MARIA PROTETTRICE DI MESSINA, tres eiusdem Societatis Theologi recognoverint, & in lucem edi posse probaverint, facultatem concedimus, ut typis mendetur, si ita ijs ad quos pertinet, videbitur. In quorum fidem praesentes manu nostra subscriptas, sigilloque nostro Munitas dedimus. Romae 5 Februarij 1642.\nmutius Vitellescus.\nApprobatio\nreverendissime Domine, P. Placidi Samperi \u00e8 Societate Iesu Sacerdotis Iconologiam Virginis Deiparae Messanensium Protettrici ex vetustissimorum monumentorum latebris eductam diligentius, te iubente, perlegi, atque examinavi, quae san\u00e8 ea mihi visa est, tum ex argumenti varietate, tum ex multimoda Messanensis Ecclesiae eruditione, cum maxima erga Dei Genitricem pietate coniucta, ut non modo in lucem edi eam posse, verum etiam ob rerum reconditarum, piarumque, quas continet, cognitionem, publicae futuram utilitati existimem. Messanae 17 Martij 1643.\nPlacidus Calvarius.\nImprimatur D. Ioseph Stagnus Vic. Gen. \nImprimatur De Rao pro. Illustr. Praes. de Denti.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18220",
+                    "RecordID": "022-000005202",
+                    "Value": "Balsamo,Gioseppe,Senator of Messina|Baron of Cattafi,"
+                },
+                {
+                    "PersonId": "18221",
+                    "RecordID": "022-000005203",
+                    "Value": "Marchese,Diego,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18222",
+                    "RecordID": "022-000005204",
+                    "Value": "Marquett,Thomaso,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18151",
+                    "RecordID": "022-000005117",
+                    "Value": "Pisciotta,Francesco Maria,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18223",
+                    "RecordID": "022-000005205",
+                    "Value": "Stagno,Antonio,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18224",
+                    "RecordID": "022-000005206",
+                    "Value": "Zuccaro,Natale,Senator of Messina,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18219",
+                "RecordID": "022-000005201",
+                "Value": "Matthei,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54522",
+            "Value": "023-000005191_54522_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54523",
+            "Value": "023-000005191_54523_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

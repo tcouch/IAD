@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20230",
+        "RecordId": "022-000007809",
+        "Surname": "Sarotti",
+        "Forename": "Paolo",
+        "AlternativeName": {
+            "AlternativeSurname": "Sarotti",
+            "AlternativeForename": null
+        },
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Created the Accademia Sarottiana, and an important library for scientific studies, after his period in London, where he was appointed fellow of the Royal Society in 1679. See Robinson, Papin (1947)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

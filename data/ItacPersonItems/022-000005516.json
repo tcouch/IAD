@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18491",
+        "RecordId": "022-000005516",
+        "Surname": "Barone",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Baruni",
+            "AlternativeForename": "Franciscu"
+        },
+        "DateText": "1622-1705",
+        "StartDate": "1622",
+        "EndDate": "1705",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, , Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 205-206 (British Library Shelfmark:610.m.10.)\nNickname not recorded by Maylender",
+        "Role": "Author|Contributor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006883",
+        "WorkId": "000807",
+        "ShortTitle": "Rime d`Antonio Ongaro,",
+        "LongTitle": "detto l`Affidato Accademico Illuminato. di nuovo corrette, et accresciute, e divise in Prima, Seconda, e Terza Parte. Dedicate al M. Illustre & Eccel. Sig[nor] Nicolo` Zarotti",
+        "ItacAcademyItem": {
+            "AcademyId": "0231",
+            "RecordID": "021-000006857",
+            "Value": "Accademia degli Illuminati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1620",
+        "DedicationPlaceDate": "Venezia 2 ottobre 1620",
+        "Shelfmark": "1062a42(1)",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "157 [7]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19568",
+                "RecordID": "022-000006856",
+                "Value": "Ongaro,Antonio,,1569 - 1599"
+            }
+        },
+        "Notes": "On the title page there may be the Academy`s emblem. But Zappella believes this is the Mariani`s ornament. For the background of this publication, see Franchi, Impressioni (1620), p. 508. Contrary to other editions, poems do not have titles.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19581",
+                "RecordID": "022-000006884",
+                "Value": "Zarotti,Nicolo`,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,c. 1564-c. 1635"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,c. 1564-c. 1635"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54870",
+            "Value": "023-000006883_54870_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Del cavaliere Mariano Insegna detto l`Opaco al` Authore - Sonetto - Quando lo spirto tuo resto` disciolto",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "19578",
+                        "RecordID": "022-000006878",
+                        "Value": "Insegna,Mariano,Cavalier,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

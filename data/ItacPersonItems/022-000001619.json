@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9140",
+        "RecordId": "022-000001619",
+        "Surname": "Corner",
+        "Forename": "Elena Lucrezia",
+        "Gender": "Female",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Cornaro Piscopia"
+            },
+            {
+                "AlternativeForename": "Helena Lucretia"
+            }
+        ],
+        "DateText": "1646-1684",
+        "StartDate": "1646",
+        "EndDate": "1684",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "She was prince of the Pacifici, see Discorso secondo, in her Operae (1688). See Maschietto, Elena Lucrezia Cornaro Piscopia. Prima donna laureata nel mondo (Padua, 1978); and the biography by R Derosas in DBI. Most recent study is Guernsey, The Lady Cornaro. Pride and Prodigy in Venice (2001), but does not mention Intronati. Her personal `impresa` as Accademica Infeconda is described in Pompe funebri (1686), p. 5.",
+        "Role": "Contributor|Dedicatee|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003573",
+        "WorkId": "000470",
+        "ShortTitle": "Pelagrilli",
+        "LongTitle": "Comedia di M. Ascanio Cacciaconti Sanese",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1576",
+        "Shelfmark": "1071.c.39",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "16 leaves",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16732",
+                "RecordID": "022-000003468",
+                "Value": "Cacciaconti,Ascanio,,"
+            }
+        },
+        "Notes": "Imperfect copy, wanting several pages at the end. Date, place of publication, and printer are suggested by Edit16.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53892",
+            "Value": "023-000003573_53892_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

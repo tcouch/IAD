@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15472",
+        "RecordId": "022-000001996",
+        "Surname": "Scardeone",
+        "Forename": "Bernardino",
+        "Gender": "Male",
+        "DateText": "1482-1574",
+        "StartDate": "1482",
+        "EndDate": "1574",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Scardeone`s portrait is taken from Tomasini, Illustrium virorum elogia (1630).",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

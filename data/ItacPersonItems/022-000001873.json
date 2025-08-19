@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15380",
+        "RecordId": "022-000001873",
+        "Surname": "Porri",
+        "Forename": "Alessio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Porro"
+        },
+        "DateText": "?-1609",
+        "StartDate": "?",
+        "EndDate": "1609",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "Carmelitan father. The origin is taken from the following title: Scrutinium sacerdotale, sive modus examinandi, ... a R .D. Fabio Incarnato Neapolitano sac. theol. profes. ex plurib. ... Nuper recognitum \u00e0 r. admodum m. Alexio Porro de Mantua, carmelitano sac. theo. doct. ... (Venetiis: [Giovanni Battista Porta], 1597)",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

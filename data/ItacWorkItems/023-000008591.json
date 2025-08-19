@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008591",
+        "WorkId": "000970",
+        "ShortTitle": "Institutioni di M. Equicola",
+        "LongTitle": "al comporre in ogni sorte di rima della lingua volgare; con uno eruditissimo discorso della pittura, & con molte segrete allegorie circa le muse et la poesia.",
+        "ItacAcademyItem": {
+            "AcademyId": "0108",
+            "RecordID": "021-000005055",
+            "Value": "Vignaiuoli (Accademia dei)"
+        },
+        "City": {
+            "CityId": "38",
+            "PublicationPlaceItalianName": "Milano",
+            "PublicationPlaceEnglishName": "Milan",
+            "PublicationPlaceLatinName": "Mediolani"
+        },
+        "PublicationYear": "1541",
+        "DedicationPlaceDate": "Milan 1 Aprile 1541",
+        "Shelfmark": "83d29",
+        "Subjects": "Treatise on poetry",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Notes": "The dedication contains flattery words in praise of the dedicatee and his Academy. Members` names are mentioned, and the editor points out their performances within the Academy. For a critical assessment of the work, see Maria Luisa Doglio, `Le \"Instituzioni\" di Mario Equicola: dall`\"Institutio Principis\" alla formazione del segretario`, in Giornale storico della letteratura italiana, vol. 508 (1982), pp. 505-35.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20756",
+                "RecordID": "022-000008582",
+                "Value": "Strozzi,Uberto,,1501-1553"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19081",
+                "RecordID": "022-000006205",
+                "Value": "Sabino,Marco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55338",
+            "Value": "023-000008591_55338_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

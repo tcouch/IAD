@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16370",
+        "RecordId": "022-000003035",
+        "Surname": "Lucarini",
+        "Forename": "Alcibiade",
+        "Gender": "Male",
+        "DateText": "ca.1574-after1640?",
+        "StartDate": "ca.1574",
+        "EndDate": "after1640?",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Founder of the Accademia degli Uniti in Siena, and of the Accademia degli Occulti in Salerno.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

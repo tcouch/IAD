@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18778",
+        "RecordId": "022-000005847",
+        "Surname": "di Gregorio",
+        "Forename": "Carlo",
+        "Gender": "Male",
+        "PersonalTitle": "Marquis of Poggio Gregorio|Knight of the Order of the Star",
+        "DateText": "?-1695",
+        "StartDate": "?",
+        "EndDate": "1695",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Notes": "Founder of the Fucina Academy in Messina. For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 125-126 (BL Shelfmark:610.m.10.)",
+        "Role": "Dedicatee|Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

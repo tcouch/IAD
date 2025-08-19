@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16231",
+        "RecordId": "022-000002871",
+        "Surname": "Beolco",
+        "Forename": "Angelo",
+        "Gender": "Male",
+        "DateText": "1496?-1542",
+        "StartDate": "1496?",
+        "EndDate": "1542",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Also famous as `Il Ruzante`. The portrait is taken from Tomasini, Illustrium virorum elogia (1630).",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

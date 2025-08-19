@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17662",
+        "RecordId": "022-000004556",
+        "Surname": "Bisaccioni",
+        "Forename": "Maiolino",
+        "Gender": "Male",
+        "PersonalTitle": "Count",
+        "DateText": "1582-1663",
+        "StartDate": "1582",
+        "EndDate": "1663",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "The portrait as Accademico imperfetto is taken from Galeazzo Gualdo Priorato, Scena d`alcuni huomini illustri d`Italia, etc. [First series.] (Augusta, 1658).",
+        "Role": "Contributor|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

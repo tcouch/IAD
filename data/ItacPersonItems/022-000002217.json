@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15689",
+        "RecordId": "022-000002217",
+        "Surname": "Pignatelli",
+        "Forename": "Ascanio",
+        "PersonalTitle": "Duke of Bisaccia",
+        "DateText": "1533 - 1602",
+        "StartDate": "1533",
+        "EndDate": "1602",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Date of death according to edit16.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

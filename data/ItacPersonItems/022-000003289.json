@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16571",
+        "RecordId": "022-000003289",
+        "Surname": "Selvatico",
+        "Forename": "Giovanni Battista",
+        "DateText": "1569 - 1625",
+        "StartDate": "1569",
+        "EndDate": "1625",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1600.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

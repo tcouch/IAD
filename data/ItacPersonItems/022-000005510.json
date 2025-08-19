@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18485",
+        "RecordId": "022-000005510",
+        "Surname": "Brugiotti",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Brugiottus",
+            "AlternativeForename": "J. B."
+        },
+        "DateText": "fl. 1624-1625",
+        "StartDate": "fl. 1624",
+        "EndDate": "1625",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Printer|Publisher",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

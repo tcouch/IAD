@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16243",
+        "RecordId": "022-000002890",
+        "Surname": "Pacecco",
+        "Forename": "Johanni Fernandez",
+        "AlternativeName": {
+            "AlternativeSurname": "Pacheco Cabrera",
+            "AlternativeForename": "Juan Manuel Fern\u00e1ndez"
+        },
+        "PersonalTitle": "Marquis of Villa; Duke of Escalona; Viceroy of Naples (1702-1707)",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

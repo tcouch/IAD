@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0587",
+        "RecordId": "021-000008549",
+        "Name": "Inabili-Bologna (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Column with scaffolding and winches for hoisting it on to its base",
+        "Motto": "Tantae molis erat",
+        "StartDate": "1673",
+        "EndDate": "?",
+        "DateText": "1673-?",
+        "Notes": "Publications related to the history of the Inabili Academy, but not in British Library collections, are: Balbi, Benedetto Giuseppe, L` Apollo orazione panegirica avuta in offerirsi da` signori Accademici Inabili il primo annuale osequio al b. Pio 5. Ghisilieri pontefice loro protettore nella Chiesa de` mm. rr. pp. di S. Domenico il lunedi fra l`ottava di esso beato dal sig. Benedetto Giuseppe Balbi il Debole, e dedicata al reverendissimo ... f. Michele Pio Passi dal Bosco ... dal dottor Pietro Pompeo Vincenzo Mantachetti (In Bologna: per Giacomo Monti, 1674);  \nLa Vittima generosa oratorio cantato in casa dell`illustriss. sig. marchese senatore Francesco Azzolini gentilhuomo di camera della sacra reale maesta di Christina Alessandra di Svezia la sera de` 6. Marzo 1679. Posto in musica dal signor Petronio Franceschini, e consecrato a sua maesta da Benedetto Giuseppe Balbi nell`Accademia degl`Inabili il Debole (In Bologna: per l`herede di Vittorio Benacci, 1679)",
+        "ItacPersonItem": {
+            "PersonId": "16204",
+            "RecordId": "022-000002833",
+            "Name": "Balbi,Benedetto Giuseppe,,",
+            "Nickname": "Il Debole",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

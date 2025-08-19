@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15294",
+        "RecordId": "022-000001334",
+        "Surname": "Habsburg",
+        "Forename": "Charles II",
+        "PersonalTitle": "King of Spain",
+        "DateText": "1661-1700",
+        "StartDate": "1661",
+        "EndDate": "1700",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Dedicatee",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

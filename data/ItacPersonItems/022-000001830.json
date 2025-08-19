@@ -1,0 +1,31 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9661",
+        "RecordId": "022-000001830",
+        "Surname": "Paolini",
+        "Forename": "Fabio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Paolinus"
+            },
+            {
+                "AlternativeForename": "Fabius"
+            },
+            {
+                "AlternativeSurname": "Paulini"
+            }
+        ],
+        "Pseudonym": "Chiameus Oligenius",
+        "DateText": "ca.1535-1605",
+        "StartDate": "ca.1535",
+        "EndDate": "1605",
+        "Nationality": {
+            "NationalityId": "193",
+            "Value": "of Udine"
+        },
+        "Notes": "For the identification of this name and the pseudonym, see Melzi, Dizionario, V. 2, p. 267. Paolini signs as as Chiameus Oligenius in Elettra. He was among the founders of Accademia Veneziana.",
+        "Role": "Censor|Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

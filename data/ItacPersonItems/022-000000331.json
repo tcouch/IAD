@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5284",
+        "RecordId": "022-000000331",
+        "Surname": "Lodi",
+        "Forename": "Giacinto",
+        "DateText": "fl. 1618 - 1631",
+        "StartDate": "fl. 1618",
+        "EndDate": "1631",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Also member of Umoristi (Rome).",
+        "Role": "Author|Censor|Editor",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

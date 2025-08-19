@@ -1,0 +1,79 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004262",
+        "WorkId": "000552",
+        "ShortTitle": "Speculum Astronomicum",
+        "LongTitle": "Tripartitum. Medicis necessarium, Agriculture, & Navigationi vald\u00e8 proficuum. Auctore Philippo Finella. Item, & Tabula ad sciendum quoquo die, quot minutis, quotu\u00e8 secundis hora Planetaria, constet, ut in die, sic & in nocte.",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1649",
+        "DedicationPlaceDate": "Naples 9 February 1649",
+        "Shelfmark": "1141.c.12.(1.)",
+        "Subjects": "Astronomy|Astrological Medicine",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 116",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17412",
+                "RecordID": "022-000004264",
+                "Value": "Rogerius,Thomae,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17408",
+                    "RecordID": "022-000004258",
+                    "Value": "Barra ,Alberto,Carmelite,"
+                },
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                },
+                {
+                    "PersonId": "15262",
+                    "RecordID": "022-000001304",
+                    "Value": "De Rubeis,Franciscus Josephum,,"
+                },
+                {
+                    "PersonId": "15200",
+                    "RecordID": "022-000001169",
+                    "Value": "Filomarino,Ascanio,Cardinal|Archbishop,1583-1666"
+                }
+            ]
+        },
+        "CensorsAgreement": "Potest imprimi.\nMag F. Albertus Barra Examinator Synodalis Deput. vidit.\nImprimatur.\nGregor. Peccer. Vic. Gener.\nReg. fol. 47. Per me F. Iosephum de Rubeis Ordin Min. Conu. Emin. Card. Philam. Theol. & Con. Sancti Offic.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15871",
+                "RecordID": "022-000002431",
+                "Value": "Gaffaro,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53947",
+            "Value": "023-000004262_53947_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

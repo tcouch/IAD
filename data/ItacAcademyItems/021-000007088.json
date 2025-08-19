@@ -1,0 +1,22 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0304",
+        "RecordId": "021-000007088",
+        "Name": "Secreti (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "ItacPersonItem": {
+            "PersonId": "16544",
+            "RecordId": "022-000003251",
+            "Name": "Chigi,Fabio ,Pope Alexander VII,1559 - 1667",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

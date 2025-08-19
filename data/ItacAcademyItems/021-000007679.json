@@ -1,0 +1,54 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0396",
+        "RecordId": "021-000007679",
+        "Name": "Indivisi (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Bunch of various flowers",
+        "Motto": "Unus odor",
+        "StartDate": "ca.1690",
+        "EndDate": "1711",
+        "DateText": "ca.1690-1711",
+        "Notes": "See theAcademy emblem and the motto in Fanti, Notizie (1993).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15756",
+                "RecordId": "022-000002301",
+                "Name": "Santamaria,Lucio Antonio,,1667 - 1693",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20160",
+                "RecordId": "022-000007680",
+                "Name": "Fabri,Achille,,1654-1711",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16149",
+                "RecordId": "022-000002763",
+                "Name": "Martello,Pieriacopo,,1665-1727",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20728",
+                "RecordId": "022-000008550",
+                "Name": "Conventi,Ippolito,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

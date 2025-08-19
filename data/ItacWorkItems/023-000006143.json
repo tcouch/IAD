@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006143",
+        "WorkId": "000725",
+        "ShortTitle": "Il teatro dei grandi",
+        "LongTitle": "Discorso accademico composto, e diretto con lettera familiare all`Illustriss. e reverendiss. Sig. Monsignore Ansaldo Ansaldi Uditore di Nostro Signore Innocenzo XII. Da Monsignor Giovanni Ciampini Romano Maestro de` Brevi di Grazia.",
+        "ItacAcademyItem": {
+            "AcademyId": "0139",
+            "RecordID": "021-000005974",
+            "Value": "Accademia dei Disuniti (Roma)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1693",
+        "DedicationPlaceDate": "Di casa li` 15 Ottobre 1693",
+        "Shelfmark": "985a1(3)",
+        "Subjects": "History|Theatre",
+        "Language": "Italian",
+        "Pagination": "27",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18936",
+                "RecordID": "022-000006037",
+                "Value": "Ciampini,Giovanni Giustino,,1633 - 1698"
+            }
+        },
+        "Notes": "In the introduction the author explains that he was supposed to deliver a speech in the Academy hosted by Cardinal Ottoboni, but because he fell ill others delivered a summary of his speech. Later on, the author decided to print such speech.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19028",
+                "RecordID": "022-000006142",
+                "Value": "Ansaldi,Ansaldo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18969",
+                "RecordID": "022-000006075",
+                "Value": "Komarek,Giovanni Giacomo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

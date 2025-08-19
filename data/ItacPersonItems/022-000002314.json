@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15767",
+        "RecordId": "022-000002314",
+        "Surname": "Arrigoni",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Arigoni"
+        },
+        "DateText": "fl. 1563-1604",
+        "StartDate": "fl. 1563",
+        "EndDate": "1604",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

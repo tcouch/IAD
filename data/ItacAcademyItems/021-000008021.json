@@ -1,0 +1,23 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0489",
+        "RecordId": "021-000008021",
+        "Name": "Traviati (Accademia dei)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "Notes": "Information on this Academy can be found in Gianluigi Betti`s biography of Giovambattista Capponi, in L`Archiginnasio, 2006.",
+        "ItacPersonItem": {
+            "PersonId": "5014",
+            "RecordId": "022-000000016",
+            "Name": "Capponi,Giovambattista,,1620-1675",
+            "Nickname": "Indefesso",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

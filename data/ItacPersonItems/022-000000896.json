@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7310",
+        "RecordId": "022-000000896",
+        "Surname": "Dozza",
+        "Forename": "Evangelista (Heredi di)",
+        "DateText": "active1630-1670s",
+        "StartDate": "active1630",
+        "EndDate": "1670s",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "For their collaboration with Carlo Manolessi, see Ruggerini, `Manolessi, Carlo`, in DBI.",
+        "Role": "Printer|Publisher",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

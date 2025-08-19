@@ -1,0 +1,98 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000307",
+        "WorkId": "00028",
+        "ShortTitle": "Felsina pittrice. Vite de pittori bolognesi",
+        "LongTitle": "Alla maest\u00e0 christianissima di Luigi XIIII re di Francia e di Navarra il sempre vittorioso consagrata dal Conte Carlo Cesare Malvasia fra Gelati l`Ascoso. Divisa in duoi tomi; con Indici in fine copiosissimi. Tomo primo che contiene la prima, seconda e terza parte (Tomo secondo che contiene la quarta parte)",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1678",
+        "Shelfmark": "137.c.17-18|680.e.13",
+        "Subjects": "History of art|History of Bologna|Bolognese painters` biographies",
+        "Language": "Italian",
+        "Illustration": "Woodcuts | Typographic ornaments; portraits of artists",
+        "Pagination": "2vols; pp.582 and pp.608",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5086",
+                "RecordID": "022-000000083",
+                "Value": "Malvasia,Carlo Cesare,Count,1616-1693"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5034",
+                "RecordID": "022-000000036",
+                "Value": "Faberi,Lucio,,1550s-1610"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "5262",
+                "RecordID": "022-000000252",
+                "Value": "Davico,Gio. Francesco,,"
+            }
+        },
+        "Notes": "Copy 680.e.13 is one volume only.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15458",
+                    "RecordID": "022-000001978",
+                    "Value": "Gorranus,Carolus,,"
+                },
+                {
+                    "PersonId": "5399",
+                    "RecordID": "022-000000409",
+                    "Value": "Boncompagno,Iacobo,Archibishop of Bologna,1652 - 1731"
+                },
+                {
+                    "PersonId": "15459",
+                    "RecordID": "022-000001979",
+                    "Value": "Cerchius,Sixtus,Inquisit. Bonon.,"
+                },
+                {
+                    "PersonId": "5191",
+                    "RecordID": "022-000000185",
+                    "Value": "Zani,Valerio,Count, - 1696"
+                }
+            ]
+        },
+        "CensorsAgreement": "APPROBATIONES Supradictum opus (cui titulus est `Felsina Pittrice`) vidi cum ingenti gaudio, et perquam diligentissime pro viribus perlustravi; cumque nihil meo occurrerit, vel fidei Catholicae dogmatibus, vel morum honestati adversum; sed omnia omni ex parte dignis lucubrationibus, plurimaque eruditione exundantia; et eiusdem Auctoris, Patriaeque existimationi quam maxime profutura: idcirco non modo typis dignissimus existimo, verum ut quamprimum luci mandetur, eos, ad quos spectat, enixe precor. Ego D. Carolus Gorranus Bonon. Paenitentiariae Rector pro Eminentiss. et Reverendiss. D. Cardinali Boncompagno Bononiae Archiepiscopo, et Principe.\n\nElucubratissimus opus hoc Comitis Caroli Caesaris Malvasiae Metropolitanae Bononiensis Ecclesiae Canonici, nuncupatum `Felsina Pittrice, overo le Vite de` Pittori Bolognesi`, iussu Reverendissimi Patris magistri F. Sixtij Cerchij Inquisitoris Generalis Bononiae vidi, et nihil fidei catholicae, aut optimis moribus repugnans reperi: Ideoque Typis imprimi posse censeo. Ego Valerius de Zani.\nAttenta praedicta attestatione Imprimatur. F. Sixtus Cerchius Inquisitor Generalis Bononiae et c. \n\nAt the end of vol.2.\nAlterum hunc Tomum eruditionum segete ditissimum, cui titulus est (`Felsina Pittrice, overo Vite de` Pittori Bolognesi`) quem ad sui ipsus gloriam, Patriae decus totque illustrium Pictorum immortalitatem illustrissimus, ac disertissimus Comes Carolus caesar malvasia Bononiensis Metropolitanae Canonicus, nulla excubiarum, laborum expensarumque habita ratione apprime contexuit, ac concinnavit, sedula pro virili observatione perlegi, nec impari oblectatione semel, atque iterum perlustravi: Cumque nihil in eo litura dignum, vel catholicae fidei dogmatibus adversum, aut Christianis moribus occurrerit repugnans; quinimmo quamplurima suspexerim, quae ad emulandae virtutis iter capescendum, illustriaque exempla consectanda posterorum animos inflammarent, idcirco typis luceque dignissimum, quantum in me est, existimo, exitumque suspiro.\nEgo D. Carolus Gorranus Bonon. Paenitentiariae Rector pro Eminentiss. et Reverendiss. D. Cardinali Boncompagno Bononiae Archiepiscopo, et Principe. \nIussu Reverendissimi Patris Magistri F. Sixtij Cerchij Inquisitoris Generalis Bononiae vidi, ac attente perlegi elaboratissimuas Secundi Tomi Bononiensium Pictorum Vitas Comitis caroli Caesaris Malvasiae Bononiensis Metropolitanae Ecclesiae canonici, nilque in eis Fidei catholicae, aut bonis moribus repugnans reperi; ideoque, si sic eidem Reverendiss. Patri Inquisitori videbitur, Typis imprimi posse censeo. Ego Valerius de Zani.\nAttenta praedicta attestatione Imprimatur.\nF. Sixtus Cerchius Inquisitor Generalis Bononiae et c.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5222",
+                "RecordID": "022-000000213",
+                "Value": "Louis XIV,,King of France,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15460",
+                "RecordID": "022-000001980",
+                "Value": "Barbieri,Domenico (Erede di),,"
+            }
+        },
+        "PrinterOrnament": "Mar.t.e 611",
+        "TitlePageImage": {
+            "ImageId": "53097",
+            "Value": "023-000000307_53097_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52714",
+            "Value": "023-000000307_52714_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

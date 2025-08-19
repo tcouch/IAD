@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001888",
+        "WorkId": "000261",
+        "ShortTitle": "Versetti per tutti li tuoni",
+        "LongTitle": "tanto naturali, come trasportati per l`Organo, consacrati al Reverendissimo Signore Abbate Francesco Luigi Cristiani da Gio. Battista degli Antonii. Organista di S. Giacomo maggiore de` RR. PP. Agostiniani di Bologna, et Accademico Filarmonico. Opera seconda",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia dei Floridi 1615; dei Filomusi 1622; dei Filaschisi 1633; Filarmonica 1666"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1687",
+        "DedicationPlaceDate": "Bologna 23 December 1687",
+        "Shelfmark": "d.1",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "pp. 124",
+        "Marginalia": "No",
+        "CensorsAgreement": "Con Licenza de` Superiori. Si vendono da Marino Silvani all`Insegna del Violino. Con Privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15391",
+                "RecordID": "022-000001890",
+                "Value": "Cristiani,Francesco Luigi,Abbot,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52830",
+            "Value": "023-000001888_52830_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

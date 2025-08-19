@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17367",
+        "RecordId": "022-000004206",
+        "Surname": "Ammirato",
+        "Forename": "Scipione",
+        "Gender": "Male",
+        "DateText": "1531-1601",
+        "StartDate": "1531",
+        "EndDate": "1601",
+        "Nationality": {
+            "NationalityId": "146",
+            "Value": "of Lecce"
+        },
+        "Notes": "For a short biography of Scipione Ammirato see Eustachio D`Afflitto, Memorie degli Scrittori del Regno di Napoli, Napoli, 1782.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004665",
+        "WorkId": "000586",
+        "ShortTitle": "Vita Del Cavalier Marino",
+        "LongTitle": "Di Gio. Francesco Loredano Nobile Veneto. \nAl Clarissimo Sig. Giulio Maffetti",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1633",
+        "DedicationPlaceDate": "Venice 18 April 1633",
+        "Shelfmark": "10631.c.50.",
+        "Content": "Biography of Giovan Battista Marino",
+        "Subjects": "Biography",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 46",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17761",
+                "RecordID": "022-000004663",
+                "Value": "Loredano,Giovanni Francesco,,1607 - 1661"
+            }
+        },
+        "Notes": "On pp. 21-22 the author mentions Marino affiliation to Neapolitan Academies.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17762",
+                "RecordID": "022-000004664",
+                "Value": "Maffetti ,Giulio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15365",
+                "RecordID": "022-000001404",
+                "Value": "Sarzina,Giacomo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

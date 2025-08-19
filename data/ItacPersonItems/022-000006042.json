@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18940",
+        "RecordId": "022-000006042",
+        "Surname": "Eschinardi",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "DateText": "1623-1703",
+        "StartDate": "1623",
+        "EndDate": "1703",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "In the Accademia fisico-matematica, he delivered a presentation around 1689, on `La cagione delle nubi e delle piogge`. See Donato (2000), p. 44.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

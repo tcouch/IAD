@@ -1,0 +1,42 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001963",
+        "WorkId": "000277",
+        "ShortTitle": "Sonate (Violone; Violino primo; Violino Secondo; Alto Viola)",
+        "LongTitle": "A due, tre, quattro, e cinque stromenti. Di Gio. Battista Vitali. Vice Maestro di Cappella dell`altezza Serenissima di Modona, e Accademico Filaschise. Opera Quinta",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1677",
+        "Shelfmark": "d.5",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "4 pts; pp.12",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15422",
+                "RecordID": "022-000001928",
+                "Value": "Vitali,Gio(vanni) Battista,Chapel Master,1632-1692"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0057",
+        "RecordId": "021-000003617",
+        "Name": "Sireni (Accademia dei)",
+        "AlternativeName": "Accademia dei Sereni",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1545?",
+        "EndDate": "1548",
+        "DateText": "1545?-1548",
+        "Notes": "For a study of the Sereni Academy see Benedetto Croce, Aneddoti di varia letteratura, vol. I, Bari, Laterza, 1953 (British Library shelfmark: 012226.aa.1/1-46.); Tobia R. Toscano, Letterati corti accademie. La letteratura a Napoli nella prima met\u00e0 del Cinquecento, Napoli, Loffredo, 2000 (British Library shelfmark: YA.2001.a.19163); Tobia R. Toscano, Dalla Senna al Sebeto: Simon De Vallambert, medico umanista, \"Socio\" dell`Accademia dei Sereni di Napoli in Les Acad\u00e9mies Dans L`Europe Humaniste Id\u00e9aux et pratiques, Gen\u00e8ve, Librairie Droz S.A., 2008, pp. 197-209 (British Library shelfmark:WE.A.31/441)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17226",
+                "RecordId": "022-000004041",
+                "Name": "Ottinelli,Fabio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16102",
+                "RecordId": "022-000002692",
+                "Name": "Brancaleoni,Francesco Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18022",
+                "RecordId": "022-000004962",
+                "Name": "Sangro,Placido,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18023",
+                "RecordId": "022-000004963",
+                "Name": "Castaldo,Antonino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18024",
+                "RecordId": "022-000004964",
+                "Name": "d`Azzia,Giovanni Battista,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18025",
+                "RecordId": "022-000004965",
+                "Name": "Cavaniglia ,Troiano,Count of Montella,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18026",
+                "RecordId": "022-000004966",
+                "Name": "Epicuro ,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18027",
+                "RecordId": "022-000004967",
+                "Name": "Grisone,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18028",
+                "RecordId": "022-000004968",
+                "Name": "Muscettola,Giovanni Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17216",
+                "RecordId": "022-000004031",
+                "Name": "Carafa,Ferrante,Marquis of San Lucido,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17935",
+                "RecordId": "022-000004857",
+                "Name": "Carafa,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18029",
+                "RecordId": "022-000004969",
+                "Name": "Fineo,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15083",
+                "RecordId": "022-000001124",
+                "Name": "Caracciolo,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17219",
+                "RecordId": "022-000004034",
+                "Name": "Rota,Bernardino ,,1508 - 1575",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15112",
+                "RecordId": "022-000001153",
+                "Name": "Di Costanzo,Angelo,,1507-1591",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18030",
+                "RecordId": "022-000004970",
+                "Name": "Serone,Giovanni Antonio ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18031",
+                "RecordId": "022-000004971",
+                "Name": "Flaminio,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18032",
+                "RecordId": "022-000004972",
+                "Name": "Guido,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18033",
+                "RecordId": "022-000004973",
+                "Name": "Gesualdo,Giovanni Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18035",
+                "RecordId": "022-000004975",
+                "Name": "Pepe,Sertorio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17281",
+                "RecordId": "022-000004096",
+                "Name": "Arcucci,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18036",
+                "RecordId": "022-000004976",
+                "Name": "Reggio,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18037",
+                "RecordId": "022-000004977",
+                "Name": "Cortese,Giulio ,Marquis of Lavello,1530 - 1598",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17279",
+                "RecordId": "022-000004094",
+                "Name": "Lombardo,Giovanni Francesco ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17217",
+                "RecordId": "022-000004032",
+                "Name": "Belprato,Vincenzo,Count of Aversa,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15754",
+                "RecordId": "022-000002299",
+                "Name": "Pignatelli,Ascanio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18038",
+                "RecordId": "022-000004978",
+                "Name": "Pignatelli,Muzio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17282",
+                "RecordId": "022-000004097",
+                "Name": "Giordano,Fabio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18039",
+                "RecordId": "022-000004979",
+                "Name": "Ferrari,Giocamo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18040",
+                "RecordId": "022-000004980",
+                "Name": "Carafa,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17283",
+                "RecordId": "022-000004098",
+                "Name": "Peluso ,Giano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17285",
+                "RecordId": "022-000004100",
+                "Name": "Crisario,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17287",
+                "RecordId": "022-000004103",
+                "Name": "Carafa,Antonio,Duke of Mondragone,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18041",
+                "RecordId": "022-000004981",
+                "Name": "Galeota,Mario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19114",
+                "RecordId": "022-000006248",
+                "Name": "Gazella ,Giovan Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19115",
+                "RecordId": "022-000006249",
+                "Name": "Bucca,Tiberio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9256",
+                "RecordId": "022-000001552",
+                "Name": "Martinengo,Fortunato,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19116",
+                "RecordId": "022-000006250",
+                "Name": "De Vallambert,Simon,,1520s - ?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19117",
+                "RecordId": "022-000006251",
+                "Name": "Parisiensis,Victor,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

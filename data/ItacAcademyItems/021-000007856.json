@@ -1,0 +1,128 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0458",
+        "RecordId": "021-000007856",
+        "Name": "Unisoni (Prima) (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1637",
+        "EndDate": "?",
+        "DateText": "1637-?",
+        "Notes": "Publication related to this Academy, but not in British Library catalogue, is: Veglia prima -terza de` signori Academici Unisoni. Havuta in Venetia in casa del signor Giulio Strozzi - dedicated to Barbara Strozzi (In Venetia: per il Sarzina, stampatore dell`Academia, 1638).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17761",
+                "RecordId": "022-000004663",
+                "Name": "Loredan,Gianfrancesco,,1607-1661",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19896",
+                "RecordId": "022-000007340",
+                "Name": "Belli,Francesco,,1577-pre1647",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20071",
+                "RecordId": "022-000007569",
+                "Name": "Cocco,Tomaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20088",
+                "RecordId": "022-000007588",
+                "Name": "Speranza,Francesco Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20075",
+                "RecordId": "022-000007573",
+                "Name": "Pallavicino,Ferrante,,1615-1644",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19152",
+                "RecordId": "022-000006295",
+                "Name": "Torretti,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5017",
+                "RecordId": "022-000000019",
+                "Name": "Carmeni,Francesco,,fl. 1632 - 1671",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20063",
+                "RecordId": "022-000007559",
+                "Name": "Dandolo,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18019",
+                "RecordId": "022-000004959",
+                "Name": "Moro,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18007",
+                "RecordId": "022-000004944",
+                "Name": "Moli,Clemente,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17877",
+                "RecordId": "022-000004798",
+                "Name": "Ricco,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16508",
+                "RecordId": "022-000003195",
+                "Name": "Strozzi,Giulio,,1583-1660",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55018",
+                    "Value": "022-000003195_55018_2.jpg"
+                }
+            },
+            {
+                "PersonId": "18061",
+                "RecordId": "022-000005006",
+                "Name": "Vendramino,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

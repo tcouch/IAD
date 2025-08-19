@@ -1,0 +1,137 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003812",
+        "WorkId": "000513",
+        "ShortTitle": "L`Antica Arpino",
+        "LongTitle": "Opera del Pre. D. Bernardo Clavelli della Congregatione Cassinense divisi in libbri sei, Ne Quali Con L`Edificatione Chebbe Da Saturno. Si narrano i pi\u00f9 celebri fatti di C. Mario, di M. Tuttlio Cicerone e d`altri Arpinati. Che fiorirono nella Romana Republica. \nAll`Illustrissimo e Reverendissimo Sig. D. Francesco Cardinale Concompagni Legato di Peruggia.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0064",
+                "RecordID": "021-000003810",
+                "Value": "Accademia degli Erculei"
+            },
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Academia degli Oziosi"
+            },
+            {
+                "AcademyId": "0030",
+                "RecordID": "021-000002423",
+                "Value": "Accademia degli Infuriati"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1623",
+        "DedicationPlaceDate": "Naples 1 July 1623",
+        "Shelfmark": "658.c.1.",
+        "Subjects": "History",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|",
+        "Pagination": "pp. 243",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17009",
+                "RecordID": "022-000003813",
+                "Value": "Clavelli,Bernardo,Dean,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17010",
+                    "RecordID": "022-000003814",
+                    "Value": "Passaro,Felice,Abbot,"
+                },
+                {
+                    "PersonId": "17011",
+                    "RecordID": "022-000003815",
+                    "Value": "Coreggio,Agostino,,"
+                },
+                {
+                    "PersonId": "17008",
+                    "RecordID": "022-000003811",
+                    "Value": "Bottiglieri,Giuseppe,,"
+                },
+                {
+                    "PersonId": "15006",
+                    "RecordID": "022-000001048",
+                    "Value": "Zizzae,Prosper Antonius,,"
+                },
+                {
+                    "PersonId": "17012",
+                    "RecordID": "022-000003816",
+                    "Value": "Romaguera,Josephus,,"
+                },
+                {
+                    "PersonId": "16637",
+                    "RecordID": "022-000003356",
+                    "Value": "Gallo,Antonio Domenico,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17017",
+                    "RecordID": "022-000003821",
+                    "Value": "Felix,,Reverend,"
+                },
+                {
+                    "PersonId": "17016",
+                    "RecordID": "022-000003820",
+                    "Value": "Merola,Marsilio,,"
+                },
+                {
+                    "PersonId": "17014",
+                    "RecordID": "022-000003818",
+                    "Value": "Penna,Salvator,,"
+                },
+                {
+                    "PersonId": "17015",
+                    "RecordID": "022-000003819",
+                    "Value": "Alexander,,Bishop of Carinola|Vicar,"
+                },
+                {
+                    "PersonId": "16952",
+                    "RecordID": "022-000003741",
+                    "Value": "Palumbus,Marcus Antonius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Admodum Reverendi Patres.\nPerlegi ex vestra commissione Opus Venerandi Patris D. Bernardi Arpinatis, Decani Monasterij Sancti Severini de Neapoli, ubi de antiquitatibus, ac de insignioribus vetusti illius Municipij, deq; M Tullij Ciceronis, & C. Marij factis agitur; & cum illum multa eruditione refertum reperissem, praelo dignum existimo. Ex sacro Cassinensi Coenobbio die primo mensis Octobris 1618.\nHumilis filius Reverendarum Paternitatum vestrarum\nD. Faelix \u00e0 Neapoli.\nAl Signor Canonico Merola, & al Padre Penna Carmelita pro revisione.\nAlexander Episcopus Carinolae.\nHistoria haec de Antiquitate Arpini Romanorum Municipij, C. Marij, & M. Tullij Ciceronis, Heroum Civium suorum, Illustrati, bene typis dari potest, mea sententia, si ita videbitur Dominis meis Superioribus. Datum Neap. 27 Februarij 1621.\nMarsilius Merula canonicus Neapolitanus Sacrae Theologie Doctor, & Peniten.\nPerillustris, ac reverendissime Domine\nPerlegi opus hoc historicum cui titulus est, l`antica Arpino Admodum Reverendi patris D. Bernardi Clavelli Arpinatis, Ordinis Divi Benedicti, & cum in eo nihil offendissem, quod vel Catholicae Fidei & sacris canonibus, vel humanis moribus adversaretur, quinimmo Magnorum, & Auctorum exemplis, praeclarisq; & dictis, & gestis magna autoris eruditione relatis, dignissimum praelo existimavi. Datum in Carlemo Neapolis, die 7. Octobris 1620.\nPerillustris, & reverendissimae Dominationis tuae infimus servus \nM. Frater Salvator Penna Carmelita.\nReverendus pater marcus Antonius Palumbus Sociatatis Iesu videat, & referat. die primo Octobris 1620.\nCostantius regens.\nVidi librum hunc, qui inscribitur, l`Antico Arpino, &c. Nihil eo reperi, quod sit contra bonas regni leges, sed eruditione completum. Unde ex hoc typis mandari potest. die 7. octobris 1620.\nM. Antonius Palumbus.\nIMPRIMATUR\nAlexander episcopus Carinolae Vicarius",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5113",
+                "RecordID": "022-000000110",
+                "Value": "Boncompagni,Francesco,Cardinal,1592-1641"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15032",
+                "RecordID": "022-000001074",
+                "Value": "Vitale,Costantino,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Il Reverendo p. D. Felice Passaro, Abbate della Congregatione Cassinese, al P. D. Bernardo Clavelli Decano della detta Congregatione.\nDel Signor Agostino Coreggio Venetiano, all`Autore.\nDel Dottor Nuntio Gioseppe Bottiglieri, Accademico Herculeo.\nIoannis Baptistae Portae neapolitani, Philosophi celeberrimi ad P. D. Bernardum Clavellum, Disticon.\nProsperi Antonij Zizzae Accademici Otiosi ad Auctorem. Epigramma.\nIosephi Romaguerae neap. Philosophi ad R. P. D. Bernardum Clavellum Epigramma.\nDominici Antoij Galli Accademici Infuriati. Dialogus ad Authorem.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "",
+                        "RecordID": ""
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

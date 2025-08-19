@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16069",
+        "RecordId": "022-000002651",
+        "Surname": "Aldobrandini",
+        "Forename": "Silvestro",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1587-1612",
+        "StartDate": "1587",
+        "EndDate": "1612",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Patron of the Ricovrati in 1601",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

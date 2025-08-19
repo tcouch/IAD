@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20263",
+        "RecordId": "022-000007898",
+        "Surname": "Gu\u010deti\u0107",
+        "Forename": "Nikola Vitov",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Di Gozze",
+                "AlternativeForename": "Niccolo' Vito"
+            },
+            {
+                "AlternativeSurname": "Di Gozzi",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1549-1610",
+        "StartDate": "1549",
+        "EndDate": "1610",
+        "Nationality": {
+            "NationalityId": "365",
+            "Value": "of Ragusa of Dalmatia"
+        },
+        "Notes": "Among the founders of the Concordi Academy in Dubrovnik.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

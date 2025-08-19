@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15159",
+        "RecordId": "022-000001201",
+        "Surname": "Fugger",
+        "Forename": "Johann Jakob",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Fuccarum",
+                "AlternativeForename": "Jacobum"
+            },
+            {
+                "AlternativeForename": "Hans Jakob"
+            }
+        ],
+        "DateText": "1516-1575",
+        "StartDate": "1516",
+        "EndDate": "1575",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

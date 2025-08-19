@@ -1,0 +1,57 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003636",
+        "WorkId": "000483",
+        "ShortTitle": "Collocutiones",
+        "LongTitle": "Io: Baptistae Ferrarii Senensis e Societate Iesu",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            },
+            {
+                "AcademyId": "0029",
+                "RecordID": "021-000002361",
+                "Value": "Accademia Dei Filomati"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1652",
+        "Shelfmark": "1090.k.9",
+        "Language": "Latin",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16870",
+                "RecordID": "022-000003637",
+                "Value": "Ferrari,Giovanni Battista,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16871",
+                    "RecordID": "022-000003638",
+                    "Value": "Mehus,Lieven,,"
+                },
+                {
+                    "PersonId": "16543",
+                    "RecordID": "022-000003249",
+                    "Value": "Vannius,Raphael,,"
+                }
+            ]
+        },
+        "TitlePageImage": {
+            "ImageId": "53860",
+            "Value": "023-000003636_53860_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

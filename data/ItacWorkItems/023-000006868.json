@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006868",
+        "WorkId": "000802",
+        "ShortTitle": "Josephi Lanzoni philos. et medic: doctoris ferrariensis &S.R.I.",
+        "LongTitle": "Academiae Leopoldino-Imperialis Naturae Curiosorum & c. Collegae Dissertatio de lacrymis",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Accademia dei Ricovrati"
+        },
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1692",
+        "Shelfmark": "T519(24)",
+        "Subjects": "Medicine",
+        "Language": "Latin",
+        "Pagination": "XV",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19560",
+                "RecordID": "022-000006841",
+                "Value": "Lanzoni,Giuseppe,,1663 - 1730"
+            }
+        },
+        "Notes": "The dedicatee is mentioned as member of the very famous `Recuperatorum Academiae` (Accademia dei Ricovrati).",
+        "CensorsAgreement": "D. Steph Cupilli Congr. Somaschae Theol. in almo Gymnasio Lector pro Reverendiss. P. Inq. Ferrariae Librorum Censor vidi, & iudico posse imprimi --- Imprimatur --- Fr. Io. Dominicus Accursius Vicarius S. Officii Ferrariae & c. Dominicus Maria Gattus Canonicus Vic. Capit.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9120",
+                "RecordID": "022-000001727",
+                "Value": "Schroeckius,Lucas,,1646 - 1730"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19574",
+                "RecordID": "022-000006872",
+                "Value": "Typographia Sancti Nicolai,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54893",
+            "Value": "023-000006868_54893_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

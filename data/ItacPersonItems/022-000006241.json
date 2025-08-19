@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19109",
+        "RecordId": "022-000006241",
+        "Surname": "Lenoncourt",
+        "Forename": "Robert de",
+        "AlternativeName": {
+            "AlternativeSurname": "Lenoncorte",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1485/90 - 1561",
+        "StartDate": "1485/90",
+        "EndDate": "1561",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

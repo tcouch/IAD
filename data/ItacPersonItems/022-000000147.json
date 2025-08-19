@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5152",
+        "RecordId": "022-000000147",
+        "Surname": "Manzini",
+        "Forename": "Carlo Antonio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Mangini"
+            },
+            {
+                "AlternativeForename": "Caroli Antoni"
+            }
+        ],
+        "PersonalTitle": "Count",
+        "DateText": "1600-1677",
+        "StartDate": "1600",
+        "EndDate": "1677",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Among the founders of the Vespertini, he mentions the Accademy in his Tabulae primi mobilis (1626). See Biblioteca Aprosiana for information on his nickname. His biography by Luigi Matt is in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

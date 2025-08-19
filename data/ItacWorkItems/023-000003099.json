@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003099",
+        "WorkId": "000399",
+        "ShortTitle": "Les abusez,",
+        "LongTitle": "comedie faite a la mode des anciens comiques, premierement composee en langue Tuscane, pa les professeurs de l`Academie Senoise, et nommee Intronati, depuys traduite en Francoys par Charles Estienne, et nouvellement reveve et corrigee",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "57",
+            "PublicationPlaceItalianName": "Parigi",
+            "PublicationPlaceEnglishName": "Paris",
+            "PublicationPlaceLatinName": "Parisium"
+        },
+        "PublicationYear": "1549",
+        "Shelfmark": "1070.a.31",
+        "Subjects": "Theatre|Translation",
+        "Language": "French",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16430",
+                "RecordID": "022-000003101",
+                "Value": "Estienne,Charles,,"
+            }
+        },
+        "Notes": "On this book, and in particular on the introductory essay, see Bernard Weinberg, `Charles Estienne and Jean de la Taille`, Modern Language Notes, 61 (Apr., 1946), 262-65. More recent  and more complete, is Cerreta, `A French translation of Gl` Ingannati: C. Estienne`s les Abusez`, in Italica (1977), pp. 12-34.\nThis text was translated into English, see Laelia. A comedy Acted at Queen`s College, Cambridge on 1st of March 1595, ed. and intro. G. C. Moore Smith (Cambridge, 1910)",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16429",
+                "RecordID": "022-000003100",
+                "Value": "Groulleau,Estienne,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53441",
+            "Value": "023-000003099_53441_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53442",
+            "Value": "023-000003099_53442_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Epistre du traducteur a monseigneur le Dauphin de France declarative de la maniere que tenoient les anciens, tant a la composition du Ieu, qu` a la pareil de leurs Comedies.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16430",
+                        "RecordID": "022-000003101",
+                        "Value": "Estienne,Charles,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

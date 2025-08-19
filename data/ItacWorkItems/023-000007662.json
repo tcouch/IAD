@@ -1,0 +1,39 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007662",
+        "WorkId": "000861",
+        "ShortTitle": "Le bellezze della Belisa tragedia dell`Illustriss. Sig. D. Antonio Muscettola.",
+        "LongTitle": "Abbozzate da Oldauro Scioppio Accademico Incognito, e Geniale & c.. All`Illustriss. ed Eccellentiss. Signore D. Giuseppe de Medici Prencipe d`Ottaiano",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Accademia degli Incogniti (Venezia)"
+        },
+        "Format": "12\u00b0",
+        "PublicationYear": "1664",
+        "DedicationPlaceDate": "Breglio 26 Febbraio 1663",
+        "Subjects": "Theatre|Tragedy",
+        "Language": "Italian",
+        "Pagination": "244",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5162",
+                "RecordID": "022-000000157",
+                "Value": "Muscettola,Antonio,,1628 - 1679"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20150",
+                "RecordID": "022-000007663",
+                "Value": "de` Medici,Giuseppe,,1635-1717"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55233",
+            "Value": "023-000007662_55233_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

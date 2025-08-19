@@ -1,0 +1,93 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003722",
+        "WorkId": "000499",
+        "ShortTitle": "Trattato Del Monte Vesuvio",
+        "LongTitle": "e de` suoi Incendi Di Gianbernardino Giuliani segretario del Fidelissimo Popolo Napolitano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1632",
+        "DedicationPlaceDate": "Naples 2 June 1632",
+        "Shelfmark": "664.b.18.(1.)",
+        "Content": "Account on the eruption of Mount Vesuvius in 1631",
+        "Subjects": "Mount Vesuvius",
+        "Language": "Italian|Latin",
+        "Illustration": "Plates|Mount Vesuvius|Plates|Saint Januarius",
+        "Pagination": "pp. 224",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16932",
+                "RecordID": "022-000003715",
+                "Value": "Giuliani,Gianbernardino,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15033",
+                    "RecordID": "022-000001075",
+                    "Value": "Basso,Antonio,,1605-1648"
+                },
+                {
+                    "PersonId": "15018",
+                    "RecordID": "022-000001060",
+                    "Value": "Comite,Oratio,,"
+                },
+                {
+                    "PersonId": "16935",
+                    "RecordID": "022-000003719",
+                    "Value": "Grimaldi,Pietro,,"
+                },
+                {
+                    "PersonId": "16936",
+                    "RecordID": "022-000003720",
+                    "Value": "Massaro,Giovanni Pietro,,"
+                },
+                {
+                    "PersonId": "16937",
+                    "RecordID": "022-000003721",
+                    "Value": "Monforte,Antonio Francesco,,"
+                },
+                {
+                    "PersonId": "15119",
+                    "RecordID": "022-000001160",
+                    "Value": "Santamaria,Andrea,,"
+                }
+            ]
+        },
+        "Notes": "This books contains verses written by Oziosi academicians.\nFor another edition of this work see BL catalogue (shelfmark: 444.b.39.)",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16934",
+                "RecordID": "022-000003718",
+                "Value": "Zuniga e Fonseca ,Manuel,Viceroy|Count of Monterey and Fuentes,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16853",
+                "RecordID": "022-000003611",
+                "Value": "Perrey,Nicolas,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16933",
+                "RecordID": "022-000003717",
+                "Value": "Longo,Egidio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

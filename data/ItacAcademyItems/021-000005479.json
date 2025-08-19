@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0120",
+        "RecordId": "021-000005479",
+        "Name": "Leggieri (Accademia dei)",
+        "AlternativeName": "Accademia de` Legieri",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "?",
+        "EndDate": "?",
+        "DateText": "?-?",
+        "ItacPersonItem": {
+            "PersonId": "18455",
+            "RecordId": "022-000005478",
+            "Name": "Benestante Sifolo,Carlo Maria,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

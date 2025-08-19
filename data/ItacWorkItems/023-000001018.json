@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001018",
+        "WorkId": "00095",
+        "ShortTitle": "Lettera del dottor Geminiano Montanari professore delle scienze matematiche nello studio di Bologna; scritta a Roma;",
+        "LongTitle": "all`Illustrissimo e reverendissimo signor Abbate Carlo Antonio Sampieri. In risposta ad alcune obiezioni intorno i suoi pensieri fisico-matematici circa alcune esperienze del livellarsi i liquidi in sottili cannuccie di vetro ultimamente publicati. nella quale oltre la risoluzione de` dubbi propostivi spiega ancora molt`altri problemi naturali che dalla medesima dottrina dipendono",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0015",
+                "RecordID": "021-000000989",
+                "Value": "Accademia della Traccia"
+            },
+            {
+                "AcademyId": "0015",
+                "RecordID": "021-000000989",
+                "Value": "Traccia (Accademia della)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1667",
+        "DedicationPlaceDate": "Bologna 12 August 1667",
+        "Shelfmark": "537.c.15.(4)",
+        "Subjects": "Science",
+        "Language": "Italian",
+        "Illustration": "Engraved plate | devices for experiments",
+        "Pagination": "pp. 59-88. It is a follow-up of the previous essay",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5028",
+                "RecordID": "022-000000030",
+                "Value": "Montanari,Geminiano,,1633 - 1687"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7403",
+                "RecordID": "022-000001005",
+                "Value": "Manolessi,Emilio Maria e fratelli,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

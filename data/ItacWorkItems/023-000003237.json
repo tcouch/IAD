@@ -1,0 +1,69 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003237",
+        "WorkId": "000428",
+        "ShortTitle": "Theologia",
+        "LongTitle": "Moralia Fundamentalis Quatuor Libris Comprehensa",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "66",
+            "PublicationPlaceItalianName": "Lione",
+            "PublicationPlaceEnglishName": "Lyon",
+            "PublicationPlaceLatinName": "Lugdunum"
+        },
+        "PublicationYear": "1676",
+        "Shelfmark": "3559.f.5.",
+        "Subjects": "Theology",
+        "Language": "Greek|Latin",
+        "Illustration": "Engraved title page||Plate|Author`s portrait",
+        "Pagination": "discontinuous pagination",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16247",
+                "RecordID": "022-000002894",
+                "Value": "Caramuel y Lobkowitz ,Juan,Bishop of Vigevano,1606 - 1682"
+            }
+        },
+        "Notes": "In the preface to the second volume, the author mentions the investiganti Academy",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16538",
+                    "RecordID": "022-000003242",
+                    "Value": "Ballioud Mermet,,,"
+                },
+                {
+                    "PersonId": "16539",
+                    "RecordID": "022-000003243",
+                    "Value": "De Seve,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Consensus. Opus inscriptum Ioannis Caramuelis Theologia Moralis, & c. typis mandari, & in lucem edi \u00e0 Ioanne Baptista Devenet Bibliopola Lugdunensi, Ego Regis Consiliarius & Advocatus in Lugdunebsi Praefectura, non impedio. Lugduni, die 17. Februarij 1655. Bollioud Mermet.\nPermissio. Visso Procuratoris Regis consensu, Librum hunc typis mandari \u00e0 Ioanne Baptista Devenet concedimus; & ne quis ultra concessam facultatem denu\u00f2 excudat prohibemus. Datum Lugduni, die 17. Februarij 1655. De Seve.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16536",
+                "RecordID": "022-000003240",
+                "Value": "Nu\u00f1ez De Guzman,Petro,Count of Villombrosa and Castronuovo,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16535",
+                "RecordID": "022-000003238",
+                "Value": "Anisson,Jean,,1642 - 1721"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53489",
+            "Value": "023-000003237_53489_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

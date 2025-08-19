@@ -1,0 +1,76 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0303",
+        "RecordId": "021-000007087",
+        "Name": "Secreti (Accademia dei)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Sieve of a chemist",
+        "Motto": "Clausa secernit",
+        "StartDate": "ca.1580",
+        "DateText": "ca.1580",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16455",
+                "RecordId": "022-000003132",
+                "Name": "Crudeli,Fabio,,",
+                "Nickname": "Ammartellato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19711",
+                "RecordId": "022-000007081",
+                "Name": "Bronconi,Pietro,,",
+                "Nickname": "Ottuso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19712",
+                "RecordId": "022-000007082",
+                "Name": "Griffoni,Teofilo,,ca.1580",
+                "Nickname": "Doppio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19713",
+                "RecordId": "022-000007083",
+                "Name": "Angelini,Annibale,,ca. 1580",
+                "Nickname": "Tenero",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19714",
+                "RecordId": "022-000007084",
+                "Name": "Tirato,,,ca.1580",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19715",
+                "RecordId": "022-000007085",
+                "Name": "Trito,,,ca. 1580",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19716",
+                "RecordId": "022-000007086",
+                "Name": "Percosso,,,ca.1580",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

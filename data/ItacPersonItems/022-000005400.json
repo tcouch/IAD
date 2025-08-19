@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18381",
+        "RecordId": "022-000005400",
+        "Surname": "de Salvaing de Boissieu",
+        "Forename": "Denys",
+        "Gender": "Male",
+        "DateText": "1600-1683",
+        "StartDate": "1600",
+        "EndDate": "1683",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Appointed State Counsellor by Richelieu, he joined the Umoristi in 1633, during his trip to Italy.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

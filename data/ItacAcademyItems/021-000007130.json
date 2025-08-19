@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0328",
+        "RecordId": "021-000007130",
+        "Name": "Umili (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Lily of the valley, with the sky illuminated by the moon and stars",
+        "Motto": "Non vis et odor aliunde",
+        "StartDate": "ca.1568",
+        "EndDate": "1578",
+        "DateText": "ca.1568-1578",
+        "Notes": "According to Tiraboschi, the following presentations were delivered in the Accademia degli Umili by Alessandro Bovio: Discorso primo sopra l`anteposta impresa - fatto nell`accademia degli Umili di Roma l`anno 1578; Discorso secondo del medesimo autore sopra il sonetto di Messer Francesco Petrarca `Tennemi Amor anni ventuno ardendo` - recitato nell`accademia il 14 ottobre 1578; terzo discorso sopra il sonetto di M Pietro Bembo alla beata madre che comincia: `gia` donna o dea nel cui virginal chiostro` - recitato nell`Accademia il 24 ottobre 1568`.",
+        "ItacPersonItem": {
+            "PersonId": "18117",
+            "RecordId": "022-000005075",
+            "Name": "Bovio,Alessandro,,",
+            "Nickname": "il Sereno",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

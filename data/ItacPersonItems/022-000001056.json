@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15014",
+        "RecordId": "022-000001056",
+        "Surname": "Capaccio",
+        "Forename": "Giulio Cesare",
+        "AlternativeName": {
+            "AlternativeSurname": "Capacii",
+            "AlternativeForename": "Iulii Caesaris"
+        },
+        "DateText": "1552-1634",
+        "StartDate": "1552",
+        "EndDate": "1634",
+        "Nationality": {
+            "NationalityId": "297",
+            "Value": "of Campagna d`Eboli (Salerno)"
+        },
+        "Notes": "Portrait of Capaccio from Lorenzo Crasso, Elogii d`Huomini Letterati, Venice 1666.",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

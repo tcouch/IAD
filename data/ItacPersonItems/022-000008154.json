@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20430",
+        "RecordId": "022-000008154",
+        "Surname": "Cato",
+        "Forename": "Ercole",
+        "AlternativeName": {
+            "AlternativeSurname": "Cati",
+            "AlternativeForename": "Hercole"
+        },
+        "DateText": "1538?-after1606",
+        "StartDate": "1538?",
+        "EndDate": "after1606",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Cato was among the founders of the Intrepidi Academy. See his biography by Tiziano Ascari in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

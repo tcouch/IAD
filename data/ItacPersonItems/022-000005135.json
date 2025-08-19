@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18167",
+        "RecordId": "022-000005135",
+        "Surname": "Rossi",
+        "Forename": "Giovanni Vittorio",
+        "AlternativeName": {
+            "AlternativeSurname": "Roscius",
+            "AlternativeForename": "Johannes Victorius"
+        },
+        "Pseudonym": "Giano Nicio Eritreo",
+        "DateText": "1577 - 1647",
+        "StartDate": "1577",
+        "EndDate": "1647",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "For details, see Luigi Gerboni, `Un umanista nel Seicento: Giano Nicio Eritreo, studio biografico critico` (1899)",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

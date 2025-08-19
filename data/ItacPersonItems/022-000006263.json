@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19126",
+        "RecordId": "022-000006263",
+        "Surname": "De Filiis",
+        "Forename": "Anastasio",
+        "Gender": "Male",
+        "DateText": "1577-1608",
+        "StartDate": "1577",
+        "EndDate": "1608",
+        "Nationality": {
+            "NationalityId": "144",
+            "Value": "of Terni"
+        },
+        "Notes": "Co-founder of the Accademia dei Lincei. See M. Muccillo, `De Filiis, Anastasio`, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

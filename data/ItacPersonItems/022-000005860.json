@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18789",
+        "RecordId": "022-000005860",
+        "Surname": "Spagna",
+        "Forename": "Arcangelo",
+        "AlternativeName": {
+            "AlternativeForename": "Archangelo"
+        },
+        "DateText": "1632 - 1721?",
+        "StartDate": "1632",
+        "EndDate": "1721?",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "The author of Oratorii overo melodrammi sacri con un discorso intorno all`origine dell`Accademia degli Infecondi (1706)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

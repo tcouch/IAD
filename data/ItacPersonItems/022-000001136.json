@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15095",
+        "RecordId": "022-000001136",
+        "Surname": "Errico",
+        "Forename": "Scipione",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Herrico",
+            "AlternativeForename": "Scipione"
+        },
+        "DateText": "1592-1670",
+        "StartDate": "1592",
+        "EndDate": "1670",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

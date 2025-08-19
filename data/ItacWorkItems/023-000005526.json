@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005526",
+        "WorkId": "000670",
+        "ShortTitle": "Oratione Del Dottor Don Vincenzo Auria Palermitano, L`Addestrato Accademico Racceso.",
+        "LongTitle": "Recitata nell`Accademia de` Signori Raccesi di Palermo, \u00e0 18. di Decembre l`Anno 1652. Nell`Allegrezze fatte in essa Citt\u00e0 per le vittorie di Sua Catolica Maest\u00e0 in Italia, in Catalogna, ed in Fiandra.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1653",
+        "Shelfmark": "12225.b.5.(1)",
+        "Subjects": "Academic speech",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 20",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18434",
+                "RecordID": "022-000005457",
+                "Value": "Auria,Vincenzo,,1625-1710"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18498",
+                    "RecordID": "022-000005527",
+                    "Value": "Scuderi,,,"
+                },
+                {
+                    "PersonId": "18499",
+                    "RecordID": "022-000005528"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprim. Scuderi V. G. Imprim, Reg. Don Petrus Gregor. Praesid.",
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18569",
+                "RecordID": "022-000005610",
+                "Value": "Cith\u00e8,Franciscus,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18500",
+                "RecordID": "022-000005529",
+                "Value": "Bua,Nicol\u00f2,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54617",
+            "Value": "023-000005526_54617_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

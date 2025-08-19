@@ -1,0 +1,130 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002480",
+        "WorkId": "000312",
+        "ShortTitle": "Discorsi delle Famiglie Nobili",
+        "LongTitle": "Discorsi delle Famiglie Nobili del Regno di Napoli del Signor Carlo de Lellis. Parte Seconda",
+        "ItacAcademyItem": {
+            "AcademyId": "0030",
+            "RecordID": "021-000002423",
+            "Value": "Academia degli Infuriati"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1663",
+        "DedicationPlaceDate": "Napoli 6 March 1663",
+        "Shelfmark": "136.b.18.",
+        "Content": "History of aristocratic families living in the Kingdom of Naples",
+        "Subjects": "Family history",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcuts|",
+        "Pagination": "Three vols. pp. 460; pp. 336; pp. 409",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15865",
+                "RecordID": "022-000002424",
+                "Value": "de Lellis,Carlo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15878",
+                "RecordID": "022-000002438",
+                "Value": "Altamuras,Paulus Orontius,,"
+            }
+        },
+        "Notes": "Volume two contains Latin verses dedicated to the author and written by Paulus Orontius Nuctius Altamuras Acad. Furiatus et Confusus.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15920",
+                    "RecordID": "022-000002484",
+                    "Value": "Paternus,Placidus,,"
+                },
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                },
+                {
+                    "PersonId": "15922",
+                    "RecordID": "022-000002486",
+                    "Value": "Garcia,,,"
+                },
+                {
+                    "PersonId": "15923",
+                    "RecordID": "022-000002487",
+                    "Value": "De Soto,,,"
+                },
+                {
+                    "PersonId": "15924",
+                    "RecordID": "022-000002488",
+                    "Value": "Burgos,,,"
+                },
+                {
+                    "PersonId": "15925",
+                    "RecordID": "022-000002489",
+                    "Value": "Martinez,,,"
+                },
+                {
+                    "PersonId": "15926",
+                    "RecordID": "022-000002490",
+                    "Value": "Cacacius,,,"
+                },
+                {
+                    "PersonId": "15927",
+                    "RecordID": "022-000002491",
+                    "Value": "Tagliavia,,,"
+                },
+                {
+                    "PersonId": "15921",
+                    "RecordID": "022-000002485",
+                    "Value": "Grossus,Ianuarius,,"
+                },
+                {
+                    "PersonId": "15928",
+                    "RecordID": "022-000002492",
+                    "Value": "Anastasius,Philippus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Hic Liber inscriptus (la seconda parte de` Discorsi delle nobili famiglie del Regno) \u00e0 Carolo de lellis eruditissimo iurisperito compositus, cum nihil contra bonos mores contineat, nec dissonum Fidei Catholicae: ideo Typis mandati posse censeo. Datum ex Regali Conventu S. Ludovici die 11. Novembris 1655. F. Placidus Paternus \u00e0 Neap. Ordinis Minimorum Definitor, et Collega Provincialis Deputatis. Imprimatur. Gregorius Peccerillus Vic. Gen. \nIllustrissimo, Et Eccellentiss. Signore. Carlo de Lellis supplicando dice \u00e0 V. E. come desidera dar in luce la seconda parte delle famiglie nobili, con i discorsi de i sette Officij del Regno. Per tanto la supplica vogli restar servita di commettere a chi meglio li parer\u00e0 la revisione d`essi, accioche li possa far imprimere; e l`haver\u00e0 a gratia ut Deus. Videat, et in scriptis S. E. referat Doctor Ianuarius Grosso. Garcia Reg. De Soto Reg. Burgos Reg. Martinez Reg. Cacacius Reg. Provisium per Suam Excellentiam Neapoli die 21. Iulij 1655. Tagliavia. Illustrissime, et Excellentissime Princeps. Illic\u00f2 ex tuo mandato perlegi volumen secundum Caroli de Lellis super nobilibus familijs elaboratum, insimul cum tractatu de septem Regni Officijs, quae omnia exarata nusquam Regali Iurisdictioni, vel bonis moribus dissonant, im\u00f2 potius eisdem satis consonant, necnon, et consonant adhuc Auctori, qui nobilitate refulgens, merit\u00f2 de nobilibus scribit, et sublevando ab obluvione Familias, Fama ipsium ad concinnam famam extollit, et dicam, quod eadem Fama Auctorem ipsum in suam familiam illustrium Auctorum recipit, dum de illustribus viris encomia effundit. Hinc volumen hoc dignum, ac nobile aestimabitur, cum de rebus nobilibus sit compositum. Hinc dignissimum Typis tribuendum censeo. Neapoli die 18. Novembris 1655. Excellentiae tuae Humullimus Servuus Ianuarius Grossus. Visa Supradicta relatione Imprimatur. Verum ante publicationem observetur Regia Pragmatica. Garcia Reg. De Soto Reg. Burgos Reg. Martinez Reg. Cacacius Reg. Provisum per Suam Excellentiam Neap. die primo Novembris 1655. Anastasius.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15918",
+                "RecordID": "022-000002482",
+                "Value": "de Bracamonte Gusman,Gasparro,Viceroy|Count of Pe\u00f1aranda,1595-1676"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15919",
+                "RecordID": "022-000002483",
+                "Value": "Paci,Gio[vanni] Francesco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53487",
+            "Value": "023-000002480_53487_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Carolus De Lellis. Anagramma. Luces, Lar, Sol Deli. Epigramma.\nD. Paulus Orontius Nuctius Altamuras Acad. Furiatus & Confusus \nD.D.D.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15917",
+                        "RecordID": "022-000002479",
+                        "Value": "Nuctius Altamuras,Paulus Orontius,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

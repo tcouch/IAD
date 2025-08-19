@@ -1,0 +1,38 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0358",
+        "RecordId": "021-000007296",
+        "Name": "Assicurati (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Sun in ecliptic",
+        "Motto": "Indeclinabili gressu",
+        "StartDate": "1606?",
+        "EndDate": "?",
+        "DateText": "1606? - ?",
+        "Notes": "One publication, not found in catalogues, but recorded by Cicogna, in Bibliografia veneziana, is Gare delle muse, poema a Giovanfrancesco Morosini Patriarca di Venezia, per l`Accademia degli Assicurati aperta in casa propria e per l`assistenza a` medesimi da esso prestata l`anno 1669(Venezia, 1669). The poem `Le Gare delle muse all`istesso [Giovanfrancesco Morosini Patriarca di Venezia] per l`Accademia aperta in casa sua` is in Zopelli, Trattenimenti poetici (1673).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19856",
+                "RecordId": "022-000007295",
+                "Name": "Morosini,Giovanni Francesco,Patriarch of Venice,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20223",
+                "RecordId": "022-000007789",
+                "Name": "Zopelli,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

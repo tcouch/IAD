@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18743",
+        "RecordId": "022-000005810",
+        "Surname": "Leonardi",
+        "Forename": "Donato Antonio",
+        "PersonalTitle": "Abbot",
+        "DateText": "ca.1655 - 1712",
+        "StartDate": "ca.1655",
+        "EndDate": "1712",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "The author of Orazione in lode di Giacomo 2 (1687), delivered to the Accademici Infecondi.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

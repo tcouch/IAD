@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9087",
+        "RecordId": "022-000001693",
+        "Surname": "de Lazara",
+        "Forename": "Alessandro",
+        "DateText": "1647-1705",
+        "StartDate": "1647",
+        "EndDate": "1705",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1669.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

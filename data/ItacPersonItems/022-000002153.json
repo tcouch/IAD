@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15627",
+        "RecordId": "022-000002153",
+        "Surname": "Pistocchi",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "DateText": "1659-1726",
+        "StartDate": "1659",
+        "EndDate": "1726",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "Joined the Accademia Filarmonica in 1687. Pistocchi was at the service of the Duke of Parma",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

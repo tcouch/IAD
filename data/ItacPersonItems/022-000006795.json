@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19535",
+        "RecordId": "022-000006795",
+        "Surname": "Schelstrate",
+        "Forename": "Emmanuel",
+        "DateText": "1649 - 1692",
+        "StartDate": "1649",
+        "EndDate": "1692",
+        "Nationality": {
+            "NationalityId": "167",
+            "Value": "Flemish"
+        },
+        "Notes": "Joined the Accademia di Cristina di Svezia in 1679",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

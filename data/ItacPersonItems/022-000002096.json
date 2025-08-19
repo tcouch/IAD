@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15570",
+        "RecordId": "022-000002096",
+        "Surname": "Bergamini",
+        "Forename": "Giacomo Antonio",
+        "AlternativeName": {
+            "AlternativeSurname": "Bergamori",
+            "AlternativeForename": null
+        },
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Joined the Accademia Filarmonica in 1677. `Bergamori` is probably the wrong transcription of Bergamini (see Bergamini, `Dai Gelati alla Renia`, p. 43)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

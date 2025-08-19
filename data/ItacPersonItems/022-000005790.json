@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18725",
+        "RecordId": "022-000005790",
+        "Surname": "Cartari",
+        "Forename": "Antonio Stefano",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Antonstefano"
+        },
+        "DateText": "1651-1685",
+        "StartDate": "1651",
+        "EndDate": "1685",
+        "Nationality": {
+            "NationalityId": "126",
+            "Value": "of Orvieto"
+        },
+        "Notes": "Cartari was famous for his antiquarian interests. See A. Petrucci, ` Cartari, Antonio Stefano`, in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

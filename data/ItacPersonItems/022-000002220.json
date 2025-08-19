@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15692",
+        "RecordId": "022-000002220",
+        "Surname": "Gradenigo",
+        "Forename": "Luigi",
+        "DateText": "1543 - 1582",
+        "StartDate": "1543",
+        "EndDate": "1582",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See Zaccaria (1996)",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

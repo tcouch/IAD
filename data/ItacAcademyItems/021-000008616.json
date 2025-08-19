@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0592",
+        "RecordId": "021-000008616",
+        "Name": "Filosofica esperimentale (Accademia)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "1687",
+        "EndDate": "1689",
+        "DateText": "1687-1689",
+        "Notes": "This Academy was created as a branch of the Accademia dell`Arcidiacono and in parallel with the Accademia ecclesiastica, by Antonio Felice Marsili: `Due accademie nuovamente erette in Bologna dal dottiss. signor arcidiacono A.F. M. in sua casa`, in Giornale de\u2019 letterati di Parma e Modena, IX (1687), p. 144, and Marta Cavazza, `Marsili, Antonio Felice,` in DBI.",
+        "ItacPersonItem": {
+            "PersonId": "5024",
+            "RecordId": "022-000000026",
+            "Name": "Marsili,Antonio Felice,,1651-1710",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

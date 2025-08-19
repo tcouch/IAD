@@ -1,0 +1,76 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006109",
+        "WorkId": "000723",
+        "ShortTitle": "Nuovi ritrovamenti divisi in due parti",
+        "LongTitle": "Con tre tavole in lingua Latina, Francese, & Ollandese. Parte Prima. Delli ordegni per cavar pali. Armature della Calamita. del modo di levare i sassi sott`acqua, e trovar la lega dell`Oro, e dell`Argento. Modo di condurre l`acque sorgenti nella Citta` di Livorno. Modo di voltar un fiume. Passonate rotte nel Porto, & il modo di rimediare. Mistolini o cavafanghi, e fortezze per il Porto di Livorno. Modo di far venirle il terreno sopra le Fortezze. Modo di adoprar gl`Occhiali. Un Vecchio puo` imparare da un Regazzo. Modo di rompere un Bichiero con la voce. Della simpatia dell`Instromenti. d`un`osservazione fatta sopra un Eclisse del primo Satellite di Giove. Finalmente delle varie Passionate fatte alla memoria di Papa Urbano Ottavo. Date al publico dall`ingegniero Cornelio Meyer Olandese Dell`Accademia Fisicomatematica Romana",
+        "ItacAcademyItem": {
+            "AcademyId": "0141",
+            "RecordID": "021-000006038",
+            "Value": "Accademia Fisico-matematica"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1696",
+        "DedicationPlaceDate": "Roma 22 June 1696",
+        "Shelfmark": "49h10(2)|L40/53",
+        "Subjects": "Engineering",
+        "Language": "Italian|Latin|French",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18963",
+                "RecordID": "022-000006067",
+                "Value": "Meyer,Cornelio,,1629 - 1701"
+            }
+        },
+        "Notes": "Images include title page, and Meyer`s engraving of glasses.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15737",
+                "RecordID": "022-000002278",
+                "Value": "de` Medici,Cosimo II,Grand Duke of Tuscany,1590-1621"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18994",
+                    "RecordID": "022-000006104",
+                    "Value": "Wouters,Gomar,,1649 - ?"
+                },
+                {
+                    "PersonId": "18963",
+                    "RecordID": "022-000006067",
+                    "Value": "Meyer,Cornelio,,1629 - 1701"
+                },
+                {
+                    "PersonId": "18999",
+                    "RecordID": "022-000006110",
+                    "Value": "Honoratus Polustinus,I. B.,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18969",
+                "RecordID": "022-000006075",
+                "Value": "Komarek,Giovanni Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54546",
+            "Value": "023-000006109_54546_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54561",
+            "Value": "023-000006109_54561_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

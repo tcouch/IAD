@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19127",
+        "RecordId": "022-000006264",
+        "Surname": "Valerio",
+        "Forename": "Luca",
+        "DateText": "1552 - 1618",
+        "StartDate": "1552",
+        "EndDate": "1618",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "`Mathematicae, et Civilis Philosophiae in Alma Urbis Gymnasio Professoris` (see Istoria e dimostrazioni... 1613). Joined the Lincei in 1612, and left when following the condemnation of the doctrine about the motion of Earth. See A. De Ferrari, `Cesi, Federico`, in DBI, and Gabrieli, Contributi, I, p. 445.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

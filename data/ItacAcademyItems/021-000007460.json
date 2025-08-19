@@ -1,0 +1,18 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0381",
+        "RecordId": "021-000007460",
+        "Name": "Compagnia dei Fausti",
+        "AlternativeName": "Accademia dei Fausti",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "1503",
+        "EndDate": "after1524",
+        "DateText": "1503 - after1524",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

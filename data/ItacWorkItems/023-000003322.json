@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003322",
+        "WorkId": "000443",
+        "ShortTitle": "Tragedia di messer Giovanni Ruscellai",
+        "LongTitle": "Patritio fiorentino. Intitolata Rosmunda",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "Small 4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1528",
+        "Shelfmark": "11715.a.56",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "[32]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16605",
+                "RecordID": "022-000003324",
+                "Value": "Rucellai,Giovanni,,"
+            }
+        },
+        "Notes": "On the last page of the book is written: `Stampata in Venetia per Niccolo` d`Aristotile detto Zoppino 1528`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16606",
+                "RecordID": "022-000003325",
+                "Value": "Cangiato e Ligio,Academici Sanesi,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16604",
+                "RecordID": "022-000003323",
+                "Value": "Zoppino,Niccolo`,,fl.1503 - 1544"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53394",
+            "Value": "023-000003322_53394_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

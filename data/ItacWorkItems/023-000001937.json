@@ -1,0 +1,87 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001937",
+        "WorkId": "000272",
+        "ShortTitle": "Salmi Brevi (Organo Primo)",
+        "LongTitle": "Per tutto l`Anno a otto Voci, con uno, o due Organi se piace. Dedicati agl`Illustrissimi Signori Presidente e Fabbricieri Della Perinsigne Collegiata di S. Petronio di Bologna. Da Gio(vanni) Paolo Colonna Maestro di Cappella di detta Chiesa, et Accademico Filaschise, e Filarmonico. Opera Prima",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1681",
+        "Shelfmark": "D.40.f",
+        "Subjects": "Music",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 35",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15385",
+                "RecordID": "022-000001880",
+                "Value": "Colonna,Giovanni  Paolo,,1637-1695"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal,1622-1684"
+                },
+                {
+                    "PersonId": "15427",
+                    "RecordID": "022-000001938",
+                    "Value": "Mazza,Thomas,Inquisitor Holy Office Bologna,"
+                },
+                {
+                    "PersonId": "7409",
+                    "RecordID": "022-000001001",
+                    "Value": "Chrisostomus,Iohannes,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Io. Chrysostomus Vicecomes Clericus Reg. Sancti Pauli, et in Metropolitana Bononiae Paenitentiarius pro Eminentissimo, et Reverendissimo D., D. Hieronymo Boncompagno Archiepiscopo, et Principe. Imprimatur. Fr. Thomas Mazza Inquisitor S. Officij Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15428",
+                    "RecordID": "022-000001939",
+                    "Value": "Facchinetti,Alessandro,Marquis,"
+                },
+                {
+                    "PersonId": "15432",
+                    "RecordID": "022-000001943",
+                    "Value": "Vizani,Filiberto,Count|Senator,"
+                },
+                {
+                    "PersonId": "15433",
+                    "RecordID": "022-000001944",
+                    "Value": "Cospi,Filippo Angelo,Senator,"
+                },
+                {
+                    "PersonId": "15429",
+                    "RecordID": "022-000001940",
+                    "Value": "Scappi,Carlo Luigi,Senator,"
+                },
+                {
+                    "PersonId": "15431",
+                    "RecordID": "022-000001942",
+                    "Value": "Casali,Mario,Count,"
+                },
+                {
+                    "PersonId": "5477",
+                    "RecordID": "022-000000463",
+                    "Value": "Calderini,Niccol\u00f2,Senator,fl. 1639"
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

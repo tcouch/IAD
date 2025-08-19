@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19244",
+        "RecordId": "022-000006425",
+        "Surname": "Brahe",
+        "Forename": "Ticone Jr",
+        "Gender": "Male",
+        "DateText": "1581-1627",
+        "StartDate": "1581",
+        "EndDate": "1627",
+        "Nationality": {
+            "NationalityId": "65",
+            "Value": "Danish"
+        },
+        "Notes": "Mathematician, son of the famous astronomer. Foreign correspondent of the Lincei.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

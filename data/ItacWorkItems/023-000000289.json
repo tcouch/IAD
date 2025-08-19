@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000289",
+        "WorkId": "00010",
+        "ShortTitle": "Leggi dell\u2019Accademia de\u2019 Sig[nori] Gelati di Bologna",
+        "LongTitle": "col Catalogo degli Accademici viventi nel 1682 [after which there is the Catalogue of the Academy princes 1590-1683 pp. 29-33]",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1683",
+        "Shelfmark": "Ac.8840/1(2)",
+        "Subjects": "Laws of the Academy|Princes of the Academy",
+        "Language": "Latin|Italian",
+        "Illustration": "Engraved plate | Academy emblem",
+        "Pagination": "pp. 33",
+        "Marginalia": "No",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5245",
+                "RecordID": "022-000000237",
+                "Value": "Manolessi,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53101",
+            "Value": "023-000000289_53101_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

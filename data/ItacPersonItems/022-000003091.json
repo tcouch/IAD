@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16424",
+        "RecordId": "022-000003091",
+        "Surname": "Padovano",
+        "Forename": "Giovanni",
+        "AlternativeName": {
+            "AlternativeSurname": "Padoano",
+            "AlternativeForename": "Gioanne"
+        },
+        "DateText": "ca. 1531 - 1553",
+        "StartDate": "ca. 1531",
+        "EndDate": "1553",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "V423|Z1157",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19974",
+        "RecordId": "022-000007433",
+        "Surname": "David",
+        "Forename": "Domenico",
+        "DateText": "1619?-1699",
+        "StartDate": "1619?",
+        "EndDate": "1699",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Librettist. According to Maggiolo (1983), David was also member of the Animosi Academy in Venice, with the nickname Osiro Cadreatico. He joined the Ricovrati in 1678.",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

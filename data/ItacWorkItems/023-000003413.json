@@ -1,0 +1,70 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003413",
+        "WorkId": "000452",
+        "ShortTitle": "Il compendio della vita, della morte, e de\u2019 miracoli di S. Andrea Corsini.",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1629",
+        "DedicationPlaceDate": "Naples 12 February 1629",
+        "Shelfmark": "1231.a.9.",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 80",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16532",
+                "RecordID": "022-000003233",
+                "Value": "Caputo,Filocalo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15002",
+                "RecordID": "022-000001044",
+                "Value": "Basile,Giovan Battista,Count of Torone,1575-1632"
+            }
+        },
+        "Notes": "wanting the titlepage.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16638",
+                    "RecordID": "022-000003358",
+                    "Value": "Terragnolus,Iacobus,Vicar General,"
+                },
+                {
+                    "PersonId": "16682",
+                    "RecordID": "022-000003415",
+                    "Value": "de Rubeis,Ioannes Michael,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. I. Terrag. Vic. Gen.\nFr. Io. Michael de Rubeis Carmelita Theol. Dep.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16681",
+                "RecordID": "022-000003414",
+                "Value": "Canale,Gregorio,General of the Carmelite Order,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15137",
+                "RecordID": "022-000001179",
+                "Value": "Scoriggio,Lazzaro,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

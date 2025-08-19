@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16938",
+        "RecordId": "022-000003724",
+        "Surname": "Tozzi",
+        "Forename": "Luca",
+        "DateText": "1638 - 1717",
+        "StartDate": "1638",
+        "EndDate": "1717",
+        "Nationality": {
+            "NationalityId": "132",
+            "Value": "of Aversa"
+        },
+        "Notes": "Luca Tozzi was the President of the Discordanti Academy in Naples",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

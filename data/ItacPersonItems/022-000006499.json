@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19312",
+        "RecordId": "022-000006499",
+        "Surname": "Bracci",
+        "Forename": "Ignazio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Brachius"
+        },
+        "DateText": "?-after1637",
+        "StartDate": "?",
+        "EndDate": "after1637",
+        "Nationality": {
+            "NationalityId": "304",
+            "Value": "of Recanati"
+        },
+        "Notes": "Doctor of theology, Bracci lived in Rome between 1630 and 1632. His affiliation among the Lincei was discussed in 1621.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

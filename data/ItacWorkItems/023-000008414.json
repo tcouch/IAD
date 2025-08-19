@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008414",
+        "WorkId": "000952",
+        "ShortTitle": "Madrigali di Gio. Battista Leoni academico venetiano",
+        "LongTitle": "Con gli argomenti a ciascuno aggiontovi da Vincenzo Lodovici. Di nuovo dal proprio autore riveduti, corretti, et dati la quarta volta in luce",
+        "ItacAcademyItem": {
+            "AcademyId": "0100",
+            "RecordID": "021-000004905",
+            "Value": "Veneziana - Seconda (Accademia)"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1602",
+        "Shelfmark": "1062a4",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "31",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20009",
+                "RecordID": "022-000007485",
+                "Value": "Leoni,Giovanni Battista,,1542?-1613?"
+            }
+        },
+        "Notes": "The second part is dedicated to the Duke and Duchess of Ferrara. Leoni`s publication is part of a bigger collection: Giardin di rime (Venezia, Bernardo Giunti and G. B. Ciotti, 1608)",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,ca.1564-ca.1635"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55296",
+            "Value": "023-000008414_55296_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

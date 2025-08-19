@@ -1,0 +1,124 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0470",
+        "RecordId": "021-000007880",
+        "Name": "Veniera (Accademia)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "ca.1548",
+        "EndDate": "?",
+        "DateText": "ca.1548-?",
+        "Notes": "On the history of the Academy, see `The Academy of Domenico Venier, Music`s Literary Muse in Mid-Cinquecento Venice`, Renaissance Quarterly, 44 (1991), 476\u2013512. On the poetic composition of the promoter of the Academy, see Daniella Rossi, \u2018The illicit poetry of Domenico Venier: a British Library codex\u2019, in The Italianist, 30 (2010), pp. 38-62.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9247",
+                "RecordId": "022-000001543",
+                "Name": "Veniero,Dominico,,1517-1582",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20350",
+                "RecordId": "022-000008014",
+                "Name": "Molin,Girolamo,,1500-1560",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9246",
+                "RecordId": "022-000001542",
+                "Name": "Badoer,Federico,,1519-1593",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9230",
+                "RecordId": "022-000001527",
+                "Name": "Speroni degli Alvarotti,Sperone,,1500-1588",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16104",
+                "RecordId": "022-000002695",
+                "Name": "Dolce,Lodovico,,1508 - 1568",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18683",
+                "RecordId": "022-000005747",
+                "Name": "Amalteo,Giovanni Battista,,1525-1603",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20352",
+                "RecordId": "022-000008016",
+                "Name": "Spira,Fortunio,,?-ca.1560",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20351",
+                "RecordId": "022-000008015",
+                "Name": "Corso,Anton Giacomo,,fl.1550",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9231",
+                "RecordId": "022-000001528",
+                "Name": "Aretino,Pietro,,1492-1556",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20353",
+                "RecordId": "022-000008017",
+                "Name": "Parabosco,Girolamo,,1524-1557",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15946",
+                "RecordId": "022-000002510",
+                "Name": "Gradenigo,Pietro,,?-1580",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15963",
+                "RecordId": "022-000002527",
+                "Name": "Cappello,Bernardo,,1498-1565",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20774",
+                "RecordId": "022-000008601",
+                "Name": "Franco,Veronica,,1546-1591",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

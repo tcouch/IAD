@@ -1,0 +1,61 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0095",
+        "RecordId": "021-000004780",
+        "Name": "Morte (Accademia della)",
+        "AlternativeName": "Medica (Accademia)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1686",
+        "EndDate": "?",
+        "DateText": "1686-?",
+        "Notes": "The Academy was affiliated to the lay Confraternity that originated around 1350 in Ferrara with caritative purposes, in particular the care of inmates and of those who were condemned to death. See Monaldini, `Mazzaferrata`, in DBI.  Publications related to the history of the Accademia della Morte, but not in British Library collections, include: Ambrosini, Ambrogio, La morte delusa dal pietoso suffraggio prestato in Ferrara all`anime degl`estinti nell`imprese christiane contro il turco. Oratorio dedicato al merito impareggiabile dell`eminentiss., e reverendiss. sig. cardinale Nicol\u00f2 Acciaioli Legato di Ferrara. Poesia del p.d. Ambrosio Ambrosini ferrarese c.r. teatino accademico Faticoso. Musica del virtuosiss. sig. Gio. Battista Bassani dignissimo maestro della capella catedrale, e dell`illustrissima accademia della Morte (In Ferarra: per Bernardino Pomatelli, 1606); Cazzati, Maurizio, Messa Salmi e Letanie: Opera Nona di Mauritio Cazzati maestro di cappella dell`ill.ma Accademia della Morte in Ferrara (Venetia: Alessandro Vincenti, 1648); Ordini stabiliti per lo buon gouerno dell`accademia della compagnia della Morte in Ferrara consecrati all`illustrissimo, & eccellentissimo sig. il sig. marchese Francesco Fiaschi prencipe della stessa Acccademia (In Ferrara: per Giuseppe Gironi stampator episcopale, 1648); \nMotetti a due, tre e quattro voci: Opera Duodecima di Mauritio Cazzati, maestro di cappella dell`illustrissima Accademia della Morte in Ferrara (Venetia: Alessandro Vincenti, 1650); \nIl Terzo Libro de Motetti voce sola : Opera Decima Terza di Mauritio Cazzati maestro di cappella dell`illustrissima Accademia della Morte in Ferrara (Venetia: Alessandro Vincenti, 1651); \nMazzaferrata, Giovanni Battista, Canzonette e Cantate a due voci : Opera Terza / di Gio. Battista Mazza Ferrata Maestro di Cappella dell`illustriss. Accademia della Morte di Ferrara (Bologna: Giacomo Monti, 1668); Mazzaferrata, Giovanni Battista, Il Primo Libro de Madrigali a due, a tre, amorosi e morali / di Gio. Battista Mazza Ferrata, maestro di cappella dell`illustrissima Accademia della Morte di Ferrara (Bologna: Giacomo Monti, 1668); \nMazzaferrata, Giovanni Battista, Sonate a due violini con un bassetto di viola se piace del Sig.r Gio. Battista Mazzaferrata maestro di cappella dell`illustrissima Accademia della Morte di Ferrara. Libro primo. Opera Quinta (Venetia: [s.n.], 1678); \nGiustino da Ferrara, L` Absalon oratorio da farsi nel monastero de R.R. monaci Oliuetani detto di Santa Francesca di Ferrara consacrato al merito imparegiabile del reverendissimo Padre D. Luigi Bonacossi abbate digniss. del monastero sud. posto in musica dal sig. Gioseppe Tosi mastro di cappella della cattedrale, & dell`illustriss. Accademia della Morte (In Ferrara; nella Stampa Camerale, 1682); Mazzaferrata, Giovanni Battista, Il Primo libro delle Cantate da camera a voce sola del Sig.r Gio. Battista Mazzaferrata maestro di capella [!] dell`illustrissima Accademia della Morte di Ferrara. Opera Quarta (Bologna: Giacomo Monti, 1683); \nMazzaferrata, Giovanni Battista, Salmi concertati a tre e quattro voci con Violini del sig. Gio. Battista Mazzaferrata gi\u00e0 maestro di cappella dell`illustrissima Accademia della Morte di Ferrara. Opera Sesta (Venetia: Stampa del Gardano, 1684)\nAmbrosini, Ambrogio, Giona oratorio per musica all`altezza serenissima di Francesco 2. duca di Modona, Reggio, &c. Poesia del padre d. Ambrosio Ambrosini chierico regolare posto in musica, e dedicato alla medema altezza serenissima da Gio. Battista Bassani. maestro di cappella della cattedrale, e dell`accademia della Morte di Ferrara (In Modona : per gli eredi Soliani stamp. duc., 1689); \nAntonini, Antonio Fabrizio, L` immortalit\u00e0 trionfante, et il Teuere incosolabile intramezo musicale, in occasione d`accademia introdotta nella Archiconf. della morte. Per piangere la morte d`Innocenzo 11. di feliciss. memoria protetto dalla singolar piet\u00e0 dell`illustriss., e reuerend. prencipe monsig. Francesco d`Aragona proleg. digniss. della citt\u00e0 di Ferrara &c. Compositione di d. Antonio Fabrico Antonini che in segno del suo ossequio d.d.d. animata dalle note del sig. Gio. Battista Bassani mastro di cappella della cattedrale &c (In Ferrara: nella stampa camerale, 1689); \nRimena, Marco Antonio, Gl` amori tra gl`odii o sia Il Ramiro in Norvegia. Dramma per musica da rappresentarsi nel Teatro di Verona l`anno 1693 ...  [note impareggiabili del signor Gio. Battista Bassani maestro di Capella della Catedrale, e dell`illustrissima Accademia della Morte di Ferrara] (Verona: per li Merli, 1693); \nLa Maddalena pentita oratorio da cantarsi nella chiesa della archiconfraternit\u00e0 della Morte l`anno 1697. Dedicato all`eminentissimo, e reuerendissimo sig. card. Ferdinando d`Adda Legato di Ferrara, e protettore dell`accademia di detta archiconfraternit\u00e0 (In Ferrara : per il Giglio, 1697)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15445",
+                "RecordId": "022-000001958",
+                "Name": "Mazzaferrata,Giovanni Battista,Chapel Master,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20582",
+                "RecordId": "022-000008336",
+                "Name": "Aleotti,Bonaventura,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15392",
+                "RecordId": "022-000001892",
+                "Name": "Bassani,Gio. Battista,Chapel Master,1650 - 1716",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20584",
+                "RecordId": "022-000008338",
+                "Name": "Cazzati,Maurizio,,1616-1678",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20585",
+                "RecordId": "022-000008339",
+                "Name": "D`Adda,Ferdinando,Cardinal,1650-1719",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

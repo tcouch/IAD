@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9031",
+        "RecordId": "022-000001621",
+        "Surname": "Querenghi",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "DateText": "1546-1633",
+        "StartDate": "1546",
+        "EndDate": "1633",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "On Querenghi`s life, works, and academic experiences, see Uberto Motta, Antonio Querenghi (1546-1633),. Un letterato padovano nella Roma del tardo Rinascimento (Milan: Vita e pensiero, 1997).",
+        "Role": "Dedicatee|Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16577",
+        "RecordId": "022-000003295",
+        "Surname": "Sebatier",
+        "Forename": "Monsieur de",
+        "AlternativeName": {
+            "AlternativeSurname": "Sabatier",
+            "AlternativeForename": null
+        },
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Joined the Ricovrati in 1699. also member of the Academie Royale d`Arles.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

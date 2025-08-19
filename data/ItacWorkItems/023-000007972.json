@@ -1,0 +1,145 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007972",
+        "WorkId": "000907",
+        "ShortTitle": "Il Cavaliere",
+        "LongTitle": "Del Signor Antonino Ansalone Messinese Descritto in tre Libri, Nel Primo De` Quali Si ragiona delle Preminenze, che hanno ottenuto i Cavalieri: Nel Secondo De` Giuochi, che tanto a cavallo, quanto a piede esercitar si possono; Nel Terzo Del Modo, Come si Debba comparire negli spettacoli, e nelle mascherate: Et insieme dell`obligo de` Maestri di Campo: de` Padrini de` Cavalieri: de` Giudici delle feste: e de; Cavalcatore; e finalmente come ne`  veri abbattimenti si debba usare a cavallo la pistola: l`archibuso a ruota: la lancia, e la zagaglia.",
+        "ItacAcademyItem": {
+            "AcademyId": "0112",
+            "RecordID": "021-000005190",
+            "Value": "Accademia della Stella"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1629",
+        "DedicationPlaceDate": "Messina 15 August 1629",
+        "Shelfmark": "63.d.10.",
+        "Subjects": "knighthood",
+        "Language": "Italian",
+        "Illustration": "Engraved page|Academy emblem",
+        "Pagination": "pp. 175",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20316",
+                "RecordID": "022-000007973",
+                "Value": "Ansalone,Antonino,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20316",
+                    "RecordID": "022-000007973",
+                    "Value": "Ansalone,Antonino,,"
+                },
+                {
+                    "PersonId": "20317",
+                    "RecordID": "022-000007974",
+                    "Value": "Ansalone,Ascanio,,"
+                },
+                {
+                    "PersonId": "15095",
+                    "RecordID": "022-000001136",
+                    "Value": "Errico,Scipione,,1592 - 1670"
+                },
+                {
+                    "PersonId": "20318",
+                    "RecordID": "022-000007975",
+                    "Value": "La Legname,Vincenzo,,"
+                },
+                {
+                    "PersonId": "19009",
+                    "RecordID": "022-000006121",
+                    "Value": "Vistarchi,Giuseppe,,"
+                }
+            ]
+        },
+        "Notes": "This text contains an engraving representing the emblem of the Stella academy in Messina",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18227",
+                "RecordID": "022-000005211",
+                "Value": "Brea,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55242",
+            "Value": "023-000007972_55242_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55243",
+            "Value": "023-000007972_55243_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "D Ascanii Ansalonis V. I. ac S.T.D. De opere, Et Auctore Epigramma.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20316",
+                            "RecordID": "022-000007973",
+                            "Value": "Ansalone,Antonino,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A' Signori Cavalieri dell'Illustrissima Congregazione della Stella",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20316",
+                            "RecordID": "022-000007973",
+                            "Value": "Ansalone,Antonino,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Dottor Scipione Herrico",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15095",
+                            "RecordID": "022-000001136",
+                            "Value": "Errico,Scipione,,1592 - 1670"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "del signor Don Vincenzo La Legname",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20318",
+                            "RecordID": "022-000007975",
+                            "Value": "La Legname,Vincenzo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Giuseppe Vistarchi All'Autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19009",
+                            "RecordID": "022-000006121",
+                            "Value": "Vistarchi,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Istesso A' Cavalieri Della Stella In Lode Dell'Autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19009",
+                            "RecordID": "022-000006121",
+                            "Value": "Vistarchi,Giuseppe,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

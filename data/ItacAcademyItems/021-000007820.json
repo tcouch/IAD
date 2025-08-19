@@ -1,0 +1,37 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0444",
+        "RecordId": "021-000007820",
+        "Name": "Ebbri (Accademia degli)",
+        "City": {
+            "CityId": "111",
+            "CityItalianName": "Siracusa",
+            "CityEnglishName": "Syracusae",
+            "CityLatinName": "Syracuse"
+        },
+        "Motto": "Ut Loquacius (1629) Lingua Melior (1650)",
+        "StartDate": "1629",
+        "EndDate": "1753",
+        "DateText": "1629-1753",
+        "Notes": "According to to Francesco Saverio Quadrio and Alessio Narbone the Ebbri academy was founded in 1650 . Ignazio Avolio dates the foundation of the Ebbri academy to 1629. In 1753 the Ebbri academy was replaced by the Aretusei academy",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20240",
+                "RecordId": "022-000007822",
+                "Name": "Salafia,Francesco,Dominican friar,1593-1662",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19423",
+                "RecordId": "022-000006635",
+                "Name": "Gaetani ,Cesare,Count della Torre,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

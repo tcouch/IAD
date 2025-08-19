@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0409",
+        "RecordId": "021-000007732",
+        "Name": "Invigoriti (Accademia degli)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "Rock from which flows a small brook into which merge many other streams, to form a larger rivulet",
+        "Motto": "Adquirit eundo",
+        "StartDate": "1623",
+        "EndDate": "1629",
+        "DateText": "1623-1629",
+        "ItacPersonItem": {
+            "PersonId": "16591",
+            "RecordId": "022-000003309",
+            "Name": "Saviolo,Ottavio,,1653-1693",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

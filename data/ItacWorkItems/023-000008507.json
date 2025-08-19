@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008507",
+        "WorkId": "000959",
+        "ShortTitle": "Il Farnetico Savio",
+        "LongTitle": "overo Il Tasso Dialogo",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1610",
+        "Shelfmark": "1608/814",
+        "Content": "Torquato Tasso",
+        "Subjects": "Dialogue",
+        "Language": "Italian",
+        "Pagination": "62",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18365",
+                "RecordID": "022-000005383",
+                "Value": "Guarini,Alessandro,,1563-1636"
+            }
+        },
+        "Notes": "Included in Alessandro Guarini, Prose (Ferrara: V. Baldini, 1611).",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20697",
+                    "RecordID": "022-000008506",
+                    "Value": "Levaloro,Gasparo,Canon,"
+                },
+                {
+                    "PersonId": "20698",
+                    "RecordID": "022-000008508",
+                    "Value": "Scarella,Giovanni Battista,Friar,"
+                },
+                {
+                    "PersonId": "20441",
+                    "RecordID": "022-000008165",
+                    "Value": "Camp.,D.,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Ego Gaspar Levalorius Canonicus Theologus iussu idem R. P. Inquisitoris, vidi, & legi universum hunc Dialogum adm. Illustris Alexandri Guarini nihilque in eo reperi, quod catholicae fidei, aut bonis moribus adversetur, quamobrem dignum iudico typis mandari possit.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,fl.1567-\u20201618"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55346",
+            "Value": "023-000008507_55346_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

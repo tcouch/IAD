@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004662",
+        "WorkId": "000585",
+        "ShortTitle": "Vita del Cavalier Gio. Battista Marino",
+        "LongTitle": "Descritta dal Cavaliere Francesco Ferrari. All`Illustrissimo Sig.\nIl Sig. Domenico Molino",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1633",
+        "Shelfmark": "277.i.30.",
+        "Content": "Biography of Giovan Battista Marino",
+        "Subjects": "Biography",
+        "Language": "Italian",
+        "Pagination": "pp. 93",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15345",
+                "RecordID": "022-000001384",
+                "Value": "Ferrari,Francesco,,"
+            }
+        },
+        "Notes": "On p. 89-90 the author mentions Marino`s affiliation to Neapolitan Academies.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15347",
+                "RecordID": "022-000001386",
+                "Value": "Molino,Domenico,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15362",
+                "RecordID": "022-000001401",
+                "Value": "Scaglia,Giacomo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19172",
+        "RecordId": "022-000006321",
+        "Surname": "Winther",
+        "Forename": "J. B.",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Wintherius"
+            },
+            {
+                "AlternativeForename": "Giovanni Battista"
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "From Bavaria. Probably joined the Lincei in 1603. See Gabrieli, vol. I, p. 436",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

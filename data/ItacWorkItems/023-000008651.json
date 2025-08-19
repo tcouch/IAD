@@ -1,0 +1,27 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008651",
+        "WorkId": "000984",
+        "ShortTitle": "Privilegio dell`illustrissimo senato All`academia",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "DedicationPlaceDate": "Document dated 4 October 1558",
+        "Shelfmark": "John Rylands Library Aldine Collection 569",
+        "Language": "Italian",
+        "Pagination": "1 leaf",
+        "Marginalia": "No",
+        "Notes": "The privilege on the published books that the Aacademy had requested, was granted by Doge Lorenzo Priuli.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

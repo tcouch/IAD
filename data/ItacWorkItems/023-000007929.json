@@ -1,0 +1,891 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007929",
+        "WorkId": "000901",
+        "ShortTitle": "Le Muse Festegianti e Stravaga[n]ze Liriche",
+        "LongTitle": "degli Academici della Fucina",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0131",
+                "RecordID": "021-000005843",
+                "Value": "Accademia della Fucina"
+            },
+            {
+                "AcademyId": "0118",
+                "RecordID": "021-000005370",
+                "Value": "Accademia dei Riaccesi (Palermo)"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1646",
+        "Shelfmark": "1164.g.47.",
+        "Subjects": "Academic speech|Poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Y",
+        "Pagination": "pp. 232",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18780",
+                    "RecordID": "022-000005849",
+                    "Value": "Staiti,Alessandro,,"
+                },
+                {
+                    "PersonId": "18880",
+                    "RecordID": "022-000005968",
+                    "Value": "Gotho,Antonio,Senator of Messina|Knight,"
+                },
+                {
+                    "PersonId": "18919",
+                    "RecordID": "022-000006017",
+                    "Value": "Messina,Antonio,,"
+                },
+                {
+                    "PersonId": "18865",
+                    "RecordID": "022-000005950",
+                    "Value": "Ferrara,Antonino,,"
+                },
+                {
+                    "PersonId": "18840",
+                    "RecordID": "022-000005915",
+                    "Value": "Caloria,Andrea,,"
+                },
+                {
+                    "PersonId": "18783",
+                    "RecordID": "022-000005852",
+                    "Value": "Prosimi,Antonio,,"
+                },
+                {
+                    "PersonId": "18984",
+                    "RecordID": "022-000006093",
+                    "Value": "Span\u00f2,Antonino,,"
+                },
+                {
+                    "PersonId": "18952",
+                    "RecordID": "022-000006055",
+                    "Value": "Raia,Bernardo,,"
+                },
+                {
+                    "PersonId": "18828",
+                    "RecordID": "022-000005903",
+                    "Value": "Cagliostro,Bernardo,,"
+                },
+                {
+                    "PersonId": "18778",
+                    "RecordID": "022-000005847",
+                    "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                },
+                {
+                    "PersonId": "18138",
+                    "RecordID": "022-000005101",
+                    "Value": "Musarra,Carlo,,? - 1683"
+                },
+                {
+                    "PersonId": "20280",
+                    "RecordID": "022-000007930",
+                    "Value": "di Napoli,Domenico,,"
+                },
+                {
+                    "PersonId": "18781",
+                    "RecordID": "022-000005850",
+                    "Value": "Tornesi,Francesco,,"
+                },
+                {
+                    "PersonId": "18784",
+                    "RecordID": "022-000005853",
+                    "Value": "Rubb\u00e0,Francesco,,"
+                },
+                {
+                    "PersonId": "18835",
+                    "RecordID": "022-000005910",
+                    "Value": "Cib\u00f2,Francesco,,"
+                },
+                {
+                    "PersonId": "18881",
+                    "RecordID": "022-000005969",
+                    "Value": "Gotho,Giovanni,,"
+                },
+                {
+                    "PersonId": "18144",
+                    "RecordID": "022-000005107",
+                    "Value": "Ventimiglia,Giovanni,,1624 - 1665"
+                },
+                {
+                    "PersonId": "18833",
+                    "RecordID": "022-000005908",
+                    "Value": "Celi,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18816",
+                    "RecordID": "022-000005891",
+                    "Value": "Angelica,Giulio Cesare,,"
+                },
+                {
+                    "PersonId": "18867",
+                    "RecordID": "022-000005952",
+                    "Value": "Ferrara,Marco Antonio,,? - 1662"
+                },
+                {
+                    "PersonId": "18135",
+                    "RecordID": "022-000005098",
+                    "Value": "Lips\u00f2,Nicol\u00f2,,? - 1661"
+                },
+                {
+                    "PersonId": "18861",
+                    "RecordID": "022-000005945",
+                    "Value": "Donati,Pietro Paolo,,"
+                },
+                {
+                    "PersonId": "18831",
+                    "RecordID": "022-000005906",
+                    "Value": "Carbone,Pietro,,"
+                },
+                {
+                    "PersonId": "18814",
+                    "RecordID": "022-000005889",
+                    "Value": "Alifia,Scipione,,"
+                },
+                {
+                    "PersonId": "18965",
+                    "RecordID": "022-000006070",
+                    "Value": "Risica,Silvestro,,"
+                },
+                {
+                    "PersonId": "18885",
+                    "RecordID": "022-000005975",
+                    "Value": "Gregorio,Tommaso,,"
+                }
+            ]
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20281",
+                    "RecordID": "022-000007931",
+                    "Value": "Ventimiglia e Bonfiglio,Camilla,,"
+                },
+                {
+                    "PersonId": "18863",
+                    "RecordID": "022-000005948",
+                    "Value": "Fani,Luca,,"
+                },
+                {
+                    "PersonId": "18941",
+                    "RecordID": "022-000006043",
+                    "Value": "Pat\u00e8,Leonardo,,? - 1658"
+                },
+                {
+                    "PersonId": "18138",
+                    "RecordID": "022-000005101",
+                    "Value": "Musarra,Carlo,,? - 1683"
+                },
+                {
+                    "PersonId": "18881",
+                    "RecordID": "022-000005969",
+                    "Value": "Gotho,Giovanni,,"
+                },
+                {
+                    "PersonId": "19923",
+                    "RecordID": "022-000007371",
+                    "Value": "De Marco,Decio,,"
+                },
+                {
+                    "PersonId": "18981",
+                    "RecordID": "022-000006090",
+                    "Value": "Scoppa,Lorenzo,,"
+                },
+                {
+                    "PersonId": "18954",
+                    "RecordID": "022-000006057",
+                    "Value": "Reina,Placido,,? - 1671"
+                },
+                {
+                    "PersonId": "18912",
+                    "RecordID": "022-000006010",
+                    "Value": "Macr\u00ec,Francesco,,"
+                },
+                {
+                    "PersonId": "18860",
+                    "RecordID": "022-000005944",
+                    "Value": "Donati,Agostino,,1605 - 1659"
+                },
+                {
+                    "PersonId": "18976",
+                    "RecordID": "022-000006084",
+                    "Value": "Scalmato,Domenico,,"
+                },
+                {
+                    "PersonId": "18129",
+                    "RecordID": "022-000005091",
+                    "Value": "Costante,Gregorio,,"
+                },
+                {
+                    "PersonId": "18825",
+                    "RecordID": "022-000005900",
+                    "Value": "Benincasa,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18921",
+                    "RecordID": "022-000006019",
+                    "Value": "da Messina,Sigismondo,,"
+                },
+                {
+                    "PersonId": "18780",
+                    "RecordID": "022-000005849",
+                    "Value": "Staiti,Alessandro,,"
+                },
+                {
+                    "PersonId": "18880",
+                    "RecordID": "022-000005968",
+                    "Value": "Gotho,Antonio,Senator of Messina|Knight,"
+                },
+                {
+                    "PersonId": "18840",
+                    "RecordID": "022-000005915",
+                    "Value": "Caloria,Andrea,,"
+                },
+                {
+                    "PersonId": "18916",
+                    "RecordID": "022-000006014",
+                    "Value": "Massena,Antonio,,"
+                },
+                {
+                    "PersonId": "18832",
+                    "RecordID": "022-000005907",
+                    "Value": "Cavatore,Benedetto,,"
+                },
+                {
+                    "PersonId": "18778",
+                    "RecordID": "022-000005847",
+                    "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                },
+                {
+                    "PersonId": "18915",
+                    "RecordID": "022-000006013",
+                    "Value": "Margarita,Domenico,,"
+                },
+                {
+                    "PersonId": "20280",
+                    "RecordID": "022-000007930",
+                    "Value": "di Napoli,Domenico,,"
+                },
+                {
+                    "PersonId": "18781",
+                    "RecordID": "022-000005850",
+                    "Value": "Tornesi,Francesco,,"
+                },
+                {
+                    "PersonId": "18835",
+                    "RecordID": "022-000005910",
+                    "Value": "Cib\u00f2,Francesco,,"
+                },
+                {
+                    "PersonId": "18784",
+                    "RecordID": "022-000005853",
+                    "Value": "Rubb\u00e0,Francesco,,"
+                },
+                {
+                    "PersonId": "18834",
+                    "RecordID": "022-000005909",
+                    "Value": "Ciampoli,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18816",
+                    "RecordID": "022-000005891",
+                    "Value": "Angelica,Giulio Cesare,,"
+                },
+                {
+                    "PersonId": "20283",
+                    "RecordID": "022-000007933",
+                    "Value": "Vincenzo ,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18917",
+                    "RecordID": "022-000006015",
+                    "Value": "Mastori,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18833",
+                    "RecordID": "022-000005908",
+                    "Value": "Celi,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18867",
+                    "RecordID": "022-000005952",
+                    "Value": "Ferrara,Marco Antonio,,? - 1662"
+                },
+                {
+                    "PersonId": "18135",
+                    "RecordID": "022-000005098",
+                    "Value": "Lips\u00f2,Nicol\u00f2,,? - 1661"
+                },
+                {
+                    "PersonId": "18814",
+                    "RecordID": "022-000005889",
+                    "Value": "Alifia,Scipione,,"
+                },
+                {
+                    "PersonId": "18965",
+                    "RecordID": "022-000006070",
+                    "Value": "Risica,Silvestro,,"
+                }
+            ]
+        },
+        "Notes": "On p. 196, Francesco Tornesi dedicates verses to the Riaccesi Academy in Palermo",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18226",
+                    "RecordID": "022-000005209",
+                    "Value": "Cirino,Marcello,Baron of San Basilio|President of the Star Order|Senator of Messina|Knight of San Giacomo,"
+                },
+                {
+                    "PersonId": "18880",
+                    "RecordID": "022-000005968",
+                    "Value": "Gotho,Antonio,Senator of Messina|Knight,"
+                },
+                {
+                    "PersonId": "18778",
+                    "RecordID": "022-000005847",
+                    "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                },
+                {
+                    "PersonId": "20282",
+                    "RecordID": "022-000007932",
+                    "Value": "Caloria,Giovanni Leonardo,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19180",
+                    "RecordID": "022-000006330",
+                    "Value": "Isvaglia,Tomaso,Senator of Messina,"
+                },
+                {
+                    "PersonId": "17449",
+                    "RecordID": "022-000004310",
+                    "Value": "Hozes,Francesco,Senator of Messina,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5299",
+                "RecordID": "022-000000347",
+                "Value": "Ferroni,Giovanni Battista,,1588-1673"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55256",
+            "Value": "023-000007929_55256_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "All'Illustriss. e Nobiliss. Academia della Fucina. Della Signora D. Camilla Ventimiglia, e Bonfiglio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20281",
+                            "RecordID": "022-000007931",
+                            "Value": "Ventimiglia e Bonfiglio,Camilla,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Illustrissimo Senato della Nobile Citt\u00e0 di Messina. I Signori Don Marcello Cirino, Cavaliere di S. Giacomo, D. Carlo Gregori, Fra Antonino Gotho Cavaliere Gerosolimitano Gio. Leonardo Caloria, Don Francesco Hozes, Tomaso Isvaglia. Affettionatissomo Servodore Luca Fani",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18863",
+                            "RecordID": "022-000005948",
+                            "Value": "Fani,Luca,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Allegoria dell'impresa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18863",
+                            "RecordID": "022-000005948"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso Recitato Nell'Aprirsi dell'Academia della Fucina Dal D. D. Leonardo Pat\u00e8 detto Otioso. Lettore delle Greche e Latine Lettere nel publico Studio della Citt\u00e0 di Messina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18941",
+                            "RecordID": "022-000006043",
+                            "Value": "Pat\u00e8,Leonardo,,? - 1658"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dialogo Del D. D. Carlo Musarra detto L'Estinto. recitato in musica nell'aprirsi dell'Academia della Fucina nella Citt\u00e0 di Messina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18138",
+                            "RecordID": "022-000005101",
+                            "Value": "Musarra,Carlo,,? - 1683"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Poema Del Sig. Giovanni Gotho Detto Lo Stemprato, Nell'aprirsi l'Academia della Fucina, Al Signor D. Alessandro Staiti suo Cugino",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18881",
+                            "RecordID": "022-000005969",
+                            "Value": "Gotho,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Zanclae Ae Officinae Lyceorum Primo, Poesis Palladio, Camaenarum Asylo, Virtutum Sacrario . Decius De Marco restinctus Faber Ponit",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19923",
+                            "RecordID": "022-000007371",
+                            "Value": "De Marco,Decio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Fulgidae Messeniorum Officinae. Messanensium Gymnasio, Ordinarius Professor Laurentius Scoppa Obsequij Monumentum, ac Mnemofinon submiss\u00e8 Dicavit. Erexit.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18981",
+                            "RecordID": "022-000006090",
+                            "Value": "Scoppa,Lorenzo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ingeniorum Officinae Formas In Omnes Vertenti... Placidus Reyna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18954",
+                            "RecordID": "022-000006057",
+                            "Value": "Reina,Placido,,? - 1671"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Messanensi Officinae Musae Orum Celeberrimo. D. Franciscus Macri V.I.D. Inter Opifices Rigidua Alumnus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18912",
+                            "RecordID": "022-000006010",
+                            "Value": "Macr\u00ec,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Leonardi Pat\u00e8 In Academia Officinae Otiosi Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18941",
+                            "RecordID": "022-000006043",
+                            "Value": "Pat\u00e8,Leonardo,,? - 1658"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Idem Latine.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18941",
+                            "RecordID": "022-000006043",
+                            "Value": "Pat\u00e8,Leonardo,,? - 1658"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A.R.P. Augustini Donati Clericorum Regularium Monorum In Academia Officinae Mutuli Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18860",
+                            "RecordID": "022-000005944",
+                            "Value": "Donati,Agostino,,1605 - 1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eiusdem Ad Mamertinos.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18860",
+                            "RecordID": "022-000005944",
+                            "Value": "Donati,Agostino,,1605 - 1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eiusdem Ad Eosdem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18860",
+                            "RecordID": "022-000005944",
+                            "Value": "Donati,Agostino,,1605 - 1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eiusdem Ad Poetas",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18860",
+                            "RecordID": "022-000005944",
+                            "Value": "Donati,Agostino,,1605 - 1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Decii De Marco In Academia Officinae Restincti. Ode",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19923",
+                            "RecordID": "022-000007371",
+                            "Value": "De Marco,Decio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eiusdem. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19923",
+                            "RecordID": "022-000007371",
+                            "Value": "De Marco,Decio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eiusdem Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19923",
+                            "RecordID": "022-000007371",
+                            "Value": "De Marco,Decio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "V.I.D. Dominici Scalmato In Academia Officinae Fuliginosi. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18976",
+                            "RecordID": "022-000006084",
+                            "Value": "Scalmato,Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eiusdem Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18976",
+                            "RecordID": "022-000006084",
+                            "Value": "Scalmato,Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gregorii Constantii In Academia Officinae Humidi. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18129",
+                            "RecordID": "022-000005091",
+                            "Value": "Costante,Gregorio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "V.I.D. Ioseph Benincasa In Academia Officinae Inariditi. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18825",
+                            "RecordID": "022-000005900",
+                            "Value": "Benincasa,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Admodum Rev. Patris D. Sigismundi A Messana Congregationis Cassinensis In Fucina Academia Obtenebrati Ad Hospitem. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18921",
+                            "RecordID": "022-000006019",
+                            "Value": "da Messina,Sigismondo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Lode Dell'Academia Della Fucina del Sig. D. Alessandro Staiti Detto L'Ottuso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18780",
+                            "RecordID": "022-000005849",
+                            "Value": "Staiti,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Sig. Cavalier Fr. Antonino Gotho Detto L'Oppresso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18880",
+                            "RecordID": "022-000005968",
+                            "Value": "Gotho,Antonio,Senator of Messina|Knight,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del D. D. Andrea Caloria detto L'Inutile",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18840",
+                            "RecordID": "022-000005915",
+                            "Value": "Caloria,Andrea,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Sig. D. Antonio Massena Detto Lo Svegliato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18916",
+                            "RecordID": "022-000006014",
+                            "Value": "Massena,Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Sig. D. Benedetto Cavatore Detto Il Gelido",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18832",
+                            "RecordID": "022-000005907",
+                            "Value": "Cavatore,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo Soggetto Del Dr. D. Carlo Musarra Detto L'Estinto, Segretario Dell'Academia.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18138",
+                            "RecordID": "022-000005101",
+                            "Value": "Musarra,Carlo,,? - 1683"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo Soggetto Del Sig. D. Carlo Gregori detto Il Roco",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18778",
+                            "RecordID": "022-000005847",
+                            "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Dell'Istesso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18778",
+                            "RecordID": "022-000005847",
+                            "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Dell'Istesso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18778",
+                            "RecordID": "022-000005847",
+                            "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Sig. Decio Di Marco Detto Lo Spento",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19923",
+                            "RecordID": "022-000007371",
+                            "Value": "De Marco,Decio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Fucina Academia Anagramma In Ciel Vada La Fama Di D. Domenico Margarita Detto Il Trasformato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18915",
+                            "RecordID": "022-000006013",
+                            "Value": "Margarita,Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto Del M.R.P.F. Domenico Lieto Di Napoli. Del Terzo Ordine Di S. Francesco. Detto Il Fragile",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20280",
+                            "RecordID": "022-000007930",
+                            "Value": "di Napoli,Domenico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo Soggetto. Del Dr. Francesco Tornesi Detto L'Impuro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18781",
+                            "RecordID": "022-000005850",
+                            "Value": "Tornesi,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Sig. Francesco Cib\u00f2 Detto Il Rozzo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18835",
+                            "RecordID": "022-000005910",
+                            "Value": "Cib\u00f2,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Dr. D. Francesco Rubb\u00e0 Detto Lo Scaltro.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18784",
+                            "RecordID": "022-000005853",
+                            "Value": "Rubb\u00e0,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Sig. Giovanni Gotho Detto Lo Stemprato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18881",
+                            "RecordID": "022-000005969",
+                            "Value": "Gotho,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo Soggetto. Del Sig. Giuseppe Ciampoli Detto L'Eccitato.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18834",
+                            "RecordID": "022-000005909",
+                            "Value": "Ciampoli,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo Soggetto. Del Sig. Giulio Cesare Angelica Detto L'Intrattabile",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18816",
+                            "RecordID": "022-000005891",
+                            "Value": "Angelica,Giulio Cesare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Dr. D. Giuseppe Vincenzo Detto Il Misto.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20283",
+                            "RecordID": "022-000007933",
+                            "Value": "Vincenzo ,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Sggetto. Del Sig. D. Giuseppe Mastori Detto Il Pronto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18917",
+                            "RecordID": "022-000006015",
+                            "Value": "Mastori,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo Soggetto. Del Sig. Giuseppe Celi Detto Il Neghittoso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18833",
+                            "RecordID": "022-000005908",
+                            "Value": "Celi,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Sig. Marc'Antonio Ferrari Detto Il Sopito",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18867",
+                            "RecordID": "022-000005952",
+                            "Value": "Ferrara,Marco Antonio,,? - 1662"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Dr. D. Nicol\u00f2 Lips\u00f2 Detto Il Dissonante.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18135",
+                            "RecordID": "022-000005098",
+                            "Value": "Lips\u00f2,Nicol\u00f2,,? - 1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo Soggetto. Del Sig. D. Scipione Alifia detto Il Languido.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18814",
+                            "RecordID": "022-000005889",
+                            "Value": "Alifia,Scipione,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo Soggetto. Del Sig. Silvestro Risica Detto L'Affinato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18965",
+                            "RecordID": "022-000006070",
+                            "Value": "Risica,Silvestro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Soggetto. Del Cav. F. D. Tomaso Gregori Detto L'Agghiacciato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18965",
+                            "RecordID": "022-000006070"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

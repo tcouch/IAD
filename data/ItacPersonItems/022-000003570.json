@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16821",
+        "RecordId": "022-000003570",
+        "Surname": "Sozzini",
+        "Forename": "Fausto",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Soccini"
+            },
+            {
+                "AlternativeSurname": "Socinus"
+            }
+        ],
+        "DateText": "1539-1604",
+        "StartDate": "1539",
+        "EndDate": "1604",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "According to some sources, he was admitted to the Accademia dei Sizienti in Bologna by his uncle Celso.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

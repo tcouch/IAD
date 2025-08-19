@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19586",
+        "RecordId": "022-000006907",
+        "Surname": "Brasavola",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "DateText": "1628-1705",
+        "StartDate": "1628",
+        "EndDate": "1705",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Founder of the Congresso Medico Romano, in 1681",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

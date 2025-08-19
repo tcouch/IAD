@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20471",
+        "RecordId": "022-000008201",
+        "Surname": "Lollio",
+        "Forename": "Alberto",
+        "DateText": "1508-1569",
+        "StartDate": "1508",
+        "EndDate": "1569",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Founder of the Elevati Academy in Ferrara. See his biography by Valentina Gallo in DBI",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

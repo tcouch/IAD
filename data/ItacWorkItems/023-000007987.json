@@ -1,0 +1,137 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007987",
+        "WorkId": "000911",
+        "ShortTitle": "Raguagli Historici Del Vespro Siciliano",
+        "LongTitle": "Del Dottor Don Filadelfo Mugnos, Prades, Castelli, Arbea, & Aragona Cavalier dell`Habito di Cristo dell`Ordine di Portogallo. In questa seconda impressione di miglior forma ridotti, sovra la stessa materia ampliati, e corretti d`alcuni errori, E nel fine in memoria della real grandezza di Filippo IV. R\u00e8, e Monarca delle Spagne il mantenimento, & acquisto fatto da Carlo Stuardo del suo Regno d`Inghilterra, con l`incontrati applausi, feste, pompe, e donativi, che quello hebbe.\nCon un Catalogo Cronologico, over Indice di tutti i Baiuli, Pretori, Capitani, Senatori, e Governatori della Felicissima Citt\u00e0 di Palermo, dal loro principio fin`al presente giorno; e materie successe ne` loro tempi. Et una copiosa Tavola di tutte le cose notabili contenite in essi.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1669",
+        "DedicationPlaceDate": "Palermo 1 May 1669",
+        "Shelfmark": "175.a.19.",
+        "Subjects": "History of Sicily",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 368",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20322",
+                "RecordID": "022-000007981",
+                "Value": "Mugnos,Filadelfo,,1607-1675"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20334",
+                    "RecordID": "022-000007996",
+                    "Value": "Ansalone,Paolo,Prince of Roccapalumba,"
+                },
+                {
+                    "PersonId": "20335",
+                    "RecordID": "022-000007997",
+                    "Value": "Garzia,Giuseppe,Marquis of Savochetta,"
+                },
+                {
+                    "PersonId": "20336",
+                    "RecordID": "022-000007998",
+                    "Value": "di Giovanne,Gaspare,,"
+                },
+                {
+                    "PersonId": "20338",
+                    "RecordID": "022-000008000",
+                    "Value": "Pilo,Pietro,,"
+                },
+                {
+                    "PersonId": "20339",
+                    "RecordID": "022-000008001",
+                    "Value": "Caravello,Giuseppe,,"
+                },
+                {
+                    "PersonId": "20341",
+                    "RecordID": "022-000008003",
+                    "Value": "Bergallo,Geronimo,,"
+                },
+                {
+                    "PersonId": "20340",
+                    "RecordID": "022-000008002",
+                    "Value": "Galisi,Bartolomeo,Baron of Granciditi,"
+                },
+                {
+                    "PersonId": "20330",
+                    "RecordID": "022-000007992",
+                    "Value": "Caetano e Morra,Francesco,Knight of San Giacomo|Senator of Palermo,"
+                },
+                {
+                    "PersonId": "20326",
+                    "RecordID": "022-000007988",
+                    "Value": "Gravina e Cruillas,Geronimo,Prince of Gravina|Marquis of Monpelieri Pretore|Senator of Palermo,"
+                },
+                {
+                    "PersonId": "20327",
+                    "RecordID": "022-000007989",
+                    "Value": "l`Algaria,Mariano,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "20328",
+                    "RecordID": "022-000007990",
+                    "Value": "Cannizares,Francesco,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "20329",
+                    "RecordID": "022-000007991",
+                    "Value": "Fardella,Gabriele,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "20331",
+                    "RecordID": "022-000007993",
+                    "Value": "Galletti,Alessandro,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "20332",
+                    "RecordID": "022-000007994",
+                    "Value": "Texera e Albornoz,Antonio,Senator of Palermo|Knight of the Order of Christ (Portugal),"
+                },
+                {
+                    "PersonId": "20333",
+                    "RecordID": "022-000007995",
+                    "Value": "Interlandi,Michelangelo,Baron of Favarotta,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20342",
+                "RecordID": "022-000008004",
+                "Value": "D`Anselmo,Domenico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55249",
+            "Value": "023-000007987_55249_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Sonetto dell'autore per dubbio de' critici",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20322",
+                        "RecordID": "022-000007981",
+                        "Value": "Mugnos,Filadelfo,,1607-1675"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

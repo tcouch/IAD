@@ -1,0 +1,89 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005930",
+        "WorkId": "000705",
+        "ShortTitle": "La dispettosa moglie",
+        "LongTitle": "Comedia di Giovanni Briccio Romano della Congrega dei Taciturni. dove si mostra quanto sia precipitoso lo sdegno delle donne. Al molto illsutre et Reverendiss. Sig. il Sig. Alberto Magno Crocifero di N. S.",
+        "ItacAcademyItem": {
+            "AcademyId": "0135",
+            "RecordID": "021-000005919",
+            "Value": "Congrega dei Taciturni"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1612",
+        "DedicationPlaceDate": "Rome 30 January 1611",
+        "Shelfmark": "638a23(3)|1071l8(6)",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "89",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18842",
+                "RecordID": "022-000005918",
+                "Value": "Bricci,Giovanni,,1579 - 1645"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9667",
+                    "RecordID": "022-000001836",
+                    "Value": "Maravegia,Gio.,,"
+                },
+                {
+                    "PersonId": "18850",
+                    "RecordID": "022-000005931",
+                    "Value": "Bertuzzi Valier,,,"
+                },
+                {
+                    "PersonId": "17781",
+                    "RecordID": "022-000004686",
+                    "Value": "Pasqualigo,Filippo,,"
+                },
+                {
+                    "PersonId": "17782",
+                    "RecordID": "022-000004687",
+                    "Value": "Belegno,Giust`Antonio,,"
+                },
+                {
+                    "PersonId": "15360",
+                    "RecordID": "022-000001399",
+                    "Value": "Cominus,Barth[olomeus],,"
+                },
+                {
+                    "PersonId": "15361",
+                    "RecordID": "022-000001400",
+                    "Value": "Breatto,Io[annes] Bapt[ista],,"
+                }
+            ]
+        },
+        "CensorsAgreement": "COPIA Li Eccellentissimi signori Capi dell`Eccellentissimo Conseglio di dieci infrascritti havuta fede dalli Signori Riformatori del Studio di Padova per relatione a loro fatta dal circonspetto Segretario del Senato Gio: Maraveglia con giuramento, che nel libro intitolato La dispettosa moglie Comedia di Giovanni Briccio Romano non si trova cosa contro le leggi et e` degno di stampa, concedono licenza, che possa esser stampato in questa Citta`. Dat. Die xj Ottob. 1611 D. Bertuzzi Valier D. Filippo Pasqualigo D. Giust`Ant. Belegno Capi dell`Eccellentiss. Cons di X --- Illustriss. Cons. X Secret. Barthol. Cominus 1611 adi 11 Ottobre. Registrato in libro a carte 89 tergo. Io Battista Breatto {...} Cont Blasph.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18852",
+                "RecordID": "022-000005933",
+                "Value": "Magno,Alberto,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18851",
+                "RecordID": "022-000005932",
+                "Value": "Imberti,Domenico,,"
+            }
+        },
+        "PrinterOrnament": "V255 Z361",
+        "TitlePageImage": {
+            "ImageId": "54485",
+            "Value": "023-000005930_54485_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0274",
+        "RecordId": "021-000006929",
+        "Name": "Accademia del piacere onesto",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Hive with bees flying towards it",
+        "Motto": "Utile dulci",
+        "StartDate": "1602?",
+        "DateText": "1602?",
+        "Notes": "The academy sessions were held in the house of Curzio Guidotti.",
+        "ItacPersonItem": {
+            "PersonId": "19591",
+            "RecordId": "022-000006928",
+            "Name": "Guidotti,Curcio,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

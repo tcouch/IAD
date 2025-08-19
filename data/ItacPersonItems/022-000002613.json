@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16042",
+        "RecordId": "022-000002613",
+        "Surname": "de Cabrera",
+        "Forename": "Juan Alfonso Enr\u00edquez",
+        "PersonalTitle": "viceroy of Naples|Viceroy of Sicily",
+        "DateText": "1597-1647",
+        "StartDate": "1597",
+        "EndDate": "1647",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

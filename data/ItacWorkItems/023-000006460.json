@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006460",
+        "WorkId": "000776",
+        "ShortTitle": "Crispus Tragoedia",
+        "LongTitle": "Bernardini Stephonii Sabini Presbyteri e Societate Iesu",
+        "ItacAcademyItem": {
+            "AcademyId": "0153",
+            "RecordID": "021-000006443",
+            "Value": "Accademia Partenia (Roma)"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "75",
+            "PublicationPlaceItalianName": "Anversa",
+            "PublicationPlaceEnglishName": "Antwerp",
+            "PublicationPlaceLatinName": "Antuerpia"
+        },
+        "PublicationYear": "1606",
+        "Shelfmark": "11408a41",
+        "Subjects": "Tragedy|Theatre",
+        "Language": "Latin",
+        "Pagination": "225-349",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18179",
+                "RecordID": "022-000005156",
+                "Value": "Stefonio,Bernardino,,1560 - 1620"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18179",
+                "RecordID": "022-000005156",
+                "Value": "Stefonio,Bernardino,,1560 - 1620"
+            }
+        },
+        "Notes": "The text is part of a volume entitled Franscisci Remondi Societatis Iesu epigrammata et Elegiae (1606). Another copy in Selectae Patres Soc. Iesu Tragoediae (Antwerp, 1624).",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19276",
+                "RecordID": "022-000006461",
+                "Value": "Trognaesium,Ioachinum,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Sodalibus Illustrissimae congregationis primariae B. Mariae virginis annuntiatae Academicis Parteniis Bernardinus Stephonius Societatis Iesu S. D.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "18179",
+                        "RecordID": "022-000005156",
+                        "Value": "Stefonio,Bernardino,,1560 - 1620"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

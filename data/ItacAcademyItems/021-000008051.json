@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0519",
+        "RecordId": "021-000008051",
+        "Name": "Indefessi-Ferrara (Accademia degli)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1576",
+        "EndDate": "?",
+        "DateText": "1576-?",
+        "ItacPersonItem": {
+            "PersonId": "20512",
+            "RecordId": "022-000008251",
+            "Name": "Romagnoli,Girolamo,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

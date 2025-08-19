@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002864",
+        "WorkId": "000370",
+        "ShortTitle": "L`Hercolano Dialogo",
+        "LongTitle": "di Messer Benedetto Varchi, nel qual si ragiona generalmente delle lingue, et in particolare della toscana, e della fiorentina. composto da lui sulla occasione della disputa occorsa tra `l comendator Caro, e M. Ludovico Castelvetro Nuovamente stampato, con una tavola pienissima nel fine di tutte le cose notabili, che nell`opera si contengono. Con licenza, e privilegio per anni X",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1570",
+        "DedicationPlaceDate": "Florence 1st July 1570",
+        "Shelfmark": "C.75.b.19",
+        "Subjects": "Linguistics",
+        "Language": "Italian",
+        "Pagination": "[14] 282 [34]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9206",
+                "RecordID": "022-000001503",
+                "Value": "Varchi,Benedetto,,1503 - 1565"
+            }
+        },
+        "Notes": "Mentions discussions about Italian language in the Accademia degli Infiammati. The date on the titlepage has been altered to 1580.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15752",
+                "RecordID": "022-000002297",
+                "Value": "de` Medici,Francesco I,Grand Duke of Tuscany,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16225",
+                "RecordID": "022-000002863",
+                "Value": "Giunti,Filippo e fratelli,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16225",
+                "RecordID": "022-000002863",
+                "Value": "Giunti,Filippo e fratelli,,"
+            }
+        },
+        "PrinterOrnament": "U384|A51 |Z654",
+        "TitlePageImage": {
+            "ImageId": "53388",
+            "Value": "023-000002864_53388_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

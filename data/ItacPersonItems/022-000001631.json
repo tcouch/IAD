@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9040",
+        "RecordId": "022-000001631",
+        "Surname": "Leoni",
+        "Forename": "Checco",
+        "Gender": "Male",
+        "DateText": "fl.1600-1646",
+        "StartDate": "fl.1600",
+        "EndDate": "1646",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1600. In this Academy he was `assistente alla musica`. Leoni was prince of the Academy in 1645-46.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16187",
+        "RecordId": "022-000002812",
+        "Surname": "d`Este",
+        "Forename": "Luigi",
+        "Gender": "Male",
+        "PersonalTitle": "Bishop of Ferrara|Cardinal",
+        "DateText": "1538-1586",
+        "StartDate": "1538",
+        "EndDate": "1586",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "sponsor of the Agevoli Academy, in Tivoli, and the Incitati Academy, in Rome.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

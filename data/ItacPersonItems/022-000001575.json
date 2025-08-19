@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9003",
+        "RecordId": "022-000001575",
+        "Surname": "Selvatico",
+        "Forename": "Bartolommeo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Salvatico"
+        },
+        "PersonalTitle": "Knight of San Marco",
+        "DateText": "1533-1603",
+        "StartDate": "1533",
+        "EndDate": "1603",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Nobleman. Professor of Law at the Paduan studio. Joined the Ricovrati in 1599. His portrait comes from Tomasini, Illustrium virorum elogia (1630)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

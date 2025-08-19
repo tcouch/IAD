@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008685",
+        "WorkId": "000997",
+        "ShortTitle": "Instrumento tra alcuni de gli academici accettato ne` banchi",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1560",
+        "DedicationPlaceDate": "10 marzo 1560",
+        "Shelfmark": "John Rylands Aldine Collection 641",
+        "Subjects": "Notary deed",
+        "Language": "Italian|Latin",
+        "Pagination": "2 leaves",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20821",
+                    "RecordID": "022-000008675",
+                    "Value": "Celega,Io. Maria,,"
+                },
+                {
+                    "PersonId": "20809",
+                    "RecordID": "022-000008659",
+                    "Value": "Bianco,Carlo,,"
+                },
+                {
+                    "PersonId": "20807",
+                    "RecordID": "022-000008657",
+                    "Value": "Cigrigni,Niccolo`,,"
+                }
+            ]
+        },
+        "Notes": "Names mentioned in the text are: Zuane Badoaro, Morlupino Morlupino, Andrea Zorzi, Marc`Antonio Valaresso, Antonio Girardo, Zuane Ulstat  `fo del del mag. M. Marco nobile et mercante augustano, Camillo Besalio, Vincenzo Alessandri, Celio Magno, Alessandro Magno,",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

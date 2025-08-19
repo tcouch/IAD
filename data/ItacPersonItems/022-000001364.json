@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15325",
+        "RecordId": "022-000001364",
+        "Surname": "Philip IV",
+        "PersonalTitle": "King of Spain",
+        "DateText": "1605-1655",
+        "StartDate": "1605",
+        "EndDate": "1655",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Dedicatee",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

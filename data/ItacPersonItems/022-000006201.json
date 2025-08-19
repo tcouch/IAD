@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19078",
+        "RecordId": "022-000006201",
+        "Surname": "Bona",
+        "Forename": "Maurizio",
+        "Gender": "Male",
+        "DateText": "ca.1578-1643",
+        "StartDate": "ca.1578",
+        "EndDate": "1643",
+        "Nationality": {
+            "NationalityId": "285",
+            "Value": "of Camerino"
+        },
+        "Notes": "See Franchi, Impressioni sceniche, for details about Bona`s publications.",
+        "Role": "Printer|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9646",
+        "RecordId": "022-000001780",
+        "Surname": "Valier",
+        "Forename": "Silvestro",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Valiero"
+        },
+        "PersonalTitle": "Doge",
+        "DateText": "1630-1700",
+        "StartDate": "1630",
+        "EndDate": "1700",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Patron of the Ricovrati in 1680. Both his portraits are taken from Ritratti de celebri personaggi (1697).",
+        "Role": "Dedicatee|Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

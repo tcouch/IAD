@@ -1,0 +1,36 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0506",
+        "RecordId": "021-000008038",
+        "Name": "Confusi-Ferrara (Accademia dei)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1623",
+        "EndDate": "?",
+        "DateText": "1623-?",
+        "Notes": "According to Maylender, vol. 2, ad vocem (who quotes Baruffaldi, Notizie istoriche..., p. 32), one publication, related to the history of this Academy, but not in British Library collections is: Berni, Francesco, L` omicidio amoroso di Radamisto discorso accademico di Francesco Berni tratto da un testo nel dodicesimo de gli annali di Tacito (In Ferrara: per Francesco Suzzi stamp. cam., 1640), which was dedicated to Alessandro Canani, and apparently was read in the Confusi Academy, in the presence of Cardinal Rocci, Papal Legate in Ferrara.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20469",
+                "RecordId": "022-000008199",
+                "Name": "Giannini,Tommaso,,ca.1550-ca.1630",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20460",
+                "RecordId": "022-000008190",
+                "Name": "Berni,Francesco,,1610-1673",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0362",
+        "RecordId": "021-000007352",
+        "Name": "Difesi (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Bay tree",
+        "Motto": "Sibi sola tutamen",
+        "StartDate": "1654?",
+        "EndDate": "1660?",
+        "DateText": "1654?-1660?",
+        "Notes": "Probably founded by Giovanfrancesco Loredan. Publications, not in British Library collections, include: Primi studi di Antonio Loredano nobile veneto. Diuisi in traduttioni, discorsi, e sentenze Seconda impressione (Venetia: appresso li Guerigli, 1660) - contains at c. D8: Discorsi havuti nell`Accademia de` sig. Difesi di Venetia; Bernardo, Michele, Nella morte del signor Gio. Battista Fuoli protomedico della sanit\u00e0 in Venetia. Al signor Giuseppe Aromatario fisico celeberrimo. Oda del sig. dottor Michele Bernardi, academico ricovrato, difeso, cruscante, e fra gli signori inanimiti di Venetia, il Filotarso (Venezia?, 1654 ca). See Cicogna, Saggio di bibliografia veneziana for this discourse.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19907",
+                "RecordId": "022-000007351",
+                "Name": "Loredano,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20197",
+                "RecordId": "022-000007723",
+                "Name": "Bernardi,Michele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17761",
+                "RecordId": "022-000004663",
+                "Name": "Loredano,Giovanni Francesco,,1607-1661",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

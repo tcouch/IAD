@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9046",
+        "RecordId": "022-000001637",
+        "Surname": "de` Dottori",
+        "Forename": "Carlo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Dottorius",
+            "AlternativeForename": "Carolus"
+        },
+        "Pseudonym": "Iroldo Crotta",
+        "DateText": "1618-1686",
+        "StartDate": "1618",
+        "EndDate": "1686",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "For a bio-bibliogrphical study, see Carlo de` Dottori e la cultura padovana del suo tempo (1990); Natale Busetto, Carlo de` Dottori. Letterato padovano del secolo decimosettimo (1902), and Gennari (1796).",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

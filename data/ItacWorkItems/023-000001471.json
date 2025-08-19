@@ -1,0 +1,69 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001471",
+        "WorkId": "00163",
+        "ShortTitle": "Delle lettere di M. Claudio Tolomei libri sette.",
+        "LongTitle": "Con nuova aggiunta ristampate et con somma diligenza corrette.",
+        "ItacAcademyItem": {
+            "AcademyId": "0018",
+            "RecordID": "021-000001454",
+            "Value": "Accademia degli Affumati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1585",
+        "DedicationPlaceDate": "Rome 12 May 1544",
+        "Shelfmark": "1084.f.17",
+        "Language": "Italian|Greek",
+        "Pagination": "pp. 295r-v",
+        "Marginalia": "No",
+        "Edition": "5th",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7551",
+                "RecordID": "022-000001455",
+                "Value": "Tolomei,Claudio,Bishop,1492-1555/6"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "7551",
+                "RecordID": "022-000001455",
+                "Value": "Tolomei,Claudio,Bishop,1492-1555/6"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7555",
+                "RecordID": "022-000001459",
+                "Value": "Grimaldi,Giovambattista,,c. 1524-c. 1612"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7558",
+                "RecordID": "022-000001462",
+                "Value": "Cornetti,Iacomo,,fl.1584 - 1592"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "A M[esser] Trifon Benzio",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "7551",
+                        "RecordID": "022-000001455",
+                        "Value": "Tolomei, Claudio, bishop, 1492-1555/6"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5100",
+        "RecordId": "022-000000097",
+        "Surname": "Abelli",
+        "Forename": "Cesare",
+        "Gender": "Male",
+        "DateText": "fl.1590-1683",
+        "StartDate": "fl.1590",
+        "EndDate": "1683",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "For Abelli`s nickname among the Gelati, see Calore, `La biblioteca drammatica`, p. 71.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

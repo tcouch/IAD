@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5495",
+        "RecordId": "022-000000482",
+        "Surname": "Campeggi",
+        "Forename": "Annibale",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Campegi",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Count",
+        "DateText": "1593-1630",
+        "StartDate": "1593",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "161",
+            "Value": "of Pavia"
+        },
+        "Notes": "It is not clear whether he is the same person that we find in the Accademia degli Ardenti. His biography by G. Benzoni, in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

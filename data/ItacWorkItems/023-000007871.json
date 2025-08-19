@@ -1,0 +1,48 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007871",
+        "WorkId": "000883",
+        "ShortTitle": "Breve discorso intorno alla narratione poetica",
+        "LongTitle": "Fatto nell`Accademia degli Uranici: Dal quale si comprende la misteriosa forma dell`antico uso  del ben poetare nell`heroico componimento; di M. Gio. Mario Verdizotti, Academico Uranico",
+        "ItacAcademyItem": {
+            "AcademyId": "0462",
+            "RecordID": "021-000007865",
+            "Value": "Accademia degli Uranici"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1583",
+        "Shelfmark": "11826d40",
+        "Subjects": "Heroic poem|Poetry",
+        "Language": "Italian",
+        "Pagination": "12",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17694",
+                "RecordID": "022-000004589",
+                "Value": "Verdizzotti,Giovanni Mario,,1525-1600"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17583",
+                "RecordID": "022-000004477",
+                "Value": "Dandolo,Girolamo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17610",
+                "RecordID": "022-000004504",
+                "Value": "Somasco,Giovanni Battista,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

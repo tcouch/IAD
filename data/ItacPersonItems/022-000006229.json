@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19102",
+        "RecordId": "022-000006229",
+        "Surname": "Gonzaga",
+        "Forename": "Vincenzo",
+        "Gender": "Male",
+        "PersonalTitle": "Duke of Mantua",
+        "DateText": "1562-1612",
+        "StartDate": "1562",
+        "EndDate": "1612",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

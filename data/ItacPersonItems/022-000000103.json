@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5106",
+        "RecordId": "022-000000103",
+        "Surname": "Capodilista",
+        "Forename": "Transalgardo",
+        "Gender": "Male",
+        "DateText": "?-1636",
+        "StartDate": "?",
+        "EndDate": "1636",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Joined the Ricovrati in 1619. He was also member of the Accademia degli Zitoclei.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

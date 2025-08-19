@@ -1,0 +1,138 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000830",
+        "WorkId": "00054",
+        "ShortTitle": "Maria Egittiaca poemetto sacro di Raffaele Rabbia Nell`Accademia de` Selvaggi l`Agitato",
+        "LongTitle": "All` Illustrissimo e Reverendissimo Signor il Cardinale Lodovisi Arcivescovo di Bologna",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0011",
+                "RecordID": "021-000000779",
+                "Value": "Accademia dei Selvaggi"
+            },
+            {
+                "AcademyId": "0011",
+                "RecordID": "021-000000779",
+                "Value": "Selvaggi (Accademia dei)"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1618",
+        "Shelfmark": "11427.de.20",
+        "Subjects": "Sacred poetry",
+        "Language": "Italian",
+        "Pagination": "112",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5018",
+                "RecordID": "022-000000020",
+                "Value": "Rabbia,Raffaele,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5039",
+                    "RecordID": "022-000000041",
+                    "Value": "Campeggi,Ridolfo,Count,1565-1624"
+                },
+                {
+                    "PersonId": "5116",
+                    "RecordID": "022-000000113",
+                    "Value": "Capponi,Giovanni,,1586-1629"
+                },
+                {
+                    "PersonId": "5278",
+                    "RecordID": "022-000000267",
+                    "Value": "Valesio,Giovanni,,1561 - 1640"
+                },
+                {
+                    "PersonId": "5605",
+                    "RecordID": "022-000000671",
+                    "Value": "Marino,Giambattista,,1569-1625"
+                },
+                {
+                    "PersonId": "7007",
+                    "RecordID": "022-000000801",
+                    "Value": "Poggiolini,Roberto,,fl.1618"
+                },
+                {
+                    "PersonId": "7008",
+                    "RecordID": "022-000000802",
+                    "Value": "Quirini,Cesare,,"
+                },
+                {
+                    "PersonId": "7009",
+                    "RecordID": "022-000000803",
+                    "Value": "Quirini,Leonardo,,"
+                },
+                {
+                    "PersonId": "7010",
+                    "RecordID": "022-000000804",
+                    "Value": "Montanari,Pomponio,,"
+                },
+                {
+                    "PersonId": "7012",
+                    "RecordID": "022-000000806",
+                    "Value": "Vaccari,Marc`Antonio,,"
+                },
+                {
+                    "PersonId": "6019",
+                    "RecordID": "022-000000751",
+                    "Value": "Spada,Lionello,,1576-1622"
+                }
+            ]
+        },
+        "Notes": "On the engraver see The illustrated Bartsch vol. 40 ed. V. Birke.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5150",
+                    "RecordID": "022-000000215",
+                    "Value": "De Bonis,Homobonus,,"
+                },
+                {
+                    "PersonId": "5233",
+                    "RecordID": "022-000000225",
+                    "Value": "de Garex,Paulus,,\u20201643"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Homobonus de Bonis Poenitent. Pro Illustriss. Et Reverendiss. Card. Archiepisc. Bonon. | Imprimatur | Fr. Hieronymus Onuphrius Romanus Theologus Bon. Collegiatus atque ibidem publicus lector ac Sanctissime Inquisitionis Consultor pro Reverendiss. M. Paulo de Garrexio Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5281",
+                "RecordID": "022-000000319",
+                "Value": "Lodovisi,Lodovico,Cardinal,1595 - 1632"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5278",
+                "RecordID": "022-000000267",
+                "Value": "Valesio,Giovanni,,1561 - 1640"
+            }
+        },
+        "EngraverReference": "Bartsch4002.195",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5274",
+                "RecordID": "022-000000264",
+                "Value": "Benacci,Vittorio,,1571 - 1629"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52665",
+            "Value": "023-000000830_52665_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

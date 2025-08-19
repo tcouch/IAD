@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001470",
+        "WorkId": "00162",
+        "ShortTitle": "Delle lettere di M. Claudio Tolomei libri sette.",
+        "LongTitle": "Con privilegio del Sommo Pontefice Paulo III de lo invittissimo imperador Carlo Quinto de lo illustrissimo Senato veneto et d`altri prencipi",
+        "ItacAcademyItem": {
+            "AcademyId": "0018",
+            "RecordID": "021-000001454",
+            "Value": "Accademia degli Affumati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1554",
+        "DedicationPlaceDate": "Rome 12 May 1543",
+        "Shelfmark": "246.k.26 | 1084.f.15",
+        "Language": "Italian|Greek",
+        "Pagination": "pp. 296r-v plus Index unnumbered",
+        "Marginalia": "Yes",
+        "Edition": "4th",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7551",
+                "RecordID": "022-000001455",
+                "Value": "Tolomei,Claudio,Bishop,1492-1555/6"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "7551",
+                "RecordID": "022-000001455",
+                "Value": "Tolomei,Claudio,Bishop,1492-1555/6"
+            }
+        },
+        "Notes": "Marginalia in 246.k.26 copy bear the name of [Orazio] Pallavicino and other interesting comments plus sentences in Latin and Italian.",
+        "CensorsAgreement": "Con privilegio del Sommo Pontefice Paulo III de lo invittissimo imperador Carlo Quinto de lo illustrissimo Senato veneto et d`altri prencipi",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7555",
+                "RecordID": "022-000001459",
+                "Value": "Grimaldi,Giovambattista,,c. 1524-c. 1612"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7557",
+                "RecordID": "022-000001461",
+                "Value": "Giolito De Ferrari e fratelli,Gabriele,,fl.1550-1556"
+            }
+        },
+        "PrinterOrnament": "Z535 | Z539",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "A M[esser] Trifon Benzio",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "7551",
+                        "RecordID": "022-000001455",
+                        "Value": "Tolomei, Claudio, bishop, 1492-1555/6"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

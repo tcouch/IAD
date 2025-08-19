@@ -1,0 +1,37 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0316",
+        "RecordId": "021-000007112",
+        "Name": "Sonnacchiosi (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Sleeping bear",
+        "Motto": "Spero avanzar con la vigilia il sonno",
+        "StartDate": "pre",
+        "EndDate": "1543",
+        "DateText": "pre-1543 - ?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19729",
+                "RecordId": "022-000007113",
+                "Name": "Gambara,Veronica,,1485 - 1550",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19730",
+                "RecordId": "022-000007114",
+                "Name": "Verallo,Paolo Emilio,,? - 1574",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

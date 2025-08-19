@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15392",
+        "RecordId": "022-000001892",
+        "Surname": "Bassani",
+        "Forename": "Gio. Battista",
+        "Gender": "Male",
+        "PersonalTitle": "Chapel Master",
+        "DateText": "1650-1716",
+        "StartDate": "1650",
+        "EndDate": "1716",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Organ player in the Accademia della Morte. See Monaldini, `Mazzaferrata`, in DBI. Joined the Accademia Filarmonica in 1677.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

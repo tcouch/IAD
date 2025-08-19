@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19587",
+        "RecordId": "022-000006908",
+        "Surname": "Lancisi",
+        "Forename": "Giovanni Maria",
+        "DateText": "1654 - 1720",
+        "StartDate": "1654",
+        "EndDate": "1720",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "His biography in C. Preti, `Lancisi, Giovanni Maria`, in DBI.",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

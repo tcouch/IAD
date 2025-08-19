@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16592",
+        "RecordId": "022-000003310",
+        "Surname": "Saviolo",
+        "Forename": "Antonio il Giovane",
+        "Gender": "Male",
+        "DateText": "1581-1648",
+        "StartDate": "1581",
+        "EndDate": "1648",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Physician, joined the Ricovrati in 1633.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

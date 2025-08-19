@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7401",
+        "RecordId": "022-000000992",
+        "Surname": "Bianchini",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Blanchini",
+            "AlternativeForename": "Francisci"
+        },
+        "DateText": "1662-1729",
+        "StartDate": "1662",
+        "EndDate": "1729",
+        "Nationality": {
+            "NationalityId": "265",
+            "Value": "of Verona"
+        },
+        "Notes": "Also member of the Aletofili in Verona. See Salvatore Rotta, `Bianchini, Francesco, in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

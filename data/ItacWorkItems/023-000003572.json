@@ -1,0 +1,76 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003572",
+        "WorkId": "000469",
+        "ShortTitle": "El Farfalla",
+        "LongTitle": "Commedia nuova delo Stechito dela Congrega de Rozzi",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1550",
+        "Shelfmark": "163.f.50",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "11 leaves",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16689",
+                "RecordID": "022-000003425",
+                "Value": "Anton Maria,,,? - 1550"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16692",
+                "RecordID": "022-000003428",
+                "Value": "Ventura,,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16806",
+                "RecordID": "022-000003552",
+                "Value": "Landi,Giovanni,,fl.1510 - 1551"
+            }
+        },
+        "Notes": "Il Traversone`s sonnet is a lament on the occasion of the the death of Stecchito.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16805",
+                "RecordID": "022-000003551",
+                "Value": "Nardi,Francescho,,fl.1542 - 1551"
+            }
+        },
+        "PrinterOrnament": "T27|Z1086",
+        "TitlePageImage": {
+            "ImageId": "53867",
+            "Value": "023-000003572_53867_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53868",
+            "Value": "023-000003572_53868_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Il Traversone dela Congrega de` Rozzi a chi Legge: `Artisti, e voi che vulgar sete detti`",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16692",
+                        "RecordID": "022-000003428",
+                        "Value": "Ventura,,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

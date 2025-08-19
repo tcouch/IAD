@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005152",
+        "WorkId": "000632",
+        "ShortTitle": "Avviso Dell`Incendio Del Vesuvio",
+        "LongTitle": "Composto Dal P. Giulio Cesare Recupito Napol.no Della Compagnia di Gies\u00f9. tradotto Dalla Lingua Latina all`Italiana Ad istanza Dell`Ill.mi Principe & Academici Otiosi.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1635",
+        "DedicationPlaceDate": "7 April",
+        "Shelfmark": "446.a.22.(2.)",
+        "Subjects": "Mount Vesuvius",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 264",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17642",
+                "RecordID": "022-000004536",
+                "Value": "Recupito,Giulio Cesare,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5099",
+                "RecordID": "022-000000096",
+                "Value": "Barberini,Francesco,Cardinal,1597-1679"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16933",
+                "RecordID": "022-000003717",
+                "Value": "Longo,Egidio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

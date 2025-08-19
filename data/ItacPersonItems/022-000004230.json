@@ -1,0 +1,36 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17390",
+        "RecordId": "022-000004230",
+        "Surname": "Buoni",
+        "Forename": "Tomaso",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bonius"
+            },
+            {
+                "AlternativeSurname": "Buono"
+            },
+            {
+                "AlternativeSurname": "Buoso"
+            },
+            {
+                "AlternativeForename": "Tommasi"
+            },
+            {
+                "AlternativeForename": "Thomani"
+            }
+        ],
+        "DateText": "16th c.-17th c.",
+        "StartDate": "16th c.",
+        "EndDate": "17th c.",
+        "Nationality": {
+            "NationalityId": "158",
+            "Value": "of Lucca"
+        },
+        "Notes": "For information on the biography of this author, see the entry by G. Ballstreri, on DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

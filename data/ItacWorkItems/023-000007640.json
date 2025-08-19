@@ -1,0 +1,82 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007640",
+        "WorkId": "000854",
+        "ShortTitle": "Delle Notizie Istoriche Della Nobile Citta` Di Messina Capo Del Regno Di Sicilia. Terza Parte.",
+        "LongTitle": "Nella quale si mettono a chiaro giorno moltissime cose attenenti, noncch\u00e8 allo stao Ecclesiastico, ma Politico di Placido Reina Conte Palatino\nGi\u00e0 Lettore Primario di Filosofia nello Studio Publico di detta Citt\u00e0, e nell`Accademia della Fucina detto l`Offuscato. \nOpera Postuma, ed ora per la prima volta posta in Luce sopra il M.S. originale, che nella Publica Biblioteca di detta Citt\u00e0 conservasi. \nConsacrata Alli Gloriosissimi Santi Placido, Ed Alberto protettori Della Medesima.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1743",
+        "Shelfmark": "664.d.12.",
+        "Subjects": "History of Messina",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 378",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18954",
+                "RecordID": "022-000006057",
+                "Value": "Reina,Placido,,? - 1671"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20138",
+                    "RecordID": "022-000007646",
+                    "Value": "Loredano,Tommaso,,"
+                },
+                {
+                    "PersonId": "20139",
+                    "RecordID": "022-000007647",
+                    "Value": "de Gregorio,Giuseppe,,"
+                },
+                {
+                    "PersonId": "15224",
+                    "RecordID": "022-000001266",
+                    "Value": "Longus,Ioannes,Canon|Archbishop of Naples,"
+                },
+                {
+                    "PersonId": "19230",
+                    "RecordID": "022-000006407",
+                    "Value": "Pisci,Lelius,,"
+                },
+                {
+                    "PersonId": "20140",
+                    "RecordID": "022-000007648",
+                    "Value": "Romeo,Giovanni,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Die 5. Mensis Martij 1742.\nQuia per D. Michaelem Chiaramonte Regium Impressorem in Urbe Messanae proprijs expensis, & laboribus est imprimendus, & in lucem proferendus Tertius Tomus operis elaborati per quodam Dominum D. Placidum Reijna, quod non potuit tempore vitae imprimi stante morte superveniente Auctoris in quo Opere multa notabilia continentur, tam ad statum Ecclesiasticum, quam Politicum, cui Titulus: Delle notizie Istoriche della Nobile, Capitale Citt\u00e0 di Messina parte Terza, nella quale si mettono a chiaro giorno moltissime cose attenenti non che allo Stato Ecclesiastico, ma Politico di Placido Reyna Conte palatino gi\u00e0 Lettore Primario di Filosofia nello Studio Publico di detta Citt\u00e0, e nell\u2019Accademia della Fucina, detto l\u2019Offuscato, Opera Postuma, ed ora per la prima volta posta in luce sorpa il M.S. originale, che nella Publica Biblioteca di essa Citt\u00e0 conservasi, consagrata alli Gloriosissimi Ss. Placido, ed Alberto. Ideo ne suo laboris, & expensarum fructu dictus de Chiaramonte defraudetur ne ve quis ejus damno fruatur juri, & rationi consonum inibere, & providere, quemadmodum tenore praesentis per Ill. D. Thomam Loredano Praesidem Tribunalis M.R.C. fuit provisum, & mandatum quo nemo ante factum opus per decennium \u00e0 die publicationis computandum quovis modo, & ratione possit in hoc Siciliae Regno excudere aut in eodem regno, vel cui ipse commiserit sub poena facturae totius antefacti Operis ejusque universorum corporum, & ultra unciarum tricentum monetae hajus Regni per quemlibet contravenientem subeunda, cujus tertia pars predicto de Chiaramonte, altera Regio erario, & altera denuncianti omni pleno jure acquisita teneatur, 7 non aliter, &c. Unde, &c. \nScribatur\nLoredano Praes.\nJoseph de Gregorio M.N. Copia.\nD. Joannes Longo\nReducatur in actis, & nobis restituatur\nPisci Pro Ill. De Lored. PR.\nMessanae die 9. mensis Aprilis. Reductus fuit in astis infrascriptis proximus actus provisionalis vigore suprascripti Chirografi V. F. D. D. Lelii Pisci Locumtenentis Ill. D. Thomae Loredano Praesidis Iustitiae, de Consilio S.R.M. & sibi restitus. \nD. Joannes Romeus M.N.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20135",
+                "RecordID": "022-000007641",
+                "Value": "de Chiaramonti,Michele,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20135",
+                "RecordID": "022-000007641",
+                "Value": "de Chiaramonti,Michele,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55225",
+            "Value": "023-000007640_55225_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

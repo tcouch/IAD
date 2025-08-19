@@ -1,0 +1,143 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000369",
+        "WorkId": "00031",
+        "ShortTitle": "Ragionamento funebre",
+        "LongTitle": "nella morte dell`Eccellentissimo Tomaso Dempstero scozese avuto publicamente nell`Accademia della Notte dal signor Ovidio Montalbani Il Rugiadoso",
+        "ItacAcademyItem": {
+            "AcademyId": "0002",
+            "RecordID": "021-000000312",
+            "Value": "Accademia della Notte"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1626",
+        "DedicationPlaceDate": "Bologna 9 February 1626",
+        "Shelfmark": "10825.a.58",
+        "Subjects": "Funereal discourse|Antiquities|Thomas Dempster",
+        "Language": "Italian",
+        "Pagination": "pp. 32",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5022",
+                "RecordID": "022-000000024",
+                "Value": "Montalbanus,Ovidius,,ca. 1600"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5022",
+                    "RecordID": "022-000000024",
+                    "Value": "Montalbanus,Ovidius,,ca. 1600"
+                },
+                {
+                    "PersonId": "5294",
+                    "RecordID": "022-000000342",
+                    "Value": "Rivaroli,Matteo,,"
+                },
+                {
+                    "PersonId": "5296",
+                    "RecordID": "022-000000344",
+                    "Value": "Amadei,Giovanni Giacomo,,"
+                },
+                {
+                    "PersonId": "5298",
+                    "RecordID": "022-000000346",
+                    "Value": "Pesci,Ruggiero,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5150",
+                    "RecordID": "022-000000215",
+                    "Value": "De Bonis,Homobonus,,"
+                },
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Homob. P. pro Illustriss. Card. Arch. Imprimatur F. Hierony. Onuph. Pro Reverendiss. Patre Inq. Bon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5295",
+                "RecordID": "022-000000343",
+                "Value": "Dempster,Thomas,Baron,c. 1579-1625"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0002",
+                "RecordID": "021-000000312",
+                "Value": "Accademia della Notte"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5306",
+                "RecordID": "022-000000355",
+                "Value": "Mascheroni,Girolamo,,fl. 1610-1630"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52747",
+            "Value": "023-000000369_52747_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Oratione funebre",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5022",
+                            "RecordID": "022-000000024",
+                            "Value": "Montalbanus , Ovidius , , c. 1600"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Introduttione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5294",
+                            "RecordID": "022-000000342",
+                            "Value": "Rivaroli, Matteo, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte dell`eccellentissimo signor dottor Dempstero academico della Notte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5296",
+                            "RecordID": "022-000000344",
+                            "Value": "Amadei, Giovanni Giacomo, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per le antichit\u00e0 di Roma dell`eccellentissimo signor Tomaso Dempstero",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5298",
+                            "RecordID": "022-000000346",
+                            "Value": "Pesci, Ruggiero, ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

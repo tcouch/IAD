@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19433",
+        "RecordId": "022-000006649",
+        "Surname": "Guarneri",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Guarnerius",
+                "AlternativeForename": "Joannes Baptista"
+            },
+            {
+                "AlternativeSurname": "Guarnieri"
+            }
+        ],
+        "DateText": "?-1665",
+        "StartDate": "?",
+        "EndDate": "1665",
+        "Nationality": {
+            "NationalityId": "239",
+            "Value": "of Catania"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 329-330 (BL Shelfmark:610.m.10.); Francesco Ferrara, Storia di Catania, Catania, 1829 (BL Shelfmark:General Reference Collection SFX lsidyv363f3ec8)",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

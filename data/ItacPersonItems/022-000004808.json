@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17886",
+        "RecordId": "022-000004808",
+        "Surname": "de Curte",
+        "Forename": "Giovanni Andrea",
+        "AlternativeName": {
+            "AlternativeSurname": "Curtio",
+            "AlternativeForename": "Ioannes Andrea"
+        },
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "de Curte was the President of the Rinaldiana Academy in Naples",
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

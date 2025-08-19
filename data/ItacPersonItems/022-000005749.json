@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18685",
+        "RecordId": "022-000005749",
+        "Surname": "Gonzaga",
+        "Forename": "Curzio",
+        "Gender": "Male",
+        "DateText": "1530-1599",
+        "StartDate": "1530",
+        "EndDate": "1599",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "He delivered a presentation in praise of `lingua volgare` in April 1563. See R. M. Ridolfi, `Gonzaga, Curzio`, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

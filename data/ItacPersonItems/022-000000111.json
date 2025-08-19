@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5114",
+        "RecordId": "022-000000111",
+        "Surname": "Petrovich",
+        "Forename": "Vincenzo",
+        "Gender": "Male",
+        "DateText": "1677-1754?",
+        "StartDate": "1677",
+        "EndDate": "1754?",
+        "Nationality": {
+            "NationalityId": "365",
+            "Value": "of Ragusa of Dalmatia"
+        },
+        "Notes": "When he was 18 years old, he recited a poem on the occasion of the Vladislao Buchia`s legation.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

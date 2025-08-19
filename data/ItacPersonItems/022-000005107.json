@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18144",
+        "RecordId": "022-000005107",
+        "Surname": "Ventimiglia",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "DateText": "1624 - 1665",
+        "StartDate": "1624",
+        "EndDate": "1665",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 367 - 368 (BL Shelfmark:610.m.10.)\nAccording to Mongitore,Ventimiglia was a member of the Oziosi Academy in Naples",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

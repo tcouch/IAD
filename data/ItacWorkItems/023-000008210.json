@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008210",
+        "WorkId": "000922",
+        "ShortTitle": "Oratione di Alberto Lollio Ferrarese",
+        "LongTitle": "Recitata da lui nell`Academia de i signori Elevati",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0024",
+                "RecordID": "021-000001981",
+                "Value": "Elevati (Accademia degli)"
+            },
+            {
+                "AcademyId": "0512",
+                "RecordID": "021-000008044",
+                "Value": "Elevati - Ferrara (Accademia degli)"
+            }
+        ],
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1552",
+        "Shelfmark": "12301d24",
+        "Subjects": "Academic speech",
+        "Language": "Italian",
+        "Pagination": "32",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20471",
+                "RecordID": "022-000008201",
+                "Value": "Lollio,Alberto,,1508-1569"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16189",
+                "RecordID": "022-000002815",
+                "Value": "Torrentino,Lorenzo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55279",
+            "Value": "023-000008210_55279_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

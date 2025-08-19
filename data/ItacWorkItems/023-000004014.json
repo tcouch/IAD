@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004014",
+        "WorkId": "000520",
+        "ShortTitle": "The Uncertainty of the Art Of Physick",
+        "LongTitle": "Together With an Account of the innumerable Abuses predicted by the Professors of that Art. Ckearly Manifested by a Particular Prelation of the Original and Progress thereof. Also divers Contests between the Greeks and Arabians concerning its Authors. Written in Italian by the Famous Lionardo di Capoa and made in English by J. L. Gent.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "71",
+            "PublicationPlaceItalianName": "Londra",
+            "PublicationPlaceEnglishName": "London",
+            "PublicationPlaceLatinName": "Londinium"
+        },
+        "PublicationYear": "1684",
+        "Shelfmark": "1038.e.32.",
+        "Subjects": "Medicine|Natural Philosophy|Science",
+        "Language": "English",
+        "Pagination": "pp. 102",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16142",
+                "RecordID": "022-000002754",
+                "Value": "Di Capua,Leonardo,,1617 - 1695"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17205",
+                "RecordID": "022-000004017",
+                "Value": "Lancaster,John,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "17203",
+                "RecordID": "022-000004015",
+                "Value": "Malthus,Thomas,,"
+            }
+        },
+        "Notes": "English translation of a speech by Leonardo di Capua in which the author discusses ideas linked to the Investiganti Academy in Naples.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17206",
+                "RecordID": "022-000004018",
+                "Value": "Boyle ,Robert,,1627 - 1691"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16213",
+                    "RecordID": "022-000002848",
+                    "Value": "Buragna ,Carlo,,1632 - 1679?"
+                },
+                {
+                    "PersonId": "17205",
+                    "RecordID": "022-000004017",
+                    "Value": "Lancaster,John,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17204",
+                "RecordID": "022-000004016",
+                "Value": "Clark ,Fr.[ancis?],,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53941",
+            "Value": "023-000004014_53941_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

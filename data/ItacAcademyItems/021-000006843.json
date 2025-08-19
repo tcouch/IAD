@@ -1,0 +1,101 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0224",
+        "RecordId": "021-000006843",
+        "Name": "Fisiocritici (Accademia dei)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "Motto": "Veris quod possit vincere falsa",
+        "StartDate": "1690",
+        "EndDate": "?",
+        "DateText": "1690-?",
+        "Notes": "News about the opening of the Academy acn be found in Synopsis biblica alias diarium literatorum (Parma, 1692). Academic discourses include: `Discorso primo Academico dove si apporta la ragione per la quale si vede che l`Aria si costituisca or piu`, or meno grave e si allude all`impresa dell`Accademia.` --- `Discorso secondo Academico sopra alla Segregazione degli Umori, detto nell`accademia de` Fisiocritici in Siena dal signor Dottore Pietro Pagliai Secretario dell`Accademia`. A meeting was held in 1694 to discuss the tumor on a gilr`s arm, see Ricci e Vannozzi, `Il tumore della fanciulla. Una tavola rotonda della fine del XVII secolo`, in ATTI ACCADEMIA FISIOCRITICI SIENA, s. XV,  vol. IX (1990)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19562",
+                "RecordId": "022-000006844",
+                "Name": "de` Medici,Francesco Maria,Cardinal,1660 - 1711",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19560",
+                "RecordId": "022-000006841",
+                "Name": "Lanzoni,Giuseppe,,1663 - 1730",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19563",
+                "RecordId": "022-000006845",
+                "Name": "Pagliai,Pietro Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19564",
+                "RecordId": "022-000006846",
+                "Name": "Gabrielli,Pirro Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19565",
+                "RecordId": "022-000006847",
+                "Name": "Grifoni,Teofilo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19566",
+                "RecordId": "022-000006848",
+                "Name": "Battignani,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19567",
+                "RecordId": "022-000006849",
+                "Name": "Bandiera,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19838",
+                "RecordId": "022-000007275",
+                "Name": "Dandi,Giovanni Pellegrino,,1664 - 1726?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20610",
+                "RecordId": "022-000008392",
+                "Name": "Astorini,Elia,,1651-1702",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20614",
+                "RecordId": "022-000008399",
+                "Name": "Marchetti,Alessandro,,1633-1714",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

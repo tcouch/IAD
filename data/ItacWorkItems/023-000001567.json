@@ -1,0 +1,99 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001567",
+        "WorkId": "00109",
+        "ShortTitle": "Lettere volgari",
+        "LongTitle": "di diversi nobilissimi huomini et eccellentissimi ingegni scritte in diverse materie. Libro primo",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1544",
+        "Shelfmark": "10905.aaa.26",
+        "Language": "Italian",
+        "Pagination": "pp. 188",
+        "Marginalia": "Yes",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9244",
+                    "RecordID": "022-000001540",
+                    "Value": "Cola,Bruno,,1480 - 1542"
+                },
+                {
+                    "PersonId": "9255",
+                    "RecordID": "022-000001551",
+                    "Value": "Bonfadio,Iacopo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con privilegio della Signoria di Vinegia",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9246",
+                    "RecordID": "022-000001542",
+                    "Value": "Badoer,Federico,,1519 - 1593"
+                },
+                {
+                    "PersonId": "9247",
+                    "RecordID": "022-000001543",
+                    "Value": "Veniero,Dominico,,1517-1582"
+                },
+                {
+                    "PersonId": "9256",
+                    "RecordID": "022-000001552",
+                    "Value": "Martinengo,Fortunato,Count,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,"
+            }
+        },
+        "PrinterOrnament": "Z43",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Lettera a Mons(ignor) Giovan Brevio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9244",
+                            "RecordID": "022-000001540",
+                            "Value": "Cola, Bruno, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lettera al magnifico Conte Fortunato Martinengo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9255",
+                            "RecordID": "022-000001551",
+                            "Value": "Bonfadio, Iacopo, ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

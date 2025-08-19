@@ -1,0 +1,60 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001961",
+        "WorkId": "000276",
+        "ShortTitle": "Violino primo. Balletti, Correnti, Gighe, Allemande, e Sarabande a Violino, e Violone, o Spinetta con il secondo violino a beneplacito.",
+        "LongTitle": "Del Sig. Giovanni Battista Vitali. Maestro di Cappella del Santissimo Rosario di Bologna, et Accademico Filaschise. Opera Quarta, Di Nuovo ristampata con nuova aggiunta. al molto Illustre Signor il Signor Giacomo Polstri",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia dei Floridi 1615; dei Filomusi 1622; dei Filaschisi 1633; Filarmonica 1666"
+        },
+        "Format": "10\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1673",
+        "Shelfmark": "d.5.a",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "pp. 20",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15422",
+                "RecordID": "022-000001928",
+                "Value": "Vitali,Gio(vanni) Battista,Chapel Master,1644-1692"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15447",
+                "RecordID": "022-000001962",
+                "Value": "Polstri,Giacomo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15407",
+                "RecordID": "022-000001912",
+                "Value": "Silvani,Marino,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54892",
+            "Value": "023-000001961_54892_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

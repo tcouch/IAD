@@ -1,0 +1,48 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006253",
+        "WorkId": "000736",
+        "ShortTitle": "Le Origini Delle Accademie Degli Accesi, Dei Riaccesi e del Buon Gusto",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0114",
+                "RecordID": "021-000005234",
+                "Value": "Accademia degli Accesi (Palermo)"
+            },
+            {
+                "AcademyId": "0118",
+                "RecordID": "021-000005370",
+                "Value": "Accademia dei Riaccesi (Palermo)"
+            }
+        ],
+        "Format": "Fol.",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1891",
+        "Shelfmark": "Ac.99/2",
+        "Subjects": "Academic Speeches",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 64",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19118",
+                "RecordID": "022-000006252",
+                "Value": "Di Giovanni,Vincenzo,,"
+            }
+        },
+        "Notes": "This text contains archival documents related to the Accesi and the Riaccesi Academies in Palermo",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19119",
+                "RecordID": "022-000006254",
+                "Value": "Barravecchia Filippo e figlio,,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

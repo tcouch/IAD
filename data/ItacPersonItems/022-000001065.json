@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15023",
+        "RecordId": "022-000001065",
+        "Surname": "Lasena",
+        "Forename": "Pietro",
+        "AlternativeName": {
+            "AlternativeSurname": "La Seine",
+            "AlternativeForename": "Petro"
+        },
+        "DateText": "1590-1636",
+        "StartDate": "1590",
+        "EndDate": "1636",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Portrait of Pietro Lasena from Lorenzo Crasso, Elogij, Venice 1666.",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

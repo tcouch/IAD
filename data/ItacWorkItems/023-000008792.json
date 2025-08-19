@@ -1,0 +1,87 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008792",
+        "WorkId": "001010",
+        "ShortTitle": "Il tempio dell`onore",
+        "LongTitle": "orazione panegirica avuta nella solenne raunanza de` signori Gelati, in occasione dell`annuale tributo portatosi da quegli alla gloriosissima vergine loro protettrice, la vigilia della immaccolata sua concezione nella chiesa de` RR. PP. di S. Francesco da Mariano Mariani l`Addormentato uno de` Consiglieri dell`Accademia. All`eminentissimo e reverendissimo signor Cardinal Girolamo Boncompagni arcivescovo di Bologna e principe del Sacro Romano Imperio",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Gelati (Accademia dei)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1671",
+        "Shelfmark": "Harry Ransom Research Center Ranuzzi MSS Ph12770",
+        "Subjects": "Oration|Vergin Mary",
+        "Language": "Italian|Latin",
+        "Pagination": "22",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5154",
+                "RecordID": "022-000000149",
+                "Value": "Mariani,Mario,,1634-1709"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18896",
+                    "RecordID": "022-000005987",
+                    "Value": "Giribaldus,Mauritius,,"
+                },
+                {
+                    "PersonId": "5225",
+                    "RecordID": "022-000000217",
+                    "Value": "Passus,Michael Pius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Mauritius Giribaldi Cler. Reg. S. Pauli, et in Metropolit. Bonon. Poenit. pro Eminent.iss. et reverendiss. D. D. Hyeronimo Boncompagno Archiepisc. et Principe. Imprimatur. Fr. Michale Pius Passus de Bosco Inquisitor Bononiae",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5224",
+                "RecordID": "022-000000216",
+                "Value": "Boncompagno,Girolamo,Cardinal|Archibishop of Bologna,1622-1684"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5258",
+                "RecordID": "022-000000249",
+                "Value": "Barbieri,Domenico (Heredi di),,fl. 1669-1685"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Ravvedimento di aver mal servito all'Immaccolata madre del Redentore Celebrandola sotto figura di Tempio. Sonnet: In van del vero Sol l'aureo soggiorno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5154",
+                            "RecordID": "022-000000149",
+                            "Value": "Mariani,Mario,,1634-1709"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Speculum sine macula. Sonnet: Puro specchio son Io, cui non ingombra",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5154",
+                            "RecordID": "022-000000149",
+                            "Value": "Mariani,Mario,,1634-1709"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

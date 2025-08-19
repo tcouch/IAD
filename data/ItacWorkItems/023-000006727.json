@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006727",
+        "WorkId": "000799",
+        "ShortTitle": "L`Aldimiro",
+        "LongTitle": "Overo favor per favore. Melodrama Rappresentata da` Signori Accademici Uniti",
+        "ItacAcademyItem": {
+            "AcademyId": "0173",
+            "RecordID": "021-000006725",
+            "Value": "Accademia degli Uniti (Roma)"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1688",
+        "Shelfmark": "906.l.15(3)|638a36(4)",
+        "Subjects": "Melodrama|Theatre",
+        "Language": "Italian",
+        "Pagination": "71",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18332",
+                "RecordID": "022-000005346",
+                "Value": "de Totis,Giuseppe Domenico,,1644 - 1707"
+            }
+        },
+        "Notes": "Music by Alessandro Scarlatti. Se T. G. Romei, `De Totis, Giuseppe Domenico`, in DBI.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19499",
+                    "RecordID": "022-000006728",
+                    "Value": "Politauri,Antonio,,"
+                },
+                {
+                    "PersonId": "16239",
+                    "RecordID": "022-000002883",
+                    "Value": "Menattus,Stephanus Ioseph,Vicar General|Master of the Sacred Palace,? - 1695"
+                },
+                {
+                    "PersonId": "19500",
+                    "RecordID": "022-000006729",
+                    "Value": "Clarionus,Ioseph,,"
+                },
+                {
+                    "PersonId": "19501",
+                    "RecordID": "022-000006730",
+                    "Value": "Puteobonelli,Domenico Maria,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "M`ha imposto il Padre Maestro del Sacro Palazzo di rivedere l`aldimiro del sig. Gioseppe De Totis, che con maesta` d`ingegno, con vaghezza di stile ha saviamente composto, son di parere 9se cosi` piacera` alla Paternita` Sua Reverendissima) possa darsi l`opera alle Stampe per non essere di pregiuditio al candore de costumi, ne` contraria a sensi de` cattolici et c. li 16 Gennaro 1688 --- Imprimatur si videbitur reverendiss. P. Magistr. Sac. Pal. Apost. Steph. Ioseph Menattus Episc.  Cyrenen. Vicesg. - Imprimatur. Fr. Ioseph clarionus S. Theologiae Magister, ac Reverendiss. pat. Fr. Dominici Mariae Puteobonelli Sacri Pal. Apost. Mag. Soc. Ord. Praedicatorum",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19465",
+                "RecordID": "022-000006683",
+                "Value": "Ercole,Domenico Antonio,,1654 - 1728"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54861",
+            "Value": "023-000006727_54861_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

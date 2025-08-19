@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16246",
+        "RecordId": "022-000002893",
+        "Surname": "D`Andrea",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Ab Andrea",
+            "AlternativeForename": "Francisco"
+        },
+        "DateText": "1625-1698",
+        "StartDate": "1625",
+        "EndDate": "1698",
+        "Nationality": {
+            "NationalityId": "86",
+            "Value": "of Ravello"
+        },
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0136",
+        "RecordId": "021-000005929",
+        "Name": "Intrigati (Accademia degli)",
+        "AlternativeName": "Accademia degli Intricati",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "before 1606",
+        "EndDate": "?",
+        "DateText": "before 1606 -?",
+        "Notes": "On both Accademia degli Intricati in Venice, and Paolo Veraldo, see Maylender, vol. III, p. 347, and Franchi, Impressioni sceniche, pp. 505-6. Publications related to the hsitory of this Academy, but not in British Library collections, include: L` intrico, et torti intricati comedia del sig. Paulo Veraldo romano. Detto lo Svegliato nell`Academia dell`Intricati di Venetia, da loro rapresentata l`anno 1606. Al molto illust. ... Valerio Bontempo (In Venetia: appresso Alessandro Vecchi, 1610).",
+        "ItacPersonItem": {
+            "PersonId": "18849",
+            "RecordId": "022-000005928",
+            "Name": "Veraldo,Paolo,,",
+            "Nickname": "lo Svegliato",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

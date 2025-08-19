@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005237",
+        "WorkId": "000644",
+        "ShortTitle": "Le terze rime",
+        "LongTitle": "de messer Giovanni dalla Casa di Messer Bino et d`altri",
+        "ItacAcademyItem": {
+            "AcademyId": "0108",
+            "RecordID": "021-000005055",
+            "Value": "Accademia dei Vignaiuoli"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1538",
+        "Shelfmark": "1071e13(3)",
+        "Subjects": "Burlesque poetry",
+        "Language": "Italian",
+        "Pagination": "36",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18128",
+                "RecordID": "022-000005090",
+                "Value": "Bini,Giovan Francesco,,1480s - 1556"
+            }
+        },
+        "Notes": "In Bini`s biography (Dizionario Biografico degli Italiani) Ballistreri puts `Capitolo primo del Horto` in relation with the Accademia dei Vignaiuoli, and dates it 1535. The composition is addressed to Giulia Gonzaga`s secretary, Gandolfo Porrino.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16363",
+                "RecordID": "022-000003020",
+                "Value": "Navo` ,Curzio Troiano e fratelli,,fl. 1537 - 1542"
+            }
+        },
+        "PrinterOrnament": "Z785",
+        "TitlePageImage": {
+            "ImageId": "54409",
+            "Value": "023-000005237_54409_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Capitolo primo del `Horto di Tunici",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "18128",
+                        "RecordID": "022-000005090",
+                        "Value": "Bini,Giovan Francesco,,1480s - 1556"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

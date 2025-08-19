@@ -1,0 +1,32 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0119",
+        "RecordId": "021-000005382",
+        "Name": "Filoponi (Accademia dei)",
+        "City": {
+            "CityId": "90",
+            "CityItalianName": "Faenza",
+            "CityEnglishName": "Faenza",
+            "CityLatinName": "Faventiae"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "18349",
+                "RecordId": "022-000005365",
+                "Name": "Zarattino Castellini,Giovanni,,",
+                "Nickname": "L`Intrepido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17278",
+                "RecordId": "022-000004093",
+                "Name": "Gimma,Giacinto,,1668-1735",
+                "Nickname": "Rinascente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

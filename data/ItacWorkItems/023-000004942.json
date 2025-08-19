@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004942",
+        "WorkId": "000608",
+        "ShortTitle": "Antidiscorso",
+        "LongTitle": "Ragioni di Bellisario Bulgarini Sanese, L` Aperto Accademico Intronato, in risposta al primo Discorso sopra Dante, scritto a penna, sotto finto nome di M. Speron Speroni",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1616",
+        "DedicationPlaceDate": "Siena 22 April 1616",
+        "Shelfmark": "638.h.19.(3.)",
+        "Subjects": "Poetry|Interpretation and criticism",
+        "Language": "Italian",
+        "Pagination": "167",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16376",
+                "RecordID": "022-000003042",
+                "Value": "Bulgarini,Belisario,,1539 - 1620"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,fl.1553 - 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54406",
+            "Value": "023-000004942_54406_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

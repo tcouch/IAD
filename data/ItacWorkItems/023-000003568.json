@@ -1,0 +1,89 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003568",
+        "WorkId": "000467",
+        "ShortTitle": "Sonetti del Risoluto",
+        "LongTitle": "e di nuovo ampliati da diversi auctori del medesimo subiecto",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1546",
+        "Shelfmark": "241.b.13.(1.)",
+        "Subjects": "Enigmatic sonnets",
+        "Language": "Italian",
+        "Pagination": "26 leaves",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16688",
+                "RecordID": "022-000003424",
+                "Value": "di Cenni,Angelo,,fl.1531 - 1575"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16722",
+                    "RecordID": "022-000003458",
+                    "Value": "Fucci,maestro Lorenzo,,"
+                },
+                {
+                    "PersonId": "16690",
+                    "RecordID": "022-000003426",
+                    "Value": "Marc`Antonio,,,"
+                },
+                {
+                    "PersonId": "16733",
+                    "RecordID": "022-000003469",
+                    "Value": "Mengari,Ansano,,"
+                },
+                {
+                    "PersonId": "16719",
+                    "RecordID": "022-000003455",
+                    "Value": "di Giannello,Camillo ,,fl.1533 - 1562"
+                },
+                {
+                    "PersonId": "16691",
+                    "RecordID": "022-000003427",
+                    "Value": "Bartolommeo,,,"
+                },
+                {
+                    "PersonId": "16732",
+                    "RecordID": "022-000003468",
+                    "Value": "Cacciaconti,Ascanio,,"
+                },
+                {
+                    "PersonId": "16692",
+                    "RecordID": "022-000003428",
+                    "Value": "Ventura,,,"
+                },
+                {
+                    "PersonId": "16687",
+                    "RecordID": "022-000003423",
+                    "Value": "di Donato,Alessandro,,ca. 1500 -"
+                }
+            ]
+        },
+        "Notes": "Mazzi found the nicknames of contributors in the edition of the same volume published in Siena in 1547.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17455",
+                "RecordID": "022-000004318",
+                "Value": "Peri,Lorenzo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53902",
+            "Value": "023-000003568_53902_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5107",
+        "RecordId": "022-000000104",
+        "Surname": "Benigni",
+        "Forename": "Domenico",
+        "Gender": "Male",
+        "DateText": "?-1653",
+        "StartDate": "?",
+        "EndDate": "1653",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Joined the Gelati in 1642. Benigni`s volume of `Poesie` appeared in Macerata in 1667.\nSee the PhD thesis on line, Robert Rau Holzer, `Music and Poetry in Seventeenth-Century Rome`. Enrica Donisi, `Domenico Benigni, le sue poesie, la musica e le Accademie degli Umoristi e dei Gelati nella Roma del Primo Seicento`. Censor among the Umoristi in 1638",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

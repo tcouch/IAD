@@ -1,0 +1,65 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002696",
+        "WorkId": "000333",
+        "ShortTitle": "Discorso Sopra Tutti Li Primi Canti D`Orlando Furioso.",
+        "LongTitle": "Fatti Per La Signora Laura Terracina.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1550",
+        "DedicationPlaceDate": "Naples 29 April 1549",
+        "Shelfmark": "241.e.12.(2.)",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Illustration": "Woodcuts|Author`s portrait",
+        "Pagination": "pp. 83 recto - verso",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16062",
+                "RecordID": "022-000002642",
+                "Value": "Terracina,Laura,,1519-1577"
+            }
+        },
+        "Notes": "The colophon contains printer`s ornament.",
+        "CensorsAgreement": "Con Privilegio.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16103",
+                "RecordID": "022-000002694",
+                "Value": "Bonifacio,Giovan Bernardino,Marquis of Doria,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "PrinterOrnament": "A118 |Z538",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "All`Illustriss. S. Il S. Giovan Bernardino Bonifatio Marchese D`Oria. Laura Terracina Detta Nell`Academia De Gli Incogniti Febea.",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16062",
+                        "RecordID": "022-000002642",
+                        "Value": "Terracina,Laura,,1519-1577"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

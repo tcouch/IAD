@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16145",
+        "RecordId": "022-000002757",
+        "Surname": "Ottoboni",
+        "Forename": "Pietro Vito",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Otthoboni",
+            "AlternativeForename": "Pietro"
+        },
+        "PersonalTitle": "Cardinal|Pope Alexander VIII",
+        "DateText": "1610-1691",
+        "StartDate": "1610",
+        "EndDate": "1691",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Was elected Pope in 1689.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

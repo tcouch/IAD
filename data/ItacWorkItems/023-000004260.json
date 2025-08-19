@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004260",
+        "WorkId": "000551",
+        "ShortTitle": "Breve discorso di Giovan Francesco Brancaleone",
+        "LongTitle": "dela immortalita de l`anima con una stupenda visione sovra d\u00ed c\u00edo a lu\u00ed apparsa al Illustrissimo principe \u00edl. S. Don Petro De Toledo Marchese de Villafrancha & V\u00edcere del Regno d\u00ed Napoli.",
+        "ItacAcademyItem": {
+            "AcademyId": "0037",
+            "RecordID": "021-000002640",
+            "Value": "Accademia degli Incogniti"
+        },
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1542",
+        "Subjects": "Philosophy",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16102",
+                "RecordID": "022-000002692",
+                "Value": "Brancaleoni,Francesco Giovanni,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17410",
+                "RecordID": "022-000004261",
+                "Value": "\u00c1lvarez de Toledo y Zu\u00f1iga ,Pedro,Marquis of Villafranca|viceroy of Naples,1484 - 1553"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16113",
+                "RecordID": "022-000002716",
+                "Value": "Cancer,Mattio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

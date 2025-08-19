@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5103",
+        "RecordId": "022-000000100",
+        "Surname": "Amadio",
+        "Forename": "Carlo",
+        "Gender": "Male",
+        "DateText": "fl.1680-1686",
+        "StartDate": "fl.1680",
+        "EndDate": "1686",
+        "Nationality": {
+            "NationalityId": "174",
+            "Value": "of Sant`Angelo in Vado (Urbino)"
+        },
+        "Notes": "Also member of Scomposti (Fano), Solleciti (Fossombrone?), and Illuminati (Citta` di Castello), where his drama, Cambise, was represented around 1680.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

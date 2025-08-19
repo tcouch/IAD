@@ -1,0 +1,159 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004381",
+        "WorkId": "000569",
+        "ShortTitle": "Delle lettere familiari del Comendatore Annibal Caro",
+        "LongTitle": "Volume primo",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Accademia degl` Intronati"
+            },
+            {
+                "AcademyId": "0016",
+                "RecordID": "021-000001019",
+                "Value": "Accademia Bocchiana"
+            },
+            {
+                "AcademyId": "0107",
+                "RecordID": "021-000005041",
+                "Value": "Accademia della Virt\u00f9"
+            }
+        ],
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1572 (1575)",
+        "DedicationPlaceDate": "Rome 1st March 1572; Rome 12 November 1575",
+        "Shelfmark": "1085.m.4",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "[18] 296; [6] 446",
+        "Marginalia": "No",
+        "Edition": "1st",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17497",
+                "RecordID": "022-000004370",
+                "Value": "Caro,Annibale,,1507 - 1566"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17497",
+                "RecordID": "022-000004370",
+                "Value": "Caro,Annibale,,1507 - 1566"
+            }
+        },
+        "Notes": "Letter XIII (to Benedetto Varchi - 1538) mentions `Ombroso il qual e` un sanese dell`Accademia de gl` Intronati`. Criitcal edition by Mario Menghini, intro. Aulo Greco (Florence 1957). According to Greco`s critical edition of Caro`s letters (Florence, 1959), vol. 3, p. 313, letter 545 is addressed to Bocchi`s Academy. \nLetters from 1538 and 1540 are in relation to the Accademia della Virtu`",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17518",
+                    "RecordID": "022-000004397",
+                    "Value": "Da Correggio,Girolamo,Cardinal,1511 - 1572"
+                },
+                {
+                    "PersonId": "17517",
+                    "RecordID": "022-000004396",
+                    "Value": "Gallio,Tolomeo,Cardinal,1527 - 1607"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17507",
+                    "RecordID": "022-000004382",
+                    "Value": "Caro,Giovambattista,,"
+                },
+                {
+                    "PersonId": "17509",
+                    "RecordID": "022-000004384",
+                    "Value": "Caro,Lepido,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17510",
+                "RecordID": "022-000004385",
+                "Value": "Manuzio,Aldo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54167",
+            "Value": "023-000004381_54167_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "A l`Ardinghello 22 Marzo 1538",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17497",
+                            "RecordID": "022-000004370",
+                            "Value": "Caro,Annibale,,1507 - 1566"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Sodo e Diserto Accademici Intronati. 18 Dicembre 1550",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17497",
+                            "RecordID": "022-000004370",
+                            "Value": "Caro,Annibale,,1507 - 1566"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A gli Academici di Bologna. Giorno di Natale 1558",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17497",
+                            "RecordID": "022-000004370",
+                            "Value": "Caro,Annibale,,1507 - 1566"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A Messer Bernardino Maffei. 10 Aprile 1538",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17497",
+                            "RecordID": "022-000004370",
+                            "Value": "Caro,Annibale,,1507 - 1566"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A Messer Giovan Francesco Leoni. 10 Aprile 1538",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17497",
+                            "RecordID": "022-000004370",
+                            "Value": "Caro,Annibale,,1507 - 1566"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A messer Giovan Francesco Leoni. 20 Maggio 1540",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17497",
+                            "RecordID": "022-000004370",
+                            "Value": "Caro,Annibale,,1507 - 1566"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

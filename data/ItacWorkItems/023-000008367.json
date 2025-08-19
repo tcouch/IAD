@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008367",
+        "WorkId": "000939",
+        "ShortTitle": "Il niente discorso di Luigi Manzini",
+        "LongTitle": "All`Illustrissimo, ed Eccellentissimo Signore Il Sig. Domenico Da Molino. Recitato nell`Academia degl` Incogniti di Venetia, a Ca` Contarini. Gli VIII Maggio 1634. sotto il principato dell`Illustrissimo Signore Angelo Michiele Nobile Viniziano",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Incogniti-Venezia (Accademia degli)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1634",
+        "DedicationPlaceDate": "Di S. Elena di Venetia il 24 maggio 1634",
+        "Subjects": "Academic discourse",
+        "Language": "Italian",
+        "Pagination": "pp.26",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5153",
+                "RecordID": "022-000000148",
+                "Value": "Manzini,Luigi,Count,1604-1657"
+            }
+        },
+        "Notes": "This publication was followed by Dall` Angelo, Marino, Le glorie del niente. Discorse dal sig. Marin Dall`Angelo nell`academia dei signori incogniti di Venetia (In Venetia: per il Sarzina stampatore dell`academia, 1634).\nAfter Raimondo Vidal`s contribution - available it in this Database - it was the time of \nGaffarel, Jacques (1601-1681), Nihil, fere nihil, minus nihilo: seu De ente, non ente, & medio inter ens, & non ens positiones (Venetiis: ex typographia Ducali Pinelliana, 1634)\nThe `last word` on this debate would rest on Villa`s contribution - available it in this Database.\nOn the whole debate about `nothingness`, see Le antiche memorie del nulla, ed. Carlo Ossola (Rome, 1997)",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15347",
+                "RecordID": "022-000001386",
+                "Value": "Molino,Domenico,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5309",
+                "RecordID": "022-000000360",
+                "Value": "Baba,Andrea,,fl. 1611-1632"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55310",
+            "Value": "023-000008367_55310_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

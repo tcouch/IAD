@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5625",
+        "RecordId": "022-000000695",
+        "Surname": "Tasso",
+        "Forename": "Bernardo",
+        "Gender": "Male",
+        "DateText": "1493-1569",
+        "StartDate": "1493",
+        "EndDate": "1569",
+        "Nationality": {
+            "NationalityId": "117",
+            "Value": "of Bergamo"
+        },
+        "Notes": "In December 1558, Bernardo moved to Venice and became chancellor of the Academia Veneziana. Tasso`s comments on the Academia Veneziana and its activities, as well as Gerolamo Molin`s invitation to publish `Amadigi` under the aegis of the Academy, can be found in Bernardo Tasso, Lettere (Padua: Comino, 1733), pp. 359-60 458, 459.",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

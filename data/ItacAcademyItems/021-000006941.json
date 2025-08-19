@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0285",
+        "RecordId": "021-000006941",
+        "Name": "Ravvivati (Accademia dei)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Phoenix on a pyre",
+        "Motto": "Un raggio di belta` gli spriti avviva",
+        "StartDate": "before1685",
+        "EndDate": "1685",
+        "DateText": "before1685-1685",
+        "ItacPersonItem": {
+            "PersonId": "19057",
+            "RecordId": "022-000006174",
+            "Name": "Sergardi,Lodovico,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

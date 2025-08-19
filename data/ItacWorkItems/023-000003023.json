@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003023",
+        "WorkId": "000387",
+        "ShortTitle": "Della nobilta` et eccellenza delle donne dalla lingua francese alla italiana tradotto",
+        "LongTitle": "Con un`oratione di M. Alessandro Piccolomini in lode delle medesime",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1549",
+        "DedicationPlaceDate": "Venezia, 13 Settembre 1549",
+        "Shelfmark": "721.c.1.(2.)",
+        "Subjects": "Women - Social condition",
+        "Language": "Italian",
+        "Pagination": "36",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16364",
+                "RecordID": "022-000003022",
+                "Value": "Suarda da San Giorgio,Buona,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7556",
+                "RecordID": "022-000001460",
+                "Value": "Giolito De Ferrari,Gabriele,,c. 1510-1578"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Oratione di M. Alessandro Piccolomini in lode delle donne detta in Siena a gli Intronati",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "9205",
+                        "RecordID": "022-000001502",
+                        "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

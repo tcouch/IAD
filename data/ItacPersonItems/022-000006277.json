@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19140",
+        "RecordId": "022-000006277",
+        "Surname": "Ricchio",
+        "Forename": "Giusto",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Rycke",
+                "AlternativeForename": "Josse"
+            },
+            {
+                "AlternativeSurname": "Riquio",
+                "AlternativeForename": "Iusto"
+            },
+            {
+                "AlternativeSurname": "Riquius",
+                "AlternativeForename": null
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "59"
+        },
+        "Notes": "Belgian, archeologist, was admitted among the Lincei in 1625, see Gabrieli (1989), p. 11.",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

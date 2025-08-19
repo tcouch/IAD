@@ -1,0 +1,65 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004181",
+        "WorkId": "000535",
+        "ShortTitle": "L`evangelica parabola",
+        "LongTitle": "delle vergini prudenti et delle stolte. Compositione dramatica. Del R.do M. Benvenuto Flori Sanese",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1642",
+        "DedicationPlaceDate": "Siena 15 March 1642",
+        "Shelfmark": "11715.a.24",
+        "Subjects": "Religious theatrical composition",
+        "Language": "Italian",
+        "Pagination": "196",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16802",
+                "RecordID": "022-000003545",
+                "Value": "Flori,Benvenuto,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "17347",
+                "RecordID": "022-000004175",
+                "Value": "Bartolini,Marzio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17352",
+                "RecordID": "022-000004183",
+                "Value": "Gori,Ercole,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54188",
+            "Value": "023-000004181_54188_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Madrigale del Reverendo Signor Martio Bartolini Accad. Filomato",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "17347",
+                        "RecordID": "022-000004175",
+                        "Value": "Bartolini,Marzio,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

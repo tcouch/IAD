@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19175",
+        "RecordId": "022-000006324",
+        "Surname": "De l`Ecluse",
+        "Forename": "Carlo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Clusius Atrebatis",
+            "AlternativeForename": "Carolus"
+        },
+        "DateText": "1526-1609",
+        "StartDate": "1526",
+        "EndDate": "1609",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Invited to correspond with the Lincei in 1604 (Gabrieli, 1989, p. 437)",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

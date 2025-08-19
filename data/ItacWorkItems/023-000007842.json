@@ -1,0 +1,57 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007842",
+        "WorkId": "000876",
+        "ShortTitle": "Talanta Comedia",
+        "LongTitle": "di messer Pietro Aretino. Composta a petitione de i magnanimi Signori Sempiterni. E recitata da le lor proprie Magnificentie, con mirabile superbia di apparato.",
+        "ItacAcademyItem": {
+            "AcademyId": "0447",
+            "RecordID": "021-000007841",
+            "Value": "Accademia dei Sempiterni - Compagnia della Calza"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1542",
+        "Shelfmark": "G10393",
+        "Subjects": "Theatre|Comedy",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9231",
+                "RecordID": "022-000001528",
+                "Value": "Aretino,Pietro,,1492-1556"
+            }
+        },
+        "Notes": "At the end of the volume there is this short letter    \nPietro Aretino al Piccolhomini: Io, o Alessandro, creatura nobile e spirito elegante; ne le hore da me furate al sonno di forse venti notte [sic!] ho come si sa; composto due comedie, l`una intitolata La Talanta, che e` questa che io mando alla Signoria Vostra, e l`altra chiamata lo Hipocrito, che e` quella ch`io ho mandata al Duca di Fiorenza; e caso che non ci troviate nulla di sustantia datene parte de la colpa al mio poco sapere, e parte alla forza che mi costrinse a fornirla in meno tempo che non si peno` a rescriverla, benche` spero concedendomelo Iddio, di mostrar cio` che io so, ne la tragedia di Christo; la quale compongo tuttavia: in tanto vi saluto con carita` di amico; e con tenerezza di padre. ---- Book binding is shown here.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7108",
+                "RecordID": "022-000000838",
+                "Value": "de` Medici,Cosimo I,Grand Duke,1519 - 1574"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16234",
+                "RecordID": "022-000002875",
+                "Value": "Marcolini,Francesco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55044",
+            "Value": "023-000007842_55044_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55045",
+            "Value": "023-000007842_55045_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

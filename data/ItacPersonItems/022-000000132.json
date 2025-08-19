@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5136",
+        "RecordId": "022-000000132",
+        "Surname": "Gessi",
+        "Forename": "Berlingiero (seniore)",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Berlinghiero"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1564-1639",
+        "StartDate": "1564",
+        "EndDate": "1639",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "See his biography by S. Feci in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

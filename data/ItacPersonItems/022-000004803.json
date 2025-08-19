@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17882",
+        "RecordId": "022-000004803",
+        "Surname": "Haelweg",
+        "Forename": "Adriaen",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Halluech",
+                "AlternativeForename": "Adrianus"
+            },
+            {
+                "AlternativeSurname": "Hellweg",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1637 - ?",
+        "StartDate": "1637",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "167",
+            "Value": "Flemish"
+        },
+        "Role": "Illustrator",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

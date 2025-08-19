@@ -1,0 +1,98 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0140",
+        "RecordId": "021-000006003",
+        "Name": "Intrecciati (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Blossomed Hedge",
+        "EmblemImage": {
+            "ImageId": "54544",
+            "Value": "021-000006003_54544_1.jpg"
+        },
+        "Motto": "Munit et ornat",
+        "StartDate": "1641",
+        "EndDate": "1692ca",
+        "DateText": "1641-1692ca",
+        "Notes": "This Academy was interested in the study of law. Publications (not in the British Library collections) include: Lozano, Orandriasis (1656), see Franchi, Impressioni sceniche, p. 745;  Discorsi sacri e morali detti nell`Accademia degli Intrecciati eretta dal dottore Gioseppe Carpano, ed. Antonio Stefano Cartari (Roma: nella stamparia della Reverenda Camera Apostolica, 1673); Fasti dell`Accademia degli Intrecciati nelli quali sono descritte le accademie di belle lettere fin`hora tenute, ed. Antonio Stefano Cartari (1673); Antonio Stefani Cartari, Arcus Triumphalis Innocentio XI Pontifici (1676); Giuseppe Carpani, Institutionum iuris canonici breviarium a Iosepho Carpano ... in gratiam Romanae iuventutis elucubratum eidemque pariter directum anno christiano 1691; Additis fastis legalibus Romanae academiae Intrecciatorum (Romae, de Lazaris, 1692). Intrecciati`s emblem is in Heroum Semita, the engraver is Albert Clouet.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18906",
+                "RecordId": "022-000006001",
+                "Name": "Cartari,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18725",
+                "RecordId": "022-000005790",
+                "Name": "Cartari,Antonio Stefano,,1651 - 1685",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18907",
+                "RecordId": "022-000006002",
+                "Name": "Carpani,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18909",
+                "RecordId": "022-000006007",
+                "Name": "Baldini,Sebastiano,,1615 - 1685",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18911",
+                "RecordId": "022-000006009",
+                "Name": "Lozano,Cristoval,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18926",
+                "RecordId": "022-000006025",
+                "Name": "Altemps,Giovanni Angelo,,1642 - ?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18720",
+                "RecordId": "022-000005785",
+                "Name": "Mandosio,Prospero,,1643 - 1724",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19536",
+                "RecordId": "022-000006796",
+                "Name": "Gherardelli,Giovanni Battista Filippo,,1623 - 1653",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5012",
+                "RecordId": "022-000000014",
+                "Name": "Barbazza,Andrea,Count,1581/82-1656",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9645",
+        "RecordId": "022-000001776",
+        "Surname": "Volpe",
+        "Forename": "Giovanni Mattheo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Giovan Matteo"
+            },
+            {
+                "AlternativeForename": "Giovanni Matteo"
+            },
+            {
+                "AlternativeForename": "Giovan Mattheo"
+            }
+        ],
+        "DateText": "16th C.",
+        "StartDate": "16th C.",
+        "Nationality": {
+            "NationalityId": "367"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0574",
+        "RecordId": "021-000008406",
+        "Name": "Nobili senesi (Nuova Accademia dei)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "StartDate": "before 1691",
+        "EndDate": "?",
+        "DateText": "before 1691-?",
+        "Notes": "The existence of this Academy was mentioned by Mario Rosa, `Astorini, Elia`, in DBI. here Astorini taught mathematics, and prepared an edition of Elementa Euclidis ad usum Novae Academiae Nobilium Senensium nova methodo et succincta demonstrata..., Senis 1691, which he dedicated to the patron of the Academy (whose name Rosa does not mention). This publication is not in British Library collections.",
+        "ItacPersonItem": {
+            "PersonId": "20610",
+            "RecordId": "022-000008392",
+            "Name": "Astorini,Elia,,1651-1702",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

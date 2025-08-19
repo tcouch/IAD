@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006332",
+        "WorkId": "000747",
+        "ShortTitle": "Poeti Antichi.",
+        "LongTitle": "Raccolti Da Codici M.SS. della Biblioteca Vaticana, e Barberina. Da Monsignor Leone Allacci e da lui dedicati Alla Accademia della Fucina della nobile, & Esemplare Citt\u00e0 di Messina.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1661",
+        "Shelfmark": "1071.e.8.",
+        "Subjects": "Poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Academy emblem with motto",
+        "Pagination": "pp. 546",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18144",
+                "RecordID": "022-000005107",
+                "Value": "Ventimiglia,Giovanni,,1624 - 1665"
+            }
+        },
+        "Notes": "The preface contains various references to the Fucina Academy in Messina",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0131",
+                "RecordID": "021-000005843",
+                "Value": "Accademia della Fucina"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15217",
+                "RecordID": "022-000001259",
+                "Value": "Allacci,Leone,,1586-1669"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17445",
+                "RecordID": "022-000004306",
+                "Value": "di Alecci,Sebastiano,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "All`Ill. mo e Rev.mo Monsignor leone Allacci Primo Custode della Vaticana. L`Occulto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18144",
+                            "RecordID": "022-000005107",
+                            "Value": "Ventimiglia,Giovanni,,1624 - 1665"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`Occulto Accademico della Fucina. A` Lettori.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18144",
+                            "RecordID": "022-000005107",
+                            "Value": "Ventimiglia,Giovanni,,1624 - 1665"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

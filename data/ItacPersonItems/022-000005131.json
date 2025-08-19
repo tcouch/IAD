@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18163",
+        "RecordId": "022-000005131",
+        "Surname": "Mancini",
+        "Forename": "Paolo Lucio",
+        "DateText": "fl.1597 - 1635",
+        "StartDate": "fl.1597",
+        "EndDate": "1635",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Founder of the Umoristi. Also known as Lucius Minicius Sinister",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000281",
+        "WorkId": "00002",
+        "ShortTitle": "Corindo",
+        "LongTitle": "Favola Pastorale del signor Co[nte] Carlo Bentivogli fra` Gelati L`Unito col prologo intramezzi et licenza del signor Nicol\u00f2 Zoppio fra` Gelati L`Inabile",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1640",
+        "Shelfmark": "11715.g.22",
+        "Subjects": "Pastoral tale",
+        "Language": "Italian",
+        "Illustration": "Engraved flyleaf | Emblem of the Academy in the title page | Woodcut |",
+        "Pagination": "13 leaves unnumbered; pp. 118",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5048",
+                "RecordID": "022-000000050",
+                "Value": "Bentivogli,Carlo,Count,1615-1661"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5017",
+                    "RecordID": "022-000000019",
+                    "Value": "Carmeni,Francesco,,"
+                },
+                {
+                    "PersonId": "5048",
+                    "RecordID": "022-000000050",
+                    "Value": "Bentivogli,Carlo,Count,1615-1661"
+                },
+                {
+                    "PersonId": "5050",
+                    "RecordID": "022-000000052",
+                    "Value": "Onofrio,Giacinto,,"
+                },
+                {
+                    "PersonId": "5051",
+                    "RecordID": "022-000000053",
+                    "Value": "Turchi,Niccol\u00f2 Zoppio,,1609-1656"
+                },
+                {
+                    "PersonId": "5052",
+                    "RecordID": "022-000000054",
+                    "Value": "Marescotti,Bernardino,Count,\u20201649"
+                }
+            ]
+        },
+        "Notes": "The first image is the engraved flyleaf.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5226",
+                    "RecordID": "022-000000218",
+                    "Value": "Paganellus,Polycarpus,,"
+                },
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "V. D. Polycarpus Paganellus Poenit. Pro Eminentiss. et Reverendiss. D. Card. Archiepisc. Imprimatur. Fr. Hieron Onuph. Consultor S. Officii pro Reverendiss. P. Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5048",
+                    "RecordID": "022-000000050",
+                    "Value": "Bentivogli,Carlo,Count,1615-1661"
+                },
+                {
+                    "PersonId": "5201",
+                    "RecordID": "022-000000195",
+                    "Value": "Sacchetti,Giulio Cesare,Cardinal,1586-1663"
+                },
+                {
+                    "PersonId": "5202",
+                    "RecordID": "022-000000196",
+                    "Value": "Guastavillani,Filippo,Senator,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0006",
+                "RecordID": "021-000000002",
+                "Value": "Accademia dei Riaccesi"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5246",
+                "RecordID": "022-000000238",
+                "Value": "Ferroni,Clemente,,1555/6-1640"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52742",
+            "Value": "023-000000281_52742_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53117",
+            "Value": "023-000000281_53117_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9219",
+        "RecordId": "022-000001516",
+        "Surname": "Salviati",
+        "Forename": "Lorenzo",
+        "DateText": "1492 - 1539",
+        "StartDate": "1492",
+        "EndDate": "1539",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Role": "Dedicatee",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

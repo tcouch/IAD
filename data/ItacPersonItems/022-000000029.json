@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5027",
+        "RecordId": "022-000000029",
+        "Surname": "Guastavillani",
+        "Forename": "Angelo Michele",
+        "PersonalTitle": "Senator",
+        "DateText": "1633 - 1701",
+        "StartDate": "1633",
+        "EndDate": "1701",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Studied philosophy in the Accademia dei Ringiovaniti (Bologna)",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

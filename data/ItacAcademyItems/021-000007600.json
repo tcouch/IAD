@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0391",
+        "RecordId": "021-000007600",
+        "Name": "Addolorati (Accademia degli)",
+        "City": {
+            "CityId": "86",
+            "CityItalianName": "Palermo",
+            "CityEnglishName": "Palermo",
+            "CityLatinName": "Panormus"
+        },
+        "Motto": "Inter Utrumque Canit",
+        "StartDate": "1617",
+        "EndDate": "?",
+        "DateText": "1617-?",
+        "Notes": "According to Maylender the Addolorati academy may refer to the former Buteriana academy founded by Prince of Butera (a member of the Branciforte family?) in 1612. \nAccording to Mongitore the Addolorati academy was also called Raffrontati.",
+        "ItacPersonItem": {
+            "PersonId": "20099",
+            "RecordId": "022-000007601",
+            "Name": "Butera,,Prince,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

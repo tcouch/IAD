@@ -1,0 +1,127 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008183",
+        "WorkId": "000919",
+        "ShortTitle": "Discorsi del sig. Conte Guidobaldo Bonarelli",
+        "LongTitle": "Accademico Intrepido. In difesa del doppio amore della sua Celia. all`Illustrissimo, et Reverendissimo signor Carlo Spinola, della medesima Accademia dedicati",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "49",
+            "PublicationPlaceItalianName": "Ancona",
+            "PublicationPlaceEnglishName": "Ancona"
+        },
+        "PublicationYear": "1612",
+        "DedicationPlaceDate": "Ferrara 11 aogosto 1612",
+        "Shelfmark": "84i5",
+        "Subjects": "Love",
+        "Language": "Italian",
+        "Pagination": "[30] 221",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20437",
+                "RecordID": "022-000008161",
+                "Value": "Bonarelli della Rovere,Guidobaldo,Count,1563-1608"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20455",
+                    "RecordID": "022-000008184",
+                    "Value": "Thieni of Scandiano,Ottavio II,,?-1628"
+                },
+                {
+                    "PersonId": "20431",
+                    "RecordID": "022-000008155",
+                    "Value": "Gualengo,Galeazzo,Marquis,?-1623"
+                },
+                {
+                    "PersonId": "5147",
+                    "RecordID": "022-000000143",
+                    "Value": "Imperiale,Gian Vincenzo,,1582-1648"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20457",
+                    "RecordID": "022-000008186",
+                    "Value": "Pacificus,Valentinus,,"
+                },
+                {
+                    "PersonId": "20458",
+                    "RecordID": "022-000008187",
+                    "Value": "Florectus,Iohannes Maria,Inquisitor of Ancona,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Testor ego frater Valentinus Pacificus ex Minoribus de Observantia Sacrae Theologiae professor, me de mandato M. R. P. Inquisitoris Anconae, legisse hunc librum inscriptum . I Discorsi del Conte Guidobaldo Bonarelli in difesa del doppio amore della sua Celia. Et nihil in eo invenisse contra fidem catholicam, et bonos mores. In quorum fidem, et c. Dat. In nostro conventu S. Francisci ad altum Anconae hac die quarta Aprilis 1612. Visa supradicta attestatione, concedo licentiam, ut imprimatur. Ego Fr. Io Maria Florectus Inquisitor Anconae et c.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20459",
+                "RecordID": "022-000008188",
+                "Value": "Spinola,Orazio,Cardinal,1547?-1616"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0385",
+                "RecordID": "021-000007496",
+                "Value": "Intrepidi (Accademia degli)"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20456",
+                "RecordID": "022-000008185",
+                "Value": "Salvioni,Marco,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55262",
+            "Value": "023-000008183_55262_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "All'illustriss.mo et rev.mo Sig. cardinale Spinola Legato di Ferrara, etc. loro signore et padron colendissimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20455",
+                            "RecordID": "022-000008184",
+                            "Value": "Thieni of Scandiano,Ottavio II,,?-1628"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del sig. Galeazzo Gualengo Accademico Intrepido detto l'Avinto. Sonnet: Non ha Celia gentil da pieta sciolto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20431",
+                            "RecordID": "022-000008155",
+                            "Value": "Gualengo,Galeazzo,Marquis,?-1623"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Giovanvincenzo Imperiale Accademico Intrepido detto il Ripercosso. Sonnet: Ne pago e' il ciel se un solo Sol l'accende",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5147",
+                            "RecordID": "022-000000143",
+                            "Value": "Imperiale,Gian Vincenzo,,1582-1648"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

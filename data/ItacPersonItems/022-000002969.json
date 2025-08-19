@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16316",
+        "RecordId": "022-000002969",
+        "Surname": "Frachetta",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "DateText": "1558-1619",
+        "StartDate": "1558",
+        "EndDate": "1619",
+        "Nationality": {
+            "NationalityId": "114",
+            "Value": "of Rovigo"
+        },
+        "Notes": "See his biography by Enzo Baldini, in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

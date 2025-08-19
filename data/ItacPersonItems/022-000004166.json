@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17340",
+        "RecordId": "022-000004166",
+        "Surname": "Gelsi",
+        "Forename": "Giovanni",
+        "DateText": "1592 - after 1654",
+        "StartDate": "1592",
+        "EndDate": "after 1654",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "`Prete secolare`, according to Mazzi, vol. 2, p. 233. Comments on his ms verses in Il Borghini giornale di filologia e di lettere italiane, 2, 3, 4 (1879)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5142",
+        "RecordId": "022-000000138",
+        "Surname": "Graziani",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "PersonalTitle": "Count",
+        "DateText": "1604-1674",
+        "StartDate": "1604",
+        "EndDate": "1674",
+        "Nationality": {
+            "NationalityId": "350",
+            "Value": "of Pergola (Urbino)"
+        },
+        "Notes": "See his biography by F. Tarzia, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

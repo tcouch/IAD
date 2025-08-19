@@ -1,0 +1,52 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0520",
+        "RecordId": "021-000008052",
+        "Name": "Ingegnosi (Accademia degli)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1620",
+        "EndDate": "1626",
+        "DateText": "1620-1626",
+        "Notes": "Publications related to the history of the Ingegnosi Academy, include: \nLandrini, Galeazzo, Discorsi due, l`uno dell`influenze, l`altro dell`opinione, del sig. dottor Galeazzo Landrini accademico Intrepido, detto lo Scaltro, da gl`accademici Ingegnosi all`illustrissimi signori accademici Intrepidi dedicati (In Ferrara: per Francesco Suzzi, 1622);  \nPetrocini, Marco, La costante Celinda commedia del capitan Petroccini, nell`Accademia de gl`Ingegnosi di Ferrara lo Stanco. All`illustrissimo sig. Girolamo Brescia (In Siena: Bonetti, 1626); \nRamondini, Francesco, Orazione del signor Francesco Ramondini finalese, scolare artista, ed accademico ingegnoso, detto l`Accademico, recitata nell`aprir dello Studio di Ferrara l`anno 1626. Poi tradotto di latino in volgare dallo stesso, e dedicata dall`Accademia degl`Ingegnosi agl`illustrissimi signori giugice e maestrato de Savi, e signori riformatori di detto Studio (Ferrara: presso Francesco Suzzi stampator camerale, 1627)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20513",
+                "RecordId": "022-000008252",
+                "Name": "Petrocini,Marco,,",
+                "Nickname": "Lo Stanco",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20514",
+                "RecordId": "022-000008253",
+                "Name": "Caravieri,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20515",
+                "RecordId": "022-000008254",
+                "Name": "Landrini,Galeazzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20578",
+                "RecordId": "022-000008332",
+                "Name": "Ramondini,Francesco,,",
+                "Nickname": "l'Academico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

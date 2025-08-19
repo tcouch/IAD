@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18663",
+        "RecordId": "022-000005725",
+        "Surname": "de Angulo",
+        "Forename": "Gregorio",
+        "AlternativeName": {
+            "AlternativeSurname": "de Angulo",
+            "AlternativeForename": "Gregorius"
+        },
+        "Anagram": "Lege rego iracundos",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Notes": "Gregorio de Angulo was the President of the Iracondi Academy in Naples",
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

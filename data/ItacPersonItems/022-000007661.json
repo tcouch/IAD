@@ -1,0 +1,34 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20149",
+        "RecordId": "022-000007661",
+        "Surname": "Badoaro",
+        "Forename": "Giacomo",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Badoer",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Badoero",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Badovero",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Iacopo"
+            }
+        ],
+        "DateText": "1602-1654",
+        "StartDate": "1602",
+        "EndDate": "1654",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

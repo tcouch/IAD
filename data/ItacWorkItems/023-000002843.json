@@ -1,0 +1,443 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002843",
+        "WorkId": "000365",
+        "ShortTitle": "La Ghirlanda",
+        "LongTitle": "Della Contessa Angela Bianca Beccaria. Contesta di Madrigali di diversi Autori, Raccolti, & dichiarati dal Sig. Stefano Guazzi Gentil`huomo di Casale Monferrato. Ove s`introducono diverse persone \u00e0 ragionare, Nella Prima giornata delle Frondi, Seconda de` Fiori, Terza de` Frutti intrecciati in essa Ghirlanda.",
+        "ItacAcademyItem": {
+            "AcademyId": "0478",
+            "RecordID": "021-000007907",
+            "Value": "Illustrati (Accademia degli)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "123",
+            "PublicationPlaceItalianName": "Genova",
+            "PublicationPlaceEnglishName": "Genoa",
+            "PublicationPlaceLatinName": "Genua"
+        },
+        "PublicationYear": "1595",
+        "Shelfmark": "1073.h.28",
+        "Subjects": "Hieroglyphics|Encomiastic poetry|Commentary",
+        "Language": "Italian",
+        "Pagination": "557",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9194",
+                "RecordID": "022-000001773",
+                "Value": "Guazzo,Stefano,,1530-1593"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9194",
+                    "RecordID": "022-000001773",
+                    "Value": "Guazzo,Stefano,,1530-1593"
+                },
+                {
+                    "PersonId": "20359",
+                    "RecordID": "022-000008081",
+                    "Value": "Torto,Girolamo,Knight of the Order of Saint Lazarus,"
+                },
+                {
+                    "PersonId": "20360",
+                    "RecordID": "022-000008082",
+                    "Value": "Verga,Giulio,,"
+                },
+                {
+                    "PersonId": "20361",
+                    "RecordID": "022-000008083",
+                    "Value": "Borgogni,Gherardo,,1526-ca.1608"
+                },
+                {
+                    "PersonId": "20362",
+                    "RecordID": "022-000008084",
+                    "Value": "Natta,Federico,,1575-1627"
+                },
+                {
+                    "PersonId": "20363",
+                    "RecordID": "022-000008085",
+                    "Value": "Acciali,Antonio,,"
+                },
+                {
+                    "PersonId": "20364",
+                    "RecordID": "022-000008086",
+                    "Value": "Cappelli,Laura Beatrice,,1540-ca. 1617"
+                },
+                {
+                    "PersonId": "20365",
+                    "RecordID": "022-000008087",
+                    "Value": "Gritio,Annibale,,"
+                },
+                {
+                    "PersonId": "16622",
+                    "RecordID": "022-000003341",
+                    "Value": "Pugiella,Francesco,,"
+                },
+                {
+                    "PersonId": "20366",
+                    "RecordID": "022-000008088",
+                    "Value": "Bendinella,Silvia,,"
+                },
+                {
+                    "PersonId": "20367",
+                    "RecordID": "022-000008089",
+                    "Value": "Lana,Orazio,,"
+                },
+                {
+                    "PersonId": "20368",
+                    "RecordID": "022-000008090",
+                    "Value": "Natta,Carlo,,"
+                },
+                {
+                    "PersonId": "20369",
+                    "RecordID": "022-000008091",
+                    "Value": "Belmonte,Pietro,,"
+                },
+                {
+                    "PersonId": "20370",
+                    "RecordID": "022-000008092",
+                    "Value": "Marliani,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "20371",
+                    "RecordID": "022-000008093",
+                    "Value": "Burchiellati,Bartolomeo,,1548-1632"
+                },
+                {
+                    "PersonId": "16376",
+                    "RecordID": "022-000003042",
+                    "Value": "Bulgarini,Belisario,,1539 - 1620"
+                },
+                {
+                    "PersonId": "20372",
+                    "RecordID": "022-000008094",
+                    "Value": "Marescotti,Margherita,,"
+                },
+                {
+                    "PersonId": "20373",
+                    "RecordID": "022-000008095",
+                    "Value": "Todesco,Cesare,,"
+                },
+                {
+                    "PersonId": "20374",
+                    "RecordID": "022-000008096",
+                    "Value": "Paci,Claudio,,"
+                },
+                {
+                    "PersonId": "20375",
+                    "RecordID": "022-000008097",
+                    "Value": "Beffa Negrini,Antonio,,1532-1602"
+                },
+                {
+                    "PersonId": "20376",
+                    "RecordID": "022-000008098",
+                    "Value": "Mori,Ascanio Pipino de\u2019,,ca. 1532/3-1591"
+                },
+                {
+                    "PersonId": "20377",
+                    "RecordID": "022-000008099",
+                    "Value": "Falletti,Matteo,,"
+                },
+                {
+                    "PersonId": "20378",
+                    "RecordID": "022-000008100",
+                    "Value": "Guiscardi,Traiano,Marquis of Cerro,1554-1639"
+                },
+                {
+                    "PersonId": "20379",
+                    "RecordID": "022-000008101",
+                    "Value": "Porta,Malatesta,Cavalier,"
+                },
+                {
+                    "PersonId": "20380",
+                    "RecordID": "022-000008102",
+                    "Value": "Magnocavalli,Ottavio,,"
+                },
+                {
+                    "PersonId": "20381",
+                    "RecordID": "022-000008103",
+                    "Value": "Passero,Felice,,?-1626"
+                },
+                {
+                    "PersonId": "9144",
+                    "RecordID": "022-000001615",
+                    "Value": "Torelli,Pomponio,Count,1539 - 1608"
+                },
+                {
+                    "PersonId": "20382",
+                    "RecordID": "022-000008104",
+                    "Value": "Mancini,Giacomo,,"
+                },
+                {
+                    "PersonId": "16263",
+                    "RecordID": "022-000002911",
+                    "Value": "Molza,Tarquinia,,1542-1617"
+                },
+                {
+                    "PersonId": "16248",
+                    "RecordID": "022-000002896",
+                    "Value": "Bargagli,Scipione,,1540-1612"
+                },
+                {
+                    "PersonId": "20383",
+                    "RecordID": "022-000008105",
+                    "Value": "Durante,Francesco,,16th C."
+                },
+                {
+                    "PersonId": "20384",
+                    "RecordID": "022-000008106",
+                    "Value": "Cattaneo,Prospero,,"
+                },
+                {
+                    "PersonId": "15028",
+                    "RecordID": "022-000001070",
+                    "Value": "Grillo,Angelo,Abbot,1557-1629"
+                },
+                {
+                    "PersonId": "20385",
+                    "RecordID": "022-000008107",
+                    "Value": "Comanini,Gregorio,,?-1608"
+                },
+                {
+                    "PersonId": "20386",
+                    "RecordID": "022-000008108",
+                    "Value": "Navazzotti,Orazio,,1560/64-1624"
+                },
+                {
+                    "PersonId": "20387",
+                    "RecordID": "022-000008109",
+                    "Value": "Spinola,Leonardo,,"
+                },
+                {
+                    "PersonId": "16521",
+                    "RecordID": "022-000003217",
+                    "Value": "Guasco,Annibale,,1540-1619"
+                },
+                {
+                    "PersonId": "20388",
+                    "RecordID": "022-000008110",
+                    "Value": "Costeo,Giovanni Francesco,,1565-1608?"
+                },
+                {
+                    "PersonId": "20389",
+                    "RecordID": "022-000008111",
+                    "Value": "Casone,Girolamo,,"
+                },
+                {
+                    "PersonId": "20390",
+                    "RecordID": "022-000008112",
+                    "Value": "Frigio,Giacomo Antonio,,"
+                },
+                {
+                    "PersonId": "20391",
+                    "RecordID": "022-000008113",
+                    "Value": "Coquinati,Carlo,,"
+                },
+                {
+                    "PersonId": "15168",
+                    "RecordID": "022-000001210",
+                    "Value": "Torre,Giovanni,,"
+                },
+                {
+                    "PersonId": "20393",
+                    "RecordID": "022-000008115",
+                    "Value": "Gallarati,Tommaso,,"
+                },
+                {
+                    "PersonId": "20394",
+                    "RecordID": "022-000008116",
+                    "Value": "Spinola,Livia,,"
+                },
+                {
+                    "PersonId": "17139",
+                    "RecordID": "022-000003946",
+                    "Value": "Alessandrini,Girolamo,,"
+                },
+                {
+                    "PersonId": "20395",
+                    "RecordID": "022-000008117",
+                    "Value": "Beccaria,Alfonso,Count,"
+                },
+                {
+                    "PersonId": "20396",
+                    "RecordID": "022-000008118",
+                    "Value": "Visconte,Giovanni,,"
+                },
+                {
+                    "PersonId": "20397",
+                    "RecordID": "022-000008119",
+                    "Value": "Flotte,Joseph,,"
+                },
+                {
+                    "PersonId": "20398",
+                    "RecordID": "022-000008120",
+                    "Value": "Arcimboldo,Giovanni Angelo,,"
+                },
+                {
+                    "PersonId": "20399",
+                    "RecordID": "022-000008121",
+                    "Value": "Guastavino,Giulio,,"
+                },
+                {
+                    "PersonId": "20400",
+                    "RecordID": "022-000008122",
+                    "Value": "Spanocchi,Fulvia,,"
+                },
+                {
+                    "PersonId": "20401",
+                    "RecordID": "022-000008123",
+                    "Value": "Belloni,Fabio,,"
+                },
+                {
+                    "PersonId": "16485",
+                    "RecordID": "022-000003167",
+                    "Value": "Giolito De Ferrari,Giovanni,,1554 - 1591"
+                },
+                {
+                    "PersonId": "20402",
+                    "RecordID": "022-000008124",
+                    "Value": "Curioni,Orazio,,"
+                },
+                {
+                    "PersonId": "20403",
+                    "RecordID": "022-000008125",
+                    "Value": "Castro,Enrico,,"
+                },
+                {
+                    "PersonId": "20404",
+                    "RecordID": "022-000008126",
+                    "Value": "Guazzo,Giovanni Antonio,,"
+                },
+                {
+                    "PersonId": "20405",
+                    "RecordID": "022-000008127",
+                    "Value": "Bosso,Giovanni Giacomo,,"
+                },
+                {
+                    "PersonId": "5602",
+                    "RecordID": "022-000000659",
+                    "Value": "Manfredi,Muzio,,ca.1535-1609"
+                },
+                {
+                    "PersonId": "20406",
+                    "RecordID": "022-000008128",
+                    "Value": "Cede\u00f1o,Juan,,"
+                },
+                {
+                    "PersonId": "20407",
+                    "RecordID": "022-000008129",
+                    "Value": "Spinola,Opicio,,"
+                },
+                {
+                    "PersonId": "20408",
+                    "RecordID": "022-000008130",
+                    "Value": "Matthei,Antonio,,"
+                },
+                {
+                    "PersonId": "20409",
+                    "RecordID": "022-000008131",
+                    "Value": "Riva,Giorgio,,"
+                },
+                {
+                    "PersonId": "20410",
+                    "RecordID": "022-000008132",
+                    "Value": "Nemours,Cesare,,"
+                },
+                {
+                    "PersonId": "20411",
+                    "RecordID": "022-000008133",
+                    "Value": "Stanchi,Elena Bianca,,"
+                },
+                {
+                    "PersonId": "20412",
+                    "RecordID": "022-000008134",
+                    "Value": "Spinola,Giovanni Ambrosio,,"
+                },
+                {
+                    "PersonId": "20413",
+                    "RecordID": "022-000008135",
+                    "Value": "Ferrari,Bernardo,,"
+                },
+                {
+                    "PersonId": "20414",
+                    "RecordID": "022-000008136",
+                    "Value": "Spinola,Francesco Antonio,,"
+                },
+                {
+                    "PersonId": "20415",
+                    "RecordID": "022-000008137",
+                    "Value": "Ceva,Giovanni Andrea,,"
+                },
+                {
+                    "PersonId": "20417",
+                    "RecordID": "022-000008139",
+                    "Value": "Bonardo,Riccardo,,"
+                },
+                {
+                    "PersonId": "20418",
+                    "RecordID": "022-000008140",
+                    "Value": "Eusebioni,Enrico,,"
+                },
+                {
+                    "PersonId": "20419",
+                    "RecordID": "022-000008141",
+                    "Value": "Lupi,Orazio,,"
+                },
+                {
+                    "PersonId": "20420",
+                    "RecordID": "022-000008142",
+                    "Value": "Selvaggio,Massimiliano,,"
+                },
+                {
+                    "PersonId": "20421",
+                    "RecordID": "022-000008143",
+                    "Value": "Massarengo,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "20422",
+                    "RecordID": "022-000008144",
+                    "Value": "Carretto,Oderico,,"
+                },
+                {
+                    "PersonId": "20101",
+                    "RecordID": "022-000007603",
+                    "Value": "Ceba`,Ansaldo,,1565-1623"
+                }
+            ]
+        },
+        "Notes": "The volume records celebrations that took place at the palace of Count Alfonso Beccaria in Pavia on 1st May, 1590. Although the assembly that met on this occasion is not referred to explicitly as an academy, many academies feature in the text, including the Cospiranti (Treviso), Invaghiti (Mantua), Crusca(Florence), Addormentati (Genoa), Desiosi (Pavia), Innominati (Parma), and Illustrati (Casale Monferrato).\nIn a verse dedicated to the book (`Sopra la Ghirlanda`) by Antonio Acciali, in the preface, an allusion is made to Guazzo`s nickname in the Accademia degli Illustrati, Elevato. The first tercet reads: `GUAZZO gentil, Cigno immortal canoro, / Che di Poemi altrui l`opra inalzasti, / Godi l\u00e0 suso, ove ELEVATO siedi.`",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20423",
+                    "RecordID": "022-000008145",
+                    "Value": "Beccaria,Angela Bianca,,"
+                },
+                {
+                    "PersonId": "20424",
+                    "RecordID": "022-000008146",
+                    "Value": "Guazzo,Olimpia,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9194",
+                "RecordID": "022-000001773",
+                "Value": "Guazzo,Stefano,,1530-1593"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20506",
+                "RecordID": "022-000008245",
+                "Value": "Bartoli (eredi di),Girolamo,,fl. 1575-1596"
+            }
+        },
+        "PrinterOrnament": "U109",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

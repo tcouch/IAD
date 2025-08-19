@@ -1,0 +1,81 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006502",
+        "WorkId": "000778",
+        "ShortTitle": "Lettera Del R.P.M. Paolo Antonio Foscarini Carmelitano. Sopra l`Opinione de` Pittagorici, e del Copernico.",
+        "LongTitle": "Della Mobilit\u00e0 della Terra, e stabilit\u00e0 del Sole, e del nuovo Pittagorico Sistema del Mondo. Al Reverendiss. P. M. Sebastiano Fantone Generale dell`ordine Carmelitano.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            },
+            {
+                "AcademyId": "0151",
+                "RecordID": "021-000006261",
+                "Value": "Accademia dei Lincei"
+            }
+        ],
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1615",
+        "DedicationPlaceDate": "Naples 6 January 1615",
+        "Shelfmark": "531.e.42",
+        "Subjects": "Astronomy|Cosmography",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Y|Woodcut|Religious figures",
+        "Pagination": "pp. 64",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19316",
+                "RecordID": "022-000006506",
+                "Value": "Foscarini,Paolo Antonio,Carmelite,1565 - ?"
+            }
+        },
+        "Notes": "This text was commissioned by Vincenzo Carafa, a member of the Oziosi academy in Naples.\nOn p. 13 the author mentions Galileo Galilei and the Lincei academy. The last page contains some manuscript notes.\nIn 1616 Foscarini`s text was included in the Index Librorum Prohibitorum.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15139",
+                    "RecordID": "022-000001181",
+                    "Value": "Ghibertus,Petrus Anton[ius],,"
+                },
+                {
+                    "PersonId": "15224",
+                    "RecordID": "022-000001266",
+                    "Value": "Longus,Ioannes,Canon|Archbishop of Naples,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. P. Ant. Ghibert. Vic. Gen. Ioannes Longus Can. & Cur. Archiep. Neap. Theol. vidit.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19318",
+                "RecordID": "022-000006508",
+                "Value": "Fantone,Sebastiano,Carmelite,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15137",
+                "RecordID": "022-000001179",
+                "Value": "Scoriggio,Lazzaro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54895",
+            "Value": "023-000006502_54895_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54896",
+            "Value": "023-000006502_54896_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003183",
+        "WorkId": "000412",
+        "ShortTitle": "Il sacrificio de gli Intronati",
+        "LongTitle": "Celebrato ne i giuochi di uno Carnovale in Siena. Di nuovo corretta e ristampata.\nL`amor costante del S. Alessandro Piccolomini. nuovamente ristampata, et tutta rivista, et ricorretta da gli errori delle stampe, da Girolamo Ruscelli.\nL`Alessandro. Comedia del S. Alessandro Piccolomini. Nuovamente ristampata, et tutta rivista, et ricorretta da gli errori delle stampe, da Girolamo Ruscelli.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1554",
+        "Shelfmark": "1071.h.14.(1-3)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "147; 190; 119",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16499",
+                "RecordID": "022-000003185",
+                "Value": "Ruscelli,Girolamo,,1504 - 1566"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16499",
+                "RecordID": "022-000003185",
+                "Value": "Ruscelli,Girolamo,,1504 - 1566"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16498",
+                "RecordID": "022-000003184",
+                "Value": "Pietrasanta,Plinio,,fl. 1553 - 1557"
+            }
+        },
+        "PrinterOrnament": "CNCE 52161",
+        "TitlePageImage": {
+            "ImageId": "53435",
+            "Value": "023-000003183_53435_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Annotationi di Girolamo Ruscelli sopra le cinque comedie del primo volume",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16499",
+                        "RecordID": "022-000003185",
+                        "Value": "Ruscelli,Girolamo,,1504 - 1566"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

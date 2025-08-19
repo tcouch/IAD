@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006305",
+        "WorkId": "000741",
+        "ShortTitle": "Io Bap. Portae Neapolitani De distillatione",
+        "LongTitle": "Lib. IX. Quibus certa methodo, multipliciq; artificio, penitioribus aturae rcanis detectis, cuiuslibet mixti in propria elementa resolutio, perfecte docetur",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1608",
+        "DedicationPlaceDate": "Neapoli 20 Julii 1604",
+        "Shelfmark": "538d20(3)",
+        "Subjects": "Distillation",
+        "Language": "Latin|Persian|Hebrew|Greek|Chaldean|Illyrian|Armenian",
+        "Pagination": "[20] 154 [8]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16280",
+                "RecordID": "022-000002933",
+                "Value": "Della Porta,Giambattista,,1535? - 1615"
+            }
+        },
+        "Notes": "The author mentions Accademia dei Lincei and its members in the Dedication. The volume contains several poems in different languages in praise of Porta`s book, all of which are anonymous.",
+        "CensorsAgreement": "Ego Ioannes Demisianus D. Theologus diligenter perlegi Opus de Distillatione Eruditiss. Viri Io. Bap. Portae Neapolitani, in quo nihil offendi, quod vel Catholicae fidei, vel morum probitati officere possit, immo cum varia multiplicique doctrina sit refertum, in aspectum, lucemque, hominum proferri perutile, et iucundum fuerit. Ego idem Ioannes Demisianus \nImprimatur si placet R. P. Mag. Sac. Palatii B. Gypsius Vicesger. Imprimatur Fr. Angelus Brix R.mi P. M. Sac. Pal. Ap. Socius",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19124",
+                "RecordID": "022-000006260",
+                "Value": "Cesi,Federico,Prince of  Acquasparta,1585 - 1630"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "19161",
+                "RecordID": "022-000006307",
+                "Value": "Lauro,Giovanni,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18949",
+                "RecordID": "022-000006052",
+                "Value": "Stamperia Camerale,,,"
+            }
+        },
+        "ColophonImage": {
+            "ImageId": "54612",
+            "Value": "023-000006305_54612_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

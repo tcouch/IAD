@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17570",
+        "RecordId": "022-000004463",
+        "Surname": "Grimani",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "PersonalTitle": "Patriarch of Aquileia",
+        "DateText": "1506-1593",
+        "StartDate": "1506",
+        "EndDate": "1593",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

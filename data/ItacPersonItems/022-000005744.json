@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18680",
+        "RecordId": "022-000005744",
+        "Surname": "Antoniano",
+        "Forename": "Silvio",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1540-1603",
+        "StartDate": "1540",
+        "EndDate": "1603",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Also called `Poetino`. Personal secretary to Carlo Borromeo",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

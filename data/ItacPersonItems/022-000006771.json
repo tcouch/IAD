@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19511",
+        "RecordId": "022-000006771",
+        "Surname": "Mazzoni",
+        "Forename": "Benedetto",
+        "DateText": "1606 - 1690",
+        "StartDate": "1606",
+        "EndDate": "1690",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Discalced Augustinian friar.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

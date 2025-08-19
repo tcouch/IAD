@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17836",
+        "RecordId": "022-000004746",
+        "Surname": "Deshouli\u00e8res",
+        "Forename": "Antoine-Th\u00e9r\u00e8se",
+        "Gender": "Female",
+        "DateText": "1656-1718",
+        "StartDate": "1656",
+        "EndDate": "1718",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Joined the Ricovrati in 1698. Also known as `la Sage Victorieuse`.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

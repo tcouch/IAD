@@ -1,0 +1,34 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9227",
+        "RecordId": "022-000001524",
+        "Surname": "Grossi",
+        "Forename": "Marcantonio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "da Carpi",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Grosci",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Carpensis",
+                "AlternativeForename": "Marcus Antonius"
+            }
+        ],
+        "DateText": "fl.1540-1545",
+        "StartDate": "fl.1540",
+        "EndDate": "1545",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "From Carpi. As a printer, he worked in association with Bartolomeo Bonardo. See the entry in edit16 for details.",
+        "Role": "Contributor|Printer",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006341",
+        "WorkId": "000753",
+        "ShortTitle": "Persio tradotto in verso sciolto e dichiarato",
+        "LongTitle": "da Francesco Stelluti Accad. Linceo da Fabriano. All`Ill.mo et Rev.mo Sig.re il Sig. Cardinale Barberino",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1630",
+        "Shelfmark": "77d14",
+        "Subjects": "Translation|Classical poetry|Satire",
+        "Language": "Italian|Latin",
+        "Pagination": "[24] 218 [22]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15230",
+                "RecordID": "022-000001273",
+                "Value": "Stelluti,Francesco,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19140",
+                    "RecordID": "022-000006277",
+                    "Value": "Ricchio,Giusto,,"
+                },
+                {
+                    "PersonId": "19188",
+                    "RecordID": "022-000006345",
+                    "Value": "Stufae,Theobaldi,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19186",
+                    "RecordID": "022-000006343",
+                    "Value": "Bzowski ,Abraham ,,1567 \u2013 1637"
+                },
+                {
+                    "PersonId": "19187",
+                    "RecordID": "022-000006344",
+                    "Value": "Acquaviva ,Tommaso,,"
+                },
+                {
+                    "PersonId": "18445",
+                    "RecordID": "022-000005468",
+                    "Value": "Riccardi,Nicola,Master of the Sacred Palace,1585-1639"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur reverendiss. P. mag. Sac. Pal. Apost. A. Episc. Bellicastr. Vicesg. Committente Reverendissimo P. Magistro Sacri Palatii  legi aul. Persium Fl. Francisci Stelluti V. Cl. Notis illustrem. Est quidem ille Satyricorum Princeps ab erudita varietate, a sublimi stylo et a sententiarum maiestate, in numero praestantissimorum doctissimus, qtque ut divo Hieronymo  placuit disertissimus; non minus tamen a purioris sermonis affectatione, dum inter poetas philosophus, inter philosophos poeta esse ambit, tenebris abscurissimi involutus et conditus. Hunc Franciscus Stellutus, sub ipsius clientela educatus, cura et gratia, artis plane magnus, stellatis radiis tam splendide illustravit, ut neminem iam ab illius lectione, infantia, desidia, fastidium, deterrere posit, aut debeat cumargute scienter que differentem, facilem tum etrusca musa, tum congerie multiplicis luminis reddidit; dignum planeque defricandis corruptelis, virtutique depangende, vel in hoc orbis compendio publicam lucem aspiciat. Ita existimo ego f. Habraham Bzovius S. T. Mag. Ordinis Praedicatorum, Romae apud S. Petrum in meo museo. Calend. Maij MDCXXX. Imprimatur Fr. Thomas Acquaviva Magister, et Socius Reverendiss. P. Fr. Nicolai Riccardi Sac. Pal. Apost. Mag. Ord. Praedicatorum.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5099",
+                "RecordID": "022-000000096",
+                "Value": "Barberini,Francesco,Cardinal,1597-1679"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "19170",
+                "RecordID": "022-000006319",
+                "Value": "Greuter,Mattaus,,1564/66 - 1638"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17441",
+                "RecordID": "022-000004300",
+                "Value": "Mascardi,Giacomo,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Non id miror, Amice quod vetusti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19140",
+                            "RecordID": "022-000006277",
+                            "Value": "Ricchio,Giusto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Intima quis posset mentis cognoscere Persi?",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19188",
+                            "RecordID": "022-000006345",
+                            "Value": "Stufae,Theobaldi,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002856",
+        "WorkId": "000368",
+        "ShortTitle": "Lezzione di messer Benedetto Varchi",
+        "LongTitle": "sopra un sonetto del molto reverendo, et virtuosissimo Monsignor M. Giovanni della Casa, dove si tratta della gelosia. Con alcune questioni da lui nuovamente aggiunte.",
+        "ItacAcademyItem": {
+            "AcademyId": "0020",
+            "RecordID": "021-000001496",
+            "Value": "Accademia degl` Infiammati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "66",
+            "PublicationPlaceItalianName": "Lione",
+            "PublicationPlaceEnglishName": "Lyon",
+            "PublicationPlaceLatinName": "Lugdunum"
+        },
+        "PublicationYear": "1560",
+        "DedicationPlaceDate": "Lion 1st January 1560",
+        "Shelfmark": "240.b.10.(4.)",
+        "Subjects": "Academic lesson",
+        "Language": "Italian",
+        "Illustration": "Engraved title page|",
+        "Pagination": "104; [4]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9206",
+                "RecordID": "022-000001503",
+                "Value": "Varchi,Benedetto,,1503 - 1565"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16220",
+                "RecordID": "022-000002857",
+                "Value": "de Bourg,Margherita,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16219",
+                "RecordID": "022-000002855",
+                "Value": "Rouill\u00e9,Guillaume,,ca.1518 - 1589"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

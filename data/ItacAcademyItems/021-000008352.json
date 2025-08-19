@@ -1,0 +1,110 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0556",
+        "RecordId": "021-000008352",
+        "Name": "Addormentati-Genova (Accademia degli)",
+        "City": {
+            "CityId": "123",
+            "CityItalianName": "Genova",
+            "CityEnglishName": "Genoa",
+            "CityLatinName": "Genua"
+        },
+        "EmblemDescription": "Clock with alarm, and flint and smoking tinder nearby to light the light when the alarm rings",
+        "Motto": "Sopitos suscitat",
+        "StartDate": "1563; 1587",
+        "EndDate": "?",
+        "DateText": "1563; 1587-?",
+        "Notes": "Publications related to this Academy, but not in British Library catalogue, include: Ansaldo Ceba`, Essercizi accademici (1621); Anton Giuio Brignole Sale, Lagrime per la morte della Signora Emila Adorni Raggi (Piacenza: Bazachi, 1634); Pier Giuseppe Giustiniani, Ode Toscana (Genova: Pavoni, 1628); Giovanni Battista Manzini, I tre concorrenti amorosi. Discorso problematico del sig. Gio. Battista Manzini recitato all`Accademia illustrissima de gl`Addormentati di Genova (Genova-Bologna: Ferroni, 1630); Pier Francesco Minozzi, Delle libidini dell`ingegno (Venezia: Pinelli, 1636); Agostino Lampugnani, Diporti accademici (Milano, Monza, 1653), describes the meetings taking place in the Addormentati Academy. BIBLIOGRAPHY: On the history of the Academy, and its members, see D. Ortolani, Cultura e politica nell`opera di Ansaldo Ceba`, in AA.VV. Studi di filologia e letteratura, I, 1970; Romola Tomasinelli Gallo, Anton Giulio Brignole Sale e l`Accademia degli Addormentati, in La Berio, 12 (1973), pp. 65-74; Ansaldo Ceba`, Tragedie, ed. Marco Corradini (Milan, 2001).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5279",
+                "RecordId": "022-000000324",
+                "Name": "Manzini,Giovanni Battista,,1599-1664",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15028",
+                "RecordId": "022-000001070",
+                "Name": "Grillo,Angelo,Abbot,1557-1629",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15312",
+                "RecordId": "022-000001352",
+                "Name": "Tasso,Torquato,,1544-1595",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18348",
+                "RecordId": "022-000005364",
+                "Name": "Chiabrera,Gabriello,,1552 - 1638",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20100",
+                "RecordId": "022-000007602",
+                "Name": "Brignole Sale,Anton Giulio,,1605-1665",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15153",
+                "RecordId": "022-000001195",
+                "Name": "Minozzi,Pier Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20671",
+                "RecordId": "022-000008475",
+                "Name": "Giustiniani,Pier Giuseppe,,?-1651",
+                "Nickname": "Intirizzito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19580",
+                "RecordId": "022-000006882",
+                "Name": "Lampugnani,Agostino,,1586-1665?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20674",
+                "RecordId": "022-000008478",
+                "Name": "Imperiale,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20101",
+                "RecordId": "022-000007603",
+                "Name": "Ceba`,Ansaldo,,1565-1623",
+                "Nickname": "Inritrosito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5147",
+                "RecordId": "022-000000143",
+                "Name": "Imperiale,Gian Vincenzo,,1582-1648",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

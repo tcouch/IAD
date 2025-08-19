@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001891",
+        "WorkId": "000262",
+        "ShortTitle": "La moralita` armonica (Canto primo; Canto secondo; Basso; Basso continuo)",
+        "LongTitle": "Cantate a 2, e 3 voci di Gio. Battista Bassani Maestro di Cappella nella Cattedrale, e dell`Illustriss. Accademia della Morte di Ferrara, et Accademico Filarmonico. Opera quarta",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "18\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1689",
+        "Shelfmark": "D.832.h",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "36",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15392",
+                "RecordID": "022-000001892",
+                "Value": "Bassani,Gio. Battista,Chapel Master,1650-1716"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` Superiori. Si vendono da Marino Silvani, all`Insegna del Violino, con Privileggio.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5532",
+                "RecordID": "022-000000531",
+                "Value": "Monti,Pietro Maria,,fl. 1689-1708"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53104",
+            "Value": "023-000001891_53104_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

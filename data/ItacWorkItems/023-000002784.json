@@ -1,0 +1,31 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002784",
+        "WorkId": "000353",
+        "ShortTitle": "Copia Di Una Lettera",
+        "LongTitle": "Scritta Da Un Accademico Investigante ad un Cavaliero suo Amico, intorno ad una Scrittura stampata in risposta di un`altra fatta prima, circa la difesa del lago di Agnano.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "DedicationPlaceDate": "1 April 1665",
+        "Shelfmark": "33.d.18.(7.)",
+        "Subjects": "Letter",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 36",
+        "Marginalia": "No",
+        "TitlePageImage": {
+            "ImageId": "52912",
+            "Value": "023-000002784_52912_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000372",
+        "WorkId": "00034",
+        "ShortTitle": "Selenoscopia overo Astronomicofisica specolatione circa la Luna dove curiosamente si esaminano del notturno gran Luminare le condittioni pi\u00f9 essentiali e le accidentalit\u00e0",
+        "LongTitle": "colle ponderationi astrologiche delle variet\u00e0 de` tempi ed altre conseguenze che possono succedere nell`anno 1647. Aggiuntovi un Indice diurno delle congionture buone o ree per le operationi pi\u00f9 importanti in materia medicinale principalmente ed economica d`ogni sorte. Di Ovidio Montalbani il Rugiadoso Academico della Notte e fra gl`Indomiti lo Stellato. All`altezza Serenissima del Gran Duca di Toscana Ferdinando Secondo.",
+        "ItacAcademyItem": {
+            "AcademyId": "0002",
+            "RecordID": "021-000000312",
+            "Value": "Accademia della Notte"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1647",
+        "DedicationPlaceDate": "Bologna 15 October 1646",
+        "Shelfmark": "1570/200",
+        "Subjects": "Astronomy|Astrology",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcut | Author`s emblem",
+        "Pagination": "51",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5022",
+                "RecordID": "022-000000024",
+                "Value": "Montalbani,Ovidio,,1601 - 1671"
+            }
+        },
+        "Notes": "Publication date not entirely sure.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17949",
+                    "RecordID": "022-000004872",
+                    "Value": "Albergati Ludovisi,Niccolo`,Archibishop of Bologna,1608 - 1687"
+                },
+                {
+                    "PersonId": "5305",
+                    "RecordID": "022-000000353",
+                    "Value": "Bonamelus,Serafinus,,"
+                },
+                {
+                    "PersonId": "19242",
+                    "RecordID": "022-000006423",
+                    "Value": "Tortus,Inventius,Poenitentiarius,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Nihil praeter S. R. E. praescripta dictum esse volo Ego O[vidius]. M[ontalbanus]. | V. D. Inventius tortus Poenitentiarius et Reverendiss. D. Card. Ludovisio Archiepiscopo Bonon. Et Principe | Imprimatur. Fr. Seraphinus Bonamelus pro Vicarius S. Officij Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5299",
+                "RecordID": "022-000000347",
+                "Value": "Ferroni,Giovanni Battista,,1588-1673"
+            }
+        },
+        "PrinterOrnament": "Woodcut | The moon",
+        "TitlePageImage": {
+            "ImageId": "52671",
+            "Value": "023-000000372_52671_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52672",
+            "Value": "023-000000372_52672_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

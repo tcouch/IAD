@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20378",
+        "RecordId": "022-000008100",
+        "Surname": "Guiscardi",
+        "Forename": "Traiano",
+        "Gender": "Male",
+        "PersonalTitle": "Marquis of Cerro",
+        "DateText": "1554-1639",
+        "StartDate": "1554",
+        "EndDate": "1639",
+        "Nationality": {
+            "NationalityId": "370",
+            "Value": "of Casale Monferrato"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

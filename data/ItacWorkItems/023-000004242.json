@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004242",
+        "WorkId": "000544",
+        "ShortTitle": "Soliloquium Salium",
+        "LongTitle": "Philippi Finelli",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1649",
+        "DedicationPlaceDate": "Naples 15 May 1649",
+        "Shelfmark": "1651/231.(2.)",
+        "Subjects": "Medicine|Science",
+        "Language": "Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 130",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,"
+            }
+        },
+        "Notes": "For another copy of this work see BL Shelfmark 1033.e.28.(2.)",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17399",
+                    "RecordID": "022-000004243",
+                    "Value": "Stella,Donatus Antonius,,"
+                },
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                },
+                {
+                    "PersonId": "15262",
+                    "RecordID": "022-000001304",
+                    "Value": "De Rubeis,Franciscus Josephum,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Potest imprimi.\nHoc per lecto Opere; nil contra fidem, neque bonos mores Reperij. 10. Octobris 1644. Donatus Anton. Stella\nImprimatur.\nGregor. Peccer. Vic. Gener.\nReg. fol. 47. Per me F. Iosephum de Rubeis Ordin. Min. Conu. Emin. Card. Philam. Theol. & Consult. Sancti Offic.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15287",
+                "RecordID": "022-000001327",
+                "Value": "Colonna,Pompeo,Marquis,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15871",
+                "RecordID": "022-000002431",
+                "Value": "Gaffaro,Giacomo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

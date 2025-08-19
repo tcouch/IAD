@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18140",
+        "RecordId": "022-000005103",
+        "Surname": "Strozzi",
+        "Forename": "Barbara",
+        "Gender": "Male",
+        "DateText": "1619-c.1664",
+        "StartDate": "1619",
+        "EndDate": "c.1664",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "The daughter of Giulio Strozzi",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

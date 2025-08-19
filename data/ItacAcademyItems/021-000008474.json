@@ -1,0 +1,60 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0583",
+        "RecordId": "021-000008474",
+        "Name": "Timidi (Accademia dei)",
+        "City": {
+            "CityId": "67",
+            "CityItalianName": "Mantova",
+            "CityEnglishName": "Mantua",
+            "CityLatinName": "Mantua"
+        },
+        "StartDate": "1648",
+        "EndDate": "ca. 1767",
+        "DateText": "1648-ca. 1767",
+        "Notes": "Some sources say that the Timidi used to be called the Invitti, before changing its name in 1648. See Francesco Tonelli, Scienze e scuole secondo il piano di alcuni autori (Mantua: Erede di A. Pazzoni, 1791), p. 46; Luigi Carnevali, Cenni storici sull`Accademia Virgiliana (Mantua: Mondovi, 1886), pp. 14-15; and Maylender, iii, p. 376. A volume of minutes taken in the academy from 1686 to 1767 is in the Archivio dell R. Accademia Virgiliana, Mantua. The Accademia degli Invitti can be found elsewhere on the database.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20689",
+                "RecordId": "022-000008495",
+                "Name": "Bruschi,Carlo,Count,17th C.",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20690",
+                "RecordId": "022-000008496",
+                "Name": "Moscatelli,Alfonso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20691",
+                "RecordId": "022-000008497",
+                "Name": "Moscatelli,Doricilio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20692",
+                "RecordId": "022-000008498",
+                "Name": "Taracchia,Antonio,Abbot,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20693",
+                "RecordId": "022-000008499",
+                "Name": "Micheli,Leonardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

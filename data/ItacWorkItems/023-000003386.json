@@ -1,0 +1,84 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003386",
+        "WorkId": "000448",
+        "ShortTitle": "Donati Antonii Ab Altomari Medici Atque Philosophi Neapolitani",
+        "LongTitle": "Omnia, quae hucusque in lucem prodierunt, Opera, nunc primum in unum collecta, & ab eodem Auctore diligentissime recognita & aucta: cum locis omnibus in margine additis. Horum omnium Elenchum sexta pagina commonstrabit.",
+        "ItacAcademyItem": {
+            "AcademyId": "0050",
+            "RecordID": "021-000002988",
+            "Value": "Accademia Altomareana"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "53",
+            "PublicationPlaceItalianName": "Lyon",
+            "PublicationPlaceEnglishName": "Lugdunum",
+            "PublicationPlaceLatinName": "Leon de Francia"
+        },
+        "PublicationYear": "1565",
+        "DedicationPlaceDate": "Venetiis, 16 March",
+        "Shelfmark": "541.h.1.",
+        "Subjects": "Medicine",
+        "Language": "Greek|Latin|French",
+        "Illustration": "Engraving|Snakes; eagle; mythological figures",
+        "Pagination": "pp. 1027",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16335",
+                "RecordID": "022-000002989",
+                "Value": "Altomare ,Donato Antonio ,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16661",
+                    "RecordID": "022-000003389",
+                    "Value": "Riccardo,Virgilio,,"
+                },
+                {
+                    "PersonId": "16663",
+                    "RecordID": "022-000003391",
+                    "Value": "Pizimentius,Dominicus,,"
+                }
+            ]
+        },
+        "Notes": "In the dedication to Virgilio Riccardo, the author refers to the Altomareana Academy.",
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "16664",
+                "RecordID": "022-000003392",
+                "Value": "De Vabres,,,"
+            }
+        },
+        "CensorsAgreement": "Extraict du provilege du Roy.\nPar grace & privilege du Roy est permis a Guillaume Roville libraire de Lyon, d`imprimer, ou faire imprimer, una foys ou plusieurs, ce present liure intitule Donati Antonij ab Altomari medici atque philosophi Neapolitani opera omnia ab eodem auctore in unum collecta, recognita &aucta. Lequel liure il a recovvert avec granz fraiz, mises et dispenses; & pour ce est faict defense de par ledict Seigneur a tous autres libraires, imprimeurs & personnes quelconques, de non imprimer, vendre, ne destribuer en ses pais, terres & seigneuries, ledict liure novellement imprime par ledict Roville, si ce n`est parson consententem, & ce iusques au temps & terme de neusans, a copter du iour et datte, que sera para cheuee la premiere impression, sue peine d`amende arbitraire 7 de confiscation des liures qu`ils auroyet imprimez. Et afin qu`aucun ne puisse petendre ignorance du present privilege, ledict Seigneur veut & entend, que l`estraict d`iceluy estant mis au commencement dudict liure serve pour toute notification, sauf en demader copie audict Roville (si bon leur semble) & ce a leurs despens. Car tel es son plaisir, non obstant oppositions & appellations quelconques, comme plus a-plein est contenu & declare par lesdictes lettres de privilege, sur ce donnees a Paris, le deuxiesme de Decembre, mil cinq cens soixsante & trois, & de son regne le quatriesme.\nPar le Roy, a vostre relation,\nSigne, De Vabres,\nEt seele du grand seau en cire ianue a simple queue.\nAcheve d`imprimer le douzieeme de Feurier. M.D.LXV.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16661",
+                    "RecordID": "022-000003389",
+                    "Value": "Riccardo,Virgilio,,"
+                },
+                {
+                    "PersonId": "16662",
+                    "RecordID": "022-000003390",
+                    "Value": "Delli Falconi,Marco Antonio,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16219",
+                "RecordID": "022-000002855",
+                "Value": "Rovillio,Gulielmo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53498",
+            "Value": "023-000003386_53498_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

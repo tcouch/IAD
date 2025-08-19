@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19819",
+        "RecordId": "022-000007256",
+        "Surname": "Dolfin",
+        "Forename": "Giovanni",
+        "AlternativeName": {
+            "AlternativeSurname": "Delphinus",
+            "AlternativeForename": "Iohannes"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1617-1699",
+        "StartDate": "1617",
+        "EndDate": "1699",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Patriarch of Aquileia (1657), joined the Ricovrati in 1645. For more details about his life, see Gino Benzoni, `Dolfin, Giovanni`, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0126",
+        "RecordId": "021-000005618",
+        "Name": "Anfistili (Accademia degli)",
+        "AlternativeName": "Accademia degli Amphistili",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Colummn, crowned, qith medallions hanging from it, empty but for one with the image of Petrarch",
+        "Motto": "Vacuis sex locus (or just: Est locus)",
+        "StartDate": "1650?",
+        "EndDate": "?",
+        "DateText": "1650?-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18359",
+                "RecordId": "022-000005376",
+                "Name": "Aversa,Tommaso,,",
+                "Nickname": "Esaltato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18574",
+                "RecordId": "022-000005617",
+                "Name": "Colonna,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

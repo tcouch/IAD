@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002252",
+        "WorkId": "000294",
+        "ShortTitle": "Lettere del Signor Cavaliere Battista Guarini",
+        "LongTitle": "Nobile Ferrarese. Di nuovo in questa seconda impressione di alcune altre accresciute, e dall`autore stesso corrette. Da Agostino Michele raccolte, et al Serenissimo Signore il Sign. Duca d`Urbino dedicate. Con privilegio.",
+        "ItacAcademyItem": {
+            "AcademyId": "0025",
+            "RecordID": "021-000002211",
+            "Value": "Accademia degli Eterei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1594",
+        "DedicationPlaceDate": "Venice, 20 September, 1593",
+        "Shelfmark": "C.77.b.9|1084.c.15|1084.c.14|RB.23.a.10502|1084.c.16",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Pagination": "pp. 224",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5146",
+                "RecordID": "022-000000142",
+                "Value": "Guarini,Battista,,1538-1612"
+            }
+        },
+        "Notes": "Guarini pays a visit to the Eterei`s house every time he visits Padua.\nOther editions: \nVenice: Ciotti, 1600, 1603, 1606, 1615",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "9243",
+                "RecordID": "022-000001539",
+                "Value": "della Rovere,Francesco Maria II,Duke of Urbino,1549-1631"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15718",
+                "RecordID": "022-000002253",
+                "Value": "Michele ,Agostino,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,c. 1564-c. 1635"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Al Signor Cardinale Scipione Gonzaga (3 September 1590)",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "",
+                        "RecordID": ""
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

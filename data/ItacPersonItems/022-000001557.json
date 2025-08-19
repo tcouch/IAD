@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9261",
+        "RecordId": "022-000001557",
+        "Surname": "Farnese",
+        "Forename": "Alessandro",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1520-1589",
+        "StartDate": "1520",
+        "EndDate": "1589",
+        "Nationality": {
+            "NationalityId": "104",
+            "Value": "of Viterbo"
+        },
+        "Notes": "Patron of the Accademia dello Sdegno.",
+        "Role": "Dedicatee",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9057",
+        "RecordId": "022-000001647",
+        "Surname": "Giustiniano",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Giustiniani"
+        },
+        "DateText": "ca. 1560-?",
+        "StartDate": "ca. 1560",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "100",
+            "Value": "Genoese"
+        },
+        "Notes": "For a short biography of Giustiniano, see A. L. d`Harmonville, Dizionario delle date, dei fatti, luoghi ed uomini storici (1845), vol. 3, p. 455.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

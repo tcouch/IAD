@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5280",
+        "RecordId": "022-000000318",
+        "Surname": "Pellegrini",
+        "Forename": "Matteo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Peregrini di Liano"
+        },
+        "DateText": "1595-1652",
+        "StartDate": "1595",
+        "EndDate": "1652",
+        "Nationality": {
+            "NationalityId": "186",
+            "Value": "of Liano (Bologna)"
+        },
+        "Notes": "Doctor in theology and Philosophy at the University of Bologna. At the Desiosi academy (also called del Cardinale di Savoia) he had the task to write about the relationship between the `saggio` and the Court, and whether they were compatible. As a result, he wrote Il savio in corte (Bologna, Mascheroni, 1625). The British Library holds the French translation, Le sage en cour (Paris, Rocolet, 1638).",
+        "Role": "Contributor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

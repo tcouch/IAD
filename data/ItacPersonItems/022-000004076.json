@@ -1,0 +1,33 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17261",
+        "RecordId": "022-000004076",
+        "Surname": "Capretto",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Del Zochul",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Haedus",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Edus",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "1427-1504",
+        "StartDate": "1427",
+        "EndDate": "1504",
+        "Nationality": {
+            "NationalityId": "335",
+            "Value": "of Pordenone"
+        },
+        "Notes": "For information on Capretto`s biography, see M. Miglio, in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

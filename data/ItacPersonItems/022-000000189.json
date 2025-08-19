@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5195",
+        "RecordId": "022-000000189",
+        "Surname": "Mitelli",
+        "Forename": "Giuseppe Maria",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Mitellus",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "I. M."
+            }
+        ],
+        "DateText": "1634-1718",
+        "StartDate": "1634",
+        "EndDate": "1718",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "See his biography by Francesco Sorce, in DBI. In 1660 he was in Venice where he met marco Boschini, and worked to produce engravings from works by Tiziano, Tintoretto, and Veronese. He was among the founders of the Bolognese Accademia Clementina.",
+        "Role": "Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

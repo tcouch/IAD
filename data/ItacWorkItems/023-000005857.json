@@ -1,0 +1,41 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005857",
+        "WorkId": "000699",
+        "ShortTitle": "La pieta` trionfante",
+        "LongTitle": "Per la liberazione di Vienna. Assediata dall`Armi Ottomane e per la gloriosa vittoria ottenuta sopra di esse. ODE del P. Gabriel Maria Meloncelli Bernabita. E fra gli Accademici Infecondi l`Opposto",
+        "ItacAcademyItem": {
+            "AcademyId": "0125",
+            "RecordID": "021-000005612",
+            "Value": "Accademia degli Infecondi"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1683",
+        "Shelfmark": "838m22(35)",
+        "Subjects": "Odes",
+        "Language": "Italian",
+        "Pagination": "10",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18701",
+                "RecordID": "022-000005766",
+                "Value": "Meloncelli,Gabriel Maria,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18787",
+                "RecordID": "022-000005858",
+                "Value": "Campana,Marc`Antonio e Orazio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

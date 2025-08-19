@@ -1,0 +1,157 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0085",
+        "RecordId": "021-000004461",
+        "Name": "Travagliati-Siena (Accademia dei)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Sieve",
+        "Motto": "Donec impurum",
+        "StartDate": "1550/55",
+        "EndDate": "1600?",
+        "DateText": "1550/55-1600?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16377",
+                "RecordId": "022-000003043",
+                "Name": "Tommasi,Giugurta,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16916",
+                "RecordId": "022-000003692",
+                "Name": "Piccolomini,Ipolito,,",
+                "Nickname": "Academico Travagliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17569",
+                "RecordId": "022-000004462",
+                "Name": "Mignanelli,Orazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17571",
+                "RecordId": "022-000004464",
+                "Name": "Martellini,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17572",
+                "RecordId": "022-000004465",
+                "Name": "Vignali,Curzio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17573",
+                "RecordId": "022-000004466",
+                "Name": "Borghesi,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17574",
+                "RecordId": "022-000004467",
+                "Name": "Placidi,Lelio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17575",
+                "RecordId": "022-000004468",
+                "Name": "Tommasini,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17576",
+                "RecordId": "022-000004469",
+                "Name": "(Falconetti),Ventura Cieco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17577",
+                "RecordId": "022-000004470",
+                "Name": "Bichi,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17578",
+                "RecordId": "022-000004471",
+                "Name": "Mattioli,Muzio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17579",
+                "RecordId": "022-000004472",
+                "Name": "Tommasi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18086",
+                "RecordId": "022-000005038",
+                "Name": "Manni,Aurelio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18087",
+                "RecordId": "022-000005039",
+                "Name": "Saracini,Adriano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18088",
+                "RecordId": "022-000005040",
+                "Name": "Bartalucci,Claudio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17976",
+                "RecordId": "022-000004907",
+                "Name": "Rettori,Assuero,,",
+                "Nickname": "Accademico Travagliato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16256",
+                "RecordId": "022-000002904",
+                "Name": "Spannocchi,Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

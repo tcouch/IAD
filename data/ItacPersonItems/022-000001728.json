@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9121",
+        "RecordId": "022-000001728",
+        "Surname": "Scheffer",
+        "Forename": "Sebastian",
+        "AlternativeName": {
+            "AlternativeSurname": "Schefferus",
+            "AlternativeForename": "Sebastianus"
+        },
+        "DateText": "1631 - ?",
+        "StartDate": "1631",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Joined the Ricovrati in 1678. He was member of the Accademia Leopoldina dei curiosi della natura.",
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

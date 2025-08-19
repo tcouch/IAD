@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5028",
+        "RecordId": "022-000000030",
+        "Surname": "Montanari",
+        "Forename": "Geminiano",
+        "Pseudonym": "Ottavio Finetti",
+        "DateText": "1633 - 1687",
+        "StartDate": "1633",
+        "EndDate": "1687",
+        "Nationality": {
+            "NationalityId": "115",
+            "Value": "of Modena"
+        },
+        "Notes": "Founder of the Accademia della Traccia. In 1678 he joined the Ricovrati, where he was also `censore sopra le stampe` in 1679-80. Pseudonym according to Melzi, I, p. 416. A biography online is at www.francescoredi.it (ed. Walter Bernardi).",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

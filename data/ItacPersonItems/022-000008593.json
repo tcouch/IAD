@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20766",
+        "RecordId": "022-000008593",
+        "Surname": "Calvo",
+        "Forename": "Francesco Minizio",
+        "AlternativeName": {
+            "AlternativeForename": "Francesco Giulio"
+        },
+        "DateText": "active1521-1545",
+        "StartDate": "active1521",
+        "EndDate": "1545",
+        "Nationality": {
+            "NationalityId": "408",
+            "Value": "of Menaggio (Como)"
+        },
+        "Notes": "Details about his activity are in edit16.",
+        "Role": "Printer",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002923",
+        "WorkId": "000381",
+        "ShortTitle": "La pellegrina",
+        "LongTitle": "Commedia di M. Girolamo Bargagli Materiale Intronato: rappresentata nelle felicissime nozze del Sereniss. Don Ferdinando de` Medici Granduca di Toscana, e della Serenissima madama Cristiana di Loreno sua consorte.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1589",
+        "DedicationPlaceDate": "Siena, 18 september 1589",
+        "Shelfmark": "162.g.6",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Illustration": "Woodcut|Academy emblem",
+        "Pagination": "152",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16272",
+                "RecordID": "022-000002924",
+                "Value": "Bargagli,Girolamo,,"
+            }
+        },
+        "Notes": "First published in 1564.",
+        "CensorsAgreement": "Con Licenza de` Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16273",
+                "RecordID": "022-000002925",
+                "Value": "de` Medici,Ferdinando I,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16248",
+                "RecordID": "022-000002896",
+                "Value": "Bargagli,Scipione,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

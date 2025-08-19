@@ -1,0 +1,110 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007476",
+        "WorkId": "000832",
+        "ShortTitle": "Poesie liriche postume",
+        "LongTitle": "del signor Domenico David Cittadino Originario Veneto. Consegrate All`illustriss. et Eccellentiss. Sig. Paulo Antonio Belegno, Procurator di San Marco",
+        "ItacAcademyItem": {
+            "AcademyId": "0367",
+            "RecordID": "021-000007385",
+            "Value": "Accademia dei Dodonei"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1700",
+        "DedicationPlaceDate": "Venezia 6 giugno 1700",
+        "Shelfmark": "11427df1",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "432",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19974",
+                "RecordID": "022-000007433",
+                "Value": "David,Domenico,,1619? - 1699"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "19974",
+                "RecordID": "022-000007433",
+                "Value": "David,Domenico,,1619? - 1699"
+            }
+        },
+        "Notes": "One of the introductory poems dedicated to the author is signed by Gennaro Pascali Accademico Intrepido, but it is not clear to which Intrepidi Academy he belonged. Here the flyleaf is shown instead of the colophon image.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20004",
+                "RecordID": "022-000007477",
+                "Value": "Belegno,Paolo Antonio,Procurator,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20005",
+                "RecordID": "022-000007478",
+                "Value": "David,Lucia,,"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "20007",
+                "RecordID": "022-000007480",
+                "Value": "Lazari,Io. Antonio,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16175",
+                "RecordID": "022-000002796",
+                "Value": "Piccini,Isabella,Nun,1646 - 1732"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20006",
+                "RecordID": "022-000007479",
+                "Value": "Lovisa,Domenico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55015",
+            "Value": "023-000007476_55015_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55014",
+            "Value": "023-000007476_55014_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "A s. Ecc. il signor Procurator Angelo Morosini, dando alloggio in casa propria all'Accademia Dodonea - Oda",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19974",
+                            "RecordID": "022-000007433",
+                            "Value": "David,Domenico,,? - 1699"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte di S. E. il sig. Battista Nani Cavaliere, e Procurator di San Marco - Oda",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19974",
+                            "RecordID": "022-000007433",
+                            "Value": "David,Domenico,,? - 1699"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

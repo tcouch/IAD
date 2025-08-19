@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18394",
+        "RecordId": "022-000005414",
+        "Surname": "di Savoia",
+        "Forename": "Maurizio",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1593-1657",
+        "StartDate": "1593",
+        "EndDate": "1657",
+        "Nationality": {
+            "NationalityId": "206",
+            "Value": "of Turin"
+        },
+        "Notes": "Founder of the Roman Accademia i Desiosi",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

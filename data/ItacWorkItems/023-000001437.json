@@ -1,0 +1,103 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001437",
+        "WorkId": "00165",
+        "ShortTitle": "Parte Prima Delle Poesie Del Signor Giuseppe Campanile Napoletano.",
+        "LongTitle": "Negli Oziosi di Napoli il Solitario | e negli Omoristi di Roma l`Accorto. Dedicate all`immortalit\u00e0 del Nome dell`Eccellentissimo D. Nicolo Lodovisio Suo Signore.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1648",
+        "DedicationPlaceDate": "Naples 10 November 1648",
+        "Shelfmark": "1063.a.10.",
+        "Content": "Encomiastic Poetry | 15229 to 15016 | 17000 | 15230 | 16000",
+        "Subjects": "Poetry|Prose",
+        "Language": "Latin|Italian",
+        "Illustration": "Woodcuts|",
+        "Pagination": "First 24 pages discontinuous pagination | pp. 344 | Last two pages unnumbered  | pp. 502",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15229",
+                "RecordID": "022-000001272",
+                "Value": "Campanile,Giuseppe,,1620 (?) - 1674"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15230",
+                "RecordID": "022-000001273",
+                "Value": "Stelluti,Francesco,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15232",
+                "RecordID": "022-000001275",
+                "Value": "Cavallo,Camillo,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15200",
+                    "RecordID": "022-000001169",
+                    "Value": "Filomarino,Ascanio,Cardinal|Archbishop,1583-1666"
+                },
+                {
+                    "PersonId": "15233",
+                    "RecordID": "022-000001276",
+                    "Value": "Peccerillus,Gregorius,General Vicar,"
+                },
+                {
+                    "PersonId": "15234",
+                    "RecordID": "022-000001277",
+                    "Value": "Dentice,Franciscus,,"
+                },
+                {
+                    "PersonId": "15235",
+                    "RecordID": "022-000001278",
+                    "Value": "Zufia,,,"
+                },
+                {
+                    "PersonId": "15236",
+                    "RecordID": "022-000001279",
+                    "Value": "Cafanatta,,,"
+                },
+                {
+                    "PersonId": "15237",
+                    "RecordID": "022-000001280",
+                    "Value": "Caracciolus,,,"
+                },
+                {
+                    "PersonId": "15238",
+                    "RecordID": "022-000001281",
+                    "Value": "Capiciuslatro,,,"
+                },
+                {
+                    "PersonId": "15262",
+                    "RecordID": "022-000001304",
+                    "Value": "De Rubeis,Franciscus Josephum,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur  Gregorius Peccerillus Vic. Gen. F. Ioseph de Rubeis Ord. Min. Con. S. T. D.   Eminentiss. & Reverendiss. Card. Filomarin. Theologus ; Illust. & Excellent. Princeps. Recensui te Iubente Lyricas Compositiones Domini Iosephi Campanilis Neapo. Nihilq; inveni quod bonis moribus & Regi\u00e6 iurisdicioni adverse. tur. Imo pr\u00e6fata poemata dignissima publica Luce censeo ab styli candorem & sententiarum gravitatem.  8. cal. Settembris 1647. Excellenti\u00e6 Vestr\u00e6 Servus obsequentissimus. D. Franciscus Dentice Eques S. Iacobi. Imprimatur  Zufia Reg. Casanatta R.  Caracciolus R.; Capiciulatro R.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15231",
+                "RecordID": "022-000001274",
+                "Value": "Lodovisio,Nicol\u00f2,Prince of Piombino,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

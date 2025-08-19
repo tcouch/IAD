@@ -1,0 +1,64 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008377",
+        "WorkId": "000942",
+        "ShortTitle": "Languidezze amorose",
+        "LongTitle": "cantate a voce sola. Dedicate al Merito sublime dell`Illustriss. Sig. Il signor Emiliano Travaglini. Commissario della R. C. Apostolica in Ferrara. Da Gio Battista Bassani Maestro di Cappella della Cattedrale, e dell`Illustrissima Accademia della Morte. Opera Decimanona",
+        "ItacAcademyItem": {
+            "AcademyId": "0095",
+            "RecordID": "021-000004780",
+            "Value": "Morte (Accademia della)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1698",
+        "Shelfmark": "A1345",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "156",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15392",
+                "RecordID": "022-000001892",
+                "Value": "Bassani,Gio. Battista,Chapel Master,1650-1716"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20600",
+                "RecordID": "022-000008378",
+                "Value": "Neri,Giovanni Battista,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15407",
+                "RecordID": "022-000001912",
+                "Value": "Silvani,Marino,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55306",
+            "Value": "023-000008377_55306_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Serenata. Poesia dell'eccellentissimo Sig. Dottore Gio. Battista Neri: consigliera dei cori notte amica",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20600",
+                        "RecordID": "022-000008378",
+                        "Value": "Neri,Giovanni Battista,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

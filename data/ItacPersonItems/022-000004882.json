@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17958",
+        "RecordId": "022-000004882",
+        "Surname": "Magliabechi",
+        "Forename": "Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Magliabechio"
+        },
+        "DateText": "1633-1714",
+        "StartDate": "1633",
+        "EndDate": "1714",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Joined the Ricovrati in 1678. `Serenissimi Etruriae Magni Ducis Bibliothecario` (Mandosio, Bibliotheca, vol. II, p. 177)",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0366",
+        "RecordId": "021-000007379",
+        "Name": "Pacifici-Venezia (Accademia dei)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "5178",
+                "RecordId": "022-000000173",
+                "Name": "Santinelli,Francesco Maria,Marquis,1627 - 1697",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9140",
+                "RecordId": "022-000001619",
+                "Name": "Cornaro\u00a0Piscopia,Helena Lucrezia,,1646 - 1684",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19907",
+                "RecordId": "022-000007351",
+                "Name": "Loredano,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

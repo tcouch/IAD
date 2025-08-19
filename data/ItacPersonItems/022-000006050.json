@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18948",
+        "RecordId": "022-000006050",
+        "Surname": "Del Pozzo",
+        "Forename": "Raimondo",
+        "Gender": "Male",
+        "DateText": "1619-1694",
+        "StartDate": "1619",
+        "EndDate": "1694",
+        "Nationality": {
+            "NationalityId": "120",
+            "Value": "of Messina"
+        },
+        "Notes": "For a biographical account see Antonino Mongitore, Bibliotheca Sicula, Felicella, Palermo, Vol.II, p. 196 (BL Shelfmark:610.m.10.)",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

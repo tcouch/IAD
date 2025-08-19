@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17354",
+        "RecordId": "022-000004188",
+        "Surname": "Galiani",
+        "Forename": "Celestino",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Galiano",
+                "AlternativeForename": "Celestino"
+            },
+            {
+                "AlternativeSurname": "Galianus",
+                "AlternativeForename": "Celestino"
+            }
+        ],
+        "PersonalTitle": "Archbishop of Tessalonica",
+        "DateText": "1681 - 1753",
+        "StartDate": "1681",
+        "EndDate": "1753",
+        "Nationality": {
+            "NationalityId": "145",
+            "Value": "of Foggia"
+        },
+        "Notes": "Celestino Galiano was the founder on the Accademia delle Scienze in Naples.",
+        "Role": "Author|Dedicatee|Censor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

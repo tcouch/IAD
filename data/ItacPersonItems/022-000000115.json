@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5119",
+        "RecordId": "022-000000115",
+        "Surname": "Carracci",
+        "Forename": "Agostino",
+        "Gender": "Male",
+        "DateText": "1557-1602",
+        "StartDate": "1557",
+        "EndDate": "1602",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Agostino was Annibale`s brother, and Ludovico`s cousin. Agostino`s association with the Gelati is doubted by Roberto Zapperi, Annibale Carracci. Ritratto di artista da giovane (1989). Giovanna Perini, `Ut pictura poesis` in Italian Academies of the Sixteenth Century Warburg Institute Colloquia (1995) pp. 122-23, agrees with Zapperi. Agostino`s portrait is in Malvasia, Felsina pittrice, I, p. 355.",
+        "Role": "Artist|Illustrator|Dedicatee",
+        "EngraverReference": "DeGrazia pp. 163-68",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

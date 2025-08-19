@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19191",
+        "RecordId": "022-000006351",
+        "Surname": "Wotton",
+        "Forename": "William",
+        "DateText": "1666-1727",
+        "StartDate": "1666",
+        "EndDate": "1727",
+        "Nationality": {
+            "NationalityId": "68",
+            "Value": "English"
+        },
+        "Notes": "William Wotton was a member of the Royal Society",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

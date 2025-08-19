@@ -1,0 +1,225 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0164",
+        "RecordId": "021-000006597",
+        "Name": "Etnei (Accademia degli)",
+        "City": {
+            "CityId": "105",
+            "CityItalianName": "Catania",
+            "CityEnglishName": "Catania",
+            "CityLatinName": "Catana"
+        },
+        "EmblemImage": {
+            "ImageId": "54907",
+            "Value": "021-000006597_54907_1.jpg"
+        },
+        "Motto": "Tempore Ascendemus",
+        "StartDate": "1675",
+        "EndDate": "?",
+        "DateText": "1675-?",
+        "Notes": "According to Alessio Narbone,the Etnei academy was founded in 1675. See Bibliografia Sicola Sistematica,Palermo, 1850-55 (British Library Shelfmark: 011903.f.3. ). According to  Manganaro, the Etnei academy was founded by Ignazio Patern\u00f2 Castello in 1744. See Dizionario Biografico degli Italiani. \nBooks linked to the Etnei academy were mainly published during the eighteenth century.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19391",
+                "RecordId": "022-000006598",
+                "Name": "Patern\u00f2 Castello,Niccol\u00f2,Baron of Regalcaccia,1721 - 1802",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19393",
+                "RecordId": "022-000006600",
+                "Name": "Patern\u00f2 Castello,Gian Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19395",
+                "RecordId": "022-000006602",
+                "Name": "Patern\u00f2 Castello,Mario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19392",
+                "RecordId": "022-000006599",
+                "Name": "Leonardi,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19394",
+                "RecordId": "022-000006601",
+                "Name": "Messina,Gian Grisostomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19396",
+                "RecordId": "022-000006603",
+                "Name": "Sacchero,Antonino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19397",
+                "RecordId": "022-000006604",
+                "Name": "Sardo,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19399",
+                "RecordId": "022-000006606",
+                "Name": "Zuccarello,Gioacchino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19398",
+                "RecordId": "022-000006605",
+                "Name": "Zuccarello,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19400",
+                "RecordId": "022-000006607",
+                "Name": "Strano,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19401",
+                "RecordId": "022-000006608",
+                "Name": "Gaetani,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19402",
+                "RecordId": "022-000006609",
+                "Name": "Lombardo Buda,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19403",
+                "RecordId": "022-000006610",
+                "Name": "Scammacca,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19404",
+                "RecordId": "022-000006611",
+                "Name": "di Paola Avolio,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19405",
+                "RecordId": "022-000006612",
+                "Name": "Gargallo,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19406",
+                "RecordId": "022-000006613",
+                "Name": "Privitera,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19407",
+                "RecordId": "022-000006614",
+                "Name": "Gagliano Zappal\u00e0,Vincenzo ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19408",
+                "RecordId": "022-000006615",
+                "Name": "Russo Pares,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19409",
+                "RecordId": "022-000006616",
+                "Name": "Strano,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19423",
+                "RecordId": "022-000006635",
+                "Name": "Gaetani Della Torre,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19424",
+                "RecordId": "022-000006636",
+                "Name": "Longo Bartolotta,Rosario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19425",
+                "RecordId": "022-000006637",
+                "Name": "Platanea,Raimondo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19411",
+                "RecordId": "022-000006618",
+                "Name": "Patern\u00f2 Castello,Ignazio ,Prince,1719 - 1786",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54898",
+                    "Value": "022-000006618_54898_2.jpg"
+                }
+            },
+            {
+                "PersonId": "19410",
+                "RecordId": "022-000006617",
+                "Name": "Patern\u00f2 Castello,Vincenzo Domenico,Prince,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54904",
+                    "Value": "022-000006617_54904_2.jpg"
+                }
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

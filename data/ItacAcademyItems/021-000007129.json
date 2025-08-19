@@ -1,0 +1,24 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0327",
+        "RecordId": "021-000007129",
+        "Name": "Tullia d`Aragona (Accademia di)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "ca.1550",
+        "DateText": "ca.1550",
+        "ItacPersonItem": {
+            "PersonId": "19734",
+            "RecordId": "022-000007128",
+            "Name": "d`Aragona,Tullia,,ca.1510-1556",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

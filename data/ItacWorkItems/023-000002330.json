@@ -1,0 +1,113 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002330",
+        "WorkId": "000306",
+        "ShortTitle": "Discorso intorno all`impresa dell`Academia degli Aveduti di Padova",
+        "LongTitle": "di Giovanni Battista Arigoni Fondatore e Prencipe della medesima Academia. All`illustrissimo et eccellentissimo signor conte Antonio Collalto. Conte di Collalto et San Salvatore collateral generale della serenissima republica di Venetia",
+        "ItacAcademyItem": {
+            "AcademyId": "0027",
+            "RecordID": "021-000002327",
+            "Value": "Accademia degli Aveduti"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1602",
+        "DedicationPlaceDate": "Padua 10 February 1602",
+        "Shelfmark": "12301.bbb.24",
+        "Subjects": "Emblems",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15767",
+                "RecordID": "022-000002314",
+                "Value": "Arrigoni,Giovanni Battista,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15769",
+                    "RecordID": "022-000002316",
+                    "Value": "Torelli,Guasparri,,"
+                },
+                {
+                    "PersonId": "15770",
+                    "RecordID": "022-000002317",
+                    "Value": "D.C.S.A.T.F.D.I.S.S.,,,"
+                },
+                {
+                    "PersonId": "15771",
+                    "RecordID": "022-000002318",
+                    "Value": "Dona`,Girolamo,,"
+                },
+                {
+                    "PersonId": "15772",
+                    "RecordID": "022-000002319",
+                    "Value": "Gregorii,Antonio,,"
+                },
+                {
+                    "PersonId": "15773",
+                    "RecordID": "022-000002320",
+                    "Value": "Viadana,Girolamo,,"
+                },
+                {
+                    "PersonId": "15774",
+                    "RecordID": "022-000002321",
+                    "Value": "Muse`,Diotesalvi,,"
+                },
+                {
+                    "PersonId": "15775",
+                    "RecordID": "022-000002322",
+                    "Value": "C.S.N.G,,,"
+                },
+                {
+                    "PersonId": "15777",
+                    "RecordID": "022-000002324",
+                    "Value": "Carpi,Francesco,,"
+                },
+                {
+                    "PersonId": "15767",
+                    "RecordID": "022-000002314",
+                    "Value": "Arrigoni,Giovanni Battista,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15776",
+                "RecordID": "022-000002323",
+                "Value": "Bertelli,Pietro,,"
+            }
+        },
+        "Notes": "The title page reads: `In Padova appresso Pietro Bertelli l`anno 1602. Nella stamperia di Lorenzo Pasquati impressor della sodetta Academia.` This is the complete copy and includes Academy emblem, and one more sonnet.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15768",
+                "RecordID": "022-000002315",
+                "Value": "Collalto,Antonio,Count,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9635",
+                "RecordID": "022-000001682",
+                "Value": "Pasquati,Lorenzo,,fl. 1561-1624"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52633",
+            "Value": "023-000002330_52633_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52634",
+            "Value": "023-000002330_52634_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

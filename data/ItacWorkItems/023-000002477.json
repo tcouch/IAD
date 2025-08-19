@@ -1,0 +1,55 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002477",
+        "WorkId": "000311",
+        "ShortTitle": "Matematiche discipline",
+        "LongTitle": "per uso della illustrissima Accademia DELIA di Padova: dove in sei trattati brevemente si ristringono aritmetica, geometria, trigonometria pratiche. Fortificazione, Sfera, e Geografia. Di Valeriano Bonvicino Lettore di Filosofia nello Studio di PADOVA, e delle Matematiche Militari nella soddetta ACCADEMIA.",
+        "ItacAcademyItem": {
+            "AcademyId": "0031",
+            "RecordID": "021-000002439",
+            "Value": "Accademia Delia"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1666",
+        "DedicationPlaceDate": "padua 4 December 1665",
+        "Shelfmark": "1570/1982",
+        "Subjects": "Fortifications|Geography|Geometry|Mathematics",
+        "Language": "Italian",
+        "Pagination": "pp. 201",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15880",
+                "RecordID": "022-000002441",
+                "Value": "Bonvicino/i,Valeriano,,"
+            }
+        },
+        "Notes": "The book contains the list of Accademicians, and their roles in the Academy.",
+        "CensorsAgreement": "Noi Reformatori dello Studio di Padova. Avendo veduto per fede del Padre Inquisitore nel Libro intitolato Matematiche Discipline ad uso degl`Accademici Delij nella Citta` di Padova di Valeriano Bonvicino, non esservi cosa alcuna contro la Santa Fede Cattolica, e parimente per attestato del Segretario Nostro, niente contro Prencipi, o buoni costumi, concedemo licenza che possi esser stampato, osservandosi gl`ordini, et c. Dat. a 10 Aprile 1665. Zuane Donado Ref.; Andrea Pisani Proc. Ref. Battista Nani Cav. Proc. Ref.                                          Angelo Nicolosi Segretario",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0031",
+                "RecordID": "021-000002439",
+                "Value": "Accademia Delia"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9638",
+                "RecordID": "022-000001686",
+                "Value": "Frambotti,Eredi di Paolo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53103",
+            "Value": "023-000002477_53103_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

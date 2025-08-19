@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006731",
+        "WorkId": "000800",
+        "ShortTitle": "Gli equivoci in amore overo La Rosaura",
+        "LongTitle": "Drama per musica ... Dedicato Alle Eccellentissime Signore Principesse D. Maria Tarquinia e D. Cornelia Ottoboni",
+        "ItacAcademyItem": {
+            "AcademyId": "0173",
+            "RecordID": "021-000006725",
+            "Value": "Accademia degli Uniti (Roma)"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1690",
+        "Shelfmark": "906l4(1)",
+        "Subjects": "Theatre|Melodrama",
+        "Language": "Italian",
+        "Pagination": "58",
+        "Marginalia": "No",
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "18573",
+                "RecordID": "022-000005616",
+                "Value": "Leone,Francesco,,"
+            }
+        },
+        "Notes": "Music by Alessandro Scarlatti. The same work was to be staged (and published) two years later by the Accademici Uniti, under the patronage of G. B. Rospigliosi, see Franchi (1994), p. 304. Title-page and frontispiece are displayed here.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19361",
+                "RecordID": "022-000006565",
+                "Value": "Buagni,Gio. Francesco,,ca.1650 - post1724"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54866",
+            "Value": "023-000006731_54866_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54867",
+            "Value": "023-000006731_54867_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

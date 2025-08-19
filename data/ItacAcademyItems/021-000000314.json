@@ -1,0 +1,33 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0004",
+        "RecordId": "021-000000314",
+        "Name": "Agiati (Accademia degli)",
+        "City": {
+            "CityId": "44",
+            "CityItalianName": "Rimini",
+            "CityEnglishName": "Rimini",
+            "CityLatinName": "Ariminum"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "5279",
+                "RecordId": "022-000000324",
+                "Name": "Manzini,Giovanni Battista,,1599 - 1664",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5283",
+                "RecordId": "022-000000330",
+                "Name": "Marescotti,Annibale,,fl. 1574 - 1627?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

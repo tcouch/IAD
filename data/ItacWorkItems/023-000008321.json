@@ -1,0 +1,44 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008321",
+        "WorkId": "000935",
+        "ShortTitle": "I sospetti",
+        "LongTitle": "Comedia del sig. Massimo Faroni. Gentilhuomo, & Academico Mantovano",
+        "ItacAcademyItem": {
+            "AcademyId": "0551",
+            "RecordID": "021-000008268",
+            "Value": "Invaghiti (Accademia degli - Mantova)"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1603",
+        "Shelfmark": "11715.bbb.29",
+        "Content": "Comedy in five acts, in prose, with interludes in verse",
+        "Subjects": "Theatre|Carnival|Comedy",
+        "Language": "Italian",
+        "Pagination": "pp. 174",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20544",
+                "RecordID": "022-000008290",
+                "Value": "Farroni,Massimo,,"
+            }
+        },
+        "Notes": "`Academico Mantovano` on the title page most likely refers to Farroni`s membership of the Accademia degli Invaghiti, the most prosperous academy in Mantua, in which he played an active role.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,ca.1564-ca.1635"
+            }
+        },
+        "PrinterOrnament": "Z162",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

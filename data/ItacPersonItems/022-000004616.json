@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17720",
+        "RecordId": "022-000004616",
+        "Surname": "Cevoli",
+        "Forename": "Tiberio",
+        "AlternativeName": {
+            "AlternativeSurname": "Ceuli"
+        },
+        "DateText": "d.1685",
+        "StartDate": "d.1685",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Role": "Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

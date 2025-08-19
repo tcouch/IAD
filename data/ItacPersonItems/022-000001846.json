@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9674",
+        "RecordId": "022-000001846",
+        "Surname": "Beni",
+        "Forename": "Paolo",
+        "Pseudonym": "Michelangelo Fonte",
+        "DateText": "1553-1625",
+        "StartDate": "1553",
+        "EndDate": "1625",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18566",
+        "RecordId": "022-000005606",
+        "Surname": "Cesarini",
+        "Forename": "Alessandro (The Younger)",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1592-1644",
+        "StartDate": "1592",
+        "EndDate": "1644",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Created cardinal by Urban VIII in 1627",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

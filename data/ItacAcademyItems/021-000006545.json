@@ -1,0 +1,96 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0162",
+        "RecordId": "021-000006545",
+        "Name": "Affidati-Pavia (Accademia degli)",
+        "City": {
+            "CityId": "80",
+            "CityItalianName": "Pavia",
+            "CityEnglishName": "Pavia",
+            "CityLatinName": "Ticinum"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "16570",
+                "RecordId": "022-000003288",
+                "Name": "Setaiola,Filippo,,? - 1685",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16597",
+                "RecordId": "022-000003315",
+                "Name": "Sasso,Giacomo,,1573 - 1610",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19346",
+                "RecordId": "022-000006546",
+                "Name": "Beccaria,Gerolamo,,",
+                "Nickname": "L`Illustrato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19347",
+                "RecordId": "022-000006547",
+                "Name": "Massini,Filippo,,1559 - 1617/18",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19545",
+                "RecordId": "022-000006819",
+                "Name": "Bellisomi,Francesco,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19855",
+                "RecordId": "022-000007294",
+                "Name": "Cantoni,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16291",
+                "RecordId": "022-000002944",
+                "Name": "Cervoni,Isabella,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16293",
+                "RecordId": "022-000002946",
+                "Name": "Benigni Manfredi,Ippolita,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15473",
+                "RecordId": "022-000001998",
+                "Name": "Giraldi Cinzio,Giambattista,,1504-1573",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20779",
+                "RecordId": "022-000008606",
+                "Name": "De Lemene,Francesco,Count,1634-1704",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

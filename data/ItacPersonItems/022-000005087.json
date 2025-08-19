@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18127",
+        "RecordId": "022-000005087",
+        "Surname": "Colonna",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "PersonalTitle": "Archbishop of Taranto",
+        "DateText": "fl.1544-d.1560",
+        "StartDate": "fl.1544",
+        "EndDate": "d.1560",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Early meetings of the Accademia della Virtu` took place in Colonna`s house.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

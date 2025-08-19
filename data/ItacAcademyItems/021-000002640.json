@@ -1,0 +1,145 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0037",
+        "RecordId": "021-000002640",
+        "Name": "Incogniti (Accademia degli)",
+        "AlternativeName": "Academia de gl`Incogniti",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1540s",
+        "EndDate": "ca1548",
+        "DateText": "1540s-ca1548",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16082",
+                "RecordId": "022-000002667",
+                "Name": "Curz,Lionardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16084",
+                "RecordId": "022-000002669",
+                "Name": "Caetano,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16083",
+                "RecordId": "022-000002668",
+                "Name": "Palombo,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15112",
+                "RecordId": "022-000001153",
+                "Name": "Di Costanzo,Angelo,,1507-1591",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16101",
+                "RecordId": "022-000002691",
+                "Name": "Maracca,Baldassare,Reverend of Lesina,",
+                "Nickname": "Museo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16102",
+                "RecordId": "022-000002692",
+                "Name": "Brancaleoni,Francesco Giovanni,,",
+                "Nickname": "Museo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16099",
+                "RecordId": "022-000002688",
+                "Name": "Lega ,Giovanni Dominico,,",
+                "Nickname": "Parthenio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16106",
+                "RecordId": "022-000002700",
+                "Name": "Faggivolo,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16071",
+                "RecordId": "022-000002653",
+                "Name": "di Falco ,Benedetto,,",
+                "Nickname": "Abstemio",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16081",
+                "RecordId": "022-000002666",
+                "Name": "Morera,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17229",
+                "RecordId": "022-000004044",
+                "Name": "Villarosa ,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17230",
+                "RecordId": "022-000004045",
+                "Name": "Sovero,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17231",
+                "RecordId": "022-000004046",
+                "Name": "Mormile ,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17232",
+                "RecordId": "022-000004047",
+                "Name": "Cambi,Alfonso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16062",
+                "RecordId": "022-000002642",
+                "Name": "Terracina,Laura,,1519-1577",
+                "Nickname": "Febea",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "52855",
+                    "Value": "022-000002642_52855_2.jpg"
+                }
+            }
+        ],
+        "Role": "Editor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19656",
+        "RecordId": "022-000007015",
+        "Surname": "Falconieri",
+        "Forename": "Ottavio",
+        "Gender": "Male",
+        "DateText": "1636-1675",
+        "StartDate": "1636",
+        "EndDate": "1675",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "Joined the Accademia di Cristina di Svezia in 1674",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

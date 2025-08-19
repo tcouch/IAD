@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003997",
+        "WorkId": "000517",
+        "ShortTitle": "Notizie",
+        "LongTitle": "Raccolte Dal Sig. Gio: Bernardino Tafuri Patrizio Neritino Intorno alla Persona, ed Opere Di Angelo Di Costanzo Con Alcune Correzioni E Supplementi Sopra li venti libri dell`Istorie del Regno di Napoli Scritti dal medesimo Costanzo.\nIn: Raccolta d\u2019opuscoli scientifici, e filologici. tom. 10.",
+        "ItacAcademyItem": {
+            "AcademyId": "0065",
+            "RecordID": "021-000003995",
+            "Value": "Accademia Pontaniana"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1734",
+        "DedicationPlaceDate": "Venice 27 March 1734",
+        "Shelfmark": "247.b.10.",
+        "Subjects": "Biography",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 124",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17191",
+                "RecordID": "022-000004000",
+                "Value": "Tafuri,Giovan Bernardino,,"
+            }
+        },
+        "Notes": "On pp. 32-33, the author mentions Di Costanzo`s affiliation to the Pontaniana Academy in Naples.",
+        "CensorsAgreement": "Con Licenza de` Superiori e Privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17189",
+                "RecordID": "022-000003998",
+                "Value": "D`Inguimbert,Malachia,Archbishop of Teodosia,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17190",
+                "RecordID": "022-000003999",
+                "Value": "Zane,Cristoforo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19851",
+        "RecordId": "022-000007289",
+        "Surname": "Duodo",
+        "Forename": "Girolamo",
+        "DateText": "1655-1707",
+        "StartDate": "1655",
+        "EndDate": "1707",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Treasurer of the Argonauti Academy in Venice. For his biography see Gullino, `Duodo, Girolamo`, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

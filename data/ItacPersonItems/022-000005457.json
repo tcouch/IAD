@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18434",
+        "RecordId": "022-000005457",
+        "Surname": "Auria",
+        "Forename": "Vincenzo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Auria",
+            "AlternativeForename": "Vincentius"
+        },
+        "Pseudonym": "Zuonvicino Andrea",
+        "DateText": "1625-1710",
+        "StartDate": "1625",
+        "EndDate": "1710",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a biographical account see Antonino Mongitore, Bibliotheca Sicula, Felicella, Palermo, Vol.II, pp. 274-277 (British Library Shelfmark:610.m.10.)\nPortrait by Franciscus Cith\u00e8 in Vincenzo Auria, Oratione, 1653",
+        "Role": "Author|Editor|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

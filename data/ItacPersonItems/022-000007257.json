@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19820",
+        "RecordId": "022-000007257",
+        "Surname": "Badoer",
+        "Forename": "Giovanni Alberto",
+        "AlternativeName": {
+            "AlternativeSurname": "Badoaro"
+        },
+        "PersonalTitle": "Patriarch of Venice",
+        "DateText": "1649-1714",
+        "StartDate": "1649",
+        "EndDate": "1714",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

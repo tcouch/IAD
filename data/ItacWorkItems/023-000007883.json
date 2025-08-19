@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007883",
+        "WorkId": "000887",
+        "ShortTitle": "Orationes clarorum hominum,",
+        "LongTitle": "vel honoris officiique causa ad principes, vel in funere de virtutibus eorum habitae",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Accademia Veneziana (della Fama)"
+            },
+            {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Academia Veneta"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1559",
+        "Shelfmark": "G1567|835e1(6)|74c18",
+        "Subjects": "Rhetoric|Funereal discourse",
+        "Language": "Latin",
+        "Pagination": "176r-v",
+        "Marginalia": "No",
+        "Notes": "Editors sign as `Rhetores Academiae Venetae`. The image comes from copies with shelfmark 835e1(6), and G1567.",
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Academia Veneta"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "PrinterOrnament": "V256|Z507",
+        "TitlePageImage": {
+            "ImageId": "55080",
+            "Value": "023-000007883_55080_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55093",
+            "Value": "023-000007883_55093_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

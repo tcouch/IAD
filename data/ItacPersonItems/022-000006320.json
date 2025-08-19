@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19171",
+        "RecordId": "022-000006320",
+        "Surname": "Greuter",
+        "Forename": "Johann Friedric",
+        "DateText": "1593/1600 - 1660/62",
+        "StartDate": "1593/1600",
+        "EndDate": "1660/62",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "of Strassbourg",
+        "Role": "Illustrator",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

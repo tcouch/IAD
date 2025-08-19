@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9085",
+        "RecordId": "022-000001691",
+        "Surname": "Patin",
+        "Forename": "Charles",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Patino",
+            "AlternativeForename": "Carlo"
+        },
+        "DateText": "1633-1693",
+        "StartDate": "1633",
+        "EndDate": "1693",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "On Patin see Dekesel, Charles Patin. A Man Without a Country (1990). according to De Rosas, `Corner, Giovan Battista`, in DBI, one of Patin`s daughter could not receive her doctorate due to the opposition of Elena Lucrezia`s father.",
+        "Role": "Contributor|Editor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

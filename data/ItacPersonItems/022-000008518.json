@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20703",
+        "RecordId": "022-000008518",
+        "Surname": "Marcellino",
+        "Forename": "Valerio",
+        "DateText": "1536-1602",
+        "StartDate": "1536",
+        "EndDate": "1602",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Apparently Marcellino was a successful lawyer in Venice. See his biography by Lorenzo Carpane` in DBI",
+        "Role": "Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

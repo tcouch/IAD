@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001017",
+        "WorkId": "00094",
+        "ShortTitle": "Pensieri fisico-matematici",
+        "LongTitle": "sopra alcune esperienze fatte in Bologna nell`Accademia Filosofica eretta dall`Ill[ustrissi]mo e R[everendissi]mo Abbate Carlo Antonio Sampieri Intorno diversi effetti de` liquidi in cannuccie di vetro et altri vasi. Espressi dal dottor Geminiano Montanari matematico dello studio di Bologna In un discorso da lui fatto in essa Accademia",
+        "ItacAcademyItem": {
+            "AcademyId": "0015",
+            "RecordID": "021-000000989",
+            "Value": "Accademia della Traccia"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1667",
+        "Shelfmark": "537.c.15.(4)",
+        "Subjects": "Science",
+        "Language": "Italian",
+        "Pagination": "pp. 53",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5028",
+                "RecordID": "022-000000030",
+                "Value": "Montanari,Geminiano,,1633 - 1687"
+            }
+        },
+        "Notes": "Fantuzzi writes that the printers were `Emilio Maria e fratelli Manolessi`; he also lists issues that were dbated in Montanari`s house",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5020",
+                    "RecordID": "022-000000022",
+                    "Value": "Bonomi,Giovanfrancesco,,1626-1705"
+                },
+                {
+                    "PersonId": "5224",
+                    "RecordID": "022-000000216",
+                    "Value": "Boncompagno,Hieronymo,Cardinal,1622-1684"
+                },
+                {
+                    "PersonId": "5229",
+                    "RecordID": "022-000000221",
+                    "Value": "Gherardus de Diano,Marcellus,Vic. gener. S. Officij Bononiae,"
+                },
+                {
+                    "PersonId": "7409",
+                    "RecordID": "022-000001001",
+                    "Value": "Chrisostomus,Iohannes,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit P. D. Ioannes Chrisostomus Vicecomes Clericus regularis S. pauli in Metropolitana Bononien. Poenitentiarius pro eminentiss. et reverendiss. D. D. Hieronymo Boncompagno Archiep. Bonon. Et Principe | Reverendiss. P. ho veduto con mio gran piacere dentro una serie d`esperienze fatte altri tempi dal sig. dottor Montanari convinte in parte ed in parte sedate molte fallacie e discrepanze delle Filosofiche Scuole; il che mi obbliga a confessare che tal`volta l`esperienze meglio che le speculazioni appagano le menti curiose del vero. E perch\u00e9 il tutto si compila senza offesa immaginabile della Modestia e della religione in questo maestrevole discorso quindi \u00e8 che quelle e questo reputo meritevole di luce. Giovanfrancesco Bonomi | Imprimatur | Fr. Marcellus Ghirardus de Diano Sac. Theolog. lect. ac Vicarius S. Officij Bononiae",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5530",
+                "RecordID": "022-000000526",
+                "Value": "Manolessi,Emilio Maria,,fl. 1665-1685"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52642",
+            "Value": "023-000001017_52642_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

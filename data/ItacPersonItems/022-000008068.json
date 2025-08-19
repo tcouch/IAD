@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20354",
+        "RecordId": "022-000008068",
+        "Surname": "Giolito De Ferrari",
+        "Forename": "Giovanni Francesco",
+        "Gender": "Male",
+        "DateText": "fl. 1560 - 1578",
+        "StartDate": "fl. 1560",
+        "EndDate": "1578",
+        "Nationality": {
+            "NationalityId": "384",
+            "Value": "of Trino"
+        },
+        "Role": "Printer",
+        "TypographicReference": "Z426|Z955|Z956",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

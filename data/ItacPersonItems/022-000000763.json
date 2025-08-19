@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "6032",
+        "RecordId": "022-000000763",
+        "Surname": "Batistello",
+        "Forename": "Pierfrancesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Battistelli"
+        },
+        "DateText": "fl. 1610-1624",
+        "StartDate": "fl. 1610",
+        "EndDate": "1624",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

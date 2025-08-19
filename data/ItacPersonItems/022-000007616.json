@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20112",
+        "RecordId": "022-000007616",
+        "Surname": "Merlini",
+        "Forename": "Cosimo",
+        "AlternativeName": {
+            "AlternativeSurname": "Merlinus",
+            "AlternativeForename": "Cosmus"
+        },
+        "DateText": "1580-1641",
+        "StartDate": "1580",
+        "EndDate": "1641",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Goldsmith, active mostly in Florence. See his biography by M. Picciau, in DBI.",
+        "Role": "Artist|Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

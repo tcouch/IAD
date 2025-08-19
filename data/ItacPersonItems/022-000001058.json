@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15016",
+        "RecordId": "022-000001058",
+        "Surname": "Battista",
+        "Forename": "Giuseppe",
+        "AlternativeName": {
+            "AlternativeSurname": "Baptista",
+            "AlternativeForename": "Iosephus"
+        },
+        "DateText": "1610-1675",
+        "StartDate": "1610",
+        "EndDate": "1675",
+        "Nationality": {
+            "NationalityId": "178",
+            "Value": "of Grottaglie (Lecce)"
+        },
+        "Notes": "Portrait from Lorenzo Crasso, Elogii d`Huomini letterati, Venice, 1666.",
+        "Role": "Author|Contributor|Dedicatee|Censor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

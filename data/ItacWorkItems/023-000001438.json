@@ -1,0 +1,96 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001438",
+        "WorkId": "00166",
+        "ShortTitle": "El Parnasso Espanol Y Musas Castellanas",
+        "LongTitle": "De D. Francisco De Quevedo Villegas | Caballero De La Orden de Santiago | Senor De  La Villa. De la Torre De Ioan Abad. Corregidas I Enmendadas De Nuevo En Esta Impression per El Doctor Amuso Cultifragio Academico Ocioso de Lobaina.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "52",
+            "PublicationPlaceItalianName": "Madrid",
+            "PublicationPlaceEnglishName": "Madrid",
+            "PublicationPlaceLatinName": "Matritensis"
+        },
+        "PublicationYear": "1650",
+        "DedicationPlaceDate": "Madrid 1650",
+        "Shelfmark": "1077.k.7.",
+        "Content": "Encomiastic Poetry | Somnets | Verses",
+        "Subjects": "Classical and Encomiastic Poetry",
+        "Language": "Spanish|Latin",
+        "Illustration": "Plates | Mythological figures | Pegasus | Mount Parnassus |Plate|Author`s portrait",
+        "Pagination": "First 14 pages unnumbered  | pp. 498  |Last 22 pages unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15246",
+                "RecordID": "022-000001289",
+                "Value": "De Quevedo Villegas,Francisco,,1580 - 1645"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15251",
+                "RecordID": "022-000001294",
+                "Value": "De La Carrera Diaz,Diego,,"
+            }
+        },
+        "Notes": "This text contains a MS. note in Spanish (p. 8)",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15252",
+                    "RecordID": "022-000001295",
+                    "Value": "De La Escalera Guebara,Pedro,,"
+                },
+                {
+                    "PersonId": "15253",
+                    "RecordID": "022-000001296",
+                    "Value": "De Valdes,Iuan,,"
+                },
+                {
+                    "PersonId": "15254",
+                    "RecordID": "022-000001297",
+                    "Value": "De Herran,Pedro Fernandez,,"
+                },
+                {
+                    "PersonId": "15255",
+                    "RecordID": "022-000001298",
+                    "Value": "Murcia De La Llma,Carlos,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Censores de Este Libro  I Summa De El Privilegio  I De La Tassa. De este libro fue censor por el Ordinario Don Pedro de la Escalera Guebara I por comission de el consejo Supremo de Castilla el Licenciado Don Iuan de Valdes.  Con Sus Censuras Su Megestad concedio privilegio a Pedro Coello Mercader de Libros para poderle imprimir por diez anos en 10 de Septiembre ano de 1647.  Tasose por los SS. de el mismo Consejo a cinco maravedis cada pliego  como consta de la Certificacion de Pedro Fernandez de Herran  escribano de Camara de su Magestad  fu Fecha a 17 de Iuno de 1648. I tiene 66 pliegos con principios  i tablas. Fee de Erratas. Corresponde este Libro con su original.  Dada en Madrid \u00e0 onze de Agosto de 1650.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15250",
+                "RecordID": "022-000001293",
+                "Value": "De La Cerda,Antonio Iuan Luis,Duke of Medinaceli|Duke and Marquis of Alcal\u00e0,1607 - 1671"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15247",
+                "RecordID": "022-000001290",
+                "Value": "Coello,Pedro,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "15249",
+                "RecordID": "022-000001292",
+                "Value": "De Noort,Iuan,,ca. 1620-ca. 1676"
+            }
+        },
+        "EngraverReference": "Y",
+        "TitlePageImage": {
+            "ImageId": "52867",
+            "Value": "023-000001438_52867_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

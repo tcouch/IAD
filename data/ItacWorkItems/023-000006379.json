@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006379",
+        "WorkId": "000767",
+        "ShortTitle": "Dubitationes in dialogum Galilaei Galilaei Lyncei",
+        "LongTitle": "In Gymnasio Pisano Mathematici supraordinarj. Autore Claudio Berigardo In eadem Academia Philosophiam profitente. Ubi notatur Simplicij vel praevaricatio, vel simplicitas, quod nullum efficax supereste Peripateticus argumentum de Terrae immobilitatem probandam tam facile concesserit. Ad Serenissimum Ferdinandum II Magnum Haetruriae Ducem",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1632",
+        "Shelfmark": "531k13(8)",
+        "Language": "Latin",
+        "Pagination": "68 [2]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19209",
+                "RecordID": "022-000006381",
+                "Value": "Beauregard (signore di),Claudio Guillermet,,1579 - 1663"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19214",
+                    "RecordID": "022-000006386",
+                    "Value": "Quaratesi,Orazio,,"
+                },
+                {
+                    "PersonId": "19201",
+                    "RecordID": "022-000006367",
+                    "Value": "Egidius,Clemens,Inquisitor general of Florence,"
+                },
+                {
+                    "PersonId": "19213",
+                    "RecordID": "022-000006385",
+                    "Value": "Cellesius,Sebastianus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur Florentiae si placet adm. Rever. Patri Inquisitori. Horatius Quarataesius Vicesregens Florentiae. Imprimatur die 21 Aug. 1632. Fr. Clemens Egidius Inq. Gen. Florent. Sebastianus Cellesius",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19215",
+                "RecordID": "022-000006387",
+                "Value": "Nesti,Pietro,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

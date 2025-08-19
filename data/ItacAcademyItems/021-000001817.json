@@ -1,0 +1,67 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0022",
+        "RecordId": "021-000001817",
+        "Name": "Orditi (Accademia degli)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "StartDate": "ca1600",
+        "EndDate": "ca 1615",
+        "DateText": "ca1600-ca 1615",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5044",
+                "RecordId": "022-000000046",
+                "Name": "L`Involto, L`Involto, ,",
+                "Nickname": "L`Involto",
+                "Motto": "Sic tutanda fides",
+                "PersonEmblemDescription": "A hand covered by a cloth; below is a river flowing from a mountain across the woods"
+            },
+            {
+                "PersonId": "9650",
+                "RecordId": "022-000001819",
+                "Name": "Malacreta, Gio. Pietro, , c. 1600",
+                "Nickname": "L`Innaspato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9651",
+                "RecordId": "022-000001820",
+                "Name": "Fiamma, Carlo, ,",
+                "Nickname": "Il Confuso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9652",
+                "RecordId": "022-000001821",
+                "Name": "Ammassato, , ,",
+                "Nickname": "Ammassato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9642",
+                "RecordId": "022-000001746",
+                "Name": "Cortesi,Cortese,,1550-1617",
+                "Nickname": "Accademico Ordito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15766",
+                "RecordId": "022-000002313",
+                "Name": "Orsato,Annibale,,",
+                "Nickname": "L`Ingenuo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

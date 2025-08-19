@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5023",
+        "RecordId": "022-000000025",
+        "Surname": "Giusti",
+        "Forename": "Vincenzo",
+        "Gender": "Male",
+        "DateText": "1532-1619",
+        "StartDate": "1532",
+        "EndDate": "1619",
+        "Nationality": {
+            "NationalityId": "193",
+            "Value": "of Udine"
+        },
+        "Notes": "He was one of the founders of the Sventati Academy in Udine with the nickname Lo Stanco. See his biography by F. Pignatti, in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

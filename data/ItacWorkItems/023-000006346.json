@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006346",
+        "WorkId": "000754",
+        "ShortTitle": "Il telescopio over ispecillo celeste",
+        "LongTitle": "di Nicolo` Antonio Stelliola Linceo",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1627",
+        "DedicationPlaceDate": "Napoli 17 Agosto 1627",
+        "Shelfmark": "529h33",
+        "Language": "Italian",
+        "Pagination": "[11] 142",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19131",
+                "RecordID": "022-000006268",
+                "Value": "Stelliola,Niccolo` Antonio,,1546/7 - 1623"
+            }
+        },
+        "CensorsAgreement": "Imprimatur. Lelius Tastius Vicarius Generalis. Mag. Fr. Philocalus Caputus carmelita Theologus Deputatus vidit",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19189",
+                "RecordID": "022-000006347",
+                "Value": "Stelliola,Gio: Domenico,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19190",
+                "RecordID": "022-000006348",
+                "Value": "Maccarano,Domenico,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

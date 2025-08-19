@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19998",
+        "RecordId": "022-000007467",
+        "Surname": "Rusconi",
+        "Forename": "Giorgio",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "de' Rusconi",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Georgio"
+            }
+        ],
+        "DateText": "1500 - 1522",
+        "StartDate": "1500",
+        "EndDate": "1522",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Dates refer to years of activity",
+        "Role": "Printer",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

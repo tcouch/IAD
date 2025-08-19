@@ -1,0 +1,24 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0267",
+        "RecordId": "021-000006919",
+        "Name": "Oracolo (Accademia dell`)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "StartDate": "after 1650",
+        "DateText": "after 1650",
+        "ItacPersonItem": {
+            "PersonId": "19588",
+            "RecordId": "022-000006918",
+            "Name": "Onorati,Francesco Maria,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

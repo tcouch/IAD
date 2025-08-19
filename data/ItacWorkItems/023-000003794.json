@@ -1,0 +1,48 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003794",
+        "WorkId": "000507",
+        "ShortTitle": "Comedia spirituale di Cleophas et Luca",
+        "ItacAcademyItem": {
+            "AcademyId": "0061",
+            "RecordID": "021-000003726",
+            "Value": "Congrega degli Insipidi"
+        },
+        "Format": "16\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1523",
+        "Shelfmark": "11715.aa.17",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16981",
+                "RecordID": "022-000003771",
+                "Value": "Tregiani,Domenico di Gismondo,,"
+            }
+        },
+        "Notes": "Attributed to Domenico Tregiani",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16999",
+                "RecordID": "022-000003793",
+                "Value": "Zanetti,Bartolomeo,,fl.1520 - 1548"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53858",
+            "Value": "023-000003794_53858_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53859",
+            "Value": "023-000003794_53859_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

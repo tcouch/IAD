@@ -1,0 +1,77 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001492",
+        "WorkId": "00099",
+        "ShortTitle": "Bassus ad organum Rosarium litaniarum beatae V. Mariae",
+        "LongTitle": "Ternis Quaternis Quinis Senis Septenis et Octonis Vocibus Concinandarum A. D. Laurentio Calvo in aede cathedrali papiae musico ex varijs auctoribus desumptum nunc primum in lucem aditum",
+        "ItacAcademyItem": {
+            "AcademyId": "0019",
+            "RecordID": "021-000001473",
+            "Value": "Accademia Filarmonica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1626",
+        "Shelfmark": "D.242",
+        "Subjects": "Music",
+        "Language": "Latin|Italian",
+        "Pagination": "pp. 46",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7700",
+                "RecordID": "022-000001475",
+                "Value": "Calvi,Lorenzo,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5085",
+                "RecordID": "022-000000082",
+                "Value": "Giacobbi,Girolamo,,1567 - 1628"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7701",
+                "RecordID": "022-000001476",
+                "Value": "Vincentium,Alexandrum,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52687",
+            "Value": "023-000001492_52687_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Letanie A4",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5085",
+                            "RecordID": "022-000000082",
+                            "Value": "Giacobbi, Girolamo , , 1567-1628"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Letanie A5",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5085",
+                            "RecordID": "022-000000082",
+                            "Value": "Giacobbi, Girolamo , , 1567-1628"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

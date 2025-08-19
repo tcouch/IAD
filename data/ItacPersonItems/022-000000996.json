@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7406",
+        "RecordId": "022-000000996",
+        "Surname": "Hapbsburg-Lorraine",
+        "Forename": "Leopold",
+        "AlternativeName": {
+            "AlternativeSurname": "Habsburg"
+        },
+        "PersonalTitle": "Grand Duke of Tuscany",
+        "DateText": "1747-1790",
+        "StartDate": "1747",
+        "EndDate": "1790",
+        "Nationality": {
+            "NationalityId": "64",
+            "Value": "Austrian"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

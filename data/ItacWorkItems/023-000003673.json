@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003673",
+        "WorkId": "000487",
+        "ShortTitle": "Philomathi musae iuveniles",
+        "LongTitle": "Editio novissima prioribus auctior et emendatior",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "57",
+            "PublicationPlaceItalianName": "Parigi",
+            "PublicationPlaceEnglishName": "Paris",
+            "PublicationPlaceLatinName": "Parisium"
+        },
+        "PublicationYear": "1656",
+        "DedicationPlaceDate": "Coloniae Agrippinae (Cologne, Germany) April 1655",
+        "Shelfmark": "74.i.13",
+        "Subjects": "Poetry",
+        "Language": "Latin",
+        "Pagination": "275",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16544",
+                "RecordID": "022-000003251",
+                "Value": "Chigi,Fabio ,Pope Alexander VII,1559 - 1667"
+            }
+        },
+        "Notes": "The colophon reads; `Parisiis, in Typographia Regia curante Sebastiano Cramoisy, Regis ac Reginae Architypographo. MDCLVI`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16904",
+                "RecordID": "022-000003677",
+                "Value": "Chigi,Flavio,,1631 - 1693"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16903",
+                "RecordID": "022-000003675",
+                "Value": "Furstenberg,Wilhelmus,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16902",
+                "RecordID": "022-000003674",
+                "Value": "Typographia Regia,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53895",
+            "Value": "023-000003673_53895_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

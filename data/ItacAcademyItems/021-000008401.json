@@ -1,0 +1,22 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0572",
+        "RecordId": "021-000008401",
+        "Name": "Risvegliati (Accademia dei)",
+        "City": {
+            "CityId": "72",
+            "CityItalianName": "Pistoia",
+            "CityEnglishName": "Pistoia",
+            "CityLatinName": "Pistoriensis"
+        },
+        "ItacPersonItem": {
+            "PersonId": "20614",
+            "RecordId": "022-000008399",
+            "Name": "Marchetti,Alessandro,,1633-1714",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

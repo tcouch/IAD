@@ -1,0 +1,22 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0053",
+        "RecordId": "021-000003375",
+        "Name": "Ecclissati (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "ItacPersonItem": {
+            "PersonId": "16652",
+            "RecordId": "022-000003374",
+            "Name": "Di Vivo,Francesco,,",
+            "Nickname": "L`Opportuno",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

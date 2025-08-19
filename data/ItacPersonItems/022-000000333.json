@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5285",
+        "RecordId": "022-000000333",
+        "Surname": "Sempronio",
+        "Forename": "Giovanni Leone",
+        "AlternativeName": {
+            "AlternativeSurname": "Sempronij",
+            "AlternativeForename": "Giovan Leone"
+        },
+        "DateText": "ca. 1603-1646",
+        "Nationality": {
+            "NationalityId": "97",
+            "Value": "of Urbino"
+        },
+        "Notes": "One of his sonnets in Corona di rose poetiche 1590. Recent monograph is Giachino, Giovan Leone Sempronio: tra \"lusus\" amoroso e armi cristiane (2002).",
+        "Role": "Author|Contributor",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

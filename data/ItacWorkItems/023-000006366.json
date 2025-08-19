@@ -1,0 +1,85 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006366",
+        "WorkId": "000762",
+        "ShortTitle": "Dialogo di Galileo Galilei Linceo Matematico sopraordinario dello studio di Pisa.",
+        "LongTitle": "E filosofo, e Matematico primario del Serenissimo Gr. Duca di Toscana. dove ne i congressi di quattro giornate si discorre sopra i due Massimi sistemi del Mondo Tolemaico e Copernicano; proponendo indeterminatamente le ragioni Fisolofiche, e Naturali tanto per l`una, quanto per l`altra parte.",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1632",
+        "Shelfmark": "52e9",
+        "Subjects": "Astronomy",
+        "Language": "Italian",
+        "Pagination": "[4] 458 [ 32]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9018",
+                "RecordID": "022-000001586",
+                "Value": "Galilei,Galileo,,1564 - 1642"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19156",
+                    "RecordID": "022-000006299",
+                    "Value": "Episcopus,Antonius,,"
+                },
+                {
+                    "PersonId": "18445",
+                    "RecordID": "022-000005468",
+                    "Value": "Riccardi,Nicola,Master of the Sacred Palace,1585-1639"
+                },
+                {
+                    "PersonId": "17026",
+                    "RecordID": "022-000003831",
+                    "Value": "Niccolini,Piero,,"
+                },
+                {
+                    "PersonId": "19201",
+                    "RecordID": "022-000006367",
+                    "Value": "Egidius,Clemens,Inquisitor general of Florence,"
+                },
+                {
+                    "PersonId": "17030",
+                    "RecordID": "022-000003836",
+                    "Value": "dell`Antella,Niccolo`,,1560 - 1630"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur Reverendiss. P. Magistro Sacri Palatii Apostolici A. Episcopus Bellicastensis Vicesgerens. Imprimatur Fr. Nicolaus Riccardius Sacri Palatii Apostolici Magister. Imprimatur Florentiae ordinibus consuetis servatis 11 Septembris 1630. Petrus Nicolinus Vic. Gener. Florentiae. Imprimatur die 11 Septembris 1630 Fr. Clemens Egidius Inqu. Gener. Florentiae. Stampisi adi 12 di Settembre 1630. Niccolo` dell`Altella.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "19202",
+                "RecordID": "022-000006368",
+                "Value": "Della Bella,Stefano,,1610 - 1664"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19203",
+                "RecordID": "022-000006369",
+                "Value": "Landni,Giovanni Batista,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

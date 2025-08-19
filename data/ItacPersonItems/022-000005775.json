@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18710",
+        "RecordId": "022-000005775",
+        "Surname": "Guaccimanni",
+        "Forename": "Giuseppe Giusto",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Guacimani"
+            },
+            {
+                "AlternativeSurname": "Guazzimani"
+            }
+        ],
+        "DateText": "1652-1705",
+        "StartDate": "1652",
+        "EndDate": "1705",
+        "Nationality": {
+            "NationalityId": "98",
+            "Value": "of Ravenna"
+        },
+        "Notes": "According to Maggiolo (1983), he was a man of letters who was later interested in alchemy, and `squandered all his possessions to make gold`. Joined the Ricovrati in 1678.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

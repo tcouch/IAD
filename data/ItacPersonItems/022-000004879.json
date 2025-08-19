@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17955",
+        "RecordId": "022-000004879",
+        "Surname": "Dodart",
+        "Forename": "Denys",
+        "Gender": "Male",
+        "DateText": "1634-1707",
+        "StartDate": "1634",
+        "EndDate": "1707",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Joined the Ricovrati in 1678. Physician, member of the Academy of Science in Paris.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

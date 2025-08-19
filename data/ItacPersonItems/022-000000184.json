@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5190",
+        "RecordId": "022-000000184",
+        "Surname": "Zabarella",
+        "Forename": "Giacomo",
+        "PersonalTitle": "Count (The Younger)",
+        "Pseudonym": "Burchardus|Brudersenius",
+        "DateText": "1599 - 1679",
+        "StartDate": "1599",
+        "EndDate": "1679",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Called `Perseverante` in the Accademia degli Zitoclei.",
+        "Role": "Author|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

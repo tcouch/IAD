@@ -1,0 +1,93 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001444",
+        "WorkId": "00172",
+        "ShortTitle": "Elogii D`Homini Letterati",
+        "LongTitle": "Scritti da Lorenzo Crasso",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Academia degli Oziosi"
+            },
+            {
+                "AcademyId": "0030",
+                "RecordID": "021-000002423",
+                "Value": "Academia degli Infuriati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1666",
+        "Shelfmark": "609.k.11. | 609.k.12.",
+        "Content": "Biographies",
+        "Subjects": "Collection of biographies",
+        "Language": "Italian|Latin",
+        "Illustration": "Plates | armorial bearings | Mythological figures | Mercury holds a scroll showing the book title | Mars with his shield illuminates portraits of the intellectuals whose biographies are contained in this book. | Portraits",
+        "Pagination": "first 18 pages unnumbered | Last 3 pages unnumbered | pp. 425",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5126",
+                "RecordID": "022-000000122",
+                "Value": "Crasso,Lorenzo,,1623 - ?"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15181",
+                "RecordID": "022-000001223",
+                "Value": "La No\u00f9,Giovanni,,"
+            }
+        },
+        "Notes": "This book contains biographies of some oziosi Academicians and a reference to the Infuriati Academy in Naples. | The author mentions Giambattista Della Porta and Giambattista Manso as the founders of the Oziosi Academy. In Giambattista Della Porta`s biography his affiliation to the Accademia dei Secreti is also mentioned.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15185",
+                    "RecordID": "022-000001227",
+                    "Value": "Nicolosi,Angelo,,"
+                },
+                {
+                    "PersonId": "15321",
+                    "RecordID": "022-000001360",
+                    "Value": "Pisani,Andrea,,"
+                },
+                {
+                    "PersonId": "15132",
+                    "RecordID": "022-000001174",
+                    "Value": "Contarini,Andrea,,1601-1675"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Reformatori Dello Studio Di Padova.  Havendo veduto per fede del Padre Inquisitore nel Libro intitolato Museo overo Elogij d`Homini Letterati  non esservi cosa alcuna contro la SantaFede Cattolica e parimente per attestato del Segretario Nostro  niente contro Prencipi e buoni costumi concedemo licenza a i Combi e la No\u00f9 di poterlo stampare.  osservando gli ordini &c.  Dat. \u00e0 12. Maggio 1666.  Andrea Contarini Cav. Proc. Ref.  Andrea Pisani Proc. Ref.  Angelo Nicolosi Segretario.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15132",
+                "RecordID": "022-000001174",
+                "Value": "Contarini,Andrea,,1601-1675"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15318",
+                "RecordID": "022-000001357",
+                "Value": "Boncompagni,Lodovico,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "15319",
+                "RecordID": "022-000001358",
+                "Value": "Bosio,Antonio,,"
+            }
+        },
+        "EngraverReference": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

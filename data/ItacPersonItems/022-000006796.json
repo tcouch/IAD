@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19536",
+        "RecordId": "022-000006796",
+        "Surname": "Gherardelli",
+        "Forename": "Giovanni Battista Filippo",
+        "AlternativeName": {
+            "AlternativeSurname": "Ghirardelli"
+        },
+        "DateText": "1623 - 1653",
+        "StartDate": "1623",
+        "EndDate": "1653",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "For biographical details, see F. Tarzia, `Gherardelli, G. B. F.`, in DBI.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

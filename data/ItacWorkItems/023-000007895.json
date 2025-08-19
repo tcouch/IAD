@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007895",
+        "WorkId": "000897",
+        "ShortTitle": "I diece circoli dell`impero",
+        "LongTitle": "Con le entrate de principi, et de gli stati della Germania, con le contributioni, si della cavalleria, come della fanteria, con una particolare descrittione della Repubblica di Norimbergo. Le rinuncie degli stati patrimoniali fatte da Carlo V imperatore al Sereniss[imo] suo figliolo. Et il governo dell`Impero lasciato al sereniss[imo] suo fratello",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "521d4(2)",
+        "Language": "Italian",
+        "Pagination": "[8] 39r-v",
+        "Marginalia": "No",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5067",
+                "RecordID": "022-000000064",
+                "Value": "Lando,Pietro,Archbishop of Candia,1548?-1576?"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16954",
+                "RecordID": "022-000003744",
+                "Value": "Faenzi,Valerio,,fl.1557-1598"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "PrinterOrnament": "U226",
+        "TitlePageImage": {
+            "ImageId": "55072",
+            "Value": "023-000007895_55072_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007744",
+        "WorkId": "000868",
+        "ShortTitle": "Delle Rime Scelte Di Varj illustri Poeti Napoletani",
+        "ItacAcademyItem": {
+            "AcademyId": "0401",
+            "RecordID": "021-000007714",
+            "Value": "Accademia del Cimento (Napoli)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1723",
+        "Shelfmark": "11422.b.12.",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "p. 335",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20190",
+                "RecordID": "022-000007716",
+                "Value": "Ippolito,Vincenzo,,"
+            }
+        },
+        "Notes": "Miscellaneous text containing verses written by Vincenzo Ippolito",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20205",
+                "RecordID": "022-000007742",
+                "Value": "Muzio,Antonio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

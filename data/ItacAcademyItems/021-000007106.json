@@ -1,0 +1,39 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0310",
+        "RecordId": "021-000007106",
+        "Name": "Sizienti-Bologna (Accademia dei )",
+        "AlternativeName": "Sitibondi (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Mountain from the summit of which descends a river, watering many scattered fir-trees",
+        "Motto": "Non diu sitiunt sitientes",
+        "StartDate": "1554?",
+        "EndDate": "1562?",
+        "DateText": "1554?-1562?",
+        "Notes": "This Academy was created by Celso Sozzini, when he was lecturing on canon and civil law in the Bolognese Studium (between 1551 and 1555 and from 1556 to 1562). The Academy used to discuss Justinian`s laws. See Maylender, vol. V",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9214",
+                "RecordId": "022-000001511",
+                "Name": "Sozzini,Celso,,1517-1570",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16821",
+                "RecordId": "022-000003570",
+                "Name": "Sozzini,Fausto,,1539-1604",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005869",
+        "WorkId": "000702",
+        "ShortTitle": "La Farsaglia",
+        "LongTitle": "overo Della Guerra Civile di Marco Anneo Lucano. Tradotta e trasportata in ottava rima da Gabriele Maria Meloncelli. Religioso nella Congregazione de Chierici Regolari di S. Paolo detti Barnabiti, e da esso dedicata al Reverendissimo padre D. Idelfonso Manara Proposito Generale della medesima Congregazione",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0125",
+                "RecordID": "021-000005612",
+                "Value": "Accademia degli Infecondi"
+            },
+            {
+                "AcademyId": "0133",
+                "RecordID": "021-000005885",
+                "Value": "Arcadia"
+            },
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1707",
+        "DedicationPlaceDate": "Rome, 1 November 1707",
+        "Shelfmark": "833g12",
+        "Subjects": "Translation",
+        "Language": "Italian|Latin",
+        "Pagination": "284 [20]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18701",
+                "RecordID": "022-000005766",
+                "Value": "Meloncelli,Gabriel Maria,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18797",
+                    "RecordID": "022-000005871",
+                    "Value": "Brogi,Antonio,,"
+                },
+                {
+                    "PersonId": "18696",
+                    "RecordID": "022-000005761",
+                    "Value": "Nucci,Anton Francesco,,"
+                },
+                {
+                    "PersonId": "18798",
+                    "RecordID": "022-000005872",
+                    "Value": "Clementi,Francesco Domenico,,"
+                },
+                {
+                    "PersonId": "18799",
+                    "RecordID": "022-000005873",
+                    "Value": "Lorenzini,Francesco,Abbot,1680 - 1743"
+                },
+                {
+                    "PersonId": "18800",
+                    "RecordID": "022-000005874",
+                    "Value": "Posterla,Francesco,,"
+                },
+                {
+                    "PersonId": "16144",
+                    "RecordID": "022-000002756",
+                    "Value": "Crescimbeni,Giovan Mario,Canon,1663 - 1728"
+                },
+                {
+                    "PersonId": "18801",
+                    "RecordID": "022-000005875",
+                    "Value": "Grappelli,Gio Battista,,"
+                },
+                {
+                    "PersonId": "18802",
+                    "RecordID": "022-000005876",
+                    "Value": "Visconti,Gio Girolamo,,"
+                },
+                {
+                    "PersonId": "18803",
+                    "RecordID": "022-000005877",
+                    "Value": "De Becchiis,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18804",
+                    "RecordID": "022-000005878",
+                    "Value": "Nicolai,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18805",
+                    "RecordID": "022-000005879",
+                    "Value": "Monaldini,Giulio Cesare,,"
+                },
+                {
+                    "PersonId": "18722",
+                    "RecordID": "022-000005787",
+                    "Value": "de Strinatis,Malatesta,,"
+                },
+                {
+                    "PersonId": "18342",
+                    "RecordID": "022-000005357",
+                    "Value": "Saulini,Nicolo` Francesco,,"
+                },
+                {
+                    "PersonId": "18806",
+                    "RecordID": "022-000005880",
+                    "Value": "Rolli,Paolo,,"
+                },
+                {
+                    "PersonId": "18807",
+                    "RecordID": "022-000005881",
+                    "Value": "Vannini,Paolo,,"
+                },
+                {
+                    "PersonId": "18765",
+                    "RecordID": "022-000005832",
+                    "Value": "Figari,Pompeo,Abbot,ca.1650 - 1730"
+                },
+                {
+                    "PersonId": "18808",
+                    "RecordID": "022-000005882",
+                    "Value": "Rinaldi,Pompeo,,"
+                },
+                {
+                    "PersonId": "18772",
+                    "RecordID": "022-000005839",
+                    "Value": "Moraldi,Santo,,"
+                },
+                {
+                    "PersonId": "18809",
+                    "RecordID": "022-000005883",
+                    "Value": "Petrosellini,Domenico,,"
+                }
+            ]
+        },
+        "Notes": "Parts of this poem were previously delivered to the Accademia degli Infecondi (see dedication to the reader). Contributors` poems are in praise of Meloncelli`s work, and each contributor signs as Accademico Infecondo. All contributors include their nickname in Arcadia. Malatesta Strinati signs as Accademico Umorista",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18796",
+                    "RecordID": "022-000005870",
+                    "Value": "Manara,Idelfonso,,"
+                },
+                {
+                    "PersonId": "16148",
+                    "RecordID": "022-000002762",
+                    "Value": "de Zaulis,Dominicus,Archbishop,"
+                },
+                {
+                    "PersonId": "18810",
+                    "RecordID": "022-000005884",
+                    "Value": "Bussi,Feliciano,,1680 - 1741"
+                },
+                {
+                    "PersonId": "16150",
+                    "RecordID": "022-000002764",
+                    "Value": "Carus,Joannes Baptista,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Idelphonsus Manara Congregationis Clericorum Regularium S. Pauli Praepositus Generalis. Cum librum, cui titulus est: LA FARSAGLIA DI MARCO ANNEO LUCANO. TRADOTTA E TRASPORTATA IN OTTAVA RIMA, a Gabriele Maria Meloncello Congregationis nostrae professo, compositum, dueo eiusdem Congregationis nostrae eruditi Viri, quibus id comissimus, accurata lectione, et gravi juditio recongnoverint, et posse in lucem aedi probaverit. Nos, ut typis mandetur, quantum in nobis est, facultatem facimus. In quorum fidem, has fieri, sigilloque nostro muniri jussimus. Datum romae Collegio nostro SS. Blasii, et Caroli die 30 Augusti 1707. D. Idelphonsus Manara Praepositus Generalis. D. Hyeronymus Sitonus Cancellarius ---- Imprimatur Si videbitur Reverendissimo Patri Magistro Sacri Palatii Apostolici. Dominicus de Zaulis Episcocpus Verulanus Vicesregens. ---- Ho riveduto con mia grandissima sodisfazione il Libro intitolato LA FARSAGLIA DI MARCO ANNEO LUCANO, con sommo studio tradotta, e trasportata in ottava rima dal molto Reverendo Padre gabrielle Maria Meloncelli Religioso della Congregatione de Chierici Regolari di S. Paolo, e perche` nel medesimo non ho ritrovata cosa veruna, che ripugni all`integrita` dei et cristiani costumi buoni costumi, quindi e` che lo reputo meritevole della publica luce, non ostanti alcune proposizioni erronee, che in esse si leggono, poiche` o si considera l`autore, che le espresse nell`idioma latino, ed e` certo, che essendo stato Gentile, non poteva scrivere da cattolico; o si riguarda il traduttore, che le trasporto` nell`idioma italiano, ed e` indubitato che se le havesse tradotte diversamente, la sua traduzione in nessun contro potrebbe dirsi fedele, che pero` et c. Da S. Maria in Trivio questo di` 15 Agosto 1707. Feliciano Bussi. de Chierici Regulari Ministri degl`Infermi. Imprimatur. Fr. Joannes Baptista Carus Sacrae Theologiae Magister, et Reverendissimi P. S. A. Palatii Magistri Socius Ord. Praed.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18796",
+                "RecordID": "022-000005870",
+                "Value": "Manara,Idelfonso,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16147",
+                "RecordID": "022-000002761",
+                "Value": "de Rossi,Antonio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

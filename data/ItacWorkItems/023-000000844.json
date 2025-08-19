@@ -1,0 +1,95 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000844",
+        "WorkId": "00057",
+        "ShortTitle": "Il soldato di M. Domenico Mora Bolognese gentilhuomo Grisone et cavalliere Academico Storditi",
+        "LongTitle": "Nel qual si tratta di tutto quello che ad un vero soldato et nobil cavalliere si conviene sapere et essercitare nel mestiere dell` arme. Et questa secondo l`ordine da noi posto e la quarta Gioia congiunta all`Anella della nostra Collana historica. All`Illustrissimo et Eccellentissimo Signor il Signor Duca di Parma Piacenza et Castro Gran Confaloniere di Santa Chiesa",
+        "ItacAcademyItem": {
+            "AcademyId": "0012",
+            "RecordID": "021-000000832",
+            "Value": "Accademia degli Storditi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1569",
+        "DedicationPlaceDate": "Venice 23 June 1569",
+        "Shelfmark": "1609/5646",
+        "Subjects": "Military literature|Military history",
+        "Language": "Italian",
+        "Illustration": "Woodctus | Fortresses; batteries; a compass",
+        "Pagination": "First ten pages unnumbered; pp. 254",
+        "Marginalia": "Yes",
+        "Edition": "1st ed.",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7100",
+                "RecordID": "022-000000833",
+                "Value": "Mora,Domenico,,1536 - ca.1600"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "7100",
+                "RecordID": "022-000000833",
+                "Value": "Mora,Domenico,,1536 - ca.1600"
+            }
+        },
+        "CensorsAgreement": "Con privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7104",
+                    "RecordID": "022-000000837",
+                    "Value": "Farnese,Ottavio,Duke of Parma and Piacenza,1521 - 1586"
+                },
+                {
+                    "PersonId": "7101",
+                    "RecordID": "022-000000834",
+                    "Value": "Fiubbi,Marc`Antonio,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7107",
+                "RecordID": "022-000000841",
+                "Value": "Griffio,Giovanni,,ca. 1518-1576"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "54185",
+            "Value": "023-000000844_54185_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Dedication to Ottavio Farnese;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7100",
+                            "RecordID": "022-000000833",
+                            "Value": "Mora,Domenico,,1536 - ca.1600"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dedication to Marc`Antonio Fiubbi Academico Storditi;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7100",
+                            "RecordID": "022-000000833",
+                            "Value": "Mora,Domenico,,1536 - ca.1600"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003097",
+        "WorkId": "000398",
+        "ShortTitle": "Il sacrificio comedia de gli Ingannati:",
+        "LongTitle": "Celebrato ne i giuochi di uno Carnovale in Siena. Di nuovo corretta e ristampata",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1609",
+        "Shelfmark": "638.a.31.(6.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16428",
+                "RecordID": "022-000003098",
+                "Value": "Turrini,Antonio,,"
+            }
+        },
+        "PrinterOrnament": "MAR.T.E.310",
+        "TitlePageImage": {
+            "ImageId": "53371",
+            "Value": "023-000003097_53371_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Il sacrificio de gli Intronati celbrato nei giuochi del Carnovale in Siena l`anno 1531 sotto il Sodo dignissimo archintronato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Li Ingannati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

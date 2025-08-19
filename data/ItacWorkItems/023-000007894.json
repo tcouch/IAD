@@ -1,0 +1,36 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007894",
+        "WorkId": "000896",
+        "ShortTitle": "Le institutioni dell`impero",
+        "LongTitle": "contenute nella bolla d`oro, nuovamente dalla latina nella volgar lingua tradotte",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1559",
+        "Shelfmark": "521d4(2)",
+        "Language": "Italian",
+        "Pagination": "56r-v",
+        "Marginalia": "No",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55071",
+            "Value": "023-000007894_55071_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008565",
+        "WorkId": "000969",
+        "ShortTitle": "Il quarto libro de` madrigali a cinque voci",
+        "LongTitle": "Di Claudio Monteverde. Maestro della Serenissima Sig. Duca di Mantova. Nuovamente composto, dato in luce",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1603",
+        "DedicationPlaceDate": "Mantova 1 Marzo 1603",
+        "Shelfmark": "HirscIII942",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Pagination": "21",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7709",
+                "RecordID": "022-000001484",
+                "Value": "Monteverdi,Claudio Gian Antonio,,1567-1643"
+            }
+        },
+        "Notes": "The second picture is Monteverdi`s dedicatory letter to Accademici Intrepidi.",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0385",
+                "RecordID": "021-000007496",
+                "Value": "Intrepidi (Accademia degli)"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7340",
+                "RecordID": "022-000000927",
+                "Value": "Amadino,Ricciardo,,fl.1583-1621"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55355",
+            "Value": "023-000008565_55355_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55356",
+            "Value": "023-000008565_55356_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

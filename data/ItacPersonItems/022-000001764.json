@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9179",
+        "RecordId": "022-000001764",
+        "Surname": "de Coligny La Suze",
+        "Forename": "Henriette",
+        "Gender": "Female",
+        "DateText": "1618-1673",
+        "StartDate": "1618",
+        "EndDate": "1673",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Affiliation to the Academy is mentioned in Charles de Vertron, Nouvelle Pandore. See L`Accademia in biblioteca for details.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

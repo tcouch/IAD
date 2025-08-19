@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19775",
+        "RecordId": "022-000007202",
+        "Surname": "De Grossis",
+        "Forename": "Giovanni Battista",
+        "AlternativeName": {
+            "AlternativeSurname": "De Grossis",
+            "AlternativeForename": "Io[annes] Baptista"
+        },
+        "PersonalTitle": "Protonotary apostolic",
+        "DateText": "1605-1666",
+        "StartDate": "1605",
+        "EndDate": "1666",
+        "Nationality": {
+            "NationalityId": "239",
+            "Value": "of Catania"
+        },
+        "Notes": "For a short biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, p. 329 (BL Shelfmark:610.m.10.)",
+        "Role": "Author|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0006",
+        "RecordId": "021-000000002",
+        "Name": "Riaccesi (Accademia dei)",
+        "AlternativeName": "Accademia dei Ravvivati|Congrega dei Riaccesi",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Torch extinguished by a fountain",
+        "EmblemImage": {
+            "ImageId": "52618",
+            "Value": "021-000000002_52618_1.jpg"
+        },
+        "Motto": "Un fiato sol che spira",
+        "StartDate": "ca 1560; ca.1619",
+        "EndDate": "before1686",
+        "DateText": "ca 1560; ca.1619-before1686",
+        "Notes": "Created in the second half of the 16th century as Accademia degli Accesi. Restored ca 1619 as Accademia dei Ravvivati, with motto `Un fiato sol che spira`, and emblem representing `Burning logs, blown on by a wind`  (see Branchi`s Clorinda). From 1636 it was called Accademia dei Riaccesi, with the above motto and emblem. Possibly, the following volume - not in British Library collections - belongs to this Academy: Costante Accademico Travagliato, Lagrime del Reno di Bologna rime funebri, nella infelicissima morte dell`illustre sig. conte Andalo Bentivogli vcciso a caso giostrando. Del Costante Academico Trauagliato (In Bologna: per Vittorio Benacci, 1590).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5100",
+                "RecordId": "022-000000097",
+                "Name": "Abelli, Cesare, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5202",
+                "RecordId": "022-000000196",
+                "Name": "Guastavillani, Filippo, Senator,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5371",
+                "RecordId": "022-000000378",
+                "Name": "Bolognini, Donino, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5372",
+                "RecordId": "022-000000381",
+                "Name": "Cerva, Angelo Vincenzo, ,",
+                "Nickname": "Academico Ravvivato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5373",
+                "RecordId": "022-000000382",
+                "Name": "Croce , Giulio Cesare, , 1550-1609",
+                "Nickname": "Academico Ravvivato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5374",
+                "RecordId": "022-000000383",
+                "Name": "D. S. G. C. C. A. S., , ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5375",
+                "RecordId": "022-000000384",
+                "Name": "Signori, Lorenzo, ,",
+                "Nickname": "Academico Ravvivato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5383",
+                "RecordId": "022-000000392",
+                "Name": "D. M. A. T., , ,",
+                "Nickname": "A. Ravvivato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5387",
+                "RecordId": "022-000000396",
+                "Name": "D[el]. M. A. T. A., , ,",
+                "Nickname": "A[ccademico] Ravvivato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5388",
+                "RecordId": "022-000000397",
+                "Name": "Forti, Paolo, ,",
+                "Nickname": "Accademico Ravvivato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5370",
+                "RecordId": "022-000000376",
+                "Name": "Branchi,Silvestro,,c. 1550-c. 1650",
+                "Nickname": "Il Costante",
+                "Motto": "Sistit et obstat",
+                "PersonEmblemDescription": "Not clear"
+            },
+            {
+                "PersonId": "5462",
+                "RecordId": "022-000000446",
+                "Name": "Bedori,Carlo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5052",
+                "RecordId": "022-000000054",
+                "Name": "Marescotti,Bernardino,Count,\u20201649",
+                "Nickname": "Il Notturno",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16545",
+                "RecordId": "022-000003252",
+                "Name": "Senesi,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5051",
+                "RecordId": "022-000000053",
+                "Name": "Turchi,Niccol\u00f2 Zoppio,,1609-1656",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

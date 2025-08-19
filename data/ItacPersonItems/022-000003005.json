@@ -1,0 +1,26 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16350",
+        "RecordId": "022-000003005",
+        "Surname": "Urachien",
+        "Forename": "Nicolo`",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Vrachien",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Wrachien",
+                "AlternativeForename": null
+            }
+        ],
+        "Nationality": {
+            "NationalityId": "96",
+            "Value": "Dalmatian"
+        },
+        "Notes": "Joined the Ricovrati in 1633",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

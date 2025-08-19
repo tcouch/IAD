@@ -1,0 +1,36 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0319",
+        "RecordId": "021-000007118",
+        "Name": "Speranti (Accademia degli)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "Tree throwing out shoots",
+        "Motto": "Tempore",
+        "StartDate": "late 17th c.",
+        "DateText": "late 17th c.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19731",
+                "RecordId": "022-000007117",
+                "Name": "Giustachini,Lodovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19258",
+                "RecordId": "022-000006439",
+                "Name": "Bon,Nicolo`,,1635 - 1712",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

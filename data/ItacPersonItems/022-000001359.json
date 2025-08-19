@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15320",
+        "RecordId": "022-000001359",
+        "Surname": "Savoia",
+        "Forename": "Emanuele Filiberto",
+        "Gender": "Male",
+        "PersonalTitle": "Duke of Savoy",
+        "DateText": "1528-1580",
+        "StartDate": "1528",
+        "EndDate": "1580",
+        "Nationality": {
+            "NationalityId": "368",
+            "Value": "of Chambery"
+        },
+        "Role": "Dedicatee|Contributor",
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

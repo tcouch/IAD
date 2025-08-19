@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16016",
+        "RecordId": "022-000002585",
+        "Surname": "Hangest",
+        "Forename": "Jean",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Seigneur de Genlis",
+            "AlternativeForename": null
+        },
+        "DateText": "?-1571",
+        "StartDate": "?",
+        "EndDate": "1571",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "His date of death is gathered from the Database `16th Century Renaissance Court of France. Everyone at the court of the Renaissance kings of France`",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

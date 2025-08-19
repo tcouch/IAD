@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006237",
+        "WorkId": "000734",
+        "ShortTitle": "Libro nuovo d`imparare a scrivere tutte sorte lettere",
+        "LongTitle": "antiche et moderne di tutte le nationi con nuove regole misure et essempi. Con un breve & utile trattato de le Cifere, composto per Giovambattista Palatino Cittadino Romano",
+        "ItacAcademyItem": {
+            "AcademyId": "0147",
+            "RecordID": "021-000006203",
+            "Value": "Accademia degli Sdegnati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1540",
+        "DedicationPlaceDate": "Roma August 1540",
+        "Shelfmark": "1043l4",
+        "Subjects": "Ciphers|Calligraphy",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19084",
+                "RecordID": "022-000006208",
+                "Value": "Palatino,Giovanni Battista,,ca.1510? - ca.1575"
+            }
+        },
+        "Notes": "The author mentions the Accademia degli Sdegnati in the Dedicatory letter: ` ... ma ancora al piu` saldo giuditio della nostra Accademia delli Sdegnati...` --- Image in the colophon (in the 1540 edition) is probably the author`s academic impresa. Title page is taken from 1548 edition, as original edition is damaged.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19109",
+                "RecordID": "022-000006241",
+                "Value": "Lenoncourt,Robert de,Cardinal,1485/90 - 1561"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19107",
+                "RecordID": "022-000006238",
+                "Value": "Giunta,Benedetto,,fl.1531 - 1562"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

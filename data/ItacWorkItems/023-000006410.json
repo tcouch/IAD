@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006410",
+        "WorkId": "000773",
+        "ShortTitle": "Mathematical Collections and Translations: The first Tome in Two Parts",
+        "LongTitle": "The First part Containing I. Galileus Galileus His System of the World II. galileus His Epistle to the Grand Duchesse Mother concerning the Authority of the Holy Scripture in Philosophical Controversies. III. Johannes Keplerus His Reconcilings of Scripture Texts et c. IV Didacus a Stunica His Reconcilings of Scripture Texts et c. V. P. A. foscarinus His epistle to Father Fantonus reconciling the authority of Scripture, and judgements of Divines alleged against this system. --- By Thomas Salusbury Esq.",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "71",
+            "PublicationPlaceItalianName": "Londra",
+            "PublicationPlaceEnglishName": "London",
+            "PublicationPlaceLatinName": "Londinium"
+        },
+        "PublicationYear": "1661; 1665",
+        "DedicationPlaceDate": "20 Novemb. 1661",
+        "Shelfmark": "48f14",
+        "Subjects": "Astronomy|Translation",
+        "Language": "English",
+        "Pagination": "Vol.1.1, 470; Vol. 2.1, 516",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9018",
+                "RecordID": "022-000001586",
+                "Value": "Galilei,Galileo,,1564 - 1642"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "19235",
+                "RecordID": "022-000006413",
+                "Value": "Denham,John,,1614/15-1669"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19233",
+                "RecordID": "022-000006411",
+                "Value": "Salusbury,Thomas,,?-1665/6"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19234",
+                "RecordID": "022-000006412",
+                "Value": "Leybourne,William,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "The system of the World in four dialogues wherein the Two Grand Systemes of Ptolomy and Copernicus are largely discoursed of: and the Reasons, both Phylosophical and Physical, as well as on the one side as the other, impartially and indefinitely propounded: By Galileus Galileus Linceus, A gentleman of Florence: Extraordinary Professor of the Mathematicks in the University of Pisa; and chief Mathematician to the Grand Duke of Tuscany. Inglished from the original Italian copy by Thomas Salusbury",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9018",
+                            "RecordID": "022-000001586",
+                            "Value": "Galilei,Galileo,,1564 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "[In Vol. 2.1] Mathematical discourses and demonstrations touching Two New Sciences, pertaining to the mechanicks and local motion. By Galilaeus Galilaeus Lynceus chiefe philosopher and mathematitian to the most Serene Grand Duke of Tuscany with an Appendix of the Centre of Gravity of some solids. Englished from the originall Latine and Italian, by Thomas Salusbury, Esq.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9018",
+                            "RecordID": "022-000001586",
+                            "Value": "Galilei,Galileo,,1564 - 1642"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

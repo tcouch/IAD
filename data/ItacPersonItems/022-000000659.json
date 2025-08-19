@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5602",
+        "RecordId": "022-000000659",
+        "Surname": "Manfredi",
+        "Forename": "Muzio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Mutio"
+        },
+        "DateText": "ca.1535-1609",
+        "StartDate": "ca.1535",
+        "EndDate": "1609",
+        "Nationality": {
+            "NationalityId": "303",
+            "Value": "of Cesena"
+        },
+        "Notes": "Maylender vol. 2 p. 72. See his biography by Franco Pignatti in DBI. Joined the Ricovrati in 1601.",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

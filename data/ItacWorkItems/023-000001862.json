@@ -1,0 +1,48 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001862",
+        "WorkId": "00137",
+        "ShortTitle": "Diana vinta",
+        "LongTitle": "Overo la pazzia di Florindo Traggi satiri comica del Confuso Academico Ordito. Con licenza de` superiori et privilegio.",
+        "ItacAcademyItem": {
+            "AcademyId": "0022",
+            "RecordID": "021-000001817",
+            "Value": "Accademia degli Orditi"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1624",
+        "Shelfmark": "638.a.26.(2.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "pp. 98",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9651",
+                "RecordID": "022-000001820",
+                "Value": "Fiamma,Carlo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "9658",
+                "RecordID": "022-000001827",
+                "Value": "Ingegneri,Alessandro,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9657",
+                "RecordID": "022-000001826",
+                "Value": "Deuchino,Evangelista,,c. 1580-c. 1630"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

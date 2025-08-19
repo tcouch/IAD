@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0404",
+        "RecordId": "021-000007727",
+        "Name": "Inoltrati (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Reflection of sun in the water",
+        "Motto": "Suspicitur non despicitur",
+        "Notes": "Probably created by Gianfrancesco Loredan, before the Incogniti.",
+        "ItacPersonItem": {
+            "PersonId": "17761",
+            "RecordId": "022-000004663",
+            "Name": "Loredano,Giovanni Francesco,,1607-1661",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

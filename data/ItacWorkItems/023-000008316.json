@@ -1,0 +1,71 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008316",
+        "WorkId": "000933",
+        "ShortTitle": "La Semiramis Tragedia di Muzio Manfredi Il Fermo, Academico Innominato, Invaghito, & Olimpico",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0387",
+                "RecordID": "021-000007512",
+                "Value": "Accademia Olimpica"
+            },
+            {
+                "AcademyId": "0551",
+                "RecordID": "021-000008268",
+                "Value": "Invaghiti (Mantova) (Accademia degli)"
+            },
+            {
+                "AcademyId": "0106",
+                "RecordID": "021-000005036",
+                "Value": "Innominati (Accademia degli)"
+            },
+            {
+                "AcademyId": "0106",
+                "RecordID": "021-000005036",
+                "Value": "Innominati (Parma) (Accademia degli)"
+            },
+            {
+                "AcademyId": "0387",
+                "RecordID": "021-000007512",
+                "Value": "Olimpica (Accademia)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "125",
+            "PublicationPlaceItalianName": "Bergamo",
+            "PublicationPlaceLatinName": "Bergomum"
+        },
+        "PublicationYear": "1593",
+        "DedicationPlaceDate": "1 May 1593, Nancy",
+        "Shelfmark": "162.g.46",
+        "Content": "Tragedy in five acts and in verse",
+        "Subjects": "Tragedy|Theatre",
+        "Language": "Italian",
+        "Pagination": "pp. 92",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5602",
+                "RecordID": "022-000000659",
+                "Value": "Manfredi,Muzio,,ca.1535-1609"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "6009",
+                "RecordID": "022-000000740",
+                "Value": "Farnese,Odoardo,Cardinal,1573-1626"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20566",
+                "RecordID": "022-000008318",
+                "Value": "Ventura,Comino,,fl.1578-1617"
+            }
+        },
+        "PrinterOrnament": "U484",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

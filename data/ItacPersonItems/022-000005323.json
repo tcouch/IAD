@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18313",
+        "RecordId": "022-000005323",
+        "Surname": "d`Este",
+        "Forename": "Rinaldo",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal|Duke of Modena",
+        "DateText": "1655-1737",
+        "StartDate": "1655",
+        "EndDate": "1737",
+        "Nationality": {
+            "NationalityId": "115",
+            "Value": "of Modena"
+        },
+        "Notes": "Became Duke of Modena in 1698",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

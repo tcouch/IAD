@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15387",
+        "RecordId": "022-000001884",
+        "Surname": "Gesualdo",
+        "Forename": "Alfonso",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1540-1603",
+        "StartDate": "1540",
+        "EndDate": "1603",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Patron of the Accademia di San Luca. See his biography by Simona Feci in DBI",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

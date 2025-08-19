@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5012",
+        "RecordId": "022-000000014",
+        "Surname": "Barbazza",
+        "Forename": "Andrea",
+        "Gender": "Male",
+        "PersonalTitle": "Count",
+        "Pseudonym": "Robusto Pogommega",
+        "DateText": "1581/82-1656",
+        "StartDate": "1581",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Pseudonym according to Melzi. For his membership in various Academies, see Memorie, imprese e ritratti, pp. 17-19. His biography by Nicola de Blasi is in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

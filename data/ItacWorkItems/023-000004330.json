@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004330",
+        "WorkId": "000564",
+        "ShortTitle": "Il Forastiero di Giulio Cesare Capaccio Academico Otioso",
+        "LongTitle": "Ne i quali, oltre a quel che si ragiona dell`origine di Napoli governo antico della sua Republica duchi che sotti gli imperadori greci vi hebbero dominio religione guerre che con varie nationi successero. Si tratta anche de i re che l`han signoreggiata che la signoreggiano Vicer\u00e8 che amministrano tribunali regij governo publico sito e porto della cit\u00e0 con tutto `l contorno da Cuma al Promontorio di Minerva variet\u00e0 e costumi di habitatori famiglie nobili e popolari con molti elogij d`huomini illustri aggiuntavi la Cognitione di molte cose appartenenti all`Historia d`Italia con particolari relationi per la materia Politica per brevit\u00e0 spiegate.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1634",
+        "DedicationPlaceDate": "Naples 15 December",
+        "Shelfmark": "663.e.35.|663.e.36.",
+        "Subjects": "Description of Naples|History of Naples|Mount Vesuvius|Politics",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 1110",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15014",
+                "RecordID": "022-000001056",
+                "Value": "Capaccio,Giulio Cesare,,1552-1634"
+            }
+        },
+        "Notes": "On pp. 8-10, the author referes to various Neapolitan Academies and their members.",
+        "CensorsAgreement": "Imprimatur. Laelius Tastius Vic. Gen. Neap. Alexandes Ruffus Can. Dep. Aloysius Riccius Can Dep. \nImprimatur. Felix Tamburellus Vicarius General. Neap. Vidit Felix De Ianuario S.T.D. Deput.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15141",
+                "RecordID": "022-000001183",
+                "Value": "De Zunica e Fonseca,Emmanuele,Count | Viceroy ,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15209",
+                "RecordID": "022-000001251",
+                "Value": "Roncagliolo,Gio. Domenico,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

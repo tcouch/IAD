@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19303",
+        "RecordId": "022-000006490",
+        "Surname": "Dini",
+        "Forename": "Pietro",
+        "Gender": "Male",
+        "PersonalTitle": "Archbishop of Fermo",
+        "DateText": "?-1625",
+        "StartDate": "?",
+        "EndDate": "1625",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "He was in contact with Lincei academicians, but was not a Linceo himself.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

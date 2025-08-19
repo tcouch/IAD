@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007884",
+        "WorkId": "000888",
+        "ShortTitle": "De miseria humana",
+        "LongTitle": "Petri Haedi Portunaensis Libri quinque",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Accademia Veneziana (della Fama)"
+            },
+            {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Academia Veneta"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "835e1(1)",
+        "Subjects": "Dialogue|Human condition",
+        "Language": "Latin",
+        "Pagination": "64r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17261",
+                "RecordID": "022-000004076",
+                "Value": "Capretto,Pietro,,1427-1504"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17255",
+                "RecordID": "022-000004070",
+                "Value": "d`Este,Ippolito,Cardinal,1509-1572"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0471",
+                "RecordID": "021-000007881",
+                "Value": "Academia Veneta"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "PrinterOrnament": "V256|Z507",
+        "TitlePageImage": {
+            "ImageId": "55075",
+            "Value": "023-000007884_55075_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

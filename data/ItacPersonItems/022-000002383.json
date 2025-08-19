@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15829",
+        "RecordId": "022-000002383",
+        "Surname": "Zabarella",
+        "Forename": "Ascanio",
+        "PersonalTitle": "Count",
+        "DateText": "ca 1592 - 1630",
+        "StartDate": "ca 1592",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007628",
+        "WorkId": "000853",
+        "ShortTitle": "Delle Notizie Istoriche Della Citta Di Messina. Seconda Parte.",
+        "LongTitle": "Nella Quale si narrano le cose piu memorabili, che le sono intervenute, tanto nello stato Ecclesiastico, quanto nel Politico, dal principio della nostra salute infino a gli anni 600. del Signore:\nCon alcune digressioni poste a maggior chiarezza della Storia. Di Placido Reina Conte Platino, Lettore Primario di Filosofia nello Studio Pubblico di essa Citt\u00e0, e nell`Accademia della Fucina detto l`Offuscato.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1668",
+        "Shelfmark": "664.d.11.",
+        "Subjects": "History of Messina",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 575",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18954",
+                "RecordID": "022-000006057",
+                "Value": "Reina,Placido,,? - 1671"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18623",
+                    "RecordID": "022-000005677",
+                    "Value": "Fortunatus,,General Vicar,"
+                },
+                {
+                    "PersonId": "18155",
+                    "RecordID": "022-000005121",
+                    "Value": "Bisignano,Antonio,Canon,"
+                },
+                {
+                    "PersonId": "18589",
+                    "RecordID": "022-000005639",
+                    "Value": "Daynotto,,,"
+                },
+                {
+                    "PersonId": "20133",
+                    "RecordID": "022-000007638",
+                    "Value": "Cigala,Thomas,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Approbatio. Illustrissime Domine.\nVolumen hoc, cui titulus (Delle Notizie istoriche della Citt\u00e0 di Messina Seconda Parte, del Sig. Placido Reina Conte Palatino) accurat\u00e8, ac maxima cum voluptate perlegi, & Autoris summam pietatem, tum erga Virginem dei MAtrem, tum erga Patriae praeclara facinora penitus inspexi: quoniam ver\u00f2 singula Catholicae Fidei dogmatis, bonisque moribus consentiunt, typis excludendum censeo, & subscribo.\nD. Thomas Cigala Praepositus Cler. Reg. S. T. D. & in hac Universitate Sacrorum Canonum Primarius Interpres. Imprimatur D. Fortunatus Vic. Gen.\nSpectab. Domine Mi Genitor Colendissime.\nOpus hoc, quod inscribitur (Seconda Parte Delle Notizie istoriche della Citt\u00e0 di Messina) opus san\u00e8 non modicis lucubrationibus elaboratum illustris Comotis Palarini Placidi Reina, attent\u00e8 perlegi, & non solum sacris Regni Sanctionibus minim\u00e8 inconsonum, im\u00f2 plurimis, expertis iam diu, solertissimi Autoris studio, & eruditionibus undique refertum, ac in Regis pietatem sovendam, Patriaque augendam fidelitatem utile, satis abundanter inveni. Unde ut in lucem prodeat typographo commendandum meritissimum iudico. \nV. I. D. Don Antoninus Bisignano, Cantor, & Canonicus Protometropolitanae Messinensis Ecclesiae, ac Commissarius Subdelegatus Tribunalis Sanctissimae Cruciatae.\nImprimatur\nDon Franciscus Bisignano, pro Spect. de Daynotto F. P.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19148",
+                    "RecordID": "022-000006290",
+                    "Value": "Hozes,Tomaso,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "18157",
+                    "RecordID": "022-000005123",
+                    "Value": "Faraone,Pietro,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19024",
+                    "RecordID": "022-000006137",
+                    "Value": "Celi,Leonardo,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19178",
+                    "RecordID": "022-000006328",
+                    "Value": "Gotho,Raffaello,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19023",
+                    "RecordID": "022-000006136",
+                    "Value": "Gregori,Francesco,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19179",
+                    "RecordID": "022-000006329",
+                    "Value": "Gasparino,Gaspare,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19180",
+                    "RecordID": "022-000006330",
+                    "Value": "Isvaglia,Tomaso,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18220",
+                    "RecordID": "022-000005202",
+                    "Value": "Balsamo,Giuseppe,Senator of Messina|Baron of Cattafi,"
+                },
+                {
+                    "PersonId": "19181",
+                    "RecordID": "022-000006331",
+                    "Value": "Maiorana,Paolo,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18148",
+                    "RecordID": "022-000005114",
+                    "Value": "Spatafora,Giuseppe,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19150",
+                    "RecordID": "022-000006292",
+                    "Value": "Alifia,Giuseppe,Knight of the Order of the Star|Senator of Messina|Baron of Baglia,"
+                },
+                {
+                    "PersonId": "19151",
+                    "RecordID": "022-000006293",
+                    "Value": "Fenga,Silvestro,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18150",
+                    "RecordID": "022-000005116",
+                    "Value": "Cicala,Filippo,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19153",
+                    "RecordID": "022-000006296",
+                    "Value": "Pellegrino,Giovanni Francesco,Senator of Messina,"
+                },
+                {
+                    "PersonId": "20124",
+                    "RecordID": "022-000007629",
+                    "Value": "Marullo,Vincenzo,Duke|Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "20125",
+                    "RecordID": "022-000007630",
+                    "Value": "Patti ,Pietro,Senator of Messina,"
+                },
+                {
+                    "PersonId": "20126",
+                    "RecordID": "022-000007631",
+                    "Value": "Gregori,Lorenzo,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "20127",
+                    "RecordID": "022-000007632",
+                    "Value": "Caloria,Giuseppe,Senator of Messina,"
+                },
+                {
+                    "PersonId": "20128",
+                    "RecordID": "022-000007633",
+                    "Value": "Lanza,Diego,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "20129",
+                    "RecordID": "022-000007634",
+                    "Value": "di Giovanni,Francesco,Knight of the Order of the Star|Senator of Messina|Baron,"
+                },
+                {
+                    "PersonId": "20130",
+                    "RecordID": "022-000007635",
+                    "Value": "Moleti,Scipione,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "20131",
+                    "RecordID": "022-000007636",
+                    "Value": "Marino,Costantino,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "20132",
+                    "RecordID": "022-000007637",
+                    "Value": "Calabr\u00f2,Giuseppe,Senator of Messina,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20134",
+                "RecordID": "022-000007639",
+                "Value": "Bonacota ,Paolo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55222",
+            "Value": "023-000007628_55222_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

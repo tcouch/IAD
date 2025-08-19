@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16144",
+        "RecordId": "022-000002756",
+        "Surname": "Crescimbeni",
+        "Forename": "Giovan Mario",
+        "Gender": "Male",
+        "PersonalTitle": "Canon",
+        "DateText": "1663-1728",
+        "StartDate": "1663",
+        "EndDate": "1728",
+        "Nationality": {
+            "NationalityId": "269",
+            "Value": "of Macerata"
+        },
+        "Notes": "Signs as `Custode d`Arcadia e Accademico della Crusca` in Meloncelli`s Farsaglia",
+        "Role": "Editor|Author|Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

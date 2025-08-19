@@ -1,0 +1,349 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0054",
+        "RecordId": "021-000003384",
+        "Name": "Uniti (Accademia degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "Motto": "Amor Omnibus Idem",
+        "StartDate": "1690s",
+        "EndDate": "?",
+        "DateText": "1690s-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16658",
+                "RecordId": "022-000003385",
+                "Name": "Ceva Grimaldi,Bartolomeo,Duke of Telese,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16926",
+                "RecordId": "022-000003704",
+                "Name": "Mastrilli,Isabella,Duchess of Marigliano,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17240",
+                "RecordId": "022-000004055",
+                "Name": "Di Sangro,Carlo Domenico,Duke of Vietri,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17241",
+                "RecordId": "022-000004056",
+                "Name": "Stella,Carlo Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17242",
+                "RecordId": "022-000004057",
+                "Name": "di Gennaro,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17243",
+                "RecordId": "022-000004058",
+                "Name": "Blanch,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17244",
+                "RecordId": "022-000004059",
+                "Name": "Recco,Gaetano,Duke of Ceppaloni,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17245",
+                "RecordId": "022-000004060",
+                "Name": "Accadia,,Duke,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17246",
+                "RecordId": "022-000004061",
+                "Name": "Caraffa,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17247",
+                "RecordId": "022-000004062",
+                "Name": "Buoncompagni,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17248",
+                "RecordId": "022-000004063",
+                "Name": "della Leonessa ,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17249",
+                "RecordId": "022-000004064",
+                "Name": "de Ponte,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17250",
+                "RecordId": "022-000004065",
+                "Name": "Aquitaneo,Costantino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17251",
+                "RecordId": "022-000004066",
+                "Name": "Stella,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17252",
+                "RecordId": "022-000004067",
+                "Name": "Cava,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17253",
+                "RecordId": "022-000004068",
+                "Name": "Pacifico,Giuseppe Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17256",
+                "RecordId": "022-000004071",
+                "Name": "Cappellano,Gennaro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17257",
+                "RecordId": "022-000004072",
+                "Name": "de Milo,Domenico Andrea ,,",
+                "Nickname": "L`insufficiente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16129",
+                "RecordId": "022-000002738",
+                "Name": "Scoppa,Nicolaus; Vincentius,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17258",
+                "RecordId": "022-000004073",
+                "Name": "Cicotelli,Emmanuele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17259",
+                "RecordId": "022-000004074",
+                "Name": "Filamondo,Raffaele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17260",
+                "RecordId": "022-000004075",
+                "Name": "Margarita,Niccola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16183",
+                "RecordId": "022-000002805",
+                "Name": "Pisani,Baldassarre,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17262",
+                "RecordId": "022-000004077",
+                "Name": "Ariano,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17263",
+                "RecordId": "022-000004078",
+                "Name": "Speranza,Domenico Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17264",
+                "RecordId": "022-000004079",
+                "Name": "Chianese,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17265",
+                "RecordId": "022-000004080",
+                "Name": "Caraffa,Pier Luigi,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17266",
+                "RecordId": "022-000004081",
+                "Name": "Muscettola,Francesco Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17267",
+                "RecordId": "022-000004082",
+                "Name": "d`Afflitto,Nicola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17268",
+                "RecordId": "022-000004083",
+                "Name": "Paragallo,Gaspare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15192",
+                "RecordId": "022-000001234",
+                "Name": "Valletta,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15305",
+                "RecordId": "022-000001345",
+                "Name": "De Luca,Bartholomeus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17271",
+                "RecordId": "022-000004086",
+                "Name": "Bottone,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17272",
+                "RecordId": "022-000004087",
+                "Name": "Carafa,Tiberio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17273",
+                "RecordId": "022-000004088",
+                "Name": "de Blasio,Agnello Alessio,,",
+                "Nickname": "Il Flemmatico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17274",
+                "RecordId": "022-000004089",
+                "Name": "Fanelli,Sigismondo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17275",
+                "RecordId": "022-000004090",
+                "Name": "Zumbini,Flaminio,,",
+                "Nickname": "Il Geniale",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17276",
+                "RecordId": "022-000004091",
+                "Name": "Vico,Giovanni Battista,,",
+                "Nickname": "Il Raccolto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17277",
+                "RecordId": "022-000004092",
+                "Name": "Egizio,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17269",
+                "RecordId": "022-000004084",
+                "Name": "Grazia de Lonogno,Nicola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17278",
+                "RecordId": "022-000004093",
+                "Name": "Gimma,Giacinto,,1668-1735",
+                "Nickname": "Il Rinascente",
+                "Motto": "Renascitur aetas",
+                "PersonEmblemDescription": "Bee coming out from ashes"
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

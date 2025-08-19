@@ -1,0 +1,44 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003019",
+        "WorkId": "000385",
+        "ShortTitle": "Dialogo della bella creanza delle donne",
+        "LongTitle": "de lo Stordito Intronato",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1540",
+        "DedicationPlaceDate": "Lucignano ad asso 22 october 1538",
+        "Shelfmark": "231.e.15",
+        "Subjects": "Women - Social condition",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Notes": "Translated in French in 1572 (probably by Marie de Romieu) as Instruction pour les jeunes dames par la mere et fille d`Alliance (Lyon 1572, 1573, and Paris 1597). Modern edition with critical intro. by C. Menna Scognamiglio (1992).\nAnother translation is by Thierry de Timophile (alias Francois d`Amboise), Dialogues et devis des damoiselles (Versailles 1581, and Paris 1583).",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16363",
+                "RecordID": "022-000003020",
+                "Value": "Navo` ,Cuzio Troiano e fratelli,,fl. 1537 - 1542"
+            }
+        },
+        "PrinterOrnament": "A110 |Z782",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

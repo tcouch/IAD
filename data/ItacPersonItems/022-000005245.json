@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18251",
+        "RecordId": "022-000005245",
+        "Surname": "Zopini",
+        "Forename": "Fabio & Agostino",
+        "DateText": "fl. 1577-1595",
+        "StartDate": "fl. 1577",
+        "EndDate": "1595",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "V530",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

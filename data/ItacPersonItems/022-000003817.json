@@ -1,0 +1,33 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17013",
+        "RecordId": "022-000003817",
+        "Surname": "Natta",
+        "Forename": "Marco Antonio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Natta",
+                "AlternativeForename": "Marcus Antonius"
+            },
+            {
+                "AlternativeSurname": "Natta Astesano",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Natta Astensis",
+                "AlternativeForename": null
+            }
+        ],
+        "DateText": "?-1568",
+        "StartDate": "?",
+        "EndDate": "1568",
+        "Nationality": {
+            "NationalityId": "253",
+            "Value": "of Asti"
+        },
+        "Notes": "Jurist and theologian, `Maestro di Rota` in Mantua. Information taken from edit16",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

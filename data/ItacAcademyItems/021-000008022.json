@@ -1,0 +1,22 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0490",
+        "RecordId": "021-000008022",
+        "Name": "Alterati (Accademia degli)",
+        "City": {
+            "CityId": "39",
+            "CityItalianName": "Firenze",
+            "CityEnglishName": "Florence",
+            "CityLatinName": "Florentiae"
+        },
+        "ItacPersonItem": {
+            "PersonId": "16251",
+            "RecordId": "022-000002899",
+            "Name": "Alvarez de Toledo,Eleonora,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16668",
+        "RecordId": "022-000003398",
+        "Surname": "Sarnelli",
+        "Forename": "Pompeo",
+        "AlternativeName": {
+            "AlternativeSurname": "Reppone",
+            "AlternativeForename": "Masillo"
+        },
+        "PersonalTitle": "Bishop of Bisceglie",
+        "DateText": "1649 - 1724",
+        "StartDate": "1649",
+        "EndDate": "1724",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Author|Editor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000777",
+        "WorkId": "00050",
+        "ShortTitle": "Delle preminenze del punto.",
+        "LongTitle": "Discorso del dottor Ovidio Montalbani havuto publicamente nell`Academia Illustrissima degl`Indomiti di Bologna li 17 Aprile 1643",
+        "ItacAcademyItem": {
+            "AcademyId": "0010",
+            "RecordID": "021-000000767",
+            "Value": "Accademia degli Indomiti"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1643",
+        "Shelfmark": "176.a.28",
+        "Subjects": "Academic discourse",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 14",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5022",
+                "RecordID": "022-000000024",
+                "Value": "Montalbanus,Ovidius,,ca. 1600"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5406",
+                    "RecordID": "022-000000416",
+                    "Value": "Madronus,Ludovicus,,"
+                },
+                {
+                    "PersonId": "6050",
+                    "RecordID": "022-000000771",
+                    "Value": "Colonna,Girolamo,Cardinal,1604-1666"
+                },
+                {
+                    "PersonId": "6051",
+                    "RecordID": "022-000000776",
+                    "Value": "Bendandus,Hieronymus,,fl.1642"
+                }
+            ]
+        },
+        "CensorsAgreement": "V. D. Lodovicus Madronus sacrae Bonon. Poenitentiariae Rector pro eminentiss. et Reverendiss. D. D. Principe Card. Columna Archiepiscopo | Impirmatur D. Hieronymus Bendadus Doct. Colleg. Lect. Publicus et S. Inquisitionis Consultor pro Reverendiss. P. Inquisitore Bonon.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5299",
+                "RecordID": "022-000000347",
+                "Value": "Ferroni,Giovanni Battista,,1588-1673"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52744",
+            "Value": "023-000000777_52744_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

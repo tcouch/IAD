@@ -1,0 +1,27 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0084",
+        "RecordId": "021-000004460",
+        "Name": "Risoluti (Accademia dei)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "Motto": "Ex eadem diversa",
+        "StartDate": "1580",
+        "EndDate": "1603?",
+        "DateText": "1580-1603?",
+        "Notes": "There is uncertainty about the emblem of the Academy. Members of the Risoluti merged into the  Intronati Academy in 1603.",
+        "ItacPersonItem": {
+            "PersonId": "16880",
+            "RecordId": "022-000003648",
+            "Name": "Lomeri,Annibale,,",
+            "Nickname": "Accademico Resoluto",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

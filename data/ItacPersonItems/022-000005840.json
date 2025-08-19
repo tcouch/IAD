@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18773",
+        "RecordId": "022-000005840",
+        "Surname": "Abriani",
+        "Forename": "Paolo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Pauli"
+        },
+        "DateText": "1607-1699",
+        "StartDate": "1607",
+        "EndDate": "1699",
+        "Nationality": {
+            "NationalityId": "74",
+            "Value": "of Vicenza"
+        },
+        "Notes": "A biographical profile and comments on his activity as a writer and a translator are in A. Asor Rosa, `Abriani, Paolo`, in DBI.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

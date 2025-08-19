@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16908",
+        "RecordId": "022-000003682",
+        "Surname": "Furstenberg",
+        "Forename": "Ferdinandus",
+        "AlternativeName": {
+            "AlternativeSurname": "Fuerstenberg",
+            "AlternativeForename": "Ferdinand Von"
+        },
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Successively Bishop of Paderborn, and Prince-Bishop of Munster.",
+        "Role": "Editor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

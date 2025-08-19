@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002809",
+        "WorkId": "000357",
+        "ShortTitle": "De Motu Corporum Nonnulla",
+        "LongTitle": "Et De Nonnullis Fontibus Naturalibus. Excellentiss. Principi D. Johanni Fernandez Pacecco, Marchioni Villenae, Ascalonae Duci, &c. Regni Neap. Proregi Strenuiss. Victori, Pio, Felici Noncupata.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1704",
+        "DedicationPlaceDate": "Naples 9 July 1704",
+        "Shelfmark": "538.a.26.(1.)",
+        "Subjects": "Science",
+        "Language": "Greek|Latin|Italian",
+        "Illustration": "Plate|armillary sphere; globe|Plates|devices for experiments",
+        "Pagination": "pp. 149",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16146",
+                "RecordID": "022-000002759",
+                "Value": "Porzio,Luca Antonio,,1639-1724"
+            }
+        },
+        "Notes": "On pp. 128-29 the author mentions the Investiganti Academy and its members.",
+        "CensorsAgreement": "Superiorum permissu",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16243",
+                "RecordID": "022-000002890",
+                "Value": "Pacecco,Johanni Fernandez,Marquis of Villa; Duke of Escalona; Viceroy of Naples (1702-1707),"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16244",
+                "RecordID": "022-000002891",
+                "Value": "Balbo,Giovanni Battista,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16242",
+                "RecordID": "022-000002889",
+                "Value": "Gessari,Bernardino,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52903",
+            "Value": "023-000002809_52903_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52904",
+            "Value": "023-000002809_52904_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

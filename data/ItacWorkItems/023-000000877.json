@@ -1,0 +1,91 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000877",
+        "WorkId": "00058",
+        "ShortTitle": "Amore prigioniero in Delo",
+        "LongTitle": "Torneo fatto da` signori academici Torbidi in Bologna li XX di Marzo MDCXXVIII",
+        "ItacAcademyItem": {
+            "AcademyId": "0013",
+            "RecordID": "021-000000845",
+            "Value": "Accademia dei Torbidi"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1629",
+        "Shelfmark": "1492.e.3",
+        "Subjects": "Tournament|Poetry",
+        "Language": "Italian",
+        "Illustration": "Engraved plates | Scenes of the tournament",
+        "Pagination": "[7]; 124",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5284",
+                "RecordID": "022-000000331",
+                "Value": "Lodi,Giacinto,,fl. 1618 - 1631"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                },
+                {
+                    "PersonId": "5234",
+                    "RecordID": "022-000000226",
+                    "Value": "Polus,Aegidius,,"
+                },
+                {
+                    "PersonId": "5284",
+                    "RecordID": "022-000000331",
+                    "Value": "Lodi,Giacinto,,fl. 1618 - 1631"
+                }
+            ]
+        },
+        "CensorsAgreement": "Author`s `Protesta` | D. Aegidius Polus Poenit. Pro Illustiss. Et Reverendiss. D. card. Archiep. Bon. | Imprimatur | Fr. Hieronymus Onuphrius pro Rverendiss. P. Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5284",
+                "RecordID": "022-000000331",
+                "Value": "Lodi,Giacinto,,fl. 1618 - 1631"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5276",
+                "RecordID": "022-000000266",
+                "Value": "Coriolano,Giovanni Battista,,c. 1579-1649"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5259",
+                "RecordID": "022-000000250",
+                "Value": "Benacci,Heredi di,,1629 - ?"
+            }
+        },
+        "PrinterOrnament": "Mar.te 867",
+        "TitlePageImage": {
+            "ImageId": "52739",
+            "Value": "023-000000877_52739_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52621",
+            "Value": "023-000000877_52621_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

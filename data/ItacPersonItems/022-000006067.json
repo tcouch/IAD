@@ -1,0 +1,31 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18963",
+        "RecordId": "022-000006067",
+        "Surname": "Meijer",
+        "Forename": "Cornelis",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeForename": "Cornelio"
+            },
+            {
+                "AlternativeSurname": "Meyer",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Cornelis Janszoon"
+            }
+        ],
+        "DateText": "1629-1701",
+        "StartDate": "1629",
+        "EndDate": "1701",
+        "Nationality": {
+            "NationalityId": "67",
+            "Value": "Dutch"
+        },
+        "Notes": "Born into a Lutheran family in Amsterdam, he later converted to Catholicism, he collaborated with Caspar Van Wittel. See Klaas Van Berkel, `Cornelius Meijer inventor et fecit`, in Merchants and Marvels. Commerce Science and Art in Early Modern Europe, ed. by Pamela smith and Paula Findlen (New York: Routledge, 2001), pp. 277-94.",
+        "Role": "Author|Illustrator",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

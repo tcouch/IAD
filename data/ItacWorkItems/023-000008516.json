@@ -1,0 +1,132 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008516",
+        "WorkId": "000964",
+        "ShortTitle": "Varie Compositioni Raccolte in diverse materie",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0385",
+                "RecordID": "021-000007496",
+                "Value": "Intrepidi (Accademia degli)"
+            },
+            {
+                "AcademyId": "0392",
+                "RecordID": "021-000007674",
+                "Value": "Invaghiti (Mantova) (Accademia degli)"
+            }
+        ],
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "51",
+            "PublicationPlaceItalianName": "Ferrara",
+            "PublicationPlaceEnglishName": "Ferrara",
+            "PublicationPlaceLatinName": "Ferrarae"
+        },
+        "PublicationYear": "1611",
+        "Shelfmark": "1608/814",
+        "Language": "Italian",
+        "Pagination": "pp. 40",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18365",
+                "RecordID": "022-000005383",
+                "Value": "Guarini,Alessandro,,1563-1636"
+            }
+        },
+        "Notes": "Included in Alessandro Guarini, Prose (Ferrara: V. Baldini, 1611).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20443",
+                "RecordID": "022-000008167",
+                "Value": "Bevilacqua,Bonifazio,Cardinal,1571-1627"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7563",
+                "RecordID": "022-000000275",
+                "Value": "Baldini,Vittorio,,before 1567-1618"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55348",
+            "Value": "023-000008516_55348_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Orazione Fatta per un fanciullo alla Comunit\u00e0 di Cento",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18365",
+                            "RecordID": "022-000005383",
+                            "Value": "Guarini,Alessandro,,1563-1636"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A Gli Accademici in Padova",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18365",
+                            "RecordID": "022-000005383",
+                            "Value": "Guarini,Alessandro,,1563-1636"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Conclusioni Amorose, Sostenute in Padova \u00e0 una veglia di Dame, e di Cavalieri, per occasion delle nozze della Sig. Lucrezia Santultana, maritata nel Sig. Co. Gerolamo da Lione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18365",
+                            "RecordID": "022-000005383",
+                            "Value": "Guarini,Alessandro,,1563-1636"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Parole fatte per tre giovani Monache nobilissime nella lor professione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18365",
+                            "RecordID": "022-000005383",
+                            "Value": "Guarini,Alessandro,,1563-1636"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Illustrissimo, & Reverendissimo Sig. Cardinale Bevilacqua Legato di Perugia, fatto Protettore dell'Accademia de gl'Intrepidi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18365",
+                            "RecordID": "022-000005383",
+                            "Value": "Guarini,Alessandro,,1563-1636"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lezione del signor Alessandro Guarini Recitata da lui l'Anno 1599. Nell'Accademia degl'Invaghiti, In Mantova sopra il Sonetto. Doglia, che vaga donna, & c. di Monsig. della Casa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18365",
+                            "RecordID": "022-000005383",
+                            "Value": "Guarini,Alessandro,,1563-1636"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Orazione Traslata dal Signor Alessandro Guarini dal Latino nel Volgar Idioma, E fatta, e recitata Dal Sigr. Cav. Guarini suo padre al Santiss. N. S. Papa Paolo V. nel render \u00e0 S. Santit\u00e0 ubbidienza per la Citt\u00e0 di Ferrara",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5146",
+                            "RecordID": "022-000000142",
+                            "Value": "Guarini,Battista,,1538-1612"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

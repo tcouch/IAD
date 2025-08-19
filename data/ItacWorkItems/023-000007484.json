@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007484",
+        "WorkId": "000834",
+        "ShortTitle": "La falsa riputatione della fortuna",
+        "LongTitle": "Favola morale di Gio. Battista Leoni. Recitata da gli Academici Generosi del Seminario Patriarcale di Venetia",
+        "ItacAcademyItem": {
+            "AcademyId": "0379",
+            "RecordID": "021-000007458",
+            "Value": "Accademia dei Generosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1596",
+        "Shelfmark": "1071k9(5)",
+        "Language": "Italian",
+        "Pagination": "49",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20009",
+                "RecordID": "022-000007485",
+                "Value": "Leoni,Giovanni Battista,,1542? - 1613?"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20010",
+                "RecordID": "022-000007486",
+                "Value": "Lodovici,Vincenzo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,c. 1564-c. 1635"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55005",
+            "Value": "023-000007484_55005_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

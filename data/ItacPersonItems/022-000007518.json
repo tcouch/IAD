@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20027",
+        "RecordId": "022-000007518",
+        "Surname": "Deti",
+        "Forename": "Giovan Battista",
+        "DateText": "1578/81-1630",
+        "StartDate": "1578/81",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Hosted the Accademia degli Ordinati in Rome. See the biographical sketch by M. Sanfilippo is in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

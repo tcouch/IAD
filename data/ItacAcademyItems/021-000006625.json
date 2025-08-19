@@ -1,0 +1,69 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0166",
+        "RecordId": "021-000006625",
+        "Name": "Coro anatomico",
+        "AlternativeName": "Accademia Massariana",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "1650",
+        "EndDate": "1656ca",
+        "DateText": "1650 - 1656ca",
+        "Notes": "See M. Cavazza, `Dal \"Coro anatomico\" agli \"Inquieti\"`, in Quaderni storici (1981)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19413",
+                "RecordId": "022-000006621",
+                "Name": "Massari,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19415",
+                "RecordId": "022-000006623",
+                "Name": "Fracassati,Carlo,,1625ca - 1672",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19414",
+                "RecordId": "022-000006622",
+                "Name": "Malpighi,Marcello,,1628 - 1694",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5003",
+                "RecordId": "022-000000005",
+                "Name": "Mariani,Andrea,,1593-1661",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5014",
+                "RecordId": "022-000000016",
+                "Name": "Capponi,Giovambattista,,1620 - 1675",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19416",
+                "RecordId": "022-000006624",
+                "Name": "Golfieri,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

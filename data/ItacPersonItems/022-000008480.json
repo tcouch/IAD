@@ -1,0 +1,18 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20675",
+        "RecordId": "022-000008480",
+        "Surname": "Mabb and Shears",
+        "Forename": "Thomas and Margaret",
+        "DateText": "fl.1609-1665",
+        "StartDate": "fl.1609",
+        "EndDate": "1665",
+        "Nationality": {
+            "NationalityId": "68",
+            "Value": "English"
+        },
+        "Notes": "Mabb was printer `for John Playfere at the White Bear in the Upper Walk of the New Exchange`. Margaret Shears was printer `at the Blew Bible in Bedford street`.",
+        "Role": "Printer",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

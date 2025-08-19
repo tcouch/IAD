@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5113",
+        "RecordId": "022-000000110",
+        "Surname": "Boncompagni",
+        "Forename": "Francesco",
+        "PersonalTitle": "Cardinal",
+        "DateText": "1592-1641",
+        "StartDate": "1592",
+        "EndDate": "1641",
+        "Nationality": {
+            "NationalityId": "136",
+            "Value": "of Sora"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

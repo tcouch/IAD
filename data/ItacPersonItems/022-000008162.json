@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20438",
+        "RecordId": "022-000008162",
+        "Surname": "Suzzi",
+        "Forename": "Francesco",
+        "PersonalTitle": "Stampatore camerale",
+        "DateText": "fl.1620-1657",
+        "StartDate": "fl.1620",
+        "EndDate": "1657",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "See Forlivesi, Marco, Scotistarum princeps : Bartolomeo Mastri (1602-1673) e il suo tempo (Padova: Centro studi antoniani, 2002), for more details.",
+        "Role": "Printer",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

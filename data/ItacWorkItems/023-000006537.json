@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006537",
+        "WorkId": "000781",
+        "ShortTitle": "La Vergine Trionfante et il Capricorno Scornato.",
+        "LongTitle": "Apologia del Conte D. Emanuel Tesauro in difesa di una Inscrittione contra un Libello intitolato Il Capricorno. Opera colma di Eruditioni pellegrine, che serve al Terzo Volume delle sue Inscrittioni.",
+        "ItacAcademyItem": {
+            "AcademyId": "0161",
+            "RecordID": "021-000006536",
+            "Value": "Accademia degli Addormentati (Aversa)"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "55",
+            "PublicationPlaceItalianName": "Torino",
+            "PublicationPlaceEnglishName": "Turin",
+            "PublicationPlaceLatinName": "Augusta Taurinorum"
+        },
+        "PublicationYear": "1675?",
+        "Shelfmark": "664.i.9.",
+        "Subjects": "Astrology|Astronomy|Horoscope",
+        "Language": "Italian|Latin",
+        "Illustration": "A plate on the title page|Y",
+        "Pagination": "pp. 55",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19341",
+                "RecordID": "022-000006538",
+                "Value": "Tesauro,Emanuele,Count,1592 - 1675"
+            }
+        },
+        "Notes": "On p. 63 the author mentions the Addormentati academy in Aversa",
+        "Artists": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19343",
+                    "RecordID": "022-000006540",
+                    "Value": "Delphinus,C,,"
+                },
+                {
+                    "PersonId": "19342",
+                    "RecordID": "022-000006539",
+                    "Value": "Tasniere,Georges,,1632 - 1704"
+                }
+            ]
+        },
+        "TitlePageImage": {
+            "ImageId": "54902",
+            "Value": "023-000006537_54902_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

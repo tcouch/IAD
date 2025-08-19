@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004011",
+        "WorkId": "000519",
+        "ShortTitle": "Artis Medicae",
+        "LongTitle": "Dogmatum Communiter Receptorum Examen In decem Excertitationes Paradoxicas Distinctum, A Sebastiano Bartolo Illustrissimi, & Excellentissimi Domini D. Petri Antonii Aragonii In Neapolitano Regno Proregis  Medico In Suorum Studiorum Tyrocinio Elucubratum",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1666",
+        "Shelfmark": "544.f.7.(1.)",
+        "Subjects": "Medicine|Science",
+        "Language": "Latin",
+        "Pagination": "pp. 152",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17200",
+                "RecordID": "022-000004010",
+                "Value": "Bartolo,Sebastiano,,"
+            }
+        },
+        "Notes": "The text contains various references to Investiganti academicians.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17201",
+                "RecordID": "022-000004012",
+                "Value": "D`Aragona,Pietro Antonio,Duke of Segorbe and Cardona|viceroy of Naples,1611 - 1690"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17202",
+                "RecordID": "022-000004013",
+                "Value": "Capucius,Ioannes Baptista,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53961",
+            "Value": "023-000004011_53961_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

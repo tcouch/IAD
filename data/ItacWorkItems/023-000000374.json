@@ -1,0 +1,141 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000374",
+        "WorkId": "00036",
+        "ShortTitle": "I furori della giovent\u00f9",
+        "LongTitle": "essercitii rhettorici di Giovan Battista Manzini. Dedicati al clarissimo signor Giovanni Maffetti",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0002",
+                "RecordID": "021-000000312",
+                "Value": "Accademia della Notte"
+            },
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Umoristi (Accademia degli)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1629",
+        "DedicationPlaceDate": "Venice 26 June 1629",
+        "Shelfmark": "835.e.31",
+        "Subjects": "Celebrating discourse|Carnival",
+        "Language": "Italian",
+        "Pagination": "160",
+        "Marginalia": "Yes",
+        "Edition": "1st edn",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5279",
+                "RecordID": "022-000000324",
+                "Value": "Manzini,Giovanni Battista,,1599-1664"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5279",
+                "RecordID": "022-000000324",
+                "Value": "Manzini,Giovanni Battista,,1599-1664"
+            }
+        },
+        "Notes": "One of the three discourses delivered in the Academy was translated in English as The sports of the Carnivall` in Manzinie his exquisite academicall discourses upon severall subjects. Turned into French by Scuderie and into English by a lady (London printed by Thomas Harper 1654). British Library Press mark 12330.f.14. Another copy is: Manzinie his most exquisite academical discourses upon severall choice subjects. Turned into French by that famous Wit Monsieur de Scudery Governour of Nostredame and Englished by an Honourable Lady (London printed for Humphrey Moseley and are to be sold at his shop in S. Paul Churchyard at the sign of the Princes Arms 1654). British Library press mark E.825.(5.). The Discorso `I magnanimi rivali` was delivered to the Accademia degli Umoristi. `Seleuco Pusillanimo` was delivered to a non-specified Academy.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                },
+                {
+                    "PersonId": "5233",
+                    "RecordID": "022-000000225",
+                    "Value": "de Garex,Paulus,,\u20201643"
+                },
+                {
+                    "PersonId": "5234",
+                    "RecordID": "022-000000226",
+                    "Value": "Polus,Aegidius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Aegidius Polus Rector Poenitentiariae pro Illustriss. Et reverendiss. D. Card. Archiepiscopo | Imprimatur | Fr. Hieronymus Onuphrius Romanus Doctor Collegiatus Lector publicus et Sanctiss. Inquisitionis Consultor pro Reverendiss. Pat. Mag. Paulo de Garrexio Inquisit. Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5311",
+                "RecordID": "022-000000362",
+                "Value": "Maffetti,Giovanni,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "5309",
+                "RecordID": "022-000000360",
+                "Value": "Baba,Andrea,,fl. 1611-1632"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5309",
+                "RecordID": "022-000000360",
+                "Value": "Baba,Andrea,,fl. 1611-1632"
+            }
+        },
+        "PrinterOrnament": "U578",
+        "TitlePageImage": {
+            "ImageId": "52637",
+            "Value": "023-000000374_52637_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Le glorie della notte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5279",
+                            "RecordID": "022-000000324",
+                            "Value": "Manzini, Giovanni Battista, , 1599-1664"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gl`otii del carnevale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5279",
+                            "RecordID": "022-000000324",
+                            "Value": "Manzini, Giovanni Battista, , 1599-1664"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "I magnanimi rivali",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5279",
+                            "RecordID": "022-000000324",
+                            "Value": "Manzini,Giovanni Battista,,1599-1664"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Seleuco pusillanimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5279",
+                            "RecordID": "022-000000324",
+                            "Value": "Manzini,Giovanni Battista,,1599-1664"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

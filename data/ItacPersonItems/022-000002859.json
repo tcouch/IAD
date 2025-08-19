@@ -1,0 +1,29 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16222",
+        "RecordId": "022-000002859",
+        "Surname": "Sansovino",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Sansovinus",
+                "AlternativeForename": "Franciscus"
+            },
+            {
+                "AlternativeSurname": "Il Sansovino"
+            }
+        ],
+        "DateText": "1521-1583",
+        "StartDate": "1521",
+        "EndDate": "1583",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Notes": "A letter addressed to Pietro Aretino, where Sansovino explains his interest in joining the Infiammati Academy, is published in Lettere scritte a Pietro Aretino, ed. Paolo Procaccioli (Roma: Salerno editrice, 2003-04), pp. 304-05",
+        "Role": "Editor|Printer",
+        "TypographicReference": "V454 |Z396",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

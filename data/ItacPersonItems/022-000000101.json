@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5104",
+        "RecordId": "022-000000101",
+        "Surname": "Argoli",
+        "Forename": "Giovanni",
+        "Gender": "Male",
+        "DateText": "1609-1660",
+        "StartDate": "1609",
+        "EndDate": "1660",
+        "Nationality": {
+            "NationalityId": "111",
+            "Value": "of L`Aquila"
+        },
+        "Notes": "Professor of humanae litterae in Bologna, where he died. Argoli joined the Ricovrati in 1630, and the Gelati in 1642.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

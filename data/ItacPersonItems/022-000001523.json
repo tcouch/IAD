@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9226",
+        "RecordId": "022-000001523",
+        "Surname": "Bonardo",
+        "Forename": "Bartolomeo",
+        "Gender": "Male",
+        "DateText": "1536-1560",
+        "StartDate": "1536",
+        "EndDate": "1560",
+        "Nationality": {
+            "NationalityId": "142",
+            "Value": "of Parma"
+        },
+        "Notes": "As a printer, he worked in close association with Marcanotnio Grossi da Carpi, of whom he was the son in law. Bonardos were booksellers, paper workers, and publishers, while Grossis were printers. See the entry in edit16 for details.",
+        "Role": "Printer",
+        "TypographicReference": "Z350",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

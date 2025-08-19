@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19976",
+        "RecordId": "022-000007435",
+        "Surname": "Crota",
+        "Forename": "Francesco",
+        "AlternativeName": {
+            "AlternativeSurname": "Crotta"
+        },
+        "Pseudonym": "Conte Frascarco",
+        "DateText": "?-1712",
+        "StartDate": "?",
+        "EndDate": "1712",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Joined the Ricovrati in 1684",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

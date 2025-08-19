@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16135",
+        "RecordId": "022-000002747",
+        "Surname": "Lascaris",
+        "Forename": "Giovanni Paolo",
+        "PersonalTitle": "Count of Castellar|Grand Master of the Knights Hospitallers of Saint John of Jerusalem",
+        "DateText": "1560 - 1657",
+        "StartDate": "1560",
+        "EndDate": "1657",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

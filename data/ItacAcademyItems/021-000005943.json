@@ -1,0 +1,23 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0137",
+        "RecordId": "021-000005943",
+        "Name": "Infuriati (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "Notes": "On the Roman Accademia degli Infuriati, see Franchi, pp. 206, 369, 372, 374; vol. II (2002), pp. 96, 99.",
+        "ItacPersonItem": {
+            "PersonId": "18859",
+            "RecordId": "022-000005942",
+            "Name": "Guerrini,Francesco,,1601 - 1651",
+            "Nickname": "L`Indomito",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

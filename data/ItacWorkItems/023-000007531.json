@@ -1,0 +1,72 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007531",
+        "WorkId": "000845",
+        "ShortTitle": "La Venetia edificata",
+        "LongTitle": "Poema eroico di Giulio Strozzi con gli argomenti del Sig. Francesco Cortesi",
+        "ItacAcademyItem": {
+            "AcademyId": "0389",
+            "RecordID": "021-000007517",
+            "Value": "Accademia degli Immaturi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1626",
+        "DedicationPlaceDate": "Venezia 10 Aprile 1624",
+        "Shelfmark": "11429aaa43",
+        "Subjects": "Heroic poem",
+        "Language": "Italian|Latin",
+        "Pagination": "[32] 795 [19]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16508",
+                "RecordID": "022-000003195",
+                "Value": "Strozzi,Giulio,,1583-1660"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20032",
+                "RecordID": "022-000007525",
+                "Value": "Ferranti,Giovan Francesco,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20037",
+                "RecordID": "022-000007532",
+                "Value": "Piuti,Girolamo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55017",
+            "Value": "023-000007531_55017_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Ode del sig. Giovan Francesco Ferranti Accademico degl'Immaturi, detto l'Incolto. In lode del signor Giulio Strozzi. All'Illustriss. Sig. Matteo Giorgi - Con la lira di Lesbo i toschi accenti",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20032",
+                        "RecordID": "022-000007525",
+                        "Value": "Ferranti,Giovan Francesco,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

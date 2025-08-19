@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15918",
+        "RecordId": "022-000002482",
+        "Surname": "de Bracamonte Gusman",
+        "Forename": "Gasparro",
+        "AlternativeName": {
+            "AlternativeSurname": "de Bracamonte y Guzm\u00e1nGuzman",
+            "AlternativeForename": "Gaspar"
+        },
+        "PersonalTitle": "Viceroy|Count of Pe\u00f1aranda",
+        "DateText": "1595-1676",
+        "StartDate": "1595",
+        "EndDate": "1676",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

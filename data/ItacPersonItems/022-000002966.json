@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16313",
+        "RecordId": "022-000002966",
+        "Surname": "Wettstein",
+        "Forename": "Hans Rudolf III",
+        "AlternativeName": {
+            "AlternativeSurname": "Vegrerio",
+            "AlternativeForename": null
+        },
+        "DateText": "1647 - 1711",
+        "StartDate": "1647",
+        "EndDate": "1711",
+        "Nationality": {
+            "NationalityId": "63",
+            "Value": "Swiss"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

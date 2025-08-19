@@ -1,0 +1,148 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003357",
+        "WorkId": "000444",
+        "ShortTitle": "Antidotario di fra Donato D`Eremita",
+        "LongTitle": "Nel quale si discorre intorno all`osservanza, che deve tenere lo spetiale nell`eleggere, preparare, componere, & conservare i medicamenti semplici, & composti. Diviso In Libri Tre. A Quali si \u00e8 aggiunto il quarto libro intitulato L`Arte Distillatoria",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1639",
+        "DedicationPlaceDate": "Naples 1 January 1630",
+        "Shelfmark": "777.i.20.",
+        "Subjects": "apothecary guide",
+        "Language": "Italian|Latin",
+        "Illustration": "A plate on the title page|male figures; angels",
+        "Pagination": "pp. 142",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16633",
+                "RecordID": "022-000003352",
+                "Value": "D`Eremita,Donato,Friar,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16635",
+                    "RecordID": "022-000003354",
+                    "Value": "Alfieri,Gregorio,,"
+                },
+                {
+                    "PersonId": "16634",
+                    "RecordID": "022-000003353",
+                    "Value": "Perillo,Marc`Antonio,,"
+                },
+                {
+                    "PersonId": "16636",
+                    "RecordID": "022-000003355",
+                    "Value": "Valletta,Antonio,,"
+                },
+                {
+                    "PersonId": "16637",
+                    "RecordID": "022-000003356",
+                    "Value": "Gallo,Domenico,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16136",
+                    "RecordID": "022-000002748",
+                    "Value": "de Claro,Franciscus,Canon,"
+                },
+                {
+                    "PersonId": "16638",
+                    "RecordID": "022-000003358",
+                    "Value": "Terragnolus,Iacobus,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Iacobus Terragnolus Vicarius Gen. Neapo.\nD. Franciscus de Claro Canon. Dep. vidit.",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16639",
+                "RecordID": "022-000003359",
+                "Value": "Roncagliolo ,Secondino,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16639",
+                "RecordID": "022-000003359",
+                "Value": "Roncagliolo ,Secondino,,"
+            }
+        },
+        "PrinterOrnament": "Mar.te  1312",
+        "TitlePageImage": {
+            "ImageId": "53501",
+            "Value": "023-000003357_53501_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Museo Del P. F. Donato D`Eremita Dell`Ord. de Pred. nel Monasterio di S. Chatarina a Formello. Marc`Antonio Perillo Ingelosito Academico Incauto.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16634",
+                            "RecordID": "022-000003353",
+                            "Value": "Perillo,Marc`Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dello Stesso, Al P.F. Donato d`Eremita dell`Ordine de` Predicatori.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16634",
+                            "RecordID": "022-000003353",
+                            "Value": "Perillo,Marc`Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Allo stesso. Gregorio Alfieri Dottor delle Leggi Acad. Incauto.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16635",
+                            "RecordID": "022-000003354",
+                            "Value": "Alfieri,Gregorio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`autore. Antonio Valletta l`Improvido Academico Incauto.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16636",
+                            "RecordID": "022-000003355",
+                            "Value": "Valletta,Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "P. F. Donato De Eremita. Ordinis Praedicatorum. Dominici Galli A. M. P. & Academici Infuriati Asclepiadem Archilochio iunctum Carmen.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16637",
+                            "RecordID": "022-000003356",
+                            "Value": "Gallo,Domenico,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

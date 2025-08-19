@@ -1,0 +1,57 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004020",
+        "WorkId": "000521",
+        "ShortTitle": "Del Parere Del Signor Lionardo Di Capoa",
+        "LongTitle": "Divisato in otto Ragionamenti, Ne` Quali partitamente narrandosi l`origine, e`l progresso della Medicina, chiaramente l`incertezza della medesima si fa manifesta. Ultima edizione accresciuta di un`Indice copiosissimo, e delle postille nel margine. Dedicata All`Illustriss. Signore Il Signor D. Nicola Gaetano Dell`Aquila D`Aragona Sesto Duca di Laurenzano, Diciassettesimo Signore di Piedimente, della Citt\u00e0, e Contea di Alife, delle Baronie di Capriata, e di Alvignano, Capitano di una Compagnia d`uomini d`armi del Regno di Nap. Principe di tutta la Famiglia Gaetano, ec.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1714",
+        "Shelfmark": "1165.h.16-18.",
+        "Subjects": "Natural Philosophy|Medicine|Science",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Plate|Mythological figures",
+        "Pagination": "3 vols.",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16142",
+                "RecordID": "022-000002754",
+                "Value": "Di Capua,Leonardo,,1617 - 1695"
+            }
+        },
+        "Notes": "On pp. 140-41 (vol. 2), the author mentions various Investiganti academicians.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17208",
+                "RecordID": "022-000004021",
+                "Value": "Dell`Aquila D`Aragona,Nicola Gaetano,Duke of Laurenzano,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16213",
+                    "RecordID": "022-000002848",
+                    "Value": "Buragna ,Carlo,,1632 - 1679?"
+                },
+                {
+                    "PersonId": "17209",
+                    "RecordID": "022-000004022",
+                    "Value": "Ciccarelli,Lorenzo,,"
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

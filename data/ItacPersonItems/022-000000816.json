@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9945",
+        "RecordId": "022-000000816",
+        "Surname": "Cicognini",
+        "Forename": "Giacomo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Jacopo"
+        },
+        "DateText": "1557-1633",
+        "StartDate": "1557",
+        "EndDate": "1633",
+        "Nationality": {
+            "NationalityId": "217",
+            "Value": "of Castrocaro (Forli`)"
+        },
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

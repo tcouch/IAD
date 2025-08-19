@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0590",
+        "RecordId": "021-000008557",
+        "Name": "Instabili-Bologna (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "1590",
+        "EndDate": "?",
+        "DateText": "1590-?",
+        "Notes": "On this Academy, see Fanti, Notizie (1983)",
+        "ItacPersonItem": {
+            "PersonId": "20732",
+            "RecordId": "022-000008556",
+            "Name": "Capponi,Pellegrino,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

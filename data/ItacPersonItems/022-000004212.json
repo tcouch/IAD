@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17372",
+        "RecordId": "022-000004212",
+        "Surname": "Finella",
+        "Forename": "Filippo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Phinell\u00e6",
+            "AlternativeForename": "Finelli"
+        },
+        "DateText": "1584-1650s?",
+        "StartDate": "1584",
+        "EndDate": "1650s?",
+        "Nationality": {
+            "NationalityId": "73",
+            "Value": "Neapolitan"
+        },
+        "Notes": "Portrait from Finella, Speculum Astronomicum, (Naples, 1649).",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

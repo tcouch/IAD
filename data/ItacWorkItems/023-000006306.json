@@ -1,0 +1,59 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006306",
+        "WorkId": "000742",
+        "ShortTitle": "Historia delle cose occorse nel regno d`Inghilterra",
+        "LongTitle": "in materia del duca di Notomberlan dopo la morte di Odoardo VI",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "G1507|528a20(1)|292a5(2)|673a30",
+        "Subjects": "History of England 1553 - 1558",
+        "Language": "Italian",
+        "Pagination": "68r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7000",
+                "RecordID": "022-000000784",
+                "Value": "Raviglio Rosso,Giulio,,fl.1560"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7001",
+                "RecordID": "022-000000789",
+                "Value": "Habsburg,Margherita,,1522-1586"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18042",
+                "RecordID": "022-000004982",
+                "Value": "Contile,Luca,,1505-1574"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55092",
+            "Value": "023-000006306_55092_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

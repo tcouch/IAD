@@ -1,0 +1,120 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008180",
+        "WorkId": "000918",
+        "ShortTitle": "Opere del Conte Guidobaldo Bonarelli della Rovere",
+        "LongTitle": "All`eminentissimo signor cardinale Antonio Barberini",
+        "ItacAcademyItem": {
+            "AcademyId": "0385",
+            "RecordID": "021-000007496",
+            "Value": "Intrepidi (Accademia degli)"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1640",
+        "DedicationPlaceDate": "Roma 1 gennaio 1641",
+        "Shelfmark": "12225aa4",
+        "Subjects": "Love",
+        "Language": "Italian",
+        "Pagination": "[10] 120; [6] 213 [22]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20437",
+                "RecordID": "022-000008161",
+                "Value": "Bonarelli della Rovere,Guidobaldo,Count,1563-1608"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20437",
+                    "RecordID": "022-000008161",
+                    "Value": "Bonarelli della Rovere,Guidobaldo,Count,1563-1608"
+                },
+                {
+                    "PersonId": "20453",
+                    "RecordID": "022-000008181",
+                    "Value": "Ronconi,Francesco,,"
+                }
+            ]
+        },
+        "Notes": "The `Discorsi` contain an introduction explaining that the content was first delivered orally in the Intrepidi Academy, and subsequently the Academy decided to print the verbal exchange.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15218",
+                "RecordID": "022-000001260",
+                "Value": "Barberini,Antonio,Cardinal,1607-1671"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20453",
+                "RecordID": "022-000008181",
+                "Value": "Ronconi,Francesco,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "20454",
+                "RecordID": "022-000008182",
+                "Value": "Cavagna,Giovanni Battista,,?-1613"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18289",
+                "RecordID": "022-000005293",
+                "Value": "Grignani,Ludovico,,1586-1651"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55280",
+            "Value": "023-000008180_55280_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55281",
+            "Value": "023-000008180_55281_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Vita del conte Guid'Ubaldo Bonarelli della Rovere descritta da Francesco Ronconi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20453",
+                            "RecordID": "022-000008181",
+                            "Value": "Ronconi,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Filli di Sciro fauola pastorale del C. Guid'ubaldo Bonarelli Della Rovere (with 'La notte' prologue by Giovambattista Marino)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20437",
+                            "RecordID": "022-000008161",
+                            "Value": "Bonarelli della Rovere,Guidobaldo,Count,1563-1608"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorsi del C. Guid'Ubaldo Bonnarelli Della Rovere in difesa del doppio amore della sua Celia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20437",
+                            "RecordID": "022-000008161",
+                            "Value": "Bonarelli della Rovere,Guidobaldo,Count,1563-1608"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

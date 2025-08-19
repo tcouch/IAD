@@ -1,0 +1,89 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007705",
+        "WorkId": "000864",
+        "ShortTitle": "Le Rime Di D. Francesco Lanario, Et Aragona Hora Duca di Carpignano",
+        "LongTitle": "Cavaliero dell`Habito di Calatrava, e del Consiglio di guerra di sua Maest\u00e0 ne` stati di Fiandra. Dedicate A Don Ferdinando Matute, & Azuevedo, del Consiglio di sua Maest\u00e0, suo Consultore, e Protettore del Real Patrimonio in questo Regno. Con alcun`altre Poesie nuove dello stesso Autore aggiunte nel fine.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1625",
+        "DedicationPlaceDate": "5 March 1625",
+        "Shelfmark": "11429.aa.25.",
+        "Subjects": "Poetry|Love poetry",
+        "Language": "Italian|Latin",
+        "Pagination": "pp.126",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20172",
+                "RecordID": "022-000007696",
+                "Value": "Lanario Aragona,Francesco,Duke of Carpignano,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16641",
+                    "RecordID": "022-000003362",
+                    "Value": "Pinto ,Carlo,,"
+                },
+                {
+                    "PersonId": "20175",
+                    "RecordID": "022-000007699",
+                    "Value": "Portarelli,Paolo ,,"
+                },
+                {
+                    "PersonId": "20176",
+                    "RecordID": "022-000007700",
+                    "Value": "Cavazza,Giovanni Tommaso,,"
+                },
+                {
+                    "PersonId": "20177",
+                    "RecordID": "022-000007701",
+                    "Value": "Grandi,Ascanio,,"
+                },
+                {
+                    "PersonId": "20178",
+                    "RecordID": "022-000007702",
+                    "Value": "Ceuli,Constantino,,"
+                },
+                {
+                    "PersonId": "20179",
+                    "RecordID": "022-000007703",
+                    "Value": "Schito,Carlo,,"
+                },
+                {
+                    "PersonId": "20180",
+                    "RecordID": "022-000007704",
+                    "Value": "Crisafi,Giovanni Battista,,"
+                }
+            ]
+        },
+        "Notes": "This text was originally published in Naples by Carlino & Vitale in 1609",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20173",
+                "RecordID": "022-000007697",
+                "Value": "Matute Azevedo,Ferdinando,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20174",
+                "RecordID": "022-000007698",
+                "Value": "Bianco,Giovanni Francesco,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

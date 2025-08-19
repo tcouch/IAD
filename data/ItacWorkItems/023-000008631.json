@@ -1,0 +1,29 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008631",
+        "WorkId": "000975",
+        "ShortTitle": "Statii Sylvarum Libri Quinque.",
+        "LongTitle": "Thebaidos libri duodecim. Achilleidos duo. (Orthographia ... dictionum gr\u00e6carum apud Statium ex variis autoribus",
+        "ItacAcademyItem": {
+            "AcademyId": "0347",
+            "RecordID": "021-000007158",
+            "Value": "Aldina (Accademia)"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1502",
+        "Marginalia": "No",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19742",
+                "RecordID": "022-000007157",
+                "Value": "Manuzio,Aldo Pio,,1449-1515"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

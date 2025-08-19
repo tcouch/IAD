@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19993",
+        "RecordId": "022-000007454",
+        "Surname": "Dati",
+        "Forename": "Carlo Roberto",
+        "Pseudonym": "Timauro Antiate",
+        "DateText": "1619-1676",
+        "StartDate": "1619",
+        "EndDate": "1676",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Distinguished member of the Accademia del Cimento",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

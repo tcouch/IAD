@@ -1,0 +1,78 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0014",
+        "RecordId": "021-000000878",
+        "Name": "Vespertini (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Sun sinking as the stars begin to appear",
+        "Motto": "Non uni moramur astro",
+        "StartDate": "1624",
+        "EndDate": "?",
+        "DateText": "1624-?",
+        "Notes": "Manzini mentions Accademia dei Vespertini in his Tabulae primi mobilis (1626). The dates according to Maylender, vol. 5, p. 437. For publications of this Academy, see Pellegrino Orlandi (1714).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5152",
+                "RecordId": "022-000000147",
+                "Name": "Manzini,Carlo Antonio, Count, \u20201677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7300",
+                "RecordId": "022-000000880",
+                "Name": "Ghirardelli , Cornelio, , \u20201637",
+                "Nickname": "Il Sollevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7301",
+                "RecordId": "022-000000881",
+                "Name": "Muratori , Achille, ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7302",
+                "RecordId": "022-000000883",
+                "Name": "Irresoluto,Academico Vespertino, ,",
+                "Nickname": "Irresoluto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7303",
+                "RecordId": "022-000000884",
+                "Name": "Avido, , ,",
+                "Nickname": "Avido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7363",
+                "RecordId": "022-000000950",
+                "Name": "N.N, , ,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5022",
+                "RecordId": "022-000000024",
+                "Name": "Montalbani,Ovidio,,c. 1600",
+                "Nickname": "Inquieto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

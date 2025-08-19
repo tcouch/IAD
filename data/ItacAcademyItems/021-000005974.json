@@ -1,0 +1,319 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0139",
+        "RecordId": "021-000005974",
+        "Name": "Disuniti-Roma (Accademia dei)",
+        "AlternativeName": "Accademia Ottoboniana (from 1695)|Accademia dei Discorsi eruditi",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Bird`s wing",
+        "Motto": "Nil valet evulsa",
+        "StartDate": "pre",
+        "EndDate": "1688",
+        "DateText": "pre-1688-?",
+        "Notes": "Publications include: Applausi poetici al valore del serenissimo Francesco Morosino ... assunto Doge ... Recitati da signori Accademici Disuniti ... in Roma li 14 giugno 1688 (Roma: Vannucci, 1688). It is not clear when the Accademia moved to Ciampini`s house.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16145",
+                "RecordId": "022-000002757",
+                "Name": "Ottoboni,Pietro Vito,Cardinal,1667 - 1740",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18936",
+                "RecordId": "022-000006037",
+                "Name": "Ciampini,Giovanni Giustino,,1633 - 1698",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19033",
+                "RecordId": "022-000006150",
+                "Name": "Vettori,Francesco Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18951",
+                "RecordId": "022-000006054",
+                "Name": "Fabretti,Raffaele,,1618 - 1700",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19034",
+                "RecordId": "022-000006151",
+                "Name": "Rilli,Annibale,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19035",
+                "RecordId": "022-000006152",
+                "Name": "Napini,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19036",
+                "RecordId": "022-000006153",
+                "Name": "Giori,Cesario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19037",
+                "RecordId": "022-000006154",
+                "Name": "Quarteroni,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19038",
+                "RecordId": "022-000006155",
+                "Name": "Guidi,Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19039",
+                "RecordId": "022-000006156",
+                "Name": "Del Torre,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19041",
+                "RecordId": "022-000006158",
+                "Name": "Diofebi,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19040",
+                "RecordId": "022-000006157",
+                "Name": "Buonarroti,Filippo,,1661 - 1733",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7401",
+                "RecordId": "022-000000992",
+                "Name": "Bianchini,Francesco,,1662 - 1729",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19042",
+                "RecordId": "022-000006159",
+                "Name": "Serra,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19043",
+                "RecordId": "022-000006160",
+                "Name": "de Nicolo`,Francesco Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19044",
+                "RecordId": "022-000006161",
+                "Name": "Contini,Francesco Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19045",
+                "RecordId": "022-000006162",
+                "Name": "del Torto,Gasparo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19046",
+                "RecordId": "022-000006163",
+                "Name": "Baldini,Giovanni Antonio,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19047",
+                "RecordId": "022-000006164",
+                "Name": "del Palagio,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19048",
+                "RecordId": "022-000006165",
+                "Name": "Lucini,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19049",
+                "RecordId": "022-000006166",
+                "Name": "Marcello Riccardi,Giovanni Battista ,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19050",
+                "RecordId": "022-000006167",
+                "Name": "Zacchei,Gio: Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19051",
+                "RecordId": "022-000006168",
+                "Name": "Peresi,Gio: Camillo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19052",
+                "RecordId": "022-000006169",
+                "Name": "Abbati,Gio: Felice,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19053",
+                "RecordId": "022-000006170",
+                "Name": "Rilli,Gio Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19055",
+                "RecordId": "022-000006172",
+                "Name": "Conti,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19056",
+                "RecordId": "022-000006173",
+                "Name": "Corderi,Giuseppe Ignazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19057",
+                "RecordId": "022-000006174",
+                "Name": "Sergardi,Lodovico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19058",
+                "RecordId": "022-000006175",
+                "Name": "Zaccagna ,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19059",
+                "RecordId": "022-000006176",
+                "Name": "Capponi,Maffeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19060",
+                "RecordId": "022-000006177",
+                "Name": "Patrizi,Mariano,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19061",
+                "RecordId": "022-000006178",
+                "Name": "Tomati,Ottaviano,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19062",
+                "RecordId": "022-000006179",
+                "Name": "Palazzi,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19063",
+                "RecordId": "022-000006180",
+                "Name": "Montecatini,Tomaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19064",
+                "RecordId": "022-000006181",
+                "Name": "de` Giulii,Tomaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19065",
+                "RecordId": "022-000006182",
+                "Name": "Gravina,Gian Vincenzo,,1664 - 1718",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19590",
+                "RecordId": "022-000006925",
+                "Name": "Vaccari,Giuseppe Antonio,,1680 - 1717",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

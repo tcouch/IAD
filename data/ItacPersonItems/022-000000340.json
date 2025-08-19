@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5292",
+        "RecordId": "022-000000340",
+        "Surname": "de` Rossi dei Conti di Pontecchio",
+        "Forename": "Giovanni Galeazzo",
+        "Gender": "Male",
+        "PersonalTitle": "Count",
+        "DateText": "married in 1554-?",
+        "StartDate": "married in 1554",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "190",
+            "Value": "of Pontecchio (Bologna)"
+        },
+        "Notes": "He wrote the opening poem in Corona di rose poetiche (1590).",
+        "Role": "Contributor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

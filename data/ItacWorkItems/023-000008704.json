@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008704",
+        "WorkId": "001001",
+        "ShortTitle": "1560. 30 decembre. In Venetia in contrada San Cantian",
+        "LongTitle": "nella casa dell`habitatione del clarissimo M. Federigo Badoer.",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1560",
+        "DedicationPlaceDate": "30 dicembre 1560",
+        "Shelfmark": "John Rylands Library Aldine Collection 636",
+        "Language": "Italian",
+        "Pagination": "11r-v",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20811",
+                    "RecordID": "022-000008661",
+                    "Value": "Ubaldini,Petruccio,,ca.1524-ca.1600"
+                },
+                {
+                    "PersonId": "20808",
+                    "RecordID": "022-000008658",
+                    "Value": "Figolin,Zuan,,"
+                },
+                {
+                    "PersonId": "20818",
+                    "RecordID": "022-000008670",
+                    "Value": "Rinaldi,Leonardo,,fl.1560"
+                },
+                {
+                    "PersonId": "20810",
+                    "RecordID": "022-000008660",
+                    "Value": "Figolino,Marcantonio,,"
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

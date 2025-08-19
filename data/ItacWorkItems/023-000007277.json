@@ -1,0 +1,1456 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007277",
+        "WorkId": "000824",
+        "ShortTitle": "Essequie Poetiche",
+        "LongTitle": "Overo Lamento delle Muse Italiane in morte del Sig. Lope De Vega insigne & Incomparabile Poeta Spagnuolo. Rime,e Prose raccolte dal Signor Fabio Franchi Perugino. Dedicate all`Illustriss. & Eccellentiss. Signor Don Gio. Antonio De Vera, e Figueroa Conte de la Roca",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0124",
+                "RecordID": "021-000005571",
+                "Value": "Accademia dei Fantastici"
+            },
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Accademia degli Umoristi"
+            },
+            {
+                "AcademyId": "0030",
+                "RecordID": "021-000002423",
+                "Value": "Accademia degli Infuriati"
+            },
+            {
+                "AcademyId": "0067",
+                "RecordID": "021-000004115",
+                "Value": "Accademia dei Solitari"
+            },
+            {
+                "AcademyId": "0035",
+                "RecordID": "021-000002615",
+                "Value": "Accademia degli Incauti (Napoli)"
+            },
+            {
+                "AcademyId": "0162",
+                "RecordID": "021-000006545",
+                "Value": "Accademia degli Affidati (Pavia)"
+            },
+            {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            },
+            {
+                "AcademyId": "0023",
+                "RecordID": "021-000001571",
+                "Value": "Umoristi (Accademia degli)"
+            }
+        ],
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1636",
+        "Shelfmark": "1071.d.31.",
+        "Subjects": "Funeral poems",
+        "Language": "Italian|Latin|Spanish",
+        "Pagination": "pp. 222",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19968",
+                    "RecordID": "022-000007427",
+                    "Value": "Marino (Cavallier),,,"
+                },
+                {
+                    "PersonId": "16508",
+                    "RecordID": "022-000003195",
+                    "Value": "Strozzi,Giulio,,1583-1660"
+                },
+                {
+                    "PersonId": "17408",
+                    "RecordID": "022-000004258",
+                    "Value": "Barra ,Alberto,Carmelite,"
+                },
+                {
+                    "PersonId": "19852",
+                    "RecordID": "022-000007290",
+                    "Value": "Donato,Gio[vanni] Battista,,"
+                },
+                {
+                    "PersonId": "19853",
+                    "RecordID": "022-000007291",
+                    "Value": "Accademico Notturno,,,"
+                },
+                {
+                    "PersonId": "19854",
+                    "RecordID": "022-000007293",
+                    "Value": "Naufragante,,,"
+                },
+                {
+                    "PersonId": "19855",
+                    "RecordID": "022-000007294",
+                    "Value": "Cantoni,Giacomo,,"
+                },
+                {
+                    "PersonId": "19856",
+                    "RecordID": "022-000007297",
+                    "Value": "Guarini,Sisto,,"
+                },
+                {
+                    "PersonId": "19857",
+                    "RecordID": "022-000007298",
+                    "Value": "Gallus (\u00e0 Grandimonte) ,Scipio,,"
+                },
+                {
+                    "PersonId": "19858",
+                    "RecordID": "022-000007299",
+                    "Value": "Intrepido Academico,,,"
+                },
+                {
+                    "PersonId": "19859",
+                    "RecordID": "022-000007300",
+                    "Value": "Academico Sdegnato,,,"
+                },
+                {
+                    "PersonId": "19860",
+                    "RecordID": "022-000007301",
+                    "Value": "Academico Infarinato,,,"
+                },
+                {
+                    "PersonId": "19861",
+                    "RecordID": "022-000007303",
+                    "Value": "Academico Strepitante,,,"
+                },
+                {
+                    "PersonId": "19969",
+                    "RecordID": "022-000007428",
+                    "Value": "Academico Stemperato,,,"
+                },
+                {
+                    "PersonId": "19862",
+                    "RecordID": "022-000007304",
+                    "Value": "Academico Risoluto,,,"
+                },
+                {
+                    "PersonId": "19863",
+                    "RecordID": "022-000007305",
+                    "Value": "Capradosso,Agostiniano,,"
+                },
+                {
+                    "PersonId": "18231",
+                    "RecordID": "022-000005215",
+                    "Value": "Della Manna,Girolamo ,,?-1640"
+                },
+                {
+                    "PersonId": "15135",
+                    "RecordID": "022-000001177",
+                    "Value": "Berardelli,Alessandro,,"
+                },
+                {
+                    "PersonId": "19864",
+                    "RecordID": "022-000007306",
+                    "Value": "del Vaglio,,Count,"
+                },
+                {
+                    "PersonId": "19865",
+                    "RecordID": "022-000007307",
+                    "Value": "Roccho,Francesco Antonio,,"
+                },
+                {
+                    "PersonId": "16532",
+                    "RecordID": "022-000003233",
+                    "Value": "Caputo,Filocalo,Carmelite,"
+                },
+                {
+                    "PersonId": "18551",
+                    "RecordID": "022-000005590",
+                    "Value": "Longo,Giovanni Martino,,"
+                },
+                {
+                    "PersonId": "19896",
+                    "RecordID": "022-000007340",
+                    "Value": "Belli,Francesco,,1577-pre1647"
+                },
+                {
+                    "PersonId": "19866",
+                    "RecordID": "022-000007308",
+                    "Value": "Canosa,,Marquis,"
+                },
+                {
+                    "PersonId": "19867",
+                    "RecordID": "022-000007309",
+                    "Value": "Crivelli,Avertano,Carmelite,"
+                },
+                {
+                    "PersonId": "19868",
+                    "RecordID": "022-000007310",
+                    "Value": "Pulci,Alessio,,"
+                },
+                {
+                    "PersonId": "19869",
+                    "RecordID": "022-000007311",
+                    "Value": "Primicile,Angelo,Carmelite,"
+                },
+                {
+                    "PersonId": "17373",
+                    "RecordID": "022-000004213",
+                    "Value": "Rota,Mario,,"
+                },
+                {
+                    "PersonId": "19870",
+                    "RecordID": "022-000007312",
+                    "Value": "Riedo,Ladio,,"
+                },
+                {
+                    "PersonId": "19871",
+                    "RecordID": "022-000007313",
+                    "Value": "Simeonis de Gratia,Ioannes,,"
+                },
+                {
+                    "PersonId": "19872",
+                    "RecordID": "022-000007314",
+                    "Value": "Villa,Pietro,,"
+                },
+                {
+                    "PersonId": "19873",
+                    "RecordID": "022-000007315",
+                    "Value": "Fontana,,Marquis,"
+                },
+                {
+                    "PersonId": "19874",
+                    "RecordID": "022-000007316",
+                    "Value": "Pasignani,,Count,"
+                },
+                {
+                    "PersonId": "19875",
+                    "RecordID": "022-000007317",
+                    "Value": "Academico Romito,,,"
+                },
+                {
+                    "PersonId": "19876",
+                    "RecordID": "022-000007318",
+                    "Value": "Nini,Hettore,,"
+                },
+                {
+                    "PersonId": "5082",
+                    "RecordID": "022-000000079",
+                    "Value": "Malvezzi,Virgilio,Marquis,1595-1654"
+                },
+                {
+                    "PersonId": "19877",
+                    "RecordID": "022-000007319",
+                    "Value": "Golino,Antonio ,,"
+                },
+                {
+                    "PersonId": "19878",
+                    "RecordID": "022-000007320",
+                    "Value": "de Vivi,Ignatio,,"
+                },
+                {
+                    "PersonId": "19879",
+                    "RecordID": "022-000007321",
+                    "Value": "Casoni,Guido,,1561-1642"
+                },
+                {
+                    "PersonId": "19880",
+                    "RecordID": "022-000007322",
+                    "Value": "Baliani,Giovanni Battista,,1582 - 1666"
+                },
+                {
+                    "PersonId": "19881",
+                    "RecordID": "022-000007323",
+                    "Value": "Fontei,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "19882",
+                    "RecordID": "022-000007324",
+                    "Value": "Morelli,Francesco,,"
+                },
+                {
+                    "PersonId": "19943",
+                    "RecordID": "022-000007402",
+                    "Value": "di Pers,Ciro,Knight of Malta,1599 - 1663"
+                },
+                {
+                    "PersonId": "19944",
+                    "RecordID": "022-000007403",
+                    "Value": "de Avalos,Agostiniano,,"
+                },
+                {
+                    "PersonId": "19945",
+                    "RecordID": "022-000007404",
+                    "Value": "Bindi,Girolamo,,"
+                },
+                {
+                    "PersonId": "19946",
+                    "RecordID": "022-000007405",
+                    "Value": "D`Alessandro,Sebastiano,,"
+                },
+                {
+                    "PersonId": "19947",
+                    "RecordID": "022-000007406",
+                    "Value": "Caracciolo,Gregorio,Augustinian,"
+                },
+                {
+                    "PersonId": "15018",
+                    "RecordID": "022-000001060",
+                    "Value": "Comite,Orazio,,"
+                },
+                {
+                    "PersonId": "19948",
+                    "RecordID": "022-000007407",
+                    "Value": "Filomarino,,Marquis,"
+                },
+                {
+                    "PersonId": "19949",
+                    "RecordID": "022-000007408",
+                    "Value": "L`Academico Impicciafuoco,,,"
+                },
+                {
+                    "PersonId": "19950",
+                    "RecordID": "022-000007409",
+                    "Value": "Gaetano,Bonifacio,Marquis,"
+                },
+                {
+                    "PersonId": "19951",
+                    "RecordID": "022-000007410",
+                    "Value": "Ruscelli,Andrea,,"
+                },
+                {
+                    "PersonId": "19952",
+                    "RecordID": "022-000007411",
+                    "Value": "Ferraiolo,Giuseppe,,"
+                },
+                {
+                    "PersonId": "19953",
+                    "RecordID": "022-000007412",
+                    "Value": "L`Academico Sigillato,,,"
+                },
+                {
+                    "PersonId": "19954",
+                    "RecordID": "022-000007413",
+                    "Value": "L`Academico Criminale,,,"
+                },
+                {
+                    "PersonId": "19955",
+                    "RecordID": "022-000007414",
+                    "Value": "de Leonardi,Angelo,Carmelite,"
+                },
+                {
+                    "PersonId": "19956",
+                    "RecordID": "022-000007415",
+                    "Value": "Rosso,Luca Antonio,Carmelite,"
+                },
+                {
+                    "PersonId": "19957",
+                    "RecordID": "022-000007416",
+                    "Value": "Botti,Michel`Angelo,,"
+                },
+                {
+                    "PersonId": "19958",
+                    "RecordID": "022-000007417",
+                    "Value": "Pelegrini Pancaldo,Giovanni,,"
+                },
+                {
+                    "PersonId": "19959",
+                    "RecordID": "022-000007418",
+                    "Value": "Frichisino,Girolamo,,"
+                },
+                {
+                    "PersonId": "19545",
+                    "RecordID": "022-000006819",
+                    "Value": "Bellisomi,Francesco,Marquis,"
+                },
+                {
+                    "PersonId": "19961",
+                    "RecordID": "022-000007420",
+                    "Value": "d`Avalos,Bonaventura,Augustinian,"
+                },
+                {
+                    "PersonId": "15033",
+                    "RecordID": "022-000001075",
+                    "Value": "Basso,Antonio,,1605-1648"
+                },
+                {
+                    "PersonId": "19962",
+                    "RecordID": "022-000007421",
+                    "Value": "Llobet,Giuseppe,,"
+                },
+                {
+                    "PersonId": "19963",
+                    "RecordID": "022-000007422",
+                    "Value": "Pasta,Gio[vanni],,"
+                },
+                {
+                    "PersonId": "19964",
+                    "RecordID": "022-000007423",
+                    "Value": "Cantoni,Pietro ,,"
+                },
+                {
+                    "PersonId": "19965",
+                    "RecordID": "022-000007424",
+                    "Value": "Testa,,Count|Ambassador of the Prince of Modena to Spain,"
+                },
+                {
+                    "PersonId": "19966",
+                    "RecordID": "022-000007425",
+                    "Value": "Croce,Giovanni Andrea,,"
+                },
+                {
+                    "PersonId": "19341",
+                    "RecordID": "022-000006538",
+                    "Value": "Tesauro,Emanuele,Count,1592 - 1675"
+                }
+            ]
+        },
+        "Notes": "This text contains an oration and a sonnet to Lope de Vega (d. 1635) written by Cavallier Marino not to be confused with Giambattista Marino (d. 1625)",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19848",
+                    "RecordID": "022-000007286",
+                    "Value": "de Vera e Figueroa,Giovanni Antonio,Count of Roca|Spanish Ambassador to Venice,"
+                },
+                {
+                    "PersonId": "19967",
+                    "RecordID": "022-000007426",
+                    "Value": "de Vega,Lope,,1562 - 1635"
+                },
+                {
+                    "PersonId": "15325",
+                    "RecordID": "022-000001364",
+                    "Value": "Philip IV,,King of Spain,1605-1655"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19868",
+                "RecordID": "022-000007310",
+                "Value": "Pulci,Alessio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19840",
+                "RecordID": "022-000007278",
+                "Value": "Imberti,Ghirardo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55216",
+            "Value": "023-000007277_55216_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Oratione fatta in Parnaso dal Sig. Cavallier Marino, in morte, e lode del Poeta d'Europa, e Fenice Spagnuola il Signor Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19968",
+                            "RecordID": "022-000007427",
+                            "Value": "Marino (Cavallier),,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto del Signor Cavallier Marino. In morte, e lode del Gran Lope De Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19968",
+                            "RecordID": "022-000007427",
+                            "Value": "Marino (Cavallier),,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Morte del Signor Lope De Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16508",
+                            "RecordID": "022-000003195",
+                            "Value": "Strozzi,Giulio,,1583 - 1660"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Molto Reverendo Padre F. Alberto Barra Carlmelitano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17408",
+                            "RecordID": "022-000004258",
+                            "Value": "Barra ,Alberto,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Cavalier F. Gio. Battista Donato del Consseglio di Guerra di S. M. nei Stati di Fiandra, e suo Sergente maggiore d Infant. Nap. In morte di Lope de Vega, detto l'Apollo Spagnuolo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19852",
+                            "RecordID": "022-000007290",
+                            "Value": "Donato,Gio[vanni] Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Acc. Notturno. In lode del gran lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19853",
+                            "RecordID": "022-000007291",
+                            "Value": "Accademico Notturno,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Naufragante Acad. Arrischiato. In morte di Lope famoso Poeta Spagnuolo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19854",
+                            "RecordID": "022-000007293",
+                            "Value": "Naufragante,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Dottore Giacomo Cantoni Avvocato, e Decurione della Citt\u00e0 di Pavia ne;;a morte del Sig. Lope de Vega Poeta Spagnuolo famosissimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19855",
+                            "RecordID": "022-000007294",
+                            "Value": "Cantoni,Giacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Obitum D. Lupij De Vega Poetae Comici celeberrimi. Sixtus Guarrinus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19856",
+                            "RecordID": "022-000007297",
+                            "Value": "Guarini,Sisto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Obitum Clarissimi Viri Lupij de Vega Summi, & Oratoris, & Poetae. Epitaphium. Scipio \u00e0 Grandimonte Gallus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19857",
+                            "RecordID": "022-000007298",
+                            "Value": "Gallus (\u00e0 Grandimonte) ,Scipio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Giacomo Cantoni",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19855",
+                            "RecordID": "022-000007294",
+                            "Value": "Cantoni,Giacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Intrepido Academico In lode del Sig. Lope de Vega lodatissimo Poeta Spagnuolo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7332",
+                            "RecordID": "022-000000919",
+                            "Value": "Intrepido,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Sig. Lope de Vega poeta Spagnuolo celeberrimo. Dell'Academico Sdegnato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19859",
+                            "RecordID": "022-000007300",
+                            "Value": "Academico Sdegnato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel medesimo Sogetto. Dell'Academico Infarinato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19860",
+                            "RecordID": "022-000007301",
+                            "Value": "Academico Infarinato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del medesino Sogetto. dell'Academico Strepitante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19861",
+                            "RecordID": "022-000007303",
+                            "Value": "Academico Strepitante,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nell'Istesso Sogetto. Dell'Academico Stemperato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19969",
+                            "RecordID": "022-000007428",
+                            "Value": "Academico Stemperato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L'Academico Risoluto. All'istesso Sogetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19862",
+                            "RecordID": "022-000007304",
+                            "Value": "Academico Risoluto,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Funeralibus Pieridum Patris In Apollinem. Hymnus neptuni",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19862",
+                            "RecordID": "022-000007304"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Epitaphium Ad Sepulcrum Lupij Vegae Hispani Poetae celeberrimi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19862",
+                            "RecordID": "022-000007304"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Canzone Del Capradosso Agostiniano Accademico Fantastico di Roma, In morte del Sig. Lope de Vega Spagnuolo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19863",
+                            "RecordID": "022-000007305",
+                            "Value": "Capradosso,Agostiniano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Girolamo della Manna. Accademico Humorista, e Fantastico di Roma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18231",
+                            "RecordID": "022-000005215",
+                            "Value": "Della Manna,Girolamo ,,? - 1640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Morte Di Lope De Vega. Del Signor Alessandro Berardelli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15135",
+                            "RecordID": "022-000001177",
+                            "Value": "Berardelli,Alessandro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Morte Di Lope de Vega. del Sig. Conte del Vaglio Napolitano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19864",
+                            "RecordID": "022-000007306",
+                            "Value": "del Vaglio,,Count,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per La Morte Del Sig. Lope De Vega. Ode Del Sig. Francesco Antonio Roccho fra gl'Infuriati di Napoli il Saturno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19865",
+                            "RecordID": "022-000007307",
+                            "Value": "Roccho,Francesco Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Molto Rever. Padre Maestro Filocalo Caputo Carmelitano Napolitano. Madrigale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16532",
+                            "RecordID": "022-000003233",
+                            "Value": "Caputo,Filocalo,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eiusdem. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16532",
+                            "RecordID": "022-000003233",
+                            "Value": "Caputo,Filocalo,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Sig. Gio: Martino Longo. In morte del Sig. Lope de Vega celebre Poeta Spagnuolo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18551",
+                            "RecordID": "022-000005590",
+                            "Value": "Longo,Giovanni Martino,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Don Francesco Belli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19896",
+                            "RecordID": "022-000007340",
+                            "Value": "Belli,Francesco,,1577 - pre1647"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "del Sig. MArchese Canosa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19866",
+                            "RecordID": "022-000007308",
+                            "Value": "Canosa,,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Francesco Belli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19896",
+                            "RecordID": "022-000007340",
+                            "Value": "Belli,Francesco,,1577 - pre1647"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Padre Maestro Avertano Crivelli Carmelitano. In lode del Signor Lope De Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19867",
+                            "RecordID": "022-000007309",
+                            "Value": "Crivelli,Avertano,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Istesso Al tumulo di Lope",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19867",
+                            "RecordID": "022-000007309",
+                            "Value": "Crivelli,Avertano,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Raguaglio Di Parnaso. Del Sig. Fabio Franchi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19868",
+                            "RecordID": "022-000007310",
+                            "Value": "Pulci,Alessio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Padre Lettore Angelo Primicile Carmelitano fra Solitarij detto il Melanconico",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19869",
+                            "RecordID": "022-000007311",
+                            "Value": "Primicile,Angelo,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. D. Alessio Pulci In lode del Signor Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19868",
+                            "RecordID": "022-000007310",
+                            "Value": "Pulci,Alessio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Mario Rota Napolitano Principe Delli Incauti. In morte del Signor Lope De Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17373",
+                            "RecordID": "022-000004213",
+                            "Value": "Rota,Mario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Ladio Riedo Nella morte del Signor Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19870",
+                            "RecordID": "022-000007312",
+                            "Value": "Riedo,Ladio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De extinto Lope de Vega, & Carpio Hispano. P. I. Angelus Primicilis Neap. Carm.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19869",
+                            "RecordID": "022-000007311",
+                            "Value": "Primicile,Angelo,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Dominum Lopem de Vega, & Carpio, Epicum, Tragicum, Comicum que Poetam. Ioannis Simeonis de Gratia neapolitani Epigramma.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18655",
+                            "RecordID": "022-000005717",
+                            "Value": "de Gratia,Giovanni Simone,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Istesso Sonetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18655",
+                            "RecordID": "022-000005717",
+                            "Value": "de Gratia,Giovanni Simone,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Pietro Villa In lode del Signor Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19872",
+                            "RecordID": "022-000007314",
+                            "Value": "Villa,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Marchese Fontana In lode del Signor Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19873",
+                            "RecordID": "022-000007315",
+                            "Value": "Fontana,,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Conte Pasignani In lode del Signor Lope De Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19874",
+                            "RecordID": "022-000007316",
+                            "Value": "Pasignani,,Count,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Laudem Domini Lupii de Vega. Carmen",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19874",
+                            "RecordID": "022-000007316"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Sig. D. Alessio Pulci esortandolo \u00e0 cantar le lodi di D. Lope de Vega gran Poeta della Spagna. L'Academico Romito. Ode",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19875",
+                            "RecordID": "022-000007317",
+                            "Value": "Academico Romito,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "in morte del Signor Lope de Vega. Del Sig. Hettorre Nini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19876",
+                            "RecordID": "022-000007318",
+                            "Value": "Nini,Hettore,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al Signor Marchese Virgilio Malvezzi. Per la morte di D. Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5082",
+                            "RecordID": "022-000000079",
+                            "Value": "Malvezzi,Virgilio,Marquis,1595-1654"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella morte del Sig. Lope de Vega, Carpio Poeta. del Sig. Antonio Golino napol. Sonetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19877",
+                            "RecordID": "022-000007319",
+                            "Value": "Golino,Antonio ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella morte del Sig. Lope de Vega \u00e8 Carpio Poeta. Del Sig. Ignatio de Vivi Napol. Sonetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19878",
+                            "RecordID": "022-000007320",
+                            "Value": "de Vivi,Ignatio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Introdutione Del Sig. Caval. Guido Casoni A l'Ode sequente in lode del Signor Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19879",
+                            "RecordID": "022-000007321",
+                            "Value": "Casoni,Guido,,1561 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ode Del Sig. Guido Casoni In lode del Signor Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19879",
+                            "RecordID": "022-000007321",
+                            "Value": "Casoni,Guido,,1561 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Baptista Baelianus In obitum Lupij de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19880",
+                            "RecordID": "022-000007322",
+                            "Value": "Baliani,Giovanni Battista,,1582 - 1666"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Obitu Lopis de Vega Elegia D. Francisci Mariae Fontei. I. C. O.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19881",
+                            "RecordID": "022-000007323",
+                            "Value": "Fontei,Francesco Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Illustriss. Et Eccell. Sig. Conte Della Rocca",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19881",
+                            "RecordID": "022-000007323"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ne la morte del Signor Lope de Vega, il Sig. Francesco Morelli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19882",
+                            "RecordID": "022-000007324",
+                            "Value": "Morelli,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ne la morte del Sig. Lope de Vega principalissimo Poeta Spagnuolo. Del Sig. Francesco Ciro Sig. di Pers & Caval. di Malta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19943",
+                            "RecordID": "022-000007402",
+                            "Value": "di Pers,Ciro,Knight of Malta,1599 - 1663"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Sogetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19943",
+                            "RecordID": "022-000007402"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "per Il S. Lope De Vega E Carpio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19943",
+                            "RecordID": "022-000007402"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Magister De Avalos Augustinianus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19944",
+                            "RecordID": "022-000007403",
+                            "Value": "de Avalos,Agostiniano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Morte del Sig. Lope De Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19944",
+                            "RecordID": "022-000007403"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Medesimo Sogetto Parla l'istesso Signor Lope De Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19944",
+                            "RecordID": "022-000007403"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del famoso Poeta Spagnuolo il Sig. Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19944",
+                            "RecordID": "022-000007403"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Sig. Lope de Vega Poeta Spagnuolo. Del Sig. Girolamo Bindi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19945",
+                            "RecordID": "022-000007404",
+                            "Value": "Bindi,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De Poemate Viri Clarissimi Lupii de Vega. Cui titulus Laurus Apollinis Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19945",
+                            "RecordID": "022-000007404"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Idem Argumentum Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19945",
+                            "RecordID": "022-000007404"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De Alio Poemate, Quod, Circe, inscribitur. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19945",
+                            "RecordID": "022-000007404"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Molto Rever. P. Maestro Sebastiano d'Alessandro Prefetto del Carmine di Frap.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19946",
+                            "RecordID": "022-000007405",
+                            "Value": "D`Alessandro,Sebastiano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Penna immortale Del morto Sig. Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19946",
+                            "RecordID": "022-000007405"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Istessa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19946",
+                            "RecordID": "022-000007405"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Signor Lope de Vega. Del R. P. Gregorio Caracciolo Agostiniano Scalzo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19947",
+                            "RecordID": "022-000007406",
+                            "Value": "Caracciolo,Gregorio,Augustinian,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Istesso. Qui Giace Vega, \u00f2 peregrin quel Vega Che finge il finto, e con il finger vivo Dell'immitato l'immitando spiega. Per La Morte Dell'Istesso Di Horatio Comite l'Arcincauto degli Incauti.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15018",
+                            "RecordID": "022-000001060",
+                            "Value": "Comite,Orazio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Istesso, Del Sig. Marchese Filomarino",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19948",
+                            "RecordID": "022-000007407",
+                            "Value": "Filomarino,,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Draco Anglicus immanis, & Cano Hispanus Fidelis. Divini Lupij Carmine illustrati. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19948",
+                            "RecordID": "022-000007407"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Signor Lope de Vega. L'Academico Impicciafuoco",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19949",
+                            "RecordID": "022-000007408",
+                            "Value": "L`Academico Impicciafuoco,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per La Istessa, Del Sig. MArchese Bonifatio Gaetano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19950",
+                            "RecordID": "022-000007409",
+                            "Value": "Gaetano,Bonifacio,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Signor Lope de Vega.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19951",
+                            "RecordID": "022-000007410",
+                            "Value": "Ruscelli,Andrea,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Istesso. Sonetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19951",
+                            "RecordID": "022-000007410"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Morte del Medesimo. Sonetto. Del P. Maestro Gioseppe Ferraiolo Reg. del Carmine.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19952",
+                            "RecordID": "022-000007411",
+                            "Value": "Ferraiolo,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Signor Lope de Vega. L'Academico Sigillato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19953",
+                            "RecordID": "022-000007412",
+                            "Value": "L`Academico Sigillato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Istesso. L'Academico Criminale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19954",
+                            "RecordID": "022-000007413",
+                            "Value": "L`Academico Criminale,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Istesso Del P. F. Angelo de Leonardi Carmelitano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19955",
+                            "RecordID": "022-000007414",
+                            "Value": "de Leonardi,Angelo,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto. Del P. M. Luc'Antonio Rosso Carmelitano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19956",
+                            "RecordID": "022-000007415",
+                            "Value": "Rosso,Luca Antonio,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Sig. Lope de Vega, alludendo all'Alloro da lui composto. Sonetto. Del P. D. Michel'Angelo Botti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19957",
+                            "RecordID": "022-000007416",
+                            "Value": "Botti,Michel`Angelo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Molto R. P. F. Alberto Barra Carmelitano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17408",
+                            "RecordID": "022-000004258",
+                            "Value": "Barra ,Alberto,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Istesso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17408",
+                            "RecordID": "022-000004258"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Gio: Pelegrini Pancaldo. Per la morte del Sig. Lope de Vega",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19958",
+                            "RecordID": "022-000007417",
+                            "Value": "Pelegrini Pancaldo,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Istesso. del Signor Girolamo Frichisino",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19959",
+                            "RecordID": "022-000007418",
+                            "Value": "Frichisino,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del P. Lettore Angelo Primicile Fr\u00e0 i solitarij detto il Malenconico. Al S. Lope De Vega, e Carpio. Anagramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19869",
+                            "RecordID": "022-000007311",
+                            "Value": "Primicile,Angelo,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Istesso. Al Sig. Lope de Vega, e Carpio. Anagramma.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19869",
+                            "RecordID": "022-000007311",
+                            "Value": "Primicile,Angelo,Carmelite,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Signor Marchese Francesco Bellisomo Patricio Pavese, & Accademico Affidato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19545",
+                            "RecordID": "022-000006819",
+                            "Value": "Bellisomi,Francesco,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Dottor Giacomo Cantoni Conservatore della Citt\u00e0 di Pavia, & Accademico Affidato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19855",
+                            "RecordID": "022-000007294",
+                            "Value": "Cantoni,Giacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dell'Istesso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19855",
+                            "RecordID": "022-000007294"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la morte del Sig. Lope de Vega. Del P. M. F. Bonaventura d'Avalos, Figlio del Sig. Marchese di Pescara Agostiniano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19961",
+                            "RecordID": "022-000007420",
+                            "Value": "d`Avalos,Bonaventura,Augustinian,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del Signor Lope de Vega. del Sig. Antonio Basso Accad. Otioso cognominato l'Occulto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15033",
+                            "RecordID": "022-000001075",
+                            "Value": "Basso,Antonio,,1605-1648"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Lopem de Vega. Allusio ad nomen. Iosephi Llobet Acad. Otiosi. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19962",
+                            "RecordID": "022-000007421",
+                            "Value": "Llobet,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte del R\u00e8 de' Poeti, Lope De Vega Canzone. Del Signor Gio. Pasta Milanese",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19963",
+                            "RecordID": "022-000007422",
+                            "Value": "Pasta,Gio[vanni],,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sig. Marchese Francesco Bellisomo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19545",
+                            "RecordID": "022-000006819",
+                            "Value": "Bellisomi,Francesco,Marquis,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Domini Petri Cantonij Iurisconsulti Mediolanensis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19964",
+                            "RecordID": "022-000007423",
+                            "Value": "Cantoni,Pietro ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In Morte Del Sig. Lope De Vega. Del Sig. Conte Testa Ambasciatore del Sereniss. Principe di Modona alla Maest\u00e0 Catt.  Essendo per imbarcarsi in Genova, per andare in Spagna.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19965",
+                            "RecordID": "022-000007424",
+                            "Value": "Testa,,Count|Ambassador of the Prince of Modena to Spain,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lupij de Vega Hispani Parnassi Apollinis nuper in Hispania extincti. Tumulus. A D. Ioanne Andrea Croce constructus",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19966",
+                            "RecordID": "022-000007425",
+                            "Value": "Croce,Giovanni Andrea,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nell'Istesso Sogetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19966",
+                            "RecordID": "022-000007425"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Apostrofe nella morte del R\u00e8 de' Poeti, Lope De Vega. E Carpio. Del Molto R. D. Emanuel Tesauro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19341",
+                            "RecordID": "022-000006538",
+                            "Value": "Tesauro,Emanuele,Count,1592 - 1675"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

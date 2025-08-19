@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000301",
+        "WorkId": "00022",
+        "ShortTitle": "In lode et nella partita dell`illustrissimo et reverendissimo Cardinale Barberino legato et di monsignor Illustrissimo Lorenzo Magalotti Vicelegato di Bologna Odi pindariche",
+        "LongTitle": "del Signor Conte Ridolfo Campeggi il Rugginoso Accademico Gelato",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1614",
+        "Shelfmark": "11427.cc.28.(1.)",
+        "Subjects": "Celebratory poems",
+        "Language": "Italian",
+        "Illustration": "Woodcut | Typographic ornament",
+        "Pagination": "pp. 14",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5039",
+                "RecordID": "022-000000041",
+                "Value": "Campeggi,Ridolfo,Count,1565-1624"
+            }
+        },
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5001",
+                    "RecordID": "022-000000003",
+                    "Value": "Barberini,Maffeo,Pope Urban VIII,1568-1644"
+                },
+                {
+                    "PersonId": "5215",
+                    "RecordID": "022-000000207",
+                    "Value": "Magalotti,Lorenzo,,1584-1637"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5274",
+                "RecordID": "022-000000264",
+                "Value": "Benacci,Vittorio,,1571-1629"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "53106",
+            "Value": "023-000000301_53106_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

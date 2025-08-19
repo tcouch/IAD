@@ -1,0 +1,1444 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005605",
+        "WorkId": "000677",
+        "ShortTitle": "Poesie de` signori Accademici Fantastici di Roma",
+        "ItacAcademyItem": {
+            "AcademyId": "0124",
+            "RecordID": "021-000005571",
+            "Value": "Accademia dei Fantastici"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1637",
+        "DedicationPlaceDate": "Roma 15 November 1636",
+        "Shelfmark": "1062b1",
+        "Subjects": "Poetry",
+        "Language": "Italian|French|Latin",
+        "Pagination": "272 [16]",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18233",
+                    "RecordID": "022-000005217",
+                    "Value": "Confidati,Alfonso,,1609 - 1657"
+                },
+                {
+                    "PersonId": "18533",
+                    "RecordID": "022-000005572",
+                    "Value": "Fabri,Alberto,,"
+                },
+                {
+                    "PersonId": "5012",
+                    "RecordID": "022-000000014",
+                    "Value": "Barbazza,Andrea,Count,1581/82-1656"
+                },
+                {
+                    "PersonId": "15035",
+                    "RecordID": "022-000001077",
+                    "Value": "Bruni,Antonio,,1593-1635"
+                },
+                {
+                    "PersonId": "18534",
+                    "RecordID": "022-000005573",
+                    "Value": "Tempestino,Anton Francesco,,"
+                },
+                {
+                    "PersonId": "18536",
+                    "RecordID": "022-000005575",
+                    "Value": "Evangelista,Bernardo,,"
+                },
+                {
+                    "PersonId": "18537",
+                    "RecordID": "022-000005576",
+                    "Value": "Malvasia,Bonaventura,,1598 - 1666"
+                },
+                {
+                    "PersonId": "18538",
+                    "RecordID": "022-000005577",
+                    "Value": "Benetti,Benedetto,,"
+                },
+                {
+                    "PersonId": "18539",
+                    "RecordID": "022-000005578",
+                    "Value": "Rigogli,Benedetto,,"
+                },
+                {
+                    "PersonId": "5624",
+                    "RecordID": "022-000000694",
+                    "Value": "Spada,Carlo,,"
+                },
+                {
+                    "PersonId": "5089",
+                    "RecordID": "022-000000086",
+                    "Value": "Achillini,Claudio,,1574 -1 640"
+                },
+                {
+                    "PersonId": "18540",
+                    "RecordID": "022-000005579",
+                    "Value": "Scoppa,Claudio,,"
+                },
+                {
+                    "PersonId": "18541",
+                    "RecordID": "022-000005580",
+                    "Value": "Tosi,Clemente,,"
+                },
+                {
+                    "PersonId": "18424",
+                    "RecordID": "022-000005447",
+                    "Value": "Panimolle,Cesare,,"
+                },
+                {
+                    "PersonId": "18565",
+                    "RecordID": "022-000005604",
+                    "Value": "Mazzei,Decio,,"
+                },
+                {
+                    "PersonId": "5105",
+                    "RecordID": "022-000000102",
+                    "Value": "Balducci,Francesco,,1579 - 1642"
+                },
+                {
+                    "PersonId": "18542",
+                    "RecordID": "022-000005581",
+                    "Value": "Benetti,Francesco,,"
+                },
+                {
+                    "PersonId": "18437",
+                    "RecordID": "022-000005460",
+                    "Value": "Carducci,Francesco,,1610 - 1654"
+                },
+                {
+                    "PersonId": "18544",
+                    "RecordID": "022-000005583",
+                    "Value": "Massucci,Francesco,,"
+                },
+                {
+                    "PersonId": "5183",
+                    "RecordID": "022-000000178",
+                    "Value": "Testi,Fulvio,Count,1593 - 1646"
+                },
+                {
+                    "PersonId": "18545",
+                    "RecordID": "022-000005584",
+                    "Value": "Marino,Gabriele,,"
+                },
+                {
+                    "PersonId": "18198",
+                    "RecordID": "022-000005178",
+                    "Value": "Guglielmi,Iacomo,,"
+                },
+                {
+                    "PersonId": "18546",
+                    "RecordID": "022-000005585",
+                    "Value": "Goffredi,Gio: Antonio,,"
+                },
+                {
+                    "PersonId": "18547",
+                    "RecordID": "022-000005586",
+                    "Value": "Caroli,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "18548",
+                    "RecordID": "022-000005587",
+                    "Value": "Giobbe,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "18549",
+                    "RecordID": "022-000005588",
+                    "Value": "Piacenza,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "5149",
+                    "RecordID": "022-000000145",
+                    "Value": "Maia Materdona,Giovanni Francesco,,1590 - 1650"
+                },
+                {
+                    "PersonId": "18550",
+                    "RecordID": "022-000005589",
+                    "Value": "de` Rossi,Giovanni Maria,,"
+                },
+                {
+                    "PersonId": "18551",
+                    "RecordID": "022-000005590",
+                    "Value": "Longo,Giovanni Martino,,"
+                },
+                {
+                    "PersonId": "18552",
+                    "RecordID": "022-000005591",
+                    "Value": "Salzilli,Giovanni,,"
+                },
+                {
+                    "PersonId": "18553",
+                    "RecordID": "022-000005592",
+                    "Value": "Lamanna,Girolamo,,"
+                },
+                {
+                    "PersonId": "18554",
+                    "RecordID": "022-000005593",
+                    "Value": "Garopoli,Girolamo,,1605? - 1678"
+                },
+                {
+                    "PersonId": "18197",
+                    "RecordID": "022-000005177",
+                    "Value": "Valentino,Giulio Cesare,,"
+                },
+                {
+                    "PersonId": "18555",
+                    "RecordID": "022-000005594",
+                    "Value": "Ferretti,(Father) Giuseppe,,"
+                },
+                {
+                    "PersonId": "18556",
+                    "RecordID": "022-000005595",
+                    "Value": "Prosperi,Lodovico,,"
+                },
+                {
+                    "PersonId": "18557",
+                    "RecordID": "022-000005596",
+                    "Value": "Picarelli,Marco,,"
+                },
+                {
+                    "PersonId": "18558",
+                    "RecordID": "022-000005597",
+                    "Value": "Lunghi,Martino (The Younger),,1602 - 1660"
+                },
+                {
+                    "PersonId": "18535",
+                    "RecordID": "022-000005574",
+                    "Value": "Monterel,,,"
+                },
+                {
+                    "PersonId": "18354",
+                    "RecordID": "022-000005371",
+                    "Value": "Ricci,Neupolione,,"
+                },
+                {
+                    "PersonId": "18199",
+                    "RecordID": "022-000005179",
+                    "Value": "Strozzi,Niccolo`,,"
+                },
+                {
+                    "PersonId": "18559",
+                    "RecordID": "022-000005598",
+                    "Value": "Cittadonio,Paolo,,"
+                },
+                {
+                    "PersonId": "18200",
+                    "RecordID": "022-000005180",
+                    "Value": "Paoli,Pierfrancesco,,"
+                },
+                {
+                    "PersonId": "15122",
+                    "RecordID": "022-000001163",
+                    "Value": "Michiele,Pietro,,"
+                },
+                {
+                    "PersonId": "18560",
+                    "RecordID": "022-000005599",
+                    "Value": "Pannini,Pietro,,"
+                },
+                {
+                    "PersonId": "18431",
+                    "RecordID": "022-000005454",
+                    "Value": "Santa Croce,Scipione,,"
+                },
+                {
+                    "PersonId": "16920",
+                    "RecordID": "022-000003697",
+                    "Value": "Marini,Stefano,,"
+                },
+                {
+                    "PersonId": "17720",
+                    "RecordID": "022-000004616",
+                    "Value": "Cevoli,Tiberio,,d.1685"
+                },
+                {
+                    "PersonId": "18561",
+                    "RecordID": "022-000005600",
+                    "Value": "Savarelli,Vincenzo Maria,,"
+                },
+                {
+                    "PersonId": "18562",
+                    "RecordID": "022-000005601",
+                    "Value": "Patriarchi ,Virginio,,"
+                },
+                {
+                    "PersonId": "18563",
+                    "RecordID": "022-000005602",
+                    "Value": "Venturelli,Vittorio,,"
+                },
+                {
+                    "PersonId": "18564",
+                    "RecordID": "022-000005603",
+                    "Value": "Vellori,Viviano,,"
+                },
+                {
+                    "PersonId": "19355",
+                    "RecordID": "022-000006557",
+                    "Value": "Venturi,Ventura,,"
+                }
+            ]
+        },
+        "Notes": "On p. 272, the editor announces that Latin poems will follow in a separate volume.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18567",
+                    "RecordID": "022-000005607",
+                    "Value": "Lupus,Hyacinthus,,"
+                },
+                {
+                    "PersonId": "18445",
+                    "RecordID": "022-000005468",
+                    "Value": "Riccardi,Nicola,Master of the Sacred Palace,1585-1639"
+                },
+                {
+                    "PersonId": "18169",
+                    "RecordID": "022-000005137",
+                    "Value": "Tronsarelli,Ottavio,,"
+                },
+                {
+                    "PersonId": "18568",
+                    "RecordID": "022-000005608",
+                    "Value": "Torniellus,A. ,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur Reverendiss. P. Mag. Sac. pal. apost. A Torniellus Vicesgerens --- Le Rime varie e le opere latine de; Signori Accademici Fantastici, la cui impresa e` l`haver ardire di tentar ogni impresa; d`ordine del Reverendiss. P. Maestro del Sacro Palazzo Fra Niccolo` Riccardi sono da me state considerate e io agli Ordini della Religione, delle leggi, e del Costume per mio senno le stimo conformi. L`una e l`altra sorte di componimento nelle sue varieta` reca vaghezza; non meno e` felice ne gli ardimenti, che habbia nobilta` nelle Fantasie; e seco porta i meriti della propria lode. Ottavio Tronsarelli. Imprimatur Fr. Hyacinthus Lupus Mag. et Soc. Reverendiss. P. Mag. Sac. Pal. Apost.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18566",
+                "RecordID": "022-000005606",
+                "Value": "Cesarini,Alessandro (The Younger),Cardinal,1592 - 1644"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18533",
+                "RecordID": "022-000005572",
+                "Value": "Fabri,Alberto,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18289",
+                "RecordID": "022-000005293",
+                "Value": "Grignani,Ludovico,,1586 - 1651"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54637",
+            "Value": "023-000005605_54637_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "All`Em.mo et Rev.mo Sig.r Card. Cesarini. A nome dell`Accademia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18533",
+                            "RecordID": "022-000005572",
+                            "Value": "Fabri,Alberto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. Berlingerio Gessi. Per amanti e per cortigiani. Ode pindarica",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18533",
+                            "RecordID": "022-000005572",
+                            "Value": "Fabri,Alberto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Invita i potentati christiani alla liberatione del Sepolcro di Cristo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18233",
+                            "RecordID": "022-000005217",
+                            "Value": "Confidati,Alfonso,,1609 - 1657"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A ... Luigi XIII. Esortandola a tentare l`impresa dell`Oriente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18233",
+                            "RecordID": "022-000005217",
+                            "Value": "Confidati,Alfonso,,1609 - 1657"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al gran Turco che chiamava in aiuto macone nell`incendio di Costantinopoli nell`anno 1633",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18233",
+                            "RecordID": "022-000005217",
+                            "Value": "Confidati,Alfonso,,1609 - 1657"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella promozione dell` Em. Card. Gessi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5012",
+                            "RecordID": "022-000000014",
+                            "Value": "Barbazza,Andrea,Count,1581/82-1656"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Partenza della S[ua] D[onna] nell`apparir dell`Aurora",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5012",
+                            "RecordID": "022-000000014",
+                            "Value": "Barbazza,Andrea,Count,1581/82-1656"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Visitando la sepoltura del Cavalier Marino",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5012",
+                            "RecordID": "022-000000014",
+                            "Value": "Barbazza,Andrea,Count,1581/82-1656"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Geloso pensiero",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5012",
+                            "RecordID": "022-000000014",
+                            "Value": "Barbazza,Andrea,Count,1581/82-1656"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel giorno della Santissima Resurrezione",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5012",
+                            "RecordID": "022-000000014",
+                            "Value": "Barbazza,Andrea,Count,1581/82-1656"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In lode di Monsignor Merlini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5012",
+                            "RecordID": "022-000000014",
+                            "Value": "Barbazza,Andrea,Count,1581/82-1656"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al ... Cardinal Maurizio di Savoia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5012",
+                            "RecordID": "022-000000014",
+                            "Value": "Barbazza,Andrea,Count,1581/82-1656"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per S. Gregorio che libero` molti popoli dall`eresia e Roma dalla peste",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15035",
+                            "RecordID": "022-000001077",
+                            "Value": "Bruni,Antonio,,1593-1635"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La varieta` delle cose umane. Al Conte Andrea Barbazza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15035",
+                            "RecordID": "022-000001077",
+                            "Value": "Bruni,Antonio,,1593-1635"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Chiede un usignuolo al padre maestro Fra Bonaventura Malvasia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15035",
+                            "RecordID": "022-000001077",
+                            "Value": "Bruni,Antonio,,1593-1635"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Perche` la Tramontana non asgghiaccia il Tevere",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18534",
+                            "RecordID": "022-000005573",
+                            "Value": "Tempestino,Anton Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si riprende il desiderio di vivere assai",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18534",
+                            "RecordID": "022-000005573",
+                            "Value": "Tempestino,Anton Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`otio nimico all`onesta`. Ode pindarica",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18534",
+                            "RecordID": "022-000005573",
+                            "Value": "Tempestino,Anton Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Fiori ritratti da bella donna e celebrati in versi dal signor Monterel. Canzonetta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18535",
+                            "RecordID": "022-000005574",
+                            "Value": "Monterel,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A S. Agnesa",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18536",
+                            "RecordID": "022-000005575",
+                            "Value": "Evangelista,Bernardo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Invita i signori Accademici fantastici a celebrare la morte di Cristo alludendo all`impresa dell`Accademia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18537",
+                            "RecordID": "022-000005576",
+                            "Value": "Malvasia,Bonaventura,,1598 - 1666"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Parallelo tra Hercole e Filippo II re di Spagna, nella rinuntia degli Stati fattagli da Carlo V",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18538",
+                            "RecordID": "022-000005577",
+                            "Value": "Benetti,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Contra li virtuosi non dura l`avversa fortuna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18538",
+                            "RecordID": "022-000005577",
+                            "Value": "Benetti,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Si risolve di non amare",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18538",
+                            "RecordID": "022-000005577",
+                            "Value": "Benetti,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il genio dell`autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18538",
+                            "RecordID": "022-000005577",
+                            "Value": "Benetti,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Che la poesia rende gli huomini immortali",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18538",
+                            "RecordID": "022-000005577",
+                            "Value": "Benetti,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Spera d`immortalare le bellezze della sua donna benche` ella nol curi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18538",
+                            "RecordID": "022-000005577",
+                            "Value": "Benetti,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sogno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18539",
+                            "RecordID": "022-000005578",
+                            "Value": "Rigogli,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In lode di musico illustre",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18539",
+                            "RecordID": "022-000005578",
+                            "Value": "Rigogli,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Bella mano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18539",
+                            "RecordID": "022-000005578",
+                            "Value": "Rigogli,Benedetto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel monacarsi della signora Aurelia Parisi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5624",
+                            "RecordID": "022-000000694",
+                            "Value": "Spada,Carlo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al card. Cesarini. Allude al cognome e all`Arma di Sua Eminenza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5624",
+                            "RecordID": "022-000000694",
+                            "Value": "Spada,Carlo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella morte e testamento di S. Gioseffo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5089",
+                            "RecordID": "022-000000086",
+                            "Value": "Achillini,Claudio,,1574 -1 640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A Guido Reni che stava in punto per fare il ritratto del Re di Francia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5089",
+                            "RecordID": "022-000000086",
+                            "Value": "Achillini,Claudio,,1574 -1 640"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Parole di San Francesco rinuntiando al padre l`eredita`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18540",
+                            "RecordID": "022-000005579",
+                            "Value": "Scoppa,Claudio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al padre Pietro baldelli Teatino predicando in S. Andrea della Valle",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18540",
+                            "RecordID": "022-000005579",
+                            "Value": "Scoppa,Claudio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`onore ravvivato. Canzone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18541",
+                            "RecordID": "022-000005580",
+                            "Value": "Tosi,Clemente,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Amor profano cangiato in celeste",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18424",
+                            "RecordID": "022-000005447",
+                            "Value": "Panimolle,Cesare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad un ebreo che si lavava le mani",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18424",
+                            "RecordID": "022-000005447",
+                            "Value": "Panimolle,Cesare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Giuda",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18565",
+                            "RecordID": "022-000005604",
+                            "Value": "Mazzei,Decio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Idea di belle lagrime. Alludesi al pianto dell`Ecc.ma signora Principessa di Tarsia mnella partita del Principe [Ferrante Spinelli] per gli Stati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la mossa d`armi e levata di gente fatta dal Conte di Monterei Vicere` di Napoli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A begl` occhi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Partenza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5105",
+                            "RecordID": "022-000000102",
+                            "Value": "Balducci,Francesco,,1579 - 1642"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Loda la perpetuita` del Bombice",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18542",
+                            "RecordID": "022-000005581",
+                            "Value": "Benetti,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sopra un`immagine di S. Caterina da Siena che teneva il core di Cristo in mezzo d`una corona di spine datale dal medesimo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18542",
+                            "RecordID": "022-000005581",
+                            "Value": "Benetti,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Argomenta contro la superbia del lavoro del Bombice",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18542",
+                            "RecordID": "022-000005581",
+                            "Value": "Benetti,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Loda l`industria del Bombice",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18542",
+                            "RecordID": "022-000005581",
+                            "Value": "Benetti,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Parole di Didone ad Enea che parte da lei",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18542",
+                            "RecordID": "022-000005581",
+                            "Value": "Benetti,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Descrive la rota del pavone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18542",
+                            "RecordID": "022-000005581",
+                            "Value": "Benetti,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dalla fabrica del mondo si convincono gli Atheisti. Canzone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18542",
+                            "RecordID": "022-000005581",
+                            "Value": "Benetti,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la primavera. Canzone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18542",
+                            "RecordID": "022-000005581",
+                            "Value": "Benetti,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Speranza fallace",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18437",
+                            "RecordID": "022-000005460",
+                            "Value": "Carducci,Francesco,,1610 - 1654"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lontananza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18437",
+                            "RecordID": "022-000005460",
+                            "Value": "Carducci,Francesco,,1610 - 1654"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Contro un rivale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18544",
+                            "RecordID": "022-000005583",
+                            "Value": "Massucci,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel di` natale del Ser.mo ... Card. di Savoia. Rinovato festivamente in Roma adi x Gen. 1636",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18544",
+                            "RecordID": "022-000005583",
+                            "Value": "Massucci,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sopra un cavallo ferrato d`oro cavalcato per Roma dall`Ecc.mo Duca di Crequi` amb.re straordianrio del Re Cristianissimo. Sonetto morale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18544",
+                            "RecordID": "022-000005583",
+                            "Value": "Massucci,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per una saetta caduta sul palazzo Vaticano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18544",
+                            "RecordID": "022-000005583",
+                            "Value": "Massucci,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la girandola di Castel S. Angelo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18544",
+                            "RecordID": "022-000005583",
+                            "Value": "Massucci,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. N. N. per un volume di cavallerizza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18544",
+                            "RecordID": "022-000005583",
+                            "Value": "Massucci,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al sig. Abbate Salzilli, filosofo e teologo celebre",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5183",
+                            "RecordID": "022-000000178",
+                            "Value": "Testi,Fulvio,Count,1593 - 1646"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In lode della madonna santissima",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18545",
+                            "RecordID": "022-000005584",
+                            "Value": "Marino,Gabriele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per li segni occorsi nella morte di Christo Nostro Signore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18545",
+                            "RecordID": "022-000005584",
+                            "Value": "Marino,Gabriele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Davidde",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18545",
+                            "RecordID": "022-000005584",
+                            "Value": "Marino,Gabriele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alli ss. Accademici fantastici invitandoli a farsi scorta le virtu` dell`Ecc.mo sig. Don Pietro Colonna",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18545",
+                            "RecordID": "022-000005584",
+                            "Value": "Marino,Gabriele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per l`invittissimo Re di Polonia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18545",
+                            "RecordID": "022-000005584",
+                            "Value": "Marino,Gabriele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per la Sig. Leonora Basile Musica celebre",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18545",
+                            "RecordID": "022-000005584",
+                            "Value": "Marino,Gabriele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per le piaghe del Redentore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18198",
+                            "RecordID": "022-000005178",
+                            "Value": "Guglielmi,Iacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "al signor Girolamo Preti in risposta del seguente sonetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18198",
+                            "RecordID": "022-000005178",
+                            "Value": "Guglielmi,Iacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Proposta del sig. Girolamo Preti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5171",
+                            "RecordID": "022-000000166",
+                            "Value": "Preti,Girolamo,,1582 - 1626"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per S. Lucia discepola di S. Domenico che si cavo` gli occhi di cui s`era invaghito profano amante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18546",
+                            "RecordID": "022-000005585",
+                            "Value": "Goffredi,Gio: Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Bella donna chiamata Alba",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18546",
+                            "RecordID": "022-000005585",
+                            "Value": "Goffredi,Gio: Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Chioma nera sciolta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18546",
+                            "RecordID": "022-000005585",
+                            "Value": "Goffredi,Gio: Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Parallelo tra un cieco e un amante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18546",
+                            "RecordID": "022-000005585",
+                            "Value": "Goffredi,Gio: Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All` Eminentiss. Sig. Card. Biscia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18547",
+                            "RecordID": "022-000005586",
+                            "Value": "Caroli,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al signor Leone Allacci",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18547",
+                            "RecordID": "022-000005586",
+                            "Value": "Caroli,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Mentre facea le scale sante",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18547",
+                            "RecordID": "022-000005586",
+                            "Value": "Caroli,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Riconoscendo la sua Donna mascherata ella arrossi`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18547",
+                            "RecordID": "022-000005586",
+                            "Value": "Caroli,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ritornando ritrova la sua donna accesa di novo amore. Canzone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18547",
+                            "RecordID": "022-000005586",
+                            "Value": "Caroli,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nella morte dell`Ecc.mo Principe Paolo Savelli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18547",
+                            "RecordID": "022-000005586"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`Eminentiss. Sig. Card. Cesarini",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18549",
+                            "RecordID": "022-000005588",
+                            "Value": "Piacenza,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "La liberta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18549",
+                            "RecordID": "022-000005588",
+                            "Value": "Piacenza,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In morte della signora Marta Marzani sua madre",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18549",
+                            "RecordID": "022-000005588",
+                            "Value": "Piacenza,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A bella donna dolendosi che per la sua crudelta` non puo` lodarla conforme desidera",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18549",
+                            "RecordID": "022-000005588"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Rassomiglia il suo stato ad una nuvola",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18549",
+                            "RecordID": "022-000005588",
+                            "Value": "Piacenza,Giovanni Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Per lo Serenissimo Carlo Emanuel Duca di Savoia; Al re .. Luigi XIII per una cometa apparita in Francia; In morte di Cristo; alla lancia di Cristo; Nella morte del cavalier battista Guarini; Al sole; Fucina amorosa; Foco amoroso; Bella fanciulla vestita a rosso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5149",
+                            "RecordID": "022-000000145",
+                            "Value": "Maia Materdona,Giovanni Francesco,,1590 - 1650"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla gioventu` desiderosa di guerra. Sonetto; Cortigiano che avea tralasciato di poetare. Sonetto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18550",
+                            "RecordID": "022-000005589",
+                            "Value": "de` Rossi,Giovanni Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Natale di Giesu` Cristo; Per la fortificazione del Castello di Sant`Angelo fatta da N. S. Papa Urbano VIII; Ai SS. Accademici Fantastici alludendo all`impresa dell`Accademia; A monsignor Carlo Perbenedetti per la memoria immortale dell`eminentissimo Signor Cardinal Mariano Perbenedetti suo zio; In lode dell`istesso monsignor Carlo Perbenedetti; A Roma perche` in tante volte che e` ruinata con la sua caduta non abbia cessato di correre anco il Tevere. Idea morale; Per la morte della signora contessa Caterina Canale moglie del Signor Conte Adriano Canale a richiesta del Sig. Alberto Fabri Ode; Al sig. Ottavioo Tronsarelli per il suo dramma intitolato La catena d`Adone; Adamore Per la signora Leonora Basile Musica celebre; Amore senza strali gioiello portato in petto da bella donna; Occhi neri di bella donna veduta di notte; A bella donna quale in tempo ch`era sdegnata portava agl`orecchi due comete d`oro per pendenti; Trecce finte che furono di giovane estinta usate da bella donna per maggior ornamento del capo; Deride la superbia di donna gia` bella invecchiata; A begli occhi; Silentio amoroso; Descrive i progressi del giorno; L`orologio; Alla regina santissima del rosario; Pentimento della Maddalena; Rimprovera al Demonio quelle parole dette a Cristo nel Deserto; Al santissimo sacramento dell`Eucarestia nell`atto di riceverlo alludendosi a quelle parole Ecce Agnus Dei; Per li sudori di sangue del redentor nostro Giesu Cristo Ode; La pieta` lagrimosa Ode; Giuda disperato; I delirii humani Canzone; Risponde ad un amico che gli chiedeva consiglio se doveva applicarsi alla servitu` di qualche corte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18551",
+                            "RecordID": "022-000005590",
+                            "Value": "Longo,Giovanni Martino,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "S`antepone la dignita` della poesia all`utile de gli altri studi; Al signor conte Fulvio Testi segretario di stato del Serenissimo di Modona; Che l`eta` nostra ha scrittori si` di verso come di prosa eguali agli Antichi; Si ricorda a bella Donna la fugacita` del Tempo; Per bella donna che scrisse all`amato col proprio sangue; Per una cagnuola mandata a Lucca in dono a bellissima dama; Amor pudico; Lilla anteposta all`Aurora; In lode di bella dama; Al signor Giacomo N.; Ricco mercante ucciso ind uello per volersi vendicar d`una parola ingiuriosa; La poesia trionfante; L`amante irresoluto canzone; Il maggio canzonetta; descrizione di valoroso e bellissimo cavaliere in giostra Ottave;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18552",
+                            "RecordID": "022-000005591",
+                            "Value": "Salzilli,Giovanni,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel Natale del Serenissimo Infante di Spagna; Per le feste notturne fatte nella citta` di catania per la nascita dell`istesso; in morte dell`Eccellentissimo signor Principe Savelli; Ritratto di bella donna; Bella rappezzatrice;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18553",
+                            "RecordID": "022-000005592",
+                            "Value": "Lamanna,Girolamo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "S. giuseppe va con Giesu in Egitto per fuggire l`ira di Herode",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18554",
+                            "RecordID": "022-000005593",
+                            "Value": "Garopoli,Girolamo,,1605? - 1678"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla Real Altezza del Serenissimo Duca di Savoia nel buon capo d`Anno; Al Serenissimo Principe Card. di Savoia per la sua dipartita da Roma; Al medesimo esortandolo al ritorno; Al medesimo nel suo ritorno a Roma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18197",
+                            "RecordID": "022-000005177",
+                            "Value": "Valentino,Giulio Cesare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla maesta` del Re cristianissimo ne` presenti motivi di guerra; Al glorioso Santo Antonio da Padova; All`eminentissimo sig. Card. Ginetti per la sua legatione a stabilire la pace; al padre maestro Cornelio d`Aragona Sanseverino Teologo Min. Convent. Per uan sua predica sopra l`humilta`;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18555",
+                            "RecordID": "022-000005594",
+                            "Value": "Ferretti,(Father) Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "all`eminentissimo signor Card. Ginetti per la sua Legatione; Al signor Ottavio Tronsarelli per li suoi poemi eroici Il Constantino e la Vittoria navale; Bella donna cieca d`un occhio; Danna l`amor profano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18556",
+                            "RecordID": "022-000005595",
+                            "Value": "Prosperi,Lodovico,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Che nonostante il mal tempo ritrovandosi per mare andera` quel giorno a vedere la sua donna; Bella donna piagnente; Per una lettera ricevuta dalla sua donna; Per la sua donna che non teme l`alteratione del Tevere; Bella donna per il suo amante che andava alla guerra; A cavallo di bella donna; davide sdegnato con Nabal e` placato da Abigail sua moglie; Nel giorno di Natale; Alli ss. Accademici Fantastici nell`essere aggregato nell`Accademia; Al signor Giovan Martino Longo; Risposta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18557",
+                            "RecordID": "022-000005596",
+                            "Value": "Picarelli,Marco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A begli occhi; A begl`occhi glauci; a begl`occhi bianchi di color argento; Bella mano; A bella chioma; Bella donna per bellissimo vago sommerso in mare; Bella cieca d`un occhio; Fu bagnato da una fenestra dalla sua donna; Bella donna filava con conocchia di canna; A bella vaga nel chiedere un lume sul venir della notte; A bella donna c`ha il volto macchiato a macchie rosse; Per un cintiglio a corona d`oro e di gemme nel crine della sua donna; Il pallone; A S. Luca; A s. Tomaso d`Aquino alludendo al Sole che se gli figura in petto; A S. Lorenzo; A S. Lucia discepola di S. Domenico; che si cavo` gli occhi di cui s`era invaghito profano amante;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18558",
+                            "RecordID": "022-000005597",
+                            "Value": "Lunghi,Martino (The Younger),,1602 - 1660"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sur les tableux de fleurs de mad. A. D. B.; La ressemblence sonnet a Monsieur Le comte de la Monta; Pour la Seignora Leonora Basile;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18535",
+                            "RecordID": "022-000005574",
+                            "Value": "Monterel,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al signor Francesco Massucci per un suo discorso sopra la guerra; Al medesimo oppresso di febre",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18354",
+                            "RecordID": "022-000005371",
+                            "Value": "Ricci,Neupolione,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Christo in croce; Alla croce; Gl`innocenti; Per la decollatione del S. Gio. Battista; Bellisario; Il pianto di Xerse; Donna crudele; Ausonius",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18199",
+                            "RecordID": "022-000005179",
+                            "Value": "Strozzi,Niccolo`,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sopra un gobbo innamorato; Bella donna che diceva d`essere il Sole;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18559",
+                            "RecordID": "022-000005598",
+                            "Value": "Cittadonio,Paolo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alla S.ta` di N. Signore Per l`occasione della prima pietra gettata da S. B. per la fabrica del nuovo Convento de` Padri Cappuccini; Per l`epitafio dell`ecc.sig. Prencipe Savello; Patisce di mal di pietra;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18200",
+                            "RecordID": "022-000005180",
+                            "Value": "Paoli,Pierfrancesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A Dorina che cerco` d`esser lodata da lui; Per la grandezza de` meriti della sua donna; Pentimento pietoso;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15122",
+                            "RecordID": "022-000001163",
+                            "Value": "Michiele,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Bella donna dona al suo vago un anello ove per gemma e` una morte; Lascia l`amor profano; Alla santissima croce;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18560",
+                            "RecordID": "022-000005599",
+                            "Value": "Pannini,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Nel dottorato del Signor Carlo Emanuele Vizzani; In lode della signora marchesa Dorotea Mattei; Bella donna in atto d`intrecciarsi; Amante fedele nel suo ritorno espone alla sua donna la sua costanza in amore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18431",
+                            "RecordID": "022-000005454",
+                            "Value": "Santa Croce,Scipione,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Parallelo tra la bellezza della sua donna e l`amor suo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16920",
+                            "RecordID": "022-000003697",
+                            "Value": "Marini,Stefano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Infelicita` della vita humana; Bella donna che navigando in mar turbato temea di sommergersi; Contro l`inventore della polvere; Contro amore; Accidente notturno; Cielo artificioso d`Archimede; Sopra un oriuolo a polvere; Si persuade il disprezzo dell`humane grandezze; Amante vagheggia bella donna nello Specchio; S`allude al detto Hoc tantum scio quod nihil scio; Bella donna che recita in abito di schiavo; Bella mora; Chioma sciolta; Alla fortuna; In persona di Xenocrate; Amante mentre dorme la sua donna le ruba parte de` crini; Invito alla villa; Desidera la serenita` per potere piu` felicemente poetare; Il genio; Nel Natale di Madama Serenissima Duchessa di Savoia; Che l`avidita` dell`oro e` primiera cagione dell`incostanza in Amore Canzone; L`amor pudico Canzone; In lode di Christofaro Colombo Canzone;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17720",
+                            "RecordID": "022-000004616",
+                            "Value": "Cevoli,Tiberio,,d.1685"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Al cavalier Piccolomini guerriero contra gli Infideli; In morte del Sig. Andrea Salvadori poeta di compositioni sacre; Per bella donna che ricamava la vittoria del Re Carlo contro `l Re Agramante; Il dipregio terreno Canzone al sig. Ottavio Tronsarelli",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18561",
+                            "RecordID": "022-000005600",
+                            "Value": "Savarelli,Vincenzo Maria,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Bella cantatrice; Bella donna che dipinge",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18562",
+                            "RecordID": "022-000005601",
+                            "Value": "Patriarchi ,Virginio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Che si deve fuggire l`humana bellezza; L`huomo superbo; l`huomo avaro; L`huomo virtuoso non apprezza le dignita` del secolo; Essorta gl`amanti a fuggire Amore; Fragilita` della vita humana; La terrena bellezza non e` scala al cielo; In persona d`un suo amico contro un pensiero di vendetta che anco nel sogno l`affliggeva; Sopra le piaghe di nostro signore Gesu Cristo; Sopra una bellissima carcerata per ladra; In morte della signora Caterina Vandini Bellissima e nobile fanciulla; Ad un amico che amando non potea dormire ne` aver pace; Al signor Giovan martino Longo; Risposta;",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18563",
+                            "RecordID": "022-000005602",
+                            "Value": "Venturelli,Vittorio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Canzone",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18564",
+                            "RecordID": "022-000005603",
+                            "Value": "Vellori,Viviano,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

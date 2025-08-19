@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001422",
+        "WorkId": "00150",
+        "ShortTitle": "Academicarum Exercitationum Liber Primus",
+        "LongTitle": "Sive De Attractione. Auctore Ioanne Baptista Masullo Medico Philosopho Neapolitano et Academico Otioso. Ad Illustrissimum et Excellentissimum Dom. D. Marinum Caracciolum Abellini Principem et c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1622",
+        "DedicationPlaceDate": "Naples 1622",
+        "Shelfmark": "537.c.11.",
+        "Subjects": "Academic Speeches",
+        "Language": "Latin",
+        "Pagination": "pp. 204. Index pagination missing",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15024",
+                "RecordID": "022-000001066",
+                "Value": "Masulli,Ioannis Baptistae,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15189",
+                    "RecordID": "022-000001231",
+                    "Value": "Tastius,Laelius,,"
+                },
+                {
+                    "PersonId": "15190",
+                    "RecordID": "022-000001232",
+                    "Value": "Caracciolus,Antonius,,"
+                },
+                {
+                    "PersonId": "15191",
+                    "RecordID": "022-000001233",
+                    "Value": "Tarusius,Tarusius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. Lelius Tastius Vicarius Generalis.\nHas Academicas Exercitationes ornatissimi Viri Ioannis Baptistae Masulli et nihil Catholicae Fidei dissentaneum continere et ob egregiam eruditionem praelo dignissimas esse censeo. Dat. Neapoli viiij. Idus April. 1622.\nAntonius Caracciolus Cler. Regul. Deput. Tarusius Tarusius Congreg. Orat. Deput.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15031",
+                "RecordID": "022-000001073",
+                "Value": "Caracciolo,Francesco Marino,Prince,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52866",
+            "Value": "023-000001422_52866_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

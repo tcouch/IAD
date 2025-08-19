@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5295",
+        "RecordId": "022-000000343",
+        "Surname": "Dempster",
+        "Forename": "Thomas",
+        "Gender": "Male",
+        "PersonalTitle": "Baron",
+        "DateText": "c.1579-1625",
+        "StartDate": "c.1579",
+        "EndDate": "1625",
+        "Nationality": {
+            "NationalityId": "62",
+            "Value": "Scottish"
+        },
+        "Notes": "Reader of Pandette at the University of Pisa, he also taught in Padua and Bologna. First Etruscologist of modern times, the Linceo Demisiani proposed his affiliation to Federico Cesi in 1618, but there is no proof he was admitted.",
+        "Role": "Dedicatee|Contributor|Author",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19651",
+        "RecordId": "022-000007010",
+        "Surname": "Vieyra",
+        "Forename": "Antonio",
+        "DateText": "1608 - 1697",
+        "StartDate": "1608",
+        "EndDate": "1697",
+        "Nationality": {
+            "NationalityId": "69",
+            "Value": "Portuguese"
+        },
+        "Notes": "Jesuit. Joined the Accademia di Cristina di Svezia in 1674",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

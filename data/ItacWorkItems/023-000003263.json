@@ -1,0 +1,67 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003263",
+        "WorkId": "000437",
+        "ShortTitle": "Le Rime di Galeazzo Di Tarsia Cosentino, Baron Di Belmonte",
+        "LongTitle": "Raccolte dal Cavalier Giovambattista Basile, nell`Accademia degli Oziosi detto il Pigro; e con ogni diligenza ristampate",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1759",
+        "DedicationPlaceDate": "7 October 1737",
+        "Shelfmark": "RB.23.a.22108.",
+        "Subjects": "Poetry|Critical edition",
+        "Language": "Italian",
+        "Pagination": "pp. 33",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16552",
+                "RecordID": "022-000003264",
+                "Value": "Di Tarsia,Galeazzo,Baron of Belmonte,1520 ?- 1553"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16554",
+                "RecordID": "022-000003267",
+                "Value": "Trombelli,Giovanni Crisostomo,Abbot of Santa Maria di Reno,1697 - 1784"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15002",
+                    "RecordID": "022-000001044",
+                    "Value": "Basile,Giovan Battista,Count of Torone,1575-1632"
+                },
+                {
+                    "PersonId": "16553",
+                    "RecordID": "022-000003265",
+                    "Value": "Seghezzi ,Anton Federigo,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16555",
+                "RecordID": "022-000003268",
+                "Value": "Remondini,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53148",
+            "Value": "023-000003263_53148_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

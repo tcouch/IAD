@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20760",
+        "RecordId": "022-000008586",
+        "Surname": "Gelido",
+        "Forename": "Pietro",
+        "Pseudonym": "Il Pero",
+        "DateText": "1495/96-before1570",
+        "StartDate": "1495/96",
+        "EndDate": "before1570",
+        "Nationality": {
+            "NationalityId": "406",
+            "Value": "of San Miniato al Tedesco (Pisa)"
+        },
+        "Notes": "See his biography by Guido dall`Olio in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

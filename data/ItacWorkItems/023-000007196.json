@@ -1,0 +1,34 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007196",
+        "WorkId": "000813",
+        "ShortTitle": "Titoli delle opere",
+        "LongTitle": "Di varie materie, in idioma diversi composte, e stampate. Dall`anno 1704 dal P. M. Coronelli, generale LXXVIII dopo il padre San Francesco di tutto l`ordine suo serafico de` Minori Convent. Pubblicate Dall`Accademia degli Argonauti. In Agiunta dell`Indice, gia` dato in luce in Roma dal S. Abbate Giacinto Gimma delle altre opere precedentemente pubblicate dallo stesso Autore; che in tutte summano tomi centotrentasette la magigor parte in Foglio, e tredici in Foglio Imperiale. Arricchite di piu` di quattro mille figure in rame, ed in ottone.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0143",
+                "RecordID": "021-000006183",
+                "Value": "Accademia degli Argonauti"
+            },
+            {
+                "AcademyId": "0143",
+                "RecordID": "021-000006183",
+                "Value": "Accademia degli Argonauti (Venezia)"
+            }
+        ],
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1708",
+        "Shelfmark": "Cup403l13",
+        "Subjects": "Bibliography",
+        "Language": "Italian",
+        "Pagination": "[8] 108 [10]",
+        "Marginalia": "No",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

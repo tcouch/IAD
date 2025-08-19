@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9214",
+        "RecordId": "022-000001511",
+        "Surname": "Sozzini",
+        "Forename": "Celso",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Soccini"
+            },
+            {
+                "AlternativeSurname": "Socinus"
+            }
+        ],
+        "DateText": "1517-1570",
+        "StartDate": "1517",
+        "EndDate": "1570",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "According to Vianello he was member of the Infiammati Academy.",
+        "Role": null,
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

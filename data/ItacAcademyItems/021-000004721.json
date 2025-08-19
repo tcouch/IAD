@@ -1,0 +1,196 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0093",
+        "RecordId": "021-000004721",
+        "Name": "Medinaceli (Accademia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1698",
+        "EndDate": "?",
+        "DateText": "1698-?",
+        "Notes": "This Academy is also known as Accademia del Real Palazzo. For a study on the Medinaceli Academy see Giuseppe Ricuperati, A proposito dell`accademia Medina Coeli, Rivista Storica Italiana, 84, 1972, pp. 57-79.\nFor a detailed account of speeches delivered at the Medinaceli Academy see Michele Rak, Lezioni di scienze, di letteratura e d`arte dell`Accademia del duca di Medinaceli, Napoli, Istituto Italiano per gli Studi Storici, 2000-2003, 5 vols.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17812",
+                "RecordId": "022-000004720",
+                "Name": "de la Cerda y Aragon,Luis Francisco,Duke of Medinaceli|viceroy of Naples,1654 - 1711",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17783",
+                "RecordId": "022-000004689",
+                "Name": "Maiello ,Carlo,Archbishop of Emesena,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17813",
+                "RecordId": "022-000004722",
+                "Name": "Vico,Giambattista ,,1668 - 1744",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17814",
+                "RecordId": "022-000004723",
+                "Name": "Pappacoda ,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17815",
+                "RecordId": "022-000004724",
+                "Name": "Caravita,Nicol\u00f2,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16146",
+                "RecordId": "022-000002759",
+                "Name": "Porzio,Luca Antonio,,1639 - 1724",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16925",
+                "RecordId": "022-000003703",
+                "Name": "Caracciolo ,Carmine Nicol\u00f2,Duke|Prince of Santobuono,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17816",
+                "RecordId": "022-000004725",
+                "Name": "D`Aquino,Tommaso,Prince of Feloreto,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17817",
+                "RecordId": "022-000004726",
+                "Name": "Doria ,Paolino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17818",
+                "RecordId": "022-000004727",
+                "Name": "Anastagio,Pietro,Bishop of Sorrento,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17356",
+                "RecordId": "022-000004190",
+                "Name": "Caloprese,Gregorio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17819",
+                "RecordId": "022-000004728",
+                "Name": "Messere,Gregorio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17820",
+                "RecordId": "022-000004729",
+                "Name": "Lucina,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15192",
+                "RecordId": "022-000001234",
+                "Name": "Valletta,Giuseppe,,1636 - 1714",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17821",
+                "RecordId": "022-000004730",
+                "Name": "Galisio,Nicol\u00f2,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17822",
+                "RecordId": "022-000004731",
+                "Name": "Sersale,Nicola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17823",
+                "RecordId": "022-000004732",
+                "Name": "Donzelli,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17824",
+                "RecordId": "022-000004733",
+                "Name": "Arriano,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17825",
+                "RecordId": "022-000004734",
+                "Name": "Santoro,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17826",
+                "RecordId": "022-000004735",
+                "Name": "Ciccatelli,Emmanuele,Bishop of Avellino,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17827",
+                "RecordId": "022-000004736",
+                "Name": "Monforte,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17828",
+                "RecordId": "022-000004737",
+                "Name": "Rossi,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5022",
+        "RecordId": "022-000000024",
+        "Surname": "Montalbani",
+        "Forename": "Ovidio",
+        "AlternativeName": {
+            "AlternativeSurname": "Montalbanus",
+            "AlternativeForename": "Ovidius"
+        },
+        "Pseudonym": "Giovanni Antonio Bumaldi | Joannes Antonius Bumaldus",
+        "DateText": "1601 - 1671",
+        "StartDate": "1601",
+        "EndDate": "1671",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "According to Fantuzzi, he was the founder of the Accademia dei Vespertini. Montalbani is said to be co-academician in the introduction of `La quadriga del Sole` (Accademia degli Indomiti). In Cefalogia fisonomica (1630), he signs sonnet at p. 78 as `Intrepido Ac. Della Notte`.",
+        "Role": "Author|Censor|Contributor|Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

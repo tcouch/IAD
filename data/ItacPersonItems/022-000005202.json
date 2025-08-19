@@ -1,0 +1,26 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18220",
+        "RecordId": "022-000005202",
+        "Surname": "Balsamo",
+        "Forename": "Giuseppe",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Balsamo",
+                "AlternativeForename": "Gioseppe"
+            },
+            {
+                "AlternativeSurname": "Balsamo e Viperano",
+                "AlternativeForename": "Giuseppe"
+            }
+        ],
+        "PersonalTitle": "Senator of Messina|Baron of Cattafi",
+        "Nationality": {
+            "NationalityId": "140",
+            "Value": "Sicilian"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15987",
+        "RecordId": "022-000002551",
+        "Surname": "Borromeo",
+        "Forename": "Trajano Filippo",
+        "Gender": "Male",
+        "DateText": "?-1737",
+        "StartDate": "?",
+        "EndDate": "1737",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Canon of the cathedral in Padua, Borromeo joined the Ricovrati in 1684.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

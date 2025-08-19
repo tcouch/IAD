@@ -1,0 +1,64 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006943",
+        "WorkId": "000808",
+        "ShortTitle": "Congressus medicus-romanus",
+        "LongTitle": "Habitus in aedibus D. Hieronymi Brasavoli die Lunae 21 Septembris 1682.",
+        "ItacAcademyItem": {
+            "AcademyId": "0257",
+            "RecordID": "021-000006906",
+            "Value": "Accademia Medica"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1682",
+        "Shelfmark": "1172g15(1)",
+        "Language": "Latin",
+        "Pagination": "47",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "19587",
+                "RecordID": "022-000006908",
+                "Value": "Lancisi,Giovanni Maria,,1654 - 1720"
+            }
+        },
+        "Notes": "Cesaretti and Dragondelli were the two printers of this volume",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17879",
+                    "RecordID": "022-000004800",
+                    "Value": "de Angelis,Giacomo,Cardinal|Archbishop of Urbino,1610 - 1695"
+                },
+                {
+                    "PersonId": "19501",
+                    "RecordID": "022-000006730",
+                    "Value": "Puteobonelli,Domenico Maria,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, si videbitur Reverendiss. Patri Magistro Sac. Pal. Apost. I de Ang. Archiep. Urb. Vicesg. Imprimatur, Fr. Dominicus Maria Puteobonellus Ordinis Praedic. Sac. Pal. Apost. Mag.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19594",
+                "RecordID": "022-000006946",
+                "Value": "Cesaretti,Felice,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54872",
+            "Value": "023-000006943_54872_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54873",
+            "Value": "023-000006943_54873_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19718",
+        "RecordId": "022-000007091",
+        "Surname": "Spinola",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Giambattista"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1615 - 1704",
+        "StartDate": "1615",
+        "EndDate": "1704",
+        "Nationality": {
+            "NationalityId": "100",
+            "Value": "Genoese"
+        },
+        "Notes": "Born in Madrid, in an illustrious Genoese family",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

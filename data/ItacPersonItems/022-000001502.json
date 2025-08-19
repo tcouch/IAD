@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9205",
+        "RecordId": "022-000001502",
+        "Surname": "Piccolomini",
+        "Forename": "Alessandro",
+        "PersonalTitle": "Archbishop of Patrasso",
+        "DateText": "1508 - 1578",
+        "StartDate": "1508",
+        "EndDate": "1578",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Role": "Author|Contributor",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

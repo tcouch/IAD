@@ -1,0 +1,79 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002710",
+        "WorkId": "000343",
+        "ShortTitle": "La maschera iatropolitica, overo cervello e cuore principi rivali",
+        "LongTitle": "Aspiranti alla monarchia del Microcosmo. Giuoco serio di Eureta Misoscolo. all`illustrissimo et eccellentissimo signor Girolamo Cornaro cavaliero e procuratore di San Marco",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Incogniti (Accademia degli) - Venezia"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1627",
+        "DedicationPlaceDate": "Venetia 20 dicembre 1626",
+        "Shelfmark": "1080k9(6)",
+        "Language": "Italian",
+        "Pagination": "73 [2]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20107",
+                "RecordID": "022-000007609",
+                "Value": "Pona,Francesco,,1594-1655"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20427",
+                "RecordID": "022-000008149",
+                "Value": "Biemma,G,,"
+            }
+        },
+        "Notes": "This edition does not contain the introduction signed `Assicurato Accademico Incognito` that apparently is present in other copies. See Cannizzaro (2001). The dedication is signed by Marco Ginammi.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20426",
+                "RecordID": "022-000008148",
+                "Value": "Corner,Girolamo,Procurator,1562-1634"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "20425",
+                "RecordID": "022-000008147",
+                "Value": "Ginammi,Marco,,1590-after1654"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20425",
+                "RecordID": "022-000008147",
+                "Value": "Ginammi,Marco,,1590-after1654"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55287",
+            "Value": "023-000002710_55287_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Al molto illustre ... sig. Francesco Pona [sonnet]: Scopre al Mondo maggiore il picciol Mondo",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20427",
+                        "RecordID": "022-000008149",
+                        "Value": "Biemma,G,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

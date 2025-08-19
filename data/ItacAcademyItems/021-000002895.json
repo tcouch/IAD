@@ -1,0 +1,150 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0049",
+        "RecordId": "021-000002895",
+        "Name": "Accesi-Siena (Accademia degli)",
+        "City": {
+            "CityId": "4",
+            "CityItalianName": "Siena",
+            "CityEnglishName": "Siena",
+            "CityLatinName": "Senae"
+        },
+        "EmblemDescription": "Burning pine-cone",
+        "Motto": "Hinc odor et fructus",
+        "StartDate": "1558",
+        "EndDate": "1603",
+        "DateText": "1558-1603",
+        "Notes": "Date of the creation of the Academy is in Laura Ricco`, La miniera accademica (2002). On the history, activities, and publications (both in manuscript and printed) of the Sienese Accesi, see Ricco` 1989.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16248",
+                "RecordId": "022-000002896",
+                "Name": "Bargagli,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16250",
+                "RecordId": "022-000002898",
+                "Name": "Politi,Adriano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16252",
+                "RecordId": "022-000002900",
+                "Name": "Turamini,Virginio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16255",
+                "RecordId": "022-000002903",
+                "Name": "Landi,Bernardino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16230",
+                "RecordId": "022-000002870",
+                "Name": "Lenzi,Lorenzo,,1517 -",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16256",
+                "RecordId": "022-000002904",
+                "Name": "Spannocchi,Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16257",
+                "RecordId": "022-000002905",
+                "Name": "Figliucci,Flavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16258",
+                "RecordId": "022-000002906",
+                "Name": "Belanti,Evandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16259",
+                "RecordId": "022-000002907",
+                "Name": "Forteguerri,Niccolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16260",
+                "RecordId": "022-000002908",
+                "Name": "Forteguerri,Ippolito,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16261",
+                "RecordId": "022-000002909",
+                "Name": "Forteguerri,Ottaviano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16376",
+                "RecordId": "022-000003042",
+                "Name": "Bulgarini,Belisario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20747",
+                "RecordId": "022-000008573",
+                "Name": "Petrucci,Pandolfo (il giovane),,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20748",
+                "RecordId": "022-000008574",
+                "Name": "Squarci,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20750",
+                "RecordId": "022-000008576",
+                "Name": "Sozzini,Dario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20400",
+                "RecordId": "022-000008122",
+                "Name": "Spanocchi,Fulvia,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

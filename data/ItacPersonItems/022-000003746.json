@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16956",
+        "RecordId": "022-000003746",
+        "Surname": "Perrenot de Granvelle",
+        "Forename": "Antoine",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Perenotum Granvelanum",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeForename": "Antonium"
+            }
+        ],
+        "PersonalTitle": "Cardinal|Bishop of Arras (Atrebatensis)",
+        "DateText": "1517-1586",
+        "StartDate": "1517",
+        "EndDate": "1586",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

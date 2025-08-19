@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20701",
+        "RecordId": "022-000008513",
+        "Surname": "Cybo",
+        "Forename": "Alderano",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Cibo",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Marquis of Carrara",
+        "DateText": "1552-1606",
+        "StartDate": "1552",
+        "EndDate": "1606",
+        "Nationality": {
+            "NationalityId": "402",
+            "Value": "of Massa"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

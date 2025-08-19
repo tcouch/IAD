@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17201",
+        "RecordId": "022-000004012",
+        "Surname": "D`Aragona",
+        "Forename": "Pietro Antonio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "de Arag\u00f3n",
+            "AlternativeForename": "Pedro Antonio"
+        },
+        "PersonalTitle": "Duke of Segorbe and Cardona|viceroy of Naples",
+        "DateText": "1611-1690",
+        "StartDate": "1611",
+        "EndDate": "1690",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0041",
+        "RecordId": "021-000002728",
+        "Name": "Apatisti (Accademia degli)",
+        "City": {
+            "CityId": "39",
+            "CityItalianName": "Firenze",
+            "CityEnglishName": "Florence",
+            "CityLatinName": "Florentiae"
+        },
+        "ItacPersonItem": [
+            {
+                "PersonId": "5190",
+                "RecordId": "022-000000184",
+                "Name": "Zabarella,Giacomo,Count (The Younger),fl.1646 - 1674",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5152",
+                "RecordId": "022-000000147",
+                "Name": "Manzini,Carlo Antonio,Count,fl. 1624 - \u20201677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5022",
+                "RecordId": "022-000000024",
+                "Name": "Montalbani,Ovidio,,1601 - 1671",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15165",
+                "RecordId": "022-000001207",
+                "Name": "Legati,Lorenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5272",
+                "RecordId": "022-000000262",
+                "Name": "Trincherij,Andreae,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18906",
+                "RecordId": "022-000006001",
+                "Name": "Cartari,Carlo,,1614 - 1697",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18720",
+                "RecordId": "022-000005785",
+                "Name": "Mandosio,Prospero,,1643 - 1724",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19136",
+                "RecordId": "022-000006273",
+                "Name": "Pandolfini,Filippo,,1575 - 1655",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19466",
+                "RecordId": "022-000006685",
+                "Name": "Lolli,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19560",
+                "RecordId": "022-000006841",
+                "Name": "Lanzoni,Giuseppe,,1663 - 1730",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20018",
+                "RecordId": "022-000007500",
+                "Name": "Pennignis,Nassaulus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20614",
+                "RecordId": "022-000008399",
+                "Name": "Marchetti,Alessandro,,1633-1714",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

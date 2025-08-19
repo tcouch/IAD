@@ -1,0 +1,43 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004661",
+        "WorkId": "000584",
+        "ShortTitle": "Vita Del Cavaliere Marino",
+        "LongTitle": "descritta dal Signor Francesco Chiaro suo nipote",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1632",
+        "Shelfmark": "11426.b.71.(2.)",
+        "Content": "Biography of Giovan Battista Marino",
+        "Subjects": "Biography",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 64",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17760",
+                "RecordID": "022-000004660",
+                "Value": "Chiaro,Francesco,,"
+            }
+        },
+        "Notes": "On p. 40 the author mentions Marino`s affiliation to the Oziosi Academy in Naples.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15221",
+                "RecordID": "022-000001263",
+                "Value": "Beltrano,Ottavio,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

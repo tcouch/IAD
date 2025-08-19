@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19246",
+        "RecordId": "022-000006427",
+        "Surname": "Kepler",
+        "Forename": "Johan",
+        "DateText": "1571-1630",
+        "StartDate": "1571",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Foreign correspondent.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5310",
+        "RecordId": "022-000000361",
+        "Surname": "d`Este",
+        "Forename": "Francesco I",
+        "PersonalTitle": "Duke of Modena",
+        "DateText": "1610-1658",
+        "StartDate": "1610",
+        "EndDate": "1658",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Role": "Dedicatee",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

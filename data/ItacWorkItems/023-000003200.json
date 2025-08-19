@@ -1,0 +1,61 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003200",
+        "WorkId": "000414",
+        "ShortTitle": "L`Hortensio Comedia de gl` academici intronati",
+        "LongTitle": "Rapresentata in Siena alla presenza del Sereniss. Gran duca di Toscana il di 26 di Gennaio 1560. quando visito` la prima volta quella citta`.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1571",
+        "DedicationPlaceDate": "Siena 15 September 1571",
+        "Shelfmark": "11715.b.8|638.c.14.(1.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "180",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Notes": "Con licenza de` superiori e privilegio di S. Altezza Serenissima, per tutto il suo felicissimo stato. In Siena per Luca Bonetti stampatore de Signori Dottori Legisti.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7108",
+                "RecordID": "022-000000838",
+                "Value": "de` Medici,Cosimo I,Grand Duke,1519 - 1574"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,? - ca 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53392",
+            "Value": "023-000003200_53392_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16582",
+        "RecordId": "022-000003300",
+        "Surname": "Schelhammer",
+        "Forename": "G\u00fcnther Christoph",
+        "DateText": "1649 - 1716",
+        "StartDate": "1649",
+        "EndDate": "1716",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "Joined the Ricovrati in 1679. Member of the Accademia Leopoldina dei curiosi della natura.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

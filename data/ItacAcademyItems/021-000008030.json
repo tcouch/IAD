@@ -1,0 +1,21 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0498",
+        "RecordId": "021-000008030",
+        "Name": "Cosentina (Accademia)",
+        "City": {
+            "CityId": "121",
+            "CityItalianName": "Cosenza",
+            "CityEnglishName": "Cosenza"
+        },
+        "ItacPersonItem": {
+            "PersonId": "16315",
+            "RecordId": "022-000002968",
+            "Name": "della Valle,Lucrezia,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

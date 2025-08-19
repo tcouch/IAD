@@ -1,0 +1,106 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007770",
+        "WorkId": "000869",
+        "ShortTitle": "Helenae Lucretiae (quae & scholastica) Corneliae Piscopiae",
+        "LongTitle": "Virginis Pietate, et Eruditione admirabilis; Ordini D. Benedicti priuatis votis adscriptae Opera quae quidem haberi potuerunt. Serenissimae Dominae D. Victoriae Mediceae Magnae Duci dicata",
+        "ItacAcademyItem": {
+            "AcademyId": "0366",
+            "RecordID": "021-000007379",
+            "Value": "Accademia dei Pacifici (Venezia)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "36",
+            "PublicationPlaceItalianName": "Parma",
+            "PublicationPlaceEnglishName": "Parma",
+            "PublicationPlaceLatinName": "Parmae"
+        },
+        "PublicationYear": "1688",
+        "DedicationPlaceDate": "Parmae 28 Martij 1688",
+        "Shelfmark": "4405f55",
+        "Subjects": "Bibliography|Academic discourse",
+        "Language": "Italian|Latin|Greek",
+        "Pagination": "[16] 310",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9140",
+                "RecordID": "022-000001619",
+                "Value": "Corner,Elena Lucrezia,,1646-1684"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "9140",
+                "RecordID": "022-000001619",
+                "Value": "Corner,Elena Lucrezia,,1646-1684"
+            }
+        },
+        "Notes": "After her death, Elena Lucrezia`s family commissioned the book to Bacchini; the introduction is a summary by Bacchini of the author`s life written by M. Deza in 1686. See Bacchini`s biography in DBI.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20220",
+                "RecordID": "022-000007771",
+                "Value": "della Rovere Medici,Vittoria,Grand Duchess of Tuscany,1621-?"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19111",
+                "RecordID": "022-000006245",
+                "Value": "Bacchini,Benedetto,,1651-1721"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20221",
+                "RecordID": "022-000007772",
+                "Value": "Rosati,Ippolito,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55038",
+            "Value": "023-000007770_55038_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55039",
+            "Value": "023-000007770_55039_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Discorso primo in lode della Serenissima Repubblica e citta' di Venezia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9140",
+                            "RecordID": "022-000001619",
+                            "Value": "Corner,Elena Lucrezia,,1646-1684"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso secondo. Introduzione ad un problema politico. Nell'occasione del Principato Accademico di Lucretia Cornara",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9140",
+                            "RecordID": "022-000001619",
+                            "Value": "Corner,Elena Lucrezia,,1646-1684"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso terzo. Introduttione ad altro problema politico",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9140",
+                            "RecordID": "022-000001619",
+                            "Value": "Corner,Elena Lucrezia,,1646-1684"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

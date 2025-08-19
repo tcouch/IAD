@@ -1,0 +1,54 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005921",
+        "WorkId": "000703",
+        "ShortTitle": "Ersilia",
+        "LongTitle": "Comedia del signor Vergilio Verucci . Dottor di legge, et Academico Intricato di Roma. All`illustrissimo Signor marchese Giovanni Theodoli Conte di Vallinfreda.",
+        "ItacAcademyItem": {
+            "AcademyId": "0134",
+            "RecordID": "021-000005917",
+            "Value": "Accademia degli Intricati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1625",
+        "DedicationPlaceDate": "Rome 25 August 1610",
+        "Shelfmark": "11715aa58",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "68",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18843",
+                "RecordID": "022-000005920",
+                "Value": "Verucci,Virgilio,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18845",
+                "RecordID": "022-000005923",
+                "Value": "Theodoli,Giovanni,Count of Vallinfreda|Marquis,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18844",
+                "RecordID": "022-000005922",
+                "Value": "Usci,Domenico e Pietro,,"
+            }
+        },
+        "PrinterOrnament": "Q52 Z974",
+        "TitlePageImage": {
+            "ImageId": "54500",
+            "Value": "023-000005921_54500_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

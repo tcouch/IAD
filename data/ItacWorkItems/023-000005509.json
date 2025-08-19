@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005509",
+        "WorkId": "000667",
+        "ShortTitle": "La secchia rapita",
+        "LongTitle": "poema eroicomico e `l primo canto dell`Oceano del Tassone",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "12\u00b0",
+        "PublicationYear": "1624",
+        "DedicationPlaceDate": "Roma 20 September 1624",
+        "Shelfmark": "G10358",
+        "Subjects": "Heroi-comic",
+        "Language": "Italian",
+        "Pagination": "167",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18164",
+                "RecordID": "022-000005132",
+                "Value": "Tassoni,Alessandro ,,1565 - 1635"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "18485",
+                "RecordID": "022-000005510",
+                "Value": "Brugiotti,Giovanni Battista,,fl.1624-1625"
+            }
+        },
+        "Notes": "The author signs his letter to the reader as `Il Bisquadro Accademico Umorista di Roma`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15218",
+                "RecordID": "022-000001260",
+                "Value": "Barberini,Antonio,Cardinal,1607-1671"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18486",
+                "RecordID": "022-000005511",
+                "Value": "Mellan Gallus,Claude,,1598 - 1688"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18485",
+                "RecordID": "022-000005510",
+                "Value": "Brugiotti,Giovanni Battista,,fl.1624-1625"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54422",
+            "Value": "023-000005509_54422_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

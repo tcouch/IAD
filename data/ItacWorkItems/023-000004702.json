@@ -1,0 +1,77 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004702",
+        "WorkId": "000588",
+        "ShortTitle": "De Magicis Affectibus",
+        "LongTitle": "Horum Dignotione, Praenotione, Curatione, Madica, Stratagemmatica, Divina, Plerisq; Curationibus Electis.\nDe Nuce Beneventana Maga, Auctore Petro Piperno Beneventano protomed. S. Theol. P. saepe Med. Illustriss. ac Reverendiss DD. Archiepisc. ac Guber. Benevent. & pro Patria Dep. \nOmnibus scientijs Opera ornata nova.",
+        "ItacAcademyItem": {
+            "AcademyId": "0090",
+            "RecordID": "021-000004675",
+            "Value": "Accademia dei Risvegliati"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1634",
+        "Shelfmark": "663.e.6.",
+        "Subjects": "Magic|Medicine",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved titlepage|City of Benevento",
+        "Pagination": "pp. 208",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15866",
+                "RecordID": "022-000002426",
+                "Value": "Piperno,Pietro,,"
+            }
+        },
+        "Notes": "p. 208 contains verses written by D. Placido Gemini Castelli Academico Risvegliato.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15124",
+                    "RecordID": "022-000001165",
+                    "Value": "De Ianuario,Felix,,"
+                },
+                {
+                    "PersonId": "15123",
+                    "RecordID": "022-000001164",
+                    "Value": "Tamburellus,Felix,General Vicar,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Al Signor D. Felice di Gennaro 1630.\nImprimi potest.\nFelix de Ianuario S. T. D. Deput.\nFaelix Tamburrellus Vic. Gen.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17795",
+                "RecordID": "022-000004703",
+                "Value": "Oregio,Agostino,Archbishop of Benevento|Cardinal,1577 - 1635"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15209",
+                "RecordID": "022-000001251",
+                "Value": "Roncagliolo,Gio. Domenico,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Al molto Illustr. Sig. Pietro Piperno Protofisico Di Benevento, E della iurisdictione di S. Sophia del Eminentiss. e Reverendiss. Sign. Francesco Card. Barberino Perp. Ab. Protomed. D. Placido Gemini Castelli Academico Risvegliato",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "17772",
+                        "RecordID": "022-000004677",
+                        "Value": "Gemini Castelli ,Placido,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

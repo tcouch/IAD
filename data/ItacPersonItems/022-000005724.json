@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18662",
+        "RecordId": "022-000005724",
+        "Surname": "Rovito",
+        "Forename": "Scipione",
+        "AlternativeName": {
+            "AlternativeSurname": "Rovitus",
+            "AlternativeForename": "Scipio"
+        },
+        "Anagram": "Scit iura pius",
+        "DateText": "1556 - 1636",
+        "StartDate": "1556",
+        "EndDate": "1636",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

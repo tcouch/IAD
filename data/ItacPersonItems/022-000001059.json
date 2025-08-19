@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15017",
+        "RecordId": "022-000001059",
+        "Surname": "Carafa",
+        "Forename": "Luigi",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Carrafa",
+            "AlternativeForename": "Luigi"
+        },
+        "PersonalTitle": "Prince of Stigliano",
+        "DateText": "1567-1630",
+        "StartDate": "1567",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Contributor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

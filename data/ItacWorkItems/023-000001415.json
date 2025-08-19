@@ -1,0 +1,143 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001415",
+        "WorkId": "00142",
+        "ShortTitle": "Della Nobilt\u00e0 Dell`Italia Parte Prima.",
+        "LongTitle": "Del Signor D. Francesco Zazzera Napoletano. Alla Sereniss[ima] e Catol[icissima] Maesta` del Re Filippo III. Nostro Signore.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1615",
+        "Shelfmark": "135.e.5.",
+        "Subjects": "Encomiastic Poetry|History of Italian aristocracy",
+        "Language": "Italian|Latin",
+        "Illustration": "Woodcuts | Family armorial bearings",
+        "Pagination": "Discontinuous pagination",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15000",
+                "RecordID": "022-000001042",
+                "Value": "Zazzera,Francesco,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15020",
+                    "RecordID": "022-000001062",
+                    "Value": "Gaetano,Filippo,Duke of Sermoneta,"
+                },
+                {
+                    "PersonId": "15021",
+                    "RecordID": "022-000001063",
+                    "Value": "Cesarini,Giuliano,Duke,"
+                },
+                {
+                    "PersonId": "15022",
+                    "RecordID": "022-000001064",
+                    "Value": "Cafarelli,Giovanni Pietro,Marquis,"
+                },
+                {
+                    "PersonId": "15025",
+                    "RecordID": "022-000001067",
+                    "Value": "Farnese,Mario,,1548-1619"
+                },
+                {
+                    "PersonId": "15026",
+                    "RecordID": "022-000001068",
+                    "Value": "Acquaviva de Aragona,Oratius,Bishop,"
+                },
+                {
+                    "PersonId": "15111",
+                    "RecordID": "022-000001152",
+                    "Value": "Del Pozzo,Alfonso,Count,"
+                },
+                {
+                    "PersonId": "15113",
+                    "RecordID": "022-000001154",
+                    "Value": "Bevil`acqua,,Marquis,"
+                },
+                {
+                    "PersonId": "15114",
+                    "RecordID": "022-000001155",
+                    "Value": "Borromeo,Giovanni,Count,"
+                },
+                {
+                    "PersonId": "15178",
+                    "RecordID": "022-000001220",
+                    "Value": "Castelli da Terni,Gabriele,Count,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15877",
+                "RecordID": "022-000002437",
+                "Value": "Nucci,Lucretio,,"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15211",
+                    "RecordID": "022-000001253",
+                    "Value": "Monaldus Urbevet,Federicus,,"
+                },
+                {
+                    "PersonId": "15212",
+                    "RecordID": "022-000001254",
+                    "Value": "Fidelis,Caesar,,"
+                },
+                {
+                    "PersonId": "15213",
+                    "RecordID": "022-000001255",
+                    "Value": "Pentronij,Hyacinthi,,"
+                },
+                {
+                    "PersonId": "15214",
+                    "RecordID": "022-000001256",
+                    "Value": "Donatus,Gregorius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur Reverendiss. P. M. Sacri Palatij Apostolici Caesar Fidelis Vicesg.   Historiam hanc nobilium de Castellis Dominorum Vici Praefectorum Urbis vidi de ordine Reverendissimi patris F. Hyacinthi Petronij Sacri Palatij Apostolici Magistri et nihil in illa reperi quod aut Orthodoxae fidei aut bonis moribus repugnet ideo dignam censui ut imprimatur. Romae die 16 Iunij 1615. Federicus Monaldus Urbevet   Imprimatur Fr. Gregorius Donatus Rom. Lector et Reverendissimi P. F. Hyacinthi Petronij Sacri Palatij Apostolici Magistri Socius Ordinis Praedicatorum.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15000",
+                    "RecordID": "022-000001042",
+                    "Value": "Zazzera,Francesco,,"
+                },
+                {
+                    "PersonId": "15019",
+                    "RecordID": "022-000001061",
+                    "Value": "De Castro Andrada,Pietro Fernandez,Count | Viceroy,"
+                },
+                {
+                    "PersonId": "15138",
+                    "RecordID": "022-000001180",
+                    "Value": "Philip III,,King of Spain,1578-1621"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15177",
+                "RecordID": "022-000001219",
+                "Value": "Gargano,Giovanni Battista,,"
+            }
+        },
+        "PrinterOrnament": "Y",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

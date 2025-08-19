@@ -1,0 +1,32 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7502",
+        "RecordId": "022-000001022",
+        "Surname": "Bonasoni",
+        "Forename": "Giulio",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Bonasone",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Bonoso",
+                "AlternativeForename": null
+            },
+            {
+                "AlternativeSurname": "Buonasone",
+                "AlternativeForename": "Giulio de Antonio"
+            }
+        ],
+        "DateText": "ca1498-1574",
+        "StartDate": "ca1498",
+        "EndDate": "1574",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Role": "Illustrator|Artist",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

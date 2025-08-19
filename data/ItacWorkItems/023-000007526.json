@@ -1,0 +1,105 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007526",
+        "WorkId": "000844",
+        "ShortTitle": "La Venetia edificata",
+        "LongTitle": "Poema eroico di Giulio Strozzi con gli argomenti del Sig. Francesco Cortesi",
+        "ItacAcademyItem": {
+            "AcademyId": "0389",
+            "RecordID": "021-000007517",
+            "Value": "Accademia degli Immaturi"
+        },
+        "Format": "Large 8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1624",
+        "DedicationPlaceDate": "Venezia 10 Aprile 1624",
+        "Shelfmark": "83l12",
+        "Subjects": "Heroic poem",
+        "Language": "Italian|Latin",
+        "Pagination": "[24] 248 [8]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16508",
+                "RecordID": "022-000003195",
+                "Value": "Strozzi,Giulio,,1583-1660"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "20032",
+                "RecordID": "022-000007525",
+                "Value": "Ferranti,Giovan Francesco,,"
+            }
+        },
+        "Notes": "The book contains one engraving at the beginning of each canto, plus, two portraits, of Falvio Aetio and Attila. Only the first enrgaving is signed by Castello Bernardo, and Francesco Valesio, who also did Strozzi`s portrait. The other engravings are by a different artist.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5300",
+                "RecordID": "022-000000348",
+                "Value": "de` Medici,Ferdinando II,Grand Duke,1610-1670"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20033",
+                    "RecordID": "022-000007527",
+                    "Value": "Valesio,Francesco,,ca1570-post1624"
+                },
+                {
+                    "PersonId": "20036",
+                    "RecordID": "022-000007530",
+                    "Value": "Castello,Bernardo,,1557-1629"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20033",
+                    "RecordID": "022-000007527",
+                    "Value": "Valesio,Francesco,,ca1570-post1624"
+                },
+                {
+                    "PersonId": "20034",
+                    "RecordID": "022-000007528",
+                    "Value": "Romiti,Marco Antonio,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20035",
+                "RecordID": "022-000007529",
+                "Value": "Pinelli,Antonio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54998",
+            "Value": "023-000007526_54998_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54997",
+            "Value": "023-000007526_54997_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Ode del sig. Giovan Francesco Ferranti Accademico degl'Immaturi, detto l'Incolto. In lode del signor Giulio Strozzi. All'Illustriss. Sig. Matteo Giorgi - Con la lira di Lesbo i toschi accenti",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "20032",
+                        "RecordID": "022-000007525",
+                        "Value": "Ferranti,Giovan Francesco,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

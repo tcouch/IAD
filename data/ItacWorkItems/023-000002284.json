@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002284",
+        "WorkId": "000301",
+        "ShortTitle": "Caroli Wittestein seu a Petra Alba",
+        "LongTitle": "Serenissimae Margaritae ab Austria, Medici, Disceptatio Philosophica de quinta Chemicorum Essentia. Accessit Alexandri Carerii Patavini Quaestio An metalla artis beneficio permutari possint",
+        "ItacAcademyItem": {
+            "AcademyId": "0026",
+            "RecordID": "021-000002259",
+            "Value": "Accademia degli Animosi"
+        },
+        "Format": "10\u00b0",
+        "City": {
+            "CityId": "59",
+            "PublicationPlaceItalianName": "Basilea",
+            "PublicationPlaceEnglishName": "Basel",
+            "PublicationPlaceLatinName": "Basileae"
+        },
+        "PublicationYear": "1583",
+        "Shelfmark": "1033.3.45",
+        "Language": "Latin",
+        "Pagination": "pp. 233",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15742",
+                "RecordID": "022-000002285",
+                "Value": "Wittesteyn,Carolus,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15726",
+                "RecordID": "022-000002263",
+                "Value": "Cariero,Alessandro,,1546-1626"
+            }
+        },
+        "Notes": "According to Tomasini, Elogia, Cariero delivered this lesson in the Accademia degli Animosi.",
+        "CensorsAgreement": "Cum gratia et privilegio Caes. Maiest.",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Alexandri Carerii Patavini Questio An arte metalla permutari possint",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "",
+                        "RecordID": ""
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16581",
+        "RecordId": "022-000003299",
+        "Surname": "Schietti",
+        "Forename": "Angelo Alvise",
+        "PersonalTitle": "Count",
+        "DateText": "1664 - 1739",
+        "StartDate": "1664",
+        "EndDate": "1739",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Joined theRicovrati in 1695. Two of his compositions for music, and one ode are in the volume that the Ricovrati dedciated to Elisabetta Querini Valiera in 1695.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

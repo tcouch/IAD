@@ -1,0 +1,328 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0035",
+        "RecordId": "021-000002615",
+        "Name": "Incauti (Accademia degli, Napoli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1617",
+        "EndDate": "1640s?",
+        "DateText": "1617-1640s?",
+        "Notes": "A publication related to the Academy, but not in British Library collections, is: Castiglione, Giuseppe, Discorso academico in lode del niente di D. Giuseppe Castiglione Palermitano, professore della sagra teologia, e delle leggi, Academico Incauto, detto il trabocchevole. In Napoli: presso Ottavio Beltrano, 1632.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15018",
+                "RecordId": "022-000001060",
+                "Name": "Comite,Oratio,,",
+                "Nickname": "Lo sproveduto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16532",
+                "RecordId": "022-000003233",
+                "Name": "Caputo,Filocalo,,",
+                "Nickname": "L`estatico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16634",
+                "RecordId": "022-000003353",
+                "Name": "Perillo,Marc`Antonio,,",
+                "Nickname": "Ingelosito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16635",
+                "RecordId": "022-000003354",
+                "Name": "Alfieri,Gregorio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16633",
+                "RecordId": "022-000003352",
+                "Name": "D`Eremita,Donato,Friar,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17373",
+                "RecordId": "022-000004213",
+                "Name": "Rota,Mario,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15234",
+                "RecordId": "022-000001277",
+                "Name": "Dentice,Franciscus,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17374",
+                "RecordId": "022-000004214",
+                "Name": "Di Gaeta,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17375",
+                "RecordId": "022-000004215",
+                "Name": "D`Alessandro,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17376",
+                "RecordId": "022-000004216",
+                "Name": "Capone,Francesco Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17377",
+                "RecordId": "022-000004217",
+                "Name": "Lanario,Tommaso,,",
+                "Nickname": "L`Intiepidito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17378",
+                "RecordId": "022-000004218",
+                "Name": "Lanario,Gennaro,,",
+                "Nickname": "il Vagante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17379",
+                "RecordId": "022-000004219",
+                "Name": "Munebria,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17380",
+                "RecordId": "022-000004220",
+                "Name": "de Curtis,Giovanni,,",
+                "Nickname": "l`Astratto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17381",
+                "RecordId": "022-000004221",
+                "Name": "Giusto,Francesco Antonio,,",
+                "Nickname": "l`Impaziente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17382",
+                "RecordId": "022-000004222",
+                "Name": "Russo,Francesco Antonio,,",
+                "Nickname": "l`Inavveduto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17383",
+                "RecordId": "022-000004223",
+                "Name": "Feltrio ,Orazio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17384",
+                "RecordId": "022-000004224",
+                "Name": "Parascandalo,Giuseppe,,",
+                "Nickname": "l`Errante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17385",
+                "RecordId": "022-000004225",
+                "Name": "Giliberti,Gio[vanni] Francesco,Abbot,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17387",
+                "RecordId": "022-000004227",
+                "Name": "Altomondo,Ottaviano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15005",
+                "RecordId": "022-000001047",
+                "Name": "De Pietri,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17388",
+                "RecordId": "022-000004228",
+                "Name": "Barrese,Francesco Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15002",
+                "RecordId": "022-000001044",
+                "Name": "Basile,Giovan Battista,Count of Torone,1575-1632",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17389",
+                "RecordId": "022-000004229",
+                "Name": "Marzi,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15078",
+                "RecordId": "022-000001119",
+                "Name": "Montenegro,Girolamo,Marquis of Marigliano,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17391",
+                "RecordId": "022-000004231",
+                "Name": "Salsano,Sebastiano,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16901",
+                "RecordId": "022-000003672",
+                "Name": "Nelli,Tommaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17392",
+                "RecordId": "022-000004232",
+                "Name": "Longo,Gennaro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17393",
+                "RecordId": "022-000004233",
+                "Name": "Cerucci,Diomede,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17394",
+                "RecordId": "022-000004234",
+                "Name": "del Giudice,Gio[vanni] Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17395",
+                "RecordId": "022-000004235",
+                "Name": "Maffa,Pacilio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16636",
+                "RecordId": "022-000003355",
+                "Name": "Valletta,Antonio,,",
+                "Nickname": "Improvido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18208",
+                "RecordId": "022-000005188",
+                "Name": "Mammana,Diego,,?",
+                "Nickname": "Sconcertato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18333",
+                "RecordId": "022-000005347",
+                "Name": "Zacconi,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18448",
+                "RecordId": "022-000005471",
+                "Name": "Carocci,Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20001",
+                "RecordId": "022-000007471",
+                "Name": "Castiglione,Giuseppe ,,",
+                "Nickname": "Trabocchevole",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17372",
+                "RecordId": "022-000004212",
+                "Name": "Finella ,Filippo,,1584 - 1650s?",
+                "Nickname": "l'Inutile",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54914",
+                    "Value": "022-000004212_54914_2.jpg"
+                }
+            },
+            {
+                "PersonId": "20610",
+                "RecordId": "022-000008392",
+                "Name": "Astorini,Elia,,1651-1702",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

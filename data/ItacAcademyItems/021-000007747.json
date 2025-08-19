@@ -1,0 +1,44 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0412",
+        "RecordId": "021-000007747",
+        "Name": "Minervale (Accademia)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "StartDate": "16th",
+        "EndDate": "17thc.",
+        "DateText": "16th-17thc.",
+        "Notes": "Source for this Academy is Spinelli, David, Oratio. In die anniversaria illustrissimi cardinalis Zeni habita Venetijs in D. Marci templo. Die 30 mensis Maij anno Domini 1597 a Davide Spinellio Minervali academico (Venetijs: apud Nicolaum Morettum, 1597)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "16510",
+                "RecordId": "022-000003197",
+                "Name": "Spinelli,David,,? - 1646",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20206",
+                "RecordId": "022-000007746",
+                "Name": "Vendramin,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20207",
+                "RecordId": "022-000007748",
+                "Name": "Corner,Giovanni,,1551-1629",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

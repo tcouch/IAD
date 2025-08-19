@@ -1,0 +1,105 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000373",
+        "WorkId": "00035",
+        "ShortTitle": "Opere del Signor cavalier Giovan Battista Manzini",
+        "LongTitle": "cio\u00e8 Il servir negato al savio; De i furori della giovent\u00f9 essercitii retthorici parte prima; De i furori della giovent\u00f9 essercitii retthorici parte seconda; La peripetia di Fortuna overo della caduta di Seiano; Vita di San Eustachio martire; Il Cretideo",
+        "ItacAcademyItem": {
+            "AcademyId": "0002",
+            "RecordID": "021-000000312",
+            "Value": "Accademia della Notte"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1663",
+        "Shelfmark": "630.b.27",
+        "Subjects": "Celebrating discourse|Carnival|Dissimulation",
+        "Language": "Italian",
+        "Pagination": "pp. 519",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5279",
+                "RecordID": "022-000000324",
+                "Value": "Manzini,Giovanni Battista,,1599-1664"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5279",
+                "RecordID": "022-000000324",
+                "Value": "Manzini,Giovanni Battista,,1599-1664"
+            }
+        },
+        "Notes": "For a comment on the three discourses see Gian Luigi Betti `L`Accademia bolognese della Notte e alcuni discorsi di Giovan Battista Manzini` in Strenna storica bolognese 52 (2002) pp. 49-62. The three discourses along with several others were translated in French, see Les Harangues ou discours academique de Iean Baptiste Manzini transl. Scudery A Paris chez Nicolas le Gras au troisi\u00e9me Pillier de la grand` Salle du Palais \u00e0 L[a] Couronn\u00e9e. 1659. British Library shelfmark 12301.aa.10. A second edition was printed by Jacques Cottin au Palais au cinqui\u00e9me Pilier de la grand` Salle \u00e0 l`Ecu de France 1670. Avec permission. British Library shelfmark 12301.aaa.3.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5150",
+                    "RecordID": "022-000000215",
+                    "Value": "De Bonis,Homobonus,,"
+                },
+                {
+                    "PersonId": "5227",
+                    "RecordID": "022-000000219",
+                    "Value": "Onuphrius,Hyeronimus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "D. Homobonus de Bonis Poenit. Pro eminentiss. Et reverendiss. D. card. Archiepisc. Bonon. | Imprimatur | Fr. Hieronym. Onuphrius doctor collegiatus et santciss. Inquisitionis consultor pro reverendiss. P. Inquisitor Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5310",
+                "RecordID": "022-000000361",
+                "Value": "d`Este,Francesco I,Duke of Modena,1610-1658"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5308",
+                "RecordID": "022-000000359",
+                "Value": "Pezzana,Nicol\u00f2,,c. 1620-c. 1750"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Le glorie della notte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5279",
+                            "RecordID": "022-000000324",
+                            "Value": "Manzini, Giovanni Battista, , 1599-1664"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gl`otii del carnevale",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5279",
+                            "RecordID": "022-000000324",
+                            "Value": "Manzini, Giovanni Battista, , 1599-1664"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "L`humane menzogne",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5279",
+                            "RecordID": "022-000000324",
+                            "Value": "Manzini, Giovanni Battista, , 1599-1664"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

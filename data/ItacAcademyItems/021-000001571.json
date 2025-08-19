@@ -1,0 +1,1364 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0023",
+        "RecordId": "021-000001571",
+        "Name": "Umoristi (Accademia degli)",
+        "AlternativeName": "Academia degli Humoristi|Academia dei begli Umori",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Rain falling from a cloud of vapour drawn from the sea by the sun",
+        "EmblemImage": {
+            "ImageId": "54397",
+            "Value": "021-000001571_54397_1.jpg"
+        },
+        "Motto": "Redit agmine dulci",
+        "StartDate": "ca.1600",
+        "EndDate": "ca.1670",
+        "DateText": "ca.1600-ca.1670",
+        "Notes": "Salviani, Sarrocchia, Rinuccini, Aleandri, Gonzaga, Cardinal Caetani, Rossi, and P. della Valle, founded the Accademia degli Umoristi (see Piera Russo, `L`Accademia degli Umoristi`, in Esperienze Letterarie (1979). ---- Complete list of all publications on Theatre by Accademici Umoristi, is in Franchi, Drammaturgia romana (Rome, 1988). ---- An evaluation on the Academy`s interest for theatre, in Laura Alemanno, L`Accademia degli Umoristi, in Roma moderna e contemporanea, III (1995), 1, pp. 97-120. ---- Rime degli Accademici Umoristi (ms in Modena, Biblioteca Estense, Raccolta Campori 627 y H, 218 include contributions by Guarini, Paoli, di Somma, Preti, Leonida, Falconio, Sertini, Zagarini, Rinuccini, Caetano, Pascali, Querengo, Macedonio. ---- The description of an academic gathering is in John Evelyn`s Diary (15-17 February 1645). --- The presence of French scholars in the Academy is described by Francis W. Gravit, The Accademia degli Umoristi and its French Relationship (1934). Publication related to the Academy, but not included in in British Library catalogue, is: Capponi, Giovanni, I bombici: idillio dell`ostinato accad. umorista (Venetia: presso Triuisan Bertolotti, 1610).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "9140",
+                "RecordId": "022-000001619",
+                "Name": "Cornaro\u00a0Piscopia,Helena Lucrezia,,1646 - 1684",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16073",
+                "RecordId": "022-000002657",
+                "Name": "Aleandro,Girolamo (Il giovane),,",
+                "Nickname": "L` Aggirato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18159",
+                "RecordId": "022-000005126",
+                "Name": "Butio,Vincenzo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15000",
+                "RecordId": "022-000001042",
+                "Name": "Zazzera,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5149",
+                "RecordId": "022-000000145",
+                "Name": "Maia Materdona,Giovanni Francesco,,1590 - 1650",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9304",
+                "RecordId": "022-000001788",
+                "Name": "Macedo,Francisco,,1596 - 1681",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5604",
+                "RecordId": "022-000000666",
+                "Name": "della Valle,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9160",
+                "RecordId": "022-000001590",
+                "Name": "Barisoni,Albertino,Bishop of Ceneda,1587-1667",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18161",
+                "RecordId": "022-000005129",
+                "Name": "Dal Pozzo,Cassiano,,1588 - 1657",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5012",
+                "RecordId": "022-000000014",
+                "Name": "Barbazza,Andrea,Count,1581/82-1656",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5278",
+                "RecordId": "022-000000267",
+                "Name": "Valesio,Giovanni,,1561 - 1640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16443",
+                "RecordId": "022-000003116",
+                "Name": "Damasceni Peretti ,Alessandro,Cardinal Montalto,1571 - 1623",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5001",
+                "RecordId": "022-000000003",
+                "Name": "Barberini,Maffeo,Pope Urban VIII,1568-1644",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9031",
+                "RecordId": "022-000001621",
+                "Name": "Querenghi,Antonio,,1546 - 1633",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18165",
+                "RecordId": "022-000005133",
+                "Name": "Colonna,Filippo,Duke and Prince of Paliano,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18178",
+                "RecordId": "022-000005155",
+                "Name": "Giorgi,Urbano,,",
+                "Nickname": "L` Acuto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17720",
+                "RecordId": "022-000004616",
+                "Name": "Cevoli,Tiberio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9945",
+                "RecordId": "022-000000816",
+                "Name": "Cicognini,Giacomo,,",
+                "Nickname": "Il Confidente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5146",
+                "RecordId": "022-000000142",
+                "Name": "Guarini,Battista,,1538 - 1612",
+                "Nickname": "L` Impresso",
+                "Motto": "Imprimor et valeor",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18180",
+                "RecordId": "022-000005157",
+                "Name": "Buonanni,Scipione,,? - d.1618",
+                "Nickname": "L` Ardente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18229",
+                "RecordId": "022-000005213",
+                "Name": "Figliuccio,Flaminio,,fl.1500/1600",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18187",
+                "RecordId": "022-000005167",
+                "Name": "Rocchi,Girolamo,,fl. 1628",
+                "Nickname": "L`Ottuso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18230",
+                "RecordId": "022-000005214",
+                "Name": "Lancellotti,Secondo,,1583  - 1643",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18231",
+                "RecordId": "022-000005215",
+                "Name": "Della Manna,Girolamo ,,fl. 1634",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18232",
+                "RecordId": "022-000005216",
+                "Name": "De Luco Sereni,Francesco Maria,,1632 - 1705",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18233",
+                "RecordId": "022-000005217",
+                "Name": "Confidati,Alfonso,,1609 - 1657",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18234",
+                "RecordId": "022-000005218",
+                "Name": "Piselli,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18235",
+                "RecordId": "022-000005219",
+                "Name": "Coppa,Scipione,,fl.1684",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18206",
+                "RecordId": "022-000005186",
+                "Name": "Bartholomaei,Hieronymi,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5107",
+                "RecordId": "022-000000104",
+                "Name": "Benigni,Domenico,,- 1653",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18196",
+                "RecordId": "022-000005176",
+                "Name": "Bottifango,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18201",
+                "RecordId": "022-000005181",
+                "Name": "Bursei,Amabilis,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18204",
+                "RecordId": "022-000005184",
+                "Name": "de Simeonibus,Gasparis,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18189",
+                "RecordId": "022-000005169",
+                "Name": "Falconio,Arrigo,,fl. 1605 - 1627",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18190",
+                "RecordId": "022-000005170",
+                "Name": "Fieschi,Flavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7360",
+                "RecordId": "022-000000947",
+                "Name": "Gabrielli,Diamante,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18198",
+                "RecordId": "022-000005178",
+                "Name": "Guglielmi,Iacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17757",
+                "RecordId": "022-000004656",
+                "Name": "Leonida,Fabio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18202",
+                "RecordId": "022-000005182",
+                "Name": "Mascardi,Agostino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18195",
+                "RecordId": "022-000005175",
+                "Name": "Moricucci,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18188",
+                "RecordId": "022-000005168",
+                "Name": "Pallavicino,Sforza ,Marquis|Cardinal,1607 - 1667",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18200",
+                "RecordId": "022-000005180",
+                "Name": "Paoli,Pierfrancesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18205",
+                "RecordId": "022-000005185",
+                "Name": "Portii,Gregorii,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5294",
+                "RecordId": "022-000000342",
+                "Name": "Rivaroli,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18203",
+                "RecordId": "022-000005183",
+                "Name": "Rogeri,Francisci,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18191",
+                "RecordId": "022-000005171",
+                "Name": "Saraceni,Gherardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18207",
+                "RecordId": "022-000005187",
+                "Name": "Sgamabti ,Scipionis,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18214",
+                "RecordId": "022-000005196",
+                "Name": "Sgambati,Vincentii,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18199",
+                "RecordId": "022-000005179",
+                "Name": "Strozzi,Niccolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18193",
+                "RecordId": "022-000005173",
+                "Name": "Taurisano,Giandonato,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18197",
+                "RecordId": "022-000005177",
+                "Name": "Valentino,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5084",
+                "RecordId": "022-000000081",
+                "Name": "Marescalchi,Vincenzo Maria,Senator,1627 - 1670",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18164",
+                "RecordId": "022-000005132",
+                "Name": "Tassoni,Alessandro ,,1565 - 1635",
+                "Nickname": "Il Bisquadro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "7599",
+                "RecordId": "022-000000278",
+                "Name": "Argentini,Ottavio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17379",
+                "RecordId": "022-000004219",
+                "Name": "Munebria,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15229",
+                "RecordId": "022-000001272",
+                "Name": "Campanile,Giuseppe,,1620 (?) - 1674",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18328",
+                "RecordId": "022-000005341",
+                "Name": "Pamphili,Benedetto,,1653 - 1730",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18332",
+                "RecordId": "022-000005346",
+                "Name": "de Totis,Giuseppe Domenico,,1644 - 1707",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18162",
+                "RecordId": "022-000005130",
+                "Name": "Salviani,Gasparo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15090",
+                "RecordId": "022-000001131",
+                "Name": "Sarrocchi,Margharita,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18346",
+                "RecordId": "022-000005362",
+                "Name": "Rinuccini,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18347",
+                "RecordId": "022-000005363",
+                "Name": "Villani,Niccolo`,,",
+                "Nickname": "Accademico Aldeano",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15078",
+                "RecordId": "022-000001119",
+                "Name": "Montenegro,Girolamo,Marquis of Marigliano,",
+                "Nickname": "L`Assicurato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5147",
+                "RecordId": "022-000000143",
+                "Name": "Imperiale,Gian Vincenzo,,1582-1648",
+                "Nickname": "Aggirato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18167",
+                "RecordId": "022-000005135",
+                "Name": "Rossi,Giovanni Vittorio,,1577 - 1647",
+                "Nickname": "L`Arido",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18163",
+                "RecordId": "022-000005131",
+                "Name": "Mancini,Paolo Lucio,,fl.1597 - 1635",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15035",
+                "RecordId": "022-000001077",
+                "Name": "Bruni,Antonio,,1593-1635",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15003",
+                "RecordId": "022-000001045",
+                "Name": "Manso,Ioannes Baptistam,Marquis of Villa,1560/70-1645",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15079",
+                "RecordId": "022-000001120",
+                "Name": "Stella,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18348",
+                "RecordId": "022-000005364",
+                "Name": "Chiabrera,Gabriello,,1552 - 1638",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5268",
+                "RecordId": "022-000000258",
+                "Name": "Carli,Ferrante,,1578 - 1641",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15029",
+                "RecordId": "022-000001071",
+                "Name": "Gramigna,Vincenzo,,1580-1627",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5183",
+                "RecordId": "022-000000178",
+                "Name": "Testi,Fulvio,Count,1593 - 1646",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18350",
+                "RecordId": "022-000005366",
+                "Name": "Nigrelli,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16869",
+                "RecordId": "022-000003635",
+                "Name": "Sergardi,Fabio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18352",
+                "RecordId": "022-000005368",
+                "Name": "Roberti,G.,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18353",
+                "RecordId": "022-000005369",
+                "Name": "Zaccagni,G. Camillo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18360",
+                "RecordId": "022-000005377",
+                "Name": "Serra,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18361",
+                "RecordId": "022-000005378",
+                "Name": "Dormalia,Enrico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18362",
+                "RecordId": "022-000005379",
+                "Name": "Buccelloni,Evangelista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15076",
+                "RecordId": "022-000001117",
+                "Name": "Soranzo,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18364",
+                "RecordId": "022-000005381",
+                "Name": "Gonzaga,Giulio Cesare,,1552/3 - 1609",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18349",
+                "RecordId": "022-000005365",
+                "Name": "Zarattino Castellini,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15694",
+                "RecordId": "022-000002222",
+                "Name": "Arlotti,Ridolfo,,1546 - 1613",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15104",
+                "RecordId": "022-000001145",
+                "Name": "Stigliani,Tommaso,,1573 - 1651",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18366",
+                "RecordId": "022-000005384",
+                "Name": "Sertini,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5620",
+                "RecordId": "022-000000689",
+                "Name": "Zagarini,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18367",
+                "RecordId": "022-000005385",
+                "Name": "Caetano,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18368",
+                "RecordId": "022-000005386",
+                "Name": "Pascali,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15089",
+                "RecordId": "022-000001130",
+                "Name": "Macedonio,Marcello,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18369",
+                "RecordId": "022-000005387",
+                "Name": "di Somma,Agazio,,1591 - 1671",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18373",
+                "RecordId": "022-000005391",
+                "Name": "Botta,Michelangelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18374",
+                "RecordId": "022-000005392",
+                "Name": "Rocha,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18375",
+                "RecordId": "022-000005393",
+                "Name": "de` Vecchi,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18380",
+                "RecordId": "022-000005399",
+                "Name": "Naude`,Gabriel,,1600 - 1653",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18381",
+                "RecordId": "022-000005400",
+                "Name": "de Salvaing de Boissieu,Denys,,1600 - 1683",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18382",
+                "RecordId": "022-000005401",
+                "Name": "Rivault,Florence,,1571 - 1616",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18383",
+                "RecordId": "022-000005402",
+                "Name": "Bouche,Honore`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18384",
+                "RecordId": "022-000005403",
+                "Name": "de Grammont,Scipion,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18385",
+                "RecordId": "022-000005404",
+                "Name": "Voiture,Vincent,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18387",
+                "RecordId": "022-000005406",
+                "Name": "Abati,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18389",
+                "RecordId": "022-000005409",
+                "Name": "Rosa,Salvatore,,1615 - 1673",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18160",
+                "RecordId": "022-000005128",
+                "Name": "Della Valle,Pietro,,1586 - 1652",
+                "Nickname": "Il Fantastico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18392",
+                "RecordId": "022-000005412",
+                "Name": "Pamphili,Camillo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18391",
+                "RecordId": "022-000005411",
+                "Name": "Aldobrandini,Olimpia,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15217",
+                "RecordId": "022-000001259",
+                "Name": "Allacci,Leone,,1586-1669",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18422",
+                "RecordId": "022-000005443",
+                "Name": "Tortoletti,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5015",
+                "RecordId": "022-000000017",
+                "Name": "Gessi,Berlingiero (juniore),Senator,1613 - 1671",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18423",
+                "RecordId": "022-000005445",
+                "Name": "Baroni,Caterina,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18424",
+                "RecordId": "022-000005447",
+                "Name": "Panimolle,Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18425",
+                "RecordId": "022-000005448",
+                "Name": "Politi,Clemente,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5125",
+                "RecordId": "022-000000121",
+                "Name": "Dalla Corgna,Fabio,,fl. 1642",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5105",
+                "RecordId": "022-000000102",
+                "Name": "Balducci,Francesco,,1579 - 1642",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18427",
+                "RecordId": "022-000005450",
+                "Name": "Bracciolini (Dell`Api),Francesco,,1566 - 1645",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18428",
+                "RecordId": "022-000005451",
+                "Name": "Coppola,Giovanni Carlo,,1599 - 1651",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18431",
+                "RecordId": "022-000005454",
+                "Name": "Santa Croce,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18430",
+                "RecordId": "022-000005453",
+                "Name": "Bonarelli,Pietro,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18429",
+                "RecordId": "022-000005452",
+                "Name": "Raggioli,Giulio Cesare,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5104",
+                "RecordId": "022-000000101",
+                "Name": "Argoli,Giovanni,,1609 - 1660",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18440",
+                "RecordId": "022-000005463",
+                "Name": "Suarez,Jose` Maria,Bishop of Vaison,fl.1638 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18438",
+                "RecordId": "022-000005461",
+                "Name": "Sacci Riccoboni,Francisci,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18437",
+                "RecordId": "022-000005460",
+                "Name": "Carducci,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18436",
+                "RecordId": "022-000005459",
+                "Name": "Gualterii,Caroli,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18435",
+                "RecordId": "022-000005458",
+                "Name": "Ciaiae,Calanii,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18443",
+                "RecordId": "022-000005466",
+                "Name": "Lotti,Ioannis,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18441",
+                "RecordId": "022-000005464",
+                "Name": "Holstein,Lucas,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18442",
+                "RecordId": "022-000005465",
+                "Name": "Rondanini,Pauli Aemilii,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18446",
+                "RecordId": "022-000005469",
+                "Name": "Arcudi,Francesco,,1590 - 1641",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18529",
+                "RecordId": "022-000005565",
+                "Name": "Manelfi,Giovanni,,1581 - 1654",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18192",
+                "RecordId": "022-000005172",
+                "Name": "Camola,Giacomo Filippo,,",
+                "Nickname": "L`Infecondo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18699",
+                "RecordId": "022-000005764",
+                "Name": "Capece,Carlo Sigismondo,,1652 - 1724",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18311",
+                "RecordId": "022-000005321",
+                "Name": "Brugueres,Michele,,1644 - 1722",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18379",
+                "RecordId": "022-000005398",
+                "Name": "de Peiresc,Nicolas Claude Fabri,,1580 - 1637",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54440",
+                    "Value": "022-000005398_54440_2.jpg"
+                }
+            },
+            {
+                "PersonId": "18314",
+                "RecordId": "022-000005324",
+                "Name": "Caraccio,Antonio,Baron of Corano,1630-1702",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54443",
+                    "Value": "022-000005324_54443_2.jpg"
+                }
+            },
+            {
+                "PersonId": "18722",
+                "RecordId": "022-000005787",
+                "Name": "de Strinatis,Malatesta,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18909",
+                "RecordId": "022-000006007",
+                "Name": "Baldini,Sebastiano,,1615 - 1685",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18906",
+                "RecordId": "022-000006001",
+                "Name": "Cartari,Carlo,,1614 - 1697",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18720",
+                "RecordId": "022-000005785",
+                "Name": "Mandosio,Prospero,,1643 - 1724",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19074",
+                "RecordId": "022-000006194",
+                "Name": "Ruggieri,Giovanni Simone,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18371",
+                "RecordId": "022-000005389",
+                "Name": "Cesarini,Virginio,,1595 - 1624",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54569",
+                    "Value": "022-000005389_54569_2.jpg"
+                }
+            },
+            {
+                "PersonId": "5004",
+                "RecordId": "022-000000006",
+                "Name": "Caprara,Alberto,,1627 - 1691",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19260",
+                "RecordId": "022-000006441",
+                "Name": "Buonincontri,Lorenzo,,1578 - 1634",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5039",
+                "RecordId": "022-000000041",
+                "Name": "Campeggi,Ridolfo,Count,1565-1624",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5171",
+                "RecordId": "022-000000166",
+                "Name": "Preti,Girolamo,,1582 - 1626",
+                "Nickname": "L`inquieto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19370",
+                "RecordId": "022-000006575",
+                "Name": "Marinoni,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": "Di me vortant",
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19372",
+                "RecordId": "022-000006577",
+                "Name": "Mezzabarba,Giovanni Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16152",
+                "RecordId": "022-000002766",
+                "Name": "Fontanella ,Girolamo,,1612 - 1644",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15119",
+                "RecordId": "022-000001160",
+                "Name": "Santamaria,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19536",
+                "RecordId": "022-000006796",
+                "Name": "Gherardelli,Giovanni Battista Filippo,,1623 - 1653",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15028",
+                "RecordId": "022-000001070",
+                "Name": "Grillo,Angelo,Abbot,1557-1629",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18511",
+                "RecordId": "022-000005543",
+                "Name": "Buoninsegni,Francesco,,ca.1600-after1647",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19906",
+                "RecordId": "022-000007350",
+                "Name": "Bonifacio,Baldassarre,,1585-1659",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5152",
+                "RecordId": "022-000000147",
+                "Name": "Manzini,Carlo Antonio,Count,fl.1624-\u20201677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15449",
+                "RecordId": "022-000001966",
+                "Name": "Leti,Gregorio,,1630-1701",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18510",
+                "RecordId": "022-000005542",
+                "Name": "Giovanetti,Marcello,,1598-1631",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5116",
+                "RecordId": "022-000000113",
+                "Name": "Capponi,Giovanni,,1586-1629",
+                "Nickname": "L'Ostinato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16544",
+                "RecordId": "022-000003251",
+                "Name": "Chigi,Fabio ,Pope Alexander VII,1559 - 1667",
+                "Nickname": "Tyrrenum",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16492",
+                "RecordId": "022-000003176",
+                "Name": "Gaudenzi,Paganino,,1595-1649",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17681",
+                "RecordId": "022-000004576",
+                "Name": "Albani,Giovanni Francesco,Pope Clement XI,1649 - 1721",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5605",
+                "RecordId": "022-000000671",
+                "Name": "Marino,Giambattista,,1569-1625",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20107",
+                "RecordId": "022-000007609",
+                "Name": "Pona,Francesco,,1594-1655",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16380",
+                "RecordId": "022-000003046",
+                "Name": "Colonna,Camillo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19313",
+                "RecordId": "022-000006500",
+                "Name": "Barclay,John,,1583-1621",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55351",
+                    "Value": "022-000006500_55351_2.jpg"
+                }
+            },
+            {
+                "PersonId": "15388",
+                "RecordId": "022-000001885",
+                "Name": "Colonna,Pompeo,Prince of Gallicano|Duke of Zagarolo,early1600-1658/61",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20917",
+                "RecordId": "022-000008785",
+                "Name": "Bonini,Filippo Maria,Abbot,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

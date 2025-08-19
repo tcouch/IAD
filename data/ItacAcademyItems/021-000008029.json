@@ -1,0 +1,21 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0497",
+        "RecordId": "021-000008029",
+        "Name": "Immobili (Accademia degli)",
+        "City": {
+            "CityId": "120",
+            "CityItalianName": "Alessandria",
+            "CityEnglishName": "Alessandria"
+        },
+        "ItacPersonItem": {
+            "PersonId": "16312",
+            "RecordId": "022-000002965",
+            "Name": "Sori,Isabella,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

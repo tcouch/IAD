@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5373",
+        "RecordId": "022-000000382",
+        "Surname": "Croce",
+        "Forename": "Giulio Cesare",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Della Croce"
+        },
+        "Pseudonym": "Sallustio Miranda | Giulio Cesare Allegri | Lattantio Mescolotti | Ott. Rom. G. C. C. B. | Scatolon Gratian |Gratiano Pagliarizzo",
+        "DateText": "1550-1609",
+        "StartDate": "1550",
+        "EndDate": "1609",
+        "Nationality": {
+            "NationalityId": "185",
+            "Value": "of San Giovanni in Persiceto (Bologna)"
+        },
+        "Role": "Author|Contributor",
+        "TypographicReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

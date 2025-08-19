@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19247",
+        "RecordId": "022-000006428",
+        "Surname": "Robin",
+        "Forename": "Vespasiano",
+        "DateText": "1579 - ?",
+        "StartDate": "1579",
+        "EndDate": "?",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Herbalist, foreign correspondent of the Lincei.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

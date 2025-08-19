@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15434",
+        "RecordId": "022-000001946",
+        "Surname": "Penna",
+        "Forename": "Lorenzo",
+        "DateText": "ca. 1613 - 1693",
+        "StartDate": "ca. 1613",
+        "EndDate": "1693",
+        "Nationality": {
+            "NationalityId": "81",
+            "Value": "Bolognese"
+        },
+        "Notes": "Joined the Accademia Filarmonica in 1676.",
+        "Role": "Author|Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

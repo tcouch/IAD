@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5261",
+        "RecordId": "022-000000269",
+        "Surname": "Maretti",
+        "Forename": "Lelio",
+        "Gender": "Male",
+        "DateText": "1530-1617",
+        "StartDate": "1530",
+        "EndDate": "1617",
+        "Nationality": {
+            "NationalityId": "89",
+            "Value": "Sienese"
+        },
+        "Notes": "Prior of Santa Maria in Via Lata in Rome and `familiare` of Cardinals Alessandro (d. 1581) and Francesco Sforza (d. 1624). See BL manuscript catalogue for the information above.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

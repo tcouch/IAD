@@ -1,0 +1,273 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005672",
+        "WorkId": "000686",
+        "ShortTitle": "L`Academia Piazzese",
+        "ItacAcademyItem": {
+            "AcademyId": "0128",
+            "RecordID": "021-000005670",
+            "Value": "Accademia dei Piazzesi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1651",
+        "DedicationPlaceDate": "Piazza Armerina",
+        "Shelfmark": "795.e.29.(3.)",
+        "Subjects": "Laudatory Poems",
+        "Language": "Italian|Latin",
+        "Pagination": "pp. 20",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18609",
+                    "RecordID": "022-000005660",
+                    "Value": "Chiarand\u00e0,Antonino,,"
+                },
+                {
+                    "PersonId": "18608",
+                    "RecordID": "022-000005659",
+                    "Value": "Romano,Giulio Cesare,Senator of Piazza Armerina,"
+                },
+                {
+                    "PersonId": "18619",
+                    "RecordID": "022-000005671",
+                    "Value": "Cappello,Baldassare,Senator of Piazza Armerina,"
+                },
+                {
+                    "PersonId": "18610",
+                    "RecordID": "022-000005661",
+                    "Value": "Bocca Di Fuoco,Giuseppe ,,"
+                },
+                {
+                    "PersonId": "18611",
+                    "RecordID": "022-000005662",
+                    "Value": "Fascella ,Francesco,,"
+                },
+                {
+                    "PersonId": "18613",
+                    "RecordID": "022-000005664",
+                    "Value": "Cagno,Andrea,,"
+                },
+                {
+                    "PersonId": "18616",
+                    "RecordID": "022-000005667",
+                    "Value": "Cagno,Angelo,,"
+                },
+                {
+                    "PersonId": "18615",
+                    "RecordID": "022-000005666",
+                    "Value": "Caruso,Giovanni Giacomo,,"
+                },
+                {
+                    "PersonId": "18614",
+                    "RecordID": "022-000005665",
+                    "Value": "Salonia,Alberto,,"
+                },
+                {
+                    "PersonId": "18617",
+                    "RecordID": "022-000005668",
+                    "Value": "Capizzi,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18618",
+                    "RecordID": "022-000005669",
+                    "Value": "Pico,Filippo,,"
+                },
+                {
+                    "PersonId": "18134",
+                    "RecordID": "022-000005097",
+                    "Value": "Gueli ,Francesco,,? - 1661"
+                },
+                {
+                    "PersonId": "17379",
+                    "RecordID": "022-000004219",
+                    "Value": "Munebria,Giuseppe,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con Licenza de` Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18609",
+                "RecordID": "022-000005660",
+                "Value": "Chiarand\u00e0,Antonino,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15871",
+                "RecordID": "022-000002431",
+                "Value": "Gaffaro,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54630",
+            "Value": "023-000005672_54630_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54631",
+            "Value": "023-000005672_54631_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Veritatis Vindici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18609",
+                            "RecordID": "022-000005660",
+                            "Value": "Chiarand\u00e0,Antonino,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Avem gentilium stemma Admodum Illuss. & Reverend. D. D. Antonini Chiarand\u00e0, prolusio Ill. Balthassaris Cappello Senatoris Platiae, in animi grati monumentum.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18619",
+                            "RecordID": "022-000005671",
+                            "Value": "Cappello,Baldassare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Eiusdem Anagramma purum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18619",
+                            "RecordID": "022-000005671",
+                            "Value": "Cappello,Baldassare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Medesimo Ill. Senatore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18619",
+                            "RecordID": "022-000005671",
+                            "Value": "Cappello,Baldassare,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "il Sig. Fra D. Giuseppe Bocca Di Fuoco, Cavaliero Gierosolimitano. Al Conte Ruggiero vittorioso contro i Saracini, per lo stendardo della Beata Vergine.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18610",
+                            "RecordID": "022-000005661",
+                            "Value": "Bocca Di Fuoco,Giuseppe ,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All`Autore. Il Sign. Francesco Gueli, Dottore di Legge.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18134",
+                            "RecordID": "022-000005097",
+                            "Value": "Gueli ,Francesco,,? - 1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Francesco Fascella. Anagramma puro. Padre Giovan Paulo Chiarand\u00e0 Giesuita.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18611",
+                            "RecordID": "022-000005662",
+                            "Value": "Fascella ,Francesco,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "V. I. Andreae Cagno. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18613",
+                            "RecordID": "022-000005664",
+                            "Value": "Cagno,Andrea,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Signor Dottor di Legge Alberto Salonia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18614",
+                            "RecordID": "022-000005665",
+                            "Value": "Salonia,Alberto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Io. Iacobi Caruso Philosophiae, ac Mediciane Doctoris. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18615",
+                            "RecordID": "022-000005666",
+                            "Value": "Caruso,Giovanni Giacomo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "V. I. D. D. Angelus Cagno Canonicus Reverendissimi Capituli Collegiatae Civitatis Platiae",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18616",
+                            "RecordID": "022-000005667",
+                            "Value": "Cagno,Angelo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Dottor In Medicina Giuseppe Capizzi Filosofo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18617",
+                            "RecordID": "022-000005668",
+                            "Value": "Capizzi,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il Signor Don Giuseppe Munebria",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17379",
+                            "RecordID": "022-000004219",
+                            "Value": "Munebria,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Philippi Pico. Ode",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18618",
+                            "RecordID": "022-000005669",
+                            "Value": "Pico,Filippo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Don Antonino Chiarand\u00e0. Ode",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18609",
+                            "RecordID": "022-000005660",
+                            "Value": "Chiarand\u00e0,Antonino,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

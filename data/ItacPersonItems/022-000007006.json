@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19647",
+        "RecordId": "022-000007006",
+        "Surname": "de Suares",
+        "Forename": "Joseph Marie",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Giuseppe Maria"
+        },
+        "PersonalTitle": "Bishop of Vaison (France)",
+        "DateText": "1599-1677",
+        "StartDate": "1599",
+        "EndDate": "1677",
+        "Nationality": {
+            "NationalityId": "60",
+            "Value": "French"
+        },
+        "Notes": "Learned antiquary, temporarry librarian to Cardinal Barberini. Joined the Accademia di Cristina di Svezia in 1674. He was charged with editing the Latin verses of the Monumentum. See Gravit (1934).",
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003187",
+        "WorkId": "000413",
+        "ShortTitle": "Delle comedie elette nuovamente raccolte insieme",
+        "LongTitle": "con le corretioni, et annotationi, di Girolamo Ruscelli, Libro primo. \nNel quale si contengono l`infrascritte Comedie.\nLa Calandra del Cardinal Bibiena.\nLa Mandragola del Machiavello.\nIl Sacrificio e gli Ingannati de gli Intronati\nL`Alessandro e L`amor costante del Piccolomini.",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1554",
+        "DedicationPlaceDate": "Venice 15 April 1554",
+        "Shelfmark": "1071.h.15",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "100; 63; 147; 119; 191",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16499",
+                "RecordID": "022-000003185",
+                "Value": "Ruscelli,Girolamo,,1504 - 1566"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16501",
+                "RecordID": "022-000003188",
+                "Value": "Manuali,Nicola,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16499",
+                "RecordID": "022-000003185",
+                "Value": "Ruscelli,Girolamo,,1504 - 1566"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16498",
+                "RecordID": "022-000003184",
+                "Value": "Pietrasanta,Plinio,,fl. 1553 - 1557"
+            }
+        },
+        "PrinterOrnament": "CNCE 52161|V429|Z31",
+        "TitlePageImage": {
+            "ImageId": "53434",
+            "Value": "023-000003187_53434_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Annotationi di Girolamo Ruscelli sopra le cinque comedie del primo volume",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16499",
+                        "RecordID": "022-000003185",
+                        "Value": "Ruscelli,Girolamo,,1504 - 1566"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

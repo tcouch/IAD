@@ -1,0 +1,314 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001442",
+        "WorkId": "00170",
+        "ShortTitle": "Notizie di nobilt\u00e0",
+        "LongTitle": "Lettere di Giuseppe Campanile Accademico Umorista  Ozioso. | dirizzate All`Illustrissimo Et Eccell. Sig. D. Bartolomeo Di Capoua Principe della Riccia | e Gran Conte di Altavilla &c.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1672",
+        "DedicationPlaceDate": "Naples 16 May 1672.",
+        "Shelfmark": "137.b.12.",
+        "Content": "Correspondence | encomiastic poetry | History of aristocracy.",
+        "Subjects": "History of aristocratic families (both Spanish and Italian) living in the kingdom of Naples",
+        "Language": "Italian|Latin|Spanish",
+        "Illustration": "Plates | Mythological figures | Pegasus | Woodcuts of heraldic bearings | a genealogical tree.|",
+        "Pagination": "First 34 pages unnumbered | pp. 546 | last 2 pages unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15229",
+                "RecordID": "022-000001272",
+                "Value": "Campanile,Giuseppe,,1620 (?) - 1674"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15016",
+                    "RecordID": "022-000001058",
+                    "Value": "Battista,Giuseppe,,1610-1675"
+                },
+                {
+                    "PersonId": "15154",
+                    "RecordID": "022-000001196",
+                    "Value": "Di Tura,Niccol\u00f2 Antonio,,"
+                },
+                {
+                    "PersonId": "15265",
+                    "RecordID": "022-000001307",
+                    "Value": "Rota,Carolus,,"
+                },
+                {
+                    "PersonId": "15266",
+                    "RecordID": "022-000001308",
+                    "Value": "Barone,Marcello,,"
+                },
+                {
+                    "PersonId": "15267",
+                    "RecordID": "022-000001309",
+                    "Value": "Carafa,Fabio,Prince of Colobrana,"
+                },
+                {
+                    "PersonId": "15269",
+                    "RecordID": "022-000001310",
+                    "Value": "Domenichi,Giuseppe,,"
+                },
+                {
+                    "PersonId": "15272",
+                    "RecordID": "022-000001312",
+                    "Value": "Della Porta,Fulvio,Count,"
+                },
+                {
+                    "PersonId": "15273",
+                    "RecordID": "022-000001313",
+                    "Value": "Rosso,Partenio,,"
+                },
+                {
+                    "PersonId": "15274",
+                    "RecordID": "022-000001314",
+                    "Value": "Francipane Allegretto,Carlo,Duke,"
+                },
+                {
+                    "PersonId": "15275",
+                    "RecordID": "022-000001315",
+                    "Value": "Piscicello,Fabio,Duke,"
+                },
+                {
+                    "PersonId": "15276",
+                    "RecordID": "022-000001316",
+                    "Value": "Cavazza,Antonio,,"
+                },
+                {
+                    "PersonId": "15279",
+                    "RecordID": "022-000001319",
+                    "Value": "Pignatello,Anello,Prince | Duke,"
+                },
+                {
+                    "PersonId": "15280",
+                    "RecordID": "022-000001320",
+                    "Value": "Di Martino,Andrea,,"
+                },
+                {
+                    "PersonId": "15297",
+                    "RecordID": "022-000001337",
+                    "Value": "Da Carano,Berardino,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15263",
+                "RecordID": "022-000001305",
+                "Value": "Di Fusco,Luca Antonio,,"
+            }
+        },
+        "Notes": "Portrait of Luigi Poderico",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15300",
+                    "RecordID": "022-000001340",
+                    "Value": "Talpa,Metellus,General Vicar,"
+                },
+                {
+                    "PersonId": "15301",
+                    "RecordID": "022-000001341",
+                    "Value": "Guarinus,Franciscus,,"
+                },
+                {
+                    "PersonId": "15302",
+                    "RecordID": "022-000001342",
+                    "Value": "Coragius,Dominicus,,"
+                },
+                {
+                    "PersonId": "15303",
+                    "RecordID": "022-000001343",
+                    "Value": "Paladinus,Carolus,,"
+                },
+                {
+                    "PersonId": "15304",
+                    "RecordID": "022-000001344",
+                    "Value": "Caracciolo,Innico [the elder],Cardinal ,1607-1685"
+                },
+                {
+                    "PersonId": "15305",
+                    "RecordID": "022-000001345",
+                    "Value": "De Luca,Bartholomeus,,"
+                },
+                {
+                    "PersonId": "15309",
+                    "RecordID": "022-000001349",
+                    "Value": "Valero,,,"
+                },
+                {
+                    "PersonId": "15311",
+                    "RecordID": "022-000001351",
+                    "Value": "Capibl.,,,"
+                },
+                {
+                    "PersonId": "5241",
+                    "RecordID": "022-000000233",
+                    "Value": "Cala,,,"
+                },
+                {
+                    "PersonId": "5240",
+                    "RecordID": "022-000000232",
+                    "Value": "Carrillo,,,"
+                },
+                {
+                    "PersonId": "5239",
+                    "RecordID": "022-000000231",
+                    "Value": "Galeota,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "In Congregatione coram Eminentissimo Domino Cardinali Caracciolo Archiepiscopo Neapolitano sub die 26. Novembris 1671.  fuit dictum  quod Reverendus Pater Coragius revideat  & inscriptis referat eidem Congregationi.  M. Talpa Vic. Gen.  Franciscus Guarinus Soc. Iesu Cong. Indic. Secr.  Eminentissime Princeps: iucundissimo animo ex Em. tu\u00e6  iussu hoc opus pervolui  quod inscribitur  Notizie di Nobilt\u00e0  lettere del Sig. Giuseppe Campanile Academico Ozioso  ed Umorista.  Nihil in eo  quod Religioni  aut bonis moribus dissentiat  invenire potui.  Quin etiam quia mirabili   varia eruditionum nobilitate  atq; Elocutionum candore utiliter oblectat  dignissimum pr\u00e6lo censeo  si sic Em. Tu\u00e6 videbitur.  E Collegio neapolitano Societatis Iesu.  Die 14. Novembris 1673.  Emin. Tu\u00e6 Reverendissim\u00e6.  Servuus humilissimus   addictissimus.  Dominicus Antonius Coragius  e Soc. Iesu.  In Congregatione habita coram Em. Dom. Cardinali Caracciolo Archiepisc. Neap. sub. 1 Decembris 1673. fuit dictum  quod stante relatione pr\u00e6dicta imprimatur.  M.Talpa Vic. Gen. Carolus Paladinus Soc. Iesu Deput. Secr.  Magnificus Bartholomeus De Luca videat  & inscriptis sue Excellenti\u00e6 referat.  Galeota R.  Carrillo R.  Capibl. R.  Ortiz Cortes R.  Valero R.  Provisium per Suam Excellentiam Neap. die 9. Decembris 1671.  reti.  Excellentissime Domine.  Notizia aliquarium huius Regni Familiarum quarum vix aliqualis cognitio reperiebatur ob temporum vetustatem eorumque memoria poenitus modernis temporibus  in hoc Regno erat depertita  summo studio magnoq;  labore perpetuisq; vigilijs ab V. I. D. Ioseph Campanili  (in suo libro intitolato de armaria  o vero Notitia de Nobili titulati del Regno de Napoli )  fuit renovata avante ips\u00e3 legi nichilque quod regali iurisdictioni adversetur inveni ob quod dictum librum dignissimum  ut imprimatur diudico  si E. V. videbitur Neapoli die 10. Aprilis 1672.  E. V.  Deditissimus Servuus.  Bartholomeus de luca.  Visa retroscripta relatione imprimatur   in publicatione servetur Regia Pragmatica.  Galeota R.  Carrillo R.  Ortiz Cortes R.  Valero R.  Cal\u00e0 R.  provisum per Suam Excellentiam  Neap. die. 26. Octobris 1763.  Preti",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15229",
+                    "RecordID": "022-000001272",
+                    "Value": "Campanile,Giuseppe,,1620 (?) - 1674"
+                },
+                {
+                    "PersonId": "15278",
+                    "RecordID": "022-000001318",
+                    "Value": "Poderico,Luigi,,"
+                },
+                {
+                    "PersonId": "15280",
+                    "RecordID": "022-000001320",
+                    "Value": "Di Martino,Andrea,,"
+                },
+                {
+                    "PersonId": "15281",
+                    "RecordID": "022-000001321",
+                    "Value": "Di Capova,Bartolomeo,Prince,"
+                },
+                {
+                    "PersonId": "15282",
+                    "RecordID": "022-000001322",
+                    "Value": "Carafa,Marzio,Duke of Maddaloni,"
+                },
+                {
+                    "PersonId": "15283",
+                    "RecordID": "022-000001323",
+                    "Value": "Di Duro,Camillo,,"
+                },
+                {
+                    "PersonId": "15284",
+                    "RecordID": "022-000001324",
+                    "Value": "Brancaccio,Giovambattista,Marquis,"
+                },
+                {
+                    "PersonId": "15286",
+                    "RecordID": "022-000001326",
+                    "Value": "Ravaschiero,Daniello,Prince,"
+                },
+                {
+                    "PersonId": "15287",
+                    "RecordID": "022-000001327",
+                    "Value": "Colonna,Pompeo,Marquis,"
+                },
+                {
+                    "PersonId": "15288",
+                    "RecordID": "022-000001328",
+                    "Value": "Cioffo,Domenico,,"
+                },
+                {
+                    "PersonId": "15289",
+                    "RecordID": "022-000001329",
+                    "Value": "Doria,Antonio,Marquis,"
+                },
+                {
+                    "PersonId": "15293",
+                    "RecordID": "022-000001333",
+                    "Value": "Cosentino,Matteo,,"
+                },
+                {
+                    "PersonId": "15294",
+                    "RecordID": "022-000001334",
+                    "Value": "Habsburg,Charles II,King of Spain,1661-1700"
+                },
+                {
+                    "PersonId": "15295",
+                    "RecordID": "022-000001335",
+                    "Value": "Di Capova,Domenico,Marquis,"
+                },
+                {
+                    "PersonId": "15296",
+                    "RecordID": "022-000001336",
+                    "Value": "Acquaviva de Aragona,Giulio,,"
+                },
+                {
+                    "PersonId": "15298",
+                    "RecordID": "022-000001338",
+                    "Value": "Pagano,Carlo,,"
+                },
+                {
+                    "PersonId": "15299",
+                    "RecordID": "022-000001339",
+                    "Value": "Spinello,Giovambattista,Marquis,"
+                },
+                {
+                    "PersonId": "15234",
+                    "RecordID": "022-000001277",
+                    "Value": "Dentice,Franciscus,,"
+                },
+                {
+                    "PersonId": "17240",
+                    "RecordID": "022-000004055",
+                    "Value": "Di Sangro,Carlo Domenico,Duke of Vietri,"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "15256",
+                "RecordID": "022-000001299",
+                "Value": "D.,C.,,"
+            }
+        },
+        "EngraverReference": "Y",
+        "TitlePageImage": {
+            "ImageId": "52847",
+            "Value": "023-000001442_52847_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Per gli Annali della famiglia Costanza",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15266",
+                            "RecordID": "022-000001308",
+                            "Value": "Barone, Marcello, Friar,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Illustrissimo Et Eccellentiss. Domino Bartholomeo de Capua",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15269",
+                            "RecordID": "022-000001310",
+                            "Value": "Domenichi, Giuseppe , ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

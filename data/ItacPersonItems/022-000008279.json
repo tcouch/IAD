@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20534",
+        "RecordId": "022-000008279",
+        "Surname": "Gonzaga",
+        "Forename": "Vittoria Doria",
+        "Gender": "Female",
+        "PersonalTitle": "Signora di Guastalla|Princess of Molfetta",
+        "DateText": "1569-1618",
+        "StartDate": "1569",
+        "EndDate": "1618",
+        "Nationality": {
+            "NationalityId": "179",
+            "Value": "of Genoa"
+        },
+        "Notes": "Daughter of the Genoese admiral Andrea Doria",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

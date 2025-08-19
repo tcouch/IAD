@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008669",
+        "WorkId": "000990",
+        "ShortTitle": "Accordo della ditta e fratelli co` l Tasso",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Veneziana (Academia)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1560",
+        "DedicationPlaceDate": "Venice 6 January 1560",
+        "Shelfmark": "John Rylands Aldine Collection 628",
+        "Language": "Italian",
+        "Pagination": "1 leaf",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16086",
+                    "RecordID": "022-000002672",
+                    "Value": "Badoer,Alvise,,fl.1557"
+                },
+                {
+                    "PersonId": "16085",
+                    "RecordID": "022-000002671",
+                    "Value": "Badoer,Giovanni,,fl.1557"
+                },
+                {
+                    "PersonId": "16080",
+                    "RecordID": "022-000002665",
+                    "Value": "Badoer,Giustiniano,,fl.1557"
+                },
+                {
+                    "PersonId": "20811",
+                    "RecordID": "022-000008661",
+                    "Value": "Ubaldini,Petruccio,,ca.1524-ca.1600"
+                },
+                {
+                    "PersonId": "5625",
+                    "RecordID": "022-000000695",
+                    "Value": "Tasso,Bernardo,,1493-1569"
+                },
+                {
+                    "PersonId": "16179",
+                    "RecordID": "022-000002801",
+                    "Value": "Marlupini,Marlupino,Abbot,"
+                },
+                {
+                    "PersonId": "20818",
+                    "RecordID": "022-000008670",
+                    "Value": "Rinaldi,Leonardo,,fl.1560"
+                }
+            ]
+        },
+        "Notes": "Agreement between the Academia Veneziana and Bernardo Tasso. Bernardo is granted lodging and 200 hundred ducats a year, for his post as chancellor of the Academy. The document promies to help Bernardo`s son Torquato, should he wish to remain in the Academy, or should he prefer to travel.",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008629",
+        "WorkId": "000973",
+        "ShortTitle": "Aldus Romanus omnibus una cum gr\u00e6cis literis, sanctos etiam mores discere cupientibus.",
+        "LongTitle": "S. P. D. Gregorii episcopi Nazanzeni carmina ... nuper e greco in latinum ad verbum fere tralata.",
+        "ItacAcademyItem": {
+            "AcademyId": "0347",
+            "RecordID": "021-000007158",
+            "Value": "Aldina (Accademia)"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1504",
+        "Shelfmark": "C19c4",
+        "Language": "Latin",
+        "Marginalia": "No",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19742",
+                "RecordID": "022-000007157",
+                "Value": "Manuzio,Aldo Pio,,1449-1515"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

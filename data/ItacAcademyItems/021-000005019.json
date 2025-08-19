@@ -1,0 +1,43 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0104",
+        "RecordId": "021-000005019",
+        "Name": "Strepitosi (Accademia  degli)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1667",
+        "EndDate": "?",
+        "DateText": "1667-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18072",
+                "RecordId": "022-000005020",
+                "Name": "de Marco,Angelo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18073",
+                "RecordId": "022-000005021",
+                "Name": "Macrino,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18074",
+                "RecordId": "022-000005022",
+                "Name": "Pollesi,Nicola,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

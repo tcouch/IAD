@@ -1,0 +1,27 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16363",
+        "RecordId": "022-000003020",
+        "Surname": "Navo`",
+        "Forename": "Curzio Troiano e fratelli",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Curtio de Nav\u00f2 et fratelli"
+            },
+            {
+                "AlternativeSurname": "Curtius Nav\u00f2 & fratres"
+            }
+        ],
+        "DateText": "fl. 1537 - 1542",
+        "StartDate": "fl. 1537",
+        "EndDate": "1542",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "A110 |Z782|Z785",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

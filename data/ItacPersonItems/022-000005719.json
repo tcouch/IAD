@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18657",
+        "RecordId": "022-000005719",
+        "Surname": "de Risi",
+        "Forename": "Pietro",
+        "AlternativeName": {
+            "AlternativeSurname": "de Risis",
+            "AlternativeForename": "Petrus"
+        },
+        "PersonalTitle": "Baron of Colliano and Collianello (Salerno)",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Role": "Dedicatee|Contributor",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

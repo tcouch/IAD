@@ -1,0 +1,163 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001427",
+        "WorkId": "00155",
+        "ShortTitle": "Dell`Antico Ginnasio Napoletano",
+        "LongTitle": "Opera posthuma di Pietro Lasena. Dedicata al signor Giuseppe Valletta",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1688",
+        "DedicationPlaceDate": "Naples 1 July 1688",
+        "Shelfmark": "663.f.14. | 795.g.17",
+        "Subjects": "Author`s biography|dissertations|speeches",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved flyleaf | Decorations",
+        "Pagination": "pp. 229; discontinuous pagination",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15023",
+                "RecordID": "022-000001065",
+                "Value": "Lasena,Pietro,,1590-1636"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15207",
+                    "RecordID": "022-000001249",
+                    "Value": "D. G. A.,,,"
+                },
+                {
+                    "PersonId": "15208",
+                    "RecordID": "022-000001250",
+                    "Value": "Brancaccio,Francesco Maria,Cardinal,1592-1675"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15193",
+                "RecordID": "022-000001235",
+                "Value": "Porpora,Carlo,,"
+            }
+        },
+        "Notes": "The affiliation to the Oziosi Academy is mentioned in Lasena`s biography.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15200",
+                    "RecordID": "022-000001169",
+                    "Value": "Filomarino,Ascanio,Cardinal|Archbishop,1583-1666"
+                },
+                {
+                    "PersonId": "15196",
+                    "RecordID": "022-000001238",
+                    "Value": "Celanus,Carolus,,1617 - 1693"
+                },
+                {
+                    "PersonId": "15197",
+                    "RecordID": "022-000001239",
+                    "Value": "Perissius,Sebastianus,,"
+                },
+                {
+                    "PersonId": "15198",
+                    "RecordID": "022-000001240",
+                    "Value": "Altimare,Blasius,,"
+                },
+                {
+                    "PersonId": "15199",
+                    "RecordID": "022-000001241",
+                    "Value": "Soria,,,"
+                },
+                {
+                    "PersonId": "15201",
+                    "RecordID": "022-000001243",
+                    "Value": "Iacca,,,"
+                },
+                {
+                    "PersonId": "15202",
+                    "RecordID": "022-000001244",
+                    "Value": "Miroballus,,,"
+                },
+                {
+                    "PersonId": "15203",
+                    "RecordID": "022-000001245",
+                    "Value": "Mastellonus,,,"
+                },
+                {
+                    "PersonId": "15205",
+                    "RecordID": "022-000001247",
+                    "Value": "Cipriani,,Marquis,"
+                },
+                {
+                    "PersonId": "15206",
+                    "RecordID": "022-000001248",
+                    "Value": "Provenzalis,,,"
+                },
+                {
+                    "PersonId": "5240",
+                    "RecordID": "022-000000232",
+                    "Value": "Carrillo,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Carlo Porpora libraio di questa citt\u00e0 di Napoli desidera ristampare il Ginnasio napoletano di Pietro la Siena pertanto supplica V. E. di commettere la revisione di detto libro a chi meglio le parer\u00e0 e l`havr\u00e0 a gratia ut Deus. Dominus Canonicus Celanus videat et referat in scriptis hac die 6 Martij 1688. Sebastianus Perissius Vic. Gen. Illustriss. ac Reverendiss. D[omi]ne. Attenstissime perlegi eruditissimum librum titulo quo supra impressum Romae reimprimi possereor ut iacet si ita Dominationi tuae illustrissimae videbitur. Neap. die 8 Mar. 1688. Dominationis tuae Illustriss. Humillimus et addictis. servus Canonicus Celanus Imprimatur stante suprascripta relatione hac die 9 Martij 1688. Sebastianus Perissius Vic. Gen. Carlo Porpora libraro supplicando espone a V. E. come desidera ristampare il Ginnasio Napolitano di Pietro La Sena e i Vergati del medesimo autore. Pertanto la supplica commettere la revisione a chi meglio le parer\u00e0 e l`haver\u00e0 a gratia ut Deus. Magnif. V.I.D. Blasius Altimare videat et in scriptis referat. Soria Reg. Moles Reg. Miroballus Reg. Iacca Reg. Provisum per S. E. neap. 29 Martij 1688. Mastellonus Spectab. Reg. Provenzalis non interfuit. Excellentiss. Domine Libentissime legi; tua excellentia iubente; libros impressos nominatos: Il Ginnasio Napoletano ed i Vergati di Pietro La Sena: qui nihil continent contra iurisdictionem regiam sed sunt pleni pulcherrimis eruditionibus unde reimprimi posse censeo si Excellentiae tuae videtur. Datum Neap. Kal. Aprilis 1688. Excellentiae tuae Humilissimus servus Blasius Altamarus. Visa supradicta relatione imprimatur et in publicatione servetur Regia Pragmatica. Carrillo Reg. Moles Reg. Miroballus Reg. Iacca Reg. Provisum per S. E. Neap. die 7 Aprilis 1688. Mastellonus.  Ill. Marchio Cipriani et Spectab. Reg. Provenzalis non interfuerunt.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15192",
+                "RecordID": "022-000001234",
+                "Value": "Valletta,Giuseppe,,1636 - 1714"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15193",
+                "RecordID": "022-000001235",
+                "Value": "Porpora,Carlo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15193",
+                "RecordID": "022-000001235",
+                "Value": "Porpora,Carlo,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Vita di Pietro Lasena",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15207",
+                            "RecordID": "022-000001249",
+                            "Value": "D. G. A., , ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Post scriptum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15208",
+                            "RecordID": "022-000001250",
+                            "Value": "Brancaccio, Francesco Maria, Cardinal, 1592-1675"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

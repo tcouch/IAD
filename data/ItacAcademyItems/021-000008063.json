@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0531",
+        "RecordId": "021-000008063",
+        "Name": "Ricreduti (Accademia dei)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "ca.1614",
+        "EndDate": "?",
+        "DateText": "ca.1614-?",
+        "Notes": "Publications related to the history of the Ricreduti Academy, include: Magnanini, Ottavio, Relazione del torneo a cauallo, e a piedi, fatto questo Carneuale in Ferrara per ordine dell`Accademia. Dove s`intende il grande apparato, e la marauigliosa inuenzione del sig. Enzo Bentiuogli nel comparire a mantenerlo. Con la descrizione delle pompose liuree de` caualieri combattenti. Compilata dall`Arsiccio Accademico Ricreduto (In Ferrara: per Vittorio Baldini Stampator Camerale, 1612)",
+        "ItacPersonItem": {
+            "PersonId": "20432",
+            "RecordId": "022-000008156",
+            "Name": "Magnanini,Ottavio,,1574-1652",
+            "Nickname": "Arsiccio",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

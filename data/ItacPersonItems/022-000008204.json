@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "20473",
+        "RecordId": "022-000008204",
+        "Surname": "Antimaco",
+        "Forename": "Marco Antonio",
+        "AlternativeName": {
+            "AlternativeForename": "Marcantonio"
+        },
+        "DateText": "ca.1473-1552",
+        "StartDate": "ca.1473",
+        "EndDate": "1552",
+        "Nationality": {
+            "NationalityId": "90",
+            "Value": "of Mantua"
+        },
+        "Notes": "Teacher of the Greek language in the Ferrarese Studium. See Giusto Fontanini, Biblioteca dell`eloquenza italiana, con le note di Apostolo Zeno, vol. I (Venezia, 1740), p. 125.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000291",
+        "WorkId": "00012",
+        "ShortTitle": "Le pitture di Bologna",
+        "LongTitle": "che nella pretesa e rimostrata fin hora da altri maggiore antichita et impareggiabile eccellenza nella pittura con manifesta evidenza di fatto rendono il passeggiere disingannato ed instrutto dell`Ascoso Accademico Gelato. Ai meriti incomparabili del signor Le Brun pittore primario del Re Cristianissimo.",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1686",
+        "Shelfmark": "1044.b.40",
+        "Subjects": "Art History|History of Bologna",
+        "Language": "Italian",
+        "Pagination": "First 12 pages unnumbered; pp. 348",
+        "Marginalia": "No",
+        "Edition": "1st ed.",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5086",
+                "RecordID": "022-000000083",
+                "Value": "Malvasia,Carlo Cesare,Count,1616-1693"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5191",
+                    "RecordID": "022-000000185",
+                    "Value": "Zani,Valerio,Count, - 1696"
+                },
+                {
+                    "PersonId": "5231",
+                    "RecordID": "022-000000223",
+                    "Value": "Musotto,Ioseph.,,"
+                },
+                {
+                    "PersonId": "5232",
+                    "RecordID": "022-000000224",
+                    "Value": "Giacconi,Paolo Geronimo,,"
+                },
+                {
+                    "PersonId": "9700",
+                    "RecordID": "022-000000279",
+                    "Value": "Orighettus,Fulgentius,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Fulgentius Orighettus Clericus Regul. S. Pauli et rector Poenitent. pro Illustrissimo et reverendissimo D. Ioseph. Musotto. Vic. Capit. Bonon. 1685 4 settembre | Illustrissimo Sig. Conte Valerio Zani si contenti considerare se nel presente libro intitolato Le pitture di Bologna et c. vi sia cosa che possi ripugnare al stamparlo et c. et a riferire. F. Paolo Geronimo Giacconi Inquisitore di Bologna | A Comandamenti del Reverendissimo P. Maestro F. Paolo Girolamo Giacconi Inquisitor di Bologna ho letto e considerato il presente libro intitolato Le pitture di Bologna et c. n\u00e9 vi ho ritrovato cosa veruna ripugnante alla Santa Fede a buoni costumi alle Costituzioni pontificie o a Decreti della Sacra Congregazione dell`Indice; per\u00f2 quando cos\u00ec piaccia a Sua Paternit\u00e0 Reverendissima lo gudico dignissimo d`impressione. 10 Settembre 1685 Valerio Zani | Stando la sovraposta attestatione si stampi. F. Paolo Geronimo Giacconi Inquisitore di Bologna.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5204",
+                "RecordID": "022-000000198",
+                "Value": "Lebrun-Tondu,Pierre Henri Helene-Marie,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53107",
+            "Value": "023-000000291_53107_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

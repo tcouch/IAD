@@ -1,0 +1,54 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0394",
+        "RecordId": "021-000007676",
+        "Name": "Indifferenti (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Tree trunk just began to be worked with gauge and mallet by it",
+        "Motto": "Formas fingetur in omnes",
+        "StartDate": "?",
+        "EndDate": "ca.1590",
+        "DateText": "?-ca.1590",
+        "Notes": "For the emblem and motto of the Indifferenti, see Fanti, Notizie (1993). Aome information about the Academy can be found in Arturo Bovi, `Baldi, Bernardino`, in DBI.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20730",
+                "RecordId": "022-000008553",
+                "Name": "Baldi,Bernardino,,?-1612",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6036",
+                "RecordId": "022-000000741",
+                "Name": "Carracci,Lodovico,,1555-1619",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6027",
+                "RecordId": "022-000000758",
+                "Name": "Tiarino,Alessandro,,1577-1668",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20731",
+                "RecordId": "022-000008554",
+                "Name": "Albani,Francesco,,1578-1660",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002560",
+        "WorkId": "000316",
+        "ShortTitle": "La Ninfa Spensierata",
+        "LongTitle": "Del cav. Gio. Battista Bertanni Rappresentata dall`Accademia de i DISUNITI A l`Illistriss. et Eccellentiss. Giorgio Contarini Capitanio di Padova Nella sua Partenza L`Anno 1642. Dedicata all`Illustriss. Marco Contarini",
+        "ItacAcademyItem": {
+            "AcademyId": "0033",
+            "RecordID": "021-000002555",
+            "Value": "Accademia dei Disuniti"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1642?",
+        "DedicationPlaceDate": "Padua 13 December 1642",
+        "Shelfmark": "638.a.34.(5.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Illustration": "Engraved plate|Title page",
+        "Pagination": "pp. 90",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15989",
+                "RecordID": "022-000002557",
+                "Value": "Bertanni,Gio. Battista,,"
+            }
+        },
+        "Notes": "Printer`s name is erased.\nSee also, as separate publication, Applausi accademici rappresentati da i Disuniti per primo intermezzo nella Ninfa spensierata del cavalier Gio. Battista Bertani. All`illustriss. et eccellemtiss. sig Giorgio Contarini capitano di Padoa nella sua partenza (1642?).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15992",
+                "RecordID": "022-000002561",
+                "Value": "Contarini,Marco,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "15991",
+                "RecordID": "022-000002559",
+                "Value": "Accademici Disuniti,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9197",
+                "RecordID": "022-000001781",
+                "Value": "Crivellari,Giulio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53105",
+            "Value": "023-000002560_53105_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004239",
+        "WorkId": "000543",
+        "ShortTitle": "Libri Tres Nuorum Philippi Phinellae",
+        "LongTitle": "Antuerpi\u00e6 Ex Officina Plantiniana Apud Balthassarem Moretum",
+        "ItacAcademyItem": {
+            "AcademyId": "0035",
+            "RecordID": "021-000002615",
+            "Value": "Academia degli Incauti"
+        },
+        "Format": "8\u00ba",
+        "City": {
+            "CityId": "75",
+            "PublicationPlaceItalianName": "Anversa",
+            "PublicationPlaceEnglishName": "Antwerp",
+            "PublicationPlaceLatinName": "Antuerpia"
+        },
+        "PublicationYear": "1633",
+        "DedicationPlaceDate": "Naples 12 July 1632",
+        "Shelfmark": "1651/231.(1.)",
+        "Subjects": "Medicine|Physiognomy|Metoposcopy",
+        "Language": "Latin",
+        "Illustration": "A plate on the title page|Armorial bearing",
+        "Pagination": "pp. 165",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17372",
+                "RecordID": "022-000004212",
+                "Value": "Finella ,Filippo,,"
+            }
+        },
+        "Notes": "For another edition of this work see BL Shelfmark: 1141.b.16.(2.).",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17397",
+                "RecordID": "022-000004240",
+                "Value": "de Ribiera y Enr\u00edquez,Fernando Af\u00e1n ,viceroy of Naples|Duke of Alcal\u00e1,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17398",
+                "RecordID": "022-000004241",
+                "Value": "Moretum,Balthassarem,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

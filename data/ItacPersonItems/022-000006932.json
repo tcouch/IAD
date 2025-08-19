@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19592",
+        "RecordId": "022-000006932",
+        "Surname": "Barozzi",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "DateText": "1537-1604",
+        "StartDate": "1537",
+        "EndDate": "1604",
+        "Nationality": {
+            "NationalityId": "106",
+            "Value": "of Candia"
+        },
+        "Notes": "A Venetian nobleman, he founded the Accademia dei Vivi in Rethymno, where he delivered the oration: `Orazione recitata nell`Accad. dei Vivi il 4 gennaio 1561`, is in ms copy in Biblioteca Universitaria di Padova: ms. n. 64, cc. 68-79. See the entry in DBI for his biography.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

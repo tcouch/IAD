@@ -1,0 +1,60 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001439",
+        "WorkId": "00167",
+        "ShortTitle": "Lettera Istorica | E Iuridica | Del Signor Giuseppe Campanile Acc. Ozioso & Umorista",
+        "LongTitle": "Dove si chiariscono le ragioni indubitate de` Signori D. Domenico | e D. Niccola di Costanzo Germani. | Per gli onori intermessi che loro copetono ex filiatione con l`illustre Seggio di Portanuova di Napoli. | Dirizzata al Sig. Cavaliero di S. Giacomo D. Francesco Dentice di Nido.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1666",
+        "Shelfmark": "1578/3624",
+        "Content": "Research into Neapolitan Archives which shows the legal right for Domenico and Niccola Di Costanzo to belong to the seggio di Portanova area in Naples giving them the rights to be recognised as distinguished citizens.",
+        "Subjects": "Archival research|Prose",
+        "Language": "Italian|Latin",
+        "Illustration": "Plates | Religious figures | a Genealogical tree?|",
+        "Pagination": "First 4 pages unnumbered | pp. 58 | last 2 pages unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15229",
+                "RecordID": "022-000001272",
+                "Value": "Campanile,Giuseppe,,1620 (?) - 1674"
+            }
+        },
+        "Notes": "This text contains MS. notes in Latin and Italian",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15234",
+                "RecordID": "022-000001277",
+                "Value": "Dentice,Franciscus,,"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "15256",
+                "RecordID": "022-000001299",
+                "Value": "D.,C.,,"
+            }
+        },
+        "EngraverReference": "Y",
+        "TitlePageImage": {
+            "ImageId": "54528",
+            "Value": "023-000001439_54528_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55253",
+            "Value": "023-000001439_55253_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

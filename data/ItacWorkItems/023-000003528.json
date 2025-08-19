@@ -1,0 +1,36 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003528",
+        "WorkId": "000457",
+        "ShortTitle": "Capotondo. Commedia rusticale",
+        "LongTitle": "Composta dal Fumoso de` Rozzi",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1577",
+        "Shelfmark": "1071.c.44|162.a.60",
+        "Language": "Italian",
+        "Pagination": "12 leaves",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16746",
+                "RecordID": "022-000003482",
+                "Value": "Salvestro,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53857",
+            "Value": "023-000003528_53857_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

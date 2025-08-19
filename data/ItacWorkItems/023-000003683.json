@@ -1,0 +1,68 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003683",
+        "WorkId": "000490",
+        "ShortTitle": "Philomathi musae iuveniles",
+        "LongTitle": "Editio altera priori auctior",
+        "ItacAcademyItem": {
+            "AcademyId": "0029",
+            "RecordID": "021-000002361",
+            "Value": "Accademia Dei Filomati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "75",
+            "PublicationPlaceItalianName": "Anversa",
+            "PublicationPlaceEnglishName": "Antwerp",
+            "PublicationPlaceLatinName": "Antuerpia"
+        },
+        "PublicationYear": "1654",
+        "DedicationPlaceDate": "Coloniae Agrippinae (Cologne, Germany) April 1645 and Rome November 1653",
+        "Shelfmark": "11408.d.47",
+        "Subjects": "Poetry",
+        "Language": "Latin",
+        "Pagination": "225",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16544",
+                "RecordID": "022-000003251",
+                "Value": "Chigi,Fabio ,Pope Alexander VII,1559 - 1667"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": {
+                "PersonId": "16910",
+                "RecordID": "022-000003685",
+                "Value": "Bolognino,Guilielmus,Canon,"
+            }
+        },
+        "CensorsAgreement": "Philippus IV. Hispaniarum et Indiarum Rex Catholicus, ac Potensissimus Belgarum et Burgundionum Princeps, Diplomate suo sanxit, ne quis `Philomathi Musas Iuveniles`, praeter Balthasaris Moreti voluntatem ullo modo imprimat, aut alibi terrarum impressas in has Germaniae Inferioris ditiones importet, venalesve habeat. Qui secus faxit, confiscatione librorum, et alia gravi poena multabitur; uti latius patet in litteris datis Bruxellae XII Martij MDCLIV. Signat De Fren.\nAPPROBATIO CENSORIS. Poemata haec novis aucta, sicuti ominum praeconiis, ita altero praelo dignissima sunt. Actum VI Junij MDCLIV. Guilielmus Bolognino S.T.L. cacon. et Librorum Censor Antuerpiensis",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16904",
+                "RecordID": "022-000003677",
+                "Value": "Chigi,Flavio,,1631 - 1693"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16903",
+                "RecordID": "022-000003675",
+                "Value": "Furstenberg,Wilhelmus,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17398",
+                "RecordID": "022-000004241",
+                "Value": "Moretum,Balthassarem,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53870",
+            "Value": "023-000003683_53870_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

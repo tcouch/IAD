@@ -1,0 +1,38 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008345",
+        "WorkId": "000936",
+        "ShortTitle": "Astrea favola pastorale",
+        "LongTitle": "di Giovanni Villifranchi Volterrano, all`Illustre Signora Patrona Sua Colendissima, la signora Giovanna Giunta Maffei",
+        "ItacAcademyItem": {
+            "AcademyId": "0100",
+            "RecordID": "021-000004905",
+            "Value": "Veneziana (Accademia)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1594",
+        "Shelfmark": "1071k8(5)",
+        "Subjects": "Pastoral tale",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Notes": "On the frontispiece, the printer declares: `dell`Accademia Venetiana Stampator, et Librar alla Minerva`.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5252",
+                "RecordID": "022-000000243",
+                "Value": "Ciotti,Giovanni Battista,,ca.1564-ca.1635"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55316",
+            "Value": "023-000008345_55316_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

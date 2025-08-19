@@ -1,0 +1,43 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0105",
+        "RecordId": "021-000005023",
+        "Name": "Teologica Scolastica (Accademia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1650s",
+        "EndDate": "?",
+        "DateText": "1650s-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18075",
+                "RecordId": "022-000005024",
+                "Name": "Coraggio,Gesuita,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18076",
+                "RecordId": "022-000005025",
+                "Name": "Guidelli,Alessandro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18077",
+                "RecordId": "022-000005026",
+                "Name": "Pignatelli,Antonio,Pope Innocenzo XII,1615 - 1700",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

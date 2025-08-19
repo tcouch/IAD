@@ -1,0 +1,148 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005308",
+        "WorkId": "000657",
+        "ShortTitle": "La Descrittione Latina del Sito Di Mongibello Di Antonio Filoteo de gli Homodei Siciliano",
+        "LongTitle": "Tradotta in lingua Italica dal R. Dottor D. Leonardo Orlandini e Greco Canonico Reale del Domo di Palermo",
+        "ItacAcademyItem": {
+            "AcademyId": "0114",
+            "RecordID": "021-000005234",
+            "Value": "Accademia degli Accesi (Palermo)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1611",
+        "DedicationPlaceDate": "Palermo 20 February 1611",
+        "Shelfmark": "233.e.23.",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved titlepage||Engraved page|Mount Etna",
+        "Pagination": "pp. 87",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18299",
+                "RecordID": "022-000005306",
+                "Value": "Degli Omodei,Antonio Filoteo,,1510s - 1560s?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18302",
+                    "RecordID": "022-000005310",
+                    "Value": "di Giovanni,Vincenzo,,"
+                },
+                {
+                    "PersonId": "18294",
+                    "RecordID": "022-000005300",
+                    "Value": "Spucces,Gieronimo,,"
+                },
+                {
+                    "PersonId": "18303",
+                    "RecordID": "022-000005311",
+                    "Value": "Cimino,Leonardo,,"
+                },
+                {
+                    "PersonId": "18304",
+                    "RecordID": "022-000005312",
+                    "Value": "Sereno Accademico Acceso,,,"
+                },
+                {
+                    "PersonId": "18290",
+                    "RecordID": "022-000005294",
+                    "Value": "Donia,Matteo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Con Privilegio e Licenza de Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18301",
+                "RecordID": "022-000005309",
+                "Value": "Vintimiglia,Giovanni,Count|Marquis of Ieraci|Prince of Castel Buono,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18256",
+                "RecordID": "022-000005253",
+                "Value": "Orlandini,Leonardo,,1552 - 1618"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18300",
+                "RecordID": "022-000005307",
+                "Value": "de Franceschi,Giovanni Antonio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54524",
+            "Value": "023-000005308_54524_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54525",
+            "Value": "023-000005308_54525_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Del Eccellente Dottor Di Legge Don Vincenzo di Giovanni",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18302",
+                            "RecordID": "022-000005310",
+                            "Value": "di Giovanni,Vincenzo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Eccellente Dottor Filosofo e Medico Girolamo Spucchies",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18294",
+                            "RecordID": "022-000005300",
+                            "Value": "Spucces,Gieronimo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Eccellente Dottor Filosofo e Medico Matteo Donia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18290",
+                            "RecordID": "022-000005294",
+                            "Value": "Donia,Matteo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Eccelllente Dottor Di Legge Leonardo Cimino",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18303",
+                            "RecordID": "022-000005311",
+                            "Value": "Cimino,Leonardo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Del Sereno Academico de Gli Accesi Palermitano. Nella Beata Notte Che Nacque il Re del Cielo.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18304",
+                            "RecordID": "022-000005312",
+                            "Value": "Sereno Accademico Acceso,,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

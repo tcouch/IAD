@@ -1,0 +1,119 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000286",
+        "WorkId": "00007",
+        "ShortTitle": "Ricreationi Amorose",
+        "LongTitle": "degli Academici Gelati",
+        "ItacAcademyItem": {
+            "AcademyId": "0001",
+            "RecordID": "021-000000001",
+            "Value": "Accademia dei Gelati"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1590",
+        "DedicationPlaceDate": "Bologna 3 March 1590",
+        "Shelfmark": "11426.a.5",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Illustration": "Engraved flyleaf | Academy emblem | Engraved plates | Academicians` emblems",
+        "Pagination": "pp. 96",
+        "Marginalia": "Yes",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5030",
+                    "RecordID": "022-000000032",
+                    "Value": "Mauritio,Giovanni Battista,,?1635"
+                },
+                {
+                    "PersonId": "5031",
+                    "RecordID": "022-000000033",
+                    "Value": "Balzani,Paolo Emilio,,"
+                },
+                {
+                    "PersonId": "5032",
+                    "RecordID": "022-000000034",
+                    "Value": "Zoppio,Melchiorre,,1544-1634/7"
+                },
+                {
+                    "PersonId": "5034",
+                    "RecordID": "022-000000036",
+                    "Value": "Faberi,Lucio,,1550s-1610"
+                },
+                {
+                    "PersonId": "5035",
+                    "RecordID": "022-000000037",
+                    "Value": "Fabretti,Vincenzo,,"
+                },
+                {
+                    "PersonId": "5036",
+                    "RecordID": "022-000000038",
+                    "Value": "Caccianemici,Francesco Maria,,"
+                },
+                {
+                    "PersonId": "5045",
+                    "RecordID": "022-000000047",
+                    "Value": "Gessi,Camillo,Senator,1571-1635"
+                },
+                {
+                    "PersonId": "5046",
+                    "RecordID": "022-000000048",
+                    "Value": "Gessi,Cesare,,1568"
+                },
+                {
+                    "PersonId": "5049",
+                    "RecordID": "022-000000051",
+                    "Value": "Testa,Lelio,,"
+                }
+            ]
+        },
+        "Notes": "The same volume contains Zoppio`s Psafone. For the attribution of the engraved plates to Agostino Carracci see DeGrazia, Le stampe dei Carracci con i disegni le incisioni le copie e i dipinti connessi, Catalogo critico edizione italiana riveduta e aumentata tradotta e curata da Antonio Boschetto (Bologna: Alfa 1984) pp. 163-68.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5139",
+                "RecordID": "022-000000135",
+                "Value": "Gonzaga,Scipione,Abbot|Cardinal,1542-1593"
+            }
+        },
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            }
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "5119",
+                "RecordID": "022-000000115",
+                "Value": "Carracci,Agostino,,1557-1602"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "5119",
+                "RecordID": "022-000000115",
+                "Value": "Carracci,Agostino,,1557-1602"
+            }
+        },
+        "EngraverReference": "DeGrazia pp. 163-68",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5247",
+                "RecordID": "022-000000239",
+                "Value": "Rossi,Giovanni,,\u20201595"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52707",
+            "Value": "023-000000286_52707_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

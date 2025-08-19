@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7558",
+        "RecordId": "022-000001462",
+        "Surname": "Cornetti",
+        "Forename": "Iacomo",
+        "Gender": "Male",
+        "DateText": "fl.1584-1592",
+        "StartDate": "fl.1584",
+        "EndDate": "1592",
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "Cornetti was active in Venice during the dates shown. As from 1592 he was succeeded by his son Simone and his brothers.",
+        "Role": "Printer",
+        "TypographicReference": "Q39 |V324|Z1010",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

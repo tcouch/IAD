@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005125",
+        "WorkId": "000625",
+        "ShortTitle": "Sopra l\u2019impresa degli Accademici Humoristi.",
+        "LongTitle": "Discorso di Girolamo Aleandro detto nella stessa Accademia l` Aggirato. Da lui in tre lezioni, pubblicamente recitato",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1611",
+        "Shelfmark": "11805.dd.4",
+        "Subjects": "Emblems",
+        "Language": "Italian",
+        "Pagination": "68",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16073",
+                "RecordID": "022-000002657",
+                "Value": "Aleandro,Girolamo (Il giovane),,1574 - 1629"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15214",
+                    "RecordID": "022-000001256",
+                    "Value": "Donatus,Gregorius,,"
+                },
+                {
+                    "PersonId": "15212",
+                    "RecordID": "022-000001254",
+                    "Value": "Fidelis,Caesar,,"
+                },
+                {
+                    "PersonId": "18185",
+                    "RecordID": "022-000005164",
+                    "Value": "Pallavicinus ,Thomas,,"
+                },
+                {
+                    "PersonId": "18184",
+                    "RecordID": "022-000005163",
+                    "Value": "Ystella,Ludovicus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur Reverendissimo P. Magistro Sacri Palatij Apostolici Caesar Fidelis Vicesg. Ego Fr Gregorius Donatus Ord. Praed. Collegij Rom. S. Thomae Aquinatis publicus Philosophiae professor, ex commissione Reverendissimi P. Fr. Ludovici Ystella Sacri Palatii Apostolici Magistri, opusculum hoc  D. Hyeronymi Aleandri super symbolum inclitae Humoristarum Academiae diligenter perlegi, ac inveni illud non modo sanae, Catholicaeq. docrinae consonum, verum etiam dignum, quod ab omnibus legatur. Quare illud approbo, ac typis mandandum censeo. In quorum fidem has manu mea subscriptas dedi. Romae die 27 Iunii 1611. Fr. Gregorius Donatus qui supra\nImprimatur Fr. Thomas Pallavicinus Bonon. Magister et Reverendissimi P. Fr. Ludovici Ystella Sacri Palatii Apostolici Magistri Socius, Ordinis Praed.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17441",
+                "RecordID": "022-000004300",
+                "Value": "Mascardi,Giacomo,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

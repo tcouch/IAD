@@ -1,0 +1,56 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001038",
+        "WorkId": "00069",
+        "ShortTitle": "Gavini Sambigucii Sardi Sassarensis In Hermatenam Bocchiam Interpretatio",
+        "LongTitle": "Ad Illustriss. Et Reverendiss. D. Salvatorem Salapussium Archiepis. Sassarensem Sacri Tridentini Concilij Decanum et Caesareae Maiestatis a Consiliis. In qua pertractantur et referuntur ea quae sequenti pagina continentur",
+        "ItacAcademyItem": {
+            "AcademyId": "0016",
+            "RecordID": "021-000001019",
+            "Value": "Accademia Bocchiana"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1556",
+        "Shelfmark": "8404.dd.11 | 525.f.5",
+        "Language": "Latin|Greek",
+        "Illustration": "Engraving | Emblem",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7501",
+                "RecordID": "022-000001021",
+                "Value": "Sambigucius,Gavinus,,1502-1567"
+            }
+        },
+        "Notes": "In the colophon: different typographic ornament; Bononiae apud Antonium Manutium Aldi filium 13 Decembris 1556",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16310",
+                "RecordID": "022-000002963",
+                "Value": "Salepusi,Salvatore Alessio,Archbishop of Sassari,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7508",
+                "RecordID": "022-000001029",
+                "Value": "Manuzio,Antonio,,1555-1557"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52629",
+            "Value": "023-000001038_52629_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "52630",
+            "Value": "023-000001038_52630_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

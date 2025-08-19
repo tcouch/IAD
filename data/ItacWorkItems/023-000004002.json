@@ -1,0 +1,62 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004002",
+        "WorkId": "000518",
+        "ShortTitle": "Parere Del Signor Lionardo Di Capoa, Divisato in otto Ragionamenti",
+        "LongTitle": "Ne` Quali partitamente narrandosi l`origine, e`l progresso della Medicina, chiaramente l`incertezza della medesima si fa manifesta. Terza Impressione. All`Illustrissimo Signor Gio. Leoni Montenari Nobile Vicentino, E Conte di Ladzin.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1695",
+        "Shelfmark": "1570/2575.",
+        "Subjects": "Medicine|Science",
+        "Language": "Italian|Latin|Greek",
+        "Illustration": "Engraved title page|Attributes of Mercury",
+        "Pagination": "pp. 304",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16142",
+                "RecordID": "022-000002754",
+                "Value": "Di Capua,Leonardo,,1617 - 1695"
+            }
+        },
+        "Notes": "On p. 264, the author mentions the Investiganti Academy in Naples.\nFor another copy of this edition see Lionardo di Capoa, Parere Del Signor Lionardo di Capoa, Napoli, Raillard, 1689 (BL shelfmark: 1165.i.1.)",
+        "CensorsAgreement": "Con Licenza De` Superiori E Privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17193",
+                "RecordID": "022-000004003",
+                "Value": "Montanari Leoni,Giovanni,Count of Ladzin,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16213",
+                "RecordID": "022-000002848",
+                "Value": "Buragna ,Carlo,,1632 - 1679?"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16216",
+                "RecordID": "022-000002851",
+                "Value": "Raillard,Giacomo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53940",
+            "Value": "023-000004002_53940_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

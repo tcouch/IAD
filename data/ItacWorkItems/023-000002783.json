@@ -1,0 +1,39 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002783",
+        "WorkId": "000352",
+        "ShortTitle": "Ode In Lode Della Famosa Accademia De` Signori Investiganti.",
+        "LongTitle": "Lodasi l`Istituto dell`Accademia, d`investigar le cagioni de gli effetti naturali, secondo la maniera insegnata dal Gran Galileo, per mezzo delle sperienze; professando, con assoluta independenza da qualsivoglia setta, una intiera libert\u00e0 nel Filosofare.",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "Naples?",
+        "DedicationPlaceDate": "1 April 1665",
+        "Shelfmark": "33.d.18.(9.)",
+        "Subjects": "Encomiastic poetry",
+        "Language": "Italian",
+        "Pagination": "pp. 4",
+        "Marginalia": "No",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0043",
+                "RecordID": "021-000002758",
+                "Value": "Accademia De Gli Investiganti"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "52910",
+            "Value": "023-000002783_52910_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

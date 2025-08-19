@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0339",
+        "RecordId": "021-000007143",
+        "Name": "Abbagliati (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "bronze vase reflecting sun`s rays",
+        "Motto": "Per omnia versat",
+        "StartDate": "1650?",
+        "EndDate": "?",
+        "DateText": "1650?-?",
+        "Notes": "According to Maylender, the Abbagliati Academy was created in 1650 in one Marini`s house at San Moise` by Girolamo Brusoni of Legnago.",
+        "ItacPersonItem": {
+            "PersonId": "19736",
+            "RecordId": "022-000007144",
+            "Name": "Brusoni,Girolamo,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

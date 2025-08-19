@@ -1,0 +1,75 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003025",
+        "WorkId": "000389",
+        "ShortTitle": "Thomae Cornelii Consentini Progymnasmata Physica",
+        "LongTitle": "Ad Illst. & Excell. D. Domin. Franciscum Marinum Caracciolum Abellinatum Principem",
+        "ItacAcademyItem": {
+            "AcademyId": "0043",
+            "RecordID": "021-000002758",
+            "Value": "Accademia De Gli Investiganti"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1663",
+        "DedicationPlaceDate": "Naples October 1663",
+        "Shelfmark": "536.i.23.",
+        "Subjects": "Speeches on Physics",
+        "Language": "Latin|Greek",
+        "Illustration": "Plate|Mythological figures",
+        "Pagination": "pp. 192",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16245",
+                "RecordID": "022-000002892",
+                "Value": "Cornelio,Tommaso,,1614 - 1684"
+            }
+        },
+        "Notes": "In the preface to the reader, the editor Leonardo Di Capua refers to the Investiganti Academy.",
+        "CensorsAgreement": "Superiorum permissu, & Privilegio",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15031",
+                "RecordID": "022-000001073",
+                "Value": "Caracciolo,Francesco Marino,Prince  ,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "16142",
+                "RecordID": "022-000002754",
+                "Value": "Di Capua,Lionardo,,1617 - 1695"
+            }
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16368",
+                "RecordID": "022-000003032",
+                "Value": "Merlo,Giovanni,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15134",
+                "RecordID": "022-000001176",
+                "Value": "Baba,Francesco,,"
+            }
+        },
+        "PrinterOrnament": "MAR.TE. 536",
+        "TitlePageImage": {
+            "ImageId": "53494",
+            "Value": "023-000003025_53494_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "53493",
+            "Value": "023-000003025_53493_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

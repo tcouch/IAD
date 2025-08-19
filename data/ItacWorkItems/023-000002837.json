@@ -1,0 +1,94 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002837",
+        "WorkId": "000363",
+        "ShortTitle": "Lettere Memorabili, Istoriche, Politiche, Ed Erudite",
+        "LongTitle": "Scritte, o Raccolte Da Antonio Bulifon, E dedicate All`Illustriss. ed Eccellentiss. Sign. D. Antonio Giudice Principe di Cellamare, &c.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0047",
+                "RecordID": "021-000002835",
+                "Value": "Accademia degli Adornati"
+            },
+            {
+                "AcademyId": "0054",
+                "RecordID": "021-000003384",
+                "Value": "Accademia degli Uniti"
+            }
+        ],
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1698",
+        "DedicationPlaceDate": "20 December 1698",
+        "Shelfmark": "246.b.30-32.",
+        "Subjects": "Correspondence",
+        "Language": "Italian|Latin",
+        "Illustration": "Plates|Portrait of Leonardo Di Capoa",
+        "Pagination": "pp. 1123 (3 vols)",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5260",
+                "RecordID": "022-000000251",
+                "Value": "Bulifon,Antonio,,1649-c. 1700"
+            }
+        },
+        "Notes": "246.b.30, pp. 177-215, contain two Academic speeches delivered by Luc`Antonio Porzio. \n\nAndrea Magliar is the engraver of Leonardo Di Capoa`s portrait  (246.b.32., p. 271).\n\nOn p. 271(246.b.32) the author mentions the Adornati Academy in Naples; on p. 280 the author mentions the Investiganti Academy. \n \n(246.b.31), pp. 306-319, contains an Academic speech delivered by Bartolomeo Ceva Grimaldi, Duke of Telese, at the Uniti Academy in Naples.",
+        "CensorsAgreement": "Con licenza de` Superiori",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16207",
+                    "RecordID": "022-000002838",
+                    "Value": "Giudice ,Antonio,Prince of Cellamare,"
+                },
+                {
+                    "PersonId": "16925",
+                    "RecordID": "022-000003703",
+                    "Value": "Caracciolo ,Carmine Nicol\u00f2,Duke|Prince of Santobuono,"
+                },
+                {
+                    "PersonId": "16924",
+                    "RecordID": "022-000003702",
+                    "Value": "Caracciolo ,Francesco Maria,Prince|Duke,"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "16208",
+                "RecordID": "022-000002839",
+                "Value": "Magliar,Andrea,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5260",
+                "RecordID": "022-000000251",
+                "Value": "Bulifon,Antonio,,1649-c. 1700"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53920",
+            "Value": "023-000002837_53920_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Antonio Bulifon all`Illustrissimo Signor D. Gio: Francesco Marciano Reggente nel Supremo Consiglio d`Italia, in Madrid: inviandogli un`orazione funerale fatta in morte del Signor Lionardo di Capoa (pp. 270-310)",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16206",
+                        "RecordID": "022-000002836",
+                        "Value": "Crescenzio ,Niccol\u00f2,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

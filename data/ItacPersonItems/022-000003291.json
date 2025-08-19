@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16573",
+        "RecordId": "022-000003291",
+        "Surname": "Selvatico",
+        "Forename": "Antonio",
+        "DateText": "1605 - 1678",
+        "StartDate": "1605",
+        "EndDate": "1678",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Nobleman, canon of the cathedral in Padua since 1632, joined the Ricovrati in 1633.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

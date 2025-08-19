@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17512",
+        "RecordId": "022-000004388",
+        "Surname": "Corner",
+        "Forename": "Federico",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Cornaro",
+            "AlternativeForename": null
+        },
+        "PersonalTitle": "Bishop of Padua|Cardinal",
+        "DateText": "1531-1590",
+        "StartDate": "1531",
+        "EndDate": "1590",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "See his biography by P. Frasson, in DBI.",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

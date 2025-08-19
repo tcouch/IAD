@@ -1,0 +1,55 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0033",
+        "RecordId": "021-000002555",
+        "Name": "Disuniti-Padova (Accademia dei)",
+        "City": {
+            "CityId": "3",
+            "CityItalianName": "Padova",
+            "CityEnglishName": "Padua",
+            "CityLatinName": "Patavii"
+        },
+        "EmblemDescription": "Four elements",
+        "Motto": "E Nela Disunion Restaro Amici",
+        "StartDate": "1640",
+        "EndDate": "?",
+        "DateText": "1640-?",
+        "Notes": "Other publications related to the history of the Academy, but not in British Library collections, include:\nI tormenti amorosi del Bertanni, dedicated to Pietro Corraro (1641).\nIl Marino Araldo del cav. Gio. Bat. Bert. per espressione degli ossequi rappresentati dalla Accad. de i Disuniti a l`illust. et eccell. sig. Pietro Corraro capitano di Padova, nella sua partenza l`anno 1641. Dedicato all`illust. sig. Giacomo Corraro (Crivellari, 1641).\nLauro identifies one `Incognito` and one `Incostante` as members of the Academy, see Rino Lauro, Padova: bibliografia storico letteraria: 1472-1900, intro. Sergio Romano (2007).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15989",
+                "RecordId": "022-000002557",
+                "Name": "Bertanni,Gio. Battista,,",
+                "Nickname": "L`Instabile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16502",
+                "RecordId": "022-000003189",
+                "Name": "Carlesco,Angelo,,",
+                "Nickname": "Il Niente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16503",
+                "RecordId": "022-000003190",
+                "Name": "Donzella,Antonio Clementi,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "16504",
+                "RecordId": "022-000003191",
+                "Name": "Incerto ne` Disuniti,,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16490",
+        "RecordId": "022-000003174",
+        "Surname": "Taverna",
+        "Forename": "Mattio",
+        "PersonalTitle": "Count",
+        "DateText": "1615 - 1684",
+        "StartDate": "1615",
+        "EndDate": "1684",
+        "Nationality": {
+            "NationalityId": "76",
+            "Value": "Milanese"
+        },
+        "Notes": "Jesuit preacher.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

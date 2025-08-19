@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17410",
+        "RecordId": "022-000004261",
+        "Surname": "\u00c1lvarez de Toledo y Zu\u00f1iga",
+        "Forename": "Pedro",
+        "Gender": "Male",
+        "PersonalTitle": "Marquis of Villafranca|viceroy of Naples",
+        "DateText": "1484-1553",
+        "StartDate": "1484",
+        "EndDate": "1553",
+        "Nationality": {
+            "NationalityId": "61",
+            "Value": "Spanish"
+        },
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

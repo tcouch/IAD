@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19124",
+        "RecordId": "022-000006260",
+        "Surname": "Cesi",
+        "Forename": "Federico",
+        "Gender": "Male",
+        "PersonalTitle": "Prince of  Acquasparta",
+        "DateText": "1585-1630",
+        "StartDate": "1585",
+        "EndDate": "1630",
+        "Nationality": {
+            "NationalityId": "110",
+            "Value": "Roman"
+        },
+        "Role": "Contributor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

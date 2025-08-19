@@ -1,0 +1,35 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004274",
+        "WorkId": "000556",
+        "ShortTitle": "Assetta",
+        "LongTitle": "Commedia rusticale di Bartolommeo Mariscalco, della Congrega dei Rozzi. Arricchita d`un copioso indice d`altre commedie di questo genere, e d`una spiegazione per Alfabeto di molte voci oscure o corrotte.",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "57",
+            "PublicationPlaceItalianName": "Parigi",
+            "PublicationPlaceEnglishName": "Paris",
+            "PublicationPlaceLatinName": "Parisium"
+        },
+        "PublicationYear": "1756",
+        "DedicationPlaceDate": "Paris 30 August 1756",
+        "Shelfmark": "162.g.50|639.f.8",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "138",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17353",
+                "RecordID": "022-000004185",
+                "Value": "Trinci,Francesco Mariano,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

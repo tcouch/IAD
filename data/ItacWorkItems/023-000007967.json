@@ -1,0 +1,193 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007967",
+        "WorkId": "000906",
+        "ShortTitle": "Historia Sacra Intitolata Mare Oceano di tutte le Religioni del Mondo.",
+        "LongTitle": "Divisa in Cinque Libri",
+        "ItacAcademyItem": {
+            "AcademyId": "0484",
+            "RecordID": "021-000007963",
+            "Value": "Accademia degli Spensierati (Messina?)"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1613",
+        "DedicationPlaceDate": "Messina 10 August 1613",
+        "Shelfmark": "491.k.1.",
+        "Subjects": "Sacred History",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Royal Coat of Arms of Spain",
+        "Pagination": "pp. 439",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20308",
+                "RecordID": "022-000007962",
+                "Value": "Maurolico,Silvestro,Monsignor|Abbot,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18873",
+                    "RecordID": "022-000005959",
+                    "Value": "Frassia,Girolamo,,?-1668?"
+                },
+                {
+                    "PersonId": "20310",
+                    "RecordID": "022-000007965",
+                    "Value": "Missina,Ascanio,,"
+                },
+                {
+                    "PersonId": "20311",
+                    "RecordID": "022-000007966",
+                    "Value": "Brea,Giovanni Filippo,,"
+                },
+                {
+                    "PersonId": "17909",
+                    "RecordID": "022-000004831",
+                    "Value": "Caracciolo,Lelio,,"
+                },
+                {
+                    "PersonId": "15095",
+                    "RecordID": "022-000001136",
+                    "Value": "Errico,Scipione,,1592 - 1670"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "20312",
+                    "RecordID": "022-000007968",
+                    "Value": "de Cara,Gabriel,,"
+                },
+                {
+                    "PersonId": "20313",
+                    "RecordID": "022-000007969",
+                    "Value": "Ioseph,,General Vicar,"
+                },
+                {
+                    "PersonId": "20314",
+                    "RecordID": "022-000007970",
+                    "Value": "Crisafulli,Sanctorus,,"
+                },
+                {
+                    "PersonId": "20315",
+                    "RecordID": "022-000007971",
+                    "Value": "Rao,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Vidit D. Gabriel de Cara\nImprimatur Ioseph V. G. \nD. Sanctorus Crisafulli pro Illustriss. Praesid. Rao.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15138",
+                    "RecordID": "022-000001180",
+                    "Value": "Philip III,,King of Spain,1578 - 1621"
+                },
+                {
+                    "PersonId": "20309",
+                    "RecordID": "022-000007964",
+                    "Value": "Duegna Quintana ,Antonio,Spanish Regent on the Council of Italy|Baron of Forest and San Giorgio,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18227",
+                "RecordID": "022-000005211",
+                "Value": "Brea,Pietro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55254",
+            "Value": "023-000007967_55254_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55255",
+            "Value": "023-000007967_55255_4.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "All'Illustrissima, & Felicissima Maest\u00e0 di Filippo Terzo D'Austria Delli Regni di Spagna, e d'ambedue le Sicilie, di Gierusalemme, e dell'Indie Orientali, ed Occidentali, e dell'Isole del Mare Oceano R\u00e8 Gloriosissimo, e Trionfante.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20308",
+                            "RecordID": "022-000007962",
+                            "Value": "Maurolico,Silvestro,Monsignor|Abbot,?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "All'Illustrissimo Signor D. Antonio Quintana Duegna del Consiglio di Sua Maest\u00e0, e Reggente del supremo Consiglio d'Italia, Barone della Foresta, e di San Giorgio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20308",
+                            "RecordID": "022-000007962",
+                            "Value": "Maurolico,Silvestro,Monsignor|Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di D. Girolamo Frassia Dottor Theologo, & Accademico Spensierato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18873",
+                            "RecordID": "022-000005959",
+                            "Value": "Frassia,Girolamo,,?-1668?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di D. Ascanio Missina",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20310",
+                            "RecordID": "022-000007965",
+                            "Value": "Missina,Ascanio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Gio. Filippo Brea",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "20311",
+                            "RecordID": "022-000007966",
+                            "Value": "Brea,Giovanni Filippo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Lelio Caracciolo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17909",
+                            "RecordID": "022-000004831",
+                            "Value": "Caracciolo,Lelio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di Scipione Herrico",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15095",
+                            "RecordID": "022-000001136",
+                            "Value": "Errico,Scipione,,1592 - 1670"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

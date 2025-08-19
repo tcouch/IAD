@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15479",
+        "RecordId": "022-000002005",
+        "Surname": "Pagani",
+        "Forename": "Alfonso",
+        "Gender": "Male",
+        "DateText": "ca.1558-1607",
+        "StartDate": "ca.1558",
+        "EndDate": "1607",
+        "Nationality": {
+            "NationalityId": "142",
+            "Value": "of Parma"
+        },
+        "Notes": "Violin player. Musician to the King of Poland, Sigismond III.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004160",
+        "WorkId": "000530",
+        "ShortTitle": "Dialogo amoroso",
+        "LongTitle": "di Phylolauro di Cave. Dove con belle fintioni narra le Lode delle Famose, et Generose Donne di Siena. Allo illustrissimo Signor Duca di Malfi Padrone suo osservadissimo",
+        "ItacAcademyItem": {
+            "AcademyId": "0069",
+            "RecordID": "021-000004154",
+            "Value": "Accademia degli Sborrati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1533",
+        "Shelfmark": "G.10342",
+        "Subjects": "Love",
+        "Language": "Italian",
+        "Pagination": "[144]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17331",
+                "RecordID": "022-000004156",
+                "Value": "da Cave,Phylolauro,,fl. 1533"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17332",
+                    "RecordID": "022-000004157",
+                    "Value": "Cimotto,,,"
+                },
+                {
+                    "PersonId": "17334",
+                    "RecordID": "022-000004159",
+                    "Value": "Curioso,,,"
+                },
+                {
+                    "PersonId": "17336",
+                    "RecordID": "022-000004162",
+                    "Value": "Archisborrato,,,"
+                },
+                {
+                    "PersonId": "17333",
+                    "RecordID": "022-000004158",
+                    "Value": "Insipido,,,"
+                },
+                {
+                    "PersonId": "17338",
+                    "RecordID": "022-000004164",
+                    "Value": "da Cave,Mario,,"
+                },
+                {
+                    "PersonId": "17339",
+                    "RecordID": "022-000004165",
+                    "Value": "di Baroni da Cave,Anselmo,,"
+                }
+            ]
+        },
+        "Notes": "In the colophon: `Stampato nella inclita citta` di Siena per Calistro Dubbioso di Simeone di Nicolo` a di 5 Dicembre del Anno 1533`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17335",
+                "RecordID": "022-000004161",
+                "Value": "Piccolomini,Alfonso II,Duke of Amalfi,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17330",
+                "RecordID": "022-000004155",
+                "Value": "Nardi,Callisto,,fl.1533 - 1541"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54178",
+            "Value": "023-000004160_54178_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Canzone alle donne di Siena",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17339",
+                            "RecordID": "022-000004165",
+                            "Value": "di Baroni da Cave,Anselmo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Canzone al Phylolauro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17339",
+                            "RecordID": "022-000004165",
+                            "Value": "di Baroni da Cave,Anselmo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alle Donne di Siena",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17338",
+                            "RecordID": "022-000004164",
+                            "Value": "da Cave,Mario,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Alle Donne di Siena",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17336",
+                            "RecordID": "022-000004162",
+                            "Value": "Archisborrato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A Phylolauro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17336",
+                            "RecordID": "022-000004162",
+                            "Value": "Archisborrato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A i Lettori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17332",
+                            "RecordID": "022-000004157",
+                            "Value": "Cimotto,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "A le Donne Senesi e alli Sborrati. Sopra Phylolauro",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17333",
+                            "RecordID": "022-000004158",
+                            "Value": "Insipido,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "In laude dell`opra ai Lettori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17334",
+                            "RecordID": "022-000004159",
+                            "Value": "Curioso,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il medesimo alli innamorati delle lodate donne",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17334",
+                            "RecordID": "022-000004159",
+                            "Value": "Curioso,,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

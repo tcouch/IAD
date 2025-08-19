@@ -1,0 +1,228 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005731",
+        "WorkId": "000695",
+        "ShortTitle": "Amantissime Heroidum Epist. seu Amoris Querimoniae",
+        "LongTitle": "A Francisco Mele Bitont, Academico Lacrymoso V. I. Professore Acutissimo. Anno aetatis suae XVI. Carmine Elegiaco compositae.",
+        "ItacAcademyItem": {
+            "AcademyId": "0129",
+            "RecordID": "021-000005713",
+            "Value": "Academia Iracundorum"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1631",
+        "Shelfmark": "11405.a.28.",
+        "Subjects": "Poetry|Encomiastic poetry",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraving|Author`s portrait",
+        "Pagination": "pp. 138",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18652",
+                "RecordID": "022-000005714",
+                "Value": "Mele,Francesco,,1613? - ?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18654",
+                    "RecordID": "022-000005716",
+                    "Value": "Gala,Giovanni Angelo,,"
+                },
+                {
+                    "PersonId": "17651",
+                    "RecordID": "022-000004545",
+                    "Value": "Ricci,Onofrio,,1599 - 1656"
+                },
+                {
+                    "PersonId": "18655",
+                    "RecordID": "022-000005717",
+                    "Value": "de Gratia,Giovanni Simone,,"
+                },
+                {
+                    "PersonId": "18656",
+                    "RecordID": "022-000005718",
+                    "Value": "Verciullo,Francesco,,"
+                },
+                {
+                    "PersonId": "18657",
+                    "RecordID": "022-000005719",
+                    "Value": "de Risi,Pietro,Baron of Colliano and Collianello (Salerno),"
+                },
+                {
+                    "PersonId": "18658",
+                    "RecordID": "022-000005720",
+                    "Value": "Ponsi,Carlo,,"
+                },
+                {
+                    "PersonId": "15173",
+                    "RecordID": "022-000001215",
+                    "Value": "Cusano,Biagio,,\u20201683"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15123",
+                    "RecordID": "022-000001164",
+                    "Value": "Tamburellus,Felix,General Vicar,"
+                },
+                {
+                    "PersonId": "18653",
+                    "RecordID": "022-000005715",
+                    "Value": "Candidus,Cyrillus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur, Felix Tamburellus Vic. Gen.; \nF. Cyrillus Candidus Carm. Dep.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17559",
+                    "RecordID": "022-000004446",
+                    "Value": "Carafa,Tiberio,Prince of Bisignano,"
+                },
+                {
+                    "PersonId": "18663",
+                    "RecordID": "022-000005725",
+                    "Value": "de Angulo,Gregorio,,"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18669",
+                "RecordID": "022-000005732",
+                "Value": "de Franco,Vincenzo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54635",
+            "Value": "023-000005731_54635_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Ad Excellentiss. Principem D. Tyberium Carafa. Aurei Velleris Equitem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18652",
+                            "RecordID": "022-000005714",
+                            "Value": "Mele,Francesco,,1613? - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Scipionem Sebastianum sodalem dum se nolle discedere dicebat",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18652",
+                            "RecordID": "022-000005714",
+                            "Value": "Mele,Francesco,,1613? - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Nicol. Anton. Marott. I.V.D. Nicolaus Antonius Marotta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18652",
+                            "RecordID": "022-000005714",
+                            "Value": "Mele,Francesco,,1613? - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Scipionem Rovitum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18652",
+                            "RecordID": "022-000005714",
+                            "Value": "Mele,Francesco,,1613? - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Gregorium de Angulo Reg. Consiliar. Iracundorum Academiae Patronum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18652",
+                            "RecordID": "022-000005714",
+                            "Value": "Mele,Francesco,,1613? - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Anchanarum sodalem de Gallo suo absente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18652",
+                            "RecordID": "022-000005714",
+                            "Value": "Mele,Francesco,,1613? - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Ill. D. Francisc. Salutium Bitont. Episc. Motul. & Prior. S. Nicol. Baren. Dum eius insignia caput leonis panderent.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18652",
+                            "RecordID": "022-000005714",
+                            "Value": "Mele,Francesco,,1613? - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad R. P. Cyrillum Candidum opuscoli authoris correctorem Dep.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18652",
+                            "RecordID": "022-000005714",
+                            "Value": "Mele,Francesco,,1613? - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Antonio Baccalario sodale.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18652",
+                            "RecordID": "022-000005714",
+                            "Value": "Mele,Francesco,,1613? - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ioseph Mele I.C. Ad Franciscum Mele filium suum dilectissimum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18668",
+                            "RecordID": "022-000005730",
+                            "Value": "Mele,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Io. Simonis de Gratia Bovinen. Ad Franciscum Mele Authorem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18655",
+                            "RecordID": "022-000005717",
+                            "Value": "de Gratia,Giovanni Simone,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

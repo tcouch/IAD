@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004176",
+        "WorkId": "000533",
+        "ShortTitle": "La rappresentatione di Santa Colomba",
+        "LongTitle": "vergine e martire. Composta nuovamente dal desioso Insipido Sanese",
+        "ItacAcademyItem": {
+            "AcademyId": "0061",
+            "RecordID": "021-000003726",
+            "Value": "Congrega degli Insipidi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "73",
+            "PublicationPlaceItalianName": "Siena e Pistoia",
+            "PublicationPlaceEnglishName": "Siena and Pistoia",
+            "PublicationPlaceLatinName": "Senis et Pistoriensis"
+        },
+        "PublicationYear": "1625",
+        "Shelfmark": "11426.dd.19",
+        "Subjects": "Religious poetry",
+        "Language": "Italian",
+        "Pagination": "[16]",
+        "Marginalia": "No",
+        "Edition": "3rd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16981",
+                "RecordID": "022-000003771",
+                "Value": "Tregiani,Domenico di Gismondo,,"
+            }
+        },
+        "Notes": "The catalogue of the Biblioteca degli Intronati in Siena lists 1583 and 1616 copies, both printed `in Siena alla Loggia del Papa`.",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17348",
+                "RecordID": "022-000004177",
+                "Value": "Fortunati,Pier` Antonio,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54194",
+            "Value": "023-000004176_54194_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54195",
+            "Value": "023-000004176_54195_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

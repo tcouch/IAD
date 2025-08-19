@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0314",
+        "RecordId": "021-000007110",
+        "Name": "Sollevati-Bologna (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Furnace of stone, within which a fire heats an alembic, which sends a vapour into a vessel",
+        "Motto": "Ex flamma vigor",
+        "StartDate": "1672?",
+        "EndDate": "?",
+        "DateText": "1672?-?",
+        "Notes": "Publications related to this Academy, but not in British Library collections, include: Fiori epitalamici raccolti da gli Accademici Sollevati, e nelle felicissime nozze degl`ill.mi signori cavaliere, conte Filippo Maria Bentivogli ... e della contessa Maria Cecilia Vizani a` gli stessi presentati (In Bologna: per li Manolessi, 1672); also ascribed to this Academy, but from the previous century is: Oratio de prudentia habita in Academia Sublevatorum (1596)",
+        "ItacPersonItem": {
+            "PersonId": "5021",
+            "RecordId": "022-000000023",
+            "Name": "Fioravanti,Innocenzio Maria,,fl. 1665 - 1687",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16142",
+        "RecordId": "022-000002754",
+        "Surname": "Di Capua",
+        "Forename": "Leonardo",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Di Capoa",
+                "AlternativeForename": "Lionardo"
+            },
+            {
+                "AlternativeSurname": "A Capua",
+                "AlternativeForename": "Leonardus"
+            }
+        ],
+        "Pseudonym": "Alcesto Cilleneo",
+        "DateText": "1617-1695",
+        "StartDate": "1617",
+        "EndDate": "1695",
+        "Nationality": {
+            "NationalityId": "419",
+            "Value": "of Bagnoli Irpino (Avellino)"
+        },
+        "Notes": "Portrait of Leonardo di Capua from Leonardo di Capua, Lezioni intorno alla natura delle mofete, Naples 1683.\nAnother portrait of Leonardo di Capua in Antonio Bulifon, Lettere Memorabili, Naples 1698. See his biography by Silvano Scalabrella in DBI.",
+        "Role": "Contributor|Dedicatee|Author|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

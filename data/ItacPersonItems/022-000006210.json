@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19086",
+        "RecordId": "022-000006210",
+        "Surname": "Clovio",
+        "Forename": "Giorgio Giulio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Klovi",
+            "AlternativeForename": "Julije"
+        },
+        "DateText": "1498-1578",
+        "StartDate": "1498",
+        "EndDate": "1578",
+        "Nationality": {
+            "NationalityId": "280",
+            "Value": "Croatian"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

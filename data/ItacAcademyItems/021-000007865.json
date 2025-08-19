@@ -1,0 +1,107 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0462",
+        "RecordId": "021-000007865",
+        "Name": "Uranici (Accademia degli)",
+        "City": {
+            "CityId": "35",
+            "CityItalianName": "Venezia",
+            "CityEnglishName": "Venice",
+            "CityLatinName": "Venetiae"
+        },
+        "EmblemDescription": "Primum mobile (Eighth sphere)",
+        "Motto": "Mens agitat molem",
+        "StartDate": "1587?",
+        "EndDate": "after1599",
+        "DateText": "1587?-after1599",
+        "Notes": "Other publications related to the academy, not in British Library catalogue, include: Paolini, Fabio, In obitum praeclariss. Blancae Ruziniae clarissimi viri Caroli Ruzinij vxoris. Amaryllis Fabii Paulini vtinensis, philosophi, & vranici academici. Ad illustriss. Federicum Contarenum d. Marci procuratorem (Venetiis: ex typographia Guerraea, 1588); Cresci, Pietro, Discorso, ouero lettione di Pietro Cresci Anconitano, sopra un sonetto in lode del celebre luogo di Valchiusa; Recitata da lui nell`Accademia de gli Vranici in Venetia, oue con nuoui pensieri si tratta dell`eccellenza del Verso; & del Sonetto, & della miseria de` Poeti si discorre (In Ferrara: Vittorio Baldini, stampatore camerale, 1599).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17837",
+                "RecordId": "022-000004747",
+                "Name": "Tasso,Faustino,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17679",
+                "RecordId": "022-000004574",
+                "Name": "Cresci,Pietro,,mid16thc.-after1599?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17674",
+                "RecordId": "022-000004569",
+                "Name": "Rota,Isidoro,,fl.1580-?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19090",
+                "RecordId": "022-000006215",
+                "Name": "di Valvasone,Erasmo,,1523 - 1593",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5023",
+                "RecordId": "022-000000025",
+                "Name": "Giusti,Vincenzo,,1532-1620",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17607",
+                "RecordId": "022-000004501",
+                "Name": "Camilli,Camillo,,?-1615",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17591",
+                "RecordId": "022-000004485",
+                "Name": "Alessandri,Giovanni Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9661",
+                "RecordId": "022-000001830",
+                "Name": "Paulini,Fabio,,ca.1535-1605",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17694",
+                "RecordId": "022-000004589",
+                "Name": "Verdizzotti,Giovanni Mario,,1525-1600",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "15928",
+                "RecordId": "022-000002492",
+                "Name": "Sforza,Muzio,,1542-1597",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55337",
+                    "Value": "022-000002492_55337_2.jpg"
+                }
+            }
+        ],
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18575",
+        "RecordId": "022-000005621",
+        "Surname": "Brusoni",
+        "Forename": "Girolamo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Brussoni",
+            "AlternativeForename": null
+        },
+        "DateText": "1614-1686",
+        "StartDate": "1614",
+        "EndDate": "1686",
+        "Nationality": {
+            "NationalityId": "251",
+            "Value": "of Badia Vengadizza (Polesine)"
+        },
+        "Notes": "His biography by G. De Caro in DBI",
+        "Role": "Editor|Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

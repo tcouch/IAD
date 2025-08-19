@@ -1,0 +1,238 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006395",
+        "WorkId": "000771",
+        "ShortTitle": "Messana",
+        "LongTitle": "S.P.Q.R. Regumq. Decreto Nobilis Exemplaris Et Regni Siciliae Caput Duodecim Titulis Illustrata Opus Posthumum. R.P. Placidi Samperii Messanensis Societatis Jesu in duo volumina distributum Augustissimae Magnae Dominae Deiparae Virgini A Sacris Literis Dicatum. Volumen Primum. In quo sex libris \nDe Messana Primigenia\nDe Messana Naturae Prodigio\nDe Messana Nationum Hospita\nde Messana Bellatrice\nDe Messana Heroum Altrice\nDe Messana Sapiente\nSumma cum Eruditione ex penu antiquissimorum gravissimorumq. Scriptorum deprompta agitur.",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1742",
+        "Shelfmark": "664.d.13.",
+        "Subjects": "History of Messina",
+        "Language": "Latin",
+        "Pagination": "pp. 660",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18142",
+                "RecordID": "022-000005105",
+                "Value": "Samperi,Placido,,? - 1654?"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18941",
+                    "RecordID": "022-000006043",
+                    "Value": "Pat\u00e8,Leonardo,,? - 1658"
+                },
+                {
+                    "PersonId": "18621",
+                    "RecordID": "022-000005675",
+                    "Value": "Balsamo,Ignatio,,? - 1659"
+                },
+                {
+                    "PersonId": "19224",
+                    "RecordID": "022-000006399",
+                    "Value": "Saccano,Antonio,,"
+                },
+                {
+                    "PersonId": "19222",
+                    "RecordID": "022-000006397",
+                    "Value": "Cantello,Michele,,"
+                },
+                {
+                    "PersonId": "19223",
+                    "RecordID": "022-000006398",
+                    "Value": "Intorcetta,Prospero,,"
+                },
+                {
+                    "PersonId": "19225",
+                    "RecordID": "022-000006402",
+                    "Value": "Zuccaro,Geronimo,,"
+                },
+                {
+                    "PersonId": "19228",
+                    "RecordID": "022-000006405",
+                    "Value": "Alias,Vincentius,,"
+                }
+            ]
+        },
+        "Notes": "On pp. 565-467 the author mentions the Fucina in Messina.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19229",
+                    "RecordID": "022-000006406",
+                    "Value": "Malaci,,,"
+                },
+                {
+                    "PersonId": "19230",
+                    "RecordID": "022-000006407",
+                    "Value": "Pisci,,,"
+                },
+                {
+                    "PersonId": "19231",
+                    "RecordID": "022-000006408",
+                    "Value": "de Loredano,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Impr. protopapa Malaci V. G. \nImp. Pisci pro Ill. de Loredano Praesidente",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19221",
+                "RecordID": "022-000006396",
+                "Value": "Grillo,Placido,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54659",
+            "Value": "023-000006395_54659_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Elogium Pro Annalibus Mamertinarum Gloriarum Latino idiomate conscriptis, ac in lucem editis \u00e0 Rev. P. Placido Samp. Soc. Jesu Presbytero",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "",
+                            "RecordID": ""
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Placidum Samperi E Societate Jesu prisca Messanae monumenta reparantem D. Leonardus Pate` U.J.D.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18941",
+                            "RecordID": "022-000006043",
+                            "Value": "Pat\u00e8,Leonardo,,? - 1658"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Eumdem Ejusdem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18941",
+                            "RecordID": "022-000006043",
+                            "Value": "Pat\u00e8,Leonardo,,? - 1658"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad P. Placidum Samperium pro Messana Illustrata R. P. Ignatii Balsami e S. J.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18621",
+                            "RecordID": "022-000005675",
+                            "Value": "Balsamo,Ignatio,,? - 1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ejusdem de Zancla duodecim illustrata Titulis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18621",
+                            "RecordID": "022-000005675",
+                            "Value": "Balsamo,Ignatio,,? - 1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ejusdem in idem Distichon",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18621",
+                            "RecordID": "022-000005675",
+                            "Value": "Balsamo,Ignatio,,? - 1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ejusdem in idem Distichon",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18621",
+                            "RecordID": "022-000005675",
+                            "Value": "Balsamo,Ignatio,,? - 1659"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "R. P. Michaelis Cantelli S. J. pro Zancla Illustrata",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19222",
+                            "RecordID": "022-000006397",
+                            "Value": "Cantello,Michele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ejusdem in idem Argumentum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19222",
+                            "RecordID": "022-000006397",
+                            "Value": "Cantello,Michele,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "P. Prosperi Intercettae \u00e8 Societate jesu Anagramma purum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19223",
+                            "RecordID": "022-000006398",
+                            "Value": "Intorcetta,Prospero,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Aliud purum",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19223",
+                            "RecordID": "022-000006398",
+                            "Value": "Intorcetta,Prospero,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "P. Vincentii Alias \u00e9 Soc. Jesu Anagramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19228",
+                            "RecordID": "022-000006405",
+                            "Value": "Alias,Vincentius,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ejusdem Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19228",
+                            "RecordID": "022-000006405",
+                            "Value": "Alias,Vincentius,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

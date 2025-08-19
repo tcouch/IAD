@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18427",
+        "RecordId": "022-000005450",
+        "Surname": "Bracciolini (Dell`Api)",
+        "Forename": "Francesco",
+        "Gender": "Male",
+        "DateText": "1566-1645",
+        "StartDate": "1566",
+        "EndDate": "1645",
+        "Nationality": {
+            "NationalityId": "184",
+            "Value": "of Pistoia"
+        },
+        "Notes": "Bracciolini was among the founders of the Umoristi, according to the biography written by Lovanio Rossi, in DBI",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

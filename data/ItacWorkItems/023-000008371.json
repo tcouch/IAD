@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008371",
+        "WorkId": "000940",
+        "ShortTitle": "Il niente annientato",
+        "LongTitle": "Discorso del Conte Raimondo Vidal All`Illustrissimo, et Eccellentissimo Signor Gasparo Coignet Signor de la Thullerie. Consigliere di stato della Maesta` Christianissima, et suo ambasciatore alla Serenissima Repubblica di Venetia",
+        "ItacAcademyItem": {
+            "AcademyId": "0150",
+            "RecordID": "021-000006242",
+            "Value": "Incogniti-Venezia (Accademia degli)"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1634",
+        "DedicationPlaceDate": "Venetia 19 Luglio 1634",
+        "Shelfmark": "12315f46",
+        "Subjects": "Academic discourse",
+        "Language": "Italian",
+        "Pagination": "pp.19",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "20594",
+                "RecordID": "022-000008368",
+                "Value": "Vidal,Remond,Count,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20595",
+                "RecordID": "022-000008369",
+                "Value": "Coignet,Gaspar,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "20596",
+                "RecordID": "022-000008370",
+                "Value": "Salis Giovanni,Heredi di,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55311",
+            "Value": "023-000008371_55311_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

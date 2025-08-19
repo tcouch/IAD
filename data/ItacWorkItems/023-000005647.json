@@ -1,0 +1,111 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005647",
+        "WorkId": "000685",
+        "ShortTitle": "La Giostra",
+        "LongTitle": "Discorso Historico Del Dottor D. Vincenzo Auria Palermitano. Sopra l`Origine della Giostra in varie parti dell`Europa, e della sua Introduttione, ed uso antico, e moderno nella Felice, e Fedelissima Citt\u00e0 di Palermo, Reggia di Sicilia, fino \u00e0 quest`Anno presente. M.DC.LXXXX. All`Illustrissimo Senato Palermitano. Li Signori D. Domenico Mont`Aperto, & Uberti, Principe Marchese Mont`Aperto, del Conseglio di S.C.M. Pretore \nDon Ottavio Gaetano, ed Orioles\nDon Domenico Mont`Aperto\nDon Giuseppe Galofaro\nDon Bartholomeo Polizzi\nDon Oratio Vanni, e Bellacera\nDon Pietro Ussedo, Maestro di Campo, Senatori.",
+        "ItacAcademyItem": {
+            "AcademyId": "0118",
+            "RecordID": "021-000005370",
+            "Value": "Accademia dei Riaccesi (Palermo)"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "86",
+            "PublicationPlaceItalianName": "Palermo",
+            "PublicationPlaceEnglishName": "Palermo",
+            "PublicationPlaceLatinName": "Panormus"
+        },
+        "PublicationYear": "1691 (1690 in error)",
+        "DedicationPlaceDate": "Palermo 3 March 1691",
+        "Shelfmark": "12225.b.5.(13.)",
+        "Subjects": "Joust",
+        "Language": "Italian|Latin",
+        "Illustration": "Plate|Joust",
+        "Pagination": "pp. 64",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18434",
+                "RecordID": "022-000005457",
+                "Value": "Auria,Vincenzo,,1625-1710"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18607",
+                "RecordID": "022-000005658",
+                "Value": "Nasi,Giovanni,,"
+            }
+        },
+        "Notes": "On p. 51 the author refers to the Riaccesi Academy in Palermo.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18598",
+                    "RecordID": "022-000005649",
+                    "Value": "Ramundetta,,,"
+                },
+                {
+                    "PersonId": "18597",
+                    "RecordID": "022-000005648",
+                    "Value": "Vanni,,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Impr. Vanni V. G.\nImpr. Ramundetta R. P.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18600",
+                    "RecordID": "022-000005651",
+                    "Value": "Mont`Aperto & Uberti,Domenico,Prince & Marquis of Mont`Aperto,"
+                },
+                {
+                    "PersonId": "18601",
+                    "RecordID": "022-000005652",
+                    "Value": "Gaetano & Orioles,Ottavio,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "18602",
+                    "RecordID": "022-000005653",
+                    "Value": "Galofaro,Giuseppe,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "18603",
+                    "RecordID": "022-000005654",
+                    "Value": "Polizzi,Bartolomeo,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "18604",
+                    "RecordID": "022-000005655",
+                    "Value": "Vanni & Bellacera,Oratio,Senator of Palermo,"
+                },
+                {
+                    "PersonId": "18605",
+                    "RecordID": "022-000005656",
+                    "Value": "Ussedo,Pietro,Senator of Palermo,"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "18606",
+                "RecordID": "022-000005657",
+                "Value": "D.O.B.,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18599",
+                "RecordID": "022-000005650",
+                "Value": "Eredi Dell`Isola,,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54625",
+            "Value": "023-000005647_54625_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

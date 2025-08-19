@@ -1,0 +1,262 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001421",
+        "WorkId": "00149",
+        "ShortTitle": "Epicedj eroici Poesie di Giuseppe Battista",
+        "LongTitle": "Al signor Principe d`Avellino",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1667",
+        "Shelfmark": "11427.df.24.",
+        "Content": "Elegiac poems",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Illustration": "Engraved flyleaf | The Parcas",
+        "Pagination": "pp. 395",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15016",
+                "RecordID": "022-000001058",
+                "Value": "Battista,Giuseppe,,1610-1675"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5020",
+                    "RecordID": "022-000000022",
+                    "Value": "Bonomi,Giovanfrancesco,,1626 - 1705"
+                },
+                {
+                    "PersonId": "15142",
+                    "RecordID": "022-000001184",
+                    "Value": "Buoni,Angelo,,"
+                },
+                {
+                    "PersonId": "15143",
+                    "RecordID": "022-000001185",
+                    "Value": "Teodoro,Antonio,,"
+                },
+                {
+                    "PersonId": "15144",
+                    "RecordID": "022-000001186",
+                    "Value": "Battista,Domenico,,"
+                },
+                {
+                    "PersonId": "15145",
+                    "RecordID": "022-000001187",
+                    "Value": "Bianchi,Francesco,,1620-1690"
+                },
+                {
+                    "PersonId": "15146",
+                    "RecordID": "022-000001188",
+                    "Value": "Marini,Francesco,Abbot,"
+                },
+                {
+                    "PersonId": "15147",
+                    "RecordID": "022-000001189",
+                    "Value": "Giannone,Giovan Battista,,"
+                },
+                {
+                    "PersonId": "15149",
+                    "RecordID": "022-000001191",
+                    "Value": "Sersale,Girolamo,,"
+                },
+                {
+                    "PersonId": "15150",
+                    "RecordID": "022-000001192",
+                    "Value": "Geofilo,Giuseppe,,"
+                },
+                {
+                    "PersonId": "15151",
+                    "RecordID": "022-000001193",
+                    "Value": "Bonaventura Rossi,Giuseppe,,"
+                },
+                {
+                    "PersonId": "15152",
+                    "RecordID": "022-000001194",
+                    "Value": "Di Vito,Giuseppe,,"
+                },
+                {
+                    "PersonId": "15153",
+                    "RecordID": "022-000001195",
+                    "Value": "Minozzi,Pier Francesco,,"
+                },
+                {
+                    "PersonId": "15154",
+                    "RecordID": "022-000001196",
+                    "Value": "Di Tura,Niccol\u00f2 Antonio,,"
+                },
+                {
+                    "PersonId": "15155",
+                    "RecordID": "022-000001197",
+                    "Value": "Perazzi,Giovan Benedetto,,"
+                },
+                {
+                    "PersonId": "15156",
+                    "RecordID": "022-000001198",
+                    "Value": "Regna,Pietro Paolo,,"
+                },
+                {
+                    "PersonId": "15157",
+                    "RecordID": "022-000001199",
+                    "Value": "Sersale,Zaccheria,,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "15181",
+                "RecordID": "022-000001223",
+                "Value": "La No\u00f9,Giovanni,,"
+            }
+        },
+        "Notes": "On p. 115 the author dedicates verses to the Oziosi academy in Naples.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15132",
+                    "RecordID": "022-000001174",
+                    "Value": "Contarini,Andrea,,1601-1675"
+                },
+                {
+                    "PersonId": "15184",
+                    "RecordID": "022-000001226",
+                    "Value": "Sagredo,Nicol\u00f2,Cavalier Procuratore di San Marco,"
+                },
+                {
+                    "PersonId": "15185",
+                    "RecordID": "022-000001227",
+                    "Value": "Nicolosi,Angelo,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Noi Reformatori Dello Studio di Padova. Havendo veduto per fede del padre Inquisitore Nel Libro intitolato Epicedij Eroici di Giuseppe Battista non esservi cosa alcuna contro la Santa Fede Cattolica e perimente per attestato del Segretario nostro niente contro prencipi e buoni costumi concedemo licenza ai Combi e Lanou di poterlo stampare osservando gli ordini et c. 26. Novembre 1667. Andrea Contarini Cav. Proc. Ref.    Nicolo Sagredo Cav. Proc. Ref.   Angelo Nicolosi Segretario",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0017",
+                "RecordID": "021-000001040",
+                "Value": "Accademia degli Oziosi"
+            },
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5020",
+                    "RecordID": "022-000000022",
+                    "Value": "Bonomi,Giovanfrancesco,,1626 - 1705"
+                },
+                {
+                    "PersonId": "5022",
+                    "RecordID": "022-000000024",
+                    "Value": "Montalbani,Ovidio,,1601 - 1671"
+                },
+                {
+                    "PersonId": "5126",
+                    "RecordID": "022-000000122",
+                    "Value": "Crasso,Lorenzo,,1623 - ?"
+                },
+                {
+                    "PersonId": "15003",
+                    "RecordID": "022-000001045",
+                    "Value": "Manso,Ioannes Baptistam,Marquis of Villa,1560/70-1645"
+                },
+                {
+                    "PersonId": "15016",
+                    "RecordID": "022-000001058",
+                    "Value": "Battista,Giuseppe,,1610-1675"
+                },
+                {
+                    "PersonId": "15133",
+                    "RecordID": "022-000001175",
+                    "Value": "Battista,Nani,,"
+                },
+                {
+                    "PersonId": "15161",
+                    "RecordID": "022-000001203",
+                    "Value": "Acerbo,Francesco,,"
+                },
+                {
+                    "PersonId": "15162",
+                    "RecordID": "022-000001204",
+                    "Value": "Giustiniani,Michele,,1612-1680"
+                },
+                {
+                    "PersonId": "15163",
+                    "RecordID": "022-000001205",
+                    "Value": "Aprosio,Angelico,,1607-1681"
+                },
+                {
+                    "PersonId": "15165",
+                    "RecordID": "022-000001207",
+                    "Value": "Legati,Lorenzo,,"
+                },
+                {
+                    "PersonId": "15166",
+                    "RecordID": "022-000001208",
+                    "Value": "Arminio,Fulgenzio,,"
+                },
+                {
+                    "PersonId": "15167",
+                    "RecordID": "022-000001209",
+                    "Value": "Albano,Giacomo,,"
+                },
+                {
+                    "PersonId": "15168",
+                    "RecordID": "022-000001210",
+                    "Value": "Torre,Giovanni,,"
+                },
+                {
+                    "PersonId": "15169",
+                    "RecordID": "022-000001211",
+                    "Value": "Pignattari,Carlo,,"
+                },
+                {
+                    "PersonId": "15170",
+                    "RecordID": "022-000001212",
+                    "Value": "Picinardi,Giovan Luigi,,"
+                },
+                {
+                    "PersonId": "15171",
+                    "RecordID": "022-000001213",
+                    "Value": "Malvezzi,Floriano,,"
+                },
+                {
+                    "PersonId": "5162",
+                    "RecordID": "022-000000157",
+                    "Value": "Muscettola,Antonio,,1628 - 1679"
+                },
+                {
+                    "PersonId": "19646",
+                    "RecordID": "022-000007005",
+                    "Value": "della Noce,Angelo,Archbishop of Rossano,1609 - 1691"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": {
+                "PersonId": "15186",
+                "RecordID": "022-000001228",
+                "Value": "B.,A,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15871",
+                "RecordID": "022-000002431",
+                "Value": "Gaffaro,Giacomo,,"
+            }
+        },
+        "PrinterOrnament": "Mar.te 440",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

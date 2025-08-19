@@ -1,0 +1,130 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000002648",
+        "WorkId": "000325",
+        "ShortTitle": "Poesie volgari di Monsignor Antonio Querenghi",
+        "LongTitle": "Terza impressione con nuove aggiunte. Al Reverendiss[imo] D. Nicolo` de gli Oddi Abate di San Benedetto",
+        "ItacAcademyItem": {
+            "AcademyId": "0021",
+            "RecordID": "021-000001570",
+            "Value": "Academia dei Ricov(e)rati"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "3",
+            "PublicationPlaceItalianName": "Padova",
+            "PublicationPlaceEnglishName": "Padua",
+            "PublicationPlaceLatinName": "Patavii"
+        },
+        "PublicationYear": "1622",
+        "DedicationPlaceDate": "Padua 12 July 1622; Padua 20 February 1616",
+        "Shelfmark": "Voyn.68",
+        "Subjects": "Encomiastic Poetry|Love Poems",
+        "Language": "Italian",
+        "Pagination": "pp. 99",
+        "Marginalia": "No",
+        "Edition": "2nd",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9031",
+                "RecordID": "022-000001621",
+                "Value": "Querenghi,Antonio,,1546 - 1633"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15213",
+                    "RecordID": "022-000001255",
+                    "Value": "Pentronij,Hyacinthi,,"
+                },
+                {
+                    "PersonId": "16079",
+                    "RecordID": "022-000002664",
+                    "Value": "Francuccius,Dominicus,,"
+                },
+                {
+                    "PersonId": "15214",
+                    "RecordID": "022-000001256",
+                    "Value": "Donatus,Gregorius,,"
+                },
+                {
+                    "PersonId": "16088",
+                    "RecordID": "022-000002674",
+                    "Value": "Gan.,Paulus,Inquisitor of Padua,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur Reverendiss. Patri Magistro Sacri Palatij Apostolici.\nP. Episc. de Curte Vicesg.\nExmandato Reverendiss. P. F. Hiacynthi Petronii Magistri Sacri Paltii, perlegi carminum Etruscorum libellum, qui inscribit Poesie volgari [etc.]. Si doctrinam cum pietatem coniunctam aspicio, ea profecto est, quae Christianum Philosophum deceat. Si leporem, atque elegantiam, a quibus singula poemata mirifice sunt exornata, plane dignum opus existimo, quod typis, atque immortalitati commendetur.\nFr. Dominicus Francuccius Magister, et Collegii Graecorum Regens\nImprimatur. Fr. Gregorius Donatus Magist. Reverendiss. P. F. Hyacinthi Petronij Sacri Apost. Pal. Magistri, Socius.\nF. Paulus Gan. Inq. Paduae",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16072",
+                    "RecordID": "022-000002655",
+                    "Value": "Farnese,Ranuccio I,Duke of Parma,1569 - 1622"
+                },
+                {
+                    "PersonId": "16068",
+                    "RecordID": "022-000002650",
+                    "Value": "degli Oddi,Nicolo`,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16070",
+                    "RecordID": "022-000002652",
+                    "Value": "Querenghi,Flavio,,"
+                },
+                {
+                    "PersonId": "15763",
+                    "RecordID": "022-000002310",
+                    "Value": "Martini,Gio(vanni) Battista,,fl.1603 - 1629"
+                }
+            ]
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15763",
+                "RecordID": "022-000002310",
+                "Value": "Martini,Gio(vanni) Battista,,fl.1603 - 1629"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Al Sig. D. Silvestro Aldobrandino in nome de` Signori Academici Ricovrati di Padova",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9031",
+                            "RecordID": "022-000001621",
+                            "Value": "Querenghi,Antonio,,1546 - 1633"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Panegirico in lode della poesia. Recitato nell`Accademia de` Signori Ricovrati di Padova dal Sig. A[lessandro] Montalbano",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9031",
+                            "RecordID": "022-000001621",
+                            "Value": "Querenghi,Antonio,,1546 - 1633"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Antro platonico, e legami e scioglimento e circonduzione dell`anima, a imitazione del VII della `Repubblica`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9031",
+                            "RecordID": "022-000001621",
+                            "Value": "Querenghi,Antonio,,1546 - 1633"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

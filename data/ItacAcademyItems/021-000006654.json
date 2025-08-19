@@ -1,0 +1,387 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0170",
+        "RecordId": "021-000006654",
+        "Name": "Stravaganti (Accademia degli)",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Two palms forming an arch surmounted by Pan-pipes",
+        "Motto": "Placidis coeant immitia",
+        "Notes": "Publications related to the history of the Stravaganti Academy, but not held in British Library collections, include: Festa accademica di lettere, e d`arti cavalleresche celebrata in Roma per l`esaltazione al sommo pontificato di nostro signore Innocenzo 12. pontefice massimo, et alla santita` sua dedicata dalli nob. convittori del Collegio Clementino de` padri della Congregazione di Somasca [Gl`Accademici Stravaganti]  (Roma, Gio: Giacomo Komarek, 1691); Giacomo De Franchi, Che il diuertimento degli essercizi cauallereschi non pregiudica; come ingiustamente vien da alcuni supposto; ma` conferisce in gran parte all`acquisto delle scienze. Discorso apologetico detto dal marchese Giacomo De Franchi, nell`aprirsi in collegio Clementino l` accademia de i Stravaganti ; e da i medesimi consacrato alle glorie immortali di Cristina Alessandra regina di Suezia &c (Roma, Ignatio de` Lazari, 1678); Festa accademica di lettere, e arti cavalleresche per l`esaltazione del serenissimo Silvestro Valiero al ducato della Republica Veneta, con l`assistenza dell`eccellentissimo cavalier Domenico Contarini oratore veneto in Roma, e dedicata al serenissimo principe da nobili convittori del Collegio Clementino de padri della Congregazione di Somasca / \\Gl`Accademici Stravaganti (Roma, Gio: Giacomo Komarek Boemo alla fontana di Trevi, 1694); Stilicone tragedia di Tomaso Cornelio trasportata dall`idioma francese, e recitata da` signori cavalieri del Clementino nelle vacanze del carnovale nell`anno 1698. In Roma. Dedicata all`Accademia de l`illustrissimi Signori Ardenti di Bologna (Bologna, Longhi, 1699; and In Roma: per Luca Antonio Chracas appresso la Gran Curia Innocenziana); Letterati, e cauallereschi esercitamenti degl`Accademici Strauaganti del collegio Clementino, in occasione d`accogliere l`eminentissimo ... cardinal Pignattelli, l`anno 1704. nel solito semestre estiuo. More publications appeared in the 18th c.\nAlso the tragedies Eraclio and Poliuto were performed by the Cavalieri del Collegio Clementino, but it is not sure whether they are related to the Accademia degli Stravaganti.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19437",
+                "RecordId": "022-000006653",
+                "Name": "De Franchi,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19440",
+                "RecordId": "022-000006658",
+                "Name": "Lupi Soragna,Nicolo`,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19442",
+                "RecordId": "022-000006660",
+                "Name": "Colonna,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19443",
+                "RecordId": "022-000006661",
+                "Name": "Lodi Mora,Tomaso,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19444",
+                "RecordId": "022-000006662",
+                "Name": "Malaspina,Giovanni Carlo,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19445",
+                "RecordId": "022-000006663",
+                "Name": "Ghislieri,Giovanni Battista,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19446",
+                "RecordId": "022-000006664",
+                "Name": "Pallavicino,Cristoforo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19447",
+                "RecordId": "022-000006665",
+                "Name": "Paravagna,Giuseppe Nicolo`,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19448",
+                "RecordId": "022-000006666",
+                "Name": "Ferretti,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19449",
+                "RecordId": "022-000006667",
+                "Name": "Corte,Giuseppe,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19450",
+                "RecordId": "022-000006668",
+                "Name": "Pallavicino,Pietro Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19451",
+                "RecordId": "022-000006669",
+                "Name": "Ravaschieri Fiesco,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19452",
+                "RecordId": "022-000006670",
+                "Name": "Passano,Bartolomeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19453",
+                "RecordId": "022-000006671",
+                "Name": "Saver,Francesco Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19454",
+                "RecordId": "022-000006672",
+                "Name": "Botti,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19455",
+                "RecordId": "022-000006673",
+                "Name": "Spinola,Cristoforo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19456",
+                "RecordId": "022-000006674",
+                "Name": "Rosimbach,Bernardo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19458",
+                "RecordId": "022-000006676",
+                "Name": "Lomellino,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19459",
+                "RecordId": "022-000006677",
+                "Name": "de Medici,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19460",
+                "RecordId": "022-000006678",
+                "Name": "Favoriti,Giacomo Maria,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19461",
+                "RecordId": "022-000006679",
+                "Name": "Mari,Andrea,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19462",
+                "RecordId": "022-000006680",
+                "Name": "Floramont,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19463",
+                "RecordId": "022-000006681",
+                "Name": "Feretti,Filippo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19464",
+                "RecordId": "022-000006682",
+                "Name": "Silva,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19470",
+                "RecordId": "022-000006690",
+                "Name": "Servanzio,Paolo,Abbot,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19471",
+                "RecordId": "022-000006691",
+                "Name": "Gonzaga,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19457",
+                "RecordId": "022-000006675",
+                "Name": "Calcagnini,Francesco,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19472",
+                "RecordId": "022-000006692",
+                "Name": "Bellincini,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19473",
+                "RecordId": "022-000006693",
+                "Name": "Ansidei,Marc`Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19474",
+                "RecordId": "022-000006694",
+                "Name": "Casoni,Francesco Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19475",
+                "RecordId": "022-000006695",
+                "Name": "Lomellino,Bartolomeo,Abbot,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19476",
+                "RecordId": "022-000006696",
+                "Name": "Berne`,Giovanni,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19477",
+                "RecordId": "022-000006697",
+                "Name": "Kinicsech,Giuseppe,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19478",
+                "RecordId": "022-000006698",
+                "Name": "Marini,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19479",
+                "RecordId": "022-000006699",
+                "Name": "d`Afflitti,Gerolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19480",
+                "RecordId": "022-000006700",
+                "Name": "Rosembach,Carlo Enrico,Baron,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19481",
+                "RecordId": "022-000006701",
+                "Name": "Floremonte,Federico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19482",
+                "RecordId": "022-000006702",
+                "Name": "Acquaviva,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19483",
+                "RecordId": "022-000006703",
+                "Name": "Costa,Emanuele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19484",
+                "RecordId": "022-000006704",
+                "Name": "Vicentino,Giovanni Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19485",
+                "RecordId": "022-000006705",
+                "Name": "Collalto,Ridolfo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19486",
+                "RecordId": "022-000006706",
+                "Name": "Albergati,Antonio,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19487",
+                "RecordId": "022-000006707",
+                "Name": "Feretti,Matteo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19488",
+                "RecordId": "022-000006708",
+                "Name": "Vicentino,Gerolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19489",
+                "RecordId": "022-000006709",
+                "Name": "Passano,Raffaele,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19491",
+                "RecordId": "022-000006711",
+                "Name": "Ventimiglia,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

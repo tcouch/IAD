@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5133",
+        "RecordId": "022-000000129",
+        "Surname": "Gaddi",
+        "Forename": "Jacopo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Giacomo"
+        },
+        "DateText": "ca.1600-1668",
+        "StartDate": "ca.1600",
+        "EndDate": "1668",
+        "Nationality": {
+            "NationalityId": "91",
+            "Value": "Florentine"
+        },
+        "Notes": "Promoter of the Svogliati in Florence. A biographical sketch by F. Tarzia, in DBI.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19313",
+        "RecordId": "022-000006500",
+        "Surname": "Barclay",
+        "Forename": "John",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Giovanni"
+        },
+        "DateText": "1583-1621",
+        "StartDate": "1583",
+        "EndDate": "1621",
+        "Nationality": {
+            "NationalityId": "62",
+            "Value": "Scottish"
+        },
+        "Notes": "Man of letters and physician, was born in France, he was an acquaintance of Cardinal Bellarmino, and Pope Paul V. He was proposed as member of the Lincei Academy in 1621. For his membership among the Umoristi, see Caterina Volpi, Ritratti di illustri contemporanei, in I segreti di un collezionista (2001). Barclay`s portrait is taken from Tomasini, Elogia virorum (1644).",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

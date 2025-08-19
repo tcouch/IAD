@@ -1,0 +1,267 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006327",
+        "WorkId": "000746",
+        "ShortTitle": "Prose Degli Accademici Della Fucina",
+        "LongTitle": "Libro Primo, Nel quale si contengono vari Discorsi, Raccolti Dall`Immoto",
+        "ItacAcademyItem": {
+            "AcademyId": "0131",
+            "RecordID": "021-000005843",
+            "Value": "Accademia della Fucina"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "100",
+            "PublicationPlaceItalianName": "Monteleone"
+        },
+        "PublicationYear": "1667",
+        "DedicationPlaceDate": "Messina 1 June 1667",
+        "Shelfmark": "Ac.8850.",
+        "Subjects": "Academic Speeches",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved title page|Academy emblem",
+        "Pagination": "pp. 384",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15166",
+                    "RecordID": "022-000001208",
+                    "Value": "Arminio,Fulgenzio,,"
+                },
+                {
+                    "PersonId": "19002",
+                    "RecordID": "022-000006113",
+                    "Value": "Valdina,Giovanni Battista,,1644 - 1695"
+                },
+                {
+                    "PersonId": "18778",
+                    "RecordID": "022-000005847",
+                    "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                },
+                {
+                    "PersonId": "19010",
+                    "RecordID": "022-000006122",
+                    "Value": "Zerbone,Agostino,,"
+                },
+                {
+                    "PersonId": "18135",
+                    "RecordID": "022-000005098",
+                    "Value": "Lips\u00f2,Nicol\u00f2,,? - 1661"
+                },
+                {
+                    "PersonId": "18878",
+                    "RecordID": "022-000005966",
+                    "Value": "Genovesa,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18948",
+                    "RecordID": "022-000006050",
+                    "Value": "Del Pozzo,Raimondo,,1619 - 1694"
+                },
+                {
+                    "PersonId": "18812",
+                    "RecordID": "022-000005887",
+                    "Value": "Alibrando,Francesco,,? - 1702"
+                },
+                {
+                    "PersonId": "18841",
+                    "RecordID": "022-000005916",
+                    "Value": "Castelli,Saverio,,"
+                },
+                {
+                    "PersonId": "18919",
+                    "RecordID": "022-000006017",
+                    "Value": "Messina,Antonio,,"
+                },
+                {
+                    "PersonId": "18890",
+                    "RecordID": "022-000005980",
+                    "Value": "Guazzi,Alberto,,"
+                },
+                {
+                    "PersonId": "18962",
+                    "RecordID": "022-000006066",
+                    "Value": "Reitano,Giovanni,,? - 1693"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19023",
+                    "RecordID": "022-000006136",
+                    "Value": "Gregori,Francesco,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "18220",
+                    "RecordID": "022-000005202",
+                    "Value": "Balsamo,Gioseppe,Senator of Messina|Baron of Cattafi,"
+                },
+                {
+                    "PersonId": "19178",
+                    "RecordID": "022-000006328",
+                    "Value": "Gotho,Raffaello,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "19179",
+                    "RecordID": "022-000006329",
+                    "Value": "Gasparino,Gaspare,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19180",
+                    "RecordID": "022-000006330",
+                    "Value": "Isvaglia,Tomaso,Senator of Messina,"
+                },
+                {
+                    "PersonId": "19181",
+                    "RecordID": "022-000006331",
+                    "Value": "Maiorana,Paolo,Senator of Messina,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18946",
+                "RecordID": "022-000006048",
+                "Value": "Pisa,Bartolomeo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19160",
+                "RecordID": "022-000006304",
+                "Value": "Ferro,Antonio Domenico,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54671",
+            "Value": "023-000006327_54671_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Fra Fulgenzio Arminio detto l`Avvalorato. La Pompa dell`Ossequio, e dell`Affetto. Discorso Sagro nella Solennit\u00e0 della Lettera.\nIn lode dell`Impresa dell`Accademia della Fucina, Discorso dell`Istesso",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "15166",
+                            "RecordID": "022-000001208",
+                            "Value": "Arminio,Fulgenzio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Agostino Zerbone detto l`Addormentato. In Lode dell`Accademia della Fucina, e sua Impresa. Discorso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19010",
+                            "RecordID": "022-000006122",
+                            "Value": "Zerbone,Agostino,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Nicol\u00f2 Lips\u00f2 detto il Dissonante. Nell`esequie di Cristo nostro Signore. Discorso.\nCur Infans statim, ac ex utero matris egreditur, gemit?",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18135",
+                            "RecordID": "022-000005098",
+                            "Value": "Lips\u00f2,Nicol\u00f2,,? - 1661"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Giuseppe Genovesa detto il Geloso. Per la solennit\u00e0 della Sagra Lettera. Discorso. \nChe la costanza, e la perfezzione dello stato Mondiale dipende dall`incostante vicendevolezza del tempo.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18878",
+                            "RecordID": "022-000005966",
+                            "Value": "Genovesa,Giuseppe,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Giovambattista Valdina detto l`Instabile. Il Cannocchiale Siciliano. Orazione Funerale per la morte di D. Giovanni Vintimiglia.\nQuanto sia fallace la speranza di trovar la felicit\u00e0 nella cognizione delle buone discipline, e quanto vana quella d`acquistar gloria, nel possesso delle medesime, e delle belle lettere. Discorso dell`Istesso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19002",
+                            "RecordID": "022-000006113",
+                            "Value": "Valdina,Giovanni Battista,,1644 - 1695"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Raimondo del Pozzo Principe del PArco detto il Negletto contro gl`amori. Discorso.\nChe l`Unit\u00e0 conserva le Repubbliche, e la division le distrugge. Discorso dell`Istesso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18948",
+                            "RecordID": "022-000006050",
+                            "Value": "Del Pozzo,Raimondo,,1619 - 1694"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Francesco Alibrando detto il Ripolito. In memoria della Sagra Lettera. Discorso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18812",
+                            "RecordID": "022-000005887",
+                            "Value": "Alibrando,Francesco,,? - 1702"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Saverio Castelli detto il Loquace. La Piet\u00e0 Atlante, che sostiene le Monarchie. Discorso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18841",
+                            "RecordID": "022-000005916",
+                            "Value": "Castelli,Saverio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Carlo Gregori detto il Roco. Si descrive il Secolo presente. Discorso. \nSi spiegano i pregi del color pallido in un bel volto, nella gara della rosa, e della viola. Discorso dell`istesso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18778",
+                            "RecordID": "022-000005847",
+                            "Value": "di Gregorio,Carlo,Marquis of Poggio Gregorio|Knight of the Order of the Star,? - 1695"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "D. Antonio Messina detto l`Acceso. La Bonta prigioniera. Discorso recitato in giorno di Gioved\u00ec Santo.\nL`estinto Signore. Discorso recitato in Venerd\u00ec Santo dell`istesso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18919",
+                            "RecordID": "022-000006017",
+                            "Value": "Messina,Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Fra. Alberto Guazzi detto l`Inquieto. Le Rime del Faro. Cio\u00e8 i frutti delle contrariet\u00e0 degl`ingegni. Discorso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18890",
+                            "RecordID": "022-000005980",
+                            "Value": "Guazzi,Alberto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Fra. Giovanni Reitano detto il Rinomato. In lode dell`impresa della Fucina. Discorso.",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18962",
+                            "RecordID": "022-000006066",
+                            "Value": "Reitano,Giovanni,,? - 1693"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

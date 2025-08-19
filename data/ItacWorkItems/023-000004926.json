@@ -1,0 +1,159 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004926",
+        "WorkId": "000606",
+        "ShortTitle": "Alcibiadis Lucarini patricii senensis liber singularis",
+        "LongTitle": "Ad Iustinianum Imper. de Fiduciaria Tutela",
+        "ItacAcademyItem": {
+            "AcademyId": "0058",
+            "RecordID": "021-000003666",
+            "Value": "Accademia degli Uniti (Siena)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1612",
+        "Shelfmark": "1609/548",
+        "Subjects": "Law",
+        "Language": "Latin",
+        "Pagination": "[36] 111",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16370",
+                "RecordID": "022-000003035",
+                "Value": "Lucarini,Alcibiade,,ca. 1574 - 16"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17997",
+                    "RecordID": "022-000004932",
+                    "Value": "Bizzarri,Lepido,,"
+                },
+                {
+                    "PersonId": "17996",
+                    "RecordID": "022-000004931",
+                    "Value": "Lo Sperimentato Accademico Unito,,,"
+                },
+                {
+                    "PersonId": "17995",
+                    "RecordID": "022-000004930",
+                    "Value": "Il doppio Accademico Segreto,,,"
+                },
+                {
+                    "PersonId": "17994",
+                    "RecordID": "022-000004929",
+                    "Value": "Il Ritirato Accademico Unito,,,"
+                },
+                {
+                    "PersonId": "17993",
+                    "RecordID": "022-000004928",
+                    "Value": "L`Industrioso accademico Unito,,,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16433",
+                    "RecordID": "022-000003106",
+                    "Value": "Accarigi,Fabio,,"
+                },
+                {
+                    "PersonId": "16382",
+                    "RecordID": "022-000003048",
+                    "Value": "Accarigi,Francesco,,"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17992",
+                "RecordID": "022-000004927",
+                "Value": "d`Elci,Fabio,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16367",
+                "RecordID": "022-000003030",
+                "Value": "Florimi,Matteo,,1580 - 1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54184",
+            "Value": "023-000004926_54184_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "De duobus fratribus Accarisiis et de insigne ex secato lapide in eorum honorem. Epigramma",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17998",
+                            "RecordID": "022-000004933",
+                            "Value": "Pagani,Paolo Emilio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De insigni elephantum trasvadantium flumen",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17993",
+                            "RecordID": "022-000004928",
+                            "Value": "L`Industrioso accademico Unito,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ritirati Academici Uniti ad autorem",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16621",
+                            "RecordID": "022-000003340",
+                            "Value": "Il Rispettoso Intronato,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ad Eundem Doppi Academici Secreti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17995",
+                            "RecordID": "022-000004930",
+                            "Value": "Il doppio Accademico Segreto,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Aliud Sperimentati Academici Uniti",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17996",
+                            "RecordID": "022-000004931",
+                            "Value": "Lo Sperimentato Accademico Unito,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Aliud Lepidi Bizzarrii Sacerdotis",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "17997",
+                            "RecordID": "022-000004932",
+                            "Value": "Bizzarri,Lepido,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19075",
+        "RecordId": "022-000006195",
+        "Surname": "Brancavalerio",
+        "Forename": "Michelangelo",
+        "Gender": "Male",
+        "PersonalTitle": "Bishop of Alatri",
+        "DateText": "fl. 1648-1683",
+        "StartDate": "fl. 1648",
+        "EndDate": "1683",
+        "Nationality": {
+            "NationalityId": "367"
+        },
+        "Notes": "Hosted sessions of the Sterili in his palace in Rome.",
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0546",
+        "RecordId": "021-000008214",
+        "Name": "Assidui (Accademia degli)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "StartDate": "1567",
+        "EndDate": "?",
+        "DateText": "1567-?",
+        "Notes": "Fantuzzi reports the title of a manuscript publication related to the history of the Assidui Academy: Composizioni nell`una e nell`altra lingua fatte dagli Accademici Assidui ed apprestate da loro nelle comuni sessioni a perpetua memoria. Incominciandosi a di 16 di Gennaro 1567 sotto il principato del magnifico Messere Alessandro Griffoni.",
+        "ItacPersonItem": {
+            "PersonId": "20739",
+            "RecordId": "022-000008564",
+            "Name": "Grifoni,Alessandro,,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

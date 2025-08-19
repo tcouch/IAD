@@ -1,0 +1,236 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0115",
+        "RecordId": "021-000005287",
+        "Name": "I Desiosi (Accademia)",
+        "AlternativeName": "Accademia del Cardinal di Savoia",
+        "City": {
+            "CityId": "45",
+            "CityItalianName": "Roma",
+            "CityEnglishName": "Rome",
+            "CityLatinName": "Romae"
+        },
+        "EmblemDescription": "Five interwoven crowns: oaktree, palm, hellera, weed, bay",
+        "Motto": "Non uni insistere",
+        "StartDate": "1626",
+        "EndDate": "?",
+        "DateText": "1626-?",
+        "Notes": "On the history of this Academy, see Riccardo Merolla, L`Accademia dei Desiosi, in Roma moderna e contemporanea (1995), 1, pp. 121-156. Formally established in 1626, the Accademia started its activities the year before. Merolla also clarifies the emblem description.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18394",
+                "RecordId": "022-000005414",
+                "Name": "di Savoia,Maurizio,Cardinal,1593 - 1657",
+                "Nickname": "Laurindo il Perseverante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18393",
+                "RecordId": "022-000005413",
+                "Name": "Ponziglione,Monsignor,,",
+                "Nickname": "Leale",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18395",
+                "RecordId": "022-000005415",
+                "Name": "de Grilly,Monsieur,,",
+                "Nickname": "Faticoso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18396",
+                "RecordId": "022-000005416",
+                "Name": "Milliet di Challes,Paolo,,",
+                "Nickname": "Assiduo",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18397",
+                "RecordId": "022-000005417",
+                "Name": "di Beinette,Ludovico,,",
+                "Nickname": "Agitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18413",
+                "RecordId": "022-000005433",
+                "Name": "Gubernati,,,",
+                "Nickname": "Oscuro",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18398",
+                "RecordId": "022-000005418",
+                "Name": "d`Asti,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18399",
+                "RecordId": "022-000005419",
+                "Name": "Gromo,Ludovico,,",
+                "Nickname": "Volontario",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18400",
+                "RecordId": "022-000005420",
+                "Name": "della Monta`,,Count,",
+                "Nickname": "Sincero",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18401",
+                "RecordId": "022-000005421",
+                "Name": "di Passerano,Carlo,Count,",
+                "Nickname": "Immobile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18403",
+                "RecordId": "022-000005423",
+                "Name": "Asinari,Biagio Amedeo,Marquis,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18404",
+                "RecordId": "022-000005424",
+                "Name": "Provana,Ottavio,Cavaliere|Count of Collegno,",
+                "Nickname": "Essercitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18405",
+                "RecordId": "022-000005425",
+                "Name": "Ceva,Pontio,,",
+                "Nickname": "Sollevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18406",
+                "RecordId": "022-000005426",
+                "Name": "Valfrey,,Cavaliere,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18407",
+                "RecordId": "022-000005427",
+                "Name": "San Martino d`Aglie`,Ludovico,,",
+                "Nickname": "Acceso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18408",
+                "RecordId": "022-000005428",
+                "Name": "Pelleoni,Teodoro,,",
+                "Nickname": "Affidato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18409",
+                "RecordId": "022-000005429",
+                "Name": "Romagnano,,Cavaliere,",
+                "Nickname": "Diffeso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18410",
+                "RecordId": "022-000005430",
+                "Name": "di Corman,,,",
+                "Nickname": "Fedele",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18411",
+                "RecordId": "022-000005431",
+                "Name": "Viche,,,",
+                "Nickname": "Insterilito",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18412",
+                "RecordId": "022-000005432",
+                "Name": "Scarnati,,,",
+                "Nickname": "Indissolubile",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5280",
+                "RecordId": "022-000000318",
+                "Name": "Pellegrini,Matteo,,1595 - 1652",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5012",
+                "RecordId": "022-000000014",
+                "Name": "Barbazza,Andrea,Count,1581/82-1656",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18202",
+                "RecordId": "022-000005182",
+                "Name": "Mascardi,Agostino,,1590-1640",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54424",
+                    "Value": "022-000005182_54424_2.jpg"
+                }
+            },
+            {
+                "PersonId": "18188",
+                "RecordId": "022-000005168",
+                "Name": "Pallavicino,Pietro Sforza ,Marquis|Cardinal|Jesuit,1607-1667",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18510",
+                "RecordId": "022-000005542",
+                "Name": "Giovanetti,Marcello,,1598-1631",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18507",
+                "RecordId": "022-000005539",
+                "Name": "degli Oddi,Galeotto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

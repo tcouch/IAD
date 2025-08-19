@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9221",
+        "RecordId": "022-000001518",
+        "Surname": "Maggi",
+        "Forename": "Vincenzo",
+        "Gender": "Male",
+        "DateText": "1498-1564",
+        "StartDate": "1498",
+        "EndDate": "1564",
+        "Nationality": {
+            "NationalityId": "82",
+            "Value": "of Brescia"
+        },
+        "Notes": "See his biography by Elisabetta Selmi, in DBI",
+        "Role": "Author|Editor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

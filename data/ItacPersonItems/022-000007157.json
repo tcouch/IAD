@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19742",
+        "RecordId": "022-000007157",
+        "Surname": "Manuzio",
+        "Forename": "Aldo Pio",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Manutius",
+            "AlternativeForename": "Aldus Pius"
+        },
+        "DateText": "1449-1515",
+        "StartDate": "1449",
+        "EndDate": "1515",
+        "Nationality": {
+            "NationalityId": "325",
+            "Value": "of Bassiano"
+        },
+        "Notes": "Bassiano was in the Duchy of Sermoneta.",
+        "Role": "Printer|Publisher",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

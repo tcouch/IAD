@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19733",
+        "RecordId": "022-000007122",
+        "Surname": "Pietra",
+        "Forename": "Maurizio",
+        "PersonalTitle": "Count|Bishop of Vigevano",
+        "DateText": "1514 - 1576",
+        "StartDate": "1514",
+        "EndDate": "1576",
+        "Nationality": {
+            "NationalityId": "76",
+            "Value": "Milanese"
+        },
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

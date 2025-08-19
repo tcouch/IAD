@@ -1,0 +1,30 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15217",
+        "RecordId": "022-000001259",
+        "Surname": "Allacci",
+        "Forename": "Leone",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Allaccio"
+            },
+            {
+                "AlternativeSurname": "Allacius"
+            },
+            {
+                "AlternativeSurname": "Allatius"
+            }
+        ],
+        "DateText": "1586-1669",
+        "StartDate": "1586",
+        "EndDate": "1669",
+        "Nationality": {
+            "NationalityId": "66",
+            "Value": "Greek"
+        },
+        "Notes": "Censor among the Umoristi in 1638",
+        "Role": "Censor|Contributor|Editor|Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

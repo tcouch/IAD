@@ -1,0 +1,51 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0510",
+        "RecordId": "021-000008042",
+        "Name": "Discordati (Accademia dei)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1647",
+        "EndDate": "?",
+        "DateText": "1647-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20470",
+                "RecordId": "022-000008200",
+                "Name": "Manara,Curzio,,ca.1600-1650/52",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20574",
+                "RecordId": "022-000008328",
+                "Name": "Abattoni,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20575",
+                "RecordId": "022-000008329",
+                "Name": "Alcaini,Giacomo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20577",
+                "RecordId": "022-000008331",
+                "Name": "Lombardini,Isabella,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0090",
+        "RecordId": "021-000004675",
+        "Name": "Risvegliati (Accademia dei)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "Notes": "Giambattista Marino was the President of the Risvegliati Academy in Naples",
+        "ItacPersonItem": [
+            {
+                "PersonId": "15045",
+                "RecordId": "022-000001087",
+                "Name": "Faciuti,Donato,,",
+                "Nickname": "Sgombrato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17771",
+                "RecordId": "022-000004676",
+                "Name": "Adamio,Domenico,,",
+                "Nickname": "l`Elevato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17772",
+                "RecordId": "022-000004677",
+                "Name": "Gemini Castelli ,Placido,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17773",
+                "RecordId": "022-000004678",
+                "Name": "Conceo ,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17774",
+                "RecordId": "022-000004679",
+                "Name": "Barone,Francesco Elio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17775",
+                "RecordId": "022-000004680",
+                "Name": "Cantilena,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17776",
+                "RecordId": "022-000004681",
+                "Name": "Bacchetta,Gio[vanni] Pietro,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17777",
+                "RecordId": "022-000004682",
+                "Name": "de Apreya,Aniello,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17778",
+                "RecordId": "022-000004683",
+                "Name": "Mazarotti,Giovanni Battista,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17779",
+                "RecordId": "022-000004684",
+                "Name": "Fornari,Aniello,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5605",
+                "RecordId": "022-000000671",
+                "Name": "Marino,Giambattista,,1569-1625",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

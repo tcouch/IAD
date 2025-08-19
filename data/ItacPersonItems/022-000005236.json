@@ -1,0 +1,33 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18246",
+        "RecordId": "022-000005236",
+        "Surname": "Zaltieri",
+        "Forename": "Bolognino",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Zalterio",
+                "AlternativeForename": "Bolognin"
+            },
+            {
+                "AlternativeSurname": "Zaltiero",
+                "AlternativeForename": "Bolognino"
+            },
+            {
+                "AlternativeSurname": "Zalterius",
+                "AlternativeForename": "Bologninus"
+            }
+        ],
+        "DateText": "fl.1555 - 1575",
+        "StartDate": "fl.1555",
+        "EndDate": "1575",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Printer",
+        "TypographicReference": "A138|Z9|V511",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

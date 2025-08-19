@@ -1,0 +1,116 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005523",
+        "WorkId": "000669",
+        "ShortTitle": "Nicolai Claudii Fabricii Perescii Senatoris Aquensis Laudatio",
+        "LongTitle": "habita in funebri concione Academicorum a Io. Iacobo Buccardo Parisiensi",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1638",
+        "Shelfmark": "G1267(2)",
+        "Subjects": "Funeral oration",
+        "Language": "Latin|Greek|Italian",
+        "Pagination": "39",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18361",
+                    "RecordID": "022-000005378",
+                    "Value": "Dormalia,Enrico,,"
+                },
+                {
+                    "PersonId": "18415",
+                    "RecordID": "022-000005436",
+                    "Value": "Bouchard,Jean Jacque,,fl. 1638 - 1651"
+                },
+                {
+                    "PersonId": "18416",
+                    "RecordID": "022-000005437",
+                    "Value": "Pollini,Alexandri,,"
+                },
+                {
+                    "PersonId": "18418",
+                    "RecordID": "022-000005439",
+                    "Value": "Adimari,Alessandro,,"
+                },
+                {
+                    "PersonId": "18384",
+                    "RecordID": "022-000005403",
+                    "Value": "de Grammont,Scipion,,"
+                },
+                {
+                    "PersonId": "18417",
+                    "RecordID": "022-000005438",
+                    "Value": "Donii,Ioannis Baptistae,,"
+                }
+            ]
+        },
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18494",
+                    "RecordID": "022-000005519",
+                    "Value": "Richelieu,Armand Jean du Plessis, duc de ,,1585-1642"
+                },
+                {
+                    "PersonId": "18494",
+                    "RecordID": "022-000005519",
+                    "Value": "Richelieu,Armand Jean du Plessis, duc de ,,1585-1642"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18415",
+                "RecordID": "022-000005436",
+                "Value": "Bouchard,Jean Jacque,,fl. 1638 - 1651"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Nicolai Claudi Fabrici Peresci Laudatio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18415",
+                            "RecordID": "022-000005436",
+                            "Value": "Bouchard,Jean Jacque,,fl. 1638 - 1651"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Io. Iacobi Buccardi Epistola ad Franciscum Olearium Regiarum ratiorum Lutetiae magistrum De funebri concione Academicorum romanorum habita in mortem ... Perescij",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18415",
+                            "RecordID": "022-000005436",
+                            "Value": "Bouchard,Jean Jacque,,fl. 1638 - 1651"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "(Funebria carmina Academicorum romanorum, in altera editione romana prope-diem foras dabuntur) In orationem funebrem nobilis et docti viri Iacobi Buccardi habitam Romae in morte viri Illustrissimi Nicolai Claudij Fabricij Perescij Carmina (Dormalia, Pollini, Donii, de Grammont, Adimari)",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18361",
+                            "RecordID": "022-000005378",
+                            "Value": "Dormalia,Enrico,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

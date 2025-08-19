@@ -1,0 +1,137 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001015",
+        "WorkId": "00092",
+        "ShortTitle": "Le forze di Eolo dialogo fisico-matematico",
+        "LongTitle": "Dialogo fisico-matematico sopra gli effetti del Vortice o sia turbine detto negli stati veneti La Bisciabuova. Che il giorno 29 luglio 1689 ha scorso e flagellato molte ville e luoghi de territori di Mantova Padova Verona. Opera postuma del sig. dottore Geminiano Montanari Modanese astronomo e meteorista dello Studio di Padova",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0015",
+                "RecordID": "021-000000989",
+                "Value": "Accademia della Traccia"
+            },
+            {
+                "AcademyId": "0015",
+                "RecordID": "021-000000989",
+                "Value": "Traccia (Accademia della)"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "36",
+            "PublicationPlaceItalianName": "Parma",
+            "PublicationPlaceEnglishName": "Parma",
+            "PublicationPlaceLatinName": "Parmae"
+        },
+        "PublicationYear": "1694",
+        "Shelfmark": "1136.c.10",
+        "Subjects": "Biography|Science",
+        "Language": "Italian",
+        "Pagination": "First 24 leaves unnumbered; pp. 342; last 6 leaves unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5028",
+                "RecordID": "022-000000030",
+                "Value": "Montanari,Geminiano,,1633 - 1687"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5028",
+                    "RecordID": "022-000000030",
+                    "Value": "Montanari,Geminiano,,1633 - 1687"
+                },
+                {
+                    "PersonId": "7400",
+                    "RecordID": "022-000000990",
+                    "Value": "Poletti,Andrea,,"
+                },
+                {
+                    "PersonId": "7401",
+                    "RecordID": "022-000000992",
+                    "Value": "Bianchini,Francesco,,1662 - 1729"
+                }
+            ]
+        },
+        "Notes": "Report of the observation of the 2nd of July 1666 solar eclipse carried out by Montanari and pupils/assistants is in Giovanni Targioni Tozzetti Notizie degli aggrandimenti delle scienze fisiche accaduti in Toscana nel corso di anni LX del secolo XVII vol. II ii (Florence: 1780) pp. 759ff.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "7402",
+                "RecordID": "022-000000993",
+                "Value": "Contarini,Giulio,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7400",
+                "RecordID": "022-000000990",
+                "Value": "Poletti,Andrea,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7400",
+                "RecordID": "022-000000990",
+                "Value": "Poletti,Andrea,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Le forze di Eolo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5028",
+                            "RecordID": "022-000000030",
+                            "Value": "Montanari, Geminiano, , 1633-1687"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso del vacuo recitato nell`Accademia della Traccia la sera delli 28 Novembre dell`anno 1675 che si faceva in Bologna in casa dell`autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5028",
+                            "RecordID": "022-000000030",
+                            "Value": "Montanari, Geminiano, , 1633-1687"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Lettera in cui risponde il sig. Montanari ad un cavaliere che li propose di scioglere questo problema: perch\u00e9 li forastieri che capitano in Venezia si stancano dell`andare in gondola e li signori veneziani non sentono alcuna stanchezza dal lungo andarvi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5028",
+                            "RecordID": "022-000000030",
+                            "Value": "Montanari, Geminiano, , 1633-1687"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dedica",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7400",
+                            "RecordID": "022-000000990",
+                            "Value": "Poletti, Andrea, ,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Introduzione all`opera e breve compendio della vita dell`autore",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "7401",
+                            "RecordID": "022-000000992",
+                            "Value": "Bianchini, Francesco, ,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

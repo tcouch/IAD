@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "15694",
+        "RecordId": "022-000002222",
+        "Surname": "Arlotti",
+        "Forename": "Ridolfo",
+        "Gender": "Male",
+        "DateText": "1546-1613",
+        "StartDate": "1546",
+        "EndDate": "1613",
+        "Nationality": {
+            "NationalityId": "78",
+            "Value": "of Reggio Emilia"
+        },
+        "Notes": "More details on Arlotti`s life and deeds are in Vittorio Zaccaria, Le Rime degli Accademici Eterei  (Padova, 1996).",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

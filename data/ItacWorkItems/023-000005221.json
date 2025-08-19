@@ -1,0 +1,112 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005221",
+        "WorkId": "000641",
+        "ShortTitle": "Poesie varie",
+        "LongTitle": "del Sig. Francesco Maria De Luco Sereni Romano. Accademico Humorista",
+        "ItacAcademyItem": {
+            "AcademyId": "0023",
+            "RecordID": "021-000001571",
+            "Value": "Accademia degli Umoristi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1681",
+        "Shelfmark": "11431aaa18",
+        "Subjects": "Poetry|Academic discourse",
+        "Language": "Italian",
+        "Pagination": "311",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18232",
+                "RecordID": "022-000005216",
+                "Value": "De Luco Sereni,Francesco Maria,,1632 - 1705"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18232",
+                    "RecordID": "022-000005216",
+                    "Value": "De Luco Sereni,Francesco Maria,,1632 - 1705"
+                },
+                {
+                    "PersonId": "5084",
+                    "RecordID": "022-000000081",
+                    "Value": "Marescalchi,Vincenzo Maria,Senator,1627 - 1670"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7409",
+                    "RecordID": "022-000001001",
+                    "Value": "Chrisostomus,Iohannes,,"
+                },
+                {
+                    "PersonId": "18236",
+                    "RecordID": "022-000005222",
+                    "Value": "Rayneri,Tho.,Vicar General,"
+                }
+            ]
+        },
+        "CensorsAgreement": "V. D. Gio. Chrysost. Vicecomes Cler. Regul. S. Paulis Paenitent. in Metropol. Bonon. pro Eminentiss. Reverendiss. Card. Boncompagno Archiepisc. et Principe.\nImprimatur. Fr. Tho Rayneri de Forlivio Vicarius Gener. S. Officii Bonon.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "18232",
+                "RecordID": "022-000005216",
+                "Value": "De Luco Sereni,Francesco Maria,,1632 - 1705"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "18237",
+                "RecordID": "022-000005223",
+                "Value": "Pisarri,Eredi,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18237",
+                "RecordID": "022-000005223",
+                "Value": "Pisarri,Eredi,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54885",
+            "Value": "023-000005221_54885_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Del Sig. Vincenzo Marescalchi Accademico Humorista, gelato et c. All`autore per le sue Poesie",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5084",
+                            "RecordID": "022-000000081",
+                            "Value": "Marescalchi,Vincenzo Maria,Senator,1627 - 1670"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Discorso in prosa fatto dall`autore nell`Accademia degli Humoristi di Roma alla presenza di molti Eminentissimi Cardinali, e Personaggi; in cui si prova che l`Otio non e` altrimenti fomento de vitii ma piu` tosto incentivo alla virtu` et in consequenza agli acquisti della vera felicita`",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18232",
+                            "RecordID": "022-000005216",
+                            "Value": "De Luco Sereni,Francesco Maria,,1632 - 1705"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003799",
+        "WorkId": "000511",
+        "ShortTitle": "Il convito overo Discorsi di quelle materie che al convito s`appartengono.",
+        "LongTitle": "Del sig. Ottauiano Rabasco. Nelle Accademie de gl`Incitati in Roma e de Gelati in Bologna detto l`Assicurato. Dove s`hanno strettamente, con ordine diligente la diffinitione l`origine, la materia, il luogo, il tempo, l`apparato, i ministri, le feste, i giuochi, i ragionamenti, le circostanze, gl`effetti, le deit\u00e0, & imaginati numi tutelari de` conviti tanto pubblici quanto privati, e di qualunque genere d`essi distintamente. Con l`uso di varie nattioni di Greci, Romani, Egittij, Persiani, Ebrei, e d`altri, tanto de gl`antichi quanto de` nostri tempi. E con un discorso, a qual parte della Filosofia si subordini il convito. Al magnanimo Don Carlo de` Medici de` Serenissimi principi di Toscana. Aggiuntovi un indice copiosissimo",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0001",
+                "RecordID": "021-000000001",
+                "Value": "Accademia dei Gelati"
+            },
+            {
+                "AcademyId": "0062",
+                "RecordID": "021-000003800",
+                "Value": "Accademia degli Incitati"
+            }
+        ],
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1615",
+        "DedicationPlaceDate": "Rome 15 July 1615",
+        "Shelfmark": "278.i.8",
+        "Language": "Italian",
+        "Pagination": "[12] 253 [39]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17000",
+                "RecordID": "022-000003798",
+                "Value": "Rabasco,Ottaviano,,fl. 1591 - 1615"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17026",
+                    "RecordID": "022-000003831",
+                    "Value": "Niccolini,Piero,,"
+                },
+                {
+                    "PersonId": "17027",
+                    "RecordID": "022-000003833",
+                    "Value": "Nori,Francesco,Canon,"
+                },
+                {
+                    "PersonId": "17028",
+                    "RecordID": "022-000003834",
+                    "Value": "Fra Cornelio,,Inquisitor,"
+                },
+                {
+                    "PersonId": "17029",
+                    "RecordID": "022-000003835",
+                    "Value": "Ximenes,Emanuel,,"
+                },
+                {
+                    "PersonId": "17030",
+                    "RecordID": "022-000003836",
+                    "Value": "dell`Antella,Niccolo`,,1560 - 1630"
+                }
+            ]
+        },
+        "CensorsAgreement": "Concediamo licenza al molto reverendo Signor Francesco Nori Canonico, et Teologo Fiorentino, che possa rivedere la presente opera, considerando se vi sia cosa contra alla pieta` Christiana, o li buoni costumi et referisca impiedi(?) questa il di` 16 Marzo 1612. Piero Niccolini Vic. di Fiorenza\n\nLa presente opera da me letta, e considerata, non ho trovato cosa che sia contra la pieta` Christiana, e buoni costumi percio`, la giudico degna di darsi in luce, e in fede ho scritto questo di 30 Aprile 1613. Francesco Nori Canonico Fiorentino\n\nAttesa la premessa attestatione concediamo, che la soprascritta Opera si possa stampare in Firenze osservati gl`ordini soliti. 6 Maggio 1613. Pietro Niccolini Vicario di Firenze\n\nAl P. Emanuel Ximens per il Sant`Offizio Di Firenze. 10 Maggio 1613. Fra Cornelio Inquisitore.\n\nHo letto questo Convito, e non ho visto cosa che repugni alla Religione Christiana o buoni costumi. In Firenze nel nostro Collegio della Compagnia del Giesu`. Il primo di Luglio 1613. Emanuel Xiemens.\n\nFra Cornelio Inquisitore di Firenze 4 Luglio 1613.\n\nStampisi secondo gli ordini questo di 8 Luglio 1613. Niccolo` dell`Antella",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17969",
+                "RecordID": "022-000004894",
+                "Value": "de` Medici,Carlo,Cardinal,1595 - 1666"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17842",
+                "RecordID": "022-000004752",
+                "Value": "Giunti,Giandonato e Bernardino,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55276",
+            "Value": "023-000003799_55276_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

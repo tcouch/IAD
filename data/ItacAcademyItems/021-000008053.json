@@ -1,0 +1,52 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0521",
+        "RecordId": "021-000008053",
+        "Name": "Lettere Armi e Musica (Accademia di)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1570/80",
+        "EndDate": "?",
+        "DateText": "1570/80-?",
+        "Notes": "Complete list of members was published by Angelo Solerti, in Atti della deputazione ferrarese di storia patria, vol. 4, 2 (Ferrara, 1892).",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20519",
+                "RecordId": "022-000008258",
+                "Name": "Villa,Francesco,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18365",
+                "RecordId": "022-000005383",
+                "Name": "Guarini,Alessandro,,1563-1636",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20520",
+                "RecordId": "022-000008259",
+                "Name": "Brusantini,Paolo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20522",
+                "RecordId": "022-000008261",
+                "Name": "Fontanella,Alfonso,Count,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

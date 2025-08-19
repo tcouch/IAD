@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9246",
+        "RecordId": "022-000001542",
+        "Surname": "Badoer",
+        "Forename": "Federico",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Badoero"
+        },
+        "DateText": "1519-1593",
+        "StartDate": "1519",
+        "EndDate": "1593",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Founder of Accademia della Fama in Venice (1558). See his biography by A. Stella, on DBI.",
+        "Role": "Dedicatee|Contributor",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

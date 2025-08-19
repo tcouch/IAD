@@ -1,0 +1,49 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004790",
+        "WorkId": "000593",
+        "ShortTitle": "Physica Et Nova",
+        "LongTitle": "Duodecim Mansionum caelestium Sectio, per Horizontales, positionisque Circulos, Aequatori, eiusq; Parallelis, & inde pro Syderum, locorumq; Caelestium Obviationibus ptolomaei calculo convenjentes Facta.\nNec non aptissima ratio excipiendi comprehensum spatium in Aequatore pro annis naturalia metientibus in Homine.\nAd Eminentiss. principem S.R.E. Card. Amplissimum D.D. Franciscum Boncompagnum Archiepiscopum Neapolitanum. \nOcii Lusus Francisci Nolae Art. Med. Doct. Neapol. In Ociosorum Academia Sterilis.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Accademia degli Oziosi"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1632",
+        "DedicationPlaceDate": "Naples 27 January",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17872",
+                "RecordID": "022-000004791",
+                "Value": "Nola ,Francesco,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5113",
+                "RecordID": "022-000000110",
+                "Value": "Boncompagni,Francesco,Cardinal,1592-1641"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15137",
+                "RecordID": "022-000001179",
+                "Value": "Scoriggio,Lazzaro,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54539",
+            "Value": "023-000004790_54539_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

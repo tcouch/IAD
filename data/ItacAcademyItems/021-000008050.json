@@ -1,0 +1,35 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0518",
+        "RecordId": "021-000008050",
+        "Name": "Illuminati (Accademia degli)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "StartDate": "1660",
+        "EndDate": "after1669",
+        "DateText": "1660-after1669",
+        "ItacPersonItem": [
+            {
+                "PersonId": "20510",
+                "RecordId": "022-000008249",
+                "Name": "Penna,Alberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20511",
+                "RecordId": "022-000008250",
+                "Name": "Accoramboni,Roberto,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

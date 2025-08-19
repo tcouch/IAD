@@ -1,0 +1,52 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004199",
+        "WorkId": "000539",
+        "ShortTitle": "La Pellegrina",
+        "LongTitle": "Comedia Di Giovanni Scaftembraz. Accademico Dubioso, detto l`Inquieto, Data In Luce Dal Sig. Domenico De Prado.",
+        "ItacAcademyItem": {
+            "AcademyId": "0072",
+            "RecordID": "021-000004198",
+            "Value": "Accademia dei Dubbiosi"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1730",
+        "Shelfmark": "11715.b.47.",
+        "Subjects": "Play",
+        "Language": "Italian",
+        "Pagination": "pp. 123",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16567",
+                "RecordID": "022-000003285",
+                "Value": "Sgambati,Reginaldo,,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17362",
+                "RecordID": "022-000004200",
+                "Value": "De Prado,Domenico,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17363",
+                "RecordID": "022-000004201",
+                "Value": "Muzio ,Gennaro and Vincenzo,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53955",
+            "Value": "023-000004199_53955_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

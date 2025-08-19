@@ -1,0 +1,90 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001426",
+        "WorkId": "00154",
+        "ShortTitle": "Dell`Antico Ginnasio Napoletano",
+        "LongTitle": "Opera posthuma di Pietro Lasena. Dedicata all`eminentissimo signor Cardinale Barberini",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapoli"
+        },
+        "PublicationYear": "1641",
+        "DedicationPlaceDate": "Rome 8 April 1641",
+        "Shelfmark": "793.i.31",
+        "Subjects": "Dissertations|Speeches",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved flyleaf | Decorations",
+        "Pagination": "pp. 292",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15023",
+                "RecordID": "022-000001065",
+                "Value": "Lasena,Pietro,,1590-1636"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "15208",
+                "RecordID": "022-000001250",
+                "Value": "Brancaccio,Francesco Maria,Cardinal,1592-1675"
+            }
+        },
+        "Notes": "Printer`s name is not mentioned but the engraved flyleaf seems very similar to that used in the 1688 edition. \nOn pp. 2-3, the author mentions Cardinal Brancaccio as the founder of the Oziosi Academy.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15215",
+                    "RecordID": "022-000001257",
+                    "Value": "Morenus,Io Vincentius,,"
+                },
+                {
+                    "PersonId": "15216",
+                    "RecordID": "022-000001258",
+                    "Value": "Alt.,Io. Bapt.,,"
+                },
+                {
+                    "PersonId": "15217",
+                    "RecordID": "022-000001259",
+                    "Value": "Allacci,Leone,,1586-1669"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbitur Reverendiss. P. Mag.  S. Palatij Apostolici Io. Bapt. Alt. Episc. camer. Vicesg.   Il Ginnasio Napoletano del signor Pietro la Sena per commissione del reverendissimo Maestro del Sacro Palazzo Apostolico \u00e8 stato da me consideratamente veduto; n\u00e9 in esso ritrovo cosa alcuna che possa offender la piet\u00e0 o i costumi anzi scorgendocisi diligenza studio dottrina non ordinaria e peregrina eruditione stimo che sia degnissimo della stampa e che recher\u00e0 ad esse singolar giovamento e diletto a letterati; accrescendo altretanto di lode alla memoria dell`Autore che vive perpetua nell`altre opere da lui pubblicate. In Roma questo d\u00ec primo d`Agosto 1638. Leone Allaci   Imprimatur   F. Io: Vincentius Morenus Mag.  et Socius Reverendissimi P. M. S. et Apost. Palatij.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15218",
+                "RecordID": "022-000001260",
+                "Value": "Barberini,Antonio,Cardinal,1607-1671"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15193",
+                "RecordID": "022-000001235",
+                "Value": "Porpora,Carlo,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Dedication",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15208",
+                        "RecordID": "022-000001250",
+                        "Value": "Brancaccio, Francesco Maria, Cardinal, 1592-1675"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18089",
+        "RecordId": "022-000005042",
+        "Surname": "Cervini",
+        "Forename": "Marcello",
+        "Gender": "Male",
+        "PersonalTitle": "Pope Marcellus II",
+        "DateText": "1501-1555",
+        "StartDate": "1501",
+        "EndDate": "1555",
+        "Nationality": {
+            "NationalityId": "202",
+            "Value": "of Montefano (Macerata)"
+        },
+        "Role": null,
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005112",
+        "WorkId": "000624",
+        "ShortTitle": "Pompe Festive",
+        "LongTitle": "Celebrate Dalla Nobile Ed Essemplare Citta Di Messina Nell`Anno M.DC.LIX. Per la solennit\u00e0 della Sagratissima Lettera scrittale dalla suprema Imperatrice degli Angeli Maria. Fedelissima Descrizione Composta Per Ordine Dell`Illustrissimo Senato Dal M.R.P. Domenico Argananzio Della Compagnia di Gies\u00f9.",
+        "ItacAcademyItem": {
+            "AcademyId": "0110",
+            "RecordID": "021-000005086",
+            "Value": "Accademia degli Abbarbicati"
+        },
+        "Format": "4\u00ba",
+        "City": {
+            "CityId": "82",
+            "PublicationPlaceItalianName": "Messina",
+            "PublicationPlaceEnglishName": "Messina",
+            "PublicationPlaceLatinName": "Messana"
+        },
+        "PublicationYear": "1659",
+        "Shelfmark": "664.d.15.",
+        "Subjects": "Religious celebrations",
+        "Language": "Italian|Latin",
+        "Illustration": "Engraved titlepage|",
+        "Pagination": "pp. 165",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18147",
+                "RecordID": "022-000005113",
+                "Value": "Argananzio,Domenico,,? - 1694"
+            }
+        },
+        "Notes": "In chapter XXII (pp. 137-138) the author mentions Academies in Messina.\nMissing pp. 139-140.\nThe colophon contains manuscript notes.\nItem presented to the British Library by Sir Richard Colt Hoare, Bt., in 1825.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18153",
+                    "RecordID": "022-000005119",
+                    "Value": "Castelnuovo,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18154",
+                    "RecordID": "022-000005120",
+                    "Value": "Ventimiglia,Giuseppe,,"
+                },
+                {
+                    "PersonId": "18155",
+                    "RecordID": "022-000005121",
+                    "Value": "Bisignano,Antonio,Canon,"
+                },
+                {
+                    "PersonId": "18156",
+                    "RecordID": "022-000005122",
+                    "Value": "de Denti,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Giuseppe Castelnuovo Provinciale Della Compagnia di Gies\u00f9 Iin Sicilia. \nAvendo dato \u00e0 rivedere la Relazione della Festa della sagra Lettere della Beatissima Vergine, fatta nella Nobile, ed Essemplare Citta di Messina, composta dal P. Domenico Argananzio della nostra Compagnia, che h\u00e0 per Titolo (Pompe Festive celebrate dalla Nobile, ed Essemplare Citt\u00e0 di Messina nella solennit\u00e0 della sagratissima Lettera, composta per ordine dell`illustrissimo Senato dal M.R.P. Domenico Argananzio della Compagnia di Gies\u00f9) \u00e0 tre Sacerdoti della medesima Compagnia, li quali l`hanno stimata degna di stampa, per l`autorit\u00e0 \u00e0 noi comunicata dal M.R.P. Gosuino Nickel Preposito Generale, concediamo, che possa stamparsi, se cos\u00ec piacer\u00e0 \u00e0 chi spetta. In fede di ci\u00f2 abiamo fatto la presente sottoscritta di propria mano, e suggellata col proprio suggello del nostro ufizio. In Caltagirone li 6. di Decembre 1659. Giuseppe Castelnuovo.\nPer comandamento dell`Illustrissimo, e Reverendissimo Signore Don Simeone Caraffa Arcivescovo di questa Nobile, ed Essemplare Citt\u00e0 di Messina, h\u00f2 veduto il Libro Intitolato, Pompe Festive, composto dal M.R.P. Domenico Argananzio della Compagnia di Gies\u00f9, e non h\u00f2 ritrovato in quello cosa contraria alla Santa Fede, ne a` buoni costumi, e per essere Opera erudita, e concettosa, la stimo degna delle stampe, ed il Fede h\u00f2 fatto la presente sottoscritta di mia mano. \nGiuseppe Ventimiglia della Compagnia di Gies\u00f9 . \nImprimatur S. Archiepiscopus Messanensis. Imprimatur D. Antonius Bisignano pro Illustr. de Denti. F.P.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18148",
+                    "RecordID": "022-000005114",
+                    "Value": "Spatafora,Giuseppe,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "18149",
+                    "RecordID": "022-000005115",
+                    "Value": "Avarna,Tomaso,Knight of the Star Order,"
+                },
+                {
+                    "PersonId": "18150",
+                    "RecordID": "022-000005116",
+                    "Value": "Cicala,Filippo,Knight of the Order of the Star|Senator of Messina,"
+                },
+                {
+                    "PersonId": "18151",
+                    "RecordID": "022-000005117",
+                    "Value": "Pisciotta,Francesco Maria,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18157",
+                    "RecordID": "022-000005123",
+                    "Value": "Faraone,Pietro,Senator of Messina,"
+                },
+                {
+                    "PersonId": "18158",
+                    "RecordID": "022-000005124",
+                    "Value": "Calabro,Vincenzo,,"
+                }
+            ]
+        },
+        "Artists": {
+            "ItacPersonItem": {
+                "PersonId": "18172",
+                "RecordID": "022-000005141",
+                "Value": "Mastori,,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18152",
+                "RecordID": "022-000005118",
+                "Value": "Brea,Pietro - Heredi,,"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "54520",
+            "Value": "023-000005112_54520_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54521",
+            "Value": "023-000005112_54521_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

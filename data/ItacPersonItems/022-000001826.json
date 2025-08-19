@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9657",
+        "RecordId": "022-000001826",
+        "Surname": "Deuchino",
+        "Forename": "Evangelista",
+        "Gender": "Male",
+        "DateText": "ca.1580-ca.1630",
+        "StartDate": "ca.1580",
+        "EndDate": "ca.1630",
+        "Nationality": {
+            "NationalityId": "170",
+            "Value": "of Treviso"
+        },
+        "Role": "Publisher|Printer",
+        "TypographicReference": "Edit16V337 |Edit16Z70|Edit16Z69|Mar.te 676",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

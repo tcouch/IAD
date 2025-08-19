@@ -1,0 +1,45 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003542",
+        "WorkId": "000460",
+        "ShortTitle": "Discordia d`amore",
+        "LongTitle": "Commedia nuova Rusticale Composta per il Fumoso de la Congrega de Rozzi",
+        "ItacAcademyItem": {
+            "AcademyId": "0056",
+            "RecordID": "021-000003421",
+            "Value": "Congrega de` Rozzi"
+        },
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1580?",
+        "Shelfmark": "162.a.61|1071.c.45",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "12 leaves",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16746",
+                "RecordID": "022-000003482",
+                "Value": "Salvestro,,,"
+            }
+        },
+        "Notes": "Date and printer are suggested by the British Library catalogue",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16274",
+                "RecordID": "022-000002926",
+                "Value": "Bonetti,Luca,,fl. 1553-1612"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53863",
+            "Value": "023-000003542_53863_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

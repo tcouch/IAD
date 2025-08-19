@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18426",
+        "RecordId": "022-000005449",
+        "Surname": "Matranga",
+        "Forename": "Girolamo",
+        "AlternativeName": {
+            "AlternativeSurname": "Matranga",
+            "AlternativeForename": "Hyeronimus"
+        },
+        "DateText": "1605 - 1679",
+        "StartDate": "1605",
+        "EndDate": "1679",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "For a detailed biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, pp. 281-282 (BL Shelfmark:610.m.10.)",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

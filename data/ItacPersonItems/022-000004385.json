@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "17510",
+        "RecordId": "022-000004385",
+        "Surname": "Manuzio",
+        "Forename": "Aldo Jr",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Manutius",
+            "AlternativeForename": "Aldus"
+        },
+        "DateText": "1547-1597",
+        "StartDate": "1547",
+        "EndDate": "1597",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Role": "Printer|Contributor|Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

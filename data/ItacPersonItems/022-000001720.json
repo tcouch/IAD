@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9113",
+        "RecordId": "022-000001720",
+        "Surname": "Franco",
+        "Forename": "Nicolo",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeForename": "Niccolo"
+        },
+        "DateText": "1515-1570",
+        "StartDate": "1515",
+        "EndDate": "1570",
+        "Nationality": {
+            "NationalityId": "112",
+            "Value": "of Benevento"
+        },
+        "Notes": "Franco was the first president of the Accademia degli Argonauti in Casale Monferrato.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

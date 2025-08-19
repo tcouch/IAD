@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16268",
+        "RecordId": "022-000002918",
+        "Surname": "Habsburg",
+        "Forename": "Rudolph II",
+        "PersonalTitle": "Holy Roman Emperor",
+        "DateText": "1552 - 1612",
+        "StartDate": "1552",
+        "EndDate": "1612",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Role": "Dedicatee",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

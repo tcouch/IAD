@@ -1,0 +1,116 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000001447",
+        "WorkId": "00175",
+        "ShortTitle": "Lodi Per Lo Stato Rustico",
+        "LongTitle": "Del Signor Gio. Vincenzo Imperiale. A lui da` megliori dedicate.",
+        "ItacAcademyItem": {
+            "AcademyId": "0017",
+            "RecordID": "021-000001040",
+            "Value": "Academia degli Oziosi"
+        },
+        "Format": "12\u00ba",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1613",
+        "DedicationPlaceDate": "Venice 30 March 1613",
+        "Shelfmark": "1063.c.14.",
+        "Content": "Encomistic sonnets",
+        "Subjects": "Encomiastic Poetry|Madrigals",
+        "Language": "Latin|Italian|Greek",
+        "Pagination": "pp. 216",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5147",
+                "RecordID": "022-000000143",
+                "Value": "Imperiale,Gian Vincenzo,,1582-1648"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "5605",
+                    "RecordID": "022-000000671",
+                    "Value": "Marino,Giambattista,,1569-1625"
+                },
+                {
+                    "PersonId": "15028",
+                    "RecordID": "022-000001070",
+                    "Value": "Grillo,Angelo,Abbot,"
+                }
+            ]
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "9657",
+                "RecordID": "022-000001826",
+                "Value": "Deuchino,Evangelista,,c. 1580-c. 1630"
+            }
+        },
+        "Notes": "On pp. 9-11 this book contains 3 sonnets written by Abbacinato Accademico Abbagliato. On pp. 11-13 there are 4 sonnets written by Addestrato Academico di Padova. On pp. 20-23 there are 4 sonnets written by Anhelante Academico Assetato. On p. 29 there is a sonnet written by Asciutto Academico Assetato. On pp. 68-74 there are Encomiastic verses written by Florio Liceti Accademico di Padova. On p. 184 there is a sonnet written by Zelante Academico Abbagliato.",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "15356",
+                    "RecordID": "022-000001395",
+                    "Value": "Maraveglia,Gio[vanni],,"
+                },
+                {
+                    "PersonId": "15360",
+                    "RecordID": "022-000001399",
+                    "Value": "Cominus,Barth[olomeus],,"
+                },
+                {
+                    "PersonId": "15371",
+                    "RecordID": "022-000001410",
+                    "Value": "Minoto,Andrea,,"
+                },
+                {
+                    "PersonId": "15372",
+                    "RecordID": "022-000001411",
+                    "Value": "Correr,Francesco,,"
+                },
+                {
+                    "PersonId": "15373",
+                    "RecordID": "022-000001412",
+                    "Value": "Diedo,Francesco,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Gli Eccellentiss. Sig. Capi dell`Eccelso Consiglio de` X  infrascritti havuta fede da I Sig. Riformatori dello studio Di Padova per relation a loro fatta da i due a questo deputati; cio\u00e8 del R. P. Inquisitor et dal Circ. et fedelissimo Secretario del Senato Gio: Maraveglia; con giuramento che nel li. intitolato lo Stato Rustico del Sig. Vincenzo Imperiale; non si truova cosa contra le leggi; et \u00e8 degno di stampa; concedono licentia; che possa esser stampato in questa Citt\u00e0. Dat. die 8. Ianuarij 1612. D. Andrea Minoto; D. Francesco Correr; D. Francesco Diedo; Capi dell`Eccelso Cons. di X. Illustriss. Consilij X. Sec. Barth. Cominus. 1612.9. Zener. Registrato in lib. a car.122. Ant. Laured. off. con. Blasph. Not.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15370",
+                "RecordID": "022-000001409",
+                "Value": "Spinola,Giannettino,,"
+            }
+        },
+        "EngraverReference": "N",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9657",
+                "RecordID": "022-000001826",
+                "Value": "Deuchino,Evangelista,,c. 1580-c. 1630"
+            }
+        },
+        "PrinterOrnament": "Edit16V337 |Edit16Z70|Edit16Z69",
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Sonetti dell`Abbate D. Angelo Grillo",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "15028",
+                        "RecordID": "022-000001070",
+                        "Value": "Grillo, Angelo, Abbot,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

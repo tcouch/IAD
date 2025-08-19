@@ -1,0 +1,50 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003026",
+        "WorkId": "000390",
+        "ShortTitle": "Dialogo della bella creanza delle donne",
+        "LongTitle": "Dello Stordito Intronato",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "38",
+            "PublicationPlaceItalianName": "Milano",
+            "PublicationPlaceEnglishName": "Milan",
+            "PublicationPlaceLatinName": "Mediolani"
+        },
+        "PublicationYear": "1558",
+        "DedicationPlaceDate": "Di Lucignano 22 October 1538",
+        "Shelfmark": "721.c.35.(1.)",
+        "Subjects": "Women - Social condition",
+        "Language": "Italian",
+        "Pagination": "44r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "9205",
+                "RecordID": "022-000001502",
+                "Value": "Piccolomini,Alessandro,Archbishop of Patrasso,1508 - 1578"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16365",
+                "RecordID": "022-000003027",
+                "Value": "de gli Antonii,Giovann`Antonio,,1527/31 - 1583"
+            }
+        },
+        "Notes": "This copy contains a poem at the end: `Leggiadre donne che quella bellezza... quel che deve perir si agevolmente?`",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16366",
+                "RecordID": "022-000003028",
+                "Value": "Meda,Valerio e fratelli,,1550 - 1578"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

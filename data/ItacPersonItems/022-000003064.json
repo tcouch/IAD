@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16398",
+        "RecordId": "022-000003064",
+        "Surname": "Rizzardi",
+        "Forename": "Gio. Dominico",
+        "AlternativeName": {
+            "AlternativeSurname": "Ricciardi",
+            "AlternativeForename": "Domenico"
+        },
+        "Nationality": {
+            "NationalityId": "57",
+            "Value": "Italian"
+        },
+        "Notes": "In `Rime di Gio. Battista Arrigoni` (Pasquati, 1604), Rizzardi is called `Libraro et bidello degli Illstrissimi [sic] Fecondi`.",
+        "Role": null,
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

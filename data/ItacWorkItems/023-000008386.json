@@ -1,0 +1,43 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000008386",
+        "WorkId": "000945",
+        "ShortTitle": "Violino Primo - Violino secondo - Bassetto viola - Basso continuo - Il primo libro delle sonate a due violini conun bassetto Viola se piace",
+        "LongTitle": "Di Gio. Battista Mazzaferrata Maestro di Cappella dell`Illustrissima Accademia della Morte di Ferrara. Opera quinta. Nuovamente ristampata",
+        "ItacAcademyItem": {
+            "AcademyId": "0095",
+            "RecordID": "021-000004780",
+            "Value": "Morte (Accademia della)"
+        },
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1678",
+        "Shelfmark": "g14",
+        "Subjects": "Music",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15445",
+                "RecordID": "022-000001958",
+                "Value": "Mazzaferrata,Giovanni Battista,Chapel Master,?-1681"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5249",
+                "RecordID": "022-000000241",
+                "Value": "Monti,Giacomo,,1625?-1689"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55297",
+            "Value": "023-000008386_55297_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004874",
+        "WorkId": "000597",
+        "ShortTitle": "Academica Altera.",
+        "LongTitle": "Quibus Lectiones Variis De Rebus In Ioan. Bap. Rinal. Academia Recitatae Continetur. Sub Auspiciis Cicci Loffredae trevici D. Militaris, & Litterariae peritiae gloria Clarissimi.\nIoan. Bap. Rinaldo Auctore.",
+        "ItacAcademyItem": {
+            "AcademyId": "0097",
+            "RecordID": "021-000004786",
+            "Value": "Accademia Rinaldiana"
+        },
+        "Format": "Fol.",
+        "City": {
+            "CityId": "2",
+            "PublicationPlaceItalianName": "Napoli",
+            "PublicationPlaceEnglishName": "Naples",
+            "PublicationPlaceLatinName": "Neapolis"
+        },
+        "PublicationYear": "1579",
+        "Shelfmark": "1575/190",
+        "Subjects": "Academic lessons",
+        "Language": "Latin|Greek",
+        "Illustration": "Engraved title page|",
+        "Pagination": "pp. 146",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17869",
+                "RecordID": "022-000004785",
+                "Value": "Rinaldi,Giovanni Battista,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17889",
+                    "RecordID": "022-000004811",
+                    "Value": "di Bologna,Giovanni,,"
+                },
+                {
+                    "PersonId": "17890",
+                    "RecordID": "022-000004812",
+                    "Value": "Caracciolo ,Giovanni Battista,Duke of Celenza,"
+                },
+                {
+                    "PersonId": "17891",
+                    "RecordID": "022-000004813",
+                    "Value": "Cardines,Antonio,,"
+                },
+                {
+                    "PersonId": "17892",
+                    "RecordID": "022-000004814",
+                    "Value": "Boccapianola,Francesco,,"
+                },
+                {
+                    "PersonId": "17893",
+                    "RecordID": "022-000004815",
+                    "Value": "Petti,Ortensio,,"
+                },
+                {
+                    "PersonId": "17894",
+                    "RecordID": "022-000004816",
+                    "Value": "Brancaccio ,Carlo,,"
+                },
+                {
+                    "PersonId": "17896",
+                    "RecordID": "022-000004818",
+                    "Value": "Rota,Alfonso,,"
+                },
+                {
+                    "PersonId": "17897",
+                    "RecordID": "022-000004819",
+                    "Value": "Cardines, Bernardo,,"
+                },
+                {
+                    "PersonId": "17898",
+                    "RecordID": "022-000004820",
+                    "Value": "Suardo,Orazio,,"
+                },
+                {
+                    "PersonId": "17899",
+                    "RecordID": "022-000004821",
+                    "Value": "Petti,Tarquinio,,"
+                },
+                {
+                    "PersonId": "17900",
+                    "RecordID": "022-000004822",
+                    "Value": "Lanfranco,Ottavio,,"
+                },
+                {
+                    "PersonId": "17904",
+                    "RecordID": "022-000004826",
+                    "Value": "Scorciato,Girolamo,,"
+                },
+                {
+                    "PersonId": "17905",
+                    "RecordID": "022-000004827",
+                    "Value": "Riccio,Lucio,,"
+                },
+                {
+                    "PersonId": "17906",
+                    "RecordID": "022-000004828",
+                    "Value": "Frezzia,Decio,,"
+                },
+                {
+                    "PersonId": "17907",
+                    "RecordID": "022-000004829",
+                    "Value": "Curzio,Marcello,,"
+                },
+                {
+                    "PersonId": "17910",
+                    "RecordID": "022-000004832",
+                    "Value": "Campanile,Giovanni Angelo,,"
+                },
+                {
+                    "PersonId": "17911",
+                    "RecordID": "022-000004833",
+                    "Value": "Gatto,Giovanni Leonardo,,"
+                },
+                {
+                    "PersonId": "17912",
+                    "RecordID": "022-000004834",
+                    "Value": "Quadra,Antonio,,"
+                },
+                {
+                    "PersonId": "17914",
+                    "RecordID": "022-000004836",
+                    "Value": "Sorgente,Marcantonio,,"
+                },
+                {
+                    "PersonId": "17915",
+                    "RecordID": "022-000004837",
+                    "Value": "Lepore,Giovanni Battista,,"
+                },
+                {
+                    "PersonId": "17918",
+                    "RecordID": "022-000004840",
+                    "Value": "Sammarco,Vincenzo,,"
+                },
+                {
+                    "PersonId": "17926",
+                    "RecordID": "022-000004848",
+                    "Value": "Aloe,Fabio,,"
+                },
+                {
+                    "PersonId": "17927",
+                    "RecordID": "022-000004849",
+                    "Value": "Blanco,Michele,,"
+                },
+                {
+                    "PersonId": "17928",
+                    "RecordID": "022-000004850",
+                    "Value": "Grimaldi,Carlo,,"
+                },
+                {
+                    "PersonId": "17895",
+                    "RecordID": "022-000004817",
+                    "Value": "Filomarino,Carlo,,"
+                },
+                {
+                    "PersonId": "17901",
+                    "RecordID": "022-000004823",
+                    "Value": "Curzio,Paolo,,"
+                },
+                {
+                    "PersonId": "17908",
+                    "RecordID": "022-000004830",
+                    "Value": "Curzio,Cesare,,"
+                },
+                {
+                    "PersonId": "17909",
+                    "RecordID": "022-000004831",
+                    "Value": "Caracciolo,Lelio,,"
+                },
+                {
+                    "PersonId": "17913",
+                    "RecordID": "022-000004835",
+                    "Value": "Suardo,Scipione,,"
+                },
+                {
+                    "PersonId": "17917",
+                    "RecordID": "022-000004839",
+                    "Value": "Lanfranco,Marcello,,"
+                },
+                {
+                    "PersonId": "17929",
+                    "RecordID": "022-000004851",
+                    "Value": "Brancaccio,Cesare,,"
+                },
+                {
+                    "PersonId": "17953",
+                    "RecordID": "022-000004877",
+                    "Value": "Laurentius,Octavius,,"
+                }
+            ]
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "16115",
+                    "RecordID": "022-000002719",
+                    "Value": "Guidobonus,,General Vicar,"
+                },
+                {
+                    "PersonId": "17279",
+                    "RecordID": "022-000004094",
+                    "Value": "Lombardo,Giovanni Francesco ,,"
+                },
+                {
+                    "PersonId": "16116",
+                    "RecordID": "022-000002720",
+                    "Value": "Regius,Paulus,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur. P. Francisc. Guidob. Vicar. Gen. neapol. \nIo. Franciscus Lombardus. Vidit.\nPaulus regius. f. 22.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "17951",
+                "RecordID": "022-000004875",
+                "Value": "Loffredo,Cicco,Marquis of Trevico,"
+            }
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "17869",
+                "RecordID": "022-000004785",
+                "Value": "Rinaldi,Giovanni Battista,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "17954",
+                "RecordID": "022-000004878",
+                "Value": "Salviani,Orazio,,"
+            }
+        },
+        "PrinterOrnament": "EDIT16  Z948",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

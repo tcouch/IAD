@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16623",
+        "RecordId": "022-000003342",
+        "Surname": "Gambara",
+        "Forename": "Gianfrancesco",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Gambera",
+            "AlternativeForename": "Giovanni Francesco"
+        },
+        "PersonalTitle": "Cardinal",
+        "DateText": "1533-1587",
+        "StartDate": "1533",
+        "EndDate": "1587",
+        "Nationality": {
+            "NationalityId": "82",
+            "Value": "of Brescia"
+        },
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

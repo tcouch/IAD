@@ -1,0 +1,59 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0067",
+        "RecordId": "021-000004115",
+        "Name": "Solitari (Accademia dei)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1630s?",
+        "EndDate": "?",
+        "DateText": "1630s?-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5149",
+                "RecordId": "022-000000145",
+                "Name": "Maia Materdona,Giovanni Francesco,,1590 - ?",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17297",
+                "RecordId": "022-000004116",
+                "Name": "Marchese,Giovanni Domenico,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17298",
+                "RecordId": "022-000004117",
+                "Name": "Como ,Carlo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17299",
+                "RecordId": "022-000004118",
+                "Name": "Donnola,Taddeo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19869",
+                "RecordId": "022-000007311",
+                "Name": "Primicile,Angelo,Carmelite,",
+                "Nickname": "il Melanconico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

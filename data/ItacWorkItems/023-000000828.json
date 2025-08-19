@@ -1,0 +1,96 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000828",
+        "WorkId": "00052",
+        "ShortTitle": "Gl\u2019Idilli di diversi Ingegni Illustri del secolo nostro",
+        "LongTitle": "raccolte dal Bidelli",
+        "ItacAcademyItem": {
+            "AcademyId": "0011",
+            "RecordID": "021-000000779",
+            "Value": "Accademia dei Selvaggi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "38",
+            "PublicationPlaceItalianName": "Milano",
+            "PublicationPlaceEnglishName": "Milan",
+            "PublicationPlaceLatinName": "Mediolani"
+        },
+        "PublicationYear": "1618",
+        "DedicationPlaceDate": "Milan 1 September 1618",
+        "Shelfmark": "1062.a.41",
+        "Subjects": "Poetry",
+        "Language": "Italian",
+        "Pagination": "pp. 310",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5116",
+                "RecordID": "022-000000113",
+                "Value": "Capponi,Giovanni,,1586-1629"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "5116",
+                "RecordID": "022-000000113",
+                "Value": "Capponi,Giovanni,,1586-1629"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "7003",
+                    "RecordID": "022-000000795",
+                    "Value": "Vidonus,Gul.,,"
+                },
+                {
+                    "PersonId": "7004",
+                    "RecordID": "022-000000796",
+                    "Value": "Saccus,,,"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur Com. S. Officij mediolani pro Reverendiss. Inquisit. Gul. Vidonus Theol. Sancti Nazarij pro Illustriss. D. Card. Archiepisc. Vidit Saccus pro excellentiss. Senatu",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7005",
+                "RecordID": "022-000000797",
+                "Value": "Bidelli,Giovanni Battista,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7005",
+                "RecordID": "022-000000797",
+                "Value": "Bidelli,Giovanni Battista,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Leucotoe Idillio dell`Animoso Academico Selvaggio cioe il Signor Giovanni Capponi",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5116",
+                            "RecordID": "022-000000113",
+                            "Value": "Capponi, Giovanni, , 1586-1629"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "I Bombici",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "5116",
+                            "RecordID": "022-000000113",
+                            "Value": "Capponi, Giovanni, , 1586-1629"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

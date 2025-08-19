@@ -1,0 +1,20 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19560",
+        "RecordId": "022-000006841",
+        "Surname": "Lanzoni",
+        "Forename": "Giuseppe",
+        "Pseudonym": "Alzindo Epiziano",
+        "DateText": "1663 - 1730",
+        "StartDate": "1663",
+        "EndDate": "1730",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "Professor of Philosophy at the University of Ferrara, and physician of the Hospital Battuti Bianchi. Member of the Academy Naturae curiosorum in Vienna, Fisiocritici in Siena, Arcadia, and others. Joined the Ricovrati in 1690.",
+        "Role": "Author",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

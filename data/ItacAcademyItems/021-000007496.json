@@ -1,0 +1,275 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0385",
+        "RecordId": "021-000007496",
+        "Name": "Intrepidi (Accademia degli)",
+        "City": {
+            "CityId": "51",
+            "CityItalianName": "Ferrara",
+            "CityEnglishName": "Ferrara",
+            "CityLatinName": "Ferrarae"
+        },
+        "EmblemDescription": "Printing press",
+        "EmblemImage": {
+            "ImageId": "55264",
+            "Value": "021-000007496_55264_1.jpg"
+        },
+        "Motto": "Premat dum imprimat",
+        "StartDate": "1601",
+        "EndDate": "post1787",
+        "DateText": "1601-post1787",
+        "Notes": "The following words were later added to the original motto: Litteris armata, et armis erudita.\nGiovanni Battista Aleotti was the architect of the theatre where Intrepidi performances were represented, see his biography by Quintavalle and Povoledo in DBI. Other publications related to the history of the Intrepidi Academy, include: Bonarelli, Orazione per l`inaugurazione dell`Accademia degli Intrepidi (Ferrara 1602); Claudio Monteverdi, Il quarto libro de madrigali a cinque voci (Venezia, R. Amadino: 1603), dedicated to Accademici Intrepidi on 1st March 1603. \nAccording to Monica Cerroni, `Guarini, Alessandro`, in DBI, the following publication should be related to the Intrepidi Academy: Del campo aperto, mantenuto in Ferrara, l`anno 1610. La notte di carnouale, dall`illustriss. signor Enzo Bentiuogli, mantenitore della querela, pubblicata nella seguente disfida da un`araldo, a suon di trombe, il di 6. Febraio, su`l corso, pieno di tutta la citta` mascherata, sontuosissima, e magnifica inuenzione. Inuentore, ed autore il s. Alessandro Guarini (In Ferrara: Per Vittorio Baldini stampatore camerale, 1610)\n\nMarsolo, Pietro Maria, Secondo libro de` Madrigali a quattro voci opera decima di Pietro Maria Marsolo maestro di cappella del Duomo, et della Musica dell`Illustrissima Accademia d`Intrepidi di Ferrara Con una dichiarazione d`alcune cose necessarie posta nel fine (Nuovamente composto & dato in luce: Venetia: Giacomo Vincenti, 1614); Magnanini, Ottavio\nIntramezzi dell`Idalba tragedia, fatta rappresentare dall`ill.mo sig. Enzo Bentivogli in Ferrara di 6. di febbraio 1614. Descritti dall`Arsiccio, e dedicati all`illustrissimo, e reverendiss. card. Borghese (In Ferrara: appresso Vitt. Bald. stampatore camerale, 1614); \nBentivogli, Enzo, Descrizione degl`intramezzi co` quali l`Ill.mo sig. Enzo Bentivogli ha fatto rappresentare la tragedia del sig. Alessandro Guarini intitolata Bradamante gelosa (In Ferrara: per il Baldini, 1616); \nPandolfi, Alfonso, Orazione funebre in lode del sig. Francesco Saracini composta, e recitata nell`Accademia degl`Intrepidi, dal dottore Alfonso Pandolfo, ... il Rinovato. Dedicata all`illustriss. ... monsig. Pietro Carafa vicelegato di Ferrara (In Ferrara: per Francesco Suzzi, 1620); \nObizzi, Pio Enea degli, Il Philoteuco libro primo. De le rime di Pio Enea Obizzo nell`Accademia degl`Intrepidi di Ferrara detto il Regenerato all`altezza sereniss. di Carlo primo duca di Mantoa, di Monferrato, &c (In Venetia: per Euangelista Deuchino, 1628 - and 1630); \nAccademia degl`Intrepidi, all`eminentissimo, e reuerendissimo principe il signor card. Chigi fatta in Ferrara nell`anno 1659 essendone principe il sig. co. Girolamo Romei (In Ferrara: per Alfonso, e Gio. Battista Maresti stamp. degl`Intrepidi, 1660); \nBonacossi, Ercole, Discorsi accademici recitati in diuersi tempi nell`Accademia de gli Intrepidi d`Ercole Bonacossi patritio ferrarese (In Ferrara: per gli heredi del Giglio Stamp. Episc., 1675); \nGrazzini, Giulio Cesare, Della poetica d`Orazio Flacco venosino illustre poeta lirico parafrasi ridotta in versi italiani dal canonico, dottor Giulio Cesare Grazzini segretario dell`accademia de` signori Intrepidi di Ferrara, .. (In Ferrara: per Bernardino Pomatelli, 1698); \nBonarelli della Rovere, Guidobaldo, La Filli di Sciro, favola pastorale del conte Guidobaldo Bonarelli Della Rovere, nobile anconitano nell`Accademia de gl`Intrepidi di Ferrara detto l`Aggiunto accresciuta in questa ultima impressione della vita dell`autore (In Ancona: Per il Salvioni, 1700)",
+        "ItacPersonItem": [
+            {
+                "PersonId": "5014",
+                "RecordId": "022-000000016",
+                "Name": "Capponi,Giovambattista,,1620-1675",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5026",
+                "RecordId": "022-000000028",
+                "Name": "Desideri,Girolamo,,fl. 1655 - 1692",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5080",
+                "RecordId": "022-000000077",
+                "Name": "Nanni Fantuzzi,Ippolito,,ca. 1609 - 1677",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5108",
+                "RecordId": "022-000000105",
+                "Name": "Bentivogli,Ippolito,Count|Marquis,fl. 1672-1682",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "9106",
+                "RecordId": "022-000001712",
+                "Name": "Varano,Giuseppe,,1639 - 1699",
+                "Nickname": "Auranio Pirgense",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5163",
+                "RecordId": "022-000000158",
+                "Name": "degli Obizzi,Pio Enea,Marquis,1592-1674",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20429",
+                "RecordId": "022-000008153",
+                "Name": "Bonacossi,Ercole,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20430",
+                "RecordId": "022-000008154",
+                "Name": "Cato,Ercole,,1538?-after1606",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20432",
+                "RecordId": "022-000008156",
+                "Name": "Magnanini,Ottavio,,1574-1652",
+                "Nickname": "L'Arsiccio Ricreduto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20436",
+                "RecordId": "022-000008160",
+                "Name": "Bentivoglio,Enzo,,1575-1639",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20431",
+                "RecordId": "022-000008155",
+                "Name": "Gualengo,Galeazzo,,?-1623",
+                "Nickname": "Avvinto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18365",
+                "RecordId": "022-000005383",
+                "Name": "Guarini,Alessandro,,",
+                "Nickname": "Macerato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18513",
+                "RecordId": "022-000005545",
+                "Name": "Pandolfi,Alfonso,,",
+                "Nickname": "Rinovato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5089",
+                "RecordId": "022-000000086",
+                "Name": "Achillini,Claudio,,1574-1640",
+                "Nickname": "Agitato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20445",
+                "RecordId": "022-000008169",
+                "Name": "Pio di Savoia,Ascanio,,",
+                "Nickname": "Sofferente",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20447",
+                "RecordId": "022-000008171",
+                "Name": "Turco,Cesare,Marquis,",
+                "Nickname": "Risoluto",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20448",
+                "RecordId": "022-000008172",
+                "Name": "Lolio,Girolamo,,",
+                "Nickname": "Ravvivato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20449",
+                "RecordId": "022-000008173",
+                "Name": "Rossetti,Lodovico,,",
+                "Nickname": "Infocato",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20450",
+                "RecordId": "022-000008174",
+                "Name": "Zerbinati,Luigi,,",
+                "Nickname": "Reciso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "5147",
+                "RecordId": "022-000000143",
+                "Name": "Imperiale,Gian Vincenzo,,1582-1648",
+                "Nickname": "il Ripercosso",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20455",
+                "RecordId": "022-000008184",
+                "Name": "Thieni of Scandiano,Ottavio II,,?-1628",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20517",
+                "RecordId": "022-000008256",
+                "Name": "Romei,Girolamo,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20518",
+                "RecordId": "022-000008257",
+                "Name": "Saraceni,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20580",
+                "RecordId": "022-000008334",
+                "Name": "Goretti,Antonio,,c.1570-",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20579",
+                "RecordId": "022-000008333",
+                "Name": "Marsolo,Pietro Maria,,ca.1580-after1615",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20581",
+                "RecordId": "022-000008335",
+                "Name": "Gigli,Ippolito,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20446",
+                "RecordId": "022-000008170",
+                "Name": "Cibo,Carlo,Marquis of Carrara|Duke of Aiello,1581-1662",
+                "Nickname": "L'Accinto",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonEmblemImage": {
+                    "ImageId": "55266",
+                    "Value": "022-000008170_55266_5.jpg"
+                }
+            },
+            {
+                "PersonId": "20437",
+                "RecordId": "022-000008161",
+                "Name": "Bonarelli della Rovere,Guidobaldo,Count,1563-1608",
+                "Nickname": "Aggiunto",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "55282",
+                    "Value": "022-000008161_55282_2.jpg"
+                }
+            },
+            {
+                "PersonId": "20700",
+                "RecordId": "022-000008512",
+                "Name": "Romei,Ercole,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "20443",
+                "RecordId": "022-000008167",
+                "Name": "Bevilacqua,Bonifazio,Cardinal,1571-1627",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Role": "Editor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

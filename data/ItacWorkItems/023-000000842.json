@@ -1,0 +1,80 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000842",
+        "WorkId": "00055",
+        "ShortTitle": "Tre quesiti in dialogo",
+        "LongTitle": "sopra il fare batterie fortificare una citt\u00e0 et ordinar battaglie quadrate con una disputa di precedenza tra l`armi e lettere di Domenico Mora Bolognese gentilhuomo Grisone et cavalliere Academico Storditi. All`Illustrissimo et Eccellentissimo signore il Signor Duca di Firenze et di Siena primo fondatore et gran Maestro della religione de cavallieri di Santo Stefano",
+        "ItacAcademyItem": {
+            "AcademyId": "0012",
+            "RecordID": "021-000000832",
+            "Value": "Accademia degli Storditi"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1567",
+        "DedicationPlaceDate": "Bologna 9 March 1567",
+        "Shelfmark": "1609/838 | 1609.5644.(1.)",
+        "Subjects": "Military literature",
+        "Language": "Italian",
+        "Illustration": "Woodcuts | Fortresses; schemes of battlefiled",
+        "Pagination": "pp. 68 first/last six leaves unnumbered",
+        "Marginalia": "Yes",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7100",
+                "RecordID": "022-000000833",
+                "Value": "Mora,Domenico,,1536 - ca.1600"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "7100",
+                "RecordID": "022-000000833",
+                "Value": "Mora,Domenico,,1536 - ca.1600"
+            }
+        },
+        "CensorsAgreement": "Con privilegio",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0012",
+                "RecordID": "021-000000832",
+                "Value": "Accademia degli Storditi"
+            },
+            "ItacPersonItem": {
+                "PersonId": "7108",
+                "RecordID": "022-000000838",
+                "Value": "de` Medici,Cosimo I,Grand Duke,1519 - 1574"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7105",
+                "RecordID": "022-000000839",
+                "Value": "Varisco,Giovanni e Compagni,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52698",
+            "Value": "023-000000842_52698_3.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Dialogo di M. Domenico Mora Bolognese sopra il far batterie; Dialogo di M. Domenico Mora Bolognese sopra il fortificare; Dialogo di M. Domenico Mora Bolognese di por battaglie quadrate",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "7100",
+                        "RecordID": "022-000000833",
+                        "Value": "Mora,Domenico,,1536 - ca.1600"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

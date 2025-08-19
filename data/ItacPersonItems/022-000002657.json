@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "16073",
+        "RecordId": "022-000002657",
+        "Surname": "Aleandro",
+        "Forename": "Girolamo (Il giovane)",
+        "Gender": "Male",
+        "DateText": "1574-1629",
+        "StartDate": "1574",
+        "EndDate": "1629",
+        "Nationality": {
+            "NationalityId": "214",
+            "Value": "of Motta di Livenza (Treviso)"
+        },
+        "Notes": "He delivered a presentation to the Umoristi Academy in 1620, in praise of the French King Louis XIII.",
+        "Role": "Censor|Author|Contributor|Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

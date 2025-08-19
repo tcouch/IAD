@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "5394",
+        "RecordId": "022-000000403",
+        "Surname": "Bernardoni",
+        "Forename": "Pietro Antonio",
+        "Gender": "Male",
+        "DateText": "1672-1714",
+        "StartDate": "1672",
+        "EndDate": "1714",
+        "Nationality": {
+            "NationalityId": "113",
+            "Value": "of Vignola (Modena)"
+        },
+        "Role": "Author|Contributor",
+        "TypographicReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

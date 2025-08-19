@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18345",
+        "RecordId": "022-000005361",
+        "Surname": "Ferrari",
+        "Forename": "Tommaso Maria",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Pier Agostino"
+            },
+            {
+                "AlternativeForename": "Thomas"
+            }
+        ],
+        "PersonalTitle": "Cardinal",
+        "DateText": "1649-1716",
+        "StartDate": "1649",
+        "EndDate": "1716",
+        "Nationality": {
+            "NationalityId": "176",
+            "Value": "of Manduria (Taranto)"
+        },
+        "Notes": "See his biography by E. De Rienzo, `Ferrari, Tommaso Maria (al secolo Pier Agostino)`, in DBI.",
+        "Role": "Censor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

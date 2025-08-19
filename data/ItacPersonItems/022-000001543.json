@@ -1,0 +1,28 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9247",
+        "RecordId": "022-000001543",
+        "Surname": "Venier",
+        "Forename": "Domenico",
+        "Gender": "Male",
+        "AlternativeName": [
+            {
+                "AlternativeSurname": "Veniero"
+            },
+            {
+                "AlternativeForename": "Dominico"
+            }
+        ],
+        "DateText": "1517-1582",
+        "StartDate": "1517",
+        "EndDate": "1582",
+        "Nationality": {
+            "NationalityId": "80",
+            "Value": "Venetian"
+        },
+        "Notes": "Founder of Accademia Veniera",
+        "Role": "Dedicatee",
+        "EngraverReference": "N",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

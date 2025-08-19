@@ -1,0 +1,88 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003245",
+        "WorkId": "000431",
+        "ShortTitle": "Oratione in lode dell`Academia Veneta, e del vecchio, e nuovo presidente di quella",
+        "LongTitle": "Fatta, e recitata in San Giovanni e Paolo dal M.R.P. M.ro Alessio Porri carmelitano, dottore, predicatore, padre gravissimo, Academico veneto, et Innominato. all`Ill.mo e Rever.mo Monsr. sigr. Col.mo il sig. Domenico Cardinale Pinelli",
+        "ItacAcademyItem": {
+            "AcademyId": "0100",
+            "RecordID": "021-000004905",
+            "Value": "Accademia Veneziana"
+        },
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1597",
+        "DedicationPlaceDate": "Venezia 23 dicembre 1597",
+        "Shelfmark": "12301c3",
+        "Subjects": "Academic speech",
+        "Language": "Italian",
+        "Pagination": "[8] 11r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15380",
+                "RecordID": "022-000001873",
+                "Value": "Porri,Alessio,,?-1609"
+            }
+        },
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "9665",
+                    "RecordID": "022-000001834",
+                    "Value": "Ottobonus,Leonardus,Secretary of the Council of Ten (Venice),"
+                },
+                {
+                    "PersonId": "15430",
+                    "RecordID": "022-000001941",
+                    "Value": "Moro,Benedetto,,"
+                },
+                {
+                    "PersonId": "15425",
+                    "RecordID": "022-000001933",
+                    "Value": "Moresini,Iacomo,,"
+                },
+                {
+                    "PersonId": "15446",
+                    "RecordID": "022-000001959",
+                    "Value": "Di Priuli,Antonio,,"
+                },
+                {
+                    "PersonId": "15448",
+                    "RecordID": "022-000001965",
+                    "Value": "Badella,Lorenzo,,"
+                },
+                {
+                    "PersonId": "15356",
+                    "RecordID": "022-000001395",
+                    "Value": "Maraveglia,Gio[vanni],,"
+                },
+                {
+                    "PersonId": "9661",
+                    "RecordID": "022-000001830",
+                    "Value": "Paulini,Fabio,,ca.1535-1605"
+                }
+            ]
+        },
+        "CensorsAgreement": "Gli ecc.mi signori capi dell`Ill.mo Consiglio di X infrascritti, havuta fede da gli illustrissimi Signori Reformatori dello Studio di Padoa, per relation delli tre a cio` deputati, cioe` del Rever. Padre Inquisitor, del circonspetto secretario del Senato Gioan Maraviglia, et di don Fabio Paulini dottor et lettor pubblico, che nella oratione del reverendo p. maestro Alessio Porri in laude dell`Academnia Veneta non vi e` cosa contra le leggi, concedono licenza possi essere stampata in questa citta`. Dat. Die 18 Dicembre 1597.      D. Iacomo Moresini - D. Benedetto Moro - D. Antonio Priuli capi dell`Ill.mo Cons. di X         Leonardus Otobonus Secret. Illustriss. Consilii X                     Io Fra Lorenzo Badella Carmelitano, nativo d`Asti, et al presente reggente del Convento dei padri carmelitani di Venetia, di consenso del molto Rever. P. Maestro Virginio Bentivoglio vicario generale della Congregazione Carmelitana, faccio fede di haver considerata et vista la presente oratione fatta nell`Academia di Venetia dal molto R. P. Maestro Alessio Porri Carmelitano et c. la quale non contenendo cosa d`errore, degna la giudico di stampa. Et in fede et c. Io Fra Lorenzo affermo come sopra.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15405",
+                "RecordID": "022-000001909",
+                "Value": "Pinelli,Domenico,Cardinal,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "15410",
+                "RecordID": "022-000001915",
+                "Value": "Dusinelli,Pietro,,fl.1578-1621"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

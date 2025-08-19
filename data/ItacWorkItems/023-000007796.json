@@ -1,0 +1,66 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007796",
+        "WorkId": "000870",
+        "ShortTitle": "Delle lettere di Luca Contile",
+        "LongTitle": "Primo (secondo) volume, etc.",
+        "ItacAcademyItem": {
+            "AcademyId": "0107",
+            "RecordID": "021-000005041",
+            "Value": "Accademia della Virt\u00f9"
+        },
+        "City": {
+            "CityId": "80",
+            "PublicationPlaceItalianName": "Pavia",
+            "PublicationPlaceEnglishName": "Pavia",
+            "PublicationPlaceLatinName": "Ticinum"
+        },
+        "PublicationYear": "1564",
+        "DedicationPlaceDate": "Pavia, 15 aprile 1564",
+        "Subjects": "Letters",
+        "Language": "Italian",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18042",
+                "RecordID": "022-000004982",
+                "Value": "Contile,Luca,,1505-1574"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "18042",
+                "RecordID": "022-000004982",
+                "Value": "Contile,Luca,,1505-1574"
+            }
+        },
+        "Notes": "In this letter Contile describes the activities in the Accademia della Virtu`, and mentions the names of those who frequented the Academy.",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "20224",
+                "RecordID": "022-000007797",
+                "Value": "Spinola,Giovan Battista,,16thc."
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "18043",
+                "RecordID": "022-000004984",
+                "Value": "Bartoli,Girolamo,,"
+            }
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Al Sig. Sigismondo d'Este -- di Roma 7 luglio 1541",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "18042",
+                        "RecordID": "022-000004982",
+                        "Value": "Contile,Luca,,1505-1574"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0129",
+        "RecordId": "021-000005713",
+        "Name": "Iracundorum (Academia)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1620s?",
+        "EndDate": "?",
+        "DateText": "1620s?-?",
+        "Notes": "Academy not listed in Maylender`s Storia delle Accademie d`Italia.",
+        "ItacPersonItem": [
+            {
+                "PersonId": "18660",
+                "RecordId": "022-000005722",
+                "Name": "Sebastiano,Scipione,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18667",
+                "RecordId": "022-000005729",
+                "Name": "Baccalario,Antonio,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "18652",
+                "RecordId": "022-000005714",
+                "Name": "Mele,Francesco,,1613? - ?",
+                "Nickname": "Lacrymoso?",
+                "Motto": null,
+                "PersonEmblemDescription": null,
+                "PersonPortraitImage": {
+                    "ImageId": "54636",
+                    "Value": "022-000005714_54636_2.jpg"
+                }
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

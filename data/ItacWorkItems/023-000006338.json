@@ -1,0 +1,48 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006338",
+        "WorkId": "000751",
+        "ShortTitle": "Trattato del legno fossile minerale nuovamente scoperto",
+        "LongTitle": "Nel quale brevemente si accenna la varia et mutabil natura di detto legno, rappresentatovi con alcune figure, che mostrano il luogo dove nasce la diversita` dell`onde, che in esso si vedono, e le sue cosi` varie, e meravigliose forme. Di Francesco Stelluti Accad. Linceo da Fabriano. All` Emin.mo et Rever.mo Sig. Card. Francesco Barberino",
+        "ItacAcademyItem": {
+            "AcademyId": "0151",
+            "RecordID": "021-000006261",
+            "Value": "Accademia dei Lincei"
+        },
+        "Format": "6\u00b0",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1637",
+        "DedicationPlaceDate": "8 maggio 1637",
+        "Shelfmark": "459a13",
+        "Language": "Italian",
+        "Pagination": "12 + 15 engravings",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "15230",
+                "RecordID": "022-000001273",
+                "Value": "Stelluti,Francesco,,"
+            }
+        },
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "5099",
+                "RecordID": "022-000000096",
+                "Value": "Barberini,Francesco,Cardinal,1597 - 1679"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19166",
+                "RecordID": "022-000006315",
+                "Value": "Mascardi,Vitale,,"
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

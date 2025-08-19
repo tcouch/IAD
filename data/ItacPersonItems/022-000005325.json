@@ -1,0 +1,21 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18315",
+        "RecordId": "022-000005325",
+        "Surname": "De Luca",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "PersonalTitle": "Cardinal",
+        "Anagram": "Ascendes Tuba in Palatio",
+        "DateText": "1614-1683",
+        "StartDate": "1614",
+        "EndDate": "1683",
+        "Nationality": {
+            "NationalityId": "225",
+            "Value": "of Venosa"
+        },
+        "Notes": "Joined the Accademia di Cristina di Svezia in 1675",
+        "Role": "Dedicatee",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

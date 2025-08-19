@@ -1,0 +1,90 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003164",
+        "WorkId": "000406",
+        "ShortTitle": "[Li Ingannati] Comedia del sacrificio de gli Intronati",
+        "LongTitle": "Celebrato nei giuochi d`un Carnovale in Siena",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1538",
+        "Shelfmark": "162.e.58",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16844",
+                "RecordID": "022-000003599",
+                "Value": "Accademici Intronati,,,"
+            }
+        },
+        "Notes": "Place of publication is uncertain. Venice suggested by the British Library catalogue.\nModern English translation, `The deceived`, ed. and intro. N. Newbigin, in Three Italian Renaissance Comedies, (1996).\nNewbigin`s critical edition of `Canzone nella morte d`una civetta` is in Studies in Philology (1976).",
+        "Editors": {
+            "ItacAcademyItem": {
+                "AcademyId": "0048",
+                "RecordID": "021-000002842",
+                "Value": "Intronati (Accademia degli)"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53367",
+            "Value": "023-000003164_53367_3.jpg"
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "Il sacrificio de gli Intronati celbrato nei giuochi del Carnovale in Siena l`anno 1531 sotto il Sodo dignissimo archintronato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Accademici Intronati,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Li Ingannati",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Accademici Intronati,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Canzone nella morte di una civetta",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Accademici Intronati,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Il sacrificio de gli Intronati celebrato nei giuochi del Carnovale in Siena l`anno 1531 sotto il Sodo dignissimo archintronato",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16844",
+                            "RecordID": "022-000003599",
+                            "Value": "Accademici Intronati,,,"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

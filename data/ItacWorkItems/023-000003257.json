@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000003257",
+        "WorkId": "000434",
+        "ShortTitle": "La Floria comedia",
+        "LongTitle": "dell`Arsiccio Intronato. Nuovamente stampata",
+        "ItacAcademyItem": {
+            "AcademyId": "0048",
+            "RecordID": "021-000002842",
+            "Value": "Accademia degl` Intronati"
+        },
+        "City": {
+            "CityId": "39",
+            "PublicationPlaceItalianName": "Firenze",
+            "PublicationPlaceEnglishName": "Florence",
+            "PublicationPlaceLatinName": "Florentiae"
+        },
+        "PublicationYear": "1560",
+        "DedicationPlaceDate": "4 May 1560, Florence",
+        "Shelfmark": "1071.h.1.(3.)",
+        "Subjects": "Theatre",
+        "Language": "Italian",
+        "Pagination": "38 [1]",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "16496",
+                "RecordID": "022-000003180",
+                "Value": "Vignali,Antonio,,1501 - 1559"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9220",
+                "RecordID": "022-000001517",
+                "Value": "Giunti,Bernardo I - Eredi,,fl.1551 - 1591"
+            }
+        },
+        "PrinterOrnament": "A51|Z654",
+        "TitlePageImage": {
+            "ImageId": "53439",
+            "Value": "023-000003257_53439_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

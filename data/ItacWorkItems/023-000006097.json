@@ -1,0 +1,117 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000006097",
+        "WorkId": "000722",
+        "ShortTitle": "L`arte di restituire a Roma la tralasciata navigatione del suo Tevere",
+        "LongTitle": "Divisa in tre parti. 1. Gl`impedimenti, che sono nell`alveo del Tevere da Roma a Perugia, e suoi rimedij. 2. Le difficolta`, che sono nella navigatione del tevere da Roma infino al mare, e suoi rimedij. 3. Nella quale si discorre perche` Roma e` stata fabricata, e mantenuta sulle sponde del Tevere, e si tratta d`alcun` altre propositioni proficue per lo Stato Ecclesiastico. Dell`ingegnero Cornelio Meyer Olandese Dell`Accademia Fisicomatematica Romana",
+        "ItacAcademyItem": {
+            "AcademyId": "0141",
+            "RecordID": "021-000006038",
+            "Value": "Accademia Fisico-matematica"
+        },
+        "Format": "Folio",
+        "City": {
+            "CityId": "45",
+            "PublicationPlaceItalianName": "Roma",
+            "PublicationPlaceEnglishName": "Rome",
+            "PublicationPlaceLatinName": "Romae"
+        },
+        "PublicationYear": "1685",
+        "DedicationPlaceDate": "Roma li 5 Aprile 1678",
+        "Shelfmark": "49h10(1)|L40/53",
+        "Subjects": "Engineering",
+        "Language": "Italian",
+        "Pagination": "Plates are numbered, but the text, with the exception of the \u201cMemoriale,\u201d has no pagination",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "18963",
+                "RecordID": "022-000006067",
+                "Value": "Meyer,Cornelio,,1629 - 1701"
+            }
+        },
+        "Notes": "Images include title page and Van Wittel`s view of Piazza del Popolo",
+        "Censors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "17879",
+                    "RecordID": "022-000004800",
+                    "Value": "de Angelis,Giacomo,Cardinal|Archbishop of Urbino,1610 - 1695"
+                },
+                {
+                    "PersonId": "17880",
+                    "RecordID": "022-000004801",
+                    "Value": "Capizucchi,Raimondo,Cardinal,1615 - 1691"
+                }
+            ]
+        },
+        "CensorsAgreement": "Imprimatur si videbur Reverendissimo Patri Magistro Sacri Palatii Apostolici. I. de Angelis Archiep. Urbin. Vicesg. Imprimatur, Fr. Raimundus Capisuccus Palatii Apostolici mag. Ord. Praedic.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18988",
+                    "RecordID": "022-000006098",
+                    "Value": "Odescalchi ,Benedetto,Pope Innocent XI,1611 - 1689"
+                },
+                {
+                    "PersonId": "18990",
+                    "RecordID": "022-000006100",
+                    "Value": "Baldeschi Colonna,Federico,Cardinal,1625 - 1691"
+                },
+                {
+                    "PersonId": "5214",
+                    "RecordID": "022-000000206",
+                    "Value": "Azzolini,Decio (junior),Cardinal,1623-1689"
+                }
+            ]
+        },
+        "Illustrators": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "18963",
+                    "RecordID": "022-000006067",
+                    "Value": "Meyer,Cornelio,,1629 - 1701"
+                },
+                {
+                    "PersonId": "18991",
+                    "RecordID": "022-000006101",
+                    "Value": "Van Wittel,Caspar,,1653 - 1737"
+                },
+                {
+                    "PersonId": "18992",
+                    "RecordID": "022-000006102",
+                    "Value": "Falda,Giovanni Battista,,1643 - 1678"
+                },
+                {
+                    "PersonId": "18994",
+                    "RecordID": "022-000006104",
+                    "Value": "Wouters,Gomar,,1649 - ?"
+                },
+                {
+                    "PersonId": "18993",
+                    "RecordID": "022-000006103",
+                    "Value": "D. ,B.,,"
+                },
+                {
+                    "PersonId": "18995",
+                    "RecordID": "022-000006105",
+                    "Value": "Denner,B.,,"
+                },
+                {
+                    "PersonId": "18998",
+                    "RecordID": "022-000006108",
+                    "Value": "Collin,Io,,"
+                }
+            ]
+        },
+        "TitlePageImage": {
+            "ImageId": "54545",
+            "Value": "023-000006097_54545_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "54562",
+            "Value": "023-000006097_54562_4.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

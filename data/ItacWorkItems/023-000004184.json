@@ -1,0 +1,76 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004184",
+        "WorkId": "000536",
+        "ShortTitle": "Il vitio muliebre",
+        "LongTitle": "Comedia del Peregrino Ingegno di Mariano Manescalcho da Siena. Ad istantia di Misser Eustachio Petrucci, Magnifico Capitano de la Guardia di Siena",
+        "ItacAcademyItem": {
+            "AcademyId": "0061",
+            "RecordID": "021-000003726",
+            "Value": "Congrega degli Insipidi"
+        },
+        "Format": "8\u00b0",
+        "City": {
+            "CityId": "4",
+            "PublicationPlaceItalianName": "Siena",
+            "PublicationPlaceEnglishName": "Siena",
+            "PublicationPlaceLatinName": "Senae"
+        },
+        "PublicationYear": "1547",
+        "Shelfmark": "163.a.29",
+        "Subjects": "Comedy",
+        "Language": "Italian",
+        "Pagination": "unnumbered",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "17353",
+                "RecordID": "022-000004185",
+                "Value": "Trinci,Francesco Mariano,,"
+            }
+        },
+        "Contributors": {
+            "ItacPersonItem": {
+                "PersonId": "16961",
+                "RecordID": "022-000003751",
+                "Value": "di Simone [Bindi],Francesco,,"
+            }
+        },
+        "Publishers": {
+            "ItacPersonItem": {
+                "PersonId": "16806",
+                "RecordID": "022-000003552",
+                "Value": "Landi,Giovanni,,fl.1510 - 1551"
+            }
+        },
+        "Notes": "In Siena per Francescho di Simione e Compagni, il di 27 Ottobre 1547. Ad instantia di Giovanni d`Alisandro Libraro. Appresso a San Vigilio.",
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "16805",
+                "RecordID": "022-000003551",
+                "Value": "Nardi,Francescho,,fl.1542 - 1551"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55234",
+            "Value": "023-000004184_55234_3.jpg"
+        },
+        "ColophonImage": {
+            "ImageId": "55235",
+            "Value": "023-000004184_55235_4.jpg"
+        },
+        "Essays": {
+            "Essay": {
+                "EssayTitle": "Il Biligo Insipido in lode dell`Autore",
+                "Contributor": {
+                    "ItacPersonItem": {
+                        "PersonId": "16961",
+                        "RecordID": "022-000003751",
+                        "Value": "di Simone [Bindi],Francesco,,"
+                    }
+                }
+            }
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0064",
+        "RecordId": "021-000003810",
+        "Name": "Erculei (Accademia degli)",
+        "AlternativeName": "Accademia degli Herculei",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1625",
+        "EndDate": "?",
+        "DateText": "1625-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "17008",
+                "RecordId": "022-000003811",
+                "Name": "Bottiglieri,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17018",
+                "RecordId": "022-000003823",
+                "Name": "Bernaudo,Francesco,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17022",
+                "RecordId": "022-000003827",
+                "Name": "Tipoldo,Giuseppe,,",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17025",
+                "RecordId": "022-000003830",
+                "Name": "Balzano Raimondo,,,",
+                "Nickname": "Errante",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

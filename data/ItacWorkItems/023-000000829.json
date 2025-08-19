@@ -1,0 +1,57 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000829",
+        "WorkId": "00053",
+        "ShortTitle": "Degl`Idilli di Giovanni Capponi porretano l`Animoso Accademico Selvaggio parte prima",
+        "LongTitle": "cioe Aci; Terminda; Bombici; Leucotoe; Armindo moribondo; Testamento di Clori; Il Sogno Idillio; All`Illustrissimo et Reverendissimo signor Cardinal Capponi Legato di Bologna",
+        "ItacAcademyItem": {
+            "AcademyId": "0011",
+            "RecordID": "021-000000779",
+            "Value": "Accademia dei Selvaggi"
+        },
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1615",
+        "DedicationPlaceDate": "Terminda | Venice 1 January 1615 | Bombici | Bologna 17 June 1610",
+        "Shelfmark": "11427.aaa.23",
+        "Subjects": "Pastoral tale",
+        "Language": "Italian",
+        "Illustration": "Engraved plate in the title page|",
+        "Pagination": "21; 24; 24 | unnumbered; 11; 17; 19",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "5116",
+                "RecordID": "022-000000113",
+                "Value": "Capponi,Giovanni,,1586-1629"
+            }
+        },
+        "Notes": "Il Sogno was written on the wedding of Costante Bentivogli and Isabella Paleotti; Giacomo Violati all`insegna della nave",
+        "CensorsAgreement": "Con privilegio dei superiori",
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "7006",
+                "RecordID": "022-000000798",
+                "Value": "Violati,Giacomo,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "7006",
+                "RecordID": "022-000000798",
+                "Value": "Violati,Giacomo,,"
+            }
+        },
+        "PrinterOrnament": "Yes",
+        "TitlePageImage": {
+            "ImageId": "52692",
+            "Value": "023-000000829_52692_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

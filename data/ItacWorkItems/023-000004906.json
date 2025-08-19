@@ -1,0 +1,46 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000004906",
+        "WorkId": "000602",
+        "ShortTitle": "Nova explanatio topicorum Aristotelis",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1559",
+        "Shelfmark": "520g16(2)",
+        "Subjects": "Interpretation and criticism|Interpretation of Aristotle`s works",
+        "Language": "Latin",
+        "Pagination": "[4] 129r-v",
+        "Marginalia": "No",
+        "Notes": "Dedication signed by `Logicae doctrinae professores in Academia Veneta`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "16037",
+                "RecordID": "022-000002606",
+                "Value": "Truchsess Von Waldburg,Otto,Cardinal,1514-1573"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manuzio,Paolo,,1512-1574"
+            }
+        },
+        "PrinterOrnament": "U227",
+        "TitlePageImage": {
+            "ImageId": "55070",
+            "Value": "023-000004906_55070_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18631",
+        "RecordId": "022-000005685",
+        "Surname": "del Giudice",
+        "Forename": "Giovanni Battista",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "de Judice",
+            "AlternativeForename": "Joannes Baptista"
+        },
+        "Pseudonym": "Basile Gio.Battista",
+        "DateText": "1636-1686",
+        "StartDate": "1636",
+        "EndDate": "1686",
+        "Nationality": {
+            "NationalityId": "118",
+            "Value": "of Palermo"
+        },
+        "Notes": "Not recorded by Maylender as a member of the Riaccesi Academy in Palermo.\nFor a biographical account see Antonino Mongitore, Bibliotheca Sicula, Didaci Bua, Palermo, Vol.I, p. 232 (BL Shelfmark:610.m.10.)",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

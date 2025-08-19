@@ -1,0 +1,60 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0163",
+        "RecordId": "021-000006560",
+        "Name": "Intenti (Accademia degli)",
+        "City": {
+            "CityId": "80",
+            "CityItalianName": "Pavia",
+            "CityEnglishName": "Pavia",
+            "CityLatinName": "Ticinum"
+        },
+        "Motto": "Per mutua nixi",
+        "StartDate": "1593",
+        "EndDate": "?",
+        "DateText": "1593-?",
+        "ItacPersonItem": [
+            {
+                "PersonId": "19356",
+                "RecordId": "022-000006558",
+                "Name": "Borromeo,Federico,Cardinal,1564 - 1631",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "6009",
+                "RecordId": "022-000000740",
+                "Name": "Farnese,Odoardo,Cardinal,1573-1626",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "17864",
+                "RecordId": "022-000004777",
+                "Name": "d`Este,Alessandro,Cardinal,1568 - 1624",
+                "Nickname": null,
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19347",
+                "RecordId": "022-000006547",
+                "Name": "Massini,Filippo,,",
+                "Nickname": "Estatico",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            },
+            {
+                "PersonId": "19358",
+                "RecordId": "022-000006561",
+                "Name": "Canali,Isabella,,15062-1604",
+                "Nickname": "Accesa",
+                "Motto": null,
+                "PersonEmblemDescription": null
+            }
+        ],
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19494",
+        "RecordId": "022-000006718",
+        "Surname": "Van der Aa",
+        "Forename": "Pieter",
+        "AlternativeName": {
+            "AlternativeSurname": "Vender Aa",
+            "AlternativeForename": "Petrus"
+        },
+        "DateText": "1659 - 1733",
+        "StartDate": "1659",
+        "EndDate": "1733",
+        "Nationality": {
+            "NationalityId": "311",
+            "Value": "of Leiden"
+        },
+        "Role": "Printer",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

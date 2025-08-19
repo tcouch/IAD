@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0063",
+        "RecordId": "021-000003801",
+        "Name": "Disuniti-Napoli (Accademia dei)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1590s?",
+        "EndDate": "?",
+        "DateText": "1590s?-?",
+        "ItacPersonItem": {
+            "PersonId": "17001",
+            "RecordId": "022-000003802",
+            "Name": "Luchetti ,Eusebio,,",
+            "Nickname": "l'Ostinato",
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

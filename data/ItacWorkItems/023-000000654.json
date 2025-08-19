@@ -1,0 +1,47 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000000654",
+        "WorkId": "00046",
+        "ShortTitle": "Ordine accademico praticato da` signori Ardenti del Porto",
+        "LongTitle": "regolati da Padri Somaschi ne loro essercitii litterari e cavallereschi nel fine de` studi dell`anno 1698 dedicato agl`illustrissimi e vigilantissimi signori presidenti del luogo",
+        "ItacAcademyItem": {
+            "AcademyId": "0007",
+            "RecordID": "021-000000433",
+            "Value": "Accademia degli Ardenti (Bologna)"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "1",
+            "PublicationPlaceItalianName": "Bologna",
+            "PublicationPlaceEnglishName": "Bologna",
+            "PublicationPlaceLatinName": "Bononiae"
+        },
+        "PublicationYear": "1698",
+        "Shelfmark": "838.m.22.(110)",
+        "Subjects": "Academic discourse|Dissimulation|Music",
+        "Language": "Italian",
+        "Illustration": "Woodcut | Academy emblem with motto",
+        "Pagination": "pp. 8",
+        "Marginalia": "No",
+        "CensorsAgreement": "Con licenza de` superiori",
+        "Dedicatees": {
+            "ItacAcademyItem": {
+                "AcademyId": "0007",
+                "RecordID": "021-000000433",
+                "Value": "Accademia degli Ardenti (Bologna)"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "5532",
+                "RecordID": "022-000000531",
+                "Value": "Monti,Pietro Maria,,fl. 1689-1708"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "53095",
+            "Value": "023-000000654_53095_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

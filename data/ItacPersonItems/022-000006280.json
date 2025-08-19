@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "19141",
+        "RecordId": "022-000006280",
+        "Surname": "de Filiis",
+        "Forename": "Angelo",
+        "Gender": "Male",
+        "DateText": "1583-1624?",
+        "StartDate": "1583",
+        "EndDate": "1624?",
+        "Nationality": {
+            "NationalityId": "144",
+            "Value": "of Terni"
+        },
+        "Notes": "Joined the Lincei in 1612 and was appointed librarian of the Academy.",
+        "Role": "Editor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

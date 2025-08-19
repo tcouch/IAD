@@ -1,0 +1,28 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0275",
+        "RecordId": "021-000006930",
+        "Name": "Pitii (Accademia dei)",
+        "City": {
+            "CityId": "1",
+            "CityItalianName": "Bologna",
+            "CityEnglishName": "Bologna",
+            "CityLatinName": "Bononiae"
+        },
+        "EmblemDescription": "Baytree with a swarm of bees either side",
+        "Motto": "Obsedere apicem",
+        "StartDate": "1628",
+        "EndDate": "?",
+        "DateText": "1628-?",
+        "Notes": "Publications  realted to the history of the Academy, but not in British Library catalogue, include: Pythiorum agonismata. Sive Academiae Litterariae institutio; ad culturam iuventutis, Apollini, musisque mancipatae; erecta a I.C. Andrea Taurello, .. (Bononiae, Benatij, 1628).",
+        "ItacPersonItem": {
+            "PersonId": "5185",
+            "RecordId": "022-000000180",
+            "Name": "Torelli,Andrea,,fl. 1627 - 1647",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

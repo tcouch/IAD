@@ -1,0 +1,24 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9100",
+        "RecordId": "022-000001706",
+        "Surname": "Capellari",
+        "Forename": "Michael",
+        "Gender": "Male",
+        "AlternativeName": {
+            "AlternativeSurname": "Cappellari",
+            "AlternativeForename": "Michiel"
+        },
+        "PersonalTitle": "Abbot",
+        "DateText": "1630-1717",
+        "StartDate": "1630",
+        "EndDate": "1717",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Capellari was abbot, poet and man of letters, and authored numerous poetic compositions. In 1670 he joined the Ricovrati Academy, where he delivered orally some of his compositions.",
+        "Role": "Contributor",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

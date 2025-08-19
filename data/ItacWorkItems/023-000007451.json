@@ -1,0 +1,565 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000007451",
+        "WorkId": "000825",
+        "ShortTitle": "Fiori d`ingegno",
+        "LongTitle": "Composizioni in lode d`una bellissima effiigie di primavera. Opera del signor Carlo Marati famoso pittore romano, appresso il signor Nicolo` Michiel Senatore Veneto. raccolti da Gio: Battista Magnavini citt. Ven. Accad. Dodoneo, e consagrati all`Altezza Serenissima D`Alessandro Pico. Duca della Mirandola, Concordia, & c.",
+        "ItacAcademyItem": [
+            {
+                "AcademyId": "0367",
+                "RecordID": "021-000007385",
+                "Value": "Accademia dei Dodonei"
+            },
+            {
+                "AcademyId": "0021",
+                "RecordID": "021-000001570",
+                "Value": "Accademia dei Ricovrati"
+            }
+        ],
+        "Format": "12\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1685",
+        "Shelfmark": "11427e23",
+        "Subjects": "Encomiastic discourse|Encomiastic poetry|Art criticism",
+        "Language": "Italian|Latin|Greek",
+        "Pagination": "133",
+        "Marginalia": "Yes",
+        "Contributors": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19970",
+                    "RecordID": "022-000007429",
+                    "Value": "Magnavini,Gio: Battista,,"
+                },
+                {
+                    "PersonId": "9111",
+                    "RecordID": "022-000001718",
+                    "Value": "Morselli,Adriano,,"
+                },
+                {
+                    "PersonId": "19932",
+                    "RecordID": "022-000007381",
+                    "Value": "Ottobon,Antonio,,"
+                },
+                {
+                    "PersonId": "19972",
+                    "RecordID": "022-000007431",
+                    "Value": "Giusti,Antonio,,1624 - 1705"
+                },
+                {
+                    "PersonId": "19973",
+                    "RecordID": "022-000007432",
+                    "Value": "Amalteo,Aurelio,,1626 - ?"
+                },
+                {
+                    "PersonId": "9046",
+                    "RecordID": "022-000001637",
+                    "Value": "de` Dottori,Carlo,,1618 - 1686"
+                },
+                {
+                    "PersonId": "19974",
+                    "RecordID": "022-000007433",
+                    "Value": "David,Domenico,,1619?-1699"
+                },
+                {
+                    "PersonId": "19976",
+                    "RecordID": "022-000007435",
+                    "Value": "Crota,Francesco,,? - 1712"
+                },
+                {
+                    "PersonId": "16491",
+                    "RecordID": "022-000003175",
+                    "Value": "de Tassis,Ferdinando Turriano,Baron,"
+                },
+                {
+                    "PersonId": "9101",
+                    "RecordID": "022-000001707",
+                    "Value": "Viali,Felice,,1638 - 1722"
+                },
+                {
+                    "PersonId": "19978",
+                    "RecordID": "022-000007437",
+                    "Value": "Querini,Giovanni,,1639 - 1687"
+                },
+                {
+                    "PersonId": "9061",
+                    "RecordID": "022-000001651",
+                    "Value": "Frigimelica Roberti,Girolamo ,,1653 - 1732"
+                },
+                {
+                    "PersonId": "19935",
+                    "RecordID": "022-000007384",
+                    "Value": "Grandi,Iacopo,,1646 - 1691"
+                },
+                {
+                    "PersonId": "19979",
+                    "RecordID": "022-000007438",
+                    "Value": "Rota,Giovanni Battista,,1662 - ?"
+                },
+                {
+                    "PersonId": "19980",
+                    "RecordID": "022-000007439",
+                    "Value": "Mazzi,Giacopo,,"
+                },
+                {
+                    "PersonId": "19981",
+                    "RecordID": "022-000007440",
+                    "Value": "Capitanio,Giuseppe,Abbot,"
+                },
+                {
+                    "PersonId": "19982",
+                    "RecordID": "022-000007441",
+                    "Value": "Soderini,Genesio,,"
+                },
+                {
+                    "PersonId": "19774",
+                    "RecordID": "022-000007201",
+                    "Value": "Ferro,Lazaro,Count,"
+                },
+                {
+                    "PersonId": "19937",
+                    "RecordID": "022-000007387",
+                    "Value": "Piovene,Lelio,Count,"
+                },
+                {
+                    "PersonId": "18519",
+                    "RecordID": "022-000005553",
+                    "Value": "Beregan,Nicolo`,,1627 - 1713"
+                },
+                {
+                    "PersonId": "19983",
+                    "RecordID": "022-000007442",
+                    "Value": "Zaguri,Pellegrino,,"
+                },
+                {
+                    "PersonId": "19984",
+                    "RecordID": "022-000007443",
+                    "Value": "Beltrame,Pietro,,"
+                },
+                {
+                    "PersonId": "19985",
+                    "RecordID": "022-000007444",
+                    "Value": "Pievano di San Marciliano,,,"
+                },
+                {
+                    "PersonId": "19986",
+                    "RecordID": "022-000007445",
+                    "Value": "Marcello,Pietro,,"
+                },
+                {
+                    "PersonId": "19987",
+                    "RecordID": "022-000007446",
+                    "Value": "Loredano,Paolo,,"
+                },
+                {
+                    "PersonId": "19988",
+                    "RecordID": "022-000007447",
+                    "Value": "Fattorini,Tebaldo,,"
+                },
+                {
+                    "PersonId": "19989",
+                    "RecordID": "022-000007448",
+                    "Value": "Vettor,Sandi,,"
+                },
+                {
+                    "PersonId": "19990",
+                    "RecordID": "022-000007449",
+                    "Value": "De` Russignati,Taparotto,,"
+                },
+                {
+                    "PersonId": "19258",
+                    "RecordID": "022-000006439",
+                    "Value": "Bon,Nicolo`,,1635 - 1712"
+                },
+                {
+                    "PersonId": "19975",
+                    "RecordID": "022-000007434",
+                    "Value": "Altani,Scipione Enrico,Count of Salvarolo,1654-1738"
+                }
+            ]
+        },
+        "Notes": "I have registred poems by contributors who clearly stated their Academic affiliation. The only exception is Taparoto de Russignati.",
+        "Dedicatees": {
+            "ItacPersonItem": [
+                {
+                    "PersonId": "19971",
+                    "RecordID": "022-000007430",
+                    "Value": "D`Alessandro,Pico,Duke of Mirandola, Concordia, etc,"
+                },
+                {
+                    "PersonId": "19991",
+                    "RecordID": "022-000007450",
+                    "Value": "Michieli,Nicolo`,Senator,"
+                },
+                {
+                    "PersonId": "19258",
+                    "RecordID": "022-000006439"
+                }
+            ]
+        },
+        "Editors": {
+            "ItacPersonItem": {
+                "PersonId": "19970",
+                "RecordID": "022-000007429",
+                "Value": "Magnavini,Gio: Battista,,"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "19992",
+                "RecordID": "022-000007452",
+                "Value": "Baglioni,Paolo,,"
+            }
+        },
+        "Essays": {
+            "Essay": [
+                {
+                    "EssayTitle": "La filosofia del pennello. Overo Discorso intorno al significato fisico e mitologico della primavera...",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19970",
+                            "RecordID": "022-000007429",
+                            "Value": "Magnavini,Gio: Battista,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Questo pennel che qui col sol gareggia",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9111",
+                            "RecordID": "022-000001718",
+                            "Value": "Morselli,Adriano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Soffi pur aquilone e l'aura algente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9111",
+                            "RecordID": "022-000001718",
+                            "Value": "Morselli,Adriano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Or che tutto di gelo asperso e' il colle",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9111",
+                            "RecordID": "022-000001718",
+                            "Value": "Morselli,Adriano,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dopo l'horror de la stagione algente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19932",
+                            "RecordID": "022-000007381",
+                            "Value": "Ottobon,Antonio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Su dotta tela oggi insultar si vede",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19972",
+                            "RecordID": "022-000007431",
+                            "Value": "Giusti,Antonio,,1624 - 1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "S'alza del ciel nella piu' pura parte",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19972",
+                            "RecordID": "022-000007431",
+                            "Value": "Giusti,Antonio,,1624 - 1705"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Non e' stupor se mentre ardisce Arturo",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19973",
+                            "RecordID": "022-000007432",
+                            "Value": "Amalteo,Aurelio,,1626 - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Di rigida stagion fra i nudi algori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9046",
+                            "RecordID": "022-000001637",
+                            "Value": "de` Dottori,Carlo,,1618 - 1686"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Compone, e' ver, gli Aprili suoi natura",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19974",
+                            "RecordID": "022-000007433",
+                            "Value": "David,Domenico,,? - 1699"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Michel, da qual Apelle in questo lino",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19975",
+                            "RecordID": "022-000007434",
+                            "Value": "Altani,Scipione Enrico,Count of Salvarolo,1654 - 1738"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Hor che il di' muore in fasce et par che il Sole",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19976",
+                            "RecordID": "022-000007435",
+                            "Value": "Crota,Francesco,,? - 1712"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Ove al morir di noi s'apre la vita",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "16491",
+                            "RecordID": "022-000003175",
+                            "Value": "de Tassis,Ferdinando Turriano,Baron,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Gran portento dell'arte! opre stupende",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9101",
+                            "RecordID": "022-000001707",
+                            "Value": "Viali,Felice,,1638 - 1722"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Febo non piu' la' ne l'eterea mole",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19978",
+                            "RecordID": "022-000007437",
+                            "Value": "Querini,Giovanni,,1639 - 1687"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "De l'occhio, e del pensier dolce tiranno",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "9061",
+                            "RecordID": "022-000001651",
+                            "Value": "Frigimelica Roberti,Girolamo ,,1653 - 1732"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Qual portento vegg'io teneri fiori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19935",
+                            "RecordID": "022-000007384",
+                            "Value": "Grandi,Iacopo,,1646 - 1691"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carlo, cred'io, tu dell'April latino",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19979",
+                            "RecordID": "022-000007438",
+                            "Value": "Rota,Giovanni Battista,,1662 - ?"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Quivi il favor del ciel ver la gioconda",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19980",
+                            "RecordID": "022-000007439",
+                            "Value": "Mazzi,Giacopo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Quale in questa dell'anno eta' cadente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19981",
+                            "RecordID": "022-000007440",
+                            "Value": "Capitanio,Giuseppe,Abbot,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carlo, e' forza d'incanto, o di colori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19982",
+                            "RecordID": "022-000007441",
+                            "Value": "Soderini,Genesio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Tu, che al suon della voce onnipotente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19774",
+                            "RecordID": "022-000007201",
+                            "Value": "Ferro,Lazaro,Count,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Or che del sol remoto il freddo lume",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19937",
+                            "RecordID": "022-000007387",
+                            "Value": "Piovene,Lelio,Count,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "E qual possente man, con forze ignote",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "18519",
+                            "RecordID": "022-000005553",
+                            "Value": "Beregan,Nicolo`,,1627 - 1713"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Carlo, finta non e' questa, che volto",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19983",
+                            "RecordID": "022-000007442",
+                            "Value": "Zaguri,Pellegrino,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Qui finiti il rio, gli augei, l'erbe, gli odori",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19984",
+                            "RecordID": "022-000007443",
+                            "Value": "Beltrame,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Dunque in onta del tempo, e di natura",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19985",
+                            "RecordID": "022-000007444",
+                            "Value": "Pievano di San Marciliano,,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Questa, che finta dal pennello uscio",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19986",
+                            "RecordID": "022-000007445",
+                            "Value": "Marcello,Pietro,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Progne che fa', fuor de l'Egizia arsura",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19987",
+                            "RecordID": "022-000007446",
+                            "Value": "Loredano,Paolo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Emola di natura arte erudita",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19988",
+                            "RecordID": "022-000007447",
+                            "Value": "Fattorini,Tebaldo,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Marati, il tuo pennello onnipotente",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19989",
+                            "RecordID": "022-000007448",
+                            "Value": "Vettor,Sandi,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Sonetto in lingua rustica - Le topinare, che tra su la terra",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19990",
+                            "RecordID": "022-000007449",
+                            "Value": "De` Russignati,Taparotto,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Oda - Illustre fabro emulator di Giove",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19982",
+                            "RecordID": "022-000007441",
+                            "Value": "Soderini,Genesio,,"
+                        }
+                    }
+                },
+                {
+                    "EssayTitle": "Elogium Ut picturae honos reviviscere",
+                    "Contributor": {
+                        "ItacPersonItem": {
+                            "PersonId": "19258",
+                            "RecordID": "022-000006439",
+                            "Value": "Bon,Nicolo`,,1635 - 1712"
+                        }
+                    }
+                }
+            ]
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "9745",
+        "RecordId": "022-000000594",
+        "Surname": "von Reinstein-Tattenbach",
+        "Forename": "Josef",
+        "AlternativeName": {
+            "AlternativeSurname": "Reinstein-Tattempach",
+            "AlternativeForename": "Giuseppe"
+        },
+        "PersonalTitle": "Count",
+        "Nationality": {
+            "NationalityId": "58",
+            "Value": "German"
+        },
+        "Notes": "See Sbarra, L`Ascanio (1685)",
+        "Role": null,
+        "TypographicReference": "N",
+        "EngraverReference": "N",
+        "Gender": "Male",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

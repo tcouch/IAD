@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "18365",
+        "RecordId": "022-000005383",
+        "Surname": "Guarini",
+        "Forename": "Alessandro",
+        "Gender": "Male",
+        "DateText": "1563-1636",
+        "StartDate": "1563",
+        "EndDate": "1636",
+        "Nationality": {
+            "NationalityId": "93",
+            "Value": "Ferrarese"
+        },
+        "Notes": "See his biography by Monica Cerroni, in DBI. It is not clear to which Paduan Academy Guarini addressed a speech to thank the members for electing him as their Prince, see `A Gli Accademici in Padova`, in his Prose (1611).",
+        "Role": "Contributor|Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

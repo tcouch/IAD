@@ -1,0 +1,53 @@
+{
+    "ItacWorkItem": {
+        "RecordId": "023-000005110",
+        "WorkId": "000623",
+        "ShortTitle": "Explanatio libri I. Physicorum Aristotelis.",
+        "LongTitle": "Ex Ludovici Buccaferre\u00e6 lectionibus excerpta.",
+        "ItacAcademyItem": {
+            "AcademyId": "0471",
+            "RecordID": "021-000007881",
+            "Value": "Academia Veneta"
+        },
+        "Format": "4\u00b0",
+        "City": {
+            "CityId": "35",
+            "PublicationPlaceItalianName": "Venezia",
+            "PublicationPlaceEnglishName": "Venice",
+            "PublicationPlaceLatinName": "Venetiae"
+        },
+        "PublicationYear": "1558",
+        "Shelfmark": "520g16(1)",
+        "Subjects": "Philosophy|Interpretation of Aristotle`s Physics",
+        "Language": "Latin",
+        "Pagination": "[4] 134r-v",
+        "Marginalia": "No",
+        "Authors": {
+            "ItacPersonItem": {
+                "PersonId": "7506",
+                "RecordID": "022-000001027",
+                "Value": "Boccadiferro,Lodovico,,1482-1545"
+            }
+        },
+        "Notes": "The dedication is signed by `Philosophi Academiae Venetae`",
+        "Dedicatees": {
+            "ItacPersonItem": {
+                "PersonId": "15038",
+                "RecordID": "022-000001080",
+                "Value": "Gonzaga,Ercole,Cardinal,1505-1563"
+            }
+        },
+        "Printers": {
+            "ItacPersonItem": {
+                "PersonId": "9245",
+                "RecordID": "022-000001541",
+                "Value": "Manutio,Paolo,,1512-1574"
+            }
+        },
+        "TitlePageImage": {
+            "ImageId": "55069",
+            "Value": "023-000005110_55069_3.jpg"
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

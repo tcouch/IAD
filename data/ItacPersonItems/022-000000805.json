@@ -1,0 +1,19 @@
+{
+    "ItacPersonItem": {
+        "PersonId": "7011",
+        "RecordId": "022-000000805",
+        "Surname": "Delfino",
+        "Forename": "Federico",
+        "Gender": "Male",
+        "DateText": "1477-1547",
+        "StartDate": "1477",
+        "EndDate": "1547",
+        "Nationality": {
+            "NationalityId": "83",
+            "Value": "of Padua"
+        },
+        "Notes": "Professor of mathematics at the University of Padua, he was in contact with the Accademia degli Infiammati in Padua. See his biography by Concetta Bianca in DBI.",
+        "Role": "Author",
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "ItacAcademyItem": {
+        "AcademyId": "0075",
+        "RecordId": "021-000004303",
+        "Name": "Volanti (Accademia dei)",
+        "City": {
+            "CityId": "2",
+            "CityItalianName": "Napoli",
+            "CityEnglishName": "Naples",
+            "CityLatinName": "Neapolis"
+        },
+        "StartDate": "1640",
+        "EndDate": "?",
+        "DateText": "1640-?",
+        "ItacPersonItem": {
+            "PersonId": "17443",
+            "RecordId": "022-000004304",
+            "Name": "Torres,Clemente,Reverend,",
+            "Nickname": null,
+            "Motto": null,
+            "PersonEmblemDescription": null
+        },
+        "Citation": "Lorenza Gianfrancesco and Simone Testa, directed by Jane Everson, Denis Reidy, Lisa Sampson, assisted by Thomas Denman, for the Italian Academies Database project."
+    }
+}
