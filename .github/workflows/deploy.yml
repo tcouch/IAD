@@ -32,7 +32,15 @@ jobs:
           node-version: '18'
           cache: 'npm'
           
-      - name: Install dependencies
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install Python dependencies
+        run: pip install xmltodict
+        
+      - name: Install Node.js dependencies
         run: npm ci
         
       - name: Convert XML data to JSON
