@@ -15,5 +15,7 @@ export default defineConfig({
   },
   server: {
     port: 3000
-  }
+  },
+  // Add this for GitHub Pages compatibility
+  base: process.env.NODE_ENV === 'production' ? '/IAD/' : '/'
 }) 

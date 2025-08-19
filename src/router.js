@@ -67,4 +67,8 @@ const routeTree = rootRoute.addChildren([
 ])
 
 // Create the router
-export const router = createRouter({ routeTree }) 
+export const router = createRouter({
+    routeTree,
+    // Add this for GitHub Pages compatibility
+    base: process.env.NODE_ENV === 'production' ? '/IAD/' : '/'
+}) 
