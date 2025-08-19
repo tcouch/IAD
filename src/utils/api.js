@@ -1,9 +1,7 @@
 // Utility function to get the correct base path for API calls
 export const getApiBasePath = () => {
-    // Use Vite's environment variable to detect production
-    // In development: import.meta.env.DEV is true, base path is ''
-    // In production: import.meta.env.DEV is false, base path is '/IAD'
-    return import.meta.env.DEV ? '' : '/IAD'
+    // Hardcoded for GitHub Pages - will fix environment detection later
+    return '/IAD'
 }
 
 // Helper function to make API calls with the correct base path

@@ -24,7 +24,7 @@ function PersonLinks({ people, title }) {
         {personArray.map((person, index) => (
           <Link
             key={person.RecordID || index}
-            to="../people/$personId"
+            to="/people/$personId"
             params={{ personId: person.RecordID }}
             className="block text-primary-600 hover:text-primary-800"
           >

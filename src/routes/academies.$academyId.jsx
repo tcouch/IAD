@@ -27,7 +27,7 @@ function PaginatedMembers({ members }) {
   const MemberCard = useCallback(({ person }) => (
     <Link
       key={person.RecordId}
-      to="../people/$personId"
+      to="/people/$personId"
       params={{ personId: person.RecordId }}
       className="block p-4 border border-gray-200 rounded-lg hover:border-primary-300 hover:bg-primary-50 transition-colors"
     >

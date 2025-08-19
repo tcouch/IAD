@@ -168,7 +168,7 @@ export function PersonDetail() {
                 {person.academyMemberships.map((membership) => (
                   <Link
                     key={membership.academyRecordId}
-                    to="../academies/$academyId"
+                    to="/academies/$academyId"
                     params={{ academyId: membership.academyRecordId }}
                     className="block p-4 border border-gray-200 rounded-lg hover:border-primary-300 hover:bg-primary-50 transition-colors"
                   >
