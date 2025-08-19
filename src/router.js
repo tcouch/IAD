@@ -70,26 +70,8 @@ const routeTree = rootRoute.addChildren([
 export const router = createRouter({
     routeTree,
     // Add this for GitHub Pages compatibility
-    base: (() => {
-        // Check if we're running on GitHub Pages by looking at the current location
-        if (typeof window !== 'undefined') {
-            const isGitHubPages = window.location.hostname === 'tcouch.github.io' &&
-                window.location.pathname.startsWith('/IAD')
-            return isGitHubPages ? '/IAD' : '/'
-        }
-        // Fallback for SSR or when window is not available
-        return '/'
-    })()
+    base: import.meta.env.DEV ? '/' : '/IAD'
 })
 
 // Export the base path for use in other components
-export const getBasePath = () => {
-    // Check if we're running on GitHub Pages by looking at the current location
-    if (typeof window !== 'undefined') {
-        const isGitHubPages = window.location.hostname === 'tcouch.github.io' &&
-            window.location.pathname.startsWith('/IAD')
-        return isGitHubPages ? '/IAD' : ''
-    }
-    // Fallback for SSR or when window is not available
-    return ''
-} 
+export const getBasePath = () => import.meta.env.DEV ? '' : '/IAD' 

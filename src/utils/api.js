@@ -1,13 +1,9 @@
 // Utility function to get the correct base path for API calls
 export const getApiBasePath = () => {
-    // Check if we're running on GitHub Pages by looking at the current location
-    if (typeof window !== 'undefined') {
-        const isGitHubPages = window.location.hostname === 'tcouch.github.io' &&
-            window.location.pathname.startsWith('/IAD')
-        return isGitHubPages ? '/IAD' : ''
-    }
-    // Fallback for SSR or when window is not available
-    return ''
+    // Use Vite's environment variable to detect production
+    // In development: import.meta.env.DEV is true, base path is ''
+    // In production: import.meta.env.DEV is false, base path is '/IAD'
+    return import.meta.env.DEV ? '' : '/IAD'
 }
 
 // Helper function to make API calls with the correct base path
