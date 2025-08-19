@@ -47,11 +47,11 @@ export function Academies() {
       columnHelper.accessor('Name', {
         header: 'Name',
         cell: ({ row }) => (
-          <Link
-            to="/academies/$academyId"
-            params={{ academyId: row.original.RecordId }}
-            className="text-primary-600 hover:text-primary-800 font-medium"
-          >
+                      <Link
+              to="$academyId"
+              params={{ academyId: row.original.RecordId }}
+              className="text-primary-600 hover:text-primary-800 font-medium"
+            >
             {row.original.Name}
           </Link>
         ),

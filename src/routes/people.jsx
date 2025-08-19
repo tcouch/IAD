@@ -91,7 +91,7 @@ export function People() {
           const fullName = [person.Surname, person.Forename].filter(Boolean).join(', ')
           return (
             <Link
-              to="/people/$personId"
+              to="$personId"
               params={{ personId: person.RecordId }}
               className="text-primary-600 hover:text-primary-800 font-medium"
             >

@@ -37,7 +37,7 @@ export function Index() {
         {collections && Object.entries(collections).map(([key, collection]) => (
           <Link
             key={key}
-            to={`/${key}`}
+            to={key}
             className="card hover:shadow-md transition-shadow duration-200"
           >
             <h2 className="text-xl font-semibold text-gray-900 mb-2">
@@ -63,19 +63,19 @@ export function Index() {
         </p>
         <div className="flex gap-4">
           <Link
-            to="/academies"
+            to="academies"
             className="btn btn-primary"
           >
             Browse Academies
           </Link>
           <Link
-            to="/people"
+            to="people"
             className="btn btn-secondary"
           >
             Browse People
           </Link>
           <Link
-            to="/works"
+            to="works"
             className="btn btn-secondary"
           >
             Browse Works

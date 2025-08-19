@@ -47,11 +47,11 @@ export function Works() {
       columnHelper.accessor('ShortTitle', {
         header: 'Title',
         cell: ({ row }) => (
-          <Link
-            to="/works/$workId"
-            params={{ workId: row.original.RecordId }}
-            className="text-primary-600 hover:text-primary-800 font-medium"
-          >
+                      <Link
+              to="$workId"
+              params={{ workId: row.original.RecordId }}
+              className="text-primary-600 hover:text-primary-800 font-medium"
+            >
             {row.original.ShortTitle}
           </Link>
         ),
