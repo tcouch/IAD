@@ -69,8 +69,8 @@ const routeTree = rootRoute.addChildren([
 // Create the router
 export const router = createRouter({
     routeTree,
-    // Add this for GitHub Pages compatibility - hardcoded for now
-    base: '/IAD'
+    // Add this for GitHub Pages compatibility
+    basepath: '/IAD'
 })
 
 // Export the base path for use in other components

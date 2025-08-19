@@ -157,72 +157,50 @@ export function People() {
         <div>
           <h1 className="text-3xl font-bold text-gray-900">People</h1>
           <p className="text-gray-600 mt-2">
-            Browse {peopleData?.totalItems.toLocaleString()} people associated with Italian academies
+            Browse {peopleData?.totalItems.toLocaleString()} people from Italian academies
           </p>
         </div>
       </div>
 
-      {/* Search */}
+      {/* Search and Filters */}
       <div className="card">
-        <div className="space-y-4">
-          {/* Text Search */}
-          <div className="flex gap-4 items-end">
-            <div className="flex-1">
-              <label htmlFor="search" className="block text-sm font-medium text-gray-700 mb-2">
-                Search People
-              </label>
-              <input
-                id="search"
-                type="text"
-                placeholder="Search by name, title, nationality..."
-                value={globalFilter}
-                onChange={(e) => setGlobalFilter(e.target.value)}
-                className="input"
-              />
-            </div>
-            <div className="text-sm text-gray-500">
-              {filteredData.length} of {peopleData?.totalItems} people
-            </div>
+        <div className="flex gap-4 items-center">
+          <div className="flex-1">
+            <label htmlFor="search" className="sr-only">
+              Search people
+            </label>
+            <input
+              type="text"
+              id="search"
+              placeholder="Search people by name, title, nationality..."
+              value={globalFilter}
+              onChange={(e) => setGlobalFilter(e.target.value)}
+              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+            />
           </div>
-          
-          {/* Filter Dropdowns */}
-          <div className="flex gap-4 items-end">
-            <div>
-              <label htmlFor="nationality-filter" className="block text-sm font-medium text-gray-700 mb-2">
-                Nationality
-              </label>
-              <select
-                id="nationality-filter"
-                value={nationalityFilter}
-                onChange={(e) => setNationalityFilter(e.target.value)}
-                className="input min-w-[200px]"
-              >
-                <option value="">All Nationalities</option>
-                {filterOptions.nationalities.map(nationality => (
-                  <option key={nationality} value={nationality}>
-                    {nationality}
-                  </option>
-                ))}
-              </select>
-            </div>
-            
-            {/* Clear Filters Button */}
-            {(nationalityFilter) && (
-              <button
-                onClick={() => {
-                  setNationalityFilter('')
-                }}
-                className="px-4 py-2 text-sm font-medium text-gray-600 bg-gray-100 border border-gray-300 rounded-md hover:bg-gray-200 transition-colors"
-              >
-                Clear Filters
-              </button>
-            )}
+          <div>
+            <label htmlFor="nationality" className="sr-only">
+              Filter by nationality
+            </label>
+            <select
+              id="nationality"
+              value={nationalityFilter}
+              onChange={(e) => setNationalityFilter(e.target.value)}
+              className="px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+            >
+              <option value="">All Nationalities</option>
+              {filterOptions.nationalities.map((nationality) => (
+                <option key={nationality} value={nationality}>
+                  {nationality}
+                </option>
+              ))}
+            </select>
           </div>
         </div>
       </div>
 
       {/* Table */}
-      <div className="card overflow-hidden">
+      <div className="card">
         <div className="overflow-x-auto">
           <table className="min-w-full divide-y divide-gray-200">
             <thead className="bg-gray-50">
@@ -234,14 +212,18 @@ export function People() {
                       className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
                       onClick={header.column.getToggleSortingHandler()}
                     >
-                      {flexRender(
-                        header.column.columnDef.header,
-                        header.getContext()
-                      )}
-                      {{
-                        asc: ' 🔼',
-                        desc: ' 🔽',
-                      }[header.column.getIsSorted()] ?? null}
+                      <div className="flex items-center gap-2">
+                        {flexRender(
+                          header.column.columnDef.header,
+                          header.getContext()
+                        )}
+                        {header.column.getCanSort() && (
+                          <span className="text-gray-400">
+                            {header.column.getIsSorted() === 'asc' ? '↑' : 
+                             header.column.getIsSorted() === 'desc' ? '↓' : '↕'}
+                          </span>
+                        )}
+                      </div>
                     </th>
                   ))}
                 </tr>
@@ -251,8 +233,11 @@ export function People() {
               {table.getRowModel().rows.map((row) => (
                 <tr key={row.id} className="hover:bg-gray-50">
                   {row.getVisibleCells().map((cell) => (
-                    <td key={cell.id} className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                      {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                    <td key={cell.id} className="px-6 py-4 whitespace-nowrap">
+                      {flexRender(
+                        cell.column.columnDef.cell,
+                        cell.getContext()
+                      )}
                     </td>
                   ))}
                 </tr>

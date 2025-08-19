@@ -56,25 +56,28 @@ export function Works() {
           </Link>
         ),
       }),
-      columnHelper.accessor('ItacAcademyItem.Value', {
-        header: 'Academy',
-        cell: ({ getValue }) => getValue() || '-',
-      }),
-      columnHelper.accessor('PublicationYear', {
-        header: 'Year',
-        cell: ({ getValue }) => getValue() || '-',
-      }),
-      columnHelper.accessor('City.PublicationPlaceItalianName', {
-        header: 'Place',
-        cell: ({ getValue }) => getValue() || '-',
-      }),
       columnHelper.accessor('Language', {
         header: 'Language',
         cell: ({ getValue }) => getValue() || '-',
       }),
-      columnHelper.accessor('Format', {
-        header: 'Format',
+      columnHelper.accessor('City.PublicationPlaceItalianName', {
+        header: 'Publication Place',
         cell: ({ getValue }) => getValue() || '-',
+      }),
+      columnHelper.accessor('DateText', {
+        header: 'Publication Date',
+        cell: ({ getValue }) => getValue() || '-',
+      }),
+      columnHelper.accessor('Subjects', {
+        header: 'Subjects',
+        cell: ({ getValue }) => {
+          const subjects = getValue()
+          if (!subjects) return '-'
+          if (Array.isArray(subjects)) {
+            return subjects.slice(0, 2).join(', ') + (subjects.length > 2 ? '...' : '')
+          }
+          return subjects
+        },
       }),
     ],
     []
@@ -106,7 +109,7 @@ export function Works() {
         <div>
           <h1 className="text-3xl font-bold text-gray-900">Works</h1>
           <p className="text-gray-600 mt-2">
-            Browse {worksData?.totalItems.toLocaleString()} publications and works
+            Browse {worksData?.totalItems.toLocaleString()} works from Italian academies
           </p>
         </div>
       </div>
@@ -115,26 +118,23 @@ export function Works() {
       <div className="card">
         <div className="flex gap-4 items-center">
           <div className="flex-1">
-            <label htmlFor="search" className="block text-sm font-medium text-gray-700 mb-2">
-              Search Works
+            <label htmlFor="search" className="sr-only">
+              Search works
             </label>
             <input
-              id="search"
               type="text"
-              placeholder="Search by title, subject, language..."
+              id="search"
+              placeholder="Search works by title, subjects, language..."
               value={globalFilter}
               onChange={(e) => setGlobalFilter(e.target.value)}
-              className="input"
+              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-primary-500 focus:border-transparent"
             />
-          </div>
-          <div className="text-sm text-gray-500">
-            {filteredData.length} of {worksData?.totalItems} works
           </div>
         </div>
       </div>
 
       {/* Table */}
-      <div className="card overflow-hidden">
+      <div className="card">
         <div className="overflow-x-auto">
           <table className="min-w-full divide-y divide-gray-200">
             <thead className="bg-gray-50">
@@ -146,14 +146,18 @@ export function Works() {
                       className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
                       onClick={header.column.getToggleSortingHandler()}
                     >
-                      {flexRender(
-                        header.column.columnDef.header,
-                        header.getContext()
-                      )}
-                      {{
-                        asc: ' 🔼',
-                        desc: ' 🔽',
-                      }[header.column.getIsSorted()] ?? null}
+                      <div className="flex items-center gap-2">
+                        {flexRender(
+                          header.column.columnDef.header,
+                          header.getContext()
+                        )}
+                        {header.column.getCanSort() && (
+                          <span className="text-gray-400">
+                            {header.column.getIsSorted() === 'asc' ? '↑' : 
+                             header.column.getIsSorted() === 'desc' ? '↓' : '↕'}
+                          </span>
+                        )}
+                      </div>
                     </th>
                   ))}
                 </tr>
@@ -163,8 +167,11 @@ export function Works() {
               {table.getRowModel().rows.map((row) => (
                 <tr key={row.id} className="hover:bg-gray-50">
                   {row.getVisibleCells().map((cell) => (
-                    <td key={cell.id} className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                      {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                    <td key={cell.id} className="px-6 py-4 whitespace-nowrap">
+                      {flexRender(
+                        cell.column.columnDef.cell,
+                        cell.getContext()
+                      )}
                     </td>
                   ))}
                 </tr>
