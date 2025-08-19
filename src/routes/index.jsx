@@ -1,9 +1,9 @@
 import { Link } from '@tanstack/react-router'
 import { useQuery } from '@tanstack/react-query'
+import { apiCall, API_ENDPOINTS } from '../utils/api'
 
 async function fetchCollectionsIndex() {
-  const response = await fetch('/collections/index.json')
-  return response.json()
+  return apiCall(API_ENDPOINTS.collections.index)
 }
 
 export function Index() {

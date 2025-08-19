@@ -70,5 +70,18 @@ const routeTree = rootRoute.addChildren([
 export const router = createRouter({
     routeTree,
     // Add this for GitHub Pages compatibility
-    base: process.env.NODE_ENV === 'production' ? '/IAD/' : '/'
-}) 
+    base: (() => {
+        if (typeof window !== 'undefined' && window.location.hostname === 'tcouch.github.io') {
+            return '/IAD'
+        }
+        return '/'
+    })()
+})
+
+// Export the base path for use in other components
+export const getBasePath = () => {
+    if (typeof window !== 'undefined' && window.location.hostname === 'tcouch.github.io') {
+        return '/IAD'
+    }
+    return ''
+} 

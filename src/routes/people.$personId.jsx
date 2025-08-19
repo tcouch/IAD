@@ -1,15 +1,14 @@
 import { Link, useParams } from '@tanstack/react-router'
 import { useQuery } from '@tanstack/react-query'
+import { apiCall, API_ENDPOINTS, getImagePath } from '../utils/api'
 
 async function fetchPerson(personId) {
-  const response = await fetch('/items/people.json')
-  const people = await response.json()
+  const people = await apiCall(API_ENDPOINTS.items.people)
   return people[personId]
 }
 
 async function fetchWorks() {
-  const response = await fetch('/collections/works.json')
-  return response.json()
+  return apiCall(API_ENDPOINTS.collections.works)
 }
 
 export function PersonDetail() {
@@ -206,7 +205,7 @@ export function PersonDetail() {
             <div className="card">
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Portrait</h3>
               <img
-                src={`/images/${person.PersonPortraitImage.Value}`}
+                src={getImagePath(`/images/${person.PersonPortraitImage.Value}`)}
                 alt={`Portrait of ${fullName}`}
                 className="w-full rounded-lg shadow-sm"
                 onError={(e) => {
@@ -225,7 +224,7 @@ export function PersonDetail() {
             <div className="card">
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Personal Emblem</h3>
               <img
-                src={`/images/${person.PersonEmblemImage.Value}`}
+                src={getImagePath(`/images/${person.PersonEmblemImage.Value}`)}
                 alt={`Emblem of ${fullName}`}
                 className="w-full rounded-lg shadow-sm"
                 onError={(e) => {

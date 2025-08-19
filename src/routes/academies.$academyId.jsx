@@ -1,10 +1,10 @@
 import { Link, useParams } from '@tanstack/react-router'
 import { useQuery } from '@tanstack/react-query'
 import { useState, useMemo, useCallback, useRef, useEffect } from 'react'
+import { apiCall, API_ENDPOINTS, getImagePath } from '../utils/api'
 
 async function fetchAcademy(academyId) {
-  const response = await fetch('/items/academies.json')
-  const academies = await response.json()
+  const academies = await apiCall(API_ENDPOINTS.items.academies)
   return academies[academyId]
 }
 
@@ -36,7 +36,7 @@ function PaginatedMembers({ members }) {
         {person.PersonPortraitImage && (
           <div className="flex-shrink-0">
             <img
-              src={`/images/${person.PersonPortraitImage.Value}`}
+              src={getImagePath(`/images/${person.PersonPortraitImage.Value}`)}
               alt={`Portrait of ${person.Name}`}
               className="w-12 h-12 rounded-full object-cover border border-gray-200"
               onError={(e) => {
@@ -49,7 +49,7 @@ function PaginatedMembers({ members }) {
         {person.PersonEmblemImage && (
           <div className="flex-shrink-0">
             <img
-              src={`/images/${person.PersonEmblemImage.Value}`}
+              src={getImagePath(`/images/${person.PersonEmblemImage.Value}`)}
               alt={`Emblem of ${person.Name}`}
               className="w-12 h-12 rounded-lg object-cover border border-gray-200"
               onError={(e) => {
@@ -409,7 +409,7 @@ export function AcademyDetail() {
             <div className="card">
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Emblem</h3>
               <img
-                src={`/images/${academy.EmblemImage.Value}`}
+                src={getImagePath(`/images/${academy.EmblemImage.Value}`)}
                 alt={`Emblem of ${academy.Name}`}
                 className="w-full rounded-lg shadow-sm"
                 onError={(e) => {

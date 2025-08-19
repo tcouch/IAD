@@ -10,12 +10,12 @@ import {
   useReactTable,
 } from '@tanstack/react-table'
 import Fuse from 'fuse.js'
+import { apiCall, API_ENDPOINTS } from '../utils/api'
 
 const columnHelper = createColumnHelper()
 
 async function fetchWorks() {
-  const response = await fetch('/collections/works.json')
-  return response.json()
+  return apiCall(API_ENDPOINTS.collections.works)
 }
 
 export function Works() {

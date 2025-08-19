@@ -1,9 +1,9 @@
 import { Link, useParams } from '@tanstack/react-router'
 import { useQuery } from '@tanstack/react-query'
+import { apiCall, API_ENDPOINTS, getImagePath } from '../utils/api'
 
 async function fetchWork(workId) {
-  const response = await fetch('/items/works.json')
-  const works = await response.json()
+  const works = await apiCall(API_ENDPOINTS.items.works)
   return works[workId]
 }
 
@@ -64,7 +64,7 @@ function WorkImages({ work }) {
           <div key={index} className="space-y-2">
             <h3 className="text-lg font-semibold text-gray-900">{item.type}</h3>
             <img
-              src={`/images/${item.image.Value}`}
+              src={getImagePath(`/images/${item.image.Value}`)}
               alt={`${item.type} of ${work.ShortTitle}`}
               className="w-full rounded-lg shadow-sm border border-gray-200"
               onError={(e) => {
