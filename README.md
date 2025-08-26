@@ -1,7 +1,7 @@
 # Italian Academies Database
 
 A static React application for exploring the rich history of Italian academies, their members, and works from the Renaissance and early modern periods.
-(proof of concept)
+(proof of concept) 
 
 ## Features
 
