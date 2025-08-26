@@ -1,7 +1,10 @@
 // Utility function to get the correct base path for API calls
 export const getApiBasePath = () => {
-    // Hardcoded for GitHub Pages - will fix environment detection later
-    return '/IAD'
+    const basePath = __BASE_PATH__
+    if (basePath.endsWith('/')) {
+        return basePath.slice(0, -1)
+    }
+    return basePath
 }
 
 // Helper function to make API calls with the correct base path
