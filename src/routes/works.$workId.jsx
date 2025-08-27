@@ -9,11 +9,16 @@ async function fetchWork(workId) {
 
 // Helper function to render person links
 function PersonLinks({ people, title }) {
-  if (!people) return null
+  if (!people || !people.ItacPersonItem) return null
   
   const personArray = Array.isArray(people.ItacPersonItem) 
     ? people.ItacPersonItem 
     : [people.ItacPersonItem]
+
+  // Filter out any null/undefined items
+  const validPersons = personArray.filter(person => person && person.RecordId && person.Value)
+
+  if (validPersons.length === 0) return null
 
   return (
     <div className="mt-6">
@@ -21,11 +26,11 @@ function PersonLinks({ people, title }) {
         {title}
       </h3>
       <div className="space-y-2">
-        {personArray.map((person, index) => (
+        {validPersons.map((person, index) => (
           <Link
-            key={person.RecordID || index}
+            key={person.RecordId || index}
             to="/people/$personId"
-            params={{ personId: person.RecordID }}
+            params={{ personId: person.RecordId }}
             className="block text-primary-600 hover:text-primary-800"
           >
             {person.Value}
@@ -145,7 +150,7 @@ export function WorkDetail() {
                 {work.ItacAcademyItem ? (
                   <Link
                     to="/academies/$academyId"
-                    params={{ academyId: work.ItacAcademyItem.RecordID }}
+                    params={{ academyId: work.ItacAcademyItem.RecordId }}
                     className="text-primary-600 hover:text-primary-800"
                   >
                     {work.ItacAcademyItem.Value}
@@ -296,7 +301,7 @@ export function WorkDetail() {
               {work.ItacAcademyItem && (
                 <Link
                   to="/academies/$academyId"
-                  params={{ academyId: work.ItacAcademyItem.RecordID }}
+                  params={{ academyId: work.ItacAcademyItem.RecordId }}
                   className="block text-primary-600 hover:text-primary-800"
                 >
                   View Academy

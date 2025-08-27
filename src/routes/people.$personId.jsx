@@ -52,9 +52,9 @@ export function PersonDetail() {
       if (!roleData) return false
       
       if (Array.isArray(roleData.ItacPersonItem)) {
-        return roleData.ItacPersonItem.some(p => p.RecordID === personId)
-      } else if (roleData.ItacPersonItem) {
-        return roleData.ItacPersonItem.RecordID === personId
+        return roleData.ItacPersonItem.some(p => p.RecordId === personId)
+              } else if (roleData.ItacPersonItem) {
+          return roleData.ItacPersonItem.RecordId === personId
       }
       return false
     })

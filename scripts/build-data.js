@@ -50,17 +50,78 @@ function createSearchText(item, type) {
     return text.toLowerCase().trim();
 }
 
+// Helper function to normalize all ID property names for consistency
+function normalizeIdProperties(item) {
+    if (!item || typeof item !== 'object') return item;
+
+    // Normalize RecordID -> RecordId
+    if (item.RecordID && !item.RecordId) {
+        item.RecordId = item.RecordID;
+        delete item.RecordID;
+    }
+
+    // Normalize AcademyID -> AcademyId
+    if (item.AcademyID && !item.AcademyId) {
+        item.AcademyId = item.AcademyID;
+        delete item.AcademyID;
+    }
+
+    // Normalize PersonID -> PersonId
+    if (item.PersonID && !item.PersonId) {
+        item.PersonId = item.PersonID;
+        delete item.PersonID;
+    }
+
+    // Normalize WorkID -> WorkId
+    if (item.WorkID && !item.WorkId) {
+        item.WorkId = item.WorkID;
+        delete item.WorkID;
+    }
+
+    // Normalize CityID -> CityId
+    if (item.CityID && !item.CityId) {
+        item.CityId = item.CityID;
+        delete item.CityID;
+    }
+
+    // Normalize NationalityID -> NationalityId
+    if (item.NationalityID && !item.NationalityId) {
+        item.NationalityId = item.NationalityID;
+        delete item.NationalityID;
+    }
+
+    // Normalize ImageID -> ImageId
+    if (item.ImageID && !item.ImageId) {
+        item.ImageId = item.ImageID;
+        delete item.ImageID;
+    }
+
+    // Recursively normalize nested objects
+    for (const key in item) {
+        if (item[key] && typeof item[key] === 'object') {
+            if (Array.isArray(item[key])) {
+                item[key].forEach(normalizeIdProperties);
+            } else {
+                normalizeIdProperties(item[key]);
+            }
+        }
+    }
+
+    return item;
+}
+
 // Process academies first
 console.log('Processing academies...');
 const academyFiles = readJsonFiles(path.join(DATA_DIR, 'ItacAcademyItems'));
 const academies = academyFiles.map(file => {
     const item = extractItem(file);
+    const normalizedItem = normalizeIdProperties(item);
 
     // Sort academy members alphabetically by name if they exist
-    if (item.ItacPersonItem) {
-        const members = Array.isArray(item.ItacPersonItem)
-            ? item.ItacPersonItem
-            : [item.ItacPersonItem];
+    if (normalizedItem.ItacPersonItem) {
+        const members = Array.isArray(normalizedItem.ItacPersonItem)
+            ? normalizedItem.ItacPersonItem
+            : [normalizedItem.ItacPersonItem];
 
         // Sort members alphabetically by Name field
         const sortedMembers = members.sort((a, b) => {
@@ -70,12 +131,12 @@ const academies = academyFiles.map(file => {
         });
 
         // Update the academy with sorted members
-        item.ItacPersonItem = sortedMembers;
+        normalizedItem.ItacPersonItem = sortedMembers;
     }
 
     return {
-        ...item,
-        searchText: createSearchText(item, 'academy'),
+        ...normalizedItem,
+        searchText: createSearchText(normalizedItem, 'academy'),
         type: 'academy'
     };
 });
@@ -94,11 +155,12 @@ console.log('Processing people...');
 const personFiles = readJsonFiles(path.join(DATA_DIR, 'ItacPersonItems'));
 const people = personFiles.map(file => {
     const item = extractItem(file);
+    const normalizedItem = normalizeIdProperties(item);
 
     // Initialize enriched person data
     const enrichedPerson = {
-        ...item,
-        searchText: createSearchText(item, 'person'),
+        ...normalizedItem,
+        searchText: createSearchText(normalizedItem, 'person'),
         type: 'person',
         academyMemberships: [],
         PersonPortraitImage: null,
@@ -158,9 +220,10 @@ console.log('Processing works...');
 const workFiles = readJsonFiles(path.join(DATA_DIR, 'ItacWorkItems'));
 const works = workFiles.map(file => {
     const item = extractItem(file);
+    const normalizedItem = normalizeIdProperties(item);
     return {
-        ...item,
-        searchText: createSearchText(item, 'work'),
+        ...normalizedItem,
+        searchText: createSearchText(normalizedItem, 'work'),
         type: 'work'
     };
 });
