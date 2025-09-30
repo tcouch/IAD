@@ -14,8 +14,8 @@ import { apiCall, API_ENDPOINTS } from '../utils/api'
 
 const columnHelper = createColumnHelper()
 
-async function fetchPeople() {
-  return apiCall(API_ENDPOINTS.collections.people)
+async function fetchPeopleSearchIndex() {
+  return apiCall(API_ENDPOINTS.search.people)
 }
 
 export function People() {
@@ -23,116 +23,113 @@ export function People() {
   const [nationalityFilter, setNationalityFilter] = useState('')
   const [sorting, setSorting] = useState([])
 
-  const { data: peopleData, isLoading } = useQuery({
-    queryKey: ['people'],
-    queryFn: fetchPeople,
+  const { data: searchIndex, isLoading: indexLoading } = useQuery({
+    queryKey: ['people-search-index'],
+    queryFn: fetchPeopleSearchIndex,
   })
 
   // Extract unique nationalities for filter dropdown
-  const filterOptions = useMemo(() => {
-    if (!peopleData?.items) return { nationalities: [] }
+  const nationalities = useMemo(() => {
+    if (!searchIndex) return []
     
-    const nationalities = new Set()
-    
-    peopleData.items.forEach(person => {
-      if (person.Nationality?.Value) {
-        nationalities.add(person.Nationality.Value)
+    const nationalitySet = new Set()
+    searchIndex.forEach(person => {
+      if (person.nationality && person.nationality !== '-') {
+        nationalitySet.add(person.nationality)
       }
     })
     
-    return {
-      nationalities: Array.from(nationalities).sort()
-    }
-  }, [peopleData?.items])
+    return Array.from(nationalitySet).sort()
+  }, [searchIndex])
 
-  // Create Fuse instance for fuzzy search
+  // Create Fuse instance with pre-built search index
   const fuse = useMemo(() => {
-    if (!peopleData?.items) return null
-    return new Fuse(peopleData.items, {
-      keys: [
-        'Surname', 
-        'Forename', 
-        'PersonalTitle', 
-        'Nationality.Value', 
-        'Role',
-        'Nickname'
-      ],
+    if (!searchIndex) return null
+    return new Fuse(searchIndex, {
+      keys: ['searchText'],
       threshold: 0.3,
     })
-  }, [peopleData?.items])
+  }, [searchIndex])
 
-  // Filter items based on search and nationality filter
+  // Get search results directly from index
   const filteredData = useMemo(() => {
-    if (!peopleData?.items) return []
+    if (!searchIndex) return []
     
-    let filtered = peopleData.items
-    
-    // Apply text search filter
-    if (globalFilter.trim()) {
-      filtered = fuse.search(globalFilter).map(result => result.item)
+    if (!globalFilter.trim()) {
+      // If no search, return all people
+      return searchIndex
     }
     
-    // Apply nationality filter
-    if (nationalityFilter) {
-      filtered = filtered.filter(person => 
-        person.Nationality?.Value === nationalityFilter
-      )
-    }
+    // Get search results from index
+    const searchResults = fuse.search(globalFilter)
+    return searchResults.map(result => result.item)
+  }, [searchIndex, globalFilter, fuse])
+
+  // Apply nationality filter to search results
+  const nationalityFilteredData = useMemo(() => {
+    if (!nationalityFilter) return filteredData
     
-    return filtered
-  }, [peopleData?.items, globalFilter, nationalityFilter, fuse])
+    return filteredData.filter(person => person.nationality === nationalityFilter)
+  }, [filteredData, nationalityFilter])
+
+  const isLoading = indexLoading
 
   const columns = useMemo(
     () => [
-      columnHelper.accessor('Surname', {
+      columnHelper.accessor('name', {
         header: 'Name',
+        size: 200,
         cell: ({ row }) => {
           const person = row.original
-          const fullName = [person.Surname, person.Forename].filter(Boolean).join(', ')
           return (
-            <Link
-              to="/people/$personId"
-              params={{ personId: person.RecordId }}
-              className="text-primary-600 hover:text-primary-800 font-medium"
-            >
-              {fullName || person.Name || 'Unknown'}
-            </Link>
+            <div className="max-w-[200px] truncate">
+              <Link
+                to="/people/$personId"
+                params={{ personId: person.id }}
+                className="text-primary-600 hover:text-primary-800 font-medium"
+                title={person.name}
+              >
+                {person.name}
+              </Link>
+            </div>
           )
         },
       }),
-      columnHelper.accessor('Nickname', {
-        header: 'Nickname',
-        cell: ({ getValue }) => {
-          const nickname = getValue()
-          return nickname ? `"${nickname}"` : '-'
+      columnHelper.accessor('title', {
+        header: 'Title',
+        size: 200,
+        cell: ({ row }) => {
+          const person = row.original
+          const title = person.title || '-'
+          return (
+            <div className="max-w-[200px] truncate" title={title}>
+              {title}
+            </div>
+          )
         },
       }),
-      columnHelper.accessor('PersonalTitle', {
-        header: 'Title',
-        cell: ({ getValue }) => getValue() || '-',
-      }),
-      columnHelper.accessor('DateText', {
+      columnHelper.accessor('lifespan', {
         header: 'Lifespan',
-        cell: ({ getValue }) => getValue() || '-',
+        size: 120,
+        cell: ({ row }) => {
+          const person = row.original
+          return person.lifespan || '-'
+        },
       }),
-      columnHelper.accessor('Nationality.Value', {
+      columnHelper.accessor('nationality', {
         header: 'Nationality',
-        cell: ({ getValue }) => getValue() || '-',
-      }),
-      columnHelper.accessor('Role', {
-        header: 'Role',
-        cell: ({ getValue }) => getValue() || '-',
-      }),
-      columnHelper.accessor('Gender', {
-        header: 'Gender',
-        cell: ({ getValue }) => getValue() || '-',
+        size: 120,
+        cell: ({ row }) => {
+          const person = row.original
+          return person.nationality || '-'
+        },
       }),
     ],
     []
   )
 
   const table = useReactTable({
-    data: filteredData,
+    data: nationalityFilteredData,
     columns,
     getCoreRowModel: getCoreRowModel(),
     getSortedRowModel: getSortedRowModel(),
@@ -157,7 +154,7 @@ export function People() {
         <div>
           <h1 className="text-3xl font-bold text-gray-900">People</h1>
           <p className="text-gray-600 mt-2">
-            Browse {peopleData?.totalItems.toLocaleString()} people from Italian academies
+            Browse {searchIndex?.length.toLocaleString()} people from Italian academies
           </p>
         </div>
       </div>
@@ -189,7 +186,7 @@ export function People() {
               className="px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-primary-500 focus:border-transparent"
             >
               <option value="">All Nationalities</option>
-              {filterOptions.nationalities.map((nationality) => (
+              {nationalities.map((nationality) => (
                 <option key={nationality} value={nationality}>
                   {nationality}
                 </option>
@@ -202,14 +199,14 @@ export function People() {
       {/* Table */}
       <div className="card">
         <div className="overflow-x-auto">
-          <table className="min-w-full divide-y divide-gray-200">
+          <table className="w-full divide-y divide-gray-200 table-fixed">
             <thead className="bg-gray-50">
               {table.getHeaderGroups().map((headerGroup) => (
                 <tr key={headerGroup.id}>
                   {headerGroup.headers.map((header) => (
                     <th
                       key={header.id}
-                      className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
+                      className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
                       onClick={header.column.getToggleSortingHandler()}
                     >
                       <div className="flex items-center gap-2">
@@ -233,7 +230,7 @@ export function People() {
               {table.getRowModel().rows.map((row) => (
                 <tr key={row.id} className="hover:bg-gray-50">
                   {row.getVisibleCells().map((cell) => (
-                    <td key={cell.id} className="px-6 py-4 whitespace-nowrap">
+                    <td key={cell.id} className="px-3 py-4 whitespace-nowrap">
                       {flexRender(
                         cell.column.columnDef.cell,
                         cell.getContext()

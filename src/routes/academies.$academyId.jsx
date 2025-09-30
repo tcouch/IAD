@@ -4,8 +4,7 @@ import { useState, useMemo, useCallback, useRef, useEffect } from 'react'
 import { apiCall, API_ENDPOINTS, getImagePath } from '../utils/api'
 
 async function fetchAcademy(academyId) {
-  const academies = await apiCall(API_ENDPOINTS.items.academies)
-  return academies[academyId]
+  return apiCall(API_ENDPOINTS.individual.academy(academyId))
 }
 
 // Helper function to render paginated members

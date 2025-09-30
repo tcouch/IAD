@@ -36,5 +36,16 @@ export const API_ENDPOINTS = {
         academies: '/items/academies.json',
         people: '/items/people.json',
         works: '/items/works.json'
+    },
+    individual: {
+        academy: (id) => `/items/academies/${id}.json`,
+        person: (id) => `/items/people/${id}.json`,
+        work: (id) => `/items/works/${id}.json`
+    },
+    search: {
+        academies: '/search/academies.json',
+        people: '/search/people.json',
+        works: '/search/works.json',
+        combined: '/search/combined.json'
     }
 } 

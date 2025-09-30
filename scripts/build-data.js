@@ -141,12 +141,12 @@ const academies = academyFiles.map(file => {
     };
 });
 
-// Create lite version of academies for collections (without member data)
-const academiesLite = academies.map(academy => {
-    const { ItacPersonItem, Citation, Notes, ...liteAcademy } = academy;
+// Create academies with member count for search index (keep member data for detail pages)
+const academiesWithCount = academies.map(academy => {
+    const { Citation, Notes, ...academyData } = academy;
     return {
-        ...liteAcademy,
-        memberCount: ItacPersonItem ? (Array.isArray(ItacPersonItem) ? ItacPersonItem.length : 1) : 0
+        ...academyData,
+        memberCount: academy.ItacPersonItem ? (Array.isArray(academy.ItacPersonItem) ? academy.ItacPersonItem.length : 1) : 0
     };
 });
 
@@ -163,6 +163,7 @@ const people = personFiles.map(file => {
         searchText: createSearchText(normalizedItem, 'person'),
         type: 'person',
         academyMemberships: [],
+        relatedWorks: [],
         PersonPortraitImage: null,
         PersonEmblemImage: null,
         PersonEmblemDescription: null,
@@ -228,127 +229,181 @@ const works = workFiles.map(file => {
     };
 });
 
-// Create lite version of people for collections (without heavy fields)
-const peopleLite = people.map(person => {
-    const {
-        PersonPortraitImage,
-        PersonEmblemImage,
-        PersonEmblemDescription,
-        academyMemberships,
-        Motto,
-        Notes,
-        Citation,
-        ...litePerson
-    } = person;
-    return litePerson;
-});
-
-// Create lite version of works for collections (without heavy fields)
-const worksLite = works.map(work => {
-    const {
-        ItacPersonItem,
-        Notes,
-        Citation,
-        ...liteWork
-    } = work;
-    return liteWork;
-});
-
-// Create paginated collections
-function createPaginatedCollection(items, itemsPerPage = 50) {
-    const pages = [];
-    for (let i = 0; i < items.length; i += itemsPerPage) {
-        pages.push(items.slice(i, i + itemsPerPage));
-    }
-
-    return {
-        items,
-        pages,
-        totalItems: items.length,
-        totalPages: pages.length,
-        itemsPerPage
-    };
-}
-
-// Create collections with pagination
-const academyCollection = createPaginatedCollection(academiesLite);
-const peopleCollection = createPaginatedCollection(peopleLite);
-const workCollection = createPaginatedCollection(worksLite);
-
-// Create individual item lookup maps
-const academyMap = {};
-academies.forEach(academy => {
-    academyMap[academy.RecordId] = academy;
-});
-
-const peopleMap = {};
+// Add related works to people
+console.log('Adding related works to people...');
 people.forEach(person => {
-    peopleMap[person.RecordId] = person;
-});
+    const workRolesMap = new Map() // Track roles per work to combine duplicates
 
-const workMap = {};
-works.forEach(work => {
-    workMap[work.RecordId] = work;
-});
+    works.forEach(work => {
+        // Check if this person appears in any relationship field
+        const relationshipFields = ['Censors', 'Dedicatees', 'Editors', 'Artists', 'Illustrators', 'Printers']
 
-// Write collections to public directory
-console.log('Writing collections...');
+        relationshipFields.forEach(role => {
+            const fieldData = work[role]
+            if (!fieldData || !fieldData.ItacPersonItem) return
 
-// Write paginated collections
-fs.writeFileSync(
-    path.join(PUBLIC_DIR, 'collections/academies.json'),
-    JSON.stringify(academyCollection, null, 2)
-);
+            const persons = Array.isArray(fieldData.ItacPersonItem)
+                ? fieldData.ItacPersonItem
+                : [fieldData.ItacPersonItem]
 
-fs.writeFileSync(
-    path.join(PUBLIC_DIR, 'collections/people.json'),
-    JSON.stringify(peopleCollection, null, 2)
-);
+            const hasRelationship = persons.some(p => p.RecordId === person.RecordId)
 
-fs.writeFileSync(
-    path.join(PUBLIC_DIR, 'collections/works.json'),
-    JSON.stringify(workCollection, null, 2)
-);
+            if (hasRelationship) {
+                // Convert plural role to singular
+                const singularRole = role.toLowerCase().replace(/s$/, '')
 
-// Write individual item maps for quick lookup
-fs.writeFileSync(
-    path.join(PUBLIC_DIR, 'items/academies.json'),
-    JSON.stringify(academyMap, null, 2)
-);
+                const workId = work.RecordId
 
-fs.writeFileSync(
-    path.join(PUBLIC_DIR, 'items/people.json'),
-    JSON.stringify(peopleMap, null, 2)
-);
+                if (workRolesMap.has(workId)) {
+                    // Combine roles for the same work
+                    const existing = workRolesMap.get(workId)
+                    if (!existing.roles.includes(singularRole)) {
+                        existing.roles.push(singularRole)
+                    }
+                } else {
+                    // First role for this work
+                    workRolesMap.set(workId, {
+                        id: work.RecordId,
+                        title: work.ShortTitle || work.LongTitle || 'Untitled',
+                        language: work.Language || '-',
+                        publicationPlace: work.City?.PublicationPlaceItalianName || work.City?.PublicationPlaceEnglishName || '-',
+                        roles: [singularRole]
+                    })
+                }
+            }
+        })
+    })
 
-fs.writeFileSync(
-    path.join(PUBLIC_DIR, 'items/works.json'),
-    JSON.stringify(workMap, null, 2)
-);
+    // Convert map to array and join roles with commas
+    person.relatedWorks = Array.from(workRolesMap.values()).map(work => ({
+        ...work,
+        role: work.roles.join(', ')
+    }))
+})
 
-// Create collections index
-const collectionsIndex = {
-    academies: {
-        count: academies.length,
-        name: 'Academies',
-        description: 'Italian academies and their members'
-    },
-    people: {
-        count: people.length,
-        name: 'People',
-        description: 'Members and associates of Italian academies'
-    },
-    works: {
-        count: works.length,
-        name: 'Works',
-        description: 'Publications and works related to Italian academies'
+console.log('Related works added to people!')
+
+// Lite versions are no longer needed - we use individual files
+
+// Paginated collections are no longer needed
+
+// Individual item lookup maps are no longer needed
+
+// Collections are no longer needed - we use search indices and individual files
+
+// Individual item maps are no longer needed - we use individual files
+
+// Create individual item files for on-demand loading
+console.log('Creating individual item files...');
+
+// Create directories for individual items
+const createIndividualItemFiles = (items, collectionName) => {
+    const itemDir = path.join(PUBLIC_DIR, 'items', collectionName);
+    if (!fs.existsSync(itemDir)) {
+        fs.mkdirSync(itemDir, { recursive: true });
     }
+
+    items.forEach(item => {
+        const filePath = path.join(itemDir, `${item.RecordId}.json`);
+        fs.writeFileSync(filePath, JSON.stringify(item, null, 2));
+    });
+
+    console.log(`Created ${items.length} individual ${collectionName} files`);
 };
 
+createIndividualItemFiles(academiesWithCount, 'academies');
+createIndividualItemFiles(people, 'people');
+createIndividualItemFiles(works, 'works');
+
+// Collections index is no longer needed - counts are derived from search indices
+
+// Create search indices for Fuse.js
+console.log('Creating search indices...');
+
+// Ensure search directory exists
+const searchDir = path.join(PUBLIC_DIR, 'search');
+if (!fs.existsSync(searchDir)) {
+    fs.mkdirSync(searchDir, { recursive: true });
+}
+
+// Create lightweight search indices
+const createSearchIndex = (items, type) => {
+    return items.map(item => {
+        const baseIndex = {
+            id: item.RecordId,
+            searchText: item.searchText,
+            // Include minimal data needed for display
+            name: item.Name || item.ShortTitle || `${item.Surname || ''}, ${item.Forename || ''}`.trim()
+        };
+
+        // Add type-specific fields
+        if (type === 'person') {
+            return {
+                ...baseIndex,
+                title: item.PersonalTitle || '-',
+                lifespan: item.DateText || '-',
+                nationality: item.Nationality?.Value || '-'
+            };
+        }
+
+        if (type === 'academy') {
+            return {
+                ...baseIndex,
+                city: item.City?.CityItalianName || '-',
+                startDate: item.StartDate || '-',
+                endDate: item.EndDate || '-',
+                motto: item.Motto || '-',
+                memberCount: item.memberCount || 0
+            };
+        }
+
+        if (type === 'work') {
+            return {
+                ...baseIndex,
+                language: item.Language || '-',
+                publicationPlace: item.City?.PublicationPlaceItalianName || '-',
+                publicationDate: item.DateText || '-',
+                subjects: Array.isArray(item.Subjects) ? item.Subjects.join(', ') : (item.Subjects || '-')
+            };
+        }
+
+        return baseIndex;
+    });
+};
+
+const academySearchIndex = createSearchIndex(academiesWithCount, 'academy');
+const peopleSearchIndex = createSearchIndex(people, 'person');
+const workSearchIndex = createSearchIndex(works, 'work');
+
+// Write search indices to files
 fs.writeFileSync(
-    path.join(PUBLIC_DIR, 'collections/index.json'),
-    JSON.stringify(collectionsIndex, null, 2)
+    path.join(PUBLIC_DIR, 'search/academies.json'),
+    JSON.stringify(academySearchIndex, null, 2)
 );
+
+fs.writeFileSync(
+    path.join(PUBLIC_DIR, 'search/people.json'),
+    JSON.stringify(peopleSearchIndex, null, 2)
+);
+
+fs.writeFileSync(
+    path.join(PUBLIC_DIR, 'search/works.json'),
+    JSON.stringify(workSearchIndex, null, 2)
+);
+
+// Create a combined search index for global search
+const combinedSearchIndex = [
+    ...academySearchIndex.map(item => ({ ...item, collection: 'academies' })),
+    ...peopleSearchIndex.map(item => ({ ...item, collection: 'people' })),
+    ...workSearchIndex.map(item => ({ ...item, collection: 'works' }))
+];
+
+fs.writeFileSync(
+    path.join(PUBLIC_DIR, 'search/combined.json'),
+    JSON.stringify(combinedSearchIndex, null, 2)
+);
+
+console.log('Search indices created!');
 
 console.log('Build complete!');
 console.log(`- Academies: ${academies.length} items`);

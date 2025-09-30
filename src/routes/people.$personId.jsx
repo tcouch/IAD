@@ -3,12 +3,7 @@ import { useQuery } from '@tanstack/react-query'
 import { apiCall, API_ENDPOINTS, getImagePath } from '../utils/api'
 
 async function fetchPerson(personId) {
-  const people = await apiCall(API_ENDPOINTS.items.people)
-  return people[personId]
-}
-
-async function fetchWorks() {
-  return apiCall(API_ENDPOINTS.collections.works)
+  return apiCall(API_ENDPOINTS.individual.person(personId))
 }
 
 export function PersonDetail() {
@@ -17,11 +12,6 @@ export function PersonDetail() {
   const { data: person, isLoading, error } = useQuery({
     queryKey: ['person', personId],
     queryFn: () => fetchPerson(personId),
-  })
-
-  const { data: worksData } = useQuery({
-    queryKey: ['works'],
-    queryFn: fetchWorks,
   })
 
   if (isLoading) {
@@ -44,21 +34,7 @@ export function PersonDetail() {
     )
   }
 
-  // Find works by this person
-  const personWorks = worksData?.items?.filter(work => {
-    const roles = ['Censors', 'Dedicatees', 'Editors', 'Artists', 'Illustrators', 'Printers']
-    return roles.some(role => {
-      const roleData = work[role]
-      if (!roleData) return false
-      
-      if (Array.isArray(roleData.ItacPersonItem)) {
-        return roleData.ItacPersonItem.some(p => p.RecordId === personId)
-              } else if (roleData.ItacPersonItem) {
-          return roleData.ItacPersonItem.RecordId === personId
-      }
-      return false
-    })
-  }) || []
+  // relatedWorks is now included in the person data from build time
 
   const fullName = [person.Surname, person.Forename].filter(Boolean).join(', ') || person.Name
 
@@ -128,29 +104,24 @@ export function PersonDetail() {
           </div>
 
           {/* Works */}
-          {personWorks.length > 0 && (
+          {person.relatedWorks && person.relatedWorks.length > 0 && (
             <div className="card">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">
-                Works ({personWorks.length})
+                Related Works ({person.relatedWorks.length})
               </h2>
               <div className="space-y-4">
-                {personWorks.map((work) => (
+                {person.relatedWorks.map((work) => (
                   <Link
-                    key={work.RecordId}
+                    key={work.id}
                     to="/works/$workId"
-                    params={{ workId: work.RecordId }}
+                    params={{ workId: work.id }}
                     className="block p-4 border border-gray-200 rounded-lg hover:border-primary-300 hover:bg-primary-50 transition-colors"
                   >
                     <div className="font-medium text-gray-900">
-                      {work.ShortTitle}
+                      {work.title}
                     </div>
-                    {work.LongTitle && (
-                      <div className="text-sm text-gray-600 mt-1">
-                        {work.LongTitle}
-                      </div>
-                    )}
                     <div className="text-sm text-gray-500 mt-2">
-                      {work.PublicationYear} • {work.City?.PublicationPlaceItalianName}
+                      {work.language} • {work.publicationPlace} • {work.role.split(', ').map(role => role.charAt(0).toUpperCase() + role.slice(1)).join(', ')}
                     </div>
                   </Link>
                 ))}
@@ -255,10 +226,10 @@ export function PersonDetail() {
                 <dt className="text-sm font-medium text-gray-500">Record ID</dt>
                 <dd className="text-sm text-gray-900">{person.RecordId}</dd>
               </div>
-              {personWorks.length > 0 && (
+              {person.relatedWorks && person.relatedWorks.length > 0 && (
                 <div>
-                  <dt className="text-sm font-medium text-gray-500">Works</dt>
-                  <dd className="text-sm text-gray-900">{personWorks.length}</dd>
+                  <dt className="text-sm font-medium text-gray-500">Related Works</dt>
+                  <dd className="text-sm text-gray-900">{person.relatedWorks.length}</dd>
                 </div>
               )}
             </dl>

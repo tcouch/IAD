@@ -3,8 +3,7 @@ import { useQuery } from '@tanstack/react-query'
 import { apiCall, API_ENDPOINTS, getImagePath } from '../utils/api'
 
 async function fetchWork(workId) {
-  const works = await apiCall(API_ENDPOINTS.items.works)
-  return works[workId]
+  return apiCall(API_ENDPOINTS.individual.work(workId))
 }
 
 // Helper function to render person links

@@ -14,69 +14,100 @@ import { apiCall, API_ENDPOINTS } from '../utils/api'
 
 const columnHelper = createColumnHelper()
 
-async function fetchWorks() {
-  return apiCall(API_ENDPOINTS.collections.works)
+async function fetchWorksSearchIndex() {
+  return apiCall(API_ENDPOINTS.search.works)
 }
 
 export function Works() {
   const [globalFilter, setGlobalFilter] = useState('')
   const [sorting, setSorting] = useState([])
 
-  const { data: worksData, isLoading } = useQuery({
-    queryKey: ['works'],
-    queryFn: fetchWorks,
+  const { data: searchIndex, isLoading: indexLoading } = useQuery({
+    queryKey: ['works-search-index'],
+    queryFn: fetchWorksSearchIndex,
   })
 
-  // Create Fuse instance for fuzzy search
+  // Create Fuse instance with pre-built search index
   const fuse = useMemo(() => {
-    if (!worksData?.items) return null
-    return new Fuse(worksData.items, {
-      keys: ['ShortTitle', 'LongTitle', 'Subjects', 'Language', 'City.PublicationPlaceItalianName'],
+    if (!searchIndex) return null
+    return new Fuse(searchIndex, {
+      keys: ['searchText'],
       threshold: 0.3,
     })
-  }, [worksData?.items])
+  }, [searchIndex])
 
-  // Filter items based on search
+  // Get search results directly from index
   const filteredData = useMemo(() => {
-    if (!worksData?.items || !globalFilter.trim()) return worksData?.items || []
-    return fuse.search(globalFilter).map(result => result.item)
-  }, [worksData?.items, globalFilter, fuse])
+    if (!searchIndex) return []
+    
+    if (!globalFilter.trim()) {
+      // If no search, return all works
+      return searchIndex
+    }
+    
+    // Get search results from index
+    const searchResults = fuse.search(globalFilter)
+    return searchResults.map(result => result.item)
+  }, [searchIndex, globalFilter, fuse])
+
+  const isLoading = indexLoading
 
   const columns = useMemo(
     () => [
-      columnHelper.accessor('ShortTitle', {
+      columnHelper.accessor('name', {
         header: 'Title',
-        cell: ({ row }) => (
-          <Link
-            to="/works/$workId"
-            params={{ workId: row.original.RecordId }}
-            className="text-primary-600 hover:text-primary-800 font-medium"
-          >
-            {row.original.ShortTitle}
-          </Link>
-        ),
+        size: 250,
+        cell: ({ row }) => {
+          const work = row.original
+          return (
+            <div className="max-w-[250px] truncate">
+              <Link
+                to="/works/$workId"
+                params={{ workId: work.id }}
+                className="text-primary-600 hover:text-primary-800 font-medium"
+                title={work.name}
+              >
+                {work.name}
+              </Link>
+            </div>
+          )
+        },
       }),
-      columnHelper.accessor('Language', {
+      columnHelper.accessor('language', {
         header: 'Language',
-        cell: ({ getValue }) => getValue() || '-',
+        size: 100,
+        cell: ({ row }) => {
+          const work = row.original
+          return work.language || '-'
+        },
       }),
-      columnHelper.accessor('City.PublicationPlaceItalianName', {
+      columnHelper.accessor('publicationPlace', {
         header: 'Publication Place',
-        cell: ({ getValue }) => getValue() || '-',
+        size: 120,
+        cell: ({ row }) => {
+          const work = row.original
+          return work.publicationPlace || '-'
+        },
       }),
-      columnHelper.accessor('DateText', {
+      columnHelper.accessor('publicationDate', {
         header: 'Publication Date',
-        cell: ({ getValue }) => getValue() || '-',
+        size: 120,
+        cell: ({ row }) => {
+          const work = row.original
+          return work.publicationDate || '-'
+        },
       }),
-      columnHelper.accessor('Subjects', {
+      columnHelper.accessor('subjects', {
         header: 'Subjects',
-        cell: ({ getValue }) => {
-          const subjects = getValue()
-          if (!subjects) return '-'
-          if (Array.isArray(subjects)) {
-            return subjects.slice(0, 2).join(', ') + (subjects.length > 2 ? '...' : '')
-          }
-          return subjects
+        size: 200,
+        cell: ({ row }) => {
+          const work = row.original
+          const subjects = work.subjects || '-'
+          return (
+            <div className="max-w-[200px] truncate" title={subjects}>
+              {subjects}
+            </div>
+          )
         },
       }),
     ],
@@ -109,7 +140,7 @@ export function Works() {
         <div>
           <h1 className="text-3xl font-bold text-gray-900">Works</h1>
           <p className="text-gray-600 mt-2">
-            Browse {worksData?.totalItems.toLocaleString()} works from Italian academies
+            Browse {searchIndex?.length.toLocaleString()} works from Italian academies
           </p>
         </div>
       </div>
@@ -136,14 +167,14 @@ export function Works() {
       {/* Table */}
       <div className="card">
         <div className="overflow-x-auto">
-          <table className="min-w-full divide-y divide-gray-200">
+          <table className="w-full divide-y divide-gray-200 table-fixed">
             <thead className="bg-gray-50">
               {table.getHeaderGroups().map((headerGroup) => (
                 <tr key={headerGroup.id}>
                   {headerGroup.headers.map((header) => (
                     <th
                       key={header.id}
-                      className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
+                      className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
                       onClick={header.column.getToggleSortingHandler()}
                     >
                       <div className="flex items-center gap-2">
@@ -167,7 +198,7 @@ export function Works() {
               {table.getRowModel().rows.map((row) => (
                 <tr key={row.id} className="hover:bg-gray-50">
                   {row.getVisibleCells().map((cell) => (
-                    <td key={cell.id} className="px-6 py-4 whitespace-nowrap">
+                    <td key={cell.id} className="px-3 py-4 whitespace-nowrap">
                       {flexRender(
                         cell.column.columnDef.cell,
                         cell.getContext()

@@ -2,14 +2,36 @@ import { Link } from '@tanstack/react-router'
 import { useQuery } from '@tanstack/react-query'
 import { apiCall, API_ENDPOINTS } from '../utils/api'
 
-async function fetchCollectionsIndex() {
-  return apiCall(API_ENDPOINTS.collections.index)
+async function fetchSearchIndices() {
+  const [academies, people, works] = await Promise.all([
+    apiCall(API_ENDPOINTS.search.academies),
+    apiCall(API_ENDPOINTS.search.people),
+    apiCall(API_ENDPOINTS.search.works)
+  ])
+  
+  return {
+    academies: {
+      count: academies.length,
+      name: 'Academies',
+      description: 'Italian academies and their members'
+    },
+    people: {
+      count: people.length,
+      name: 'People',
+      description: 'Members and associates of Italian academies'
+    },
+    works: {
+      count: works.length,
+      name: 'Works',
+      description: 'Publications and works related to Italian academies'
+    }
+  }
 }
 
 export function Index() {
   const { data: collections, isLoading } = useQuery({
     queryKey: ['collections-index'],
-    queryFn: fetchCollectionsIndex,
+    queryFn: fetchSearchIndices,
   })
 
   if (isLoading) {
@@ -53,35 +75,6 @@ export function Index() {
         ))}
       </div>
 
-      {/* Search section */}
-      <div className="card">
-        <h2 className="text-2xl font-semibold text-gray-900 mb-4">
-          Quick Search
-        </h2>
-        <p className="text-gray-600 mb-6">
-          Search across all collections for academies, people, and works.
-        </p>
-        <div className="flex gap-4">
-          <Link
-            to="/academies"
-            className="btn btn-primary"
-          >
-            Browse Academies
-          </Link>
-          <Link
-            to="/people"
-            className="btn btn-secondary"
-          >
-            Browse People
-          </Link>
-          <Link
-            to="/works"
-            className="btn btn-secondary"
-          >
-            Browse Works
-          </Link>
-        </div>
-      </div>
     </div>
   )
 } 

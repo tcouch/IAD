@@ -14,67 +14,109 @@ import { apiCall, API_ENDPOINTS } from '../utils/api'
 
 const columnHelper = createColumnHelper()
 
-async function fetchAcademies() {
-  return apiCall(API_ENDPOINTS.collections.academies)
+async function fetchAcademySearchIndex() {
+  return apiCall(API_ENDPOINTS.search.academies)
 }
 
 export function Academies() {
   const [globalFilter, setGlobalFilter] = useState('')
   const [sorting, setSorting] = useState([])
 
-  const { data: academyData, isLoading } = useQuery({
-    queryKey: ['academies'],
-    queryFn: fetchAcademies,
+  const { data: searchIndex, isLoading: indexLoading } = useQuery({
+    queryKey: ['academies-search-index'],
+    queryFn: fetchAcademySearchIndex,
   })
 
-  // Create Fuse instance for fuzzy search
+  // Create Fuse instance with pre-built search index
   const fuse = useMemo(() => {
-    if (!academyData?.items) return null
-    return new Fuse(academyData.items, {
-      keys: ['Name', 'AlternativeName', 'Motto', 'City.CityItalianName', 'City.CityEnglishName'],
+    if (!searchIndex) return null
+    return new Fuse(searchIndex, {
+      keys: ['searchText'],
       threshold: 0.3,
     })
-  }, [academyData?.items])
+  }, [searchIndex])
 
-  // Filter items based on search
+  // Get search results directly from index
   const filteredData = useMemo(() => {
-    if (!academyData?.items || !globalFilter.trim()) return academyData?.items || []
-    return fuse.search(globalFilter).map(result => result.item)
-  }, [academyData?.items, globalFilter, fuse])
+    if (!searchIndex) return []
+    
+    if (!globalFilter.trim()) {
+      // If no search, return all academies
+      return searchIndex
+    }
+    
+    // Get search results from index
+    const searchResults = fuse.search(globalFilter)
+    return searchResults.map(result => result.item)
+  }, [searchIndex, globalFilter, fuse])
+
+  const isLoading = indexLoading
 
   const columns = useMemo(
     () => [
-      columnHelper.accessor('Name', {
+      columnHelper.accessor('name', {
         header: 'Name',
-        cell: ({ row }) => (
-          <Link
-            to="/academies/$academyId"
-            params={{ academyId: row.original.RecordId }}
-            className="text-primary-600 hover:text-primary-800 font-medium"
-          >
-            {row.original.Name}
-          </Link>
-        ),
+        size: 200,
+        cell: ({ row }) => {
+          const academy = row.original
+          return (
+            <div className="max-w-[200px] truncate">
+              <Link
+                to="/academies/$academyId"
+                params={{ academyId: academy.id }}
+                className="text-primary-600 hover:text-primary-800 font-medium"
+                title={academy.name}
+              >
+                {academy.name}
+              </Link>
+            </div>
+          )
+        },
       }),
-      columnHelper.accessor('City.CityItalianName', {
+      columnHelper.accessor('city', {
         header: 'City',
-        cell: ({ getValue }) => getValue() || '-',
+        size: 120,
+        cell: ({ row }) => {
+          const academy = row.original
+          return academy.city || '-'
+        },
       }),
-      columnHelper.accessor('StartDate', {
+      columnHelper.accessor('startDate', {
         header: 'Start Date',
-        cell: ({ getValue }) => getValue() || '-',
+        size: 100,
+        cell: ({ row }) => {
+          const academy = row.original
+          return academy.startDate || '-'
+        },
       }),
-      columnHelper.accessor('EndDate', {
+      columnHelper.accessor('endDate', {
         header: 'End Date',
-        cell: ({ getValue }) => getValue() || '-',
+        size: 100,
+        cell: ({ row }) => {
+          const academy = row.original
+          return academy.endDate || '-'
+        },
       }),
-      columnHelper.accessor('Motto', {
+      columnHelper.accessor('motto', {
         header: 'Motto',
-        cell: ({ getValue }) => getValue() || '-',
+        size: 200,
+        cell: ({ row }) => {
+          const academy = row.original
+          const motto = academy.motto || '-'
+          return (
+            <div className="max-w-[200px] truncate" title={motto}>
+              {motto}
+            </div>
+          )
+        },
       }),
       columnHelper.accessor('memberCount', {
         header: 'Members',
-        cell: ({ getValue }) => getValue() || 0,
+        size: 80,
+        cell: ({ row }) => {
+          const academy = row.original
+          return academy.memberCount || 0
+        },
       }),
     ],
     []
@@ -106,7 +148,7 @@ export function Academies() {
         <div>
           <h1 className="text-3xl font-bold text-gray-900">Academies</h1>
           <p className="text-gray-600 mt-2">
-            Browse {academyData?.totalItems.toLocaleString()} Italian academies
+            Browse {searchIndex?.length.toLocaleString()} Italian academies
           </p>
         </div>
       </div>
@@ -133,14 +175,14 @@ export function Academies() {
       {/* Table */}
       <div className="card">
         <div className="overflow-x-auto">
-          <table className="min-w-full divide-y divide-gray-200">
+          <table className="w-full divide-y divide-gray-200 table-fixed">
             <thead className="bg-gray-50">
               {table.getHeaderGroups().map((headerGroup) => (
                 <tr key={headerGroup.id}>
                   {headerGroup.headers.map((header) => (
                     <th
                       key={header.id}
-                      className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
+                      className="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100"
                       onClick={header.column.getToggleSortingHandler()}
                     >
                       <div className="flex items-center gap-2">
@@ -164,7 +206,7 @@ export function Academies() {
               {table.getRowModel().rows.map((row) => (
                 <tr key={row.id} className="hover:bg-gray-50">
                   {row.getVisibleCells().map((cell) => (
-                    <td key={cell.id} className="px-6 py-4 whitespace-nowrap">
+                    <td key={cell.id} className="px-3 py-4 whitespace-nowrap">
                       {flexRender(
                         cell.column.columnDef.cell,
                         cell.getContext()
