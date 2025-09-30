@@ -391,17 +391,7 @@ fs.writeFileSync(
     JSON.stringify(workSearchIndex, null, 2)
 );
 
-// Create a combined search index for global search
-const combinedSearchIndex = [
-    ...academySearchIndex.map(item => ({ ...item, collection: 'academies' })),
-    ...peopleSearchIndex.map(item => ({ ...item, collection: 'people' })),
-    ...workSearchIndex.map(item => ({ ...item, collection: 'works' }))
-];
-
-fs.writeFileSync(
-    path.join(PUBLIC_DIR, 'search/combined.json'),
-    JSON.stringify(combinedSearchIndex, null, 2)
-);
+// Combined search index is no longer needed - individual collection search indices are sufficient
 
 console.log('Search indices created!');
 

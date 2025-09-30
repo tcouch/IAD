@@ -45,7 +45,6 @@ export const API_ENDPOINTS = {
     search: {
         academies: '/search/academies.json',
         people: '/search/people.json',
-        works: '/search/works.json',
-        combined: '/search/combined.json'
+        works: '/search/works.json'
     }
 } 
