@@ -26,17 +26,6 @@ export const getImagePath = (imagePath) => {
 
 // Predefined API endpoints
 export const API_ENDPOINTS = {
-    collections: {
-        index: '/collections/index.json',
-        academies: '/collections/academies.json',
-        people: '/collections/people.json',
-        works: '/collections/works.json'
-    },
-    items: {
-        academies: '/items/academies.json',
-        people: '/items/people.json',
-        works: '/items/works.json'
-    },
     individual: {
         academy: (id) => `/items/academies/${id}.json`,
         person: (id) => `/items/people/${id}.json`,
