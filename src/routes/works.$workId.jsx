@@ -40,6 +40,44 @@ function PersonLinks({ people, title }) {
   )
 }
 
+// Helper function to render academy links
+function AcademyLinks({ academies, showTitle = true }) {
+  if (!academies) return null
+  
+  const academyArray = Array.isArray(academies) 
+    ? academies 
+    : [academies]
+
+  // Filter out any null/undefined items
+  const validAcademies = academyArray.filter(academy => academy && academy.RecordId && academy.Value)
+
+  if (validAcademies.length === 0) return null
+
+  let title = `Academ${validAcademies.length > 1 ? "ies" : "y"}`;
+
+  return (
+    <div>
+      {showTitle && (
+        <h3 className="text-sm font-medium text-gray-500 uppercase tracking-wider mb-2">
+          {title}
+        </h3>
+      )}
+      <div className="space-y-2">
+        {validAcademies.map((academy, index) => (
+          <Link
+            key={academy.RecordId || index}
+            to="/academies/$academyId"
+            params={{ academyId: academy.RecordId }}
+            className="block text-primary-600 hover:text-primary-800"
+          >
+            {academy.Value}
+          </Link>
+        ))}
+      </div>
+    </div>
+  )
+}
+
 // Helper function to render images
 function WorkImages({ work }) {
   const images = []
@@ -142,22 +180,7 @@ export function WorkDetail() {
             )}
 
             <div className="grid md:grid-cols-2 gap-6">
-              <div>
-                <h3 className="text-sm font-medium text-gray-500 uppercase tracking-wider mb-2">
-                  Academy
-                </h3>
-                {work.ItacAcademyItem ? (
-                  <Link
-                    to="/academies/$academyId"
-                    params={{ academyId: work.ItacAcademyItem.RecordId }}
-                    className="text-primary-600 hover:text-primary-800"
-                  >
-                    {work.ItacAcademyItem.Value}
-                  </Link>
-                ) : (
-                  <p className="text-gray-900">-</p>
-                )}
-              </div>
+                  <AcademyLinks academies={work.ItacAcademyItem} />
               
               <div>
                 <h3 className="text-sm font-medium text-gray-500 uppercase tracking-wider mb-2">
@@ -297,15 +320,7 @@ export function WorkDetail() {
           <div className="card">
             <h3 className="text-lg font-semibold text-gray-900 mb-4">Related</h3>
             <div className="space-y-2">
-              {work.ItacAcademyItem && (
-                <Link
-                  to="/academies/$academyId"
-                  params={{ academyId: work.ItacAcademyItem.RecordId }}
-                  className="block text-primary-600 hover:text-primary-800"
-                >
-                  View Academy
-                </Link>
-              )}
+              <AcademyLinks academies={work.ItacAcademyItem} showTitle={false} />
               <Link to="/works" className="block text-primary-600 hover:text-primary-800">
                 Browse All Works
               </Link>
